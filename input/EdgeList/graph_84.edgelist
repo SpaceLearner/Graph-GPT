@@ -1,0 +1,42 @@
+Luigi Carro	C. E. Pedreira	{'relation': 'collaborate'}
+Luigi Carro	Tony Larsson	{'relation': 'collaborate'}
+Luigi Carro	Flávio R. Wagner	{'relation': 'collaborate'}
+Peter Kopacek	C. E. Pedreira	{'relation': 'collaborate'}
+Tony Larsson	C. E. Pedreira	{'relation': 'collaborate'}
+Tony Larsson	Flávio R. Wagner	{'relation': 'collaborate'}
+Tony Larsson	Ivan Müller	{'relation': 'collaborate'}
+C. E. Pedreira	Douglas Schmidt	{'relation': 'collaborate'}
+C. E. Pedreira	Lisane Brisolara	{'relation': 'collaborate'}
+C. E. Pedreira	Franz J. Rammig	{'relation': 'collaborate'}
+C. E. Pedreira	Flávio R. Wagner	{'relation': 'collaborate'}
+C. E. Pedreira	I. C. Teixeira	{'relation': 'collaborate'}
+C. E. Pedreira	Marcio F.  da S. Oliveira	{'relation': 'collaborate'}
+C. E. Pedreira	Paolo Prinetto	{'relation': 'collaborate'}
+C. E. Pedreira	Danúbia B. Espíndola	{'relation': 'collaborate'}
+C. E. Pedreira	A. H. Frigeri	{'relation': 'collaborate'}
+C. E. Pedreira	K. Nilsen	{'relation': 'collaborate'}
+C. E. Pedreira	Octávio P. Dias	{'relation': 'collaborate'}
+C. E. Pedreira	L. Carro	{'relation': 'collaborate'}
+C. E. Pedreira	Bran Selic	{'relation': 'collaborate'}
+C. E. Pedreira	Y. Zorian	{'relation': 'collaborate'}
+C. E. Pedreira	Ivan Müller	{'relation': 'collaborate'}
+C. E. Pedreira	Ricardo J. Machado	{'relation': 'collaborate'}
+Ricardo J. Machado	Flávio R. Wagner	{'relation': 'collaborate'}
+Bran Selic	K. Nilsen	{'relation': 'collaborate'}
+Bran Selic	Douglas Schmidt	{'relation': 'collaborate'}
+K. Nilsen	Douglas Schmidt	{'relation': 'collaborate'}
+Octávio P. Dias	Paolo Prinetto	{'relation': 'collaborate'}
+Octávio P. Dias	Y. Zorian	{'relation': 'collaborate'}
+Octávio P. Dias	I. C. Teixeira	{'relation': 'collaborate'}
+Lisane Brisolara	L. Carro	{'relation': 'collaborate'}
+Lisane Brisolara	Flávio R. Wagner	{'relation': 'collaborate'}
+Lisane Brisolara	Marcio F.  da S. Oliveira	{'relation': 'collaborate'}
+Y. Zorian	Paolo Prinetto	{'relation': 'collaborate'}
+Y. Zorian	I. C. Teixeira	{'relation': 'collaborate'}
+Paolo Prinetto	I. C. Teixeira	{'relation': 'collaborate'}
+L. Carro	Flávio R. Wagner	{'relation': 'collaborate'}
+L. Carro	Marcio F.  da S. Oliveira	{'relation': 'collaborate'}
+L. Carro	Franz J. Rammig	{'relation': 'collaborate'}
+Franz J. Rammig	Flávio R. Wagner	{'relation': 'collaborate'}
+Franz J. Rammig	Marcio F.  da S. Oliveira	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	Flávio R. Wagner	{'relation': 'collaborate'}

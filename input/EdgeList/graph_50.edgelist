@@ -1,0 +1,32 @@
+Susan A. Brown	Helen Kelley	{'relation': 'collaborate'}
+Susan A. Brown	A. Schwarz	{'relation': 'collaborate'}
+Tracey Rizzuto	A. Schwarz	{'relation': 'collaborate'}
+M. Pohst	A. Schwarz	{'relation': 'collaborate'}
+M. Pohst	F. Diaz y Diaz	{'relation': 'collaborate'}
+R. A. Hirschheim	A. Schwarz	{'relation': 'collaborate'}
+R. A. Hirschheim	Richard J. Welke	{'relation': 'collaborate'}
+R. A. Hirschheim	B. Jayatilaka	{'relation': 'collaborate'}
+Ted E. Lee	B. Jayatilaka	{'relation': 'collaborate'}
+M. Babik	B. Jayatilaka	{'relation': 'collaborate'}
+M. Babik	D. Benjamin	{'relation': 'collaborate'}
+M. Babik	S. Cabrera	{'relation': 'collaborate'}
+Iris A. Junglas	A. Schwarz	{'relation': 'collaborate'}
+Iris A. Junglas	Norman A. Johnson	{'relation': 'collaborate'}
+Iris A. Junglas	Wynne W. Chin	{'relation': 'collaborate'}
+Iris A. Junglas	Jill M. Sundie	{'relation': 'collaborate'}
+Ronald T. Cenfetelli	A. Schwarz	{'relation': 'collaborate'}
+D. Benjamin	B. Jayatilaka	{'relation': 'collaborate'}
+D. Benjamin	S. Cabrera	{'relation': 'collaborate'}
+Richard J. Welke	A. Schwarz	{'relation': 'collaborate'}
+B. Jayatilaka	A. Schwarz	{'relation': 'collaborate'}
+B. Jayatilaka	S. Cabrera	{'relation': 'collaborate'}
+B. Jayatilaka	Jinyoul Lee	{'relation': 'collaborate'}
+A. Schwarz	Helen Kelley	{'relation': 'collaborate'}
+A. Schwarz	Jill M. Sundie	{'relation': 'collaborate'}
+A. Schwarz	F. Diaz y Diaz	{'relation': 'collaborate'}
+A. Schwarz	N L Johnson	{'relation': 'collaborate'}
+A. Schwarz	Norman A. Johnson	{'relation': 'collaborate'}
+A. Schwarz	Wynne W. Chin	{'relation': 'collaborate'}
+N L Johnson	Wynne W. Chin	{'relation': 'collaborate'}
+Wynne W. Chin	Norman A. Johnson	{'relation': 'collaborate'}
+Wynne W. Chin	Jill M. Sundie	{'relation': 'collaborate'}

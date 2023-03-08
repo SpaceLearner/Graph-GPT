@@ -1,0 +1,33 @@
+Jiu-Qiang Han	Pengfei Liu	{'relation': 'collaborate'}
+Kejing He	Li Zheng	{'relation': 'collaborate'}
+Kejing He	Ming Tao	{'relation': 'collaborate'}
+Kejing He	Liqun Tang	{'relation': 'collaborate'}
+Kejing He	Shou Bin Dong	{'relation': 'collaborate'}
+Ji Chen	Xinyuan Song	{'relation': 'collaborate'}
+Ji Chen	Pengfei Liu	{'relation': 'collaborate'}
+Jia Chun Li	Shou Bin Dong	{'relation': 'collaborate'}
+Shou Bin Dong	Yicheng Cao	{'relation': 'collaborate'}
+Shou Bin Dong	Liqun Tang	{'relation': 'collaborate'}
+Shou Bin Dong	Pengfei Liu	{'relation': 'collaborate'}
+Shou Bin Dong	Xian-Cheng Xu	{'relation': 'collaborate'}
+Shou Bin Dong	Zhike Mao	{'relation': 'collaborate'}
+Shou Bin Dong	Jialin Li	{'relation': 'collaborate'}
+Shou Bin Dong	Huaqiang Yuan	{'relation': 'collaborate'}
+Shou Bin Dong	Hewei Yu	{'relation': 'collaborate'}
+Shou Bin Dong	Li Zheng	{'relation': 'collaborate'}
+Shou Bin Dong	Ming Tao	{'relation': 'collaborate'}
+Ming Tao	Huaqiang Yuan	{'relation': 'collaborate'}
+Ming Tao	Hewei Yu	{'relation': 'collaborate'}
+Pengfei Liu	Yulin Zhang	{'relation': 'collaborate'}
+Pengfei Liu	Kun Li	{'relation': 'collaborate'}
+Pengfei Liu	Zhike Mao	{'relation': 'collaborate'}
+Pengfei Liu	Yicheng Cao	{'relation': 'collaborate'}
+Pengfei Liu	Yang Xu	{'relation': 'collaborate'}
+Pengfei Liu	Xinyuan Song	{'relation': 'collaborate'}
+Pengfei Liu	Tingting Sun	{'relation': 'collaborate'}
+Yicheng Cao	Zhike Mao	{'relation': 'collaborate'}
+Li Zheng	Liqun Tang	{'relation': 'collaborate'}
+Tingting Sun	Yulin Zhang	{'relation': 'collaborate'}
+Tingting Sun	Yang Xu	{'relation': 'collaborate'}
+Hewei Yu	Huaqiang Yuan	{'relation': 'collaborate'}
+Yulin Zhang	Yang Xu	{'relation': 'collaborate'}

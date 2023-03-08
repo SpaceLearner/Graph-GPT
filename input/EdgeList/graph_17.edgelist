@@ -1,0 +1,54 @@
+Qin Yan	P. R. White	{'relation': 'collaborate'}
+Qin Yan	Esfandiar Zavarehei	{'relation': 'collaborate'}
+Qin Yan	S. V. Vaseghi	{'relation': 'collaborate'}
+Qin Yan	B. Milner	{'relation': 'collaborate'}
+Qin Yan	Ioannis Andrianakis	{'relation': 'collaborate'}
+Ioannis Andrianakis	S. V. Vaseghi	{'relation': 'collaborate'}
+Ioannis Andrianakis	B. Milner	{'relation': 'collaborate'}
+Ioannis Andrianakis	Esfandiar Zavarehei	{'relation': 'collaborate'}
+Ioannis Andrianakis	P. R. White	{'relation': 'collaborate'}
+Y. Kohama	A. De Stefano	{'relation': 'collaborate'}
+Y. Kohama	T. Aoki	{'relation': 'collaborate'}
+Ru-Gang Xu	M. Weston	{'relation': 'collaborate'}
+Ru-Gang Xu	James H. Andrews	{'relation': 'collaborate'}
+Ru-Gang Xu	Alex Groce	{'relation': 'collaborate'}
+K. Scott Hemmert	Jonathan E. Cook	{'relation': 'collaborate'}
+K. Scott Hemmert	C. Kersey	{'relation': 'collaborate'}
+K. Scott Hemmert	Brian Barrett	{'relation': 'collaborate'}
+K. Scott Hemmert	M. Weston	{'relation': 'collaborate'}
+K. Scott Hemmert	Arun Rodrigues	{'relation': 'collaborate'}
+K. Scott Hemmert	Ron Oldfield	{'relation': 'collaborate'}
+K. Scott Hemmert	Bruce L. Jacob	{'relation': 'collaborate'}
+Brian Barrett	Ron Oldfield	{'relation': 'collaborate'}
+Brian Barrett	M. Weston	{'relation': 'collaborate'}
+Brian Barrett	Jonathan E. Cook	{'relation': 'collaborate'}
+Brian Barrett	C. Kersey	{'relation': 'collaborate'}
+Brian Barrett	Arun Rodrigues	{'relation': 'collaborate'}
+Brian Barrett	Bruce L. Jacob	{'relation': 'collaborate'}
+P. R. White	M. Weston	{'relation': 'collaborate'}
+P. R. White	A. De Stefano	{'relation': 'collaborate'}
+P. R. White	Esfandiar Zavarehei	{'relation': 'collaborate'}
+P. R. White	B. Milner	{'relation': 'collaborate'}
+P. R. White	S. V. Vaseghi	{'relation': 'collaborate'}
+B. Milner	S. V. Vaseghi	{'relation': 'collaborate'}
+B. Milner	Esfandiar Zavarehei	{'relation': 'collaborate'}
+S. V. Vaseghi	Esfandiar Zavarehei	{'relation': 'collaborate'}
+James H. Andrews	Alex Groce	{'relation': 'collaborate'}
+James H. Andrews	M. Weston	{'relation': 'collaborate'}
+A. De Stefano	T. Aoki	{'relation': 'collaborate'}
+Jonathan E. Cook	M. Weston	{'relation': 'collaborate'}
+Jonathan E. Cook	Arun Rodrigues	{'relation': 'collaborate'}
+Jonathan E. Cook	Bruce L. Jacob	{'relation': 'collaborate'}
+Jonathan E. Cook	C. Kersey	{'relation': 'collaborate'}
+Jonathan E. Cook	Ron Oldfield	{'relation': 'collaborate'}
+C. Kersey	M. Weston	{'relation': 'collaborate'}
+C. Kersey	Arun Rodrigues	{'relation': 'collaborate'}
+C. Kersey	Ron Oldfield	{'relation': 'collaborate'}
+C. Kersey	Bruce L. Jacob	{'relation': 'collaborate'}
+M. Weston	Bruce L. Jacob	{'relation': 'collaborate'}
+M. Weston	Ron Oldfield	{'relation': 'collaborate'}
+M. Weston	Arun Rodrigues	{'relation': 'collaborate'}
+M. Weston	Alex Groce	{'relation': 'collaborate'}
+Arun Rodrigues	Ron Oldfield	{'relation': 'collaborate'}
+Arun Rodrigues	Bruce L. Jacob	{'relation': 'collaborate'}
+Bruce L. Jacob	Ron Oldfield	{'relation': 'collaborate'}

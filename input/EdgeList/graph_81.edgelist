@@ -1,0 +1,47 @@
+S. K. Tsasakou	Michael K. Birbas	{'relation': 'collaborate'}
+S. K. Tsasakou	E. P. Mariatos	{'relation': 'collaborate'}
+S. K. Tsasakou	N. S Voros	{'relation': 'collaborate'}
+G. Anagnostopoulos	Costas E. Goutis	{'relation': 'collaborate'}
+K. Masselos	Costas E. Goutis	{'relation': 'collaborate'}
+K. Masselos	Dimitrios J. Soudris	{'relation': 'collaborate'}
+K. Masselos	P. Merakos	{'relation': 'collaborate'}
+K. Masselos	D. E. Metafas	{'relation': 'collaborate'}
+K. Masselos	J. Cornelis	{'relation': 'collaborate'}
+K. Masselos	N. S Voros	{'relation': 'collaborate'}
+F. Plessas	Michael K. Birbas	{'relation': 'collaborate'}
+F. Plessas	Grigorios Kalivas	{'relation': 'collaborate'}
+N. S Voros	Dimitrios J. Soudris	{'relation': 'collaborate'}
+N. S Voros	Michael K. Birbas	{'relation': 'collaborate'}
+N. S Voros	E. P. Mariatos	{'relation': 'collaborate'}
+Dimitrios J. Soudris	Michael K. Birbas	{'relation': 'collaborate'}
+Dimitrios J. Soudris	S. S. Nikolaidis	{'relation': 'collaborate'}
+Dimitrios J. Soudris	Costas E. Goutis	{'relation': 'collaborate'}
+Dimitrios J. Soudris	A. Milidonis	{'relation': 'collaborate'}
+S. S. Nikolaidis	E. P. Mariatos	{'relation': 'collaborate'}
+S. S. Nikolaidis	D. E. Metafas	{'relation': 'collaborate'}
+S. S. Nikolaidis	Costas E. Goutis	{'relation': 'collaborate'}
+S. S. Nikolaidis	G.-P. Economou	{'relation': 'collaborate'}
+G. D. Papadopoulos	E. P. Mariatos	{'relation': 'collaborate'}
+G. D. Papadopoulos	Michael K. Birbas	{'relation': 'collaborate'}
+G. D. Papadopoulos	N. C. Petrellis	{'relation': 'collaborate'}
+Grigorios Kalivas	Michael K. Birbas	{'relation': 'collaborate'}
+N. C. Petrellis	Michael K. Birbas	{'relation': 'collaborate'}
+N. C. Petrellis	E. P. Mariatos	{'relation': 'collaborate'}
+N. C. Petrellis	V. Mariatos	{'relation': 'collaborate'}
+N. C. Petrellis	Spyrogiannis Batistatos	{'relation': 'collaborate'}
+J. Cornelis	Costas E. Goutis	{'relation': 'collaborate'}
+Costas E. Goutis	E. P. Mariatos	{'relation': 'collaborate'}
+Costas E. Goutis	Michael K. Birbas	{'relation': 'collaborate'}
+Costas E. Goutis	A. Milidonis	{'relation': 'collaborate'}
+Costas E. Goutis	D. E. Metafas	{'relation': 'collaborate'}
+Costas E. Goutis	P. Merakos	{'relation': 'collaborate'}
+Costas E. Goutis	G.-P. Economou	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	Michael K. Birbas	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	V. Mariatos	{'relation': 'collaborate'}
+Michael K. Birbas	E. P. Mariatos	{'relation': 'collaborate'}
+Michael K. Birbas	V. Mariatos	{'relation': 'collaborate'}
+Michael K. Birbas	P. Merakos	{'relation': 'collaborate'}
+G.-P. Economou	E. P. Mariatos	{'relation': 'collaborate'}
+G.-P. Economou	D. E. Metafas	{'relation': 'collaborate'}
+D. E. Metafas	E. P. Mariatos	{'relation': 'collaborate'}
+P. Merakos	E. P. Mariatos	{'relation': 'collaborate'}

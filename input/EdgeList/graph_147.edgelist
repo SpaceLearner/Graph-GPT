@@ -1,0 +1,35 @@
+David J. Mostow	Philip Klahr	{'relation': 'collaborate'}
+David J. Mostow	Frederick Hayes-Roth	{'relation': 'collaborate'}
+Robert E. Veres	Philip Klahr	{'relation': 'collaborate'}
+Robert E. Veres	Philip C. Jackson	{'relation': 'collaborate'}
+Philip C. Jackson	Philip Klahr	{'relation': 'collaborate'}
+A. Carlisle Scott	Philip Klahr	{'relation': 'collaborate'}
+A. Carlisle Scott	L. D. Erman	{'relation': 'collaborate'}
+Larry Travis	Charles Kellogg	{'relation': 'collaborate'}
+Larry Travis	Philip Klahr	{'relation': 'collaborate'}
+David J. McArthur	Sanjai Narian	{'relation': 'collaborate'}
+David J. McArthur	Philip Klahr	{'relation': 'collaborate'}
+Philip Klahr	Frederick Hayes-Roth	{'relation': 'collaborate'}
+Philip Klahr	John W. Ellis	{'relation': 'collaborate'}
+Philip Klahr	Antoine Abche	{'relation': 'collaborate'}
+Philip Klahr	Sanjai Narian	{'relation': 'collaborate'}
+Philip Klahr	Charles Kellogg	{'relation': 'collaborate'}
+Philip Klahr	Douglas B. Lenat	{'relation': 'collaborate'}
+Philip Klahr	S J Rosenschein	{'relation': 'collaborate'}
+Philip Klahr	William S. Faught	{'relation': 'collaborate'}
+Philip Klahr	Donald A. Waterman	{'relation': 'collaborate'}
+Philip Klahr	Bhashyam Ramesh	{'relation': 'collaborate'}
+L. D. Erman	Frederick Hayes-Roth	{'relation': 'collaborate'}
+L. D. Erman	D. Raj Reddy	{'relation': 'collaborate'}
+L. D. Erman	J. Davidson	{'relation': 'collaborate'}
+John W. Ellis	Sanjai Narian	{'relation': 'collaborate'}
+D. Raj Reddy	Frederick Hayes-Roth	{'relation': 'collaborate'}
+S J Rosenschein	William S. Faught	{'relation': 'collaborate'}
+S J Rosenschein	Donald A. Waterman	{'relation': 'collaborate'}
+S J Rosenschein	Frederick Hayes-Roth	{'relation': 'collaborate'}
+Donald A. Waterman	William S. Faught	{'relation': 'collaborate'}
+Donald A. Waterman	Frederick Hayes-Roth	{'relation': 'collaborate'}
+Donald A. Waterman	Douglas B. Lenat	{'relation': 'collaborate'}
+Frederick Hayes-Roth	J. Davidson	{'relation': 'collaborate'}
+Frederick Hayes-Roth	Douglas B. Lenat	{'relation': 'collaborate'}
+Antoine Abche	Bhashyam Ramesh	{'relation': 'collaborate'}

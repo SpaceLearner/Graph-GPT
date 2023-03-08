@@ -1,0 +1,34 @@
+Giorgio Leuzzi	Giuseppe Ferri	{'relation': 'collaborate'}
+Giorgio Leuzzi	Antonio Serino	{'relation': 'collaborate'}
+Giorgio Leuzzi	Franco Giannini	{'relation': 'collaborate'}
+Giorgio Leuzzi	Dominique Schreurs	{'relation': 'collaborate'}
+Antonio Serino	Franco Giannini	{'relation': 'collaborate'}
+Antonio Serino	Dominique Schreurs	{'relation': 'collaborate'}
+Renato Menicocci	Alessandro Trifiletti	{'relation': 'collaborate'}
+Renato Menicocci	Giuseppe Scotti	{'relation': 'collaborate'}
+G. Ricotti	M. Faccio	{'relation': 'collaborate'}
+G. Ricotti	Giuseppe Ferri	{'relation': 'collaborate'}
+G. Ricotti	D. Rossi	{'relation': 'collaborate'}
+F. Santucci	Maurizio Colizza	{'relation': 'collaborate'}
+F. Santucci	M. Faccio	{'relation': 'collaborate'}
+W. Sansen	Giuseppe Ferri	{'relation': 'collaborate'}
+Giuseppe Scotti	M. Bucci	{'relation': 'collaborate'}
+Giuseppe Scotti	A. D. Grasso	{'relation': 'collaborate'}
+Giuseppe Scotti	Giuseppe Ferri	{'relation': 'collaborate'}
+Giuseppe Scotti	Francesco Centurelli	{'relation': 'collaborate'}
+Giuseppe Scotti	Alessandro Trifiletti	{'relation': 'collaborate'}
+Giuseppe Scotti	Massimo Alioto	{'relation': 'collaborate'}
+Giuseppe Scotti	S. Pennisi	{'relation': 'collaborate'}
+M. Faccio	Giuseppe Ferri	{'relation': 'collaborate'}
+M. Faccio	Maurizio Colizza	{'relation': 'collaborate'}
+M. Faccio	G. Ciccarella	{'relation': 'collaborate'}
+M. Faccio	D. Rossi	{'relation': 'collaborate'}
+Francesco Centurelli	Giuseppe Ferri	{'relation': 'collaborate'}
+Francesco Centurelli	S. Pennisi	{'relation': 'collaborate'}
+Francesco Centurelli	Alessandro Trifiletti	{'relation': 'collaborate'}
+Massimo Alioto	Alessandro Trifiletti	{'relation': 'collaborate'}
+S. Pennisi	Alessandro Trifiletti	{'relation': 'collaborate'}
+S. Pennisi	A. D. Grasso	{'relation': 'collaborate'}
+D. Rossi	Giuseppe Ferri	{'relation': 'collaborate'}
+A. D. Grasso	Alessandro Trifiletti	{'relation': 'collaborate'}
+Alessandro Trifiletti	Giuseppe Ferri	{'relation': 'collaborate'}

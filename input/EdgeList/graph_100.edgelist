@@ -1,0 +1,31 @@
+Li Yan	Xu Yan	{'relation': 'collaborate'}
+Li Yan	Zhang Wei	{'relation': 'collaborate'}
+Li Yan	Li Yan	{'relation': 'collaborate'}
+Sheng Li	Yuelin Wang	{'relation': 'collaborate'}
+Sheng Li	Xu Yan	{'relation': 'collaborate'}
+Sheng Li	Fei Feng	{'relation': 'collaborate'}
+Fei Feng	Xu Yan	{'relation': 'collaborate'}
+Fei Feng	Yuelin Wang	{'relation': 'collaborate'}
+Hui Wang	Xu Yan	{'relation': 'collaborate'}
+Fuhai Li	Xu Yan	{'relation': 'collaborate'}
+Fuhai Li	Guilin Wen	{'relation': 'collaborate'}
+Guilin Wen	Xu Yan	{'relation': 'collaborate'}
+Hui Zheng	Guang Yang	{'relation': 'collaborate'}
+Hui Zheng	Xu Yan	{'relation': 'collaborate'}
+Dong Xinfa	Xu Yan	{'relation': 'collaborate'}
+Dong Xinfa	Zhang Wei	{'relation': 'collaborate'}
+Xu Yan	Zhang Wei	{'relation': 'collaborate'}
+Xu Yan	Wang Qi	{'relation': 'collaborate'}
+Xu Yan	Liu Hongfei	{'relation': 'collaborate'}
+Xu Yan	Shishir K. Shah	{'relation': 'collaborate'}
+Xu Yan	Xu Hongguo	{'relation': 'collaborate'}
+Xu Yan	Yuelin Wang	{'relation': 'collaborate'}
+Xu Yan	Guang Yang	{'relation': 'collaborate'}
+Xu Yan	D. Pitt	{'relation': 'collaborate'}
+Xu Yan	Bai Yan	{'relation': 'collaborate'}
+Xu Yan	Ioannis A. Kakadiaris	{'relation': 'collaborate'}
+Xu Yan	N. Levine	{'relation': 'collaborate'}
+Shishir K. Shah	Ioannis A. Kakadiaris	{'relation': 'collaborate'}
+Zhang Wei	Zhang Wei	{'relation': 'collaborate'}
+N. Levine	D. Pitt	{'relation': 'collaborate'}
+Liu Hongfei	Xu Hongguo	{'relation': 'collaborate'}

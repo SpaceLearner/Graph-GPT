@@ -1,0 +1,32 @@
+James H. Morris	Ben Wegbreit	{'relation': 'collaborate'}
+Greg Hager	Ben Wegbreit	{'relation': 'collaborate'}
+Sebastian B. Thrun	Michael Montemerlo	{'relation': 'collaborate'}
+Sebastian B. Thrun	Daphne Koller	{'relation': 'collaborate'}
+Sebastian B. Thrun	Ben Wegbreit	{'relation': 'collaborate'}
+Sebastian B. Thrun	Daphne Roller	{'relation': 'collaborate'}
+Charles J. Prenner	Jay M. Spitzen	{'relation': 'collaborate'}
+Charles J. Prenner	Ben Wegbreit	{'relation': 'collaborate'}
+M. P. Mullen	S. M. German	{'relation': 'collaborate'}
+M. P. Mullen	D. G. Bair	{'relation': 'collaborate'}
+Daphne Koller	Joseph Y. Halpern	{'relation': 'collaborate'}
+Daphne Koller	Michael Montemerlo	{'relation': 'collaborate'}
+Daphne Koller	Ben Wegbreit	{'relation': 'collaborate'}
+Sheila A. Greibach	Ronald V. Book	{'relation': 'collaborate'}
+Sheila A. Greibach	Ben Wegbreit	{'relation': 'collaborate'}
+Sheila A. Greibach	Oscar H. Ibarra	{'relation': 'collaborate'}
+D. G. Bair	S. M. German	{'relation': 'collaborate'}
+Oscar H. Ibarra	Ronald V. Book	{'relation': 'collaborate'}
+Oscar H. Ibarra	Ben Wegbreit	{'relation': 'collaborate'}
+Yuan Lu	S. M. German	{'relation': 'collaborate'}
+J. Mitchell	Ben Wegbreit	{'relation': 'collaborate'}
+Daphne Roller	Ben Wegbreit	{'relation': 'collaborate'}
+Daphne Roller	Joseph Y. Halpern	{'relation': 'collaborate'}
+Daphne Roller	Michael Montemerlo	{'relation': 'collaborate'}
+Ben Wegbreit	S. M. German	{'relation': 'collaborate'}
+Ben Wegbreit	Tom Cheatham	{'relation': 'collaborate'}
+Ben Wegbreit	Daniel G. Bobrow	{'relation': 'collaborate'}
+Ben Wegbreit	Ronald V. Book	{'relation': 'collaborate'}
+Ben Wegbreit	Jay M. Spitzen	{'relation': 'collaborate'}
+Ben Wegbreit	Michael Montemerlo	{'relation': 'collaborate'}
+Tom Cheatham	Daniel G. Bobrow	{'relation': 'collaborate'}
+Joseph Y. Halpern	S. M. German	{'relation': 'collaborate'}

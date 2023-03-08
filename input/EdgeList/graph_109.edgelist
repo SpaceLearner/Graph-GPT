@@ -1,0 +1,44 @@
+A. Rabinovitch	M. Friedman	{'relation': 'collaborate'}
+Jyh-Shyan Lin	M. Friedman	{'relation': 'collaborate'}
+Michael Margaliot	Gideon Langholz	{'relation': 'collaborate'}
+Bracha Shapira	Moti Schneider	{'relation': 'collaborate'}
+Bracha Shapira	Yuval Elovici	{'relation': 'collaborate'}
+Bracha Shapira	Abraham Kandel	{'relation': 'collaborate'}
+Bracha Shapira	M. Friedman	{'relation': 'collaborate'}
+Bracha Shapira	Mark Last	{'relation': 'collaborate'}
+Eran Ferri	Gideon Langholz	{'relation': 'collaborate'}
+R. Milo	A Kandel	{'relation': 'collaborate'}
+R. Milo	M. Friedman	{'relation': 'collaborate'}
+Yuval Elovici	Abraham Kandel	{'relation': 'collaborate'}
+Yuval Elovici	M. Friedman	{'relation': 'collaborate'}
+Yuval Elovici	Mark Last	{'relation': 'collaborate'}
+Yuval Elovici	Moti Schneider	{'relation': 'collaborate'}
+Abraham Kandel	Moti Schneider	{'relation': 'collaborate'}
+Abraham Kandel	Joan Francioni	{'relation': 'collaborate'}
+Abraham Kandel	H.-N. L. Teodorescu	{'relation': 'collaborate'}
+Abraham Kandel	Ming Ma	{'relation': 'collaborate'}
+Abraham Kandel	Mark Last	{'relation': 'collaborate'}
+Abraham Kandel	Gideon Langholz	{'relation': 'collaborate'}
+Abraham Kandel	Chlotia Posey	{'relation': 'collaborate'}
+Abraham Kandel	M. Friedman	{'relation': 'collaborate'}
+Abraham Kandel	Yan-Qing Zhang	{'relation': 'collaborate'}
+Abraham Kandel	A. P. Rotshtein	{'relation': 'collaborate'}
+M. Friedman	Ming Ma	{'relation': 'collaborate'}
+M. Friedman	Moti Schneider	{'relation': 'collaborate'}
+M. Friedman	D. B. Skalak	{'relation': 'collaborate'}
+M. Friedman	A Kandel	{'relation': 'collaborate'}
+M. Friedman	Gideon Langholz	{'relation': 'collaborate'}
+M. Friedman	Mark Last	{'relation': 'collaborate'}
+Ming Ma	A Kandel	{'relation': 'collaborate'}
+Ming Ma	Yan-Qing Zhang	{'relation': 'collaborate'}
+Ming Ma	Gideon Langholz	{'relation': 'collaborate'}
+Joan Francioni	A Kandel	{'relation': 'collaborate'}
+Joan Francioni	Gideon Langholz	{'relation': 'collaborate'}
+Mark Last	Moti Schneider	{'relation': 'collaborate'}
+Mark Last	A Kandel	{'relation': 'collaborate'}
+Moti Schneider	Gideon Langholz	{'relation': 'collaborate'}
+Moti Schneider	A. P. Rotshtein	{'relation': 'collaborate'}
+Moti Schneider	H.-N. L. Teodorescu	{'relation': 'collaborate'}
+Gideon Langholz	Chlotia Posey	{'relation': 'collaborate'}
+Gideon Langholz	A Kandel	{'relation': 'collaborate'}
+Gideon Langholz	Yan-Qing Zhang	{'relation': 'collaborate'}

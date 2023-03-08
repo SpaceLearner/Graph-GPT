@@ -1,0 +1,36 @@
+Zhenhai Shao	G. W. Wei	{'relation': 'collaborate'}
+Zhenhai Shao	Shan Zhao	{'relation': 'collaborate'}
+Lin Mu	G. W. Wei	{'relation': 'collaborate'}
+Lin Mu	M. G. Milanova	{'relation': 'collaborate'}
+Lin Mu	Xiu Ye	{'relation': 'collaborate'}
+Lin Mu	Jiangguo Liu	{'relation': 'collaborate'}
+Lin Mu	Junping Wang	{'relation': 'collaborate'}
+Lin Mu	Yuan Peng	{'relation': 'collaborate'}
+Lin Mu	Shan Zhao	{'relation': 'collaborate'}
+Lin Mu	Yanqiu Wang	{'relation': 'collaborate'}
+Lin Mu	Lin Mu	{'relation': 'collaborate'}
+Lin Mu	Qiuying Zheng	{'relation': 'collaborate'}
+Xiu Ye	G. W. Wei	{'relation': 'collaborate'}
+Xiu Ye	Junping Wang	{'relation': 'collaborate'}
+Xiu Ye	Yanqiu Wang	{'relation': 'collaborate'}
+Xiu Ye	Jiangguo Liu	{'relation': 'collaborate'}
+Xiu Ye	Shan Zhao	{'relation': 'collaborate'}
+G. W. Wei	B. Patnaik	{'relation': 'collaborate'}
+G. W. Wei	Meng Zhan	{'relation': 'collaborate'}
+G. W. Wei	Weizhu Bao	{'relation': 'collaborate'}
+G. W. Wei	N. A. Baker	{'relation': 'collaborate'}
+G. W. Wei	Yang Wang	{'relation': 'collaborate'}
+G. W. Wei	Y. C. Zhou	{'relation': 'collaborate'}
+G. W. Wei	Junping Wang	{'relation': 'collaborate'}
+G. W. Wei	Shan Zhao	{'relation': 'collaborate'}
+G. W. Wei	Decheng Wan	{'relation': 'collaborate'}
+G. W. Wei	Donald J. Kouri	{'relation': 'collaborate'}
+G. W. Wei	Weihong Guo	{'relation': 'collaborate'}
+Yanqiu Wang	Junping Wang	{'relation': 'collaborate'}
+Jiangguo Liu	Y. C. Zhou	{'relation': 'collaborate'}
+Y. C. Zhou	Shan Zhao	{'relation': 'collaborate'}
+Yang Wang	Shan Zhao	{'relation': 'collaborate'}
+Yang Wang	Weihong Guo	{'relation': 'collaborate'}
+Weihong Guo	Shan Zhao	{'relation': 'collaborate'}
+Junping Wang	Shan Zhao	{'relation': 'collaborate'}
+Meng Zhan	Decheng Wan	{'relation': 'collaborate'}

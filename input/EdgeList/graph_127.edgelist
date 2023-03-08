@@ -1,0 +1,31 @@
+G. Zhang	L. D. Fink	{'relation': 'collaborate'}
+G. Zhang	T. Yu	{'relation': 'collaborate'}
+G. Zhang	Mark Yeary	{'relation': 'collaborate'}
+G. Zhang	C. Weiss	{'relation': 'collaborate'}
+T. Yu	Z. Tang	{'relation': 'collaborate'}
+T. Yu	B. Zhang	{'relation': 'collaborate'}
+T. Yu	Daesik Hong	{'relation': 'collaborate'}
+T. Yu	R. Nevatia	{'relation': 'collaborate'}
+T. Yu	Nils Krahnstoever	{'relation': 'collaborate'}
+T. Yu	Q. D. Yang	{'relation': 'collaborate'}
+T. Yu	Kwei-Jay Lin	{'relation': 'collaborate'}
+T. Yu	Dennis Chen	{'relation': 'collaborate'}
+T. Yu	Peter Tu	{'relation': 'collaborate'}
+T. Yu	Reiner Hegerl	{'relation': 'collaborate'}
+T. Yu	G. Doretto	{'relation': 'collaborate'}
+T. Yu	C. Greco	{'relation': 'collaborate'}
+T. Yu	C. Weiss	{'relation': 'collaborate'}
+T. Yu	Xingfa Gu	{'relation': 'collaborate'}
+T. Yu	L. D. Fink	{'relation': 'collaborate'}
+T. Yu	Mark Yeary	{'relation': 'collaborate'}
+C. Greco	Nils Krahnstoever	{'relation': 'collaborate'}
+C. Greco	G. Doretto	{'relation': 'collaborate'}
+L. D. Fink	C. Weiss	{'relation': 'collaborate'}
+L. D. Fink	Mark Yeary	{'relation': 'collaborate'}
+G. Doretto	Nils Krahnstoever	{'relation': 'collaborate'}
+C. Weiss	T. Stockhammer	{'relation': 'collaborate'}
+C. Weiss	Mark Yeary	{'relation': 'collaborate'}
+C. Weiss	Hrvoje Jenkač	{'relation': 'collaborate'}
+R. Nevatia	Peter Tu	{'relation': 'collaborate'}
+Peter Tu	Nils Krahnstoever	{'relation': 'collaborate'}
+T. Stockhammer	Hrvoje Jenkač	{'relation': 'collaborate'}

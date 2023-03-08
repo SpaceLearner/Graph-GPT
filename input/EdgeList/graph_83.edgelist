@@ -1,0 +1,43 @@
+Montek Singh	Vishal Gupta	{'relation': 'collaborate'}
+Montek Singh	Gennette Gill	{'relation': 'collaborate'}
+Gennette Gill	Vishal Gupta	{'relation': 'collaborate'}
+Karsten Schwan	Paul Brett	{'relation': 'collaborate'}
+Karsten Schwan	D. A. Koufaty	{'relation': 'collaborate'}
+Karsten Schwan	Ganapati Srinivasa	{'relation': 'collaborate'}
+Karsten Schwan	Dheeraj Reddy	{'relation': 'collaborate'}
+Karsten Schwan	Min Lee	{'relation': 'collaborate'}
+Karsten Schwan	Vishal Gupta	{'relation': 'collaborate'}
+Karsten Schwan	Scott Hahn	{'relation': 'collaborate'}
+Karsten Schwan	Ripal Nathuji	{'relation': 'collaborate'}
+Vishal Gupta	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
+Vishal Gupta	Scott Hahn	{'relation': 'collaborate'}
+Vishal Gupta	Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
+Vishal Gupta	Paul Brett	{'relation': 'collaborate'}
+Vishal Gupta	Pulkit Parikh	{'relation': 'collaborate'}
+Vishal Gupta	Gopal Datt Joshi	{'relation': 'collaborate'}
+Vishal Gupta	K. Najeeb	{'relation': 'collaborate'}
+Vishal Gupta	Dheeraj Reddy	{'relation': 'collaborate'}
+Vishal Gupta	S. C. Sharma	{'relation': 'collaborate'}
+Vishal Gupta	Min Lee	{'relation': 'collaborate'}
+Vishal Gupta	D. A. Koufaty	{'relation': 'collaborate'}
+Vishal Gupta	V. Kamakoti	{'relation': 'collaborate'}
+Vishal Gupta	D. Bertsimas	{'relation': 'collaborate'}
+Vishal Gupta	Ganapati Srinivasa	{'relation': 'collaborate'}
+Vishal Gupta	Ripal Nathuji	{'relation': 'collaborate'}
+Vishal Gupta	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Dheeraj Reddy	Ganapati Srinivasa	{'relation': 'collaborate'}
+Dheeraj Reddy	Scott Hahn	{'relation': 'collaborate'}
+Dheeraj Reddy	Paul Brett	{'relation': 'collaborate'}
+Dheeraj Reddy	D. A. Koufaty	{'relation': 'collaborate'}
+D. A. Koufaty	Ganapati Srinivasa	{'relation': 'collaborate'}
+D. A. Koufaty	Scott Hahn	{'relation': 'collaborate'}
+D. A. Koufaty	Paul Brett	{'relation': 'collaborate'}
+Paul Brett	Scott Hahn	{'relation': 'collaborate'}
+Paul Brett	Ganapati Srinivasa	{'relation': 'collaborate'}
+Gopal Datt Joshi	Pulkit Parikh	{'relation': 'collaborate'}
+Gopal Datt Joshi	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Scott Hahn	Ganapati Srinivasa	{'relation': 'collaborate'}
+K. Najeeb	V. Kamakoti	{'relation': 'collaborate'}
+D. Bertsimas	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
+Pulkit Parikh	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Ripal Nathuji	Min Lee	{'relation': 'collaborate'}

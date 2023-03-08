@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zhigang Wang">
+      <data key="affiliation">Shanghai Jiao Tong University, Shanghai, China</data>
+      <data key="research">virtual machine, virtualized cluster system, hybrid scheduling framework</data>
+    </node>
+    <node id="Yaping Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">double-enveloping toroidal worm drive, DTT worm drive, height-modified DTT worm drive</data>
+    </node>
+    <node id="Yuelin Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">QRD-RLS Algorithm, Digital Predistortion, complex QRD-RLS algorithm</data>
+    </node>
+    <node id="Yong Zeng">
+      <data key="affiliation">Nan</data>
+      <data key="research">China stock market, Tail Index, tail index estimator</data>
+    </node>
+    <node id="Hegen Xiong">
+      <data key="affiliation">Nan</data>
+      <data key="research">coke oven, Coke oven HeatingThe control, coke oven heating control</data>
+    </node>
+    <node id="Yourong Li">
+      <data key="affiliation">Key Laboratory of Metallurgical Equipment &amp; Control Technology, Ministry of Education, Wuhan University of Science and Technology, Wuhan, China</data>
+      <data key="research">refractory material, damage mode, damage pattern recognition</data>
+    </node>
+    <node id="Xi Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">ranking consistency, spatial verification, experimental result</data>
+    </node>
+    <node id="Jintang Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">ANSYS SoftwareHeating, numerical simulation method, quenching result</data>
+    </node>
+    <node id="Changming Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">dynamic routing scheme, hierarchical routing model, effective topology</data>
+    </node>
+    <node id="Gongfa Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">ANSYS SoftwareHeating, numerical simulation method, quenching result</data>
+    </node>
+    <node id="Yu Hou">
+      <data key="affiliation">Nan</data>
+      <data key="research">backlight illumination, contrast distortion, Backlit TFT-LCD Display</data>
+    </node>
+    <node id="Juanzi Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Semantic Web, semantic web mining, semantic web search</data>
+    </node>
+    <node id="Ying Wan">
+      <data key="affiliation">Nan</data>
+      <data key="research">New Efficient Algorithm, community structure, excellent community partition result</data>
+    </node>
+    <node id="Gangbing Song">
+      <data key="affiliation">Department of Mechanical Engineering, University of Houston, Houston, TX</data>
+      <data key="research">carbon nanofiber paper, Fisher discriminant, self-tuning control</data>
+    </node>
+    <node id="Jianyi Kong">
+      <data key="affiliation">Nan</data>
+      <data key="research">double-enveloping toroidal worm drive, DTT worm drive, corrected hourglass worm pair</data>
+    </node>
+    <edge source="Zhigang Wang" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Yong Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Juanzi Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Ying Wan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Changming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Yourong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Xi Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhigang Wang" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaping Zhao" target="Gongfa Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaping Zhao" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuelin Chen" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hegen Xiong" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hegen Xiong" target="Jintang Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hegen Xiong" target="Gongfa Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yourong Li" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yourong Li" target="Changming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yourong Li" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yourong Li" target="Xi Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xi Li" target="Changming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xi Li" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xi Li" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jintang Yang" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jintang Yang" target="Gongfa Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changming Liu" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changming Liu" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gongfa Li" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Hou" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gangbing Song" target="Jianyi Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

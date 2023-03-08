@@ -1,0 +1,45 @@
+Yang Li	Zihou Wang	{'relation': 'collaborate'}
+Yang Li	Hui Tang	{'relation': 'collaborate'}
+Yang Li	Wenjia Niu	{'relation': 'collaborate'}
+Yang Li	Tao Lin	{'relation': 'collaborate'}
+Yang Li	Song Ci	{'relation': 'collaborate'}
+Yang Li	Yanni Han	{'relation': 'collaborate'}
+Tao Guo	Hui Tang	{'relation': 'collaborate'}
+Ling Bai	Hui Tang	{'relation': 'collaborate'}
+Zihou Wang	Hui Tang	{'relation': 'collaborate'}
+Zihou Wang	Yanni Han	{'relation': 'collaborate'}
+Zihou Wang	Tao Lin	{'relation': 'collaborate'}
+Zihou Wang	Song Ci	{'relation': 'collaborate'}
+Zihou Wang	Wenjia Niu	{'relation': 'collaborate'}
+Hancong Duan	Hui Tang	{'relation': 'collaborate'}
+Yanni Han	Hui Tang	{'relation': 'collaborate'}
+Yanni Han	Wenjia Niu	{'relation': 'collaborate'}
+Yanni Han	Tao Lin	{'relation': 'collaborate'}
+Yanni Han	Song Ci	{'relation': 'collaborate'}
+Jinxia Liu	Hui Tang	{'relation': 'collaborate'}
+Jinxia Liu	Song Ci	{'relation': 'collaborate'}
+Wenjia Niu	Ding Tang	{'relation': 'collaborate'}
+Wenjia Niu	Hui Tang	{'relation': 'collaborate'}
+Wenjia Niu	Tao Lin	{'relation': 'collaborate'}
+Wenjia Niu	Song Ci	{'relation': 'collaborate'}
+Wenjia Niu	Gang Li	{'relation': 'collaborate'}
+Wenjia Niu	Z. Q. Shi	{'relation': 'collaborate'}
+Wiro J. Niessen	Hui Tang	{'relation': 'collaborate'}
+Wiro J. Niessen	Michiel Schaap	{'relation': 'collaborate'}
+Bin Tang	Hui Tang	{'relation': 'collaborate'}
+Guan-Ming Su	Hui Tang	{'relation': 'collaborate'}
+Guan-Ming Su	Song Ci	{'relation': 'collaborate'}
+Hui Tang	Z. Q. Shi	{'relation': 'collaborate'}
+Hui Tang	Song Ci	{'relation': 'collaborate'}
+Hui Tang	Ming Zhu	{'relation': 'collaborate'}
+Hui Tang	Michiel Schaap	{'relation': 'collaborate'}
+Hui Tang	Gang Li	{'relation': 'collaborate'}
+Hui Tang	Ding Tang	{'relation': 'collaborate'}
+Hui Tang	Haiyan Luo	{'relation': 'collaborate'}
+Hui Tang	Tao Lin	{'relation': 'collaborate'}
+Song Ci	Tao Lin	{'relation': 'collaborate'}
+Song Ci	Gang Li	{'relation': 'collaborate'}
+Song Ci	Haiyan Luo	{'relation': 'collaborate'}
+Song Ci	Ding Tang	{'relation': 'collaborate'}
+Ding Tang	Gang Li	{'relation': 'collaborate'}
+Z. Q. Shi	Gang Li	{'relation': 'collaborate'}

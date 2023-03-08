@@ -1,0 +1,52 @@
+Richard G. Rozier	Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
+Richard G. Rozier	K. W. Goossen	{'relation': 'collaborate'}
+Richard G. Rozier	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+Richard G. Rozier	J. A. Walker	{'relation': 'collaborate'}
+Richard G. Rozier	D. A. B. Miller	{'relation': 'collaborate'}
+Richard G. Rozier	J. E. Cunningham	{'relation': 'collaborate'}
+R. Oettel	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+R. Oettel	Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
+R. Oettel	R. Farbarik	{'relation': 'collaborate'}
+O. Torudbakken	Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
+O. Torudbakken	J. E. Cunningham	{'relation': 'collaborate'}
+Sadik C. Esener	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+Sadik C. Esener	Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
+Sadik C. Esener	Philippe J. Marchand	{'relation': 'collaborate'}
+Sadik C. Esener	Uzi Efron	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Chia-Hsin Owen Chen	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	I. Shubin	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Eric Chang	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Uzi Efron	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Philippe J. Marchand	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Frankie Liu	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	R. Farbarik	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	J. E. Cunningham	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	J. A. Walker	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Alex Chung Hen Chow	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Mikko H. Lipasti	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	K. W. Goossen	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	Dinesh Patil	{'relation': 'collaborate'}
+Ashok Venketaraman Krishnamoorthy	D. A. B. Miller	{'relation': 'collaborate'}
+R. Farbarik	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+Philippe J. Marchand	Uzi Efron	{'relation': 'collaborate'}
+Philippe J. Marchand	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+Dinesh Patil	Frankie Liu	{'relation': 'collaborate'}
+Dinesh Patil	J. E. Cunningham	{'relation': 'collaborate'}
+Dinesh Patil	I. Shubin	{'relation': 'collaborate'}
+Eric Chang	Frankie Liu	{'relation': 'collaborate'}
+Eric Chang	I. Shubin	{'relation': 'collaborate'}
+Alex Chung Hen Chow	J. E. Cunningham	{'relation': 'collaborate'}
+K. W. Goossen	D. A. B. Miller	{'relation': 'collaborate'}
+K. W. Goossen	J. A. Walker	{'relation': 'collaborate'}
+K. W. Goossen	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+K. W. Goossen	J. E. Cunningham	{'relation': 'collaborate'}
+Frankie Liu	I. Shubin	{'relation': 'collaborate'}
+Frankie Liu	J. E. Cunningham	{'relation': 'collaborate'}
+J. E. Cunningham	J. A. Walker	{'relation': 'collaborate'}
+J. E. Cunningham	D. A. B. Miller	{'relation': 'collaborate'}
+J. E. Cunningham	I. Shubin	{'relation': 'collaborate'}
+J. E. Cunningham	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+D. A. B. Miller	J. A. Walker	{'relation': 'collaborate'}
+D. A. B. Miller	Fouad Eskender Kiamilev	{'relation': 'collaborate'}
+J. A. Walker	Fouad Eskender Kiamilev	{'relation': 'collaborate'}

@@ -1,0 +1,35 @@
+Shlomo Moran	Edward G. Chron	{'relation': 'collaborate'}
+Sharad Agarwal	Mahadev Konar	{'relation': 'collaborate'}
+Sharad Agarwal	Bikas Saha	{'relation': 'collaborate'}
+Sharad Agarwal	Benjamin Reed	{'relation': 'collaborate'}
+Sharad Agarwal	Sanjay Radia	{'relation': 'collaborate'}
+Sanjay Radia	Bikas Saha	{'relation': 'collaborate'}
+Sanjay Radia	Benjamin Reed	{'relation': 'collaborate'}
+Sanjay Radia	Mahadev Konar	{'relation': 'collaborate'}
+Mahadev Konar	Bikas Saha	{'relation': 'collaborate'}
+Mahadev Konar	Benjamin Reed	{'relation': 'collaborate'}
+Mahadev Konar	Flavio Paiva Junqueira	{'relation': 'collaborate'}
+Flavio Junqueira	Alexander Shraer	{'relation': 'collaborate'}
+Flavio Junqueira	Benjamin Reed	{'relation': 'collaborate'}
+Flavio Junqueira	Ivan Kelly	{'relation': 'collaborate'}
+Randal C. Burns	Darrell Long	{'relation': 'collaborate'}
+Randal C. Burns	Edward G. Chron	{'relation': 'collaborate'}
+Randal C. Burns	Benjamin Reed	{'relation': 'collaborate'}
+Pramod Bhatotia	Benjamin Reed	{'relation': 'collaborate'}
+Pramod Bhatotia	Flavio Paiva Junqueira	{'relation': 'collaborate'}
+Ashish Chawla	Benjamin Reed	{'relation': 'collaborate'}
+Flavio Paiva Junqueira	Benjamin Reed	{'relation': 'collaborate'}
+Flavio Paiva Junqueira	Ivan Kelly	{'relation': 'collaborate'}
+Santhosh Srinivasan	Benjamin Reed	{'relation': 'collaborate'}
+Santhosh Srinivasan	Utkarsh Srivastava	{'relation': 'collaborate'}
+Ken Yocum	Benjamin Reed	{'relation': 'collaborate'}
+Darrell Long	Benjamin Reed	{'relation': 'collaborate'}
+Darrell Long	Edward G. Chron	{'relation': 'collaborate'}
+Alexander Shraer	Benjamin Reed	{'relation': 'collaborate'}
+Bikas Saha	Benjamin Reed	{'relation': 'collaborate'}
+Benjamin Reed	Ravi Kumar	{'relation': 'collaborate'}
+Benjamin Reed	Utkarsh Srivastava	{'relation': 'collaborate'}
+Benjamin Reed	Ivan Kelly	{'relation': 'collaborate'}
+Benjamin Reed	Mohammad Al-Fares	{'relation': 'collaborate'}
+Benjamin Reed	Edward G. Chron	{'relation': 'collaborate'}
+Utkarsh Srivastava	Ravi Kumar	{'relation': 'collaborate'}

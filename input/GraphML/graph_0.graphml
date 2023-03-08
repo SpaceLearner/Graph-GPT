@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research direction" for="node" attr.name="research direction" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="J. B. Legarth">
+      <data key="affiliation">United Technologies Research Center GmbH, Aachen, Germany</data>
+      <data key="research direction">UTC product, new product, product group, active product, diverse high technology product, long product lifetime, old product, product design, product generation, environmental benefit</data>
+    </node>
+    <node id="H. J. Cline">
+      <data key="affiliation">United Technol. Corp., Hartford, CT, USA</data>
+      <data key="research direction">supply line sustainability, economic value, practical sustainability target, sustainability target, sustainability target method, business continuity risk, business environmental risk, business risk, supply line risk, business environmental riskThis paper</data>
+    </node>
+    <node id="C. F. Chelton">
+      <data key="affiliation">AT&amp;T Bell Lab., Murray Hill, NJ</data>
+      <data key="research direction">semiconductor industry, semiconductor device, semiconductor industryChemical hazard, semiconductor research, dedicated exhaust riser, exhaust flow sensor, gas cabinet, gas cylinder, multipoint gas monitoring system, fire detection</data>
+    </node>
+    <node id="N. Alli">
+      <data key="affiliation">Dept. of Precision Instruments &amp; Mechanology, Tsinghua Univ., Beijing, China</data>
+      <data key="research direction">certain case, dynamic scheduling, electronic equipment, flammability standard, linesBrominated flame retardants, reconfigurable disassembly cell, software tool, viable method</data>
+    </node>
+    <node id="O. Willum">
+      <data key="affiliation">Res. Center for Microperipherik, Technische Univ. Berlin, Germany</data>
+      <data key="research direction">new product, product group, active product, long product lifetime, old product, product generation, new technology, environmental benefit, environmental choice, environmental consequence</data>
+    </node>
+    <node id="R. J. Caudill">
+      <data key="affiliation">Dept. of Precision Instrum. &amp; Mechanology, Tsinghua Univ., Beijing, China</data>
+      <data key="research direction">environmental impact, economic value, supply line sustainability, approaches sustainability, practical sustainability target, sustainability target, disassembly line, disassembly line manager, lean disassembly line layout, line design solution</data>
+    </node>
+    <node id="J. A. Mosovsky">
+      <data key="affiliation">Res. Center for Microperipherik, Technische Univ. Berlin, Germany</data>
+      <data key="research direction">applicationBrominated flame retardants, certain case, electronic equipment, environmental performance, flammability standard, full scale IC business, integrated circuit manufacturing, viable method</data>
+    </node>
+    <node id="Soontae Jeong">
+      <data key="affiliation">United Technol. Corp., Hartford, CT, USA</data>
+      <data key="research direction">supply line sustainability, economic value, practical sustainability target, sustainability target, sustainability target method, business continuity risk, business environmental risk, business risk, supply line risk, business environmental riskThis paper</data>
+    </node>
+    <node id="I. Salter">
+      <data key="affiliation">Res. Center for Microperipherik, Technische Univ. Berlin, Germany</data>
+      <data key="research direction">new product, product group, active product, long product lifetime, old product, product generation, new technology, environmental benefit, environmental choice, environmental consequence</data>
+    </node>
+    <node id="Ellen A. Huang">
+      <data key="affiliation">United Technologies Research Cent, East Hartford, CT</data>
+      <data key="research direction">UTC product, United Technologies Automotive component, United Technologies Corporation, Hamilton Standard aerospace system, Otis elevator, Safety effort, Sikorsky helicopter, Whitney aircraft engine, air conditioning system, broad range</data>
+    </node>
+    <node id="D. A. Dickinson">
+      <data key="affiliation">Dept. of Precision Instrum. &amp; Mechanology, Tsinghua Univ., Beijing, China</data>
+      <data key="research direction">environmental impact, supply line sustainability, economic value, approaches sustainability, practical sustainability target, sustainability target, Sustainability Target Method, business environmental risk, business environmental riskThis paper, environmental burden</data>
+    </node>
+    <node id="T. E. Swarr">
+      <data key="affiliation">United Technol. Corp., Hartford, CT, USA</data>
+      <data key="research direction">supply line sustainability, UTC product, economic value, practical sustainability target, sustainability target, sustainability target method, business continuity risk, business environmental risk, business risk, supply line risk</data>
+    </node>
+    <edge source="J. B. Legarth" target="Ellen A. Huang">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="J. B. Legarth" target="I. Salter">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="J. B. Legarth" target="O. Willum">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="J. B. Legarth" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="H. J. Cline" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="H. J. Cline" target="D. A. Dickinson">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="H. J. Cline" target="R. J. Caudill">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="H. J. Cline" target="Soontae Jeong">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="C. F. Chelton" target="J. A. Mosovsky">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="N. Alli" target="R. J. Caudill">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="O. Willum" target="I. Salter">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="R. J. Caudill" target="D. A. Dickinson">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="R. J. Caudill" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="R. J. Caudill" target="Soontae Jeong">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="J. A. Mosovsky" target="D. A. Dickinson">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Soontae Jeong" target="D. A. Dickinson">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Soontae Jeong" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Ellen A. Huang" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="D. A. Dickinson" target="T. E. Swarr">
+      <data key="relation">collaboration</data>
+    </edge>
+  </graph>
+</graphml>

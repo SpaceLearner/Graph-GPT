@@ -1,0 +1,64 @@
+S. Satoh	P. Mulhem	{'relation': 'collaborate'}
+S. Satoh	Jean Martinet	{'relation': 'collaborate'}
+S. Satoh	Y. Chiaramella	{'relation': 'collaborate'}
+Laurent Grisoni	Anthony Martinet	{'relation': 'collaborate'}
+Laurent Grisoni	Gery Casiez	{'relation': 'collaborate'}
+Stanislas Lew	Thierry Urruty	{'relation': 'collaborate'}
+Stanislas Lew	Anthony Martinet	{'relation': 'collaborate'}
+Stanislas Lew	Nacim Ihaddadene	{'relation': 'collaborate'}
+Stanislas Lew	Jean Martinet	{'relation': 'collaborate'}
+Stanislas Lew	Chabane Djeraba	{'relation': 'collaborate'}
+Iadh Ounis	Jean Martinet	{'relation': 'collaborate'}
+Iadh Ounis	Y. Chiaramella	{'relation': 'collaborate'}
+Iadh Ounis	P. Mulhem	{'relation': 'collaborate'}
+Taner Danisman	Chabane Djeraba	{'relation': 'collaborate'}
+Taner Danisman	Jean Martinet	{'relation': 'collaborate'}
+Taner Danisman	Ioan Marius Bilasco	{'relation': 'collaborate'}
+D. Pakkala	Mika Ylianttila	{'relation': 'collaborate'}
+D. Pakkala	Eduardo Martinez Gracia	{'relation': 'collaborate'}
+D. Pakkala	Juhani Laitakari	{'relation': 'collaborate'}
+D. Pakkala	Jiehan Zhou	{'relation': 'collaborate'}
+D. Pakkala	Ioan Marius Bilasco	{'relation': 'collaborate'}
+D. Pakkala	Mika Rautiainen	{'relation': 'collaborate'}
+D. Pakkala	Jean Martinet	{'relation': 'collaborate'}
+D. Pakkala	Chabane Djeraba	{'relation': 'collaborate'}
+Y. Chiaramella	P. Mulhem	{'relation': 'collaborate'}
+Y. Chiaramella	Jean Martinet	{'relation': 'collaborate'}
+Gery Casiez	Anthony Martinet	{'relation': 'collaborate'}
+Anthony Martinet	Jean Martinet	{'relation': 'collaborate'}
+Anthony Martinet	Chabane Djeraba	{'relation': 'collaborate'}
+Anthony Martinet	Nacim Ihaddadene	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Jean Martinet	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Chabane Djeraba	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Mika Ylianttila	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Ioan Marius Bilasco	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Jiehan Zhou	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Juhani Laitakari	{'relation': 'collaborate'}
+Eduardo Martinez Gracia	Mika Rautiainen	{'relation': 'collaborate'}
+Nacim Ihaddadene	Thierry Urruty	{'relation': 'collaborate'}
+Nacim Ihaddadene	Jean Martinet	{'relation': 'collaborate'}
+Nacim Ihaddadene	Chabane Djeraba	{'relation': 'collaborate'}
+Juhani Laitakari	Ioan Marius Bilasco	{'relation': 'collaborate'}
+Juhani Laitakari	Mika Ylianttila	{'relation': 'collaborate'}
+Juhani Laitakari	Chabane Djeraba	{'relation': 'collaborate'}
+Juhani Laitakari	Jiehan Zhou	{'relation': 'collaborate'}
+Juhani Laitakari	Jean Martinet	{'relation': 'collaborate'}
+Juhani Laitakari	Mika Rautiainen	{'relation': 'collaborate'}
+P. Mulhem	Jean Martinet	{'relation': 'collaborate'}
+Jean Martinet	Mika Rautiainen	{'relation': 'collaborate'}
+Jean Martinet	Ioan Marius Bilasco	{'relation': 'collaborate'}
+Jean Martinet	Jiehan Zhou	{'relation': 'collaborate'}
+Jean Martinet	Thierry Urruty	{'relation': 'collaborate'}
+Jean Martinet	Chabane Djeraba	{'relation': 'collaborate'}
+Jean Martinet	Mika Ylianttila	{'relation': 'collaborate'}
+Thierry Urruty	Chabane Djeraba	{'relation': 'collaborate'}
+Ioan Marius Bilasco	Chabane Djeraba	{'relation': 'collaborate'}
+Ioan Marius Bilasco	Mika Rautiainen	{'relation': 'collaborate'}
+Ioan Marius Bilasco	Mika Ylianttila	{'relation': 'collaborate'}
+Ioan Marius Bilasco	Jiehan Zhou	{'relation': 'collaborate'}
+Jiehan Zhou	Mika Rautiainen	{'relation': 'collaborate'}
+Jiehan Zhou	Mika Ylianttila	{'relation': 'collaborate'}
+Jiehan Zhou	Chabane Djeraba	{'relation': 'collaborate'}
+Mika Rautiainen	Chabane Djeraba	{'relation': 'collaborate'}
+Mika Rautiainen	Mika Ylianttila	{'relation': 'collaborate'}
+Chabane Djeraba	Mika Ylianttila	{'relation': 'collaborate'}

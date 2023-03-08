@@ -1,0 +1,46 @@
+Roberta L. Klatzky	George D. Stetten	{'relation': 'collaborate'}
+Roberta L. Klatzky	A. Thompson	{'relation': 'collaborate'}
+Roberta L. Klatzky	Joel Schuman	{'relation': 'collaborate'}
+Roberta L. Klatzky	Bing Wu	{'relation': 'collaborate'}
+Roberta L. Klatzky	R. L. Hollis	{'relation': 'collaborate'}
+Roberta L. Klatzky	S. J. Lederman	{'relation': 'collaborate'}
+Roberta L. Klatzky	Randy Lee	{'relation': 'collaborate'}
+Roberta L. Klatzky	M. W. Siegel	{'relation': 'collaborate'}
+Roberta L. Klatzky	Peter J. Berkelman	{'relation': 'collaborate'}
+Y. Yokokohji	R. L. Hollis	{'relation': 'collaborate'}
+A. Thompson	S. J. Lederman	{'relation': 'collaborate'}
+A. Thompson	Peter J. Berkelman	{'relation': 'collaborate'}
+A. Thompson	R. L. Hollis	{'relation': 'collaborate'}
+Alfred A. Rizzi	Zack Butler	{'relation': 'collaborate'}
+Alfred A. Rizzi	R. L. Hollis	{'relation': 'collaborate'}
+S. Salcudean	R. L. Hollis	{'relation': 'collaborate'}
+M. W. Siegel	Bing Wu	{'relation': 'collaborate'}
+M. W. Siegel	R. L. Hollis	{'relation': 'collaborate'}
+M. W. Siegel	Joel Schuman	{'relation': 'collaborate'}
+M. W. Siegel	Randy Lee	{'relation': 'collaborate'}
+M. W. Siegel	George D. Stetten	{'relation': 'collaborate'}
+Zack Butler	R. L. Hollis	{'relation': 'collaborate'}
+Robert H. Swendsen	R. L. Hollis	{'relation': 'collaborate'}
+Robert H. Swendsen	V. Varadharajan	{'relation': 'collaborate'}
+Robert H. Swendsen	R. Klatzky	{'relation': 'collaborate'}
+S. J. Lederman	Peter J. Berkelman	{'relation': 'collaborate'}
+S. J. Lederman	R. L. Hollis	{'relation': 'collaborate'}
+S. J. Lederman	R. Klatzky	{'relation': 'collaborate'}
+Bing Wu	Joel Schuman	{'relation': 'collaborate'}
+Bing Wu	George D. Stetten	{'relation': 'collaborate'}
+Bing Wu	R. L. Hollis	{'relation': 'collaborate'}
+Bing Wu	Randy Lee	{'relation': 'collaborate'}
+Peter J. Berkelman	R. L. Hollis	{'relation': 'collaborate'}
+V. Varadharajan	R. L. Hollis	{'relation': 'collaborate'}
+V. Varadharajan	R. Klatzky	{'relation': 'collaborate'}
+Umashankar Nagarajan	George Kantor	{'relation': 'collaborate'}
+Umashankar Nagarajan	R. L. Hollis	{'relation': 'collaborate'}
+Randy Lee	Joel Schuman	{'relation': 'collaborate'}
+Randy Lee	R. L. Hollis	{'relation': 'collaborate'}
+Randy Lee	George D. Stetten	{'relation': 'collaborate'}
+George D. Stetten	R. L. Hollis	{'relation': 'collaborate'}
+George D. Stetten	Joel Schuman	{'relation': 'collaborate'}
+R. L. Hollis	George Kantor	{'relation': 'collaborate'}
+R. L. Hollis	R. Klatzky	{'relation': 'collaborate'}
+R. L. Hollis	Sarjoun Skaff	{'relation': 'collaborate'}
+R. L. Hollis	Joel Schuman	{'relation': 'collaborate'}

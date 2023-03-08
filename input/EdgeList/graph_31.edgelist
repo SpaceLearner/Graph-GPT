@@ -1,0 +1,31 @@
+Dongdong Li	Zhaohui Wu	{'relation': 'collaborate'}
+Dongdong Li	Zhenyu Shan	{'relation': 'collaborate'}
+Haoyi Ren	Zhaohui Wu	{'relation': 'collaborate'}
+Congfu Xu	Zhaohui Wu	{'relation': 'collaborate'}
+Kougen Zheng	Zhaohui Wu	{'relation': 'collaborate'}
+Zhaohui Wu	Nenggan Zheng	{'relation': 'collaborate'}
+Zhaohui Wu	Yi Feng	{'relation': 'collaborate'}
+Zhaohui Wu	Zhenyu Shan	{'relation': 'collaborate'}
+Zhaohui Wu	Wei Shi	{'relation': 'collaborate'}
+Zhaohui Wu	Chunying Zhou	{'relation': 'collaborate'}
+Zhaohui Wu	Min Yao	{'relation': 'collaborate'}
+Zhaohui Wu	Yuxing Mao	{'relation': 'collaborate'}
+Zhaohui Wu	Lina Zhang	{'relation': 'collaborate'}
+Zhaohui Wu	Yu Zhang	{'relation': 'collaborate'}
+Zhaohui Wu	Jonathan J. Davies	{'relation': 'collaborate'}
+Zhaohui Wu	Aining Yin	{'relation': 'collaborate'}
+Zhaohui Wu	Jiang Li	{'relation': 'collaborate'}
+Zhaohui Wu	Liang Chen	{'relation': 'collaborate'}
+Zhaohui Wu	David N. Cottingham	{'relation': 'collaborate'}
+Zhaohui Wu	T. S. Huang	{'relation': 'collaborate'}
+Yi Feng	Aining Yin	{'relation': 'collaborate'}
+Yi Feng	Chunying Zhou	{'relation': 'collaborate'}
+Yi Feng	Yu Zhang	{'relation': 'collaborate'}
+Nenggan Zheng	Min Yao	{'relation': 'collaborate'}
+Yu Zhang	Yu Zhang	{'relation': 'collaborate'}
+Yu Zhang	Aining Yin	{'relation': 'collaborate'}
+Yu Zhang	Chunying Zhou	{'relation': 'collaborate'}
+David N. Cottingham	Jonathan J. Davies	{'relation': 'collaborate'}
+David N. Cottingham	Zhenyu Shan	{'relation': 'collaborate'}
+Zhenyu Shan	Jonathan J. Davies	{'relation': 'collaborate'}
+Chunying Zhou	Aining Yin	{'relation': 'collaborate'}

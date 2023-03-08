@@ -1,0 +1,55 @@
+Jen-Chieh Chang	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Jen-Chieh Chang	C. H. Lin	{'relation': 'collaborate'}
+Jen-Chieh Chang	Chu-Hsing Lin	{'relation': 'collaborate'}
+Jen-Chieh Chang	Jung-Chun Liu	{'relation': 'collaborate'}
+Jen-Chieh Chang	Frode Eika Sandnes	{'relation': 'collaborate'}
+Shih-Jen Chen	He-Ming Ruan	{'relation': 'collaborate'}
+Shih-Jen Chen	Chin-Laung Lei	{'relation': 'collaborate'}
+Shih-Jen Chen	Chien-Ting Kuo	{'relation': 'collaborate'}
+Wei-Shen Lai	C. H. Lin	{'relation': 'collaborate'}
+Wei-Shen Lai	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Kuo-Hsiung Wang	Der-Chen Huang	{'relation': 'collaborate'}
+Kuo-Hsiung Wang	Ching-Hsien Hsu	{'relation': 'collaborate'}
+Kuo-Hsiung Wang	C. H. Lin	{'relation': 'collaborate'}
+Kuo-Hsiung Wang	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Kuo-Hsiung Wang	Chao-Tung Yang	{'relation': 'collaborate'}
+Jia-Chun Lin	Fang-Yie Leu	{'relation': 'collaborate'}
+Jia-Chun Lin	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Jia-Chun Lin	Chao-Tung Yang	{'relation': 'collaborate'}
+Jia-Chun Lin	Ming-Chang Li	{'relation': 'collaborate'}
+Chu-Hsing Lin	Frode Eika Sandnes	{'relation': 'collaborate'}
+Chu-Hsing Lin	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Chu-Hsing Lin	Jung-Chun Liu	{'relation': 'collaborate'}
+Chu-Hsing Lin	Fang-Yie Leu	{'relation': 'collaborate'}
+Chien-Ting Kuo	Fuu-Cheng Jiang	{'relation': 'collaborate'}
+Chien-Ting Kuo	C. H. Lin	{'relation': 'collaborate'}
+Chien-Ting Kuo	Jung-Chun Liu	{'relation': 'collaborate'}
+Chien-Ting Kuo	He-Ming Ruan	{'relation': 'collaborate'}
+Chien-Ting Kuo	Chin-Laung Lei	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Hsiang-Wei Wu	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	C. H. Lin	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Frode Eika Sandnes	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Jung-Chun Liu	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Fenq-Lin Jenq	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Der-Chen Huang	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Chao-Tung Yang	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Fang-Yie Leu	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Ming-Chang Li	{'relation': 'collaborate'}
+Fuu-Cheng Jiang	Ching-Hsien Hsu	{'relation': 'collaborate'}
+Fenq-Lin Jenq	Fang-Yie Leu	{'relation': 'collaborate'}
+Ching-Hsien Hsu	Chao-Tung Yang	{'relation': 'collaborate'}
+Ching-Hsien Hsu	Jung-Chun Liu	{'relation': 'collaborate'}
+Hsiang-Wei Wu	Chao-Tung Yang	{'relation': 'collaborate'}
+Hsiang-Wei Wu	Der-Chen Huang	{'relation': 'collaborate'}
+Hsiang-Wei Wu	C. H. Lin	{'relation': 'collaborate'}
+Fang-Yie Leu	Der-Chen Huang	{'relation': 'collaborate'}
+Fang-Yie Leu	Chao-Tung Yang	{'relation': 'collaborate'}
+Fang-Yie Leu	Jung-Chun Liu	{'relation': 'collaborate'}
+Fang-Yie Leu	Ming-Chang Li	{'relation': 'collaborate'}
+C. H. Lin	Chao-Tung Yang	{'relation': 'collaborate'}
+C. H. Lin	Der-Chen Huang	{'relation': 'collaborate'}
+C. H. Lin	Jung-Chun Liu	{'relation': 'collaborate'}
+Der-Chen Huang	Chao-Tung Yang	{'relation': 'collaborate'}
+He-Ming Ruan	Chin-Laung Lei	{'relation': 'collaborate'}
+Jung-Chun Liu	Chao-Tung Yang	{'relation': 'collaborate'}
+Chao-Tung Yang	Ming-Chang Li	{'relation': 'collaborate'}

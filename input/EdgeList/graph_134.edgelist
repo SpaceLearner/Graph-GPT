@@ -1,0 +1,43 @@
+M. Arif	Nicole Vincent	{'relation': 'collaborate'}
+M. Arif	T. Brouard	{'relation': 'collaborate'}
+Gilles Venturini	Christiane Guinot	{'relation': 'collaborate'}
+Gilles Venturini	M. Slimane	{'relation': 'collaborate'}
+Gilles Venturini	N. Monmarchè	{'relation': 'collaborate'}
+Gilles Venturini	T. Brouard	{'relation': 'collaborate'}
+Gilles Venturini	Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
+Nicole Vincent	T. Brouard	{'relation': 'collaborate'}
+Nicole Vincent	M. Slimane	{'relation': 'collaborate'}
+Nicole Vincent	Dominique Burger	{'relation': 'collaborate'}
+Nicole Vincent	Jean-Yves Ramel	{'relation': 'collaborate'}
+Manuel Barbosa	T. Brouard	{'relation': 'collaborate'}
+Josep Lladós	Jean-Yves Ramel	{'relation': 'collaborate'}
+Josep Lladós	Mathieu Delalandre	{'relation': 'collaborate'}
+Josep Lladós	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
+Josep Lladós	T. Brouard	{'relation': 'collaborate'}
+Jean Pierre Asselin de Beauville	T. Brouard	{'relation': 'collaborate'}
+Jean Pierre Asselin de Beauville	M. Slimane	{'relation': 'collaborate'}
+Jean Pierre Asselin de Beauville	M. C. Mraghni	{'relation': 'collaborate'}
+Pierre Liardet	S. Aupetit	{'relation': 'collaborate'}
+Pierre Liardet	M. Slimane	{'relation': 'collaborate'}
+Pierre Liardet	N. Monmarchè	{'relation': 'collaborate'}
+Mathieu Delalandre	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
+Mathieu Delalandre	Jean-Yves Ramel	{'relation': 'collaborate'}
+Mathieu Delalandre	T. Brouard	{'relation': 'collaborate'}
+M. Slimane	S. Aupetit	{'relation': 'collaborate'}
+M. Slimane	C. Gu&#233/ret	{'relation': 'collaborate'}
+M. Slimane	Pierre Gaucher	{'relation': 'collaborate'}
+M. Slimane	Christiane Guinot	{'relation': 'collaborate'}
+M. Slimane	Dominique Burger	{'relation': 'collaborate'}
+M. Slimane	T. Brouard	{'relation': 'collaborate'}
+M. Slimane	N. Monmarchè	{'relation': 'collaborate'}
+C. Gu&#233/ret	N. Monmarchè	{'relation': 'collaborate'}
+Jean-Yves Ramel	Hubert Cardot	{'relation': 'collaborate'}
+Jean-Yves Ramel	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
+Jean-Yves Ramel	T. Brouard	{'relation': 'collaborate'}
+T. Brouard	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
+T. Brouard	Hubert Cardot	{'relation': 'collaborate'}
+N. Monmarchè	Pierre Gaucher	{'relation': 'collaborate'}
+N. Monmarchè	Christiane Guinot	{'relation': 'collaborate'}
+N. Monmarchè	S. Aupetit	{'relation': 'collaborate'}
+Pierre Gaucher	S. Aupetit	{'relation': 'collaborate'}
+Christiane Guinot	S. Aupetit	{'relation': 'collaborate'}

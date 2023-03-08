@@ -1,0 +1,42 @@
+H Lam	Yu Long	{'relation': 'collaborate'}
+H Lam	Lalita Narupiyakul	{'relation': 'collaborate'}
+H Lam	Zuo-Jun (Max) Shen	{'relation': 'collaborate'}
+H Lam	Sumalatha Adabala	{'relation': 'collaborate'}
+H Lam	Haifei Li	{'relation': 'collaborate'}
+H Lam	Andréa M. Matsunaga	{'relation': 'collaborate'}
+H Lam	Yihua Huang	{'relation': 'collaborate'}
+H Lam	Greg Stitt	{'relation': 'collaborate'}
+H Lam	Liang-Jie Zhang	{'relation': 'collaborate'}
+H Lam	Seokwon Yang	{'relation': 'collaborate'}
+H Lam	Karthik Nagarajan	{'relation': 'collaborate'}
+H Lam	Alan D. George	{'relation': 'collaborate'}
+H Lam	Vikas Aggarwal	{'relation': 'collaborate'}
+H Lam	Ed Barkmeyer	{'relation': 'collaborate'}
+H Lam	K. Clint Slatton	{'relation': 'collaborate'}
+H Lam	Brian Holland	{'relation': 'collaborate'}
+Yihua Huang	Haifei Li	{'relation': 'collaborate'}
+Karthik Nagarajan	K. Clint Slatton	{'relation': 'collaborate'}
+Karthik Nagarajan	Chris Conger	{'relation': 'collaborate'}
+Karthik Nagarajan	Brian Holland	{'relation': 'collaborate'}
+Karthik Nagarajan	Adam Jacobs	{'relation': 'collaborate'}
+Karthik Nagarajan	Alan D. George	{'relation': 'collaborate'}
+Karthik Nagarajan	Clint Slatton	{'relation': 'collaborate'}
+Andréa M. Matsunaga	Sumalatha Adabala	{'relation': 'collaborate'}
+Clint Slatton	Alan D. George	{'relation': 'collaborate'}
+Clint Slatton	Brian Holland	{'relation': 'collaborate'}
+Greg Stitt	Alan D. George	{'relation': 'collaborate'}
+Greg Stitt	Brian Holland	{'relation': 'collaborate'}
+Greg Stitt	Vikas Aggarwal	{'relation': 'collaborate'}
+K. Clint Slatton	Alan D. George	{'relation': 'collaborate'}
+K. Clint Slatton	Vikas Aggarwal	{'relation': 'collaborate'}
+K. Clint Slatton	Brian Holland	{'relation': 'collaborate'}
+Liang-Jie Zhang	Haifei Li	{'relation': 'collaborate'}
+Liang-Jie Zhang	Liang-Jie Zhang	{'relation': 'collaborate'}
+Adam Jacobs	Chris Conger	{'relation': 'collaborate'}
+Adam Jacobs	Alan D. George	{'relation': 'collaborate'}
+Adam Jacobs	Brian Holland	{'relation': 'collaborate'}
+Brian Holland	Vikas Aggarwal	{'relation': 'collaborate'}
+Brian Holland	Alan D. George	{'relation': 'collaborate'}
+Brian Holland	Chris Conger	{'relation': 'collaborate'}
+Chris Conger	Alan D. George	{'relation': 'collaborate'}
+Alan D. George	Vikas Aggarwal	{'relation': 'collaborate'}

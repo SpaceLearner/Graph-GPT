@@ -1,0 +1,36 @@
+Tan Lee	Frank K. Soong	{'relation': 'collaborate'}
+Tan Lee	Juan I. Godino-Llorente	{'relation': 'collaborate'}
+Tan Lee	Y. W. Wong	{'relation': 'collaborate'}
+Tan Lee	P. C. Ching	{'relation': 'collaborate'}
+Tan Lee	Chen Yang	{'relation': 'collaborate'}
+Tan Lee	Nengheng Zheng	{'relation': 'collaborate'}
+Tan Lee	H. S. Lam	{'relation': 'collaborate'}
+Tan Lee	Pedro Gómez-Vilda	{'relation': 'collaborate'}
+Tan Lee	Shan Ouyang	{'relation': 'collaborate'}
+Tan Lee	Yao-Jin Qian	{'relation': 'collaborate'}
+Tan Lee	Hua Ouyang	{'relation': 'collaborate'}
+Tan Lee	Cheung-Chi Leung	{'relation': 'collaborate'}
+Tan Lee	Wai-Kit Lo	{'relation': 'collaborate'}
+Tan Lee	Feng Huang	{'relation': 'collaborate'}
+Tan Lee	Bin Ma	{'relation': 'collaborate'}
+Tan Lee	Ning Wang	{'relation': 'collaborate'}
+Tan Lee	Helen M. Meng	{'relation': 'collaborate'}
+Tan Lee	Haizhou Li	{'relation': 'collaborate'}
+Tan Lee	Yujia Li	{'relation': 'collaborate'}
+Y. W. Wong	P. C. Ching	{'relation': 'collaborate'}
+Helen M. Meng	P. C. Ching	{'relation': 'collaborate'}
+Helen M. Meng	Wai-Kit Lo	{'relation': 'collaborate'}
+Chen Yang	Frank K. Soong	{'relation': 'collaborate'}
+Nengheng Zheng	P. C. Ching	{'relation': 'collaborate'}
+Nengheng Zheng	Ning Wang	{'relation': 'collaborate'}
+Juan I. Godino-Llorente	Pedro Gómez-Vilda	{'relation': 'collaborate'}
+Yao-Jin Qian	Frank K. Soong	{'relation': 'collaborate'}
+Yao-Jin Qian	Yujia Li	{'relation': 'collaborate'}
+Shan Ouyang	P. C. Ching	{'relation': 'collaborate'}
+Haizhou Li	Bin Ma	{'relation': 'collaborate'}
+Haizhou Li	Cheung-Chi Leung	{'relation': 'collaborate'}
+Wai-Kit Lo	Frank K. Soong	{'relation': 'collaborate'}
+Wai-Kit Lo	P. C. Ching	{'relation': 'collaborate'}
+Bin Ma	Cheung-Chi Leung	{'relation': 'collaborate'}
+H. S. Lam	P. C. Ching	{'relation': 'collaborate'}
+P. C. Ching	Ning Wang	{'relation': 'collaborate'}

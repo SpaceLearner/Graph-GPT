@@ -1,0 +1,45 @@
+Jeremy Johnson	Gregory D. Abowd	{'relation': 'collaborate'}
+Jeremy Johnson	Thad Starner	{'relation': 'collaborate'}
+Jeremy Johnson	Kimberly Weaver	{'relation': 'collaborate'}
+Jeremy Johnson	Peter Presti	{'relation': 'collaborate'}
+Pei Yin	Thad Starner	{'relation': 'collaborate'}
+Pei Yin	Peter Presti	{'relation': 'collaborate'}
+Peter Presti	Kimberly Weaver	{'relation': 'collaborate'}
+Peter Presti	Steven Dow	{'relation': 'collaborate'}
+Peter Presti	Jeff Wilson	{'relation': 'collaborate'}
+Peter Presti	Stephen Sinclair	{'relation': 'collaborate'}
+Peter Presti	Scott Robertson	{'relation': 'collaborate'}
+Peter Presti	Gregory D. Abowd	{'relation': 'collaborate'}
+Peter Presti	Scott Gilliland	{'relation': 'collaborate'}
+Peter Presti	Maribeth Gandy	{'relation': 'collaborate'}
+Peter Presti	Amy Bruckman	{'relation': 'collaborate'}
+Peter Presti	Brian Jones	{'relation': 'collaborate'}
+Peter Presti	Thad Starner	{'relation': 'collaborate'}
+Hendrik Iben	Kimberly Weaver	{'relation': 'collaborate'}
+Hendrik Iben	Michael Lawo	{'relation': 'collaborate'}
+Hendrik Iben	Thad Starner	{'relation': 'collaborate'}
+Scott Robertson	Brian Jones	{'relation': 'collaborate'}
+Scott Robertson	Maribeth Gandy	{'relation': 'collaborate'}
+Scott Robertson	Jeff Wilson	{'relation': 'collaborate'}
+Amy Bruckman	Thad Starner	{'relation': 'collaborate'}
+Amy Bruckman	Kimberly Weaver	{'relation': 'collaborate'}
+Thad Starner	Kimberly Weaver	{'relation': 'collaborate'}
+Thad Starner	Maribeth Gandy	{'relation': 'collaborate'}
+Thad Starner	Gregory D. Abowd	{'relation': 'collaborate'}
+Thad Starner	Scott Gilliland	{'relation': 'collaborate'}
+Thad Starner	Michael Lawo	{'relation': 'collaborate'}
+Shumin Zhai	Huahai Yang	{'relation': 'collaborate'}
+Shumin Zhai	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Shumin Zhai	Kimberly Weaver	{'relation': 'collaborate'}
+Maribeth Gandy	Brian Jones	{'relation': 'collaborate'}
+Maribeth Gandy	Jeff Wilson	{'relation': 'collaborate'}
+Maribeth Gandy	Steven Dow	{'relation': 'collaborate'}
+Derrick Parkhurst	Kimberly Weaver	{'relation': 'collaborate'}
+Brian Jones	Gregory D. Abowd	{'relation': 'collaborate'}
+Brian Jones	Jeff Wilson	{'relation': 'collaborate'}
+Kimberly Weaver	Gregory D. Abowd	{'relation': 'collaborate'}
+Kimberly Weaver	Huahai Yang	{'relation': 'collaborate'}
+Kimberly Weaver	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Kimberly Weaver	Michael Lawo	{'relation': 'collaborate'}
+Huahai Yang	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Gregory D. Abowd	Jeffrey S. Pierce	{'relation': 'collaborate'}

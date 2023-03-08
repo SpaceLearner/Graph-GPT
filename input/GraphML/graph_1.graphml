@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research direction" for="node" attr.name="research direction" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Javier Lorenzo-Navarro">
+      <data key="affiliation">SIANI, Edif. Central del Parque Científico Tecnológico, Universidad de Las Palmas de Gran Canaria, Spain</data>
+      <data key="research direction">video stream, facial description, eye detection, 2-D face recognition system, basic face detector, different face representation approach, face description, frontal face pattern, human face, leading commercial face detector</data>
+    </node>
+    <node id="Antonio Falcón Martel">
+      <data key="affiliation">Departamento de Informática y Sistemas, Universidad de Las Palmas de Gran Canaria, Gran Canaria, Spain</data>
+      <data key="research direction">contour deformation, dynamic model, Condensation-based contour tracking, contour evolution, contour location, Sobolev space, computational result, video stream, deformation model, probabilistic model</data>
+    </node>
+    <node id="A F. Smeaton">
+      <data key="affiliation">Centre for Sensor Web Technologies, Glasnevin, Dublin, Ireland</data>
+      <data key="research direction">digital video, soccer video, video content, digital video information, sports video, video data, video analysis, video segment, video shot, video summary</data>
+    </node>
+    <node id="Daniel Hernández">
+      <data key="affiliation">Nan</data>
+      <data key="research direction">BMFT-Project NERES, Neural Control</data>
+    </node>
+    <node id="Kent Trieber">
+      <data key="affiliation">IBM</data>
+      <data key="research direction">transaction processing power</data>
+    </node>
+    <node id="Bob Good">
+      <data key="affiliation">BofA</data>
+      <data key="research direction">transaction processing power</data>
+    </node>
+    <node id="Paul Prekop">
+      <data key="affiliation">DSTO Fern Hill, Department of Defence, Australia</data>
+      <data key="research direction">Expertise Finding, Activity-Centric context, conceptual model, ubiquitous computing environment, D organisation, context-aware application, DSTO iRoomThis paper, Technology OrganisationThis paper report, collaborative information seekingTIKI, discusses future research question</data>
+    </node>
+    <node id="Dave Kleiman">
+      <data key="affiliation">ComputerForensicExaminer.com, Florida, US</data>
+      <data key="research direction">command line script, Windows NT, Windows System Administration, Windows command line script, Windows crash, Windows network, Windows server, Windows system, basic Windows administration, government agency</data>
+    </node>
+    <node id="Mark Burnett">
+      <data key="affiliation">Bayer HealthCare  Pharmaceuticals, Berkeley, CA</data>
+      <data key="research direction">Personal Computers, Information Technology, service robot, mobile manipulator, industrial automation, dedicated robot, new market, personal use, physical impact, safe design</data>
+    </node>
+    <node id="Tim Mullen">
+      <data key="affiliation">Nan</data>
+      <data key="research direction">Final Chapter, best hacker, Network book, Network epic, Network series, countless hacker book, groundbreaking book, page book, unique book, attack-oriented series</data>
+    </node>
+    <node id="Anon et al">
+      <data key="affiliation">A Commercial Submission from DEALTE, Sauletekio al. 15, LT10224 Vilnius, Lithuania</data>
+      <data key="research direction">security consultant, network security, security book, security issue, computer science, Internet security, Linux security, Linux security book, Macintosh security, Web application security</data>
+    </node>
+    <node id="Modesto Castrilon-Santana">
+      <data key="affiliation">SIANI, Universidad de Las Palmas de Gran Canaria, 35001, España</data>
+      <data key="research direction">low light, leading commercial face detector, long-range face detection, eye detection, eye detection algorithm, eye detector, commercial application, localization accuracy, localization performance, Viola Jones detector</data>
+    </node>
+    <node id="James C. Foster">
+      <data key="affiliation">Nan</data>
+      <data key="research direction">Explore Snort, Snort IDS, Snort engine, Snort sensor, frag2 Preprocessors Enhance Snort, Intrusion Detection, checkpoint mode, continual mode, one-shot mode, Configure Barnyard Run Barnyard</data>
+    </node>
+    <node id="L. J. Locher">
+      <data key="affiliation">Nan</data>
+      <data key="research direction">Maximum Windows, bank security, potential security hole, security consultant, security expert, Maximum Security, automatic teller machine system, experienced computer hacker, experienced hacker, system administrator</data>
+    </node>
+    <node id="William Robson Schwartz">
+      <data key="affiliation">Nan</data>
+      <data key="research direction">ECG signal, low frequency, multiple sample, ECG signal work, person identification, subject identification, classification approach, fraud proof biometrics modality, traditional classification, Support Vector Machines</data>
+    </node>
+    <node id="Tom Monica">
+      <data key="affiliation">Bayer HealthCare  Pharmaceuticals, Berkeley, CA</data>
+      <data key="research direction">Personal Computers, Information Technology, service robot, mobile manipulator, industrial automation, dedicated robot, new market, personal use, physical impact, safe design</data>
+    </node>
+    <edge source="Javier Lorenzo-Navarro" target="William Robson Schwartz">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Javier Lorenzo-Navarro" target="Modesto Castrilon-Santana">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Javier Lorenzo-Navarro" target="Daniel Hernández">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Javier Lorenzo-Navarro" target="Anon et al">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Javier Lorenzo-Navarro" target="Antonio Falcón Martel">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="A F. Smeaton" target="Mark Burnett">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Kent Trieber" target="Bob Good">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Kent Trieber" target="Anon et al">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Bob Good" target="Anon et al">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Paul Prekop" target="Mark Burnett">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Dave Kleiman" target="Mark Burnett">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Mark Burnett" target="Tom Monica">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Mark Burnett" target="James C. Foster">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Mark Burnett" target="Anon et al">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Mark Burnett" target="Tim Mullen">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Mark Burnett" target="L. J. Locher">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Tim Mullen" target="Tim Mullen">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Anon et al" target="Modesto Castrilon-Santana">
+      <data key="relation">collaboration</data>
+    </edge>
+    <edge source="Anon et al" target="L. J. Locher">
+      <data key="relation">collaboration</data>
+    </edge>
+  </graph>
+</graphml>
