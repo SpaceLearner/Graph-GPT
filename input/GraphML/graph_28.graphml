@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Min Yao">
+      <data key="affiliation">Nan</data>
+      <data key="research">OSEK OSSpecification-based test, Producing Specification-based test, adequate test suite</data>
+    </node>
+    <node id="Aining Yin">
+      <data key="affiliation">Institute of Information on Traditional Chinese Medicine, China Academy of Traditional Chinese Medicine, Beijing 100700, PR China</data>
+      <data key="research">ontology development, traditional Chinese medical language, traditional Chinese medicineThis paper</data>
+    </node>
+    <node id="Zhenyu Shan">
+      <data key="affiliation">Zhejiang University, China</data>
+      <data key="research">audio resource, audio search engine, efficient content-based audio search</data>
+    </node>
+    <node id="David N. Cottingham">
+      <data key="affiliation">University of Cambridge Computer Laboratory</data>
+      <data key="research">coverage map, coverage area, individual wireless access network</data>
+    </node>
+    <node id="Yu Zhang">
+      <data key="affiliation">Institute of High Performance Computing, Singapore</data>
+      <data key="research">facial model, facial muscle, prototype model</data>
+    </node>
+    <node id="Wei Shi">
+      <data key="affiliation">Nan</data>
+      <data key="research">Dynamic Reconfiguration, Ensuring Correctness, chronic disease</data>
+    </node>
+    <node id="T. S. Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Dynamic Scene Analysis, Image Sequence Processing</data>
+    </node>
+    <node id="Lina Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Workflow Engine, Web Services, Asynchronous Web Services</data>
+    </node>
+    <node id="Yuxing Mao">
+      <data key="affiliation">Nan</data>
+      <data key="research">generalized frequent item set, ItemsetsMining generalized frequent item, traditional frequent item set</data>
+    </node>
+    <node id="Jiang Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">positioning result, accurate target location, data fusion</data>
+    </node>
+    <node id="Dongdong Li">
+      <data key="affiliation">Huawei Technologies, Plano, TX</data>
+      <data key="research">conventional approach, Probability-based resource allocation, channel availability</data>
+    </node>
+    <node id="Zhaohui Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computer Science, International Conference, Lecture Notes</data>
+    </node>
+    <node id="Nenggan Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">control processor, control program generating navigation, intelligent control system</data>
+    </node>
+    <node id="Haoyi Ren">
+      <data key="affiliation">Zhejiang University, Hangzhou, China</data>
+      <data key="research">mobile phone, human mobility, virtual reality environment</data>
+    </node>
+    <node id="Chunying Zhou">
+      <data key="affiliation">Zhejiang University, Hangzhou, China</data>
+      <data key="research">Semantic Bayesian Network, semantic web, semi-supervised learning method</data>
+    </node>
+    <node id="Congfu Xu">
+      <data key="affiliation">Zhejiang University, China</data>
+      <data key="research">data set, frequent itemsets, data mining</data>
+    </node>
+    <node id="Yi Feng">
+      <data key="affiliation">Nan</data>
+      <data key="research">data center, hierarchical approach, high availability</data>
+    </node>
+    <node id="Kougen Zheng">
+      <data key="affiliation">Zhejiang University Hangzhou,China</data>
+      <data key="research">wireless networked sensor, sensor network, sensor node</data>
+    </node>
+    <node id="Liang Chen">
+      <data key="affiliation">School of Software, Tsinghua University, Beijing, P.R., China</data>
+      <data key="research">fuzzy appraisal decision-making method, fuzzy experience evaluation matrix, fuzzy logic</data>
+    </node>
+    <node id="Jonathan J. Davies">
+      <data key="affiliation">University of Cambridge</data>
+      <data key="research">Intelligent Transportation, special issue, application code</data>
+    </node>
+    <edge source="Min Yao" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Yao" target="Nenggan Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aining Yin" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aining Yin" target="Yu Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aining Yin" target="Yi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aining Yin" target="Chunying Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyu Shan" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyu Shan" target="Dongdong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyu Shan" target="David N. Cottingham">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyu Shan" target="Jonathan J. Davies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David N. Cottingham" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David N. Cottingham" target="Jonathan J. Davies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Zhang" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Zhang" target="Yu Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Zhang" target="Yi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Zhang" target="Chunying Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Shi" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. S. Huang" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lina Zhang" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuxing Mao" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiang Li" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongdong Li" target="Zhaohui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Nenggan Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Yi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Chunying Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Jonathan J. Davies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Haoyi Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Kougen Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Liang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaohui Wu" target="Congfu Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunying Zhou" target="Yi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

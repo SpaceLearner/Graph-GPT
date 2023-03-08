@@ -1,217 +1,172 @@
 graph [
   node [
     id 0
-    label "Stefan Craciun"
-    affiliation "NSF Center for HighPerformance Reconfigurable Computing (CHREC), Department of Electrical and Computer Engineering, University of Florida Gainesville, Florida, 326116200"
-    research "image processing, image segmentation, image size"
+    label "Jiankun Wu"
+    affiliation "Dalian University of Technology, China"
+    research "information technology, synthesizing information, traffic information gridIntelligent Transportation"
   ]
   node [
     id 1
-    label "Valentin Cristea"
-    affiliation "Nan"
-    research "genetic algorithm, research community, Integrated Service Platform"
+    label "Jaques Reifman"
+    affiliation "Biotechnology HPC Software Applications Institute, Telemedicine and Advanced Technology Research Center, US Army Medical Research and Materiel Command, Ft. Detrick, MD  Boston, MA, USA"
+    research "prediction horizon, prediction interval, data-driven model"
   ]
   node [
     id 2
-    label "Johan Pouwelse"
-    affiliation "Faculty of Information Technology and Systems, Delft University of Technology, The Netherlands"
-    research "P2P system, social network, P2P network"
+    label "Yan Xiong"
+    affiliation "Nan"
+    research "sybil attack, replication attack, WSNsThe detection"
   ]
   node [
     id 3
-    label "Daniel Rosner"
-    affiliation "Computer Science Department, Faculty of Automatic Control and Computers, University Politehnica of Bucharest, Splaiul Independentei 313, Sector 6, 060042, Romania"
-    research "SQL database, computer security, high-confidence skew detection"
+    label "Shengli Zhou"
+    affiliation "Nan"
+    research "Numerical Simulation, corrosion damage, corrosion fatigue crack growth"
   ]
   node [
     id 4
-    label "Vlad Olaru"
-    affiliation "Technical University of Cluj Napoca"
-    research "cooperative caching, exclusive caching, cooperative caching algorithm"
+    label "E K Blum"
+    affiliation "Univ. of Southern California, Los Angeles"
+    research "formal definition, programming system, SEMANOLA formal definition"
   ]
   node [
     id 5
-    label "Alexandra Olteanu"
-    affiliation "Faculty of Automatic Control and Computers, University, Computer Science Department, University  Politehnica&#148; of Bucharest, Romania"
-    research "large scale, proposed rescheduling algorithm, resource management"
+    label "Yunlong Liu"
+    affiliation "Nan"
+    research "eukaryotic gene expression, expression pattern, mRNA expression data"
   ]
   node [
     id 6
-    label "Ramiro Voicu"
-    affiliation "California Institute of Technology, Pasadena, CA, USA"
-    research "replication mechanism, service instance, time series"
+    label "P. P. Jonker"
+    affiliation "Department of Mechanical Engineering, Section Dynamics and Control Technology, Technical University Eindhoven, Eindhoven, The Netherlands"
+    research "image processing, image processing application, memory system"
   ]
   node [
     id 7
-    label "Emil Slusanschi"
-    affiliation "University Politehnica of Bucharest, Bucharest, Romania"
-    research "automatic differentiation, objective function, numerical differentiation"
+    label "G. B. Giannakis"
+    affiliation "Department of Electrical and Computer Engineering, and the Digital Technology Center, University of Minnesota, MN, USA"
+    research "channel state information, frequency-selective channel, channel estimation"
   ]
   node [
     id 8
-    label "Razvan Deaconescu"
+    label "Weiming Zhang"
     affiliation "Nan"
-    research "specialized information, authentication handshake, Authentication layer"
+    research "macro block, corresponding host macro block, missing macro block"
   ]
   node [
     id 9
-    label "Mihai Burcea"
-    affiliation "University of Toronto"
-    research "lock-based SynQuake, multiplayer game, complex game action"
+    label "Min Li"
+    affiliation "University of Wisconsin  Madison"
+    research "custom on-chip sensor, individual design path, pre-silicon stage"
   ]
   node [
     id 10
-    label "Dragos Badea"
-    affiliation "Motorola/Metrowerks Romania, Union Tower II Business Center, Bucharest, Romania"
-    research "code generator, code size, spill code"
+    label "Zhiyong Shan"
+    affiliation "School of Information, Renmin University of China"
+    research "MAC system, commercial operating system, malware behavior"
   ]
   node [
     id 11
-    label "Tiow Seng Tan"
-    affiliation "Department of Computer Science, University of Illinois at UrbanaChampaign, Urbana, Illnois"
-    research "convex hull, Delaunay triangulation, constant time algorithm"
+    label "Xin Wang"
+    affiliation "Nan"
+    research "foldable wheel, mobile robot, better obstacle"
   ]
   node [
     id 12
-    label "Bogdan Ditu"
+    label "D. Tipper"
     affiliation "Nan"
-    research "flat description, inline assembler, inline assembler component"
+    research "bandwidth efficiency, bottom layer, common pool protection"
   ]
   node [
     id 13
-    label "Nicolae Tapus"
-    affiliation "Politehnica U. of Bucharest, Romania"
-    research "point data transport protocol, MMOG data, data anonymity"
+    label "Peng Wei"
+    affiliation "University of Science and Technology of China, Hefei, P.R.China"
+    research "flash memory, flash memory management, experimental result"
   ]
   node [
     id 14
-    label "Alexandru Iosup"
-    affiliation "Politehnica University of Bucharest, Bucharest, Romania"
-    research "game operator, trace-based simulation, game provider"
+    label "P. Kudumakis"
+    affiliation "Queen Mary, University of London, London, UK"
+    research "archived material, OCCAMM Project FrameworkSeveral standardisation, OCCAMM project"
   ]
   node [
     id 15
-    label "Costin-Anton Boiangiu"
-    affiliation "Computer Science Department,  Politehnica  University of Bucharest, Bucharest, Romania"
-    research "automatic content conversion system, digital document, scanned image"
+    label "Wenchao Huang"
+    affiliation "Nan"
+    research "CRT-VSS scheme, cloud computing, existing cheating problem"
   ]
   node [
     id 16
-    label "Mugurel Ionut Andreica"
-    affiliation "Polytechnic University of Bucharest, Romania"
-    research "data transfer, point data transport protocol, data storage"
+    label "Zhifang Sui"
+    affiliation "School of Electronics Engineering and Computer Science, Peking University, Beijing, China"
+    research "feature-based matrix factorization model, student response, automatic assessment"
   ]
   node [
     id 17
-    label "Sven Zeisberg"
-    affiliation "Nan"
-    research "sensor network, UWB open mobile access, access technology"
+    label "Qingwen Liu"
+    affiliation "School of Computer Science, University of Science and Technology of China, China"
+    research "social information, celebrities recommendation, cold start problem"
   ]
   node [
     id 18
-    label "Adrian Nistor"
-    affiliation "University of Illinois at UrbanaChampaign"
-    research "performance bug, significant performance degradation, systematic testing"
+    label "Dan Li"
+    affiliation "Technology&#38;Information Center, XinYang Power Supply Company, Xinyang, Henan, China"
+    research "border mutation, Optimization algorithm, Quantum-Behaved particle swarm optimization"
   ]
   node [
     id 19
-    label "Laura Gheorghe"
+    label "He Huang"
     affiliation "Nan"
-    research "Wireless Sensor Networks, security level, Multi-owner Wireless Sensor NetworksMulti-Owner"
+    research "Wyner-Ziv Image, Wyner-Ziv image compression algorithm, pixel domain Wyner-Ziv video"
   ]
   edge [
     source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
+    target 11
     relation "collaborate"
   ]
   edge [
     source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
+    target 11
     relation "collaborate"
   ]
   edge [
     source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 15
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 13
+    source 2
+    target 17
     relation "collaborate"
   ]
   edge [
     source 3
-    target 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
+    target 11
     relation "collaborate"
   ]
   edge [
     source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 13
+    target 11
     relation "collaborate"
   ]
   edge [
     source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
+    target 11
     relation "collaborate"
   ]
   edge [
     source 7
-    target 13
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -220,73 +175,58 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
     source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
+    target 11
     relation "collaborate"
   ]
   edge [
     source 9
-    target 13
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 9
     relation "collaborate"
   ]
   edge [
     source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 12
     relation "collaborate"
   ]
   edge [
     source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
     target 17
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
+    source 15
+    target 17
     relation "collaborate"
   ]
   edge [

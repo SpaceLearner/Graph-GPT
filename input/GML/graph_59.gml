@@ -1,222 +1,157 @@
 graph [
   node [
     id 0
-    label "Alain Boucher"
-    affiliation "Laboratoire TIMC/IMAG, Grenoble, France"
-    research "cellnuclei analysis, motion analysis, motion issue"
+    label "G. J. Collins"
+    affiliation "Nan"
+    research "mesh scheme, nonlinear diffusion equationAn asymptotic, numerical description"
   ]
   node [
     id 1
-    label "Hoang Nam Chu"
-    affiliation "Nan"
-    research "property-based robustness, Autonomous SystemsThe functional layer, autonomous system"
+    label "L A Peletier"
+    affiliation "Univ. of Leiden, Leiden, The Netherlands"
+    research "Ginzburg-Landau equation, extended Fisher-Kolmogorov equation, fast-diffusion equation"
   ]
   node [
     id 2
-    label "Z. Kalbarczyk"
-    affiliation "University of Illinois"
-    research "fault dictionary, fault injector, forensic data"
+    label "M. Kindelan"
+    affiliation "Nan"
+    research "cost-effective staggered scheme, elastodynamic equation, numerical integration"
   ]
   node [
     id 3
-    label "Fran&#231;ois Semp&#233;"
-    affiliation "Francois Semp&#233; AE, Paris, France"
-    research "artificial maieutic approach, multi-agent simulation, multi-agent simulationsModels"
+    label "J L Vazquez"
+    affiliation "Univ. Autonomade Madrid, Madrid, Spain"
+    research "porous medium equation, fast diffusion equation, fast-diffusion equation"
   ]
   node [
     id 4
-    label "Karama Kanoun"
-    affiliation "LAASCNRS, Univ. de Toulouse, Toulouse, France F31077"
-    research "reliability growth, operational reliability, software reliability"
+    label "V. A. Frolov"
+    affiliation "Keldysh Institute of Applied Mathematics, Russian Academy of Sciences, Moscow, Russia,Nvidia, Russia"
+    research "irradiance caching, GPU friendly IC solution, GPU realistic rendererThis work"
   ]
   node [
     id 5
-    label "Felix Ingrand"
-    affiliation "LAASCNRS University of Toulouse 7, Ave du Colonel Roche 31077 Toulouse, France"
-    research "autonomous system, behavior model, execution controller"
+    label "J. J. L. Vel&#225;zquez"
+    affiliation "Nan"
+    research "adiabatic shear band formation, global existence"
   ]
   node [
     id 6
-    label "Ang&#233;lica Mu&#241;oz-Mel&#233;ndez"
-    affiliation "National Institute for Astrophysics, Optics and Electronics, Puebla, Mexico"
-    research "mobile robot, multiple people, adaptive contour people model"
+    label "N. I. V'yukova"
+    affiliation "Scientific&#8211;Research Institute of System Studies, Russian Academy of Sciences, Nakhimovskii pr. 36, korpus 1, Moscow, 117218 Russia <rfc822>galat@niisi.msk.ru</rfc822>"
+    research "Internet application, Internet TechnologiesA technology, Internet user"
   ]
   node [
     id 7
-    label "Jean Arlat"
-    affiliation "University of Toulouse, France"
-    research "Fault Injection, fault tolerance process, fault tolerance mechanism"
+    label "Kirill Garanzha"
+    affiliation "Bauman Moscow State Technical University, Russia"
+    research "BVH builder, GPU ray, accelerated ray"
   ]
   node [
     id 8
-    label "Edouard Amouroux"
-    affiliation "LIP6, UPMC, Paris, France"
-    research "simulation platform, agent behavior, agent-based model"
+    label "Edward A. Kopylov"
+    affiliation "Keldysh Institute of Applied Mathematics, Russian Academy of Sciences, Miusskaya pl. 4, Moscow, 125047 Russia <rfc822>oek@gin.keldysh.ru</rfc822>"
+    research "natural daylight illumination, rendering equation, high dynamic range image"
   ]
   node [
     id 9
-    label "Alexis Drogoul"
-    affiliation "UMMISCO/UPMC, Paris, France,MSIUMMISCO/IRD, Hanoi, Vietnam"
-    research "agent-based model, brown plant hopper, participatory simulation"
+    label "J Bebernes"
+    affiliation "Univ. of Colorado, Boulder"
+    research "Kassoy problemFinite-time blowup, blowup profile, nonlocal parabolic problem"
   ]
   node [
     id 10
-    label "Minh Nguyen-Duc"
-    affiliation "Institut de la Francophonie pour l'Informatique (IFI), Hanoi, Vietnam"
-    research "air traffic control, artificial maieutic approach, multi-agent simulation"
+    label "N. Bellomo"
+    affiliation "Nan"
+    research ""
   ]
   node [
     id 11
-    label "Olivier Simonin"
-    affiliation "Universit&#233; de Toulouse, Institut de M&#233;canique des Fluides de Toulouse, IMFT, UMR 5502, All&#233;e Camille Soula, 31400 Toulouse, France"
-    research "location problem, unknown environment, artificial potential fields approach"
+    label "S. P. Kurdyumov"
+    affiliation "Nan"
+    research "non-linear elliptic problem, non-linear medium, non-linear parabolic equationA non-linear"
   ]
   node [
     id 12
-    label "Fran&#231;ois Charpillet"
-    affiliation "INRIA Nancy Grand Est  LORIA Lab., Universit&#233; de Lorraine, France"
-    research "multi-agent system, novel approach, swarm approach"
+    label "J. J. Velasquez"
+    affiliation "Nan"
+    research "blow-up point, formal approach, semilinear heat equation"
   ]
   node [
     id 13
-    label "Nicolas Sabouret"
-    affiliation "Laboratoire d'Informatique de Paris 6, Universit&#233; Pierre et Marie Curie, Paris, France"
-    research "autonomous virtual agent, proposed architecture, virtual agent"
+    label "Howard A. Levine"
+    affiliation "Iowa State Univ., Ames"
+    research "nucleic acid, SELEX process, mathematical analysis"
   ]
   node [
     id 14
-    label "Marc-Olivier Killijian"
-    affiliation "LAASCNRS/ Universit&#38;#233/ de Toulouse F31077"
-    research "mobility trace, inference attack, mobile device"
+    label "Simon Premo&#382;e"
+    affiliation "Advanced Rendering Center"
+    research "multiple scattering, light transport, interactive rate"
   ]
   node [
     id 15
-    label "Yann Chevaleyre"
-    affiliation "LIPN, Universit&#233; ParisNord, Villetaneuse, France"
-    research "optimal allocation, transfer rate, utility function"
+    label "V. A. Galaktionov"
+    affiliation "KIAM RAS"
+    research "optical property, high dynamic range image, natural daylight illumination"
   ]
   node [
     id 16
-    label "Y. Haradji"
-    affiliation "EDF Recherche &#38; D&#233;&#233;veloppement, CLAMART, Cedex"
-    research "household activity, contextual activity, design ubiquitous technologiesThe aim"
+    label "Stephen Edward Bricher"
+    affiliation "Nan"
+    research "blowup pattern, blowup profile, center manifold theoryAsymptotics"
   ]
   node [
     id 17
-    label "Stanislas Boissau"
-    affiliation "Wageningen University"
-    research "Northern Vietnam, artificial maieutic approach, new methodology"
+    label "A. A. Samarskii"
+    affiliation "Nan"
+    research "difference scheme, operator coefficient, unbounded operator coefficient"
   ]
   node [
     id 18
-    label "Geber Ramalho"
+    label "C. J. Budd"
     affiliation "Nan"
-    research "broad use, intelligent agent, intelligent behavior"
+    research "discontinuous map, regularized discontinuous map, period-incrementing behavior"
   ]
   node [
     id 19
-    label "David Powell"
-    affiliation "Nan"
-    research "safety margin, eliciting safety trigger condition, catastrophic system state"
+    label "Migual A. Herrero"
+    affiliation "Departmento de Matematica Aplicada, Facultad de Matematicas, Universitad Complutense, 2840 Madrid, Spain"
+    research "dynamic scaling, multicellular system, blow-up point"
   ]
   edge [
     source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 18
     relation "collaborate"
   ]
   edge [
+    source 0
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
     source 3
-    target 6
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -225,38 +160,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -266,17 +171,12 @@ graph [
   ]
   edge [
     source 5
-    target 14
+    target 15
     relation "collaborate"
   ]
   edge [
     source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -285,68 +185,78 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 9
+    source 7
+    target 15
     relation "collaborate"
   ]
   edge [
     source 8
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 9
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 16
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
     source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 17
     relation "collaborate"
   ]
   edge [
     source 11
-    target 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 19
     relation "collaborate"
   ]
   edge [
     source 13
-    target 16
+    target 15
     relation "collaborate"
   ]
   edge [
     source 14
-    target 19
+    target 15
     relation "collaborate"
   ]
   edge [
     source 15
     target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
     relation "collaborate"
   ]
 ]

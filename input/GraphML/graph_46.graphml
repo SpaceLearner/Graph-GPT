@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Marcel Worring">
+      <data key="affiliation">Intelligent System Lab Amsterdam, Amsterdam, Netherlands</data>
+      <data key="research">video retrieval, large video collection, news video</data>
+    </node>
+    <node id="Chahab Nastar">
+      <data key="affiliation">SAP, Paris, France</data>
+      <data key="research">content-based image retrieval, experimental result, recommender system</data>
+    </node>
+    <node id="M. Lalmas">
+      <data key="affiliation">Yahoo! Labs Barcelona, Barcelona, ES</data>
+      <data key="research">XML retrieval, information retrieval, XML document</data>
+    </node>
+    <node id="Alexander C. Loui">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed approach, salient region, merged region</data>
+    </node>
+    <node id="Ilkka Kivimäki">
+      <data key="affiliation">Université catholique de Louvain, LouvainlaNeuve, Belgium</data>
+      <data key="research">random walk, social network, correlation dimension</data>
+    </node>
+    <node id="Eduardo Ruiz">
+      <data key="affiliation">University California Riverside, Riverside</data>
+      <data key="research">connected component, domain semantics, query workload</data>
+    </node>
+    <node id="F. Bonchi">
+      <data key="affiliation">Yahoo! Research, Barcelona, Spain</data>
+      <data key="research">social network, data quality, frequent pattern</data>
+    </node>
+    <node id="Barbara Poblete">
+      <data key="affiliation">Department of Computer Science, University of Chile and Yahoo! Research LatinAmerica, Chile</data>
+      <data key="research">time series, query log, Web site</data>
+    </node>
+    <node id="Jérôme Picault">
+      <data key="affiliation">Bell Labs, AlcatelLucent, Centre de Villarceaux, Nozay, France</data>
+      <data key="research">recommender system, group profile, social situation</data>
+    </node>
+    <node id="Hugo Ortega">
+      <data key="affiliation">Columbia University</data>
+      <data key="research">multimedia content, multimedia technology, ACM Multimedia Interactive Art</data>
+    </node>
+    <node id="M. Mendoza">
+      <data key="affiliation">Departamento de Estadística, ITAM, México</data>
+      <data key="research">Research ArticlesMost financial institution, autocorrelated model, financial flow</data>
+    </node>
+    <node id="Alejandro James">
+      <data key="affiliation">Yahoo! Research Barcelona, Barcelona, Chile</data>
+      <data key="research">recommender system, social media, ACM multimedia</data>
+    </node>
+    <node id="A. Del Bimbo">
+      <data key="affiliation">Dipart. Sistemi e Informatica, Florence, Italy</data>
+      <data key="research">soccer video, video annotation, video sequence</data>
+    </node>
+    <node id="Nicu Sebe">
+      <data key="affiliation">University of Trento, Trento</data>
+      <data key="research">main finding, social attention, movie clip</data>
+    </node>
+    <node id="J Miyazaki">
+      <data key="affiliation">Graduate School of Information Science, Nara, Japan</data>
+      <data key="research">recommendation method, augmented reality, proposed method</data>
+    </node>
+    <node id="Frank Nack">
+      <data key="affiliation">GMD  German National Research Center for Information Technology, Institute (IPSI)</data>
+      <data key="research">cartoon design, design environment, design example</data>
+    </node>
+    <node id="Pamela Jennings">
+      <data key="affiliation">Banff New Media Institute</data>
+      <data key="research">tangible social interface, ACM multimedia, multimedia research</data>
+    </node>
+    <node id="Mark Tribe">
+      <data key="affiliation">Columbia University</data>
+      <data key="research">Robert Grosvenor, Robert Mangold, Robert Morris</data>
+    </node>
+    <node id="Y. Volkovich">
+      <data key="affiliation">Barcelona Media, Spain</data>
+      <data key="research">social media engagement, social network, Spanish Digg-like social news</data>
+    </node>
+    <node id="Michael George Christel">
+      <data key="affiliation">HCI Institute and CS Dept., Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">digital video library, video retrieval, motion video</data>
+    </node>
+    <edge source="Marcel Worring" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcel Worring" target="Nicu Sebe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chahab Nastar" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Lalmas" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Lalmas" target="Y. Volkovich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander C. Loui" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ilkka Kivimäki" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eduardo Ruiz" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Bonchi" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barbara Poblete" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barbara Poblete" target="M. Mendoza">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jérôme Picault" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hugo Ortega" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hugo Ortega" target="Mark Tribe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hugo Ortega" target="Pamela Jennings">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Mendoza" target="Alejandro James">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Y. Volkovich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Frank Nack">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Nicu Sebe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Michael George Christel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="A. Del Bimbo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="J Miyazaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Mark Tribe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro James" target="Pamela Jennings">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Del Bimbo" target="Frank Nack">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Del Bimbo" target="Pamela Jennings">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Nack" target="Pamela Jennings">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pamela Jennings" target="Mark Tribe">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

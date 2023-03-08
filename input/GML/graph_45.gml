@@ -1,242 +1,272 @@
 graph [
   node [
     id 0
-    label "Qing Li"
-    affiliation "City University of Hong Kong, Hong Kong"
-    research "object typicality, CF method, CF recommendation"
+    label "Chi-Hwa Song"
+    affiliation "Nan"
+    research "proposed algorithm, Korean LDS, Korean alphabet"
   ]
   node [
     id 1
-    label "Wei Huang"
-    affiliation "Rensselaer Polytechnic Institute"
-    research "type system, reference immutability, ownership type system"
+    label "Kyu-Ha Song"
+    affiliation "Agency for Defense Development, Daejeon, Korea"
+    research "radar signal, various radar signal, electronic warfare Support"
   ]
   node [
     id 2
-    label "Yi Mu"
-    affiliation "Nan"
-    research "required attribute, attribute-based mechanism, attribute-based oblivious access control"
+    label "Jin-Woo Han"
+    affiliation "Center for Nanotechnology, NASA Ames Research Center, Moffett Field, CA, USA"
+    research "NW size, sensitive NW biosensors, Nanowire FET BiosensorsLabel-free"
   ]
   node [
     id 3
-    label "Alex Delis"
+    label "Won Don Lee"
     affiliation "Nan"
-    research "Service-Oriented Computing, Software Engineering, ICSOC Workshops"
+    research "former BEWS system, noise reduction, toxicity detection"
   ]
   node [
     id 4
-    label "Jianxin Chen"
-    affiliation "Beijing University of Chinese Medicine, Beijing, China"
-    research "unstable angina, Proteome Characteristic Pattern, inflammatory factor"
+    label "Guoqing Zhou"
+    affiliation "Nan"
+    research "multiview geometry, Enhanced Continuous Tabu Search, generic parameter estimation"
   ]
   node [
     id 5
-    label "Baihua Zheng"
-    affiliation "Nan"
-    research "object location information, query information, Spatial Queries"
+    label "Dong-Weon Lee"
+    affiliation "MEMS&#38;Nanotechnology Laboratory, School of Mechanical Systems Engineering, Chonnam National Universit, Gwangju, Korea"
+    research "tungsten tip, high aspect ratio, high vacuum condition"
   ]
   node [
     id 6
-    label "Jeffrey Xu Yu"
-    affiliation "Nan"
-    research "LCR query, vertices u, bipartite graph"
+    label "M. Rabby"
+    affiliation "Department of Computer Science, Graduate School and University Center, The City University of New York, New York, NY"
+    research "data flow, bandwidth allocation, data connectivity"
   ]
   node [
     id 7
-    label "T. Y. Lin"
+    label "Hong Liang"
     affiliation "Nan"
-    research "Matrix Theory, Rough Set Theory, Granular Computing"
+    research "Spatial Data, data consistency, data inconsistency"
   ]
   node [
     id 8
-    label "Xiang Xu"
+    label "Yang Wei"
     affiliation "Nan"
-    research "Restful Web service, services classification, Real-World RESTful Web ServiceWeb"
+    research "secure protocol, Privacy Preserving Computational Geometry, convex hull"
   ]
   node [
     id 9
-    label "Jing Zhu"
+    label "Jung Min Kong"
     affiliation "Nan"
-    research "interference signal, asynchronous co-channel interference, asynchronous co-channel interference suppression"
+    research "new data, Rule Refinement, Extended Data ExpressionThe rule"
   ]
   node [
     id 10
-    label "G. Y. Wang"
-    affiliation "Key Laboratory of Education Ministry for Image Processing and Intelligence Control, Institute for Pattern Recognition and Artificial Intelligence, Huazhong University of Science &#38; Technology, Wuha ..."
-    research "discrete moment, linear sum, conventional AAN algorithm"
+    label "Jae-Cheol Ryou"
+    affiliation "ChungNam National University,  Korea"
+    research "USN middleware, command authentication, information consumer"
   ]
   node [
     id 11
-    label "Xiaoling Zhang"
-    affiliation "Nan"
-    research "min-max strategy, IGD metric result, complex multi-objective optimization problem"
+    label "Tae-Hyoung Kim"
+    affiliation "Dept. of Medical Information Munkyung College, Daejeon, Korea"
+    research "base point, efficient package delivery service, package delivery problem"
   ]
   node [
     id 12
-    label "Jian Fu"
-    affiliation "Sch. of Autom., Wuhan Univ. of Technol., Wuhan, China"
-    research "ADP design, GMIMO approach, looper system"
+    label "Sung Yong Kim"
+    affiliation "Nan"
+    research "former BEWS system, noise reduction, toxicity detection"
   ]
   node [
     id 13
-    label "Qing Liu"
-    affiliation "Department of Physical Education, Zhejiang Forestry College, Linan, China"
-    research "directional movement, virtual reality, physical education"
+    label "Mun-Sung Han"
+    affiliation "Nan"
+    research "Incremental Learning, Optimized Network Structure"
   ]
   node [
     id 14
-    label "Wei-Hua Wang"
+    label "Xingshen Wu"
     affiliation "Nan"
-    research "neural network approach, nonlinear function approximator, nonparametric concept"
+    research "access control policy, ATN Model, CredentialsAutomated trust negotiation"
   ]
   node [
     id 15
-    label "Min Zhang"
-    affiliation "Nan"
-    research "software trustworthiness, measurement model, software trustworthy measurement"
+    label "Jian Yang"
+    affiliation "School of Optical Engineering, Beijing Institute of Technology, Beijing, China"
+    research "3-D reconstruction, coronary artery, 3-D space"
   ]
   node [
     id 16
-    label "Gang Yan"
+    label "Jun Wang"
     affiliation "Nan"
-    research "human visual system, correct classification, image classification"
+    research "sparse representation, Sparse Dictionary Reconstruction, different fabric type"
   ]
   node [
     id 17
-    label "Walid G. Aref"
-    affiliation "WDPP, Purdue University, USA"
-    research "MessagePoor data quality, data expert, data governance"
+    label "Jun Wu"
+    affiliation "Nan"
+    research "conventional MRAL, manifold ranking, Laplacian matrix"
   ]
   node [
     id 18
-    label "Huasheng Zhu"
-    affiliation "Nan"
-    research "image segmentation, liquid level, algorithm show"
+    label "Pei-Lun Suei"
+    affiliation "Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan"
+    research "XML data, proposed approach, main-memory database system"
   ]
   node [
     id 19
-    label "Minjie Zhang"
-    affiliation "Nan"
-    research "automated negotiation, complex negotiation, complex automated negotiation"
+    label "Jian Lu"
+    affiliation "Dept. of Math. &#38; Comput. Sci., Dartmouth Coll., Hanover, NH"
+    research "spatially selective noise filtration, regularizing operator, least-squares technique"
   ]
   edge [
     source 0
-    target 13
+    target 3
     relation "collaborate"
   ]
   edge [
     source 0
-    target 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 17
     relation "collaborate"
   ]
   edge [
     source 1
-    target 13
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
     relation "collaborate"
   ]
   edge [
     source 2
-    target 13
+    target 3
     relation "collaborate"
   ]
   edge [
     source 2
-    target 19
+    target 5
     relation "collaborate"
   ]
   edge [
     source 3
-    target 13
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 8
     relation "collaborate"
   ]
   edge [
     source 3
     target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
     relation "collaborate"
   ]
   edge [
     source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 13
+    target 17
     relation "collaborate"
   ]
   edge [
     source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
+    target 17
     relation "collaborate"
   ]
   edge [
     source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 13
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 13
+    source 14
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 13
+    source 15
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 15
     target 15
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 17
     target 19
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 17
+    source 17
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 19
+    target 19
     relation "collaborate"
   ]
 ]

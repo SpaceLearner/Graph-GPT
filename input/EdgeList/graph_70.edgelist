@@ -1,32 +1,41 @@
-Hideki Shima	Adam Lally	{'relation': 'collaborate'}
-Hideki Shima	Takahiro Nishino	{'relation': 'collaborate'}
-Hideki Shima	Hiroshi Kanayama	{'relation': 'collaborate'}
-Hideki Shima	Mengqiu Wang	{'relation': 'collaborate'}
-Hideki Shima	B. K. Boguraev	{'relation': 'collaborate'}
-Hideki Shima	Teruko Mitamura	{'relation': 'collaborate'}
-Hideki Shima	Frank Lin	{'relation': 'collaborate'}
-Hideki Shima	James Fan	{'relation': 'collaborate'}
-Hideki Shima	J. William Murdock	{'relation': 'collaborate'}
-Hideki Shima	Satoshi Tanaka	{'relation': 'collaborate'}
-Hideki Shima	Yusuke Miyao	{'relation': 'collaborate'}
-Takahiro Nishino	Satoshi Tanaka	{'relation': 'collaborate'}
-Keiji Yano	Satoshi Tanaka	{'relation': 'collaborate'}
-Jorji Nonaka	Satoshi Tanaka	{'relation': 'collaborate'}
-Tadanori Mizuno	Satoshi Tanaka	{'relation': 'collaborate'}
-Satoshi Tanaka	Shinji Doi	{'relation': 'collaborate'}
-Satoshi Tanaka	Tsutomu Terada	{'relation': 'collaborate'}
-Satoshi Tanaka	Hironori Kasahara	{'relation': 'collaborate'}
-Satoshi Tanaka	T. Suda	{'relation': 'collaborate'}
-Satoshi Tanaka	Wang Sheng	{'relation': 'collaborate'}
-Hiroshi Kanayama	Yusuke Miyao	{'relation': 'collaborate'}
-Hiroshi Kanayama	Teruko Mitamura	{'relation': 'collaborate'}
-B. K. Boguraev	James Fan	{'relation': 'collaborate'}
-B. K. Boguraev	J. William Murdock	{'relation': 'collaborate'}
-B. K. Boguraev	Adam Lally	{'relation': 'collaborate'}
-James Fan	J. William Murdock	{'relation': 'collaborate'}
-James Fan	Adam Lally	{'relation': 'collaborate'}
-Adam Lally	J. William Murdock	{'relation': 'collaborate'}
-Teruko Mitamura	Frank Lin	{'relation': 'collaborate'}
-Teruko Mitamura	Yusuke Miyao	{'relation': 'collaborate'}
-Teruko Mitamura	Mengqiu Wang	{'relation': 'collaborate'}
-Mengqiu Wang	Frank Lin	{'relation': 'collaborate'}
+M. Nagashima	H. Nishino	{'relation': 'collaborate'}
+M. Nagashima	S. Murakami	{'relation': 'collaborate'}
+M. Nagashima	K. Matsushita	{'relation': 'collaborate'}
+M. Nagashima	H. Wada	{'relation': 'collaborate'}
+M. Nagashima	K. Maruyama	{'relation': 'collaborate'}
+M. Nagashima	T. Saito	{'relation': 'collaborate'}
+M. Nagashima	T. Okamoto	{'relation': 'collaborate'}
+M. Tanaka	Yoshihiro Miyamoto	{'relation': 'collaborate'}
+M. Tanaka	H. Nishino	{'relation': 'collaborate'}
+M. Tanaka	K. Ozaki	{'relation': 'collaborate'}
+T. Okamoto	S. Murakami	{'relation': 'collaborate'}
+T. Okamoto	T. Saito	{'relation': 'collaborate'}
+T. Okamoto	K. Maruyama	{'relation': 'collaborate'}
+T. Okamoto	H. Nishino	{'relation': 'collaborate'}
+T. Okamoto	H. Wada	{'relation': 'collaborate'}
+H. Wada	Michihiro Hirai	{'relation': 'collaborate'}
+H. Wada	S. Ma	{'relation': 'collaborate'}
+H. Wada	H. Murayama	{'relation': 'collaborate'}
+H. Wada	H. Nishino	{'relation': 'collaborate'}
+H. Wada	T. Saito	{'relation': 'collaborate'}
+H. Wada	K. Matsushita	{'relation': 'collaborate'}
+H. Wada	K. Maruyama	{'relation': 'collaborate'}
+H. Wada	S. Murakami	{'relation': 'collaborate'}
+T. Saito	K. Maruyama	{'relation': 'collaborate'}
+T. Saito	S. Murakami	{'relation': 'collaborate'}
+T. Saito	H. Nishino	{'relation': 'collaborate'}
+T. Maruyama	T. Fujimura	{'relation': 'collaborate'}
+T. Nakagawa	T. Fujimura	{'relation': 'collaborate'}
+T. Nakagawa	S. Okuda	{'relation': 'collaborate'}
+T. Nakagawa	H. Nishino	{'relation': 'collaborate'}
+H. Nishino	T. Fujimura	{'relation': 'collaborate'}
+H. Nishino	Yoshihiro Miyamoto	{'relation': 'collaborate'}
+H. Nishino	S. Naka	{'relation': 'collaborate'}
+H. Nishino	K. Maruyama	{'relation': 'collaborate'}
+H. Nishino	S. Murakami	{'relation': 'collaborate'}
+H. Nishino	S. Okuda	{'relation': 'collaborate'}
+H. Nishino	K. Ozaki	{'relation': 'collaborate'}
+S. Murakami	K. Maruyama	{'relation': 'collaborate'}
+Yoshihiro Miyamoto	K. Ozaki	{'relation': 'collaborate'}
+M. Kamimura	T. Fujimura	{'relation': 'collaborate'}
+S. Okuda	T. Fujimura	{'relation': 'collaborate'}

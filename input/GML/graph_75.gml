@@ -1,147 +1,127 @@
 graph [
   node [
     id 0
-    label "Michael Terry"
-    affiliation "University of Waterloo, Waterloo, ON, Canada"
-    research "Side Views, Textured agreement, creativity support tool"
+    label "Clint Slatton"
+    affiliation "Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL"
+    research "FPGAsMany signal processing algorithm, PDF algorithm, image processing algorithm"
   ]
   node [
     id 1
-    label "Cristina Conati"
-    affiliation "Istituto per la Ricerca Scientifica e Tecnologica, Italy"
-    research "user model, student model, individual user"
+    label "Zuo-Jun (Max) Shen"
+    affiliation "Nan"
+    research "Information Infrastructure, collaborative e-business, Internet-based scalable e-business enterprise"
   ]
   node [
     id 2
-    label "George Labahn"
-    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, UST Lille, 59655, Waterloo, ON, Canada"
-    research "input matrix, fraction-free algorithm, new algorithm"
+    label "Andr&#233;a M. Matsunaga"
+    affiliation "University of Florida, Gainesville, FL"
+    research "virtual grid, In-VIGO approach, proposed approach"
   ]
   node [
     id 3
-    label "John S. Whissell"
-    affiliation "David R. Cheriton School of Computer Science, University of Waterloo, Waterloo, Canada N2L 3G1"
-    research "true label, clustering method, clustering algorithm"
+    label "Vikas Aggarwal"
+    affiliation "IBM India Research Lab, Plot 4, Block C, Vasant Kunj Inst. Area, New Delhi 110070, India"
+    research "HPC Challenge RandomAccess benchmark, HPCC RandomAccess benchmark, RandomAccess benchmark"
   ]
   node [
     id 4
-    label "Mirette Marzouk"
-    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, 200 University Avenue West, N2L 3G1, Waterloo, ON, Canada"
-    research "video query processing, ground-truthed corpus, video data"
+    label "Lalita Narupiyakul"
+    affiliation "University of Ontario Institute of Technology, Canada"
+    research "focus part, FET system, focus information"
   ]
   node [
     id 5
-    label "Giuseppe Carenini"
-    affiliation "University of British Columbia, Vancouver, B.C. Canada"
-    research "evaluative argument, interactive AVs, real user"
+    label "K. Clint Slatton"
+    affiliation "University of Florida, Gainesville, FL"
+    research "airborne LiDAR data, individual tree, LiDAR data"
   ]
   node [
     id 6
-    label "Xing Dong Yang"
-    affiliation "University of Alberta, Edmonton, Canada"
-    research "mobile device, A-coord input, magic finger"
+    label "Seokwon Yang"
+    affiliation "Nan"
+    research "Active Capability, Interactive Tool"
   ]
   node [
     id 7
-    label "Jennifer Gluck"
-    affiliation "University of British Columbia, Vancouver, BC, Canada"
-    research "large music collection, haptic mapping, symbolic haptic rendering"
+    label "Liang-Jie Zhang"
+    affiliation "Nan"
+    research "Web service, Web Services Research, TrendsWeb Services Research"
   ]
   node [
     id 8
-    label "Roberta M. Melvin"
-    affiliation "University of Manitoba, Winnipeg, Canada"
-    research "networked technology, work practice, work purpose"
+    label "Alan D. George"
+    affiliation "Highperformance Computing and Simulation (HCS)  Research Laboratory, Department of Electrical and Computer Engineering,  University of Florida, P.O. Box 116200, Gainesville, FL 326116200,  USA"
+    research "parallel performance wizard, performance analysis tool, application performance"
   ]
   node [
     id 9
-    label "Charles L. A. Clarke"
-    affiliation "School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada"
-    research "information retrieval, information retrieval evaluation, secondary retrieval step"
+    label "H Lam"
+    affiliation "Univ. of Florida, Gainesville"
+    research "Web service, application system, Grid service"
   ]
   node [
     id 10
-    label "Andrea Bunt"
-    affiliation "David R. Cheriton School of Computer Science, University of Waterloo, Waterloo, ON, Canada"
-    research "user community, A-coord input, adaptive support"
+    label "Sumalatha Adabala"
+    affiliation "Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida, Gainesville, FL"
+    research "In-VIGO approach, virtual grid, virtualization technology"
   ]
   node [
     id 11
-    label "Andrew J. G. Cockburn"
-    affiliation "Department of Computing Science, Stirling University, STIRLING, Scotland, FK9 4LA"
-    research "spatial memory, user performance, user interface"
+    label "Yihua Huang"
+    affiliation "Nan"
+    research "Computer Organization, computer science, computer system"
   ]
   node [
     id 12
-    label "Will Haines"
-    affiliation "SRI International, Menlo Park, CA, USA"
-    research "end user, new approach, artificial intelligence"
+    label "Adam Jacobs"
+    affiliation "1010data Inc."
+    research "radiation effect, Gigabit Ethernet, upset rate"
   ]
   node [
     id 13
-    label "Pourang Irani"
-    affiliation "IEEE"
-    research "mobile device, interaction technique, geon diagram"
+    label "Ed Barkmeyer"
+    affiliation "National Institute of Standards and Technology, Gaithersburg, MD"
+    research "semantic-mediation architecture, database system, communication requirement"
   ]
   node [
     id 14
-    label "Richard Mann"
-    affiliation "Cardinal Health, USA"
-    research "motion parallax, image motion, motion boundary"
+    label "Karthik Nagarajan"
+    affiliation "University of Florida"
+    research "hardware paradigm, hardware design, RC Amenability Test"
   ]
   node [
     id 15
-    label "Carl A. Gutwin"
-    affiliation "Univerity of Saskatchewan"
-    research "groupware system, group awareness, real-time groupware"
+    label "Greg Stitt"
+    affiliation "University of Florida, Gainesville, FL"
+    research "application designer, performance improvement, FPGA accelerator"
   ]
   node [
     id 16
-    label "Edward Lank"
-    affiliation "University of Waterloo, Waterloo, Ontario, Canada"
-    research "spatial correspondence, surface B, smartphone screen"
+    label "Brian Holland"
+    affiliation "MITRE Corp."
+    research "application performance, performance bottleneck, performance metrics"
   ]
   node [
     id 17
-    label "Aaron Spaulding"
-    affiliation "SRI International, Menlo Park, CA"
-    research "declarative knowledge base, knowledge base, science textbook"
+    label "Haifei Li"
+    affiliation "Nan"
+    research "negotiation agent, negotiation primitive, whole negotiation process"
   ]
   node [
     id 18
-    label "Benjamin Lafreniere"
-    affiliation "University of Waterloo, Waterloo, ON, Canada"
-    research "user community, software usability, usability issue"
+    label "Yu Long"
+    affiliation "Nan"
+    research "original DPS, value range, better diversity"
   ]
   node [
     id 19
-    label "Per-Ola Kristensson"
-    affiliation "University of St Andrews"
-    research "user study, text entry evaluation, text entry method"
+    label "Chris Conger"
+    affiliation "University of Florida, Gainesville"
+    research "space-based radar, RapidIO network, RapidIO feasibility study"
   ]
   edge [
     source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -150,162 +130,167 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 0
+    target 14
+    relation "collaborate"
+  ]
+  edge [
     source 1
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 5
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
+    source 3
+    target 15
     relation "collaborate"
   ]
   edge [
     source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 9
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
     source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
     target 14
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 18
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 17
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 19
+    source 9
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 9
     target 13
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 17
     relation "collaborate"
   ]
@@ -315,8 +300,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 15
+    source 12
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -325,12 +320,12 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 18
+    source 15
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 17
+    source 16
     target 19
     relation "collaborate"
   ]

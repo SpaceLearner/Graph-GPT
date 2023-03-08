@@ -1,37 +1,47 @@
-Timothy Wilson	Jianbo Zhang	{'relation': 'collaborate'}
-Timothy Wilson	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Timothy Wilson	A. D. McGettrick	{'relation': 'collaborate'}
-Timothy Wilson	S. E. Conry	{'relation': 'collaborate'}
-Timothy Wilson	Roger B. Dannenberg	{'relation': 'collaborate'}
-Timothy Wilson	Guofang Jiao	{'relation': 'collaborate'}
-Timothy Wilson	Robert C. Seacord	{'relation': 'collaborate'}
-Timothy Wilson	David Svoboda	{'relation': 'collaborate'}
-Timothy Wilson	John Impagliazzo	{'relation': 'collaborate'}
-Timothy Wilson	Thomas Plum	{'relation': 'collaborate'}
-Hua Chen	Yan Wen	{'relation': 'collaborate'}
-Hua Chen	Jinjing Zhao	{'relation': 'collaborate'}
-Hua Chen	Jianbo Zhang	{'relation': 'collaborate'}
-Shujun Zhang	Yun Liu	{'relation': 'collaborate'}
-Shujun Zhang	Jianbo Zhang	{'relation': 'collaborate'}
-Yun Liu	Jianbo Zhang	{'relation': 'collaborate'}
-S. E. Conry	John Impagliazzo	{'relation': 'collaborate'}
-S. E. Conry	A. D. McGettrick	{'relation': 'collaborate'}
-S. E. Conry	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Robert C. Seacord	David Svoboda	{'relation': 'collaborate'}
-Robert C. Seacord	Thomas Plum	{'relation': 'collaborate'}
-Robert C. Seacord	Roger B. Dannenberg	{'relation': 'collaborate'}
-David Svoboda	Thomas Plum	{'relation': 'collaborate'}
-David Svoboda	Roger B. Dannenberg	{'relation': 'collaborate'}
-Jinjing Zhao	Jianbo Zhang	{'relation': 'collaborate'}
-Jinjing Zhao	Yan Wen	{'relation': 'collaborate'}
-John Impagliazzo	A. D. McGettrick	{'relation': 'collaborate'}
-John Impagliazzo	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Thomas Plum	Roger B. Dannenberg	{'relation': 'collaborate'}
-Jiping Liu	Bei Wang	{'relation': 'collaborate'}
-Jiping Liu	Jianbo Zhang	{'relation': 'collaborate'}
-Yan Wen	Jianbo Zhang	{'relation': 'collaborate'}
-Michael A. Harper	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Guofang Jiao	Jianbo Zhang	{'relation': 'collaborate'}
-Nicole Drechsler	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-A. D. McGettrick	Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Jianbo Zhang	Bei Wang	{'relation': 'collaborate'}
+E. P. Mariatos	Costas E. Goutis	{'relation': 'collaborate'}
+E. P. Mariatos	Michael K. Birbas	{'relation': 'collaborate'}
+E. P. Mariatos	S. S. Nikolaidis	{'relation': 'collaborate'}
+E. P. Mariatos	G.-P. Economou	{'relation': 'collaborate'}
+E. P. Mariatos	G. D. Papadopoulos	{'relation': 'collaborate'}
+E. P. Mariatos	S. K. Tsasakou	{'relation': 'collaborate'}
+E. P. Mariatos	N. C. Petrellis	{'relation': 'collaborate'}
+E. P. Mariatos	D. E. Metafas	{'relation': 'collaborate'}
+E. P. Mariatos	P. Merakos	{'relation': 'collaborate'}
+E. P. Mariatos	N. S Voros	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	Michael K. Birbas	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	V. Mariatos	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	N. C. Petrellis	{'relation': 'collaborate'}
+A. Milidonis	Costas E. Goutis	{'relation': 'collaborate'}
+A. Milidonis	Dimitrios J. Soudris	{'relation': 'collaborate'}
+P. Merakos	K. Masselos	{'relation': 'collaborate'}
+P. Merakos	Michael K. Birbas	{'relation': 'collaborate'}
+P. Merakos	Costas E. Goutis	{'relation': 'collaborate'}
+D. E. Metafas	Costas E. Goutis	{'relation': 'collaborate'}
+D. E. Metafas	K. Masselos	{'relation': 'collaborate'}
+D. E. Metafas	S. S. Nikolaidis	{'relation': 'collaborate'}
+D. E. Metafas	G.-P. Economou	{'relation': 'collaborate'}
+V. Mariatos	Michael K. Birbas	{'relation': 'collaborate'}
+V. Mariatos	N. C. Petrellis	{'relation': 'collaborate'}
+G. Anagnostopoulos	Costas E. Goutis	{'relation': 'collaborate'}
+Michael K. Birbas	Costas E. Goutis	{'relation': 'collaborate'}
+Michael K. Birbas	F. Plessas	{'relation': 'collaborate'}
+Michael K. Birbas	Dimitrios J. Soudris	{'relation': 'collaborate'}
+Michael K. Birbas	G. D. Papadopoulos	{'relation': 'collaborate'}
+Michael K. Birbas	N. C. Petrellis	{'relation': 'collaborate'}
+Michael K. Birbas	S. K. Tsasakou	{'relation': 'collaborate'}
+Michael K. Birbas	Grigorios Kalivas	{'relation': 'collaborate'}
+Michael K. Birbas	N. S Voros	{'relation': 'collaborate'}
+Costas E. Goutis	K. Masselos	{'relation': 'collaborate'}
+Costas E. Goutis	J. Cornelis	{'relation': 'collaborate'}
+Costas E. Goutis	Dimitrios J. Soudris	{'relation': 'collaborate'}
+Costas E. Goutis	S. S. Nikolaidis	{'relation': 'collaborate'}
+Costas E. Goutis	G.-P. Economou	{'relation': 'collaborate'}
+Dimitrios J. Soudris	K. Masselos	{'relation': 'collaborate'}
+Dimitrios J. Soudris	N. S Voros	{'relation': 'collaborate'}
+Dimitrios J. Soudris	S. S. Nikolaidis	{'relation': 'collaborate'}
+Grigorios Kalivas	F. Plessas	{'relation': 'collaborate'}
+S. K. Tsasakou	N. S Voros	{'relation': 'collaborate'}
+G. D. Papadopoulos	N. C. Petrellis	{'relation': 'collaborate'}
+S. S. Nikolaidis	G.-P. Economou	{'relation': 'collaborate'}
+N. S Voros	K. Masselos	{'relation': 'collaborate'}
+K. Masselos	J. Cornelis	{'relation': 'collaborate'}

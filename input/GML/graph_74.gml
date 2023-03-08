@@ -1,142 +1,167 @@
 graph [
   node [
     id 0
-    label "Stefano Mattoccia"
-    affiliation "DEISARCES, University of Bologna  Sede di Cesena, Viale Rasi e Spineli 176, 47023 Cesena, Italy"
-    research "experimental result, stereo vision system, stereo vision"
+    label "S. A. Abramov"
+    affiliation "Dorodnicyn Computing Center, Russian Academy of Sciences, Moscow, Russia 119991 and Department of Mechanics and Mathematics, Moscow State University, Leninskie gory, Moscow, Russia 119992"
+    research "Computer Algebra, polynomial coefficient, linear difference equation"
   ]
   node [
     id 1
-    label "Marco Andreetto"
-    affiliation "California Institute of Technology, Pasadena 91125"
-    research "Dental Plaster, reconstruction system, current estimate"
+    label "B. L. Leong"
+    affiliation "Univ. of Waterloo, Waterloo, Ont., Canada"
+    research "strict interpretation, grammar form, unambiguous grammar form"
   ]
   node [
     id 2
-    label "Riccardo Bernardini"
-    affiliation "Dept. of Electr. Eng., Fed. Inst. of Technol., Lausanne"
-    research "oversampled filter bank, filter bank, cosine-modulated filter bank"
+    label "K. M. Heal"
+    affiliation "Nan"
+    research "guideMaple V, programming guideMaple V, Maple V"
   ]
   node [
     id 3
-    label "R. Rinaldo"
-    affiliation "Dept. of Electr. Eng., California Univ., Berkeley, CA"
-    research "approximation problem, inverse problem, IFS parameter"
+    label "Keith O. Geddes"
+    affiliation "Symbolic Computation Group, Department of Computer Science, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+    research "Maple system, efficient adaptive algorithm, genetic algorithm"
   ]
   node [
     id 4
-    label "Enrico Malavasi"
-    affiliation "Dept. of Electr. Eng. &#38; Comput. Sci., California Univ., Berkeley, CA"
-    research "analog IC, design process, CMOS analog circuit"
+    label "T. J. Smedley"
+    affiliation "Dalhousie University, Halifax, Nova Scotia, Canada"
+    research "visual programming, visual programming language, visual dataflow language"
   ]
   node [
     id 5
-    label "N. Benvenuto"
-    affiliation "Department of Information Engineering, University of Padova, Padova, Italy 35131"
-    research "computational complexity, stable system, network resource allocation"
+    label "Bruce W. Char"
+    affiliation "Drexel University, Philadelphia, PA, USA"
+    research "entry-level course, year common course, Maple TA"
   ]
   node [
     id 6
-    label "G. A. Mian"
-    affiliation "Univ. di Padova, Padova, Italy"
-    research "second-order fixed-point digital filter, FIR filters inmagnitude, EKF filter"
+    label "Bruno Salvy"
+    affiliation "Algorithms Project, Inria (France)"
+    research "differential equation, fast algorithm, linear recurrence"
   ]
   node [
     id 7
-    label "S. Dal Poz"
-    affiliation "Seleco SpA, Pordenone"
-    research "rate converter, TV image quality, commercial improved quality PAL"
+    label "L. Y. Stefanus"
+    affiliation "University of Indonesia, Indonesia"
+    research "polynomial p, convolution basis function, dual functionals"
   ]
   node [
     id 8
-    label "Soren Forchhammer"
-    affiliation "COM.DTU, Denmark"
-    research "coding performance, progressive coding, refinement coding"
+    label "W. Morven Gentleman"
+    affiliation "Nan"
+    research "black box, good circuit designer, good programmer"
   ]
   node [
     id 9
-    label "A. Baschirotto"
-    affiliation "Dipartimento di Elettronica, Pavia Univ."
-    research "input signal, digital decoder, m BiCMOS technology"
+    label "Gaston H. Gonnet"
+    affiliation "Informatik ETH Z&#252;rich, Switzerland"
+    research "Maple system, efficient algorithm, computational problem"
   ]
   node [
     id 10
-    label "Fabio Marton"
-    affiliation "CRS4, POLARIS Ed. 1, 09010 Pula (CA), Italy"
-    research "massive model, interactive rendering, adaptive rendering"
+    label "Gregory J. Fee"
+    affiliation "Dept. of Mathematics and Statistics, Simon Fraser University, Burnaby, B.C., Canada V5A 1S6"
+    research "computer algebra system, numerical package, series expansion"
   ]
   node [
     id 11
-    label "Mary Ellen Bock"
-    affiliation "Purdue University, West Lafayette, IN"
-    research "unusual substrings, possible substrings, unusual wordsThe problem"
+    label "T. C. Scott"
+    affiliation "Institut f&#252;r Physikalische Chemie, RWTH Aachen University, 52056 Aachen, Germany and Zephyr Health Inc, 589 Howard Street, 3rd floor, San Francisco CA, USA"
+    research "exact solution, Lambert W function, five-dimensional surface"
   ]
   node [
     id 12
-    label "Giancarlo Calvagno"
-    affiliation "Dipartimento di Elettronica e Informatica, Universit&#224; di Padova, 35131 Padova, Italy"
-    research "experimental result, proposed approach, motion compensation"
+    label "S. Dooley"
+    affiliation "IBM Research, Yorktown Heights, NY"
+    research "presentation markup, MathML content, MathML content expression"
   ]
   node [
     id 13
-    label "Pietro Zanuttigh"
-    affiliation "Department of Information Engineering, University of Padova, Via Gradenigo 6/B, 35131 Padova, Italy"
-    research "depth map, depth data, geometry information"
+    label "S. R. Czapor"
+    affiliation "Laurentian Univ., Sudbury, Ont. Canada"
+    research "algebraic equation, polynomial reduction, Combining Buchberger"
   ]
   node [
     id 14
-    label "Carlo Ferrari"
-    affiliation "Nan"
-    research "Mapping XML Elements, XML data, XML document"
+    label "George Labahn"
+    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, UST Lille, 59655, Waterloo, ON, Canada"
+    research "input matrix, fraction-free algorithm, new algorithm"
   ]
   node [
     id 15
-    label "Anup Basu"
-    affiliation "Nan"
-    research "alternative model, fish-eye lens"
+    label "R. G. McLenaghan"
+    affiliation "Department of Applied Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
+    research "component tensor calculation, tensor polynomialsA systematic study, Hamilton-Jacobi theory"
   ]
   node [
     id 16
-    label "R. Manduchi"
-    affiliation "Dipartimento di Elettronica e Inf., Padova Univ."
-    research "composite frame, sampling structure conversion, generalized factorable"
+    label "Ha Le"
+    affiliation "Symbolic Computation Group, University of Waterloo, Waterloo, Canada"
+    research "rational function, hypergeometric term, definite sum"
   ]
   node [
     id 17
-    label "Nicola Orio"
-    affiliation "Dipartimento di Ingegneria dell'informazione, Via Gradenigo n. 6/a, 35131, Padova, Italy"
-    research "music information retrieval, music score, music document"
+    label "Stephen Michael Watt"
+    affiliation "Ontario Research Centre for Computer Algebra, Ontario, Canada URL: <url>www.orcca.on.ca</url>"
+    research "mathematical expression, abstract matrix, handwritten mathematical symbol"
   ]
   node [
     id 18
-    label "G. Cortelazzo"
-    affiliation "CNR, Italy"
-    research "frequency domain, depth data, proposed technique"
+    label "Ziming Li"
+    affiliation "Nan"
+    research "Weak Periodic Signal, new method, output signal"
   ]
   node [
     id 19
-    label "P Zamperoni"
-    affiliation "Technische Univ. Braunschweig, Braunschweig, W. Germany"
-    research "Hilfe von dilatierten KernenHow, Performance AssessmentHierarchische Darstellung von, von Bin"
+    label "Michael B. Monagan"
+    affiliation "Nan"
+    research "In-place Arithmetic"
   ]
   edge [
     source 0
-    target 13
+    target 3
     relation "collaborate"
   ]
   edge [
     source 0
-    target 18
+    target 16
     relation "collaborate"
   ]
   edge [
     source 1
-    target 18
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 18
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -145,18 +170,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
+    source 3
+    target 13
     relation "collaborate"
   ]
   edge [
     source 3
-    target 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -166,12 +191,62 @@ graph [
   ]
   edge [
     source 3
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 18
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -181,22 +256,32 @@ graph [
   ]
   edge [
     source 5
-    target 18
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 18
+    source 5
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 5
     target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -205,62 +290,57 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 8
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
+    target 9
     relation "collaborate"
   ]
   edge [
     source 9
-    target 18
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 19
     relation "collaborate"
   ]
   edge [
     source 10
-    target 18
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
     relation "collaborate"
   ]
   edge [
     source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 14
+    target 19
     relation "collaborate"
   ]
   edge [
     source 12
-    target 18
+    target 17
     relation "collaborate"
   ]
   edge [
     source 13
-    target 18
+    target 14
     relation "collaborate"
   ]
   edge [
     source 14
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 14
     target 18
     relation "collaborate"
   ]
@@ -271,11 +351,6 @@ graph [
   ]
   edge [
     source 17
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 18
     target 19
     relation "collaborate"
   ]

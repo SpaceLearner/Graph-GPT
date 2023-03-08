@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Thomas Mirlacher">
+      <data key="affiliation">IRIT, University of Toulouse, Toulouse, France</data>
+      <data key="research">living room, remote control, user experience</data>
+    </node>
+    <node id="Manuel Will">
+      <data key="affiliation">Universität Salzburg, Salzburg, Austria</data>
+      <data key="research">case study, location-based mobile game, Oz framework</data>
+    </node>
+    <node id="Marianna Obrist">
+      <data key="affiliation">Newcastle University, Newcastle upon Tyne, UK</data>
+      <data key="research">user experience, UX research, UX evaluation method</data>
+    </node>
+    <node id="Ben A. M. Schouten">
+      <data key="affiliation">Dept. Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands</data>
+      <data key="research">face image, health care, home care robot</data>
+    </node>
+    <node id="Ronald L. Boring">
+      <data key="affiliation">OECD Halden Reactor Project, Halden, Norway</data>
+      <data key="research">human-computer interaction, control room, interaction technique</data>
+    </node>
+    <node id="Jan Gulliksen">
+      <data key="affiliation">KTH Royal Institute of Technology</data>
+      <data key="research">usability professional, usability work, usability designer</data>
+    </node>
+    <node id="Cédric Bach">
+      <data key="affiliation">Université Paul Sabatier, Toulouse, France and Metapages, Toulouse, France</data>
+      <data key="research">user experience, mixed interaction model, design step</data>
+    </node>
+    <node id="Katherine Isbister">
+      <data key="affiliation">NYU polytechnic Institute/NYU</data>
+      <data key="research">social ECA, cross-cultural communication, social agent</data>
+    </node>
+    <node id="Dennis Wixon">
+      <data key="affiliation">Microsoft, Redmond, Washington, USA</data>
+      <data key="research">best practice, executive leader, best practicesThis workshop</data>
+    </node>
+    <node id="Sandra Basnyat">
+      <data key="affiliation">University Toulouse III, Toulouse, France</data>
+      <data key="research">usability evaluation, interactive system, Formal Description Technique</data>
+    </node>
+    <node id="Manfred Tscheligi">
+      <data key="affiliation">CDL on Contextual Interfaces, Salzburg, Austria</data>
+      <data key="research">user experience, user study, user acceptance</data>
+    </node>
+    <node id="Licia Calvi">
+      <data key="affiliation">University of Applied Sciences, DX Breda, The Netherlands</data>
+      <data key="research">casual game, Game User Research, facial muscle</data>
+    </node>
+    <node id="Newton Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">Facebook Nation, Total Information Awareness, Facebook co-founder</data>
+    </node>
+    <node id="Andreas Boldt">
+      <data key="affiliation">Department of Cardiac Surgery, University of Leipzig, Heart Center Leipzig, 04289 Leipzig, Germany</data>
+      <data key="research">immunosuppressive therapy, Emotional Flowers, Pharmacodynamic monitoring</data>
+    </node>
+    <node id="Ebba Thora Hvannberg">
+      <data key="affiliation">PROLEARN Network of Excellence</data>
+      <data key="research">usability problem, usability evaluation, usability test</data>
+    </node>
+    <node id="Philipe Palanque">
+      <data key="affiliation">University Paul Sabatier, Toulouse Cedex</data>
+      <data key="research">interactive cockpit, interactive system, model-based approach</data>
+    </node>
+    <node id="Daniel Cook">
+      <data key="affiliation">Department of Mechanical Engineering, University of Nevada, Las Vegas</data>
+      <data key="research">Las Vegas, Re-living Las Vegas, different content</data>
+    </node>
+    <node id="Regina Bernhaupt">
+      <data key="affiliation">ruwido, Neumarkt, Austria &amp; University of Toulouse, Toulouse, France</data>
+      <data key="research">user experience, living room, interaction technique</data>
+    </node>
+    <node id="J L Wesson">
+      <data key="affiliation">University Way, Summerstrand, Port Elizabeth, South Africa</data>
+      <data key="research">tilt interaction, usability problem, mobile device</data>
+    </node>
+    <node id="Florian Mueller">
+      <data key="affiliation">FX Palo Alto Laboratory, 3400 Hillview Avenue, Bldg. 4, Palo Alto, CA</data>
+      <data key="research">supplementary material, right video, video player</data>
+    </node>
+    <edge source="Thomas Mirlacher" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Mirlacher" target="Philipe Palanque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Mirlacher" target="Andreas Boldt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Mirlacher" target="Manfred Tscheligi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manuel Will" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marianna Obrist" target="Manfred Tscheligi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marianna Obrist" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben A. M. Schouten" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben A. M. Schouten" target="Florian Mueller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald L. Boring" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald L. Boring" target="Sandra Basnyat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Gulliksen" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Gulliksen" target="J L Wesson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Gulliksen" target="Ebba Thora Hvannberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cédric Bach" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katherine Isbister" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katherine Isbister" target="Licia Calvi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katherine Isbister" target="Florian Mueller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katherine Isbister" target="Daniel Cook">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis Wixon" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis Wixon" target="Manfred Tscheligi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis Wixon" target="Florian Mueller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sandra Basnyat" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manfred Tscheligi" target="Newton Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manfred Tscheligi" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manfred Tscheligi" target="Andreas Boldt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manfred Tscheligi" target="Florian Mueller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Licia Calvi" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Newton Lee" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Boldt" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ebba Thora Hvannberg" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philipe Palanque" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Cook" target="Regina Bernhaupt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Regina Bernhaupt" target="Florian Mueller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Regina Bernhaupt" target="J L Wesson">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

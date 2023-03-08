@@ -1,133 +1,123 @@
 graph [
   node [
     id 0
-    label "M. H. Lin"
-    affiliation "Acuity Technol., Menlo Park, CA, USA"
-    research "new binocular stereo algorithm, proposed algorithm, smooth surface"
+    label "L. Wong"
+    affiliation "Institute for Infocomm Research 21 Heng Mui Keng Terrace, Singapore 119613, Singapore"
+    research "query language, closed pattern, frequent itemsets"
   ]
   node [
     id 1
-    label "Wei Lin"
+    label "See-Kiong Ng"
     affiliation "Nan"
-    research "QIRA code, bit error ratio, excellent error"
+    research "computational molecular genetics, microsatellite genotyping problem"
   ]
   node [
     id 2
-    label "Philippe Sartori"
-    affiliation "Motorola Labs, Motorola Inc., Schaumburg, IL"
-    research "adaptive modulation, coding scheme, robust space-time block coding"
+    label "Rajesh Chowdhary"
+    affiliation "Biomedical Informatifcs Research Center, MCRF, Marshfield Clinic, 1000 North Oak Avenue, Marshfield, WI 54449, USA"
+    research "protein interaction, supplementary data, Bioinformatics online"
   ]
   node [
     id 3
-    label "T. C. Wang"
-    affiliation "Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan"
-    research "small animal, automatic robot arm system, entire system accuracy"
+    label "Jinfeng Zhang"
+    affiliation "Beijing University of Aeronautics and Astronautics, China"
+    research "mobile host, multi-hop path, P2P network"
   ]
   node [
     id 4
-    label "Tomoya Sugahara"
-    affiliation "Nan"
-    research "GaN quantum, Large Schottky barrier, memory operation"
+    label "Daisuke Kihara"
+    affiliation "Purdue University, West Lafayette, Indiana"
+    research "textual information, protein function, query protein"
   ]
   node [
     id 5
-    label "Peter G. Eliseev"
-    affiliation "Nan"
-    research "GaN quantum, blue light emitting diodesInfluence, metalorganic chemical vapor deposition"
+    label "R. Ayesha Ali"
+    affiliation "Department of Statistics, University of Washington, Seattle, WA"
+    research "ancestral graph, Markov equivalence class, pairwise Markov property"
   ]
   node [
     id 6
-    label "C. C. Yang"
+    label "Jinyan Li"
     affiliation "Nan"
-    research "color image processingA, final processed image, image processing"
+    research "Sentiment Analysis, neutral vocabulary, Language Toolkit"
   ]
   node [
     id 7
-    label "Shiro Sakai"
-    affiliation "Nan"
-    research "GaN quantum, MOVPELarge Schottky barrier, growth mechanism"
+    label "Seng Hong Seah"
+    affiliation "Institute for Infocomm Research, 21 Heng Mui Keng Terrace, Singapore 119613"
+    research "structural data, sequence annotation, functional classification"
   ]
   node [
     id 8
-    label "Yoshihiro Shintani"
-    affiliation "Nan"
-    research "growth mechanism, low pressure, terraced substrate"
+    label "D. K. Kaushik"
+    affiliation "King Abdullah University of Science and Technology, Saudi Arabia"
+    research "high sustained performance, processor performance, simple performance model"
   ]
   node [
     id 9
-    label "David Zimmerman"
-    affiliation "ZAccess Consulting"
-    research "formalize test criterion, test case, test coverage"
+    label "P. Kalnis"
+    affiliation "KAUST, Saudi Arabia"
+    research "data transformation, data utility, basket data"
   ]
   node [
     id 10
-    label "K. F. Huang"
-    affiliation "Nan"
-    research "InGaAlP layer, cracker temperature, molecular beam epitaxy"
+    label "Karim Awara"
+    affiliation "King Abdullah University of Science and Technology, Saudi Arabia"
+    research "Pregel system, runtime characteristic, graph mining system"
   ]
   node [
     id 11
-    label "C. L. Chen"
+    label "Michael Schramm"
     affiliation "Nan"
-    research "stainless steel sheet, commercial finite element analysis, spatial distribution"
+    research "quality management, sa Supplementary information, Bioinformatics online"
   ]
   node [
     id 12
-    label "Y. H. Huang"
-    affiliation "Department of Mathematics Education, National Taichung University, Taichung, Taiwan"
-    research "presence server, constant location change, simulation result"
+    label "Zhuo Zhang"
+    affiliation "Nan"
+    research "SIMD capacity, SIMD k-ary, SIMD processing unit"
   ]
   node [
     id 13
-    label "Kenji Shiojima"
-    affiliation "Nan"
-    research "electrical characteristic, memory operation, p-GaN contact"
+    label "Hani Jamjoom"
+    affiliation "IBM, T. J. Watson Research Center, Hawthorne, NY"
+    research "Pregel system, applied control, cloud provider"
   ]
   node [
     id 14
-    label "Katsushi Nishino"
-    affiliation "Nan"
-    research "GaN quantum, metalorganic chemical vapor deposition"
+    label "Vladimir Brusic"
+    affiliation "Cancer Vaccine Center, DanaFarber Cancer Institute, Harvard Medical School, Boston, MA, USA/ Department of Medicine, Harvard Medical School, Boston, MA, USA and Department of Computer Science, Me ..."
+    research "biological data, data mining, experimental data"
   ]
   node [
     id 15
-    label "W. Y. Guo"
-    affiliation "Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan and Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan"
-    research "white matter, gray matter, cerebral hemodynamics"
+    label "Vladimir B. Bajic"
+    affiliation "South African National Bioinformatics Institute, Bellville, South Africa"
+    research "sa Supplementary information, supplementary data, protein function"
   ]
   node [
     id 16
-    label "Allen Goldberg"
-    affiliation "Nan"
-    research "stream processing, stream processing problem, stream processingStream processing"
+    label "Xin Gao"
+    affiliation "School of Mathematics and Physics, North China Electric Power University, Beijing, China 102206"
+    research "project cost, completion time, Fractional Liu process"
   ]
   node [
     id 17
-    label "Marek Osi&#324;ski"
+    label "Allan Kamau"
     affiliation "Nan"
-    research "Optoelectronic Devices XVI, Optoelectronic Devices XVIIPhysics, Biomedical Applications IIPhysics"
+    research "sa Supplementary information, supplementary data, Bioinformatics online"
   ]
   node [
     id 18
-    label "T. H. Wu"
+    label "Dan Williams"
     affiliation "Nan"
-    research "video sequence, electronic image stabilization, image stabilization"
+    research "Networking Community, professional goal, networking goal"
   ]
   node [
     id 19
-    label "S. T. Chou"
-    affiliation "Nan"
-    research "InGaAlP layer, cracker temperature, molecular beam epitaxyThe"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
+    label "Merlin Veronika"
+    affiliation "Institute for Infocomm Research, Singapore"
+    research "Entrez Gene databases, transcription factor, TF entry"
   ]
   edge [
     source 0
@@ -141,12 +131,42 @@ graph [
   ]
   edge [
     source 0
-    target 3
+    target 2
     relation "collaborate"
   ]
   edge [
     source 0
-    target 18
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -155,13 +175,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 3
+    source 2
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 10
+    source 2
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 5
     relation "collaborate"
   ]
   edge [
@@ -171,112 +196,32 @@ graph [
   ]
   edge [
     source 2
-    target 5
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
     relation "collaborate"
   ]
   edge [
     source 3
-    target 6
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 4
     target 16
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 4
     target 15
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
     source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -286,17 +231,12 @@ graph [
   ]
   edge [
     source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
+    target 14
     relation "collaborate"
   ]
   edge [
     source 7
-    target 8
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -305,23 +245,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 13
     relation "collaborate"
   ]
   edge [
     source 9
-    target 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
     relation "collaborate"
   ]
   edge [
     source 10
-    target 19
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
     relation "collaborate"
   ]
   edge [
     source 11
-    target 12
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -330,23 +295,38 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 18
+    source 12
+    target 15
     relation "collaborate"
   ]
   edge [
     source 12
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 13
     target 18
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 14
     target 15
     relation "collaborate"
   ]
   edge [
     source 15
-    target 18
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
     relation "collaborate"
   ]
 ]

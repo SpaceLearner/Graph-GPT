@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chang-Ching Wu">
+      <data key="affiliation">University of California, Berkeley</data>
+      <data key="research">analog circuitsEfficient system-level design, analog platform-based design methodology, design decision</data>
+    </node>
+    <node id="Li-Der Chou">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Inf. Eng., Nat. Central Univ., Jhongli, Taiwan</data>
+      <data key="research">mobile social network service, potential care provider, potential impact</data>
+    </node>
+    <node id="Yue Cui">
+      <data key="affiliation">Nan</data>
+      <data key="research">Network SystemA communication model, communication delay, inter-processor communication link</data>
+    </node>
+    <node id="Chin-Chung Tsai">
+      <data key="affiliation">Nan</data>
+      <data key="research">sequential analysis, collaborative inquiry learning, knowledge construction behavior</data>
+    </node>
+    <node id="Chien-Hua Hsiao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Compound Virtual Field Trip, Actual Field TripThis article, actual field trip</data>
+    </node>
+    <node id="Yung-Chun Wu">
+      <data key="affiliation">Innovative Design and Energy Application Laboratory (IDEAL), Department of Aeronautical Engineering, National Formosa University, HuWei, Yunlin, Taiwan, R.O.C.</data>
+      <data key="research">phase controller, electronic ballast system, system controller</data>
+    </node>
+    <node id="Chien-Chao Huang">
+      <data key="affiliation">National Nano Device Laboratory, Hsinchu, Taiwan</data>
+      <data key="research">electrical characteristic, PDA time, conventional rapid thermal annealing</data>
+    </node>
+    <node id="Yi-Hung Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">driver route, current ridesharing system, novel approach</data>
+    </node>
+    <node id="Chun-Yen Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">parameter extraction technique, general semiconductor device parameter, model-independent parameter extraction program</data>
+    </node>
+    <node id="Yeong-Lin Lai">
+      <data key="affiliation">Nan</data>
+      <data key="research">T-shaped gate, novel fabrication technique, single-step electron-beam exposure</data>
+    </node>
+    <node id="E. Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">prosodic feature, concatenative speech synthesizerThis paper, fluent speech</data>
+    </node>
+    <node id="Tsai-Yen Li">
+      <data key="affiliation">Stanford Univ., Stanford, CA</data>
+      <data key="research">On-line robot motion planning, dynamic environmentsOn-line manipulation planning, path planning</data>
+    </node>
+    <node id="Ting-Chang Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">nanowire channel, multigate structure, experimental result</data>
+    </node>
+    <node id="Kuei-Ann Wen">
+      <data key="affiliation">Institute of Electronics, National Chiao Tung University, Taiwan</data>
+      <data key="research">m CMOS process, Polar Modulated CMOS Class-E, simulation result</data>
+    </node>
+    <node id="Wei-Ren Chen">
+      <data key="affiliation">Department of Mechanical Engineering, Chinese Culture University, Taipei, Taiwan, ROC</data>
+      <data key="research">axial load, Timoshenko beam, spinning axially</data>
+    </node>
+    <node id="Rohit Kumar">
+      <data key="affiliation">Raytheon BBN Technologies, Cambridge, MA, USA</data>
+      <data key="research">collaborative learning, social capability, exploratory learning environment</data>
+    </node>
+    <node id="Chien-Liang Liu">
+      <data key="affiliation">National Taiwan Normal University</data>
+      <data key="research">fall detection system, prototype system, keyword generation model</data>
+    </node>
+    <node id="Ming-Yu Lee">
+      <data key="affiliation">National Taiwan University of Science and Technology, Taipei 106, Taiwan</data>
+      <data key="research">recommendation system, cold-start problem, proposed recommendation system</data>
+    </node>
+    <node id="Yi-Chun Chen">
+      <data key="affiliation">Tatung University, Taipei, Taiwan</data>
+      <data key="research">topic map, topic chain, topic element</data>
+    </node>
+    <node id="Jau-Yien Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">WTA neural network, WTA process, iterative WTA net</data>
+    </node>
+    <edge source="Chang-Ching Wu" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chang-Ching Wu" target="Kuei-Ann Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li-Der Chou" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li-Der Chou" target="Ming-Yu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Cui" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Cui" target="Tsai-Yen Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Cui" target="Rohit Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chin-Chung Tsai" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chien-Hua Hsiao" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yung-Chun Wu" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yung-Chun Wu" target="Ting-Chang Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chien-Chao Huang" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi-Hung Wu" target="Chun-Yen Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Rohit Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Kuei-Ann Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Ting-Chang Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Jau-Yien Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Chien-Liang Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Ming-Yu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Tsai-Yen Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Yeong-Lin Lai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Yi-Chun Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="Wei-Ren Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Chang" target="E. Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yeong-Lin Lai" target="E. Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tsai-Yen Li" target="Rohit Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ting-Chang Chang" target="Wei-Ren Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,128 +1,123 @@
 graph [
   node [
     id 0
-    label "&#201;ric Anquetil"
-    affiliation "INSA de Rennes, France"
-    research "recognition system, handwritten character recognition system, recognition process"
+    label "Hrvoje Jenka&#269;"
+    affiliation "Institute for Communications Engineering, Munich University of Technology, Munich, Germany"
+    research "video stream, scalable video coding, wireless video"
   ]
   node [
     id 1
-    label "Yusuke Matsunaga"
-    affiliation "Guest Editor"
-    research "experimental result, proposed method, prefix graph"
+    label "Q. D. Yang"
+    affiliation "Rockwell Scientific, 1049, Camino Do Rios, Thousand Oaks, CA"
+    research "cohesive zone model, solder joint, cyclic loading"
   ]
   node [
     id 2
-    label "Cheng-Lin Liu"
-    affiliation "Nan"
-    research "recognition performance, Chinese Handwriting Recognition, delta feature"
+    label "L. D. Fink"
+    affiliation "Instructional Dev. Program, Oklahoma Univ., Norman, OK, USA"
+    research "research project, deep learning, higher level learning"
   ]
   node [
     id 3
-    label "Jairo Rocha"
-    affiliation "Department of Mathematics and Computer Science, Research Institute of Health Science (IUNICS), University of the Balearic Islands, 07122 Palma de Mallorca, Spain"
-    research "regular region, Maximal Trapezoid Set, polygonal approximation"
+    label "Z. Tang"
+    affiliation "Nan"
+    research "nested loop, Control Mechanism, efficient nested control mechanism"
   ]
   node [
     id 4
-    label "George Nagy"
-    affiliation "Nan"
-    research "relational table, web table, CSV table"
+    label "T. Yu"
+    affiliation "General Electric, USA"
+    research "comprehensive approach, systems level approach, perimeter protection"
   ]
   node [
     id 5
-    label "M. Ohki"
-    affiliation "Nippon Institute of Technology"
-    research "program comprehension, program visualization tool"
+    label "Nils Krahnstoever"
+    affiliation "General Electric Global Research, Niskayuna, NY"
+    research "visual human motion tracking, RFID-based object tracking, human motion tracking"
   ]
   node [
     id 6
-    label "Kazuki Nakashima"
+    label "Daesik Hong"
     affiliation "Nan"
-    research "junction pattern, frame line, form documentsForm document structure"
+    research "advanced peak, successive peak, new weighting coefficient"
   ]
   node [
     id 7
-    label "R. Mine"
-    affiliation "Hitachi Ltd., Central Research Laboratory, Tokyo, 1858601 Japan"
-    research "character string, character classification, character classifier"
+    label "G. Zhang"
+    affiliation "Dept. of Biological &#38; Agricultural Engg, The University of Georgia, Athens, GA"
+    research "composite reconstruction metric, biomechanical stability, virtual craniofacial reconstruction"
   ]
   node [
     id 8
-    label "Mounim A. El-Yacoubi"
-    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
-    research "Street Name, street line, street line image"
+    label "Mark Yeary"
+    affiliation "The University of Oklahoma"
+    research "shift-add network, MRCM problem, weather radar polarimetry"
   ]
   node [
     id 9
-    label "Yoshihiro Okada"
-    affiliation "Nan"
-    research "Intelligent Box, medical training system, collaborative environment"
+    label "G. Doretto"
+    affiliation "Dept. of CS &#38; EE, West Virginia University, Morgantown, WV"
+    research "object class, context aware dictionary, contextual information"
   ]
   node [
     id 10
-    label "M. Cheriet"
-    affiliation "Ecole de Technologie Superieure (Canada)"
-    research "interventional image, computational model, biological structures result"
+    label "Reiner Hegerl"
+    affiliation "Nan"
+    research "Steerable Pyramid Denoising, Electron Tomographic Reconstructions, Three-Dimensional Electron MicroscopyElectron tomography"
   ]
   node [
     id 11
-    label "H. Ikeda"
-    affiliation "Hiroshima Univ., Hiroshima City, Japan"
-    research "statistical data, generalized Hiroshima University, balanced filing scheme"
+    label "Xingfa Gu"
+    affiliation "Institute of Remote Sensing Applications, Chinese Academy of Sciences, Beijing, 100080, China"
+    research "hybrid method, atmospheric MTF, object-oriented method"
   ]
   node [
     id 12
-    label "K. Marukawa"
-    affiliation "Nan"
-    research "expression pattern, street number, class symbol lattice"
+    label "Dennis Chen"
+    affiliation "SPARC Technology, Sun Microsystems, Inc, 2550 Garcia Avenue, Mountain View, CA"
+    research "UltraSPARC microprocessor, UltraSPARC microprocessorThe overall verification, 64-bit SPARC V9 architecture"
   ]
   node [
     id 13
-    label "Sriharsha Veeramachaneni"
-    affiliation "Utah State Univ., Logan"
-    research "assertion-based debugger, real-time system"
+    label "C. Greco"
+    affiliation "Dipartimento di Automatica e Informatica, Politecnico di Torino, CENS (Centro Elaborazione Numerale del Segnale  CNR), Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
+    research "MUSMAR approachThe problem, MUSMAR self-tuner, acronym MUSMAR"
   ]
   node [
     id 14
-    label "Seong-Whan Lee"
-    affiliation "Dept. of Brain and Cognitive Eng. Korea Univ., Seoul, Korea"
-    research "sub-interaction model, dynamic probabilistic model, human interaction"
+    label "R. Nevatia"
+    affiliation "Nan"
+    research "evidence feature, Expandable Bayesian network, object description"
   ]
   node [
     id 15
-    label "H. Fujisawa"
-    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
-    research "character recognition, recognition accuracy, document recognition"
+    label "Kwei-Jay Lin"
+    affiliation "Nan"
+    research "air traffic control system, concurrency control, concurrency control manager"
   ]
   node [
     id 16
-    label "L Kerschberg"
-    affiliation "ECenter for EBusiness and Department of Information and Software Engineering, George Mason University Drive, Fairfax, VA 220304444 USA. <rfc822>kersch@gmu.edu</rfc822>"
-    research "data analysis, data inheritance, data integration"
+    label "B. Zhang"
+    affiliation "Physics School, Peking University, 100871 Beijing, China"
+    research "injection current, Microfluidic cooling, 2-GAFIBM milling rate"
   ]
   node [
     id 17
-    label "Robert E. Frederking"
-    affiliation "Language Technologies Institute, Pittsburgh, PA"
-    research "speech translation, machine translation system, medical speech translation"
+    label "Peter Tu"
+    affiliation "General Electric, USA"
+    research "search image, facial image, training data"
   ]
   node [
     id 18
-    label "Guy Lorette"
-    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
-    research "Lexical Analyzer, new modeling method, whole dictionary"
+    label "T. Stockhammer"
+    affiliation "Nomor Res., Bergen, Germany"
+    research "wireless video application, AVC video, video bit stream"
   ]
   node [
     id 19
-    label "T. Hisamitsu"
+    label "C. Weiss"
     affiliation "Nan"
-    research "iD PHOTO disk, magneto-optical disk, small re-writable optical disk"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
+    research "Asynchronous Learning Module Development, Better Student Learning, deep learning"
   ]
   edge [
     source 0
@@ -130,18 +125,18 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 0
+    target 19
+    relation "collaborate"
+  ]
+  edge [
     source 1
-    target 15
+    target 4
     relation "collaborate"
   ]
   edge [
     source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -151,22 +146,62 @@ graph [
   ]
   edge [
     source 2
-    target 6
+    target 19
     relation "collaborate"
   ]
   edge [
     source 2
-    target 10
+    target 8
     relation "collaborate"
   ]
   edge [
     source 3
-    target 15
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
     relation "collaborate"
   ]
   edge [
     source 4
     target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -175,103 +210,68 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 15
+    source 4
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 4
     target 11
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 15
+    source 4
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 15
+    source 4
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 15
+    source 5
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 18
+    source 5
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
+    source 5
     target 17
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 18
+    source 7
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 16
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 18
+    target 19
     relation "collaborate"
   ]
 ]

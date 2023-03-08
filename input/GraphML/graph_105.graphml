@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zhiqiang Chen">
+      <data key="affiliation">Department of Computer Science, University of New Mexico, Albuquerque, NM</data>
+      <data key="research">joint routing, dynamic network flow problem, problemsWe study network model</data>
+    </node>
+    <node id="Tanya Y. Berger-Wolf">
+      <data key="affiliation">DIMACS, Rutgers University, Piscataway, NJ, USA,Department of Computer Science, University of Illinois, Chicago, IL, USA</data>
+      <data key="research">dynamic network, social network, dynamic social network</data>
+    </node>
+    <node id="Josh Karlin">
+      <data key="affiliation">Google Inc., Cambridge, MA, USA</data>
+      <data key="research">Pretty Good BGP, Internet growth, Internet model</data>
+    </node>
+    <node id="A. Karlin">
+      <data key="affiliation">Nan</data>
+      <data key="research">sufficient condition, control law, insensitive system</data>
+    </node>
+    <node id="Nicholas D. Pattengale">
+      <data key="affiliation">Sandia National Laboratories, Albuquerque</data>
+      <data key="research">rogue taxon, support value, phylogenetic reconstruction</data>
+    </node>
+    <node id="B. M. E. Moret">
+      <data key="affiliation">Dept. of Computer Science, U. of New Mexico, Albuquerque, NM</data>
+      <data key="research">phylogenetic tree, phylogenetic network, phylogenetic reconstruction</data>
+    </node>
+    <node id="Piotr Sankowski">
+      <data key="affiliation">University of Rome</data>
+      <data key="research">dynamic algorithm, time algorithm, randomized time</data>
+    </node>
+    <node id="Jared Saia">
+      <data key="affiliation">Department of Computer Science and Engineering, University of Washington, Seattle, WA</data>
+      <data key="research">Byzantine agreement, log n, overlay network</data>
+    </node>
+    <node id="Frank McSherry">
+      <data key="affiliation">Microsoft Research, Mountain View, CA, USA</data>
+      <data key="research">Special Issue, Weighted PINQ, program committee</data>
+    </node>
+    <node id="Michael J. Collins">
+      <data key="affiliation">Sandia National Laboratories, Albuquerque, NM, USA</data>
+      <data key="research">Nonnegative integral subset representation, derive nontrivial bound, greedy heuristic</data>
+    </node>
+    <node id="Maxwell Young">
+      <data key="affiliation">National University of Singapore, Singapore, Singapore</data>
+      <data key="research">intensity matrix, message complexity, n node</data>
+    </node>
+    <node id="Yintao Yu">
+      <data key="affiliation">University of Illinois at UrbanaChampaign, UrbanaChampaign, IL, USA</data>
+      <data key="research">heterogeneous information network, object data mining, heterogeneous network</data>
+    </node>
+    <node id="Eric J. Anderson">
+      <data key="affiliation">HewlettPackard Laboratories, Palo Alto, CA</data>
+      <data key="research">O system, storage system, O workloads</data>
+    </node>
+    <node id="C. Abdallah">
+      <data key="affiliation">National Council for Scientific Research/Remote Sensing Center, Beirut, Lebanon</data>
+      <data key="research">satellite imagery, maximum accuracy level, major MM</data>
+    </node>
+    <node id="Stefan Saroiu">
+      <data key="affiliation">Microsoft Research</data>
+      <data key="research">content delivery, mobile application, research community</data>
+    </node>
+    <node id="Stephane Durocher">
+      <data key="affiliation">School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada</data>
+      <data key="research">unit ball graph, n point, n vertex</data>
+    </node>
+    <node id="Seth Gilbert">
+      <data key="affiliation">National University of Singapore</data>
+      <data key="research">high probability, message complexity, log n</data>
+    </node>
+    <node id="Steven D. Gribble">
+      <data key="affiliation">University of Washington</data>
+      <data key="research">web application, Web driver, Web page</data>
+    </node>
+    <node id="James Aspnes">
+      <data key="affiliation">IBM Almaden Res. Center, New York, NY, USA</data>
+      <data key="research">log n, data structure, n log n</data>
+    </node>
+    <node id="Olumuyiwa Oluwasanmi">
+      <data key="affiliation">Department of Computer Science, University of New Mexico, Albuquerque, NM</data>
+      <data key="research">Byzantine agreement, algorithms work, random bit</data>
+    </node>
+    <edge source="Zhiqiang Chen" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiqiang Chen" target="B. M. E. Moret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tanya Y. Berger-Wolf" target="Yintao Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tanya Y. Berger-Wolf" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josh Karlin" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Karlin" target="Eric J. Anderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Karlin" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas D. Pattengale" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas D. Pattengale" target="B. M. E. Moret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. M. E. Moret" target="C. Abdallah">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. M. E. Moret" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. M. E. Moret" target="Michael J. Collins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Piotr Sankowski" target="Jared Saia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Seth Gilbert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Stephane Durocher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Frank McSherry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Michael J. Collins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Steven D. Gribble">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Maxwell Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="C. Abdallah">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Eric J. Anderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="James Aspnes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Stefan Saroiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Yintao Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jared Saia" target="Olumuyiwa Oluwasanmi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Collins" target="Maxwell Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maxwell Young" target="Stephane Durocher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maxwell Young" target="Seth Gilbert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric J. Anderson" target="Steven D. Gribble">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Saroiu" target="Steven D. Gribble">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seth Gilbert" target="James Aspnes">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

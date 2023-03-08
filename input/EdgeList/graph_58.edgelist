@@ -1,111 +1,37 @@
-Yue Pan	Sarah Knoop	{'relation': 'collaborate'}
-Yue Pan	Ariel Farkash	{'relation': 'collaborate'}
-Yue Pan	David Gotz	{'relation': 'collaborate'}
-Yue Pan	C. Neti	{'relation': 'collaborate'}
-Yue Pan	Joseph P. Bigus	{'relation': 'collaborate'}
-Yue Pan	Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Yue Pan	H. Chang	{'relation': 'collaborate'}
-Yue Pan	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Yue Pan	Shahram Ebadollahi	{'relation': 'collaborate'}
-Yue Pan	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Yue Pan	Wang-Chiew Tan	{'relation': 'collaborate'}
-Yue Pan	A Shabo	{'relation': 'collaborate'}
-Yue Pan	Susanne Glissmann	{'relation': 'collaborate'}
-Yue Pan	Boaz Carmeli	{'relation': 'collaborate'}
-C. Neti	Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-C. Neti	Shahram Ebadollahi	{'relation': 'collaborate'}
-C. Neti	Abhishek Verma	{'relation': 'collaborate'}
-C. Neti	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-C. Neti	H. Chang	{'relation': 'collaborate'}
-C. Neti	Wang-Chiew Tan	{'relation': 'collaborate'}
-C. Neti	Ariel Farkash	{'relation': 'collaborate'}
-C. Neti	E. D. Young	{'relation': 'collaborate'}
-C. Neti	M. H. Schneider	{'relation': 'collaborate'}
-C. Neti	A Shabo	{'relation': 'collaborate'}
-C. Neti	Joseph P. Bigus	{'relation': 'collaborate'}
-C. Neti	Sarah Knoop	{'relation': 'collaborate'}
-C. Neti	Susanne Glissmann	{'relation': 'collaborate'}
-C. Neti	David Gotz	{'relation': 'collaborate'}
-C. Neti	Boaz Carmeli	{'relation': 'collaborate'}
-C. Neti	Andrew W. Senior	{'relation': 'collaborate'}
-C. Neti	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-C. Neti	E. Eide	{'relation': 'collaborate'}
-Sarah Knoop	H. Chang	{'relation': 'collaborate'}
-Sarah Knoop	Joseph P. Bigus	{'relation': 'collaborate'}
-Sarah Knoop	David Gotz	{'relation': 'collaborate'}
-Sarah Knoop	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Sarah Knoop	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Sarah Knoop	Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Sarah Knoop	Wang-Chiew Tan	{'relation': 'collaborate'}
-Sarah Knoop	A Shabo	{'relation': 'collaborate'}
-Sarah Knoop	Ariel Farkash	{'relation': 'collaborate'}
-Sarah Knoop	Boaz Carmeli	{'relation': 'collaborate'}
-Sarah Knoop	Shahram Ebadollahi	{'relation': 'collaborate'}
-Sarah Knoop	Susanne Glissmann	{'relation': 'collaborate'}
-Joseph P. Bigus	Ariel Farkash	{'relation': 'collaborate'}
-Joseph P. Bigus	A Shabo	{'relation': 'collaborate'}
-Joseph P. Bigus	Susanne Glissmann	{'relation': 'collaborate'}
-Joseph P. Bigus	Wang-Chiew Tan	{'relation': 'collaborate'}
-Joseph P. Bigus	Boaz Carmeli	{'relation': 'collaborate'}
-Joseph P. Bigus	Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Joseph P. Bigus	Shahram Ebadollahi	{'relation': 'collaborate'}
-Joseph P. Bigus	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Joseph P. Bigus	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Joseph P. Bigus	H. Chang	{'relation': 'collaborate'}
-Joseph P. Bigus	David Gotz	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Wang-Chiew Tan	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Susanne Glissmann	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	David Gotz	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	H. Chang	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Shahram Ebadollahi	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Ariel Farkash	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	A Shabo	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	Boaz Carmeli	{'relation': 'collaborate'}
-A Shabo	David Gotz	{'relation': 'collaborate'}
-A Shabo	Boaz Carmeli	{'relation': 'collaborate'}
-A Shabo	H. Chang	{'relation': 'collaborate'}
-A Shabo	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-A Shabo	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-A Shabo	Susanne Glissmann	{'relation': 'collaborate'}
-A Shabo	Ariel Farkash	{'relation': 'collaborate'}
-A Shabo	Shahram Ebadollahi	{'relation': 'collaborate'}
-A Shabo	Wang-Chiew Tan	{'relation': 'collaborate'}
-E. D. Young	M. H. Schneider	{'relation': 'collaborate'}
-Susanne Glissmann	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Susanne Glissmann	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Susanne Glissmann	Boaz Carmeli	{'relation': 'collaborate'}
-Susanne Glissmann	Shahram Ebadollahi	{'relation': 'collaborate'}
-Susanne Glissmann	Wang-Chiew Tan	{'relation': 'collaborate'}
-Susanne Glissmann	David Gotz	{'relation': 'collaborate'}
-Susanne Glissmann	H. Chang	{'relation': 'collaborate'}
-Susanne Glissmann	Ariel Farkash	{'relation': 'collaborate'}
-Wang-Chiew Tan	Shahram Ebadollahi	{'relation': 'collaborate'}
-Wang-Chiew Tan	H. Chang	{'relation': 'collaborate'}
-Wang-Chiew Tan	Ariel Farkash	{'relation': 'collaborate'}
-Wang-Chiew Tan	David Gotz	{'relation': 'collaborate'}
-Wang-Chiew Tan	Boaz Carmeli	{'relation': 'collaborate'}
-Wang-Chiew Tan	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Wang-Chiew Tan	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-H. Chang	Shahram Ebadollahi	{'relation': 'collaborate'}
-H. Chang	Ariel Farkash	{'relation': 'collaborate'}
-H. Chang	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-H. Chang	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-H. Chang	Boaz Carmeli	{'relation': 'collaborate'}
-H. Chang	David Gotz	{'relation': 'collaborate'}
-Ariel Farkash	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Ariel Farkash	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Ariel Farkash	Boaz Carmeli	{'relation': 'collaborate'}
-Ariel Farkash	Shahram Ebadollahi	{'relation': 'collaborate'}
-Ariel Farkash	David Gotz	{'relation': 'collaborate'}
-Shahram Ebadollahi	David Gotz	{'relation': 'collaborate'}
-Shahram Ebadollahi	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Shahram Ebadollahi	Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Shahram Ebadollahi	Boaz Carmeli	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	Boaz Carmeli	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	David Gotz	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	Boaz Carmeli	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	David Gotz	{'relation': 'collaborate'}
-Boaz Carmeli	David Gotz	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Mansour H. Assaf	{'relation': 'collaborate'}
+Mehmet Sahinoglu	E. M. Petriu	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Voicu Groza	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Coskun Bayrak	{'relation': 'collaborate'}
+Mehmet Sahinoglu	E. Chow	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Altaf Hossain	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Chuan Jin	{'relation': 'collaborate'}
+Mehmet Sahinoglu	Sunil R Das	{'relation': 'collaborate'}
+Yang Hong	Lu Liu	{'relation': 'collaborate'}
+Yang Hong	Q. Qin	{'relation': 'collaborate'}
+Yang Hong	Ning Zhang	{'relation': 'collaborate'}
+Weihui Dai	Weidong Zhao	{'relation': 'collaborate'}
+Weihui Dai	Chuan Jin	{'relation': 'collaborate'}
+L. Zhu	Q. Qin	{'relation': 'collaborate'}
+L. Zhu	J. Li	{'relation': 'collaborate'}
+L. Zhu	L. Wang	{'relation': 'collaborate'}
+Ning Zhang	Lu Liu	{'relation': 'collaborate'}
+Ning Zhang	Q. Qin	{'relation': 'collaborate'}
+E. M. Petriu	Altaf Hossain	{'relation': 'collaborate'}
+E. M. Petriu	Mansour H. Assaf	{'relation': 'collaborate'}
+E. M. Petriu	Sunil R Das	{'relation': 'collaborate'}
+E. M. Petriu	Chuan Jin	{'relation': 'collaborate'}
+E. M. Petriu	Voicu Groza	{'relation': 'collaborate'}
+Lu Liu	Q. Qin	{'relation': 'collaborate'}
+Q. Qin	J. Li	{'relation': 'collaborate'}
+Q. Qin	Chuan Jin	{'relation': 'collaborate'}
+Q. Qin	L. Wang	{'relation': 'collaborate'}
+Q. Qin	Timothy Kusky	{'relation': 'collaborate'}
+Q. Qin	Zhao-Liang Li	{'relation': 'collaborate'}
+Altaf Hossain	Voicu Groza	{'relation': 'collaborate'}
+Chuan Jin	Mansour H. Assaf	{'relation': 'collaborate'}
+Chuan Jin	Weidong Zhao	{'relation': 'collaborate'}
+Sunil R Das	Mansour H. Assaf	{'relation': 'collaborate'}
+Timothy Kusky	Zhao-Liang Li	{'relation': 'collaborate'}
+Voicu Groza	Mansour H. Assaf	{'relation': 'collaborate'}
+L. Wang	J. Li	{'relation': 'collaborate'}
+L. Wang	Zhao-Liang Li	{'relation': 'collaborate'}

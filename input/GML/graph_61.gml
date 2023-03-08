@@ -1,137 +1,132 @@
 graph [
   node [
     id 0
-    label "Yang Li"
-    affiliation "Department of Physics, Zhejiang University, Hangzhou 310027, China and Key Laboratory of Infrared Imaging Materials and Detectors, Shanghai Institute of Technical Physics, Chinese Academy of Scien ..."
-    research "chaotic neural network, control parameter space, control signal"
+    label "Hideki Shima"
+    affiliation "Carnegie Mellon University, Pittsburgh, PA"
+    research "candidate answer, textual entailment recognition, paraphrase pattern"
   ]
   node [
     id 1
-    label "Tao Guo"
-    affiliation "Peking University, Beijing"
-    research "annotated corpus, software tool, Chinese sense"
+    label "Frank Lin"
+    affiliation "Sperry Corporation"
+    research "32-bit MicroprocessorsThe benchmarking, 32-bit microprocessors, Benchmark Comparison"
   ]
   node [
     id 2
-    label "Ling Bai"
-    affiliation "Surveying and Mapping Institute of Information Engineering University, China"
-    research "Grid Information Service Model, e-Learning Grid, core grid middlewares"
+    label "Wang Sheng"
+    affiliation "Nan"
+    research "LEACH-C protocol, LEACH-C Protocols, routing protocols change"
   ]
   node [
     id 3
-    label "Zihou Wang"
-    affiliation "High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China 100190"
-    research "virtual network, novel cache size optimization, proposed scheme"
+    label "Keiji Yano"
+    affiliation "Ritsumeikan University, Kyoto, Japan"
+    research "city form, market demand, visual simulation"
   ]
   node [
     id 4
-    label "Hancong Duan"
-    affiliation "University of Electronic Science and Technology of China, China"
-    research "P2P network, P2P trust model, P2P application"
+    label "Hironori Kasahara"
+    affiliation "Dept. of Computer Science"
+    research "OSCAR compiler, times speedup, coarse grain task"
   ]
   node [
     id 5
-    label "Yanni Han"
-    affiliation "High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China"
-    research "virtual network, Topology-aware virtual network, WSDL-based virtual resource description"
+    label "Satoshi Tanaka"
+    affiliation "Nan"
+    research "data skew, estimation method, Dynamic Profiling"
   ]
   node [
     id 6
-    label "Jinxia Liu"
-    affiliation "Nan"
-    research "network lifetime, Energy-Aware Coverage, Node Scheduling Scheme"
+    label "T. Suda"
+    affiliation "University Netgroup Inc., P.O. Box 1288, Fallbrook, CA 92088, USA"
+    research "Molecular Communication, molecular communication system, network service"
   ]
   node [
     id 7
-    label "Wenjia Niu"
-    affiliation "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100190"
-    research "atomic service, web service, WSN service"
+    label "J. William Murdock"
+    affiliation "IBM Watson Research Center Hawthorne, NY"
+    research "candidate answer, meta-case-based reasoning, legacy knowledge system"
   ]
   node [
     id 8
-    label "Wiro J. Niessen"
-    affiliation "Erasmus Medical Centre"
-    research "proposed method, segmentation method, guide wire"
+    label "Jorji Nonaka"
+    affiliation "Kyoto University"
+    research "CompositorHardware-accelerated image composition, distinct image composition hardware, final image"
   ]
   node [
     id 9
-    label "Bin Tang"
+    label "Takahiro Nishino"
     affiliation "Nan"
-    research "adaptive behavior, choreography model, decentralized service composition"
+    research "natural disaster reduction, Disaster Reduction, Digital City"
   ]
   node [
     id 10
-    label "Guan-Ming Su"
-    affiliation "ESS Technol., Fremont, CA"
-    research "video coding, video program, cooperative video summary transmission"
+    label "Adam Lally"
+    affiliation "IBM T.J. Watson Research Center, Yorktown Heights, NY 10598, USA email: ferrucci@us.ibm.com alally@us.ibm.com"
+    research "candidate answer, complex factoid question, unstructured information"
   ]
   node [
     id 11
-    label "Hui Tang"
-    affiliation "Biomedical Imaging Group Rotterdam, Departments of Radiology and Medical Informatics, Erasmus MC, Rotterdam, The Netherlands, Imaging Science and Technology, Faculty of Applied Sciences, Delft Uni ..."
-    research "carotid artery, carotid bifurcation angle, segmentation method"
+    label "Tsutomu Terada"
+    affiliation "Kobe University/Japan Science and Technology Agency, Kobe, Hyogo, Japan"
+    research "sound source, user context, evaluation result"
   ]
   node [
     id 12
-    label "Song Ci"
-    affiliation "High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China,Department of Computer and Electronics Engineering, University of NebraskaLincoln, NE"
-    research "P2P cache, virtual network, forward cache"
+    label "James Fan"
+    affiliation "Skyline Drive, Hawthorne, NY"
+    research "knowledge base, candidate answer, shallow knowledge"
   ]
   node [
     id 13
-    label "Ding Tang"
-    affiliation "High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Science, Beijing, China"
-    research "atomic service, hierarchical workflow management, WSN application"
+    label "Shinji Doi"
+    affiliation "The authors are with the Graduate School of Engineering, Osaka University, Suitashi, 5650871 Japan. Email: tmiya@pwr.eng.osakau.ac.jp"
+    research "Storage System, reliable storage system, threshold scheme"
   ]
   node [
     id 14
-    label "Z. Q. Shi"
-    affiliation "Institute of Computing Technology, Beijin, China"
-    research "data mining, experimental result, data domain"
+    label "Tadanori Mizuno"
+    affiliation "Faculty of Information Scinece, Aichi Institute of Technology, Shizuoka, Japan"
+    research "sensor node, mobile terminal, mobile host"
   ]
   node [
     id 15
-    label "Tao Lin"
+    label "Hiroshi Kanayama"
     affiliation "Nan"
-    research "control system, wireless network, real-time control loop"
+    research "Global Delivery, Language Translation, Human-quality translation"
   ]
   node [
     id 16
-    label "Gang Li"
-    affiliation "Pusan National University, Busan, Republic of Korea"
-    research "Prediction Method, current energy, energy harvesting"
+    label "Mengqiu Wang"
+    affiliation "University of Otago"
+    research "declarative agent programming support, existing agent platform, declarative goal"
   ]
   node [
     id 17
-    label "Haiyan Luo"
-    affiliation "Dept. of Comput. &#38; Electron. Eng., Univ. of NebraskaLincoln, Lincoln, NE, USA"
-    research "secondary user, user-perceived video quality, CR network"
+    label "Teruko Mitamura"
+    affiliation "LTI, CMU"
+    research "English article system, KANT machine translation system, KANT system"
   ]
   node [
     id 18
-    label "Michiel Schaap"
-    affiliation "Dept. of Medical Informatics and Radiology, Erasmus MC, Rotterdam, The Netherlands"
-    research "coronary artery, coronary model, Black Blood MRA data"
+    label "B. K. Boguraev"
+    affiliation "IBM T. J. Watson Research Center"
+    research "document collection, complex factoid question, natural language processing"
   ]
   node [
     id 19
-    label "Ming Zhu"
-    affiliation "Nan"
-    research "data center network, IP routing, forwarding protocol"
+    label "Yusuke Miyao"
+    affiliation "National Institute of Informatics"
+    research "probabilistic model, HPSG parser, HPSG parsing"
   ]
   edge [
     source 0
-    target 3
+    target 10
     relation "collaborate"
   ]
   edge [
     source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -141,207 +136,147 @@ graph [
   ]
   edge [
     source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 16
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 0
     target 18
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 11
+    source 0
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 11
+    source 0
+    target 1
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 0
     target 12
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 14
+    source 0
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 12
+    source 0
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 0
     target 19
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 18
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 16
+    source 10
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 13
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 12
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 15
     target 17
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
+    source 16
     target 17
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 16
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

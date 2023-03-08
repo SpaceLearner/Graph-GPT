@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zhihua Cui">
+      <data key="affiliation">Complex System and Computational Intelligence Laboratory, Taiyuan University of Science and Technology, Shanxi 030024, China/ State Key Laboratory of Novel Software Technology, Nanjing University, ...</data>
+      <data key="research">Levy distribution, Levy distributionSocial Emotional Optimisation, Levy translation</data>
+    </node>
+    <node id="Xiaoping Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Optimistic Localization, flip ambiguity, flip prediction</data>
+    </node>
+    <node id="Jeng-Shyang Pan">
+      <data key="affiliation">Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen Graduate School, Guangdong, China</data>
+      <data key="research">conventional random generator, evolutionary random interval fingerprint, fake random interval</data>
+    </node>
+    <node id="Guo-Chen Zhang">
+      <data key="affiliation">College of Electrical and Information Engineering, Lanzhou University of Technology, Lanzhou 730050, China/ Complex System and Computational Intelligence Laboratory, Taiyuan University of Science  ...</data>
+      <data key="research">traffic congestion, ready-mixed concrete scheduling problem, late delivery</data>
+    </node>
+    <node id="Richard A. Formato">
+      <data key="affiliation">P.O. Box 1714, Harwich, MA 02645 USA</data>
+      <data key="research">CFO algorithm, benchmark function, adaptive G</data>
+    </node>
+    <node id="Ming Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">lower noise, noise degree, compressor shell</data>
+    </node>
+    <node id="Gabor Fichtinger">
+      <data key="affiliation">School of Computing, Queen's University</data>
+      <data key="research">prostate brachytherapy, ultrasound image, US image</data>
+    </node>
+    <node id="Jianhua Han">
+      <data key="affiliation">Nan</data>
+      <data key="research">IP telephone, CNCnet IP Telephone Remote, IP account</data>
+    </node>
+    <node id="Paul Wang">
+      <data key="affiliation">Howard University, Washington DC</data>
+      <data key="research">medical professional, MySQL-based image database, database system</data>
+    </node>
+    <node id="Dinggang Shen">
+      <data key="affiliation">Department of Radiology and BRIC, University of North Carolina at Chapel Hill, NC</data>
+      <data key="research">brain connectivity, connectivity modeling, effective brain connectivity</data>
+    </node>
+    <node id="Ziqiang Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">feasible region, optimization problem, Artificial Plant Optimization Algorithm</data>
+    </node>
+    <node id="Xiaodong Guo">
+      <data key="affiliation">College of Mechanical Engineering, Jiangsu University, Zhenjiang, China 212013</data>
+      <data key="research">characteristic parameter, acoustic emission signal, energy eigenvector</data>
+    </node>
+    <node id="Jianchao Zeng">
+      <data key="affiliation">Howard University, Washington DC</data>
+      <data key="research">experimental result, prostate boundary, snake model</data>
+    </node>
+    <node id="Xianguo Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">manufacturing process, networked manufacturing, product design</data>
+    </node>
+    <node id="Jian Zhao">
+      <data key="affiliation">MediaSec Technologies LLC, Providence, RI</data>
+      <data key="research">copyright protection, copyright protectionA, image copyright</data>
+    </node>
+    <node id="Li-Ping Xie">
+      <data key="affiliation">College of Electrical and Information Engineering, Lanzhou Univ of Technology, Lanzhou, China/ Complex System and Computational Intelligence Laboratory, Taiyuan Univ of Science and Technology, Tai ...</data>
+      <data key="research">APO algorithm, simulation result, hybrid vector APO</data>
+    </node>
+    <node id="Kenneth Byrd">
+      <data key="affiliation">Howard University</data>
+      <data key="research">generalized graph model, digital image sequence, image clustering</data>
+    </node>
+    <node id="Seong K. Mun">
+      <data key="affiliation">Nan</data>
+      <data key="research">communication system, image management</data>
+    </node>
+    <node id="Xiaomei Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Dynamic Axis-Area Analysis Method, main axis, bay use change</data>
+    </node>
+    <node id="Juan Du">
+      <data key="affiliation">Southern Yangtze University, Wu Xi</data>
+      <data key="research">fuzzy closed ideal, fuzzy ideal, fuzzy subalgebra</data>
+    </node>
+    <edge source="Zhihua Cui" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihua Cui" target="Ziqiang Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihua Cui" target="Li-Ping Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoping Wang" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guo-Chen Zhang" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard A. Formato" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard A. Formato" target="Li-Ping Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Yu" target="Xianguo Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Yu" target="Juan Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Yu" target="Jian Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Yu" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gabor Fichtinger" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gabor Fichtinger" target="Dinggang Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianhua Han" target="Juan Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianhua Han" target="Xianguo Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Wang" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dinggang Shen" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziqiang Zhao" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaodong Guo" target="Jianchao Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Kenneth Byrd">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Li-Ping Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Xiaomei Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Xianguo Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Seong K. Mun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianchao Zeng" target="Jian Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xianguo Yan" target="Jian Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xianguo Yan" target="Juan Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Zhao" target="Juan Du">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,202 +1,247 @@
 graph [
   node [
     id 0
-    label "Donglin Liang"
-    affiliation "Department of Industrial and Systems Engineering, Texas A&#38;M University, TAMUS 3131, College Station, TX 778433131, USA"
-    research "data-flow analysis, memory location, equivalence analysis"
+    label "W. Eric Wong"
+    affiliation "Department of Computer Science, University of Texas at Dallas, TX 75083, USA"
+    research "suspicious code, failed test case, program fault"
   ]
   node [
     id 1
-    label "Mario Cesar Velez Gallego"
-    affiliation "Departamento de Ingenier&#237;a de Producci&#243;n, Universidad EAFIT, Carrera 49, 7 sur 50, Medell&#237;n, Colombia"
-    research "batch processing time, batch ready time, identical batch processing machine"
+    label "Fran&#231;ois R. Boyer"
+    affiliation "DGI, Ecole Polytechnique de Montr&#233;al, Canada"
+    research "optimal clock period, clocked circuit, multi-phase clocked circuit"
   ]
   node [
     id 2
-    label "Mohan V. Kalkunte"
-    affiliation "Nan"
-    research "alternative design, robotic assembly cell"
+    label "P Hajek"
+    affiliation "Institute of System Engineering and Informatics, Faculty of Economics and Administration, University of Pardubice, Pardubice, Czech Republic"
+    research "fuzzy inference system, Fuzzy Logic, modal logic"
   ]
   node [
     id 3
-    label "Chao Wang"
-    affiliation "Nan"
-    research "Density Maximization, many-to-many object correspondence, Density MaximizationGraph matching"
+    label "Michael Gebhardt"
+    affiliation "Informatik V, RWTH Aachen, Ahornstr. 55, D52056 Aachen"
+    research "data warehouse solution, multi-dimensional data, current data warehouse"
   ]
   node [
     id 4
-    label "Gyana Parija"
-    affiliation "IBM Research, India, New Delhi"
-    research "case study, business problem, decision problem"
+    label "Judy Goldsmith"
+    affiliation "Department of Computer Science, University of New Mexico, Albuquerque, USA 871310001"
+    research "Markov decision process, computational complexity, monotone formula"
   ]
   node [
     id 5
-    label "Patrick H. Madden"
-    affiliation "CSD"
-    research "circuit placement, placement contest, placement problem"
+    label "IEEE Region 7"
+    affiliation "Chinese Academy of Sciences, Beijing and Southwest University, China"
+    research "Visual Language, different space, topological value iteration"
   ]
   node [
     id 6
-    label "Xiaoyan Zhu"
-    affiliation "Nan"
-    research "AP clustering, clustering algorithm, effective clustering algorithm"
+    label "Susumu Hayashi"
+    affiliation "Kobe Univ., Kobe, Japan"
+    research "proof animation, proof engineering, Limit-Computable Mathematics"
   ]
   node [
     id 7
-    label "Purushothaman Damodaran"
-    affiliation "Department of Industrial and Systems Engineering, Northern Illinois University, DeKalb, IL 60115, USA"
-    research "processing time, longest processing time, batch processing machine"
+    label "Joyce L. Vedral"
+    affiliation "Nan"
+    research "UNIX System V, System Administrator, UNIX System V Release"
   ]
   node [
     id 8
-    label "W E Wilhelm"
-    affiliation "Department of Industrial Engineering, Texas A&#38;M University, TAMUS 3131, College Station, Texas 778433131"
-    research "column generation, three-stage approach, computational test"
+    label "Hai Zhuge"
+    affiliation "Chinese Academy of Sciences, Beijing and Southwest University, China"
+    research "Metric Space, semantic space, cyber-physical society"
   ]
   node [
     id 9
-    label "Illya V. Hicks"
-    affiliation "Computational and Applied Mathematics, Rice University, Houston, Texas 770051892"
-    research "branch decomposition, optimal branch decomposition, NP-hard problem"
+    label "Hans W. Nissen"
+    affiliation "Fraunhofer FIT, Schloss Birlinghoven, Sankt Augustin, Germany 53754 and Cologne University of Applied Sciences, K&#246;ln, Germany 50679"
+    research "control system, requirements engineering, current requirements model"
   ]
   node [
     id 10
-    label "Sarah S. Lam"
-    affiliation "State University of New York at Binghamton"
-    research "group intelligence, group size, indirect collaborative evolution"
+    label "T. Horv&#225;th"
+    affiliation "Dept. of Computer Science III, University of Bonn, Germany and Fraunhofer IAIS, Schloss Birlinghoven, Sankt Augustin, Germany"
+    research "incremental polynomial time, transaction graph, frequent connected subgraph mining"
   ]
   node [
     id 11
-    label "J. Ma"
-    affiliation "University of Waterloo, Waterloo, ON, Canada"
-    research "experimental result, acceptable ionization collection efficiency, flat energy response ionization"
+    label "Robert A. van de Geijn"
+    affiliation "Nan"
+    research "single precision, multi-core DSPs, double precision"
   ]
   node [
     id 12
-    label "S. S. Margulies"
-    affiliation "Department of Mathematics, Pennsylvania State University, State College, Pennsylvania 16802"
-    research "CG algorithm, postural change, healthy subject"
+    label "Akihiro Yamamoto"
+    affiliation "Renesas Technology Corporation, Kodairacity Tokyo, Japan"
+    research "car navigation system, image recognition application, image recognition engine"
   ]
   node [
     id 13
-    label "Ameya R. Agnihotri"
-    affiliation "CSD"
-    research "placement problem, placement tool Feng Shui, mixed block placement"
+    label "D S Weld"
+    affiliation "MIT Artificial Intelligence Lab, Cambridge, MA"
+    research "information extraction, training data, source data"
   ]
   node [
     id 14
-    label "Jonathan C. Smith"
-    affiliation "Department of Industrial and Systems Engineering, University of Florida, Gainesville, USA"
-    research "edge-partition problem, filter placement problem, master problem"
+    label "Peng Dai"
+    affiliation "University of Washington"
+    research "Markov decision process, context awareness, dynamic programming"
   ]
   node [
     id 15
-    label "Krishnaswami Srihari"
-    affiliation "SUNY Binghamton SSIE"
-    research "processing time, product failure, flow time"
+    label "L A Rosenberg"
+    affiliation "Nan"
+    research "universal I-hypergraph, vertex I-hypergraph, finite family"
   ]
   node [
     id 16
-    label "Benjamin McClosky"
-    affiliation "Columbia University, New York, NY, USA"
-    research "stable set polytope, co-2-plex polynomial, cohesive subgraphs"
+    label "Stephen Paul Jacobs"
+    affiliation "Department of Cardiac Surgery, Heartcenter, University of Leipzig, Germany"
+    research "game development, CAD design studio, bypass grafting"
   ]
   node [
     id 17
-    label "Charles R. Cash"
-    affiliation "ANSER Corporation, Arlington, VA"
-    research "cell design, variance reduction technique, Pre-determined cell performance measure"
+    label "Jack J. Dongarra"
+    affiliation "Faculty of Computer Science, Research Group Scientific Computing, University of Tennessee, W&#228;hringer Str. 29/6.21, Knoxville, TN, Austria"
+    research "high performance, performance analysis, performance result"
   ]
   node [
     id 18
-    label "Balabhaskar Balasundaram"
-    affiliation "School of Industrial Engineering and Management, Oklahoma State University, Stillwater, Oklahoma 74078"
-    research "maximum independent set problem, binary local maximum, combinatorial optimization problem"
+    label "Germany"
+    affiliation "Nan"
+    research "ATM signalling, QoS signalling configuration, layered signalling configuration"
   ]
   node [
     id 19
-    label "S. Butenko"
-    affiliation "Department of Industrial Engineering, Texas A&#38;M University, USA 77843"
-    research "clique relaxation, maximum independent set problem, maximum independent set"
+    label "Matthias Jarke"
+    affiliation "Nan"
+    research "multimedia service, design process, direct process support"
   ]
   edge [
     source 0
-    target 8
+    target 5
     relation "collaborate"
   ]
   edge [
     source 1
-    target 7
+    target 5
     relation "collaborate"
   ]
   edge [
     source 2
-    target 8
+    target 5
     relation "collaborate"
   ]
   edge [
     source 3
-    target 7
+    target 18
     relation "collaborate"
   ]
   edge [
     source 3
-    target 3
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 8
+    source 3
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 15
+    source 3
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 3
     target 9
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 4
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -206,12 +251,7 @@ graph [
   ]
   edge [
     source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -220,28 +260,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
     source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 11
     target 12
     relation "collaborate"
   ]
   edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
     source 13
-    target 15
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
     relation "collaborate"
   ]
   edge [

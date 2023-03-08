@@ -1,49 +1,59 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:55 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:55 2023
 # 
-Hsiao-Wuen Hon	2
-Jue Wang	{'relation': 'collaborate'}
-Hang Li	{'relation': 'collaborate'}
-Shi-Min Hu	2
-Jue Wang	{'relation': 'collaborate'}
-Bin Liu	{'relation': 'collaborate'}
-Bingheng Lu	1
-Jue Wang	{'relation': 'collaborate'}
-Bin Liu	2
-Jue Wang	{'relation': 'collaborate'}
-Fei-Yue Wang	{'relation': 'collaborate'}
-Chang Tian	1
-Jue Wang	{'relation': 'collaborate'}
-Norman P. Jouppi	1
-Jue Wang	{'relation': 'collaborate'}
-Adam Finkelstein	2
-Jue Wang	{'relation': 'collaborate'}
-Sunghyun Cho	{'relation': 'collaborate'}
-Shuming Tang	2
-Fei-Yue Wang	{'relation': 'collaborate'}
-Jue Wang	{'relation': 'collaborate'}
-Andrew Howard	1
-Jue Wang	{'relation': 'collaborate'}
-Jia Chen	1
-Jue Wang	{'relation': 'collaborate'}
-Jue Wang	10
-Hang Li	{'relation': 'collaborate'}
-Fei-Yue Wang	{'relation': 'collaborate'}
-Liang Ding	{'relation': 'collaborate'}
-Hua Huang	{'relation': 'collaborate'}
-Hongyu Zhang	{'relation': 'collaborate'}
-Sunghyun Cho	{'relation': 'collaborate'}
-Shancang Li	{'relation': 'collaborate'}
-Suqing Han	{'relation': 'collaborate'}
-Xiao-Shan Gao	{'relation': 'collaborate'}
-Jue Wang	{'relation': 'collaborate'}
-Suqing Han	0
-Sunghyun Cho	0
-Xiao-Shan Gao	0
-Hua Huang	1
-Fei-Yue Wang	{'relation': 'collaborate'}
-Liang Ding	0
-Hang Li	0
-Shancang Li	0
-Hongyu Zhang	0
-Fei-Yue Wang	0
+Michael J. Gallivan	3
+Manju K. Ahuja	{'relation': 'collaborate'}
+Monica Adya	{'relation': 'collaborate'}
+A. Woszczynski	{'relation': 'collaborate'}
+Mohan R Tanniru	3
+Kelly J. Fadel	{'relation': 'collaborate'}
+Susan A. Brown	{'relation': 'collaborate'}
+Suzanne P. Weisband	{'relation': 'collaborate'}
+Dennis F. Galletta	4
+Kelly J. Fadel	{'relation': 'collaborate'}
+Alexandra Durcikova	{'relation': 'collaborate'}
+Manju K. Ahuja	{'relation': 'collaborate'}
+Brian Butler	{'relation': 'collaborate'}
+Ayoung Suh	1
+Manju K. Ahuja	{'relation': 'collaborate'}
+Thomas Meservy	2
+Matthew L. Jensen	{'relation': 'collaborate'}
+Kelly J. Fadel	{'relation': 'collaborate'}
+Chris Ogan	1
+Manju K. Ahuja	{'relation': 'collaborate'}
+Kelly J. Fadel	7
+Brian Butler	{'relation': 'collaborate'}
+Hoon S. Cha	{'relation': 'collaborate'}
+Matthew L. Jensen	{'relation': 'collaborate'}
+Alexandra Durcikova	{'relation': 'collaborate'}
+Elisa Mattarelli	{'relation': 'collaborate'}
+Susan A. Brown	{'relation': 'collaborate'}
+Suzanne P. Weisband	{'relation': 'collaborate'}
+Ajit Kambil	1
+Manju K. Ahuja	{'relation': 'collaborate'}
+Monica Adya	2
+Manju K. Ahuja	{'relation': 'collaborate'}
+A. Woszczynski	{'relation': 'collaborate'}
+David E Pingry	3
+M. E. Thatcher	{'relation': 'collaborate'}
+Hoon S. Cha	{'relation': 'collaborate'}
+Manju K. Ahuja	{'relation': 'collaborate'}
+Manju K. Ahuja	3
+A. Woszczynski	{'relation': 'collaborate'}
+Hoon S. Cha	{'relation': 'collaborate'}
+M. E. Thatcher	{'relation': 'collaborate'}
+Alexandra Durcikova	4
+Susan A. Brown	{'relation': 'collaborate'}
+Hoon S. Cha	{'relation': 'collaborate'}
+Brian Butler	{'relation': 'collaborate'}
+Suzanne P. Weisband	{'relation': 'collaborate'}
+Hoon S. Cha	1
+M. E. Thatcher	{'relation': 'collaborate'}
+Matthew L. Jensen	0
+Brian Butler	0
+Elisa Mattarelli	1
+Suzanne P. Weisband	{'relation': 'collaborate'}
+A. Woszczynski	0
+M. E. Thatcher	0
+Susan A. Brown	0
+Suzanne P. Weisband	0

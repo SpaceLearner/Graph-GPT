@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Peter Kopacek">
+      <data key="affiliation">Nan</data>
+      <data key="research">Systems Theory</data>
+    </node>
+    <node id="Tony Larsson">
+      <data key="affiliation">School of Information Science, Computer and Electrical Engineering, Halmstad University, Halmstad, Sweden</data>
+      <data key="research">heterogeneous sensor network, wireless sensor network, sensor network</data>
+    </node>
+    <node id="Marcio F.  da S. Oliveira">
+      <data key="affiliation">Federal University of Rio Grande do Sul, Porto Alegre, Brazil and University of Paderborn, Paderborn, Germany</data>
+      <data key="research">embedded system, design space exploration, design space</data>
+    </node>
+    <node id="Bran Selic">
+      <data key="affiliation">Electrical &amp; Information Engineering, The University of Sydney, NSW 2006, Australia</data>
+      <data key="research">HPC system, High Performance Computing, fault tolerance</data>
+    </node>
+    <node id="Douglas Schmidt">
+      <data key="affiliation">Nan</data>
+      <data key="research">underlying cloud environment, application developer, perioperative period</data>
+    </node>
+    <node id="A. H. Frigeri">
+      <data key="affiliation">Nan</data>
+      <data key="research">formal safety licensing, high safety requirement, individual safety integrity level</data>
+    </node>
+    <node id="Y. Zorian">
+      <data key="affiliation">Department of Electrical Engineering, McGill University, Montreal, Quebec</data>
+      <data key="research">error coverage, new approach, better error coverage</data>
+    </node>
+    <node id="Luigi Carro">
+      <data key="affiliation">Nan</data>
+      <data key="research">SRAM power consumption, aggressive power saving, power drain</data>
+    </node>
+    <node id="Paolo Prinetto">
+      <data key="affiliation">Dipartimento di Automatica e Informatica Torino, Italy</data>
+      <data key="research">experimental result, test pattern, test algorithm</data>
+    </node>
+    <node id="Ricardo J. Machado">
+      <data key="affiliation">Dept. of Information Systems</data>
+      <data key="research">software development, software product line, software architecture</data>
+    </node>
+    <node id="C. E. Pedreira">
+      <data key="affiliation">Pontifícia Carólica do Rio de Janeiro, Rio de Janeiro, Brazil</data>
+      <data key="research">embedded system, case study, embedded real-time system</data>
+    </node>
+    <node id="K. Nilsen">
+      <data key="affiliation">Atego Systems</data>
+      <data key="research">real-time Java, critical Java, Java Technologies</data>
+    </node>
+    <node id="L. Carro">
+      <data key="affiliation">Federal University of Santa Catarina (UFSC), Brazil</data>
+      <data key="research">embedded system, experimental result, proposed approach</data>
+    </node>
+    <node id="Lisane Brisolara">
+      <data key="affiliation">Nan</data>
+      <data key="research">embedded system, embedded Java application, embedded software development process</data>
+    </node>
+    <node id="Danúbia B. Espíndola">
+      <data key="affiliation">Center of Computational Sciences, Federal University of Rio Grande  FURG, Rio Grande, RS, Brazil</data>
+      <data key="research">intelligent maintenance system, maintenance system, gas industry</data>
+    </node>
+    <node id="I. C. Teixeira">
+      <data key="affiliation">INESCID Lisbon / ISTUTL, Portugal</data>
+      <data key="research">test preparation, test effectiveness, proposed methodology</data>
+    </node>
+    <node id="Octávio P. Dias">
+      <data key="affiliation">IST/INESC, R. Alves Redol, 9, 1000029 Lisboa, Portugal</data>
+      <data key="research">proposed methodology, new approach, adaptive methodology</data>
+    </node>
+    <node id="Flávio R. Wagner">
+      <data key="affiliation">Universidade Federal do Rio Grande do Sul, Instituto de Informática, Caixa Postal 1501, 90001Porto Alegre RS, Brazil and IBM Rio Scientific Center</data>
+      <data key="research">embedded system, embedded application, design space</data>
+    </node>
+    <node id="Franz J. Rammig">
+      <data key="affiliation">CLAB</data>
+      <data key="research">embedded system, system model, biological immune system</data>
+    </node>
+    <node id="Ivan Müller">
+      <data key="affiliation">Electrical Engineering Department, Federal University of Rio Grande do Sul, Brazil</data>
+      <data key="research">WirelessHART network, Wireless HART network, Wireless HART network analyzer</data>
+    </node>
+    <edge source="Peter Kopacek" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Larsson" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Larsson" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Larsson" target="Ivan Müller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Larsson" target="Luigi Carro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcio F.  da S. Oliveira" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcio F.  da S. Oliveira" target="L. Carro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcio F.  da S. Oliveira" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcio F.  da S. Oliveira" target="Lisane Brisolara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcio F.  da S. Oliveira" target="Franz J. Rammig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bran Selic" target="K. Nilsen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bran Selic" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bran Selic" target="Douglas Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Schmidt" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Schmidt" target="K. Nilsen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. H. Frigeri" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Zorian" target="Paolo Prinetto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Zorian" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Zorian" target="Octávio P. Dias">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Zorian" target="I. C. Teixeira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luigi Carro" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luigi Carro" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Prinetto" target="Octávio P. Dias">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Prinetto" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Prinetto" target="I. C. Teixeira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ricardo J. Machado" target="C. E. Pedreira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ricardo J. Machado" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Lisane Brisolara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Franz J. Rammig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="I. C. Teixeira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Danúbia B. Espíndola">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="K. Nilsen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Octávio P. Dias">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="L. Carro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. E. Pedreira" target="Ivan Müller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Carro" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Carro" target="Lisane Brisolara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Carro" target="Franz J. Rammig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lisane Brisolara" target="Flávio R. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. C. Teixeira" target="Octávio P. Dias">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Flávio R. Wagner" target="Franz J. Rammig">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

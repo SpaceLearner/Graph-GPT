@@ -1,153 +1,123 @@
 graph [
   node [
     id 0
-    label "Tan Lee"
+    label "Yichun Zhang"
     affiliation "Nan"
-    research "prosodic LID system, LID accuracy, Language IdentificationProsodic feature"
+    research "HB-MAP Protocol, thin client terminal, Authentication Protocol"
   ]
   node [
     id 1
-    label "Y. W. Wong"
-    affiliation "The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong"
-    research "automatic speech recognition, speech signal, tone information"
+    label "Qin Zhang"
+    affiliation "Nan"
+    research "preliminary foreground, night outdoor scene, articulated human movement tracking"
   ]
   node [
     id 2
-    label "Helen M. Meng"
-    affiliation "Colorado State University, Department of Civil Engineering, Fort Collins, CO 80523, USA"
-    research "speech recognition, dialog system, speech retrieval"
+    label "Dong Liang"
+    affiliation "Wireless Signal Processing and Network Lab, Key Lab of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications, Beijing, People's Republic of C ..."
+    research "channel state information, layered broadcasting approach, proposed algorithm"
   ]
   node [
     id 3
-    label "Chen Yang"
-    affiliation "Nan"
-    research "proposed scheme, insider attack, standard model"
+    label "Tao Shen"
+    affiliation "College of Surveying and Mapping &#38; Urban Spatial Information, Beijing University of Civil Engineering and Architecture, Beijing 100044, China"
+    research "NPS pollution, NPS pollution model, environmental pollution"
   ]
   node [
     id 4
-    label "Feng Huang"
+    label "Jiancheng Wang"
     affiliation "Nan"
-    research "virtual computing, virtual execution environment, virtual machine"
+    research "software system, software fault, software fault tree analysis"
   ]
   node [
     id 5
-    label "Nengheng Zheng"
-    affiliation "Institute of Acoustics, Nanjing University, Nanjing 210093, China"
-    research "LP method, local subspace method, continuous speech"
+    label "Yu Wan"
+    affiliation "Advance Computer Technology Institution, Computer Science and Technology, Beihang University 7 28#, Beijing, China"
+    research "CGSPAs Grid computing, China Grid Support, Grid Job Description Language"
   ]
   node [
     id 6
-    label "Juan I. Godino-Llorente"
-    affiliation "ETSI Telecomunicacion, Univ. Politecnica de Madrid, Spain"
-    research "pathological voice, voice quality, healthy voice"
+    label "Xin Zhang"
+    affiliation "Nan"
+    research "MDD algorithm, geometry distortion, distorted text detection algorithm"
   ]
   node [
     id 7
-    label "Yao-Jin Qian"
-    affiliation "Microsoft Research Asia, Beijing, China"
-    research "tone contour, decent speech quality, mandarin speech"
+    label "Sanxing Cao"
+    affiliation "Communication University of China"
+    research "Beijing Olympics, Broadband New Media platform, massive fundamental research"
   ]
   node [
     id 8
-    label "Yujia Li"
+    label "Yan Ma"
     affiliation "Nan"
-    research "joint learning, loss-sensitive joint learning procedure, complex high level structure"
+    research "SIP Signaling CompressionA, SIP compression mechanism, compression algorithm"
   ]
   node [
     id 9
-    label "Shan Ouyang"
-    affiliation "Nat. Key Lab. of Radar Signal Process., Xidian Univ., Xi'an"
-    research "WINC algorithm, proposed algorithm, AMEX algorithm"
+    label "Yaqing Niu"
+    affiliation "Information Engineering School, Communication University of China, Beijing, China and Department of Electrical and Computer Engineering, Ryerson University, Toronto, Canada"
+    research "watermarking scheme, Video WatermarkingPerceptual video watermarking, proposed watermarking scheme"
   ]
   node [
     id 10
-    label "Haizhou Li"
-    affiliation "Institute for Infocomm Research, Agency for Science Technology and Research, Singapore 138632, Singapore and School of Electrical Engineering and Telecommunications, University of New South Wales, ..."
-    research "Shared Task, experimental result, machine transliteration"
+    label "Jinheng Zhang"
+    affiliation "Institute of Ecoenvironment &#38; Agriculture Information and College of Environment and Safety Engineering, Qingdao University of Science and Technology, Qingdao, Shandong, PR China"
+    research "SO2 concentration, chlorophyll concentration, confidence level"
   ]
   node [
     id 11
-    label "Wai-Kit Lo"
-    affiliation "ATR Spoken Language, Translation Research Laboratories, Seiikacho, Sorakugun, Kyoto, Japan"
-    research "lexical chain, speech recognition, document retrieval"
+    label "Rui Lu"
+    affiliation "Nan"
+    research "Motion Estimation, diamond search, exhaustive search"
   ]
   node [
     id 12
-    label "Hua Ouyang"
+    label "Hai Zhong"
     affiliation "Nan"
-    research "state feedback Lagrange stabilization, pendulum-like system, multiple nonlinearities"
+    research "automated scheduling policy, cloud scheduling problem, dynamic scheduling policy"
   ]
   node [
     id 13
-    label "Bin Ma"
+    label "Chuanzhen Li"
     affiliation "Nan"
-    research "Trust Management, Novel Stereoscopic Security Architecture, WSN security architecture"
+    research "musical information retrieval system, Bayesian decision, Bayesian DecisionMusical information retrieval"
   ]
   node [
     id 14
-    label "Pedro G&#243;mez-Vilda"
-    affiliation "Dpt. of Ingenier&#237;a de Circuitos y Sistemas, Universidad Polit&#233;cnica de Madrid, Ctra. Valencia, Km. 7, 28031, Madrid, Spain"
-    research "neurological disease, present paper, pathological voice"
+    label "Pei Dong"
+    affiliation "School of Information Technologies, University of Sydney, Australia and Signal and Information Processing Laboratory, Beijing University of Technology, Beijing, China"
+    research "video segment, video summarization, pixel domain information"
   ]
   node [
     id 15
-    label "H. S. Lam"
-    affiliation "Nan"
-    research "shared data, false sharing, cache block"
+    label "Jianbo Liu"
+    affiliation "Michigan State University, Lansing, USA"
+    research "complex system, structure multiple model system, system operation space"
   ]
   node [
     id 16
-    label "P. C. Ching"
-    affiliation "Department of Electronic Engineering, The Chinese University of Hong Kong"
-    research "speech signal, speaker identification, simulation result"
+    label "S. Krishnan"
+    affiliation "Nan"
+    research "ArF excimer laser-induced photodissociation, Si homoepitaxial film, epitaxial Si"
   ]
   node [
     id 17
-    label "Ning Wang"
-    affiliation "Nan"
-    research "Interactive System, Idiot Pencil system, computer-aided drawing system"
+    label "Jay Lee"
+    affiliation "NSF Center for Intelligent Maintenance Systems, University of Cincinnati, OH, United States"
+    research "data quality, Renyi Entropy, clustering algorithm"
   ]
   node [
     id 18
-    label "Cheung-Chi Leung"
+    label "Tao Liu"
     affiliation "Nan"
-    research "prosodic LID system, CMLLR Adaptation, language recognition system"
+    research "interface automaton, mismatching service, adaptation problem"
   ]
   node [
     id 19
-    label "Frank K. Soong"
-    affiliation "Micorosoft Research Asia, Beijing, P.R.C."
-    research "experimental result, speech recognition, recognition performance"
-  ]
-  edge [
-    source 0
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
+    label "Pei Tian"
+    affiliation "Nan"
+    research "software reliability test, software testing, embedded software"
   ]
   edge [
     source 0
@@ -155,63 +125,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 0
+    source 1
     target 9
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 7
+    source 1
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 0
+    source 1
     target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 8
     relation "collaborate"
   ]
   edge [
@@ -221,42 +146,87 @@ graph [
   ]
   edge [
     source 2
-    target 16
+    target 15
     relation "collaborate"
   ]
   edge [
     source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
     target 14
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 2
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 19
     relation "collaborate"
   ]
   edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
     source 7
-    target 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -266,27 +236,42 @@ graph [
   ]
   edge [
     source 10
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 11
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
     target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
     relation "collaborate"
   ]
   edge [
     source 13
-    target 18
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -295,8 +280,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 15
+    target 18
     relation "collaborate"
   ]
 ]

@@ -1,31 +1,36 @@
-C. Abdallah	B. M. E. Moret	{'relation': 'collaborate'}
-C. Abdallah	Jared Saia	{'relation': 'collaborate'}
-Frank McSherry	Jared Saia	{'relation': 'collaborate'}
-Steven D. Gribble	Jared Saia	{'relation': 'collaborate'}
-Steven D. Gribble	Eric J. Anderson	{'relation': 'collaborate'}
-Steven D. Gribble	Stefan Saroiu	{'relation': 'collaborate'}
-Stephane Durocher	Jared Saia	{'relation': 'collaborate'}
-Stephane Durocher	Maxwell Young	{'relation': 'collaborate'}
-James Aspnes	Seth Gilbert	{'relation': 'collaborate'}
-James Aspnes	Jared Saia	{'relation': 'collaborate'}
-Tanya Y. Berger-Wolf	Yintao Yu	{'relation': 'collaborate'}
-Tanya Y. Berger-Wolf	Jared Saia	{'relation': 'collaborate'}
-Maxwell Young	Jared Saia	{'relation': 'collaborate'}
-Maxwell Young	Michael J. Collins	{'relation': 'collaborate'}
-Maxwell Young	Seth Gilbert	{'relation': 'collaborate'}
-Stefan Saroiu	Jared Saia	{'relation': 'collaborate'}
-B. M. E. Moret	Jared Saia	{'relation': 'collaborate'}
-B. M. E. Moret	Nicholas D. Pattengale	{'relation': 'collaborate'}
-B. M. E. Moret	Zhiqiang Chen	{'relation': 'collaborate'}
-B. M. E. Moret	Michael J. Collins	{'relation': 'collaborate'}
-Nicholas D. Pattengale	Jared Saia	{'relation': 'collaborate'}
-Olumuyiwa Oluwasanmi	Jared Saia	{'relation': 'collaborate'}
-Jared Saia	Seth Gilbert	{'relation': 'collaborate'}
-Jared Saia	A. Karlin	{'relation': 'collaborate'}
-Jared Saia	Michael J. Collins	{'relation': 'collaborate'}
-Jared Saia	Zhiqiang Chen	{'relation': 'collaborate'}
-Jared Saia	Eric J. Anderson	{'relation': 'collaborate'}
-Jared Saia	Yintao Yu	{'relation': 'collaborate'}
-Jared Saia	Piotr Sankowski	{'relation': 'collaborate'}
-Jared Saia	Josh Karlin	{'relation': 'collaborate'}
-Eric J. Anderson	A. Karlin	{'relation': 'collaborate'}
+Xing Jin	QingBo Wang	{'relation': 'collaborate'}
+Xing Jin	Y. Zhao	{'relation': 'collaborate'}
+Xing Jin	Ying Chen	{'relation': 'collaborate'}
+Xing Jin	Ruth Willenborg	{'relation': 'collaborate'}
+Xing Jin	Changhua Sun	{'relation': 'collaborate'}
+Xing Jin	Zhen Chen	{'relation': 'collaborate'}
+Yuan-sheng Luo	Ying Chen	{'relation': 'collaborate'}
+Haixun Wang	Ying Chen	{'relation': 'collaborate'}
+Jian Shu	Ying Chen	{'relation': 'collaborate'}
+Y. Nakayama	K. Brown	{'relation': 'collaborate'}
+Y. Nakayama	N. Fujisawa	{'relation': 'collaborate'}
+QingBo Wang	Zhen Chen	{'relation': 'collaborate'}
+QingBo Wang	Y. Zhao	{'relation': 'collaborate'}
+QingBo Wang	Ying Chen	{'relation': 'collaborate'}
+QingBo Wang	Changhua Sun	{'relation': 'collaborate'}
+QingBo Wang	Ruth Willenborg	{'relation': 'collaborate'}
+Fangyan Rao	Ying Chen	{'relation': 'collaborate'}
+Li Zhang	Ying Chen	{'relation': 'collaborate'}
+Li Zhang	Xian Wu	{'relation': 'collaborate'}
+Peijie Yu	Ying Chen	{'relation': 'collaborate'}
+K. Brown	Ruth Willenborg	{'relation': 'collaborate'}
+K. Brown	T. Lunney	{'relation': 'collaborate'}
+K. Brown	E. Miller	{'relation': 'collaborate'}
+K. Brown	N. Fujisawa	{'relation': 'collaborate'}
+Ying Chen	Gang Huang	{'relation': 'collaborate'}
+Ying Chen	Xian Wu	{'relation': 'collaborate'}
+Ying Chen	Ruth Willenborg	{'relation': 'collaborate'}
+Ying Chen	Changhua Sun	{'relation': 'collaborate'}
+Ying Chen	Zhen Chen	{'relation': 'collaborate'}
+Ying Chen	Y. Zhao	{'relation': 'collaborate'}
+Changhua Sun	Ruth Willenborg	{'relation': 'collaborate'}
+Changhua Sun	Zhen Chen	{'relation': 'collaborate'}
+Changhua Sun	Y. Zhao	{'relation': 'collaborate'}
+Y. Zhao	Zhen Chen	{'relation': 'collaborate'}
+Y. Zhao	Ruth Willenborg	{'relation': 'collaborate'}
+Zhen Chen	Ruth Willenborg	{'relation': 'collaborate'}

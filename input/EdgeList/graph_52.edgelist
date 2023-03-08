@@ -1,28 +1,46 @@
-Barbara Poblete	Alejandro James	{'relation': 'collaborate'}
-Barbara Poblete	M. Mendoza	{'relation': 'collaborate'}
-Ilkka Kivimäki	Alejandro James	{'relation': 'collaborate'}
-Hugo Ortega	Alejandro James	{'relation': 'collaborate'}
-Hugo Ortega	Mark Tribe	{'relation': 'collaborate'}
-Hugo Ortega	Pamela Jennings	{'relation': 'collaborate'}
-M. Mendoza	Alejandro James	{'relation': 'collaborate'}
-J Miyazaki	Alejandro James	{'relation': 'collaborate'}
-Eduardo Ruiz	Alejandro James	{'relation': 'collaborate'}
-Y. Volkovich	Alejandro James	{'relation': 'collaborate'}
-Y. Volkovich	M. Lalmas	{'relation': 'collaborate'}
-Mark Tribe	Alejandro James	{'relation': 'collaborate'}
-Mark Tribe	Pamela Jennings	{'relation': 'collaborate'}
-M. Lalmas	Alejandro James	{'relation': 'collaborate'}
-Alexander C. Loui	Alejandro James	{'relation': 'collaborate'}
-Pamela Jennings	Alejandro James	{'relation': 'collaborate'}
-Pamela Jennings	Frank Nack	{'relation': 'collaborate'}
-Pamela Jennings	A. Del Bimbo	{'relation': 'collaborate'}
-Alejandro James	Chahab Nastar	{'relation': 'collaborate'}
-Alejandro James	Frank Nack	{'relation': 'collaborate'}
-Alejandro James	Jérôme Picault	{'relation': 'collaborate'}
-Alejandro James	F. Bonchi	{'relation': 'collaborate'}
-Alejandro James	Marcel Worring	{'relation': 'collaborate'}
-Alejandro James	Nicu Sebe	{'relation': 'collaborate'}
-Alejandro James	Michael George Christel	{'relation': 'collaborate'}
-Alejandro James	A. Del Bimbo	{'relation': 'collaborate'}
-Marcel Worring	Nicu Sebe	{'relation': 'collaborate'}
-Frank Nack	A. Del Bimbo	{'relation': 'collaborate'}
+Stanislas Boissau	Alain Boucher	{'relation': 'collaborate'}
+Stanislas Boissau	François Sempé	{'relation': 'collaborate'}
+Stanislas Boissau	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Stanislas Boissau	Alexis Drogoul	{'relation': 'collaborate'}
+Karama Kanoun	Jean Arlat	{'relation': 'collaborate'}
+Karama Kanoun	David Powell	{'relation': 'collaborate'}
+Alexis Drogoul	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+Alexis Drogoul	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alexis Drogoul	Edouard Amouroux	{'relation': 'collaborate'}
+Alexis Drogoul	François Charpillet	{'relation': 'collaborate'}
+Alexis Drogoul	François Sempé	{'relation': 'collaborate'}
+Alexis Drogoul	Alain Boucher	{'relation': 'collaborate'}
+Alexis Drogoul	Hoang Nam Chu	{'relation': 'collaborate'}
+Alexis Drogoul	Geber Ramalho	{'relation': 'collaborate'}
+Alexis Drogoul	Olivier Simonin	{'relation': 'collaborate'}
+Jean Arlat	Z. Kalbarczyk	{'relation': 'collaborate'}
+Jean Arlat	Felix Ingrand	{'relation': 'collaborate'}
+Jean Arlat	Hoang Nam Chu	{'relation': 'collaborate'}
+Jean Arlat	David Powell	{'relation': 'collaborate'}
+Jean Arlat	Marc-Olivier Killijian	{'relation': 'collaborate'}
+Felix Ingrand	David Powell	{'relation': 'collaborate'}
+Felix Ingrand	Hoang Nam Chu	{'relation': 'collaborate'}
+Felix Ingrand	Marc-Olivier Killijian	{'relation': 'collaborate'}
+Edouard Amouroux	Alain Boucher	{'relation': 'collaborate'}
+Edouard Amouroux	Nicolas Sabouret	{'relation': 'collaborate'}
+Edouard Amouroux	Y. Haradji	{'relation': 'collaborate'}
+Edouard Amouroux	François Sempé	{'relation': 'collaborate'}
+François Charpillet	Olivier Simonin	{'relation': 'collaborate'}
+François Charpillet	Hoang Nam Chu	{'relation': 'collaborate'}
+François Charpillet	François Sempé	{'relation': 'collaborate'}
+Marc-Olivier Killijian	David Powell	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Hoang Nam Chu	{'relation': 'collaborate'}
+Y. Haradji	Nicolas Sabouret	{'relation': 'collaborate'}
+Y. Haradji	François Sempé	{'relation': 'collaborate'}
+Hoang Nam Chu	François Sempé	{'relation': 'collaborate'}
+Hoang Nam Chu	David Powell	{'relation': 'collaborate'}
+Hoang Nam Chu	Olivier Simonin	{'relation': 'collaborate'}
+Alain Boucher	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alain Boucher	François Sempé	{'relation': 'collaborate'}
+Minh Nguyen-Duc	François Sempé	{'relation': 'collaborate'}
+Geber Ramalho	Yann Chevaleyre	{'relation': 'collaborate'}
+Geber Ramalho	François Sempé	{'relation': 'collaborate'}
+Nicolas Sabouret	François Sempé	{'relation': 'collaborate'}
+Olivier Simonin	François Sempé	{'relation': 'collaborate'}
+François Sempé	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+François Sempé	Yann Chevaleyre	{'relation': 'collaborate'}

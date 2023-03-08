@@ -1,42 +1,26 @@
-Yuko Murayama	Basabi Chakraborty	{'relation': 'collaborate'}
-Yuko Murayama	Masatoshi Miyazaki	{'relation': 'collaborate'}
-Yuko Murayama	Norihisa Segawa	{'relation': 'collaborate'}
-Yuko Murayama	Carl Howard Hauser	{'relation': 'collaborate'}
-Yuko Murayama	Natsuko Hikage	{'relation': 'collaborate'}
-Hisao Koizumi	Jun Sawamoto	{'relation': 'collaborate'}
-Hisao Koizumi	Hiroyasu Mitsui	{'relation': 'collaborate'}
-Naohisa Sakamoto	Tomoki Yoshihisa	{'relation': 'collaborate'}
-Naohisa Sakamoto	Yasuo Ebara	{'relation': 'collaborate'}
-Naohisa Sakamoto	Koji Koyamada	{'relation': 'collaborate'}
-Naohisa Sakamoto	Norihisa Segawa	{'relation': 'collaborate'}
-Hiroshi Yajima	Norihisa Segawa	{'relation': 'collaborate'}
-Hiroshi Yajima	Jun Sawamoto	{'relation': 'collaborate'}
-Yasuo Ebara	Tomoki Yoshihisa	{'relation': 'collaborate'}
-Yasuo Ebara	Koji Koyamada	{'relation': 'collaborate'}
-Yasuo Ebara	Norihisa Segawa	{'relation': 'collaborate'}
-Norihisa Segawa	Koji Koyamada	{'relation': 'collaborate'}
-Norihisa Segawa	Takeshi Yatsuo	{'relation': 'collaborate'}
-Norihisa Segawa	Takashi Katoh	{'relation': 'collaborate'}
-Norihisa Segawa	Basabi Chakraborty	{'relation': 'collaborate'}
-Norihisa Segawa	Natsuko Hikage	{'relation': 'collaborate'}
-Norihisa Segawa	Jun Sawamoto	{'relation': 'collaborate'}
-Norihisa Segawa	Xuping Huang	{'relation': 'collaborate'}
-Norihisa Segawa	Tomoki Yoshihisa	{'relation': 'collaborate'}
-Norihisa Segawa	Ryota Kawashima	{'relation': 'collaborate'}
-Norihisa Segawa	Carl Howard Hauser	{'relation': 'collaborate'}
-Norihisa Segawa	Takuya Sasaki	{'relation': 'collaborate'}
-Norihisa Segawa	Masatoshi Miyazaki	{'relation': 'collaborate'}
-Norihisa Segawa	Yuji Wada	{'relation': 'collaborate'}
-Basabi Chakraborty	Natsuko Hikage	{'relation': 'collaborate'}
-Basabi Chakraborty	Carl Howard Hauser	{'relation': 'collaborate'}
-Xuping Huang	Ryota Kawashima	{'relation': 'collaborate'}
-Tomoki Yoshihisa	Koji Koyamada	{'relation': 'collaborate'}
-Takeshi Yatsuo	Jun Sawamoto	{'relation': 'collaborate'}
-Takashi Katoh	Jun Sawamoto	{'relation': 'collaborate'}
-Takashi Katoh	Yuji Wada	{'relation': 'collaborate'}
-Takashi Katoh	Takuya Sasaki	{'relation': 'collaborate'}
-Carl Howard Hauser	Natsuko Hikage	{'relation': 'collaborate'}
-Takuya Sasaki	Yuji Wada	{'relation': 'collaborate'}
-Takuya Sasaki	Jun Sawamoto	{'relation': 'collaborate'}
-Hiroyasu Mitsui	Jun Sawamoto	{'relation': 'collaborate'}
-Jun Sawamoto	Yuji Wada	{'relation': 'collaborate'}
+Lieven De Lathauwer	Bart De Moor	{'relation': 'collaborate'}
+J. Vanthienen	Bart De Moor	{'relation': 'collaborate'}
+P. Sas	W. Dewulf	{'relation': 'collaborate'}
+P. Sas	Hendrik Van Brussel	{'relation': 'collaborate'}
+Joris Vertommen	Bart De Moor	{'relation': 'collaborate'}
+Joris Vertommen	Dirk Cattrysse	{'relation': 'collaborate'}
+Joris Vertommen	Joost R. Duflou	{'relation': 'collaborate'}
+Joost R. Duflou	Bart De Moor	{'relation': 'collaborate'}
+Joost R. Duflou	B. Willems	{'relation': 'collaborate'}
+Joost R. Duflou	A. M. Habraken	{'relation': 'collaborate'}
+Joost R. Duflou	H. Sol	{'relation': 'collaborate'}
+Joost R. Duflou	Dirk Cattrysse	{'relation': 'collaborate'}
+Joost R. Duflou	P. Van Houtte	{'relation': 'collaborate'}
+Joost R. Duflou	J. Váncza	{'relation': 'collaborate'}
+Joost R. Duflou	W. Dewulf	{'relation': 'collaborate'}
+Joost R. Duflou	Bert Lauwers	{'relation': 'collaborate'}
+L. Vandenberghe	Bart De Moor	{'relation': 'collaborate'}
+B. Willems	W. Dewulf	{'relation': 'collaborate'}
+W. Dewulf	Hendrik Van Brussel	{'relation': 'collaborate'}
+Bart De Moor	Ruben Verlinden	{'relation': 'collaborate'}
+Bart De Moor	P Van Dooren	{'relation': 'collaborate'}
+Bart De Moor	Vincent J. Carey	{'relation': 'collaborate'}
+Bart De Moor	Maja Hadzic	{'relation': 'collaborate'}
+A. M. Habraken	H. Sol	{'relation': 'collaborate'}
+A. M. Habraken	P. Van Houtte	{'relation': 'collaborate'}
+P. Van Houtte	H. Sol	{'relation': 'collaborate'}

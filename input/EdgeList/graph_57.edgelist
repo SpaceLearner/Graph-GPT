@@ -1,46 +1,24 @@
-C. Greco	G. Menga	{'relation': 'collaborate'}
-C. Greco	E Mosca	{'relation': 'collaborate'}
-C. Greco	G Zappa	{'relation': 'collaborate'}
-G. Morrone	G. Menga	{'relation': 'collaborate'}
-G. Morrone	Dante Del Corso	{'relation': 'collaborate'}
-G. Morrone	E. Ovcin	{'relation': 'collaborate'}
-Karl-E. Grosspietsch	Dante Del Corso	{'relation': 'collaborate'}
-Karl-E. Grosspietsch	Philip C Treleaven	{'relation': 'collaborate'}
-Dante Del Corso	C. Sansoè	{'relation': 'collaborate'}
-Dante Del Corso	F Gregoretti	{'relation': 'collaborate'}
-Dante Del Corso	L. Reyneri	{'relation': 'collaborate'}
-Dante Del Corso	E. Ovcin	{'relation': 'collaborate'}
-Dante Del Corso	M. Tranchero	{'relation': 'collaborate'}
-Dante Del Corso	H. D. Kirrman	{'relation': 'collaborate'}
-Dante Del Corso	Gianni Conte	{'relation': 'collaborate'}
-Dante Del Corso	Claudio Passerone	{'relation': 'collaborate'}
-Dante Del Corso	Philip C Treleaven	{'relation': 'collaborate'}
-Dante Del Corso	G. Menga	{'relation': 'collaborate'}
-Dante Del Corso	M. Borri	{'relation': 'collaborate'}
-Dante Del Corso	P. L. Civera	{'relation': 'collaborate'}
-P. L. Civera	C. Sansoè	{'relation': 'collaborate'}
-P. L. Civera	L. Reyneri	{'relation': 'collaborate'}
-P. L. Civera	Gianni Conte	{'relation': 'collaborate'}
-P. L. Civera	F Gregoretti	{'relation': 'collaborate'}
-L. Reyneri	Gianni Conte	{'relation': 'collaborate'}
-L. Reyneri	M. Borri	{'relation': 'collaborate'}
-L. Reyneri	M. Tranchero	{'relation': 'collaborate'}
-L. Reyneri	F Gregoretti	{'relation': 'collaborate'}
-L. Reyneri	Claudio Passerone	{'relation': 'collaborate'}
-L. Reyneri	C. Sansoè	{'relation': 'collaborate'}
-C. Sansoè	F Gregoretti	{'relation': 'collaborate'}
-C. Sansoè	M. Borri	{'relation': 'collaborate'}
-C. Sansoè	M. Tranchero	{'relation': 'collaborate'}
-C. Sansoè	Claudio Passerone	{'relation': 'collaborate'}
-C. Sansoè	Gianni Conte	{'relation': 'collaborate'}
-G Zappa	E Mosca	{'relation': 'collaborate'}
-G Zappa	G. Menga	{'relation': 'collaborate'}
-M. Borri	M. Tranchero	{'relation': 'collaborate'}
-M. Borri	Claudio Passerone	{'relation': 'collaborate'}
-F Gregoretti	Claudio Passerone	{'relation': 'collaborate'}
-F Gregoretti	Gianni Conte	{'relation': 'collaborate'}
-G. Bruno	G. Menga	{'relation': 'collaborate'}
-M. Tranchero	Claudio Passerone	{'relation': 'collaborate'}
-E Mosca	G. Menga	{'relation': 'collaborate'}
-E. Ovcin	G. Menga	{'relation': 'collaborate'}
-G. Menga	M. Morisio	{'relation': 'collaborate'}
+Jianlin Liu	C. H. Chen	{'relation': 'collaborate'}
+D A Belsley	Hans M. Amman	{'relation': 'collaborate'}
+D A Belsley	L. F. Pau	{'relation': 'collaborate'}
+S. Ozer	C. H. Chen	{'relation': 'collaborate'}
+K. T. Huang	C. H. Chen	{'relation': 'collaborate'}
+L. F. Pau	C. H. Chen	{'relation': 'collaborate'}
+L. F. Pau	P. S. P. Wang	{'relation': 'collaborate'}
+L. F. Pau	Hans M. Amman	{'relation': 'collaborate'}
+L. F. Pau	Hördur Arnarson	{'relation': 'collaborate'}
+Hao-Chieh Liu	C. H. Chen	{'relation': 'collaborate'}
+Hao-Chieh Liu	S. D. Lester	{'relation': 'collaborate'}
+Y. T. Wang	C. H. Chen	{'relation': 'collaborate'}
+Y. T. Wang	Clement T. Yu	{'relation': 'collaborate'}
+Nastaran Baradaran	C. H. Chen	{'relation': 'collaborate'}
+P. S. P. Wang	C. H. Chen	{'relation': 'collaborate'}
+O. K. Ersoy	C. H. Chen	{'relation': 'collaborate'}
+S. D. Lester	C. H. Chen	{'relation': 'collaborate'}
+C. H. Chen	K. Lam	{'relation': 'collaborate'}
+C. H. Chen	Hans P. Zima	{'relation': 'collaborate'}
+C. H. Chen	Clement T. Yu	{'relation': 'collaborate'}
+C. H. Chen	K. P. Hsu	{'relation': 'collaborate'}
+C. H. Chen	Gabe Rudy	{'relation': 'collaborate'}
+C. H. Chen	Y. S. Kuo	{'relation': 'collaborate'}
+K. Lam	Clement T. Yu	{'relation': 'collaborate'}

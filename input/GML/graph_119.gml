@@ -1,292 +1,282 @@
 graph [
   node [
     id 0
-    label "Giorgio Leuzzi"
-    affiliation "Dipartimento di Ingegneria Elettrica, Universit&#224; dell'Aquila, L'Aquila, Italy"
-    research "conversion matrix, Inc. Int J RF, Microwave CAE"
+    label "M. P. Mullen"
+    affiliation "IBM Systems and Technology Group, 522 South Road, Poughkeepsie, New York"
+    research "perceptual structure, input device, control structure"
   ]
   node [
     id 1
-    label "Antonio Serino"
-    affiliation "Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy"
-    research "Inc. Int J RF, Microwave CAE, Wiley Periodicals"
+    label "James H. Morris"
+    affiliation "Nan"
+    research "Program change, selective recompilation"
   ]
   node [
     id 2
-    label "Renato Menicocci"
-    affiliation "Fondazione Ugo Bordoni, Roma, Italy"
-    research "keystream sequence, clocked shift register, LFSR sequence"
+    label "Daphne Koller"
+    affiliation "Stanford University"
+    research "rich representation, coherent object model, latent variables model"
   ]
   node [
     id 3
-    label "G. Ricotti"
-    affiliation "SGSThomson, Via Tolomeo 1, 20100 Cornaredo, Milano, Italy"
-    research "laboratory result, low bias current, low crossover distortion"
+    label "Sebastian B. Thrun"
+    affiliation "Dept. of Computer Science III, University of Bonn, Bonn, Germany"
+    research "mobile robot, real robot, mobile robot navigation"
   ]
   node [
     id 4
-    label "F. Santucci"
+    label "Joseph Y. Halpern"
     affiliation "Nan"
-    research "outage interval, correlated log-normal, Performance Analysis"
+    research "Judea Pearl, Judea PearlThe field, David Heckerman"
   ]
   node [
     id 5
-    label "W. Sansen"
-    affiliation "Department of Electrical Engineering, Katholieke Universiteit Leuven, Kardinaal Mercierlaan 94, 3001 Heverlee, Belgium"
-    research "Analog circuit design, experimental result, automated design"
+    label "Greg Hager"
+    affiliation "<affil/>"
+    research "visual tracking, image region, ultrasound image"
   ]
   node [
     id 6
-    label "Giuseppe Scotti"
-    affiliation "Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy"
-    research "dynamic power, power consumption, generation current conveyor"
+    label "Ronald V. Book"
+    affiliation "Harvard University"
+    research "pushdown store, tape-bounded Turing acceptors, linear context-free language"
   ]
   node [
     id 7
-    label "M. Faccio"
-    affiliation "Univ. L'Aquila, L'Aquila, Italy"
-    research "low bias current, low crossover distortion, low input"
+    label "Oscar H. Ibarra"
+    affiliation "Nan"
+    research "APDCM Introduction"
   ]
   node [
     id 8
-    label "Francesco Centurelli"
-    affiliation "Dipartimento di Ingegneria Elettronica, Universit&#224;i Roma La Sapienza, Roma, Italy"
-    research "differential pair, proposed topology, design example"
+    label "Jay M. Spitzen"
+    affiliation "Center for Research in Computing Technology"
+    research "backtracking primitive, programming language, programming languagesPrimitive operation"
   ]
   node [
     id 9
-    label "Massimo Alioto"
-    affiliation "DII (Dipartimento di Ingegneria dell'Informazione), University of Siena, I53100, Siena, Italy and Berkeley Wireless Research Center, EECS (Electrical Engineering and Computer Sciences) Department ..."
-    research "energy consumption, DPA attack, input rise time"
+    label "Michael Montemerlo"
+    affiliation "Stanford AI Lab, Stanford University"
+    research "simultaneous localization, autonomous robot, robot path"
   ]
   node [
     id 10
-    label "S. Pennisi"
-    affiliation "DEES (Dipartimento Elettrico Elettronico e Sistemistico), Universita&#8217; Di Catania, Viale Andrea Doria, 6, I95125 Catania, Italy spennisi@dees.unict.it"
-    research "design equation, John Wiley, proposed solution"
+    label "Tom Cheatham"
+    affiliation "University of Utah, Salt Lake City, Utah"
+    research "programming language, extensible language, language facility"
   ]
   node [
     id 11
-    label "D. Rossi"
-    affiliation "ARCES, University of Bologna, Italy"
-    research "energy efficiency, different flavour, application space exploration"
+    label "Daniel G. Bobrow"
+    affiliation "KRL Research Group"
+    research "virtual copy, Common LISP object system, LISP system"
   ]
   node [
     id 12
-    label "A. D. Grasso"
-    affiliation "Dipartimento di Ingegneria Elettrica Elettronica e dei Sistemi, Universita' di Catania, Viale Andrea Doria 6, Catania I95125, Italy"
-    research "design equation, John Wiley, phase margin"
+    label "Yuan Lu"
+    affiliation "Coding and Communication Security Laboratory, Department of Electronic Engineering Shanghai Jiaotong University, Shanghai, People's Republic of China"
+    research "new scheme, wireless network, QKD technique"
   ]
   node [
     id 13
-    label "M. Bucci"
-    affiliation "Infineon Technol. AG, Graz, Austria"
-    research "power consumption, dual-rail precharge logic family, logic family"
+    label "J. Mitchell"
+    affiliation "Nan"
+    research "intense vortex"
   ]
   node [
     id 14
-    label "Alessandro Trifiletti"
-    affiliation "Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy"
-    research "power consumption, dynamic power, differential power analysis"
+    label "D. G. Bair"
+    affiliation "IBM Systems and Technology Group, 522 South Road, Poughkeepsie, New York"
+    research "functional verification, z196 system, G4 systemFunctional verification"
   ]
   node [
     id 15
-    label "Dominique Schreurs"
-    affiliation "IMEC, MCP, Kapeldreef 75, B3001 Leuven, Belgium"
-    research "Wiley Periodicals, Inc. Int J RF, Microwave CAE"
+    label "Charles J. Prenner"
+    affiliation "University of California, Berkeley, California"
+    research "increased instructional utilization, inexpensive interactive system, instructional computer system"
   ]
   node [
     id 16
-    label "Giuseppe Ferri"
-    affiliation "Universita&#8217; L&#8217;Aquila, Italy, Loc.Monteluco Roio, 67040 Poggio di Roio"
-    research "generation current conveyor, standard CMOS technology, low voltage low power"
+    label "Sheila A. Greibach"
+    affiliation "Air Force Cambridge Research Laboratories, Office of Aerospace Research, USAF, Bedford, Massachusetts, USA and Air Force Office of Scientific Research, Office of Aerospace Research, USAF, Arlingto ..."
+    research "context-free language, full AFL, abstract family"
   ]
   node [
     id 17
-    label "Franco Giannini"
-    affiliation "Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy"
-    research "Inc. Int J RF, Wiley Periodicals, Microwave CAE"
+    label "Ben Wegbreit"
+    affiliation "CEO Strider Labs Inc, Palo Alto, USA"
+    research "programming language, data type, scene model"
   ]
   node [
     id 18
-    label "G. Ciccarella"
-    affiliation "Telecom Italia, Roma, Italy"
-    research "discrete-time nonlinear systemsPerformance evaluation, nonlinear systemsA robust observer, continuous-discrete dynamic system approximation"
+    label "S. M. German"
+    affiliation "Xerox Palo Alto Research Center, Palo Alto, California"
+    research "propositional variable, Mealy machine, PO reduction"
   ]
   node [
     id 19
-    label "Maurizio Colizza"
-    affiliation "Center of Excellence DEWS, University of L'Aquila, L'Aquila, Italy"
-    research "proposed methodology, discrete event simulation, network simulation data"
+    label "Daphne Roller"
+    affiliation "Computer Science Division, University of California, Berkeley, Berkeley, CA"
+    research "representation dependence, latent variable, data case"
   ]
   edge [
     source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 18
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 11
+    source 0
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 16
     relation "collaborate"
   ]
   edge [
     source 8
-    target 10
+    target 15
     relation "collaborate"
   ]
   edge [
     source 8
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 9
-    target 14
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 12
+    target 11
     relation "collaborate"
   ]
   edge [
     source 11
-    target 16
+    target 17
     relation "collaborate"
   ]
   edge [
     source 12
-    target 14
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 17
     relation "collaborate"
   ]
   edge [
     source 14
-    target 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

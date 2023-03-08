@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Linda Brodo">
+      <data key="affiliation">Dipartimento di Scienze dei Linguaggi, Sassari, Italia</data>
+      <data key="research">Control Flow Analysis, security protocol, type flaw attack</data>
+    </node>
+    <node id="S. A. M. Baert">
+      <data key="affiliation">Nan</data>
+      <data key="research">guide wire, feature image, Guide Wire Tracking</data>
+    </node>
+    <node id="Julian Fierrez">
+      <data key="affiliation">ATVS  Biometric Recognition Group, Escuela Politecnica Superior, Universidad Autonoma de Madrid, Calle Francisco Tomas y Valiente 11, 28049 Madrid, Spain</data>
+      <data key="research">quality measure, biometric system, multimodal biometric system</data>
+    </node>
+    <node id="Alejandro F. Frangi">
+      <data key="affiliation">Center for Computational Imaging &amp; Simulation Technologies in Biomedicine, Universitat Pompeu Fabra and CIBERBBN, Barcelona, Spain,Department of Mechanical Engineering, University of Sheffiel ...</data>
+      <data key="research">cardiac resynchronization therapy, active shape model, proposed algorithm</data>
+    </node>
+    <node id="M. Cremonesi">
+      <data key="affiliation">Department of Structural Engineering, Politecnico di Milano, Milan, Italy</data>
+      <data key="research">nonlinear water wave, water wave, Lagrangian finite element approach</data>
+    </node>
+    <node id="Javier Galbally">
+      <data key="affiliation">Biometric Recognition Group  ATVS Escuela Politecnica Superior, Universidad Autonoma de Madrid, Madrid, Spain 28049</data>
+      <data key="research">direct attack, experimental result, multimodal biometric system</data>
+    </node>
+    <node id="B. K. Ersbøll">
+      <data key="affiliation">DTU Data Analysis</data>
+      <data key="research">images correspondence, multispectral image, spectral band</data>
+    </node>
+    <node id="M. Tistarelli">
+      <data key="affiliation">University of A Coruña, A Coruña, Spain and Computer Vision Laboratory, University of Sassari, Italy</data>
+      <data key="research">face image, face recognition, human face</data>
+    </node>
+    <node id="C. Ferri">
+      <data key="affiliation">Nan</data>
+      <data key="research">Parallel Integrated Environment, Reliability Evaluation</data>
+    </node>
+    <node id="Bob Moore">
+      <data key="affiliation">IDAC Ireland Limited, Dublin 2, Ireland</data>
+      <data key="research">Heterogeneous Data, cerebral aneurysms, patient data</data>
+    </node>
+    <node id="Jimison Iavindrasana">
+      <data key="affiliation">Geneva University Hospitals, Geneva, Switzerland</data>
+      <data key="research">clinical attribute, Heterogeneous Data, patient data</data>
+    </node>
+    <node id="A. Berruezo">
+      <data key="affiliation">Arrhythmia Section, Cardiology Department, Thorax Institute, Hospital Clinic, Barcelona, Spain</data>
+      <data key="research">new mapping algorithm, contact mapping system, different mapping strategy</data>
+    </node>
+    <node id="Bram van Ginneken">
+      <data key="affiliation">University Medical Center Utrecht, The Netherlands</data>
+      <data key="research">train image, coronary calcifications, mean position</data>
+    </node>
+    <node id="Avan Suinesiaputra">
+      <data key="affiliation">Auckland Bioengineering Institute, University of Auckland, New Zealand</data>
+      <data key="research">input device, myocardial infarction, visualized medical data</data>
+    </node>
+    <node id="Edward J. Vigmond">
+      <data key="affiliation">IMB  Université Bordeaux Segalen  Université Bordeaux 1, Bordeaux, France,INRIA, Bordeaux, France,Liryc Institute, CHU / Univ. de Bordeaux / INSERM U1045, Bordeaux, France</data>
+      <data key="research">Purkinje System, bone micro-architecture, bone quality</data>
+    </node>
+    <node id="U. Perego">
+      <data key="affiliation">Nan</data>
+      <data key="research">Generalized variable finite element, extremum theorem, internal variable</data>
+    </node>
+    <node id="Bart M. ter Haar Romeny">
+      <data key="affiliation">Eindhoven University of Technology, Den Dolech 2, NL5600 MB, The Netherlands. &lt;rfc822&gt;B.M.terHaarRomeny@tue.nl&lt;/rfc822&gt;</data>
+      <data key="research">scalar image, physical field dynamic, orientation score</data>
+    </node>
+    <node id="Michael Sass Hansen">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Iowa, Iowa City, IA</data>
+      <data key="research">connective tissue disorder, connective tissue disorder subject, aortic MR image</data>
+    </node>
+    <node id="M. A. Viergever">
+      <data key="affiliation">Univ. Hospital Utrecht, Utrecht, The Netherlands</data>
+      <data key="research">scale space, physical field dynamic, Medical image computing</data>
+    </node>
+    <node id="Ernesto Zacur">
+      <data key="affiliation">Universitat Pompeu Fabra</data>
+      <data key="research">generic rig, different face model, face model</data>
+    </node>
+    <edge source="Linda Brodo" target="Alejandro F. Frangi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Linda Brodo" target="Javier Galbally">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Linda Brodo" target="M. Tistarelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Linda Brodo" target="Julian Fierrez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. A. M. Baert" target="Alejandro F. Frangi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. A. M. Baert" target="M. A. Viergever">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julian Fierrez" target="Alejandro F. Frangi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julian Fierrez" target="Javier Galbally">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julian Fierrez" target="M. Tistarelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="B. K. Ersbøll">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="M. A. Viergever">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Bob Moore">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Javier Galbally">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Bart M. ter Haar Romeny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Michael Sass Hansen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Ernesto Zacur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Bram van Ginneken">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Jimison Iavindrasana">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Edward J. Vigmond">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="A. Berruezo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="Avan Suinesiaputra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="M. Tistarelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="U. Perego">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro F. Frangi" target="M. Cremonesi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cremonesi" target="C. Ferri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cremonesi" target="U. Perego">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Javier Galbally" target="M. Tistarelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. K. Ersbøll" target="Michael Sass Hansen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bob Moore" target="Jimison Iavindrasana">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bram van Ginneken" target="Bart M. ter Haar Romeny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bram van Ginneken" target="M. A. Viergever">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart M. ter Haar Romeny" target="M. A. Viergever">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,297 +1,252 @@
 graph [
   node [
     id 0
-    label "Ebba Thora Hvannberg"
-    affiliation "PROLEARN Network of Excellence"
-    research "usability problem, usability evaluation, usability test"
+    label "Sunghyun Cho"
+    affiliation "POSTECH"
+    research "importance diffusion, column removal, importance diffusionThis paper"
   ]
   node [
     id 1
-    label "Dennis Wixon"
-    affiliation "Microsoft, Redmond, Washington, USA"
-    research "best practice, executive leader, best practicesThis workshop"
+    label "Jue Wang"
+    affiliation "The Ohio State University, Columbus, OH"
+    research "IKONOS image, rock modeling, geopositioning accuracy"
   ]
   node [
     id 2
-    label "Manuel Will"
-    affiliation "Universit&#228;t Salzburg, Salzburg, Austria"
-    research "case study, location-based mobile game, Oz framework"
+    label "Hua Huang"
+    affiliation "School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an 710049, China"
+    research "reference image, point cloud, web image"
   ]
   node [
     id 3
-    label "C&#233;dric Bach"
-    affiliation "Universit&#233; Paul Sabatier, Toulouse, France and Metapages, Toulouse, France"
-    research "user experience, mixed interaction model, design step"
+    label "Adam Finkelstein"
+    affiliation "Nan"
+    research "Creative Performance, happy exhibit, creative insight"
   ]
   node [
     id 4
-    label "Regina Bernhaupt"
-    affiliation "ruwido, Neumarkt, Austria &#38; University of Toulouse, Toulouse, France"
-    research "user experience, living room, interaction technique"
+    label "Norman P. Jouppi"
+    affiliation "Google"
+    research "memory system, high performance, performance improvement"
   ]
   node [
     id 5
-    label "Florian Mueller"
-    affiliation "FX Palo Alto Laboratory, 3400 Hillview Avenue, Bldg. 4, Palo Alto, CA"
-    research "supplementary material, right video, video player"
+    label "Liang Ding"
+    affiliation "Nan"
+    research "Maxwell equation, Multiresolution Method, Maxwell EquationThis paper"
   ]
   node [
     id 6
-    label "Ben A. M. Schouten"
-    affiliation "Dept. Industrial Design, Eindhoven University of Technology, Eindhoven, The Netherlands"
-    research "face image, health care, home care robot"
+    label "Suqing Han"
+    affiliation "Department of Mathematics, Taiyuan Normal University, Taiyuan, China"
+    research "attribute order, information system, attribute theorem"
   ]
   node [
     id 7
-    label "Marianna Obrist"
-    affiliation "Newcastle University, Newcastle upon Tyne, UK"
-    research "user experience, UX research, UX evaluation method"
+    label "Xiao-Shan Gao"
+    affiliation "KLMM, Institute of Systems Science"
+    research "parametric equation, decomposition algorithm, geometric constraint"
   ]
   node [
     id 8
-    label "Licia Calvi"
-    affiliation "University of Applied Sciences, DX Breda, The Netherlands"
-    research "casual game, Game User Research, facial muscle"
+    label "Chang Tian"
+    affiliation "Nan"
+    research "path uncertainty, path probability, underlying path probability"
   ]
   node [
     id 9
-    label "Daniel Cook"
-    affiliation "Department of Mechanical Engineering, University of Nevada, Las Vegas"
-    research "Las Vegas, Re-living Las Vegas, different content"
+    label "Hang Li"
+    affiliation "Sigma Center, Beijing, P. R. China"
+    research "experimental result, web search, ranking model"
   ]
   node [
     id 10
-    label "Jan Gulliksen"
-    affiliation "KTH Royal Institute of Technology"
-    research "usability professional, usability work, usability designer"
+    label "Hongyu Zhang"
+    affiliation "Tsinghua University, China"
+    research "test case, suspicious program element, existing fault localization technique"
   ]
   node [
     id 11
-    label "Sandra Basnyat"
-    affiliation "University Toulouse III, Toulouse, France"
-    research "usability evaluation, interactive system, Formal Description Technique"
+    label "Shi-Min Hu"
+    affiliation "TNList, Tsinghua Univ."
+    research "proposed approach, initial map, interactive image"
   ]
   node [
     id 12
-    label "Ronald L. Boring"
-    affiliation "OECD Halden Reactor Project, Halden, Norway"
-    research "human-computer interaction, control room, interaction technique"
+    label "Shuming Tang"
+    affiliation "Nan"
+    research "principal curve, proposed method, freeway traffic-stream modeling"
   ]
   node [
     id 13
-    label "Thomas Mirlacher"
-    affiliation "IRIT, University of Toulouse, Toulouse, France"
-    research "living room, remote control, user experience"
+    label "Jia Chen"
+    affiliation "Nan"
+    research "diversity type, embedded system, analysis software"
   ]
   node [
     id 14
-    label "Manfred Tscheligi"
-    affiliation "CDL on Contextual Interfaces, Salzburg, Austria"
-    research "user experience, user study, user acceptance"
+    label "Bingheng Lu"
+    affiliation "State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, People's Republic of China"
+    research "loading process, load release, full filling"
   ]
   node [
     id 15
-    label "Newton Lee"
-    affiliation "Nan"
-    research "Facebook Nation, Total Information Awareness, Facebook co-founder"
+    label "Hsiao-Wuen Hon"
+    affiliation "Microsoft Research Asia, Beijing, China"
+    research "ambiguous query, speech recognition, query log"
   ]
   node [
     id 16
-    label "Andreas Boldt"
-    affiliation "Department of Cardiac Surgery, University of Leipzig, Heart Center Leipzig, 04289 Leipzig, Germany"
-    research "immunosuppressive therapy, Emotional Flowers, Pharmacodynamic monitoring"
+    label "Bin Liu"
+    affiliation "Nan"
+    research "Laminated Flooring, Texture AnalysisExtracting surface image, defective laminated flooring"
   ]
   node [
     id 17
-    label "Philipe Palanque"
-    affiliation "University Paul Sabatier, Toulouse Cedex"
-    research "interactive cockpit, interactive system, model-based approach"
+    label "Fei-Yue Wang"
+    affiliation "Nan"
+    research "economic computing, economic system, Special Section"
   ]
   node [
     id 18
-    label "J L Wesson"
-    affiliation "University Way, Summerstrand, Port Elizabeth, South Africa"
-    research "tilt interaction, usability problem, mobile device"
+    label "Shancang Li"
+    affiliation "Institute of Advanced Telecommunications, Swansea University, Swansea, UK"
+    research "proposed method, wireless sensor network, previous method"
   ]
   node [
     id 19
-    label "Katherine Isbister"
-    affiliation "NYU polytechnic Institute/NYU"
-    research "social ECA, cross-cultural communication, social agent"
+    label "Andrew Howard"
+    affiliation "Space Exploration Technologies, 1 Rocket Road, Hawthorne, California 90250"
+    research "Wiley Periodicals, stereo vision, Hammerhead vision system"
   ]
   edge [
     source 0
-    target 4
+    target 1
     relation "collaborate"
   ]
   edge [
     source 0
-    target 10
+    target 3
     relation "collaborate"
   ]
   edge [
     source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
     target 9
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 10
+    source 1
+    target 3
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 1
     target 17
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 16
+    source 1
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 14
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 1
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 15
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 1
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
     relation "collaborate"
   ]
 ]

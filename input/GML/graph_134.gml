@@ -1,142 +1,137 @@
 graph [
   node [
     id 0
-    label "M. Arif"
-    affiliation "Department of Electrical Engineering, Air University, Islamabad, Pakistan"
-    research "feature space, pattern classification problem, different class"
+    label "Larry Travis"
+    affiliation "University of Wisconsin, Fladison, Wisconsin"
+    research "proof plan, general statement, artificial intelligence"
   ]
   node [
     id 1
-    label "Gilles Venturini"
-    affiliation "Nan"
-    research "Delaunay triangulation, Approximated Delaunay Triangulation, novel technique"
+    label "Douglas B. Lenat"
+    affiliation "Cycorp"
+    research "knowledge base, new heuristics, common sense knowledge"
   ]
   node [
     id 2
-    label "Nicole Vincent"
-    affiliation "SIP Team, LIPADE Laboratory, 45, rue des SaintsPeres, 75270, Paris Cedex 06, France"
-    research "Zipf law, new method, effective method"
+    label "William S. Faught"
+    affiliation "Stanford Artificial Intelligence Laboratory, Stanford, California"
+    research "natural language, natural language input, simulation model"
   ]
   node [
     id 3
-    label "Manuel Barbosa"
-    affiliation "Universidade do Minho, Campus de Gualtar, Portugal"
-    research "cryptographic software, formal verification, Randomness reuse"
+    label "Philip C. Jackson"
+    affiliation "Giordano Associates Inc., Sparta, N.J."
+    research "measurement capability, MHz functional digital repetition, functional digital stimulus"
   ]
   node [
     id 4
-    label "Josep Llad&#243;s"
-    affiliation "CVC, Barcelona, Spain"
-    research "graphical document, graphical symbol, proposed method"
+    label "David J. McArthur"
+    affiliation "The Rand Corporation, Santa Monica, CA"
+    research "object-oriented language, First ROSS, multiple aircraft"
   ]
   node [
     id 5
-    label "Jean Pierre Asselin de Beauville"
-    affiliation "Nan"
-    research "Genetic AlgorithmContour-Detection, Learning Control, Multilayer Perception"
+    label "S J Rosenschein"
+    affiliation "The Rand Corporation, Santa Monica, California"
+    research "production system, abstract data structure, data structure"
   ]
   node [
     id 6
-    label "Pierre Liardet"
-    affiliation "Laboratoire ATP, UMRCNRS 6632, Universit&#233; de Provence, CMI, Marseille, France"
-    research "subset GF, power consumption, binary sequence"
+    label "John W. Ellis"
+    affiliation "Nan"
+    research "enemy force, associated training cost, better environmental data"
   ]
   node [
     id 7
-    label "Mathieu Delalandre"
-    affiliation "PSI Laboratory, University of Rouen, Mont Saint Aignan, France"
-    research "Symbol Recognition, performance evaluation, new approach"
+    label "L. D. Erman"
+    affiliation "Department of Computer and Information Science, University of Mass., Amherst, Mass. and Department of Computer Science, CarnegieMellon University, Pittsburgh, PA"
+    research "knowledge source, cooperative operating system, Speech Understanding"
   ]
   node [
     id 8
-    label "M. Slimane"
-    affiliation "Universit&#38;#233/ Fran&#38;#231/ois Rabelais Tours, Laboratoire d'Informatique, 64, Avenue Jean Portalis, 37200 Tours France. Emails: {gueret,monmarche,slimane}@univtours.fr"
-    research "artificial ant, web site, ant colony"
+    label "Frederick Hayes-Roth"
+    affiliation "Naval Postgraduate School, Monterey, California"
+    research "information superiority, Radical Simplicity, Me-Centric computing"
   ]
   node [
     id 9
-    label "C. Gu&#38;#233/ret"
-    affiliation "Data Archiving and Networked Services (DANS), Den Haag, The Netherlands"
-    research "Linked Data, share information, data set"
+    label "Charles Kellogg"
+    affiliation "Intellectronics Laboratories, Canoga Park, California"
+    research "proof plan, data management system, structured data"
   ]
   node [
     id 10
-    label "Dominique Burger"
-    affiliation "BrailleNet/AccessiWeb, France"
-    research "CEN workshop, European Specific Support, Quality MarkImplementing web accessibility"
+    label "Robert E. Veres"
+    affiliation "Nan"
+    research "cross-functional product-process design team, design application, design tool"
   ]
   node [
     id 11
-    label "Jean-Yves Ramel"
+    label "A. Carlisle Scott"
     affiliation "Nan"
-    research "graphical document, query signature, background blob"
+    research "Innovative Applications, Innovative application, Artificial IntelligenceProceedings"
   ]
   node [
     id 12
-    label "T. Brouard"
-    affiliation "Universit&#233; Fran&#231;oisRabelais de Tours, Laboratoire Informatique, 64 avenue Jean Portalis, 37200 Tours, France"
-    research "2-node sub graph, graph repository, feature vector"
+    label "J. Davidson"
+    affiliation "ORI, Inc., Rockville, MD"
+    research "Spectrum Orbit Utilization Program, direct broadcast satellite service, direct broadcast service"
   ]
   node [
     id 13
-    label "N. Monmarch&#232;"
-    affiliation "Universit&#38;#233/ Fran&#38;#231/ois Rabelais Tours, Laboratoire d'Informatique, 64, Avenue Jean Portalis, 37200 Tours France. Emails: {gueret,monmarche,slimane}@univtours.fr"
-    research "artificial ant, ant colony, AntClass algorithm"
+    label "Donald A. Waterman"
+    affiliation "The Rand Corp., Santa Monica, CA"
+    research "EP agent, Exemplary Programming, expert system"
   ]
   node [
     id 14
-    label "Pierre Gaucher"
-    affiliation "Laboratoire d'Informatique de l'Universit&#233; de Tours, Tours, France"
-    research "artificial ant, artificial insect, artificial ants meta-heuristic"
+    label "Bhashyam Ramesh"
+    affiliation "Nan"
+    research "expert system, real-time expert system, system condition"
   ]
   node [
     id 15
-    label "Christiane Guinot"
-    affiliation "CE.R.I.E.S., NeuillysurSeine, France 92521"
-    research "data set, new bio-inspired algorithm, isolated data"
+    label "Antoine Abche"
+    affiliation "Nan"
+    research "expert system, real-time expert system, system condition"
   ]
   node [
     id 16
-    label "Muhammad Muzzamil Luqman"
-    affiliation "Laboratoire d'Informatique, Universit&#233; Fran&#231;ois Rabelais de Tours, France and Computer Vision Center, Universitat Aut&#242;noma de Barcelona, Spain"
-    research "2-node sub graph, graph repository, explicit graph"
+    label "Philip Klahr"
+    affiliation "System Development Corporation, Santa Monica, CA"
+    research "question-answering system, proof plan, DADM system display"
   ]
   node [
     id 17
-    label "S. Aupetit"
-    affiliation "Laboratoire Informatique (EA6300), France, Universit&#233; Fran&#355;ois Rabelais Tours, Tours, France"
-    research "web page, dichromat user, web site"
+    label "Sanjai Narian"
+    affiliation "Telcordia"
+    research "configuration parameter, configuration error, configuration error diagnosis"
   ]
   node [
     id 18
-    label "Hubert Cardot"
-    affiliation "Universit&#233; Fran&#231;oisRabelais de Tours"
-    research "color watershed, recurrent neural network, ensemble method"
+    label "D. Raj Reddy"
+    affiliation "CarnegieMellon University, Pittsburgh, Pennsylvania"
+    research "independent process, Hearsay system, system organization"
   ]
   node [
     id 19
-    label "M. C. Mraghni"
-    affiliation "Nan"
-    research "Nearest Neighbors Set"
+    label "David J. Mostow"
+    affiliation "CarnegieMellon University, Pittsburgh, PA"
+    research "compilable recognition network, recognition network, Hearsay-II speech understanding system"
   ]
   edge [
     source 0
-    target 2
+    target 9
     relation "collaborate"
   ]
   edge [
     source 0
-    target 12
+    target 16
     relation "collaborate"
   ]
   edge [
     source 1
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -146,130 +141,100 @@ graph [
   ]
   edge [
     source 1
-    target 12
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 2
     target 5
     relation "collaborate"
   ]
   edge [
     source 2
-    target 12
+    target 13
     relation "collaborate"
   ]
   edge [
     source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
+    target 16
     relation "collaborate"
   ]
   edge [
     source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 8
     target 10
     relation "collaborate"
   ]
   edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 18
+    relation "collaborate"
+  ]
+  edge [
     source 8
     target 12
     relation "collaborate"
@@ -277,16 +242,21 @@ graph [
   edge [
     source 8
     target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
     relation "collaborate"
   ]
   edge [
     source 9
-    target 13
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 18
+    source 10
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -295,42 +265,32 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 12
+    source 13
     target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
     relation "collaborate"
   ]
   edge [
     source 14
-    target 17
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 16
     relation "collaborate"
   ]
   edge [
     source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 16
     target 17
     relation "collaborate"
   ]

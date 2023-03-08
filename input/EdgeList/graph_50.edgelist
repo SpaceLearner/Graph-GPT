@@ -1,32 +1,29 @@
-Susan A. Brown	Helen Kelley	{'relation': 'collaborate'}
-Susan A. Brown	A. Schwarz	{'relation': 'collaborate'}
-Tracey Rizzuto	A. Schwarz	{'relation': 'collaborate'}
-M. Pohst	A. Schwarz	{'relation': 'collaborate'}
-M. Pohst	F. Diaz y Diaz	{'relation': 'collaborate'}
-R. A. Hirschheim	A. Schwarz	{'relation': 'collaborate'}
-R. A. Hirschheim	Richard J. Welke	{'relation': 'collaborate'}
-R. A. Hirschheim	B. Jayatilaka	{'relation': 'collaborate'}
-Ted E. Lee	B. Jayatilaka	{'relation': 'collaborate'}
-M. Babik	B. Jayatilaka	{'relation': 'collaborate'}
-M. Babik	D. Benjamin	{'relation': 'collaborate'}
-M. Babik	S. Cabrera	{'relation': 'collaborate'}
-Iris A. Junglas	A. Schwarz	{'relation': 'collaborate'}
-Iris A. Junglas	Norman A. Johnson	{'relation': 'collaborate'}
-Iris A. Junglas	Wynne W. Chin	{'relation': 'collaborate'}
-Iris A. Junglas	Jill M. Sundie	{'relation': 'collaborate'}
-Ronald T. Cenfetelli	A. Schwarz	{'relation': 'collaborate'}
-D. Benjamin	B. Jayatilaka	{'relation': 'collaborate'}
-D. Benjamin	S. Cabrera	{'relation': 'collaborate'}
-Richard J. Welke	A. Schwarz	{'relation': 'collaborate'}
-B. Jayatilaka	A. Schwarz	{'relation': 'collaborate'}
-B. Jayatilaka	S. Cabrera	{'relation': 'collaborate'}
-B. Jayatilaka	Jinyoul Lee	{'relation': 'collaborate'}
-A. Schwarz	Helen Kelley	{'relation': 'collaborate'}
-A. Schwarz	Jill M. Sundie	{'relation': 'collaborate'}
-A. Schwarz	F. Diaz y Diaz	{'relation': 'collaborate'}
-A. Schwarz	N L Johnson	{'relation': 'collaborate'}
-A. Schwarz	Norman A. Johnson	{'relation': 'collaborate'}
-A. Schwarz	Wynne W. Chin	{'relation': 'collaborate'}
-N L Johnson	Wynne W. Chin	{'relation': 'collaborate'}
-Wynne W. Chin	Norman A. Johnson	{'relation': 'collaborate'}
-Wynne W. Chin	Jill M. Sundie	{'relation': 'collaborate'}
+Masumi Ishikawa	Hong Zhang	{'relation': 'collaborate'}
+Masumi Ishikawa	Alireza Ahrary	{'relation': 'collaborate'}
+Masumi Ishikawa	Tetsuo Furukawa	{'relation': 'collaborate'}
+Masumi Ishikawa	Helge Ritter	{'relation': 'collaborate'}
+Masumi Ishikawa	Seiichiro Kamata	{'relation': 'collaborate'}
+Masumi Ishikawa	K. Doya	{'relation': 'collaborate'}
+Masumi Ishikawa	Kazuhiko Nishino	{'relation': 'collaborate'}
+Masumi Ishikawa	Hiroyuki Miyamoto	{'relation': 'collaborate'}
+Masumi Ishikawa	Risto Miikkulainen	{'relation': 'collaborate'}
+Masumi Ishikawa	Takeshi Yamakawa	{'relation': 'collaborate'}
+Masumi Ishikawa	Toshiyuki Nomura	{'relation': 'collaborate'}
+Masumi Ishikawa	Li Tian	{'relation': 'collaborate'}
+Masumi Ishikawa	Jiro Katto	{'relation': 'collaborate'}
+Masumi Ishikawa	Kyota Higa	{'relation': 'collaborate'}
+Seiichiro Kamata	Alireza Ahrary	{'relation': 'collaborate'}
+Seiichiro Kamata	Li Tian	{'relation': 'collaborate'}
+Bin Guo	Hong Zhang	{'relation': 'collaborate'}
+Hiroyuki Miyamoto	K. Doya	{'relation': 'collaborate'}
+Hiroyuki Miyamoto	Takeshi Yamakawa	{'relation': 'collaborate'}
+Li Tian	Alireza Ahrary	{'relation': 'collaborate'}
+Helge Ritter	Risto Miikkulainen	{'relation': 'collaborate'}
+Takeshi Yamakawa	K. Doya	{'relation': 'collaborate'}
+Lin Yang	Hong Zhang	{'relation': 'collaborate'}
+Kyota Higa	Toshiyuki Nomura	{'relation': 'collaborate'}
+Kyota Higa	Jiro Katto	{'relation': 'collaborate'}
+Jiro Katto	Toshiyuki Nomura	{'relation': 'collaborate'}
+Hong Zhang	Ding Feng	{'relation': 'collaborate'}
+Hong Zhang	Xiaolong Liu	{'relation': 'collaborate'}
+Hong Zhang	Jiulun Fan	{'relation': 'collaborate'}

@@ -1,57 +1,58 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:03 2023
 # 
-Leon G. Stucki	4
-Jack C. Wileden	{'relation': 'collaborate'}
-Richard Fairley	{'relation': 'collaborate'}
-J. Ramanathan	{'relation': 'collaborate'}
-Alan R. Segal	{'relation': 'collaborate'}
-Erich Hughes	2
-Dock Allen	{'relation': 'collaborate'}
-Bhavani M. Thuraisingham	{'relation': 'collaborate'}
-Alan R. Segal	3
-Jack C. Wileden	{'relation': 'collaborate'}
-Richard Fairley	{'relation': 'collaborate'}
-J. Ramanathan	{'relation': 'collaborate'}
-Charles McKay	7
-K A Gilroy	{'relation': 'collaborate'}
-Dock Allen	{'relation': 'collaborate'}
-Richard Fairley	{'relation': 'collaborate'}
-J. Bamberger	{'relation': 'collaborate'}
-Mike Kamrad	{'relation': 'collaborate'}
-David Eichmann	{'relation': 'collaborate'}
-C. Atkinson	{'relation': 'collaborate'}
-Jack C. Wileden	2
-Richard Fairley	{'relation': 'collaborate'}
-J. Ramanathan	{'relation': 'collaborate'}
-Offer Pazy	1
-Mike Kamrad	{'relation': 'collaborate'}
-J. Ramanathan	1
-Richard Fairley	{'relation': 'collaborate'}
-Richard Fairley	1
-J. Bamberger	{'relation': 'collaborate'}
-C. Atkinson	1
-David Eichmann	{'relation': 'collaborate'}
-K A Gilroy	2
-Dock Allen	{'relation': 'collaborate'}
-Mike Kamrad	{'relation': 'collaborate'}
-Dennis Cornhill	3
-Rakesh Jha	{'relation': 'collaborate'}
-Mike Kamrad	{'relation': 'collaborate'}
-Greg Eisenhauer	{'relation': 'collaborate'}
-David Eichmann	0
-Fred Maymir-Ducharme	1
-Mike Kamrad	{'relation': 'collaborate'}
-Mike Kamrad	4
-Dock Allen	{'relation': 'collaborate'}
-Rakesh Jha	{'relation': 'collaborate'}
-Greg Eisenhauer	{'relation': 'collaborate'}
-Joseph K. Cross	{'relation': 'collaborate'}
-Joseph K. Cross	0
-Greg Eisenhauer	1
-Rakesh Jha	{'relation': 'collaborate'}
-Bhavani M. Thuraisingham	1
-Dock Allen	{'relation': 'collaborate'}
-Rakesh Jha	0
-Dock Allen	0
-J. Bamberger	0
+Yoshihiro Okada	4
+Kouichi Utsumiya	{'relation': 'collaborate'}
+Hiroaki Nishino	{'relation': 'collaborate'}
+Shigeru Takano	{'relation': 'collaborate'}
+Yong-Moo Kwon	{'relation': 'collaborate'}
+Kazuyuki Yoshida	4
+Kazuyoshi Korida	{'relation': 'collaborate'}
+Kouichi Utsumiya	{'relation': 'collaborate'}
+Hiroaki Nishino	{'relation': 'collaborate'}
+Eiji Aoki	{'relation': 'collaborate'}
+James Newman	1
+Sung-Bae Cho	{'relation': 'collaborate'}
+Sung-Bae Cho	10
+Hiroaki Nishino	{'relation': 'collaborate'}
+Sang-Rok Oh	{'relation': 'collaborate'}
+Young-Chul Kim	{'relation': 'collaborate'}
+Jun-Ki Min	{'relation': 'collaborate'}
+Ashish Ghosh	{'relation': 'collaborate'}
+Frank Earl Pollick	{'relation': 'collaborate'}
+Jin H. Kim	{'relation': 'collaborate'}
+Alok Kumar	{'relation': 'collaborate'}
+Kouichi Utsumiya	{'relation': 'collaborate'}
+Hideyuki Takagi	{'relation': 'collaborate'}
+Alok Kumar	0
+Kouichi Utsumiya	7
+Hiroaki Nishino	{'relation': 'collaborate'}
+Yong-Moo Kwon	{'relation': 'collaborate'}
+Eiji Aoki	{'relation': 'collaborate'}
+Hideyuki Takagi	{'relation': 'collaborate'}
+Kazuyoshi Korida	{'relation': 'collaborate'}
+Akira Yamaguchi	{'relation': 'collaborate'}
+Masatoshi Nishimura	{'relation': 'collaborate'}
+Young-Chul Kim	1
+Sang-Rok Oh	{'relation': 'collaborate'}
+Yong-Moo Kwon	1
+Hiroaki Nishino	{'relation': 'collaborate'}
+Eiji Aoki	2
+Kazuyoshi Korida	{'relation': 'collaborate'}
+Hiroaki Nishino	{'relation': 'collaborate'}
+Jun-Ki Min	0
+Jin H. Kim	0
+Masatoshi Nishimura	1
+Hiroaki Nishino	{'relation': 'collaborate'}
+Hideyuki Takagi	1
+Hiroaki Nishino	{'relation': 'collaborate'}
+Hiroaki Nishino	3
+Kazuyoshi Korida	{'relation': 'collaborate'}
+Shigeru Takano	{'relation': 'collaborate'}
+Akira Yamaguchi	{'relation': 'collaborate'}
+Kazuyoshi Korida	0
+Akira Yamaguchi	0
+Frank Earl Pollick	0
+Ashish Ghosh	0
+Shigeru Takano	0
+Sang-Rok Oh	0

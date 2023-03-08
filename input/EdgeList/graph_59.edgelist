@@ -1,46 +1,28 @@
-Alain Boucher	Stanislas Boissau	{'relation': 'collaborate'}
-Alain Boucher	Minh Nguyen-Duc	{'relation': 'collaborate'}
-Alain Boucher	Edouard Amouroux	{'relation': 'collaborate'}
-Alain Boucher	Alexis Drogoul	{'relation': 'collaborate'}
-Alain Boucher	François Sempé	{'relation': 'collaborate'}
-Hoang Nam Chu	François Sempé	{'relation': 'collaborate'}
-Hoang Nam Chu	Jean Arlat	{'relation': 'collaborate'}
-Hoang Nam Chu	François Charpillet	{'relation': 'collaborate'}
-Hoang Nam Chu	David Powell	{'relation': 'collaborate'}
-Hoang Nam Chu	Felix Ingrand	{'relation': 'collaborate'}
-Hoang Nam Chu	Olivier Simonin	{'relation': 'collaborate'}
-Hoang Nam Chu	Alexis Drogoul	{'relation': 'collaborate'}
-Hoang Nam Chu	Marc-Olivier Killijian	{'relation': 'collaborate'}
-Z. Kalbarczyk	Jean Arlat	{'relation': 'collaborate'}
-François Sempé	Olivier Simonin	{'relation': 'collaborate'}
-François Sempé	Stanislas Boissau	{'relation': 'collaborate'}
-François Sempé	Nicolas Sabouret	{'relation': 'collaborate'}
-François Sempé	Alexis Drogoul	{'relation': 'collaborate'}
-François Sempé	Geber Ramalho	{'relation': 'collaborate'}
-François Sempé	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
-François Sempé	Yann Chevaleyre	{'relation': 'collaborate'}
-François Sempé	Minh Nguyen-Duc	{'relation': 'collaborate'}
-François Sempé	Edouard Amouroux	{'relation': 'collaborate'}
-François Sempé	François Charpillet	{'relation': 'collaborate'}
-François Sempé	Y. Haradji	{'relation': 'collaborate'}
-Karama Kanoun	Jean Arlat	{'relation': 'collaborate'}
-Karama Kanoun	David Powell	{'relation': 'collaborate'}
-Felix Ingrand	Jean Arlat	{'relation': 'collaborate'}
-Felix Ingrand	David Powell	{'relation': 'collaborate'}
-Felix Ingrand	Marc-Olivier Killijian	{'relation': 'collaborate'}
-Angélica Muñoz-Meléndez	Alexis Drogoul	{'relation': 'collaborate'}
-Jean Arlat	David Powell	{'relation': 'collaborate'}
-Jean Arlat	Marc-Olivier Killijian	{'relation': 'collaborate'}
-Edouard Amouroux	Alexis Drogoul	{'relation': 'collaborate'}
-Edouard Amouroux	Nicolas Sabouret	{'relation': 'collaborate'}
-Edouard Amouroux	Y. Haradji	{'relation': 'collaborate'}
-Alexis Drogoul	Minh Nguyen-Duc	{'relation': 'collaborate'}
-Alexis Drogoul	François Charpillet	{'relation': 'collaborate'}
-Alexis Drogoul	Stanislas Boissau	{'relation': 'collaborate'}
-Alexis Drogoul	Geber Ramalho	{'relation': 'collaborate'}
-Alexis Drogoul	Olivier Simonin	{'relation': 'collaborate'}
-Minh Nguyen-Duc	Stanislas Boissau	{'relation': 'collaborate'}
-Olivier Simonin	François Charpillet	{'relation': 'collaborate'}
-Nicolas Sabouret	Y. Haradji	{'relation': 'collaborate'}
-Marc-Olivier Killijian	David Powell	{'relation': 'collaborate'}
-Yann Chevaleyre	Geber Ramalho	{'relation': 'collaborate'}
+G. J. Collins	C. J. Budd	{'relation': 'collaborate'}
+G. J. Collins	V. A. Galaktionov	{'relation': 'collaborate'}
+L A Peletier	J L Vazquez	{'relation': 'collaborate'}
+L A Peletier	V. A. Galaktionov	{'relation': 'collaborate'}
+M. Kindelan	Migual A. Herrero	{'relation': 'collaborate'}
+M. Kindelan	J. J. L. Velázquez	{'relation': 'collaborate'}
+J L Vazquez	Migual A. Herrero	{'relation': 'collaborate'}
+J L Vazquez	V. A. Galaktionov	{'relation': 'collaborate'}
+V. A. Frolov	V. A. Galaktionov	{'relation': 'collaborate'}
+J. J. L. Velázquez	Migual A. Herrero	{'relation': 'collaborate'}
+J. J. L. Velázquez	V. A. Galaktionov	{'relation': 'collaborate'}
+N. I. V'yukova	V. A. Galaktionov	{'relation': 'collaborate'}
+Kirill Garanzha	Simon Premože	{'relation': 'collaborate'}
+Kirill Garanzha	V. A. Galaktionov	{'relation': 'collaborate'}
+Edward A. Kopylov	V. A. Galaktionov	{'relation': 'collaborate'}
+J Bebernes	V. A. Galaktionov	{'relation': 'collaborate'}
+J Bebernes	Stephen Edward Bricher	{'relation': 'collaborate'}
+N. Bellomo	Migual A. Herrero	{'relation': 'collaborate'}
+S. P. Kurdyumov	A. A. Samarskii	{'relation': 'collaborate'}
+S. P. Kurdyumov	V. A. Galaktionov	{'relation': 'collaborate'}
+J. J. Velasquez	V. A. Galaktionov	{'relation': 'collaborate'}
+J. J. Velasquez	Migual A. Herrero	{'relation': 'collaborate'}
+Howard A. Levine	V. A. Galaktionov	{'relation': 'collaborate'}
+Simon Premože	V. A. Galaktionov	{'relation': 'collaborate'}
+V. A. Galaktionov	C. J. Budd	{'relation': 'collaborate'}
+V. A. Galaktionov	Stephen Edward Bricher	{'relation': 'collaborate'}
+V. A. Galaktionov	A. A. Samarskii	{'relation': 'collaborate'}
+V. A. Galaktionov	Migual A. Herrero	{'relation': 'collaborate'}

@@ -1,38 +1,32 @@
-L. Vergara	Sebastian Provenzano	{'relation': 'collaborate'}
-L. Vergara	Jorge Moragues	{'relation': 'collaborate'}
-L. Vergara	Jorge Gosalbez	{'relation': 'collaborate'}
-L. Vergara	Antonio Soriano	{'relation': 'collaborate'}
-L. Vergara	Andres Camacho	{'relation': 'collaborate'}
-L. Vergara	J. Morales	{'relation': 'collaborate'}
-L. Vergara	Soledad Gomez	{'relation': 'collaborate'}
-L. Vergara	P. Bernabeu	{'relation': 'collaborate'}
-L. Vergara	Arturo Serrano	{'relation': 'collaborate'}
-L. Vergara	J. Sastre	{'relation': 'collaborate'}
-L. Vergara	V. Naranjo	{'relation': 'collaborate'}
-L. Vergara	Raul Llinares	{'relation': 'collaborate'}
-L. Vergara	Jorge Igual	{'relation': 'collaborate'}
-L. Vergara	Francklin Rivas	{'relation': 'collaborate'}
-L. Vergara	A. Rodríguez	{'relation': 'collaborate'}
-Francklin Rivas	F. J. Fuenmayor	{'relation': 'collaborate'}
-Francklin Rivas	Sebastian Provenzano	{'relation': 'collaborate'}
-V. Naranjo	J. Sastre	{'relation': 'collaborate'}
-P. Bernabeu	Andres Camacho	{'relation': 'collaborate'}
-P. Bernabeu	Jorge Igual	{'relation': 'collaborate'}
-Ana Cabrera	Jorge Moragues	{'relation': 'collaborate'}
-Ana Cabrera	Areti Damala	{'relation': 'collaborate'}
-Ana Cabrera	Kiel M Gilleade	{'relation': 'collaborate'}
-Antonio Soriano	Jorge Moragues	{'relation': 'collaborate'}
-Jorge Gosalbez	Raul Llinares	{'relation': 'collaborate'}
-Jorge Gosalbez	Jorge Igual	{'relation': 'collaborate'}
-Jorge Gosalbez	Arturo Serrano	{'relation': 'collaborate'}
-Jorge Gosalbez	Jorge Moragues	{'relation': 'collaborate'}
-Soledad Gomez	Jorge Moragues	{'relation': 'collaborate'}
-Sebastian Provenzano	F. J. Fuenmayor	{'relation': 'collaborate'}
-Jorge Igual	Raul Llinares	{'relation': 'collaborate'}
-Jorge Igual	Andres Camacho	{'relation': 'collaborate'}
-Jorge Igual	Arturo Serrano	{'relation': 'collaborate'}
-Areti Damala	Kiel M Gilleade	{'relation': 'collaborate'}
-Areti Damala	Jorge Moragues	{'relation': 'collaborate'}
-Jorge Moragues	Kiel M Gilleade	{'relation': 'collaborate'}
-Raul Llinares	Arturo Serrano	{'relation': 'collaborate'}
-Raul Llinares	Andres Camacho	{'relation': 'collaborate'}
+Carine Hue	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+Carine Hue	P. Perez	{'relation': 'collaborate'}
+Carine Hue	Marc Boulle	{'relation': 'collaborate'}
+O. Trémois	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+Emmanuel Veneau	P Bouthemy	{'relation': 'collaborate'}
+Emmanuel Veneau	Rémi Ronfard	{'relation': 'collaborate'}
+Nicolas Papadakis	Alexandre Hervieu	{'relation': 'collaborate'}
+Nicolas Papadakis	Aurélie Bugeau	{'relation': 'collaborate'}
+Nicolas Papadakis	V. Caselles	{'relation': 'collaborate'}
+Nicolas Papadakis	Pau Gargallo	{'relation': 'collaborate'}
+Éric Anquetil	Frédéric Dambreville	{'relation': 'collaborate'}
+Éric Anquetil	Bertrand Coüasnon	{'relation': 'collaborate'}
+Aurélie Bugeau	V. Caselles	{'relation': 'collaborate'}
+Aurélie Bugeau	Alexandre Hervieu	{'relation': 'collaborate'}
+Aurélie Bugeau	P. Perez	{'relation': 'collaborate'}
+Aurélie Bugeau	Pau Gargallo	{'relation': 'collaborate'}
+Rémi Ronfard	P Bouthemy	{'relation': 'collaborate'}
+A. Chessel	P Bouthemy	{'relation': 'collaborate'}
+Roger Mohr	P Bouthemy	{'relation': 'collaborate'}
+P. Perez	P Bouthemy	{'relation': 'collaborate'}
+P. Perez	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+P. Perez	R. Venkatehs Babu	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	Frédéric Dambreville	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	Alexandre Hervieu	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	P Bouthemy	{'relation': 'collaborate'}
+Alexandre Hervieu	Pau Gargallo	{'relation': 'collaborate'}
+Alexandre Hervieu	P Bouthemy	{'relation': 'collaborate'}
+Alexandre Hervieu	V. Caselles	{'relation': 'collaborate'}
+Pau Gargallo	V. Caselles	{'relation': 'collaborate'}
+Bertrand Coüasnon	Frédéric Dambreville	{'relation': 'collaborate'}
+Alain Lehmann	P Bouthemy	{'relation': 'collaborate'}
+R. Venkatehs Babu	P Bouthemy	{'relation': 'collaborate'}

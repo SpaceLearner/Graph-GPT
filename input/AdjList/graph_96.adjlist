@@ -1,54 +1,55 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:06 2023
 # 
-C. Delorme	3
-Leif K. Jørgensen	{'relation': 'collaborate'}
-Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
-Mirka Miller	{'relation': 'collaborate'}
-Bo-Ting Yang	3
-Denis Hanson	{'relation': 'collaborate'}
-B. Alspach	{'relation': 'collaborate'}
-Danny Dyer	{'relation': 'collaborate'}
-Ping Wang	3
-Gary MacGillivray	{'relation': 'collaborate'}
-Denis Hanson	{'relation': 'collaborate'}
-Leif K. Jørgensen	{'relation': 'collaborate'}
-F. Santos	2
-David Orden	{'relation': 'collaborate'}
-Ruth Haas	{'relation': 'collaborate'}
-David A. Pike	1
-Danny Dyer	{'relation': 'collaborate'}
-Mirka Miller	2
-Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
-Leif K. Jørgensen	{'relation': 'collaborate'}
-Dale Youngs	2
-Denis Hanson	{'relation': 'collaborate'}
-Gary MacGillivray	{'relation': 'collaborate'}
-Ken-ichi Kawarabayashi	1
-Leif K. Jørgensen	{'relation': 'collaborate'}
-Guillermo Pineda-Villavicencio	1
-Leif K. Jørgensen	{'relation': 'collaborate'}
-Danny Dyer	3
-Denis Hanson	{'relation': 'collaborate'}
-Dariusz Dereniowski	{'relation': 'collaborate'}
-B. Alspach	{'relation': 'collaborate'}
-Michael O. Albertson	2
-Ruth Haas	{'relation': 'collaborate'}
-Sarah-Marie Belcastro	{'relation': 'collaborate'}
-B. Alspach	1
-Denis Hanson	{'relation': 'collaborate'}
-Gary MacGillivray	2
-Ruth Haas	{'relation': 'collaborate'}
-Denis Hanson	{'relation': 'collaborate'}
-Denis Hanson	3
-Leif K. Jørgensen	{'relation': 'collaborate'}
-Ruth Haas	{'relation': 'collaborate'}
-J. W. Moon	{'relation': 'collaborate'}
-Sarah-Marie Belcastro	1
-Ruth Haas	{'relation': 'collaborate'}
-J. W. Moon	0
-Leif K. Jørgensen	0
-David Orden	1
-Ruth Haas	{'relation': 'collaborate'}
-Dariusz Dereniowski	0
-Ruth Haas	0
+Hayoung Park	2
+Yongtae Shin	{'relation': 'collaborate'}
+Hoon Ko	{'relation': 'collaborate'}
+Jongchan Lee	2
+Hoon Ko	{'relation': 'collaborate'}
+Hyun-Joo Moon	{'relation': 'collaborate'}
+Tai-hoon Kim	4
+Carlos Ramos	{'relation': 'collaborate'}
+Zita A. Vale	{'relation': 'collaborate'}
+Hoon Ko	{'relation': 'collaborate'}
+Hanmin Jung	{'relation': 'collaborate'}
+Hoon Ko	16
+Zita A. Vale	{'relation': 'collaborate'}
+Kwang-Hyung Lee	{'relation': 'collaborate'}
+Hae-Seok Oh	{'relation': 'collaborate'}
+Hanmin Jung	{'relation': 'collaborate'}
+Yongtae Shin	{'relation': 'collaborate'}
+Carlos Freitas	{'relation': 'collaborate'}
+Carlos Ramos	{'relation': 'collaborate'}
+Hyun-Joo Moon	{'relation': 'collaborate'}
+Young Gu Lee	{'relation': 'collaborate'}
+Myunggwon Hwang	{'relation': 'collaborate'}
+Marek R. Ogiela	{'relation': 'collaborate'}
+Yongjun Lee	{'relation': 'collaborate'}
+Intae Ryoo	{'relation': 'collaborate'}
+Ilsun You	{'relation': 'collaborate'}
+Moon-seog Jun	{'relation': 'collaborate'}
+Seonho Kim	{'relation': 'collaborate'}
+Hanmin Jung	1
+Myunggwon Hwang	{'relation': 'collaborate'}
+Young Gu Lee	1
+Moon-seog Jun	{'relation': 'collaborate'}
+Myunggwon Hwang	1
+Zita A. Vale	{'relation': 'collaborate'}
+Intae Ryoo	0
+Kwang-Hyung Lee	1
+Moon-seog Jun	{'relation': 'collaborate'}
+Carlos Freitas	1
+Carlos Ramos	{'relation': 'collaborate'}
+Hyun-Joo Moon	0
+Ilsun You	1
+Marek R. Ogiela	{'relation': 'collaborate'}
+Carlos Ramos	1
+Zita A. Vale	{'relation': 'collaborate'}
+Zita A. Vale	0
+Moon-seog Jun	0
+Marek R. Ogiela	0
+Seonho Kim	0
+Hae-Seok Oh	1
+Yongtae Shin	{'relation': 'collaborate'}
+Yongtae Shin	0
+Yongjun Lee	0

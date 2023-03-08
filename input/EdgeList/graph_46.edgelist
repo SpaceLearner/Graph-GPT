@@ -1,23 +1,28 @@
-Jaques Reifman	Xin Wang	{'relation': 'collaborate'}
-He Huang	Qingwen Liu	{'relation': 'collaborate'}
-Yunlong Liu	Xin Wang	{'relation': 'collaborate'}
-Jiankun Wu	Xin Wang	{'relation': 'collaborate'}
-Min Li	Xin Wang	{'relation': 'collaborate'}
-Min Li	Min Li	{'relation': 'collaborate'}
-Xin Wang	P. P. Jonker	{'relation': 'collaborate'}
-Xin Wang	Peng Wei	{'relation': 'collaborate'}
-Xin Wang	E K Blum	{'relation': 'collaborate'}
-Xin Wang	Weiming Zhang	{'relation': 'collaborate'}
-Xin Wang	P. Kudumakis	{'relation': 'collaborate'}
-Xin Wang	Dan Li	{'relation': 'collaborate'}
-Xin Wang	Zhifang Sui	{'relation': 'collaborate'}
-Xin Wang	Zhiyong Shan	{'relation': 'collaborate'}
-Xin Wang	D. Tipper	{'relation': 'collaborate'}
-Xin Wang	G. B. Giannakis	{'relation': 'collaborate'}
-Xin Wang	Qingwen Liu	{'relation': 'collaborate'}
-Wenchao Huang	Yan Xiong	{'relation': 'collaborate'}
-Wenchao Huang	Qingwen Liu	{'relation': 'collaborate'}
-Shengli Zhou	G. B. Giannakis	{'relation': 'collaborate'}
-Shengli Zhou	Qingwen Liu	{'relation': 'collaborate'}
-Qingwen Liu	G. B. Giannakis	{'relation': 'collaborate'}
-Qingwen Liu	Yan Xiong	{'relation': 'collaborate'}
+Marcel Worring	Alejandro James	{'relation': 'collaborate'}
+Marcel Worring	Nicu Sebe	{'relation': 'collaborate'}
+Chahab Nastar	Alejandro James	{'relation': 'collaborate'}
+M. Lalmas	Alejandro James	{'relation': 'collaborate'}
+M. Lalmas	Y. Volkovich	{'relation': 'collaborate'}
+Alexander C. Loui	Alejandro James	{'relation': 'collaborate'}
+Ilkka Kivimäki	Alejandro James	{'relation': 'collaborate'}
+Eduardo Ruiz	Alejandro James	{'relation': 'collaborate'}
+F. Bonchi	Alejandro James	{'relation': 'collaborate'}
+Barbara Poblete	Alejandro James	{'relation': 'collaborate'}
+Barbara Poblete	M. Mendoza	{'relation': 'collaborate'}
+Jérôme Picault	Alejandro James	{'relation': 'collaborate'}
+Hugo Ortega	Alejandro James	{'relation': 'collaborate'}
+Hugo Ortega	Mark Tribe	{'relation': 'collaborate'}
+Hugo Ortega	Pamela Jennings	{'relation': 'collaborate'}
+M. Mendoza	Alejandro James	{'relation': 'collaborate'}
+Alejandro James	Y. Volkovich	{'relation': 'collaborate'}
+Alejandro James	Frank Nack	{'relation': 'collaborate'}
+Alejandro James	Nicu Sebe	{'relation': 'collaborate'}
+Alejandro James	Michael George Christel	{'relation': 'collaborate'}
+Alejandro James	A. Del Bimbo	{'relation': 'collaborate'}
+Alejandro James	J Miyazaki	{'relation': 'collaborate'}
+Alejandro James	Mark Tribe	{'relation': 'collaborate'}
+Alejandro James	Pamela Jennings	{'relation': 'collaborate'}
+A. Del Bimbo	Frank Nack	{'relation': 'collaborate'}
+A. Del Bimbo	Pamela Jennings	{'relation': 'collaborate'}
+Frank Nack	Pamela Jennings	{'relation': 'collaborate'}
+Pamela Jennings	Mark Tribe	{'relation': 'collaborate'}

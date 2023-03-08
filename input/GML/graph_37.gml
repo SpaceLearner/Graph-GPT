@@ -1,207 +1,197 @@
 graph [
   node [
     id 0
-    label "Xiaozhe Wang"
-    affiliation "Nan"
-    research "large set, triple system, design theory"
+    label "E. Pesch"
+    affiliation "FB 5  Management Information Systems, BWL 3, University of Siegen, 57068 Siegen, Germany"
+    research "centroid problem, two-machine flow shop scheduling, late part"
   ]
   node [
     id 1
-    label "Yongzhen Huang"
-    affiliation "National Lab of Pattern Recognition Institute of Automation, Chinese Academy of Sciences, Beijing, China"
-    research "BoW model, context information, context pattern"
+    label "Franz Freyberger"
+    affiliation "Nan"
+    research "Autonome Mobile Systeme, PC-based multi-modal, chAutonome Mobile Systeme"
   ]
   node [
     id 2
-    label "Wen Gao"
+    label "L. Nemes"
     affiliation "Nan"
-    research "mobile phone, short message, Serial Port"
+    research "Integrating Manufacturing Activities, Design A Virtual Manufacturing, Enterprise ArchitectureThis handbook"
   ]
   node [
     id 3
-    label "Zhongqiu Li"
+    label "P. Bernus"
     affiliation "Nan"
-    research "Adaptive Routing, Self-selective routing, new routing protocol"
+    research "intelligent interactive integrated CAD"
   ]
   node [
     id 4
-    label "Liang Wang"
-    affiliation "Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing"
-    research "multiple spatial, Feature Coding, Image Classification"
+    label "Susanne Albers"
+    affiliation "Humboldt University, Berlin, Germany"
+    research "competitive ratio, online algorithm, deterministic online algorithm"
   ]
   node [
     id 5
-    label "Zhan Song"
-    affiliation "Shenzhen Institutes of Advanced Technology"
-    research "fingerprint model, fingerprint feature detection, fingerprint image"
+    label "M. Drozdowski"
+    affiliation "Institute of Computing Science, Pozna&#324; University of Technology, ul. Piotrowo 3A, 60965 Pozna&#324;, Poland"
+    research "parallel processing, divisible load processing, multi-installment divisible load processing"
   ]
   node [
     id 6
-    label "Lukasz G. Szafaryn"
-    affiliation "The University of Virginia, Department of Computer Science, USA"
-    research "parallel application, optimal performance, Rodinia benchmark suite"
+    label "K. Mertins"
+    affiliation "Nan"
+    research "Integrated Approach, New European FactoryBusiness Process-oriented, Order Control"
   ]
   node [
     id 7
-    label "and Jim Bezdek"
-    affiliation "Nan"
-    research "monocular video, raw video data, recent video data set"
+    label "W. Kubiak"
+    affiliation "Faculty of Management, University of Toronto, Toronto, Canada"
+    research "polynomial time, completion time variance, completion time variance minimization"
   ]
   node [
     id 8
-    label "Shiqi Yu"
-    affiliation "Shenzhen Institute of Advanced Integration Technology, Shenzhen Institute of Advanced Technology, The Chinese University of Hongkong"
-    research "crowd kinetic energy, motion direction, motion variation"
+    label "Troy Jefferson Strader"
+    affiliation "Drake University College of Business and Public Administration in Des Moines, IA"
+    research "on-line channel, after-Market Trading, traditional IPOs"
   ]
   node [
     id 9
-    label "Christopher Leckie"
-    affiliation "Nan"
-    research "Interactive Fault Diagnosis Expert, Telecommunication Applications"
+    label "Andrew B. Whinston"
+    affiliation "Information, Risk, and Operation Management Department at the McCombs School of Business, University of Texas at Austin"
+    research "innovation rate, Vertical Differentiation, innovation race"
   ]
   node [
     id 10
-    label "Huiyu Zhou"
+    label "Michael J. Shaw"
     affiliation "Nan"
-    research "Speech Enhancement, dominant plane, better plane"
+    research "e-business researcher, e-business system, social computing"
   ]
   node [
     id 11
-    label "M. Bertini"
-    affiliation "London Business School, Regent's Park, London, NW1 4SA United Kingdom"
-    research "soccer video, video annotation, sports video"
+    label "J Blazewicz"
+    affiliation "Institute of Computing Science, Pozna&#324;UniversityofTechnology, Pozna&#324;, Poland and Institute of Bioorganic Chemistry, Polish Academy of Sciences, Pozna&#324;, Poland"
+    research "DNA Sequencing, isothermic DNA, general problem"
   ]
   node [
     id 12
-    label "Wenfeng Shen"
+    label "Bernd Lahl"
     affiliation "Nan"
-    research "Memory Wall, good performance, Jacobi Iteration MethodIn"
+    research "portfolio selection, solution approach, traditional application system"
   ]
   node [
     id 13
-    label "Xiaoru Yuan"
-    affiliation "Key Laboratory of Machine Perception (Ministry of Education) and School of EECS, Peking University"
-    research "Dimension Projection Matrix, data item, parent node"
+    label "J Weglarz"
+    affiliation "Institute of Computing Science, Poznan&#180; University of Technology and Poznan&#180; Supercomputing and Networking Center"
+    research "advance reservation, deterministic scheduling problem, Grid scheduling"
   ]
   node [
     id 14
-    label "Ramamohanarao Kotagiri"
-    affiliation "The University of Melbourne"
-    research "large data set, real-world data set, relational data"
+    label "E. Ettelt"
+    affiliation "Institute of Automatic Control Engineering (LSR), Technische Universit&#38;#228/t M&#38;#252/nchen, 80290 M&#38;#252/nchen, Germany/ email: roman@lsr.etechnik.tumuenchen.de"
+    research "discusses design issue, proposed design approach, service robot"
   ]
   node [
     id 15
-    label "Lei Zhang"
-    affiliation "Institute of Microelectronics, Tsinghua University, Beijing, China"
-    research "current gain, proposed ULCA, proposed circuit"
+    label "K. Ecker"
+    affiliation "Nan"
+    research "high dose, hydrogen migration, ion beam irradiation"
   ]
   node [
     id 16
-    label "Dong Liu"
+    label "G&#252;nter Schmidt"
     affiliation "Nan"
-    research "Encryption Algorithm, JPEG image encryption algorithm, encryption process"
+    research "portfolio selection, solution approach, traditional application system"
   ]
   node [
     id 17
-    label "Wentao Wang"
-    affiliation "Nan"
-    research "Engineering Equipment, Improved Genetic Algorithm, battlefield optimal assignment model"
+    label "P. Formanowicz"
+    affiliation "Institute of Computing Science, Poznan University of Technology, Piotrowo 3a, 60965 Poznan, Poland and Institute of Bioorganic Chemistry, Polish Academy of Sciences, Noskowskiego 12/14, 61704 Po ..."
+    research "DNA Sequencing, tabu search algorithm, hybridization experiment"
   ]
   node [
     id 18
-    label "Ran He"
-    affiliation "Columbia University, New York, NY"
-    research "exponential random graph model, graph limit, large social network"
+    label "C. Fischer"
+    affiliation "Nan"
+    research "multipath component, proposed model, novel stochastic spatial channel"
   ]
   node [
     id 19
-    label "Junping Zhang"
-    affiliation "Nan"
-    research "Automatic Parsing, Complex FeaturesAccording, Copenhagen Tree Tracer"
+    label "Robert W. Blanning"
+    affiliation "Vanderbilt Univ., Nashville, TN"
+    research "model management, expert system, data management"
   ]
   edge [
     source 0
-    target 14
+    target 16
     relation "collaborate"
   ]
   edge [
     source 0
-    target 7
+    target 13
     relation "collaborate"
   ]
   edge [
     source 0
-    target 4
+    target 11
     relation "collaborate"
   ]
   edge [
     source 0
-    target 9
+    target 15
     relation "collaborate"
   ]
   edge [
     source 1
-    target 4
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 4
+    source 1
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 1
     target 18
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 10
+    source 2
+    target 3
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 12
+    source 2
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 6
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 5
+    source 3
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 3
     target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -210,73 +200,158 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 19
+    source 5
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 5
     target 11
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 5
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 7
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
+    source 5
     target 17
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
     relation "collaborate"
   ]
 ]

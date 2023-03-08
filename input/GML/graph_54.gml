@@ -1,123 +1,168 @@
 graph [
   node [
     id 0
-    label "Jinling Wang"
-    affiliation "Nan"
-    research "UAV image, unmanned aerial vehicle, automatic matching"
+    label "Song Ci"
+    affiliation "High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China,Department of Computer and Electronics Engineering, University of NebraskaLincoln, NE"
+    research "P2P cache, virtual network, forward cache"
   ]
   node [
     id 1
-    label "Diana Franklin"
-    affiliation "UCSB, Santa Barbara, USA"
-    research "computer science, power consumption, dynamic code generation"
+    label "Wiro J. Niessen"
+    affiliation "Erasmus Medical Centre"
+    research "proposed method, segmentation method, guide wire"
   ]
   node [
     id 2
-    label "De Liu"
-    affiliation "Gatton College of Business and Economics, University of Kentucky, Lexington, KY"
-    research "keyword auction, codification reward, Knowledge Codification"
+    label "Gang Li"
+    affiliation "Pusan National University, Busan, Republic of Korea"
+    research "Prediction Method, current energy, energy harvesting"
   ]
   node [
     id 3
-    label "Yanjun Wang"
-    affiliation "Nan"
-    research "delta operator, neutral system, robust stability"
+    label "Z. Q. Shi"
+    affiliation "Institute of Computing Technology, Beijin, China"
+    research "data mining, experimental result, data domain"
   ]
   node [
     id 4
-    label "Ziyu Wang"
-    affiliation "Inha University, 1103 Hightech Center, Yonghyundong 253, Namgu, Incheon, Republic of Korea"
-    research "video clip, content-based video, heterogeneous video clip"
+    label "Tao Guo"
+    affiliation "Peking University, Beijing"
+    research "annotated corpus, software tool, Chinese sense"
   ]
   node [
     id 5
-    label "Roland Geyer"
-    affiliation "Donald Bren School of Environmental Science &#38; Management, University of California, Bren Hall 3426, Santa Barbara, California 93016"
-    research "cell phone, educational application, high cost"
+    label "Hui Tang"
+    affiliation "Biomedical Imaging Group Rotterdam, Departments of Radiology and Medical Informatics, Erasmus MC, Rotterdam, The Netherlands, Imaging Science and Technology, Faculty of Applied Sciences, Delft Uni ..."
+    research "carotid artery, carotid bifurcation angle, segmentation method"
   ]
   node [
     id 6
-    label "Xun Li"
-    affiliation "Nan"
-    research "matching token, Model-Guided Grouping, matching strategy"
+    label "Yang Li"
+    affiliation "Department of Physics, Zhejiang University, Hangzhou 310027, China and Key Laboratory of Infrared Imaging Materials and Detectors, Shanghai Institute of Technical Physics, Chinese Academy of Scien ..."
+    research "chaotic neural network, control parameter space, control signal"
   ]
   node [
     id 7
-    label "Clyde W. Holsapple"
-    affiliation "University of Illinois, Champaign, Illinois"
-    research "knowledge management, expert system, complex knowledge acquisition task"
+    label "Haiyan Luo"
+    affiliation "Dept. of Comput. &#38; Electron. Eng., Univ. of NebraskaLincoln, Lincoln, NE, USA"
+    research "secondary user, user-perceived video quality, CR network"
   ]
   node [
     id 8
-    label "SeungHwan Won"
-    affiliation "Samsung Electronics, Suwon, GyeongGi, Republic of Korea"
-    research "iterative code acquisition scheme, diversity order, search space reduction"
+    label "Guan-Ming Su"
+    affiliation "ESS Technol., Fremont, CA"
+    research "video coding, video program, cooperative video summary transmission"
   ]
   node [
     id 9
-    label "Ben Hardekopf"
-    affiliation "University of California, Santa Barbara"
-    research "flow-sensitive pointer analysis, pointer analysis, static analysis"
+    label "Ming Zhu"
+    affiliation "Nan"
+    research "data center network, IP routing, forwarding protocol"
   ]
   node [
     id 10
-    label "Radhika Santhanam"
-    affiliation "DSIS Area, School of Management, Gatton College of Business and Economics, University of Kentucky, Lexington, KY 40506, USA <rfc822>santhan@pop.uky.edu</rfc822>"
-    research "knowledge-based system, collaborative application, implicit learning"
+    label "Wenjia Niu"
+    affiliation "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100190"
+    research "atomic service, web service, WSN service"
   ]
   node [
     id 11
-    label "Vasanth Ram Rajarathinam"
-    affiliation "AMD, Orlando, FL, USA"
-    research "resulting hardware, information flow policy, buggy hardware feature"
+    label "Ling Bai"
+    affiliation "Surveying and Mapping Institute of Information Engineering University, China"
+    research "Grid Information Service Model, e-Learning Grid, core grid middlewares"
   ]
   node [
     id 12
-    label "Yanbo Gao"
-    affiliation "Department of Computer Science, Shanghai Jiao Tong University, Shanghai, China"
-    research "World Wide Web, acquired attribute knowledge base, attribute information"
+    label "Yanni Han"
+    affiliation "High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China"
+    research "virtual network, Topology-aware virtual network, WSDL-based virtual resource description"
   ]
   node [
     id 13
-    label "Woochul Shin"
-    affiliation "School of Computer Science, Inha University, Incheon, Korea"
-    research "Web Service, context information, mobile device"
+    label "Zihou Wang"
+    affiliation "High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China 100190"
+    research "virtual network, novel cache size optimization, proposed scheme"
   ]
   node [
     id 14
-    label "Hongxu Ma"
+    label "Bin Tang"
     affiliation "Nan"
-    research "Fair Multi-priority MAC Protocol, MIMO channel, Wireless Sensor Networks-Aiming"
+    research "adaptive behavior, choreography model, decentralized service composition"
   ]
   node [
     id 15
-    label "Shoucai Yuan"
-    affiliation "Nan"
-    research "standby switch, SPICE simulation, subthreshold leakage current"
+    label "Ding Tang"
+    affiliation "High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Science, Beijing, China"
+    research "atomic service, hierarchical workflow management, WSN application"
   ]
   node [
     id 16
-    label "Frederic T. Chong"
+    label "Jinxia Liu"
     affiliation "Nan"
-    research "global data, big data, energy-aware security mechanism"
+    research "network lifetime, Energy-Aware Coverage, Node Scheduling Scheme"
   ]
   node [
     id 17
-    label "Li Li"
-    affiliation "Institute of VLSI Design, Nanjing University, Nanjing, China"
-    research "random error, Unified architecture, burst-error correction"
+    label "Michiel Schaap"
+    affiliation "Dept. of Medical Informatics and Radiology, Erasmus MC, Rotterdam, The Netherlands"
+    research "coronary artery, coronary model, Black Blood MRA data"
   ]
   node [
     id 18
-    label "Sang Bong Yoo"
-    affiliation "School of Computer Science, Inha University, Incheon, Korea"
-    research "Web Service, context information, design data"
+    label "Tao Lin"
+    affiliation "Nan"
+    research "control system, wireless network, real-time control loop"
   ]
   node [
     id 19
-    label "Xi-shan Wen"
-    affiliation "Nan"
-    research "DC CurrentNA, Evaluation Method, Transmission Line Tower Grounding"
+    label "Hancong Duan"
+    affiliation "University of Electronic Science and Technology of China, China"
+    research "P2P network, P2P trust model, P2P application"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 16
+    relation "collaborate"
   ]
   edge [
     source 0
@@ -125,13 +170,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
+    source 0
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -140,38 +180,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 1
     target 17
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 2
     target 15
     relation "collaborate"
   ]
   edge [
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
     source 4
-    target 6
+    target 5
     relation "collaborate"
   ]
   edge [
     source 5
-    target 6
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -180,38 +230,73 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 9
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 5
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 13
     relation "collaborate"
   ]
   edge [
     source 6
     target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
     relation "collaborate"
   ]
   edge [
@@ -225,57 +310,37 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 14
+    source 10
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 19
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 17
+    source 10
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 10
     target 13
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 10
+    source 12
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 12
     target 18
     relation "collaborate"
   ]
   edge [
     source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 17
     target 18
     relation "collaborate"
   ]

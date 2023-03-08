@@ -1,137 +1,147 @@
 graph [
   node [
     id 0
-    label "A. Rabinovitch"
-    affiliation "BenGurion Univ., BeerSheva, Israel"
-    research "spiral pair source, atrial fibrillation, different stage"
+    label "Watts S. Humphrey"
+    affiliation "Software Engineering Institute"
+    research "software engineering, personal software process, software development"
   ]
   node [
     id 1
-    label "Jyh-Shyan Lin"
-    affiliation "Nan"
-    research "color image, digital watermarking, neural network"
+    label "Julia E. Hodges"
+    affiliation "Box 9637, Mississippi State, MS 39762&#8211;9637, USA"
+    research "knowledge base, Web data, human document analyst"
   ]
   node [
     id 2
-    label "Michael Margaliot"
-    affiliation "michaelm@eng.tau.ac.il"
-    research "fuzzy modeling, artificial neural network, mathematical model"
+    label "Christian S. Bauer"
+    affiliation "University of Vienna, Vienna, Austria"
+    research "Java Persistence, mobility signalling, network mobility"
   ]
   node [
     id 3
-    label "Bracha Shapira"
-    affiliation "Deutsche Telekom Laboratories at BenGurion University"
-    research "user profile, recommender system, users incentive"
+    label "Kathy Beckman"
+    affiliation "Nan"
+    research "software engineering education, academic software engineering program, software engineering"
   ]
   node [
     id 4
-    label "Eran Ferri"
-    affiliation "Nan"
-    research "natural language understanding, Neuro-fuzzy approach, neuro-fuzzy deviceNeuro-fuzzy approach"
+    label "Michael L. Schneider"
+    affiliation "Florida Atlantic University, Boca Raton, Florida"
+    research "language structure, item flow, computer interface designer"
   ]
   node [
     id 5
-    label "R. Milo"
-    affiliation "Nan"
-    research "complex fuzzy set, fuzzy correlation term, fuzzy measurement"
+    label "A. J. Kornecki"
+    affiliation "Embry Riddle Aeronautical Univ., Daytona Beach, FL"
+    research "software development, real-time software, software engineering education"
   ]
   node [
     id 6
-    label "Yuval Elovici"
-    affiliation "Nan"
-    research "multiple interfaces message, transputer network"
+    label "Nader Kameli"
+    affiliation "Guidant Corporation, Cardiac Rhythm Management, 4100 Hamline Avenue North, St. Paul, MN"
+    research "safety critical system, software architecture, Requirements Engineering"
   ]
   node [
     id 7
-    label "Abraham Kandel"
-    affiliation "Nan"
-    research "Link Analysis, Web Behavior, information science"
+    label "Ira Monarch"
+    affiliation "Institute for Complex, Engineered Systems and Department of Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213"
+    research "Software Engineering Body, organizational learning, collaboration technology"
   ]
   node [
     id 8
-    label "M. Friedman"
-    affiliation "Nuclear Research Center  Negev, BeerSheva, Israel"
-    research "detection mode, typical interest, execution data"
+    label "S Yeralan"
+    affiliation "Industrial Engineering Department, Bilkent University Bilkent, Ankara 06533, Turkey and Rigel Corporation Turkey"
+    research "multistation production system, production line, production system"
   ]
   node [
     id 9
-    label "Ming Ma"
-    affiliation "Nan"
-    research "bounded semantics model checking, model checker, ternary boolean diagram-based model"
+    label "Iraj Hirmanpour"
+    affiliation "Software Engineering Intitute"
+    research "application domain, Software Center, industrial project"
   ]
   node [
     id 10
-    label "Joan Francioni"
-    affiliation "Florida State University, Tallahassee, Florida"
-    research "computer science, virtual memory, n variable"
+    label "A. J. Turner"
+    affiliation "Georgia Institute of Technology, Atlanta, GA"
+    research "computer science, task force, computer science curriculum"
   ]
   node [
     id 11
-    label "Mark Last"
-    affiliation "Dept. of Comput. Sci. &#38; Eng., Univ. of South Florida, Tampa, FL"
-    research "knowledge discovery, Web Intelligence, web document"
+    label "L. Jones"
+    affiliation "Nan"
+    research "software engineering accreditation, software engineer, software engineering accreditation guideline"
   ]
   node [
     id 12
-    label "Moti Schneider"
-    affiliation "School of Computer Science Netanya Academic College, 1 University st. Netanya, Israel"
-    research "detection mode, typical interest, Web page"
+    label "Nancy R. Mead"
+    affiliation "Software Engineering Inst."
+    research "software engineering, software engineering education, software engineer"
   ]
   node [
     id 13
-    label "A. P. Rotshtein"
-    affiliation "Jerusalem College of Technology, Machon Lev, Israel"
-    research "fuzzy relation, membership function, algorithmic algebra"
+    label "D. G. Linton"
+    affiliation "Nan"
+    research "Ada-based inference engineSome advancement, Computer-aided software engineering, Monte Carlo integration method"
   ]
   node [
     id 14
-    label "H.-N. L. Teodorescu"
-    affiliation " Gh. Asachi  Technical University, Iasi, Romania"
-    research "speech analysis, Romanian language, emotional speech"
+    label "Fred G Harold"
+    affiliation "North Holland, New York"
+    research "systems analyst, systems development, information systems specialist"
   ]
   node [
     id 15
-    label "D. B. Skalak"
-    affiliation "Highgate Predictions, LLC, Ithaca, NY 14850, USA"
-    research "nearest neighbor classifier, small number, legal argument"
+    label "D. Umphress"
+    affiliation "Nan"
+    research "graduate software engineering education, level-2 software engineering graduate, notional maturity model"
   ]
   node [
     id 16
-    label "Gideon Langholz"
-    affiliation "TelAviv Univ., Israel"
-    research "complex fuzzy logic, complex fuzzy set, fuzzy controller"
+    label "Neal S. Coulter"
+    affiliation "North Florida Univ., Jacksonville, FL, USA"
+    research "Software Science, software engineering accreditation, computer science"
   ]
   node [
     id 17
-    label "Chlotia Posey"
-    affiliation "Nan"
-    research "fuzzy hybrid systemsApplications, intelligent tutoring systemsNeural network, knowledge acquisition"
+    label "David Gluch"
+    affiliation "Software Engineering Institute &#38; EmbryRiddle Aeronautical University, Pittsburgh, PA, USA"
+    research "software engineering, conceptual modeling, Design Language"
   ]
   node [
     id 18
-    label "A Kandel"
-    affiliation "4202 E. Fowler Ave., ENB 118, Tampa, FL 33620"
-    research "complex fuzzy set, complex fuzzy logic, fuzzy correlation term"
+    label "Robert Cannon"
+    affiliation "Dept. of Comput. Sci. &#38; Eng., South Carolina Univ., Columbia, SC, USA"
+    research "computer information system, software engineering, software project course"
   ]
   node [
     id 19
-    label "Yan-Qing Zhang"
-    affiliation "Nan"
-    research "BioinformaticsMachine Learning, Computational Biology, Computational Intelligence Approaches"
+    label "Soheil Khajenoori"
+    affiliation "EmbryRiddle Aeronautical University, Department of Computing, Daytona Beach, Florida, FL"
+    research "software architecture, software engineering education, safety critical system"
   ]
   edge [
     source 0
-    target 8
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 19
     relation "collaborate"
   ]
   edge [
     source 1
-    target 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
     relation "collaborate"
   ]
   edge [
     source 2
-    target 16
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -141,22 +151,12 @@ graph [
   ]
   edge [
     source 3
-    target 6
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -166,57 +166,42 @@ graph [
   ]
   edge [
     source 5
-    target 18
+    target 17
     relation "collaborate"
   ]
   edge [
     source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
     target 12
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 12
+    source 5
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
+    source 5
     target 9
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 11
+    source 5
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -225,108 +210,68 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
+    source 8
     target 19
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 13
+    source 9
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 9
+    source 10
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 12
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 15
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 12
     target 16
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 12
     target 19
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 13
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 14
     target 16
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 10
+    source 15
     target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 14
     relation "collaborate"
   ]
   edge [
     source 16
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -335,7 +280,7 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 16
+    source 17
     target 19
     relation "collaborate"
   ]

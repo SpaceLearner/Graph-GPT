@@ -1,45 +1,23 @@
-H. W. Roebbers	J. F. Broenink	{'relation': 'collaborate'}
-H. W. Roebbers	P. H. Welch	{'relation': 'collaborate'}
-H. W. Roebbers	Frederick R. M. Barnes	{'relation': 'collaborate'}
-H. W. Roebbers	G. S. Stiles	{'relation': 'collaborate'}
-H. W. Roebbers	B. Vinter	{'relation': 'collaborate'}
-H. W. Roebbers	Adam T. Sampson	{'relation': 'collaborate'}
-B. Vinter	Frederick R. M. Barnes	{'relation': 'collaborate'}
-B. Vinter	J. F. Broenink	{'relation': 'collaborate'}
-B. Vinter	P. H. Welch	{'relation': 'collaborate'}
-B. Vinter	G. S. Stiles	{'relation': 'collaborate'}
-B. Vinter	Adam T. Sampson	{'relation': 'collaborate'}
-E. T. -H. Chu	C. M. Huang	{'relation': 'collaborate'}
-E. T. -H. Chu	J. W. S. Liu	{'relation': 'collaborate'}
-J. F. Broenink	P. H. Welch	{'relation': 'collaborate'}
-J. F. Broenink	G. S. Stiles	{'relation': 'collaborate'}
-J. F. Broenink	Frederick R. M. Barnes	{'relation': 'collaborate'}
-J. F. Broenink	Adam T. Sampson	{'relation': 'collaborate'}
-Chien-Min Huang	Michael K. H. Fan	{'relation': 'collaborate'}
-Chien-Min Huang	Yun Gong	{'relation': 'collaborate'}
-Chien-Min Huang	R. W. Harris	{'relation': 'collaborate'}
-Chien-Min Huang	Q. Bi	{'relation': 'collaborate'}
-Chien-Min Huang	G. S. Stiles	{'relation': 'collaborate'}
-C. M. Huang	J. W. S. Liu	{'relation': 'collaborate'}
-C. M. Huang	R. W. Harris	{'relation': 'collaborate'}
-Yun Gong	Michael K. H. Fan	{'relation': 'collaborate'}
-F. Adachi	Hsiao-Hwa Chen	{'relation': 'collaborate'}
-F. Adachi	A. J. Vinck	{'relation': 'collaborate'}
-F. Adachi	L. B. Milstein	{'relation': 'collaborate'}
-F. Adachi	Q. Bi	{'relation': 'collaborate'}
-Frederick R. M. Barnes	Adrian Gh. Podoleanu	{'relation': 'collaborate'}
-Frederick R. M. Barnes	G. S. Stiles	{'relation': 'collaborate'}
-Frederick R. M. Barnes	Adam T. Sampson	{'relation': 'collaborate'}
-Frederick R. M. Barnes	P. H. Welch	{'relation': 'collaborate'}
-G. S. Stiles	Adam T. Sampson	{'relation': 'collaborate'}
-G. S. Stiles	R. W. Harris	{'relation': 'collaborate'}
-G. S. Stiles	P. H. Welch	{'relation': 'collaborate'}
-G. S. Stiles	Q. Bi	{'relation': 'collaborate'}
-L. B. Milstein	Hsiao-Hwa Chen	{'relation': 'collaborate'}
-L. B. Milstein	Q. Bi	{'relation': 'collaborate'}
-L. B. Milstein	A. J. Vinck	{'relation': 'collaborate'}
-P. H. Welch	Adam T. Sampson	{'relation': 'collaborate'}
-Q. Bi	Hsiao-Hwa Chen	{'relation': 'collaborate'}
-Q. Bi	R. W. Harris	{'relation': 'collaborate'}
-Q. Bi	A. J. Vinck	{'relation': 'collaborate'}
-A. J. Vinck	Hsiao-Hwa Chen	{'relation': 'collaborate'}
+Hammurabi C. Mendes	Azzedine Boukerche	{'relation': 'collaborate'}
+Hammurabi C. Mendes	Alba C.  M.  A. Melo	{'relation': 'collaborate'}
+Alba C.  M.  A. Melo	Azzedine Boukerche	{'relation': 'collaborate'}
+Samer Samarah	Azzedine Boukerche	{'relation': 'collaborate'}
+C. F. Chiasserini	Azzedine Boukerche	{'relation': 'collaborate'}
+C. F. Chiasserini	Sotiris Nikoletseas	{'relation': 'collaborate'}
+Graciela Román-Alonso	Azzedine Boukerche	{'relation': 'collaborate'}
+Alba Cristina Magalhaes Alves de Melo	Azzedine Boukerche	{'relation': 'collaborate'}
+Caron Dzermajko	Kaiyuan Lu	{'relation': 'collaborate'}
+Caron Dzermajko	Azzedine Boukerche	{'relation': 'collaborate'}
+A. Corradi	Azzedine Boukerche	{'relation': 'collaborate'}
+J.-R. Sack	Kaiyuan Lu	{'relation': 'collaborate'}
+J.-R. Sack	D. Nussbaum	{'relation': 'collaborate'}
+Ke Liu	Azzedine Boukerche	{'relation': 'collaborate'}
+A K Datta	Azzedine Boukerche	{'relation': 'collaborate'}
+A. Hossain	Azzedine Boukerche	{'relation': 'collaborate'}
+Azzedine Boukerche	Sotiris Nikoletseas	{'relation': 'collaborate'}
+Azzedine Boukerche	Kaiyuan Lu	{'relation': 'collaborate'}
+Azzedine Boukerche	Ednaldo B. Pizzolato	{'relation': 'collaborate'}
+Azzedine Boukerche	Alejandro C. Frery	{'relation': 'collaborate'}
+Azzedine Boukerche	Diego Daniel Duarte	{'relation': 'collaborate'}
+Azzedine Boukerche	Yanjun Hu	{'relation': 'collaborate'}
+Kaiyuan Lu	D. Nussbaum	{'relation': 'collaborate'}

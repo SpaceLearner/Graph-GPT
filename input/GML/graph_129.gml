@@ -1,123 +1,138 @@
 graph [
   node [
     id 0
-    label "Teerapong Leelanupab"
-    affiliation "King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand"
-    research "laboratory-based user study, retrieval system, IIR system"
+    label "Williams M. D."
+    affiliation "Nan"
+    research "lasing photon, laser beam, spatial coherence"
   ]
   node [
     id 1
-    label "Zhipeng Tan"
-    affiliation "Huazhong University of Science and Technology, Wuhan, China"
-    research "provenance data, hybrid scheme, efficient provenance storageEfficient provenance"
+    label "Gartrell Luther R."
+    affiliation "Nan"
+    research "percent random uncertainty, Laser Doppler Velocimeter, airside edge"
   ]
   node [
     id 2
-    label "Frank Wang"
+    label "Harrison Joycelyn S."
     affiliation "Nan"
-    research "video summary, advanced video content analysis, efficient video indexing"
+    research "smart technology, smart aircraft, couple research"
   ]
   node [
     id 3
-    label "Yao Li"
+    label "Jr William W. Hunter"
     affiliation "Nan"
-    research "evolvable hardware structure, analog filter, design method"
+    research "percent random uncertainty, Laser Doppler Velocimeter, percent bias"
   ]
   node [
     id 4
-    label "Silu Fan"
-    affiliation "University of Science and Technology of China"
-    research "local level, global level, P3 amplitude"
+    label "Marchello Joseph M."
+    affiliation "Nan"
+    research "percent increase, degrees C, In-Situ Automated Tape Placement"
   ]
   node [
     id 5
-    label "Jin Huang"
-    affiliation "huangjin12345@163.com"
-    research "mechanical quadrature method, integral equation, numerical example"
+    label "Miner Gilda A."
+    affiliation "Nan"
+    research "Vibrational Relaxation, ice cloud, lasing photon"
   ]
   node [
     id 6
-    label "Lingfang Zeng"
-    affiliation "Computer Networks and Distributed Systems Laboratory, Department of Electrical and Computer Engineering, The National University of Singapore, Singapore, Singapore 117576"
-    research "storage object, storage system, storage device"
+    label "Costen Robert C."
+    affiliation "Nan"
+    research "percent increase, PIO model, supercell storm"
   ]
   node [
     id 7
-    label "Joemon Jose"
-    affiliation "Univ. of Glasgow, Scotland"
-    research "search result, search task, information need"
+    label "Coomes E. P."
+    affiliation "Nan"
+    research "beaming laser power, electrical power, laser beam power"
   ]
   node [
     id 8
-    label "Hui Tian"
-    affiliation "College of Computer Science and Technology, National Huaqiao University, Xiamen, Fujian 361021, China and School of Computer Science and Technology, Huazhong University of Science and Technology,  ..."
-    research "secret message, embedding transparency, experimental result"
+    label "Tappan N. D."
+    affiliation "Nan"
+    research "damage threshold data, cloud condition, test site"
   ]
   node [
     id 9
-    label "Huan Wang"
+    label "Blanchard Robert C."
     affiliation "Nan"
-    research "peak time, simulation result, average strata pressure"
+    research "aerodynamic acceleration, Orbiter body axis, Orbiter center-of-gravity"
   ]
   node [
     id 10
-    label "Liang Lu"
-    affiliation "Department of Automation, Shanghai Jiao Tong University, Shanghai, 200240, China"
-    research "disturbance tolerance, feedback law, single system"
+    label "Fletcher Mark T."
+    affiliation "Nan"
+    research "Laser Doppler Velocimeter, percent random uncertainty, LDV system"
   ]
   node [
     id 11
-    label "Yu Wang"
-    affiliation "INRIA, LIP, ENS Lyon, 46 avenue d'Italie, 69364 Cedex 07, France"
-    research "Volunteer resource, formal model, Volunteer Computing"
+    label "Minnis P."
+    affiliation "Nan"
+    research "surface skin temperature, actual Earth surface, hourly surface observation"
   ]
   node [
     id 12
-    label "Qun Liu"
-    affiliation "Harbin Engineering University, China"
-    research "Web service, Web service composition, Petri net"
+    label "Wilson John W."
+    affiliation "Nan"
+    research "cross section, linear energy transfer, dose equivalent"
   ]
   node [
     id 13
-    label "Yang Wang"
-    affiliation "Department of Computer Science and Engineering, New Mexico Institute of Mining and Technology, Socorro, NM"
-    research "android permission, benign apps, quantitative security risk assessment"
+    label "Shinn Judy L."
+    affiliation "Nan"
+    research "dose equivalent, galactic cosmic ray transport, computer code"
   ]
   node [
     id 14
-    label "Yike Guo"
+    label "Lee Ja H."
     affiliation "Nan"
-    research "anomaly detection method, intrusion detection, monitoring framework"
+    research "slave laser, lasing photon, percent random uncertainty"
   ]
   node [
     id 15
-    label "Mounia Lalmas"
-    affiliation "Yahoo! Labs, Barcelona, Spain"
-    research "Serendipitous search, information access, focused attention"
+    label "Heinbockel John H."
+    affiliation "Nan"
+    research "ionizing radiation, shield material, neutron environment"
   ]
   node [
     id 16
-    label "Yuhui Deng"
+    label "Larman K. T."
     affiliation "Nan"
-    research "cold aisle, hot aisle, data center"
+    research "acceleration measurement, total acceleration, bulk bias"
   ]
   node [
     id 17
-    label "Chun-hua Li"
-    affiliation "Huazhong University of Science and Technology"
-    research "object cache, object prefetching, accessed object sequence"
+    label "Schuster G. L."
+    affiliation "Nan"
+    research "CERES surface flux retrieval, albedo surface site, downwelling surface flux"
   ]
   node [
     id 18
-    label "Fei He"
+    label "Badavi Francis F."
     affiliation "Nan"
-    research "output power, broadband balanced power amplifier, output impedance"
+    research "linear energy transfer, shield material, computer code"
   ]
   node [
     id 19
-    label "Ke Zhou"
-    affiliation "Huazhong University of Science &#38; Technology"
-    research "CDP functionality, block-level CDP scheme, state-of-the-art CDP implementation"
+    label "Young R. J. De"
+    affiliation "Nan"
+    research "room temperature, Degrees C, YAG laser beam"
+  ]
+  edge [
+    source 0
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 17
+    relation "collaborate"
   ]
   edge [
     source 0
@@ -130,78 +145,83 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 18
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 15
     relation "collaborate"
   ]
   edge [
     source 1
-    target 19
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 3
     relation "collaborate"
   ]
   edge [
     source 2
-    target 17
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 3
     target 14
     relation "collaborate"
   ]
   edge [
     source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
+    target 10
     relation "collaborate"
   ]
   edge [
     source 4
-    target 19
+    target 6
     relation "collaborate"
   ]
   edge [
     source 5
-    target 19
+    target 6
     relation "collaborate"
   ]
   edge [
     source 5
-    target 11
+    target 14
     relation "collaborate"
   ]
   edge [
     source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 13
     relation "collaborate"
   ]
   edge [
     source 6
-    target 19
+    target 15
     relation "collaborate"
   ]
   edge [
     source 6
-    target 13
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -211,86 +231,76 @@ graph [
   ]
   edge [
     source 7
-    target 19
+    target 17
     relation "collaborate"
   ]
   edge [
     source 7
-    target 15
+    target 19
     relation "collaborate"
   ]
   edge [
     source 8
-    target 19
+    target 11
     relation "collaborate"
   ]
   edge [
     source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 14
     target 16
     relation "collaborate"
   ]
   edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 15
+    relation "collaborate"
+  ]
+  edge [
     source 15
-    target 19
+    target 18
     relation "collaborate"
   ]
   edge [
     source 16
-    target 19
+    target 17
     relation "collaborate"
   ]
   edge [
     source 17
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 18
     target 19
     relation "collaborate"
   ]

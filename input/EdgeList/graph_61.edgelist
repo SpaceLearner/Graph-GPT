@@ -1,45 +1,32 @@
-Yang Li	Zihou Wang	{'relation': 'collaborate'}
-Yang Li	Hui Tang	{'relation': 'collaborate'}
-Yang Li	Wenjia Niu	{'relation': 'collaborate'}
-Yang Li	Tao Lin	{'relation': 'collaborate'}
-Yang Li	Song Ci	{'relation': 'collaborate'}
-Yang Li	Yanni Han	{'relation': 'collaborate'}
-Tao Guo	Hui Tang	{'relation': 'collaborate'}
-Ling Bai	Hui Tang	{'relation': 'collaborate'}
-Zihou Wang	Hui Tang	{'relation': 'collaborate'}
-Zihou Wang	Yanni Han	{'relation': 'collaborate'}
-Zihou Wang	Tao Lin	{'relation': 'collaborate'}
-Zihou Wang	Song Ci	{'relation': 'collaborate'}
-Zihou Wang	Wenjia Niu	{'relation': 'collaborate'}
-Hancong Duan	Hui Tang	{'relation': 'collaborate'}
-Yanni Han	Hui Tang	{'relation': 'collaborate'}
-Yanni Han	Wenjia Niu	{'relation': 'collaborate'}
-Yanni Han	Tao Lin	{'relation': 'collaborate'}
-Yanni Han	Song Ci	{'relation': 'collaborate'}
-Jinxia Liu	Hui Tang	{'relation': 'collaborate'}
-Jinxia Liu	Song Ci	{'relation': 'collaborate'}
-Wenjia Niu	Ding Tang	{'relation': 'collaborate'}
-Wenjia Niu	Hui Tang	{'relation': 'collaborate'}
-Wenjia Niu	Tao Lin	{'relation': 'collaborate'}
-Wenjia Niu	Song Ci	{'relation': 'collaborate'}
-Wenjia Niu	Gang Li	{'relation': 'collaborate'}
-Wenjia Niu	Z. Q. Shi	{'relation': 'collaborate'}
-Wiro J. Niessen	Hui Tang	{'relation': 'collaborate'}
-Wiro J. Niessen	Michiel Schaap	{'relation': 'collaborate'}
-Bin Tang	Hui Tang	{'relation': 'collaborate'}
-Guan-Ming Su	Hui Tang	{'relation': 'collaborate'}
-Guan-Ming Su	Song Ci	{'relation': 'collaborate'}
-Hui Tang	Z. Q. Shi	{'relation': 'collaborate'}
-Hui Tang	Song Ci	{'relation': 'collaborate'}
-Hui Tang	Ming Zhu	{'relation': 'collaborate'}
-Hui Tang	Michiel Schaap	{'relation': 'collaborate'}
-Hui Tang	Gang Li	{'relation': 'collaborate'}
-Hui Tang	Ding Tang	{'relation': 'collaborate'}
-Hui Tang	Haiyan Luo	{'relation': 'collaborate'}
-Hui Tang	Tao Lin	{'relation': 'collaborate'}
-Song Ci	Tao Lin	{'relation': 'collaborate'}
-Song Ci	Gang Li	{'relation': 'collaborate'}
-Song Ci	Haiyan Luo	{'relation': 'collaborate'}
-Song Ci	Ding Tang	{'relation': 'collaborate'}
-Ding Tang	Gang Li	{'relation': 'collaborate'}
-Z. Q. Shi	Gang Li	{'relation': 'collaborate'}
+Hideki Shima	Adam Lally	{'relation': 'collaborate'}
+Hideki Shima	Takahiro Nishino	{'relation': 'collaborate'}
+Hideki Shima	Hiroshi Kanayama	{'relation': 'collaborate'}
+Hideki Shima	Mengqiu Wang	{'relation': 'collaborate'}
+Hideki Shima	B. K. Boguraev	{'relation': 'collaborate'}
+Hideki Shima	Teruko Mitamura	{'relation': 'collaborate'}
+Hideki Shima	Frank Lin	{'relation': 'collaborate'}
+Hideki Shima	James Fan	{'relation': 'collaborate'}
+Hideki Shima	J. William Murdock	{'relation': 'collaborate'}
+Hideki Shima	Satoshi Tanaka	{'relation': 'collaborate'}
+Hideki Shima	Yusuke Miyao	{'relation': 'collaborate'}
+Frank Lin	Mengqiu Wang	{'relation': 'collaborate'}
+Frank Lin	Teruko Mitamura	{'relation': 'collaborate'}
+Wang Sheng	Satoshi Tanaka	{'relation': 'collaborate'}
+Keiji Yano	Satoshi Tanaka	{'relation': 'collaborate'}
+Hironori Kasahara	Satoshi Tanaka	{'relation': 'collaborate'}
+Satoshi Tanaka	Shinji Doi	{'relation': 'collaborate'}
+Satoshi Tanaka	Tsutomu Terada	{'relation': 'collaborate'}
+Satoshi Tanaka	Tadanori Mizuno	{'relation': 'collaborate'}
+Satoshi Tanaka	T. Suda	{'relation': 'collaborate'}
+Satoshi Tanaka	Jorji Nonaka	{'relation': 'collaborate'}
+Satoshi Tanaka	Takahiro Nishino	{'relation': 'collaborate'}
+J. William Murdock	James Fan	{'relation': 'collaborate'}
+J. William Murdock	Adam Lally	{'relation': 'collaborate'}
+J. William Murdock	B. K. Boguraev	{'relation': 'collaborate'}
+Adam Lally	B. K. Boguraev	{'relation': 'collaborate'}
+Adam Lally	James Fan	{'relation': 'collaborate'}
+James Fan	B. K. Boguraev	{'relation': 'collaborate'}
+Hiroshi Kanayama	Yusuke Miyao	{'relation': 'collaborate'}
+Hiroshi Kanayama	Teruko Mitamura	{'relation': 'collaborate'}
+Mengqiu Wang	Teruko Mitamura	{'relation': 'collaborate'}
+Teruko Mitamura	Yusuke Miyao	{'relation': 'collaborate'}

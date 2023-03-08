@@ -1,152 +1,132 @@
 graph [
   node [
     id 0
-    label "Xiaofang Zhou"
-    affiliation "Nan"
-    research "Data Quality, High-Dimensional Data Analysis"
+    label "R. Rinaldo"
+    affiliation "Dept. of Electr. Eng., California Univ., Berkeley, CA"
+    research "approximation problem, inverse problem, IFS parameter"
   ]
   node [
     id 1
-    label "Mingshu Li"
-    affiliation "Nan"
-    research "complex software system, runtime software monitoring, software fault"
+    label "Soren Forchhammer"
+    affiliation "COM.DTU, Denmark"
+    research "coding performance, progressive coding, refinement coding"
   ]
   node [
     id 2
-    label "Jiajie Xu"
-    affiliation "Nan"
-    research "statistical analysis, Big Data Analysis, General Statistical Database Cluster"
+    label "Marco Andreetto"
+    affiliation "California Institute of Technology, Pasadena 91125"
+    research "Dental Plaster, reconstruction system, current estimate"
   ]
   node [
     id 3
-    label "Lin Shi"
-    affiliation "Nan"
-    research "background interference, flame image, new flame detection processing"
+    label "P Zamperoni"
+    affiliation "Technische Univ. Braunschweig, Braunschweig, W. Germany"
+    research "Hilfe von dilatierten KernenHow, Performance AssessmentHierarchische Darstellung von, von Bin"
   ]
   node [
     id 4
-    label "Dapeng Liu"
-    affiliation "China Mobile Research Institute, Beijing, China"
-    research "proportional fairness, PBS-PF dynamically, call number"
+    label "Anup Basu"
+    affiliation "Nan"
+    research "alternative model, fish-eye lens"
   ]
   node [
     id 5
-    label "Hu Wu"
-    affiliation "Chinese Academy of Sciences, Beijing, China"
-    research "Attribute Nets, proposed method, incremental classification problem"
+    label "Carlo Ferrari"
+    affiliation "Nan"
+    research "Mapping XML Elements, XML data, XML document"
   ]
   node [
     id 6
-    label "Zhiming Ding"
-    affiliation "Nan"
-    research "road network, k-NN algorithm, k-NN query"
+    label "Mary Ellen Bock"
+    affiliation "Purdue University, West Lafayette, IN"
+    research "unusual substrings, possible substrings, unusual wordsThe problem"
   ]
   node [
     id 7
-    label "Bei Zhang"
-    affiliation "Nan"
-    research "Bass model, Information Technology, Bass ModelSuccessful diffusion"
+    label "Fabio Marton"
+    affiliation "CRS4, POLARIS Ed. 1, 09010 Pula (CA), Italy"
+    research "massive model, interactive rendering, adaptive rendering"
   ]
   node [
     id 8
-    label "Longfei Zhang"
-    affiliation "School of Software, Beijing Institute of Technology, Beijing, China and School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA"
-    research "co-attention model, hot topic, spatio-temporal feature"
+    label "Riccardo Bernardini"
+    affiliation "Dept. of Electr. Eng., Fed. Inst. of Technol., Lausanne"
+    research "oversampled filter bank, filter bank, cosine-modulated filter bank"
   ]
   node [
     id 9
-    label "Yong Wang"
-    affiliation "Nan"
-    research "GPS ZTD, precipitable water vapor, Chinese mainland"
+    label "Giancarlo Calvagno"
+    affiliation "Dipartimento di Elettronica e Informatica, Universit&#224; di Padova, 35131 Padova, Italy"
+    research "experimental result, proposed approach, motion compensation"
   ]
   node [
     id 10
-    label "Kuien Liu"
-    affiliation "Nan"
-    research "previous MOIR platform, various algorithm, various application"
+    label "G. Cortelazzo"
+    affiliation "CNR, Italy"
+    research "frequency domain, depth data, proposed technique"
   ]
   node [
     id 11
-    label "Xiling Sun"
-    affiliation "Intsitute of Software, Chinese Academy of Sciences, China and Graduate University of Chinese Academy of Sciences, China"
-    research "traffic aware route planning, traffic network, route planning"
+    label "S. Dal Poz"
+    affiliation "Seleco SpA, Pordenone"
+    research "rate converter, TV image quality, commercial improved quality PAL"
   ]
   node [
     id 12
-    label "Qing Wang"
-    affiliation "Nan"
-    research "privacy protection, privacy risk, electronic medical record"
+    label "G. A. Mian"
+    affiliation "Univ. di Padova, Padova, Italy"
+    research "second-order fixed-point digital filter, FIR filters inmagnitude, EKF filter"
   ]
   node [
     id 13
-    label "Haibo Wang"
-    affiliation "Nan"
-    research "customer credit, Customer Credit EvaluationCustomer credit, decision tool"
+    label "A. Baschirotto"
+    affiliation "Dipartimento di Elettronica, Pavia Univ."
+    research "input signal, digital decoder, m BiCMOS technology"
   ]
   node [
     id 14
-    label "Jun Han"
-    affiliation "Nan"
-    research "walking mechanism, positional parameter, bisection method"
+    label "Stefano Mattoccia"
+    affiliation "DEISARCES, University of Bologna  Sede di Cesena, Viale Rasi e Spineli 176, 47023 Cesena, Italy"
+    research "experimental result, stereo vision system, stereo vision"
   ]
   node [
     id 15
-    label "Xu Gao"
-    affiliation "NFS, Institute of Software, Chinese Academy of Sciences, Beijing, China"
-    research "statistical analysis, efficient overload control strategy, Big Data Analysis"
+    label "R. Manduchi"
+    affiliation "Dipartimento di Elettronica e Inf., Padova Univ."
+    research "composite frame, sampling structure conversion, generalized factorable"
   ]
   node [
     id 16
-    label "Limin Guo"
-    affiliation "Nan"
-    research "RDB-KV CloudDB, cloud data management framework, data management problem"
+    label "N. Benvenuto"
+    affiliation "Department of Information Engineering, University of Padova, Padova, Italy 35131"
+    research "computational complexity, stable system, network resource allocation"
   ]
   node [
     id 17
-    label "Bin Yang"
-    affiliation "Nan"
-    research "adaptive rank estimation, rank tracking method, subspace rank"
+    label "Enrico Malavasi"
+    affiliation "Dept. of Electr. Eng. &#38; Comput. Sci., California Univ., Berkeley, CA"
+    research "analog IC, design process, CMOS analog circuit"
   ]
   node [
     id 18
-    label "Ke Deng"
-    affiliation "Nan"
-    research "accurate normalization procedure, existing Hi-C normalization method, raw Hi-C contact map"
+    label "Pietro Zanuttigh"
+    affiliation "Department of Information Engineering, University of Padova, Via Gradenigo 6/B, 35131 Padova, Italy"
+    research "depth map, depth data, geometry information"
   ]
   node [
     id 19
-    label "Shuo Shang"
-    affiliation "Department of Computer Science, Aalborg University, Denmark"
-    research "BPD query, R-PNN query, TTE query"
+    label "Nicola Orio"
+    affiliation "Dipartimento di Ingegneria dell'informazione, Via Gradenigo n. 6/a, 35131, Padova, Italy"
+    research "music information retrieval, music score, music document"
   ]
   edge [
     source 0
-    target 19
+    target 12
     relation "collaborate"
   ]
   edge [
     source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -156,72 +136,17 @@ graph [
   ]
   edge [
     source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 9
     relation "collaborate"
   ]
   edge [
     source 1
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 10
     relation "collaborate"
   ]
   edge [
     source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -230,23 +155,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 11
+    source 3
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
     source 4
-    target 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
     relation "collaborate"
   ]
   edge [
@@ -255,68 +180,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
     source 6
     target 10
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 17
+    source 7
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
+    source 8
+    target 10
     relation "collaborate"
   ]
   edge [
@@ -326,6 +201,11 @@ graph [
   ]
   edge [
     source 8
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 10
     relation "collaborate"
   ]
@@ -336,22 +216,7 @@ graph [
   ]
   edge [
     source 10
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
     target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 14
     relation "collaborate"
   ]
   edge [
@@ -366,52 +231,52 @@ graph [
   ]
   edge [
     source 10
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 19
     relation "collaborate"
   ]
   edge [
     source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 12
     target 14
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 16
+    source 11
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 17
-    target 19
+    source 12
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 18
-    target 19
+    source 13
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 18
     relation "collaborate"
   ]
 ]

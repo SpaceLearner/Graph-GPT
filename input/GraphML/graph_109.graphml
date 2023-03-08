@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Watts S. Humphrey">
+      <data key="affiliation">Software Engineering Institute</data>
+      <data key="research">software engineering, personal software process, software development</data>
+    </node>
+    <node id="Julia E. Hodges">
+      <data key="affiliation">Box 9637, Mississippi State, MS 39762–9637, USA</data>
+      <data key="research">knowledge base, Web data, human document analyst</data>
+    </node>
+    <node id="Christian S. Bauer">
+      <data key="affiliation">University of Vienna, Vienna, Austria</data>
+      <data key="research">Java Persistence, mobility signalling, network mobility</data>
+    </node>
+    <node id="Kathy Beckman">
+      <data key="affiliation">Nan</data>
+      <data key="research">software engineering education, academic software engineering program, software engineering</data>
+    </node>
+    <node id="Michael L. Schneider">
+      <data key="affiliation">Florida Atlantic University, Boca Raton, Florida</data>
+      <data key="research">language structure, item flow, computer interface designer</data>
+    </node>
+    <node id="A. J. Kornecki">
+      <data key="affiliation">Embry Riddle Aeronautical Univ., Daytona Beach, FL</data>
+      <data key="research">software development, real-time software, software engineering education</data>
+    </node>
+    <node id="Nader Kameli">
+      <data key="affiliation">Guidant Corporation, Cardiac Rhythm Management, 4100 Hamline Avenue North, St. Paul, MN</data>
+      <data key="research">safety critical system, software architecture, Requirements Engineering</data>
+    </node>
+    <node id="Ira Monarch">
+      <data key="affiliation">Institute for Complex, Engineered Systems and Department of Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA 15213</data>
+      <data key="research">Software Engineering Body, organizational learning, collaboration technology</data>
+    </node>
+    <node id="S Yeralan">
+      <data key="affiliation">Industrial Engineering Department, Bilkent University Bilkent, Ankara 06533, Turkey and Rigel Corporation Turkey</data>
+      <data key="research">multistation production system, production line, production system</data>
+    </node>
+    <node id="Iraj Hirmanpour">
+      <data key="affiliation">Software Engineering Intitute</data>
+      <data key="research">application domain, Software Center, industrial project</data>
+    </node>
+    <node id="A. J. Turner">
+      <data key="affiliation">Georgia Institute of Technology, Atlanta, GA</data>
+      <data key="research">computer science, task force, computer science curriculum</data>
+    </node>
+    <node id="L. Jones">
+      <data key="affiliation">Nan</data>
+      <data key="research">software engineering accreditation, software engineer, software engineering accreditation guideline</data>
+    </node>
+    <node id="Nancy R. Mead">
+      <data key="affiliation">Software Engineering Inst.</data>
+      <data key="research">software engineering, software engineering education, software engineer</data>
+    </node>
+    <node id="D. G. Linton">
+      <data key="affiliation">Nan</data>
+      <data key="research">Ada-based inference engineSome advancement, Computer-aided software engineering, Monte Carlo integration method</data>
+    </node>
+    <node id="Fred G Harold">
+      <data key="affiliation">North Holland, New York</data>
+      <data key="research">systems analyst, systems development, information systems specialist</data>
+    </node>
+    <node id="D. Umphress">
+      <data key="affiliation">Nan</data>
+      <data key="research">graduate software engineering education, level-2 software engineering graduate, notional maturity model</data>
+    </node>
+    <node id="Neal S. Coulter">
+      <data key="affiliation">North Florida Univ., Jacksonville, FL, USA</data>
+      <data key="research">Software Science, software engineering accreditation, computer science</data>
+    </node>
+    <node id="David Gluch">
+      <data key="affiliation">Software Engineering Institute &amp; EmbryRiddle Aeronautical University, Pittsburgh, PA, USA</data>
+      <data key="research">software engineering, conceptual modeling, Design Language</data>
+    </node>
+    <node id="Robert Cannon">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., South Carolina Univ., Columbia, SC, USA</data>
+      <data key="research">computer information system, software engineering, software project course</data>
+    </node>
+    <node id="Soheil Khajenoori">
+      <data key="affiliation">EmbryRiddle Aeronautical University, Department of Computing, Daytona Beach, Florida, FL</data>
+      <data key="research">software architecture, software engineering education, safety critical system</data>
+    </node>
+    <edge source="Watts S. Humphrey" target="Nancy R. Mead">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Watts S. Humphrey" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julia E. Hodges" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julia E. Hodges" target="A. J. Turner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian S. Bauer" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kathy Beckman" target="Nancy R. Mead">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kathy Beckman" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kathy Beckman" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael L. Schneider" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Kornecki" target="David Gluch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Kornecki" target="Nancy R. Mead">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Kornecki" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Kornecki" target="Iraj Hirmanpour">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Kornecki" target="Nader Kameli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nader Kameli" target="Nancy R. Mead">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nader Kameli" target="David Gluch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nader Kameli" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ira Monarch" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S Yeralan" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Iraj Hirmanpour" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Turner" target="Robert Cannon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Turner" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Turner" target="Nancy R. Mead">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Jones" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Jones" target="D. Umphress">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nancy R. Mead" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nancy R. Mead" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. G. Linton" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fred G Harold" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Umphress" target="Neal S. Coulter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neal S. Coulter" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neal S. Coulter" target="Robert Cannon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Gluch" target="Soheil Khajenoori">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,23 +1,30 @@
-Caron Dzermajko	Kaiyuan Lu	{'relation': 'collaborate'}
-Caron Dzermajko	Azzedine Boukerche	{'relation': 'collaborate'}
-Alejandro C. Frery	Azzedine Boukerche	{'relation': 'collaborate'}
-Alba Cristina Magalhaes Alves de Melo	Azzedine Boukerche	{'relation': 'collaborate'}
-A. Hossain	Azzedine Boukerche	{'relation': 'collaborate'}
-Graciela Román-Alonso	Azzedine Boukerche	{'relation': 'collaborate'}
-Hammurabi C. Mendes	Azzedine Boukerche	{'relation': 'collaborate'}
-Hammurabi C. Mendes	Alba C.  M.  A. Melo	{'relation': 'collaborate'}
-Ke Liu	Azzedine Boukerche	{'relation': 'collaborate'}
-Azzedine Boukerche	Samer Samarah	{'relation': 'collaborate'}
-Azzedine Boukerche	Alba C.  M.  A. Melo	{'relation': 'collaborate'}
-Azzedine Boukerche	Sotiris Nikoletseas	{'relation': 'collaborate'}
-Azzedine Boukerche	C. F. Chiasserini	{'relation': 'collaborate'}
-Azzedine Boukerche	Kaiyuan Lu	{'relation': 'collaborate'}
-Azzedine Boukerche	Ednaldo B. Pizzolato	{'relation': 'collaborate'}
-Azzedine Boukerche	Diego Daniel Duarte	{'relation': 'collaborate'}
-Azzedine Boukerche	A K Datta	{'relation': 'collaborate'}
-Azzedine Boukerche	A. Corradi	{'relation': 'collaborate'}
-Azzedine Boukerche	Yanjun Hu	{'relation': 'collaborate'}
-Kaiyuan Lu	D. Nussbaum	{'relation': 'collaborate'}
-Kaiyuan Lu	J.-R. Sack	{'relation': 'collaborate'}
-C. F. Chiasserini	Sotiris Nikoletseas	{'relation': 'collaborate'}
-J.-R. Sack	D. Nussbaum	{'relation': 'collaborate'}
+Rafael A. Perez	Sam Chung	{'relation': 'collaborate'}
+Sam Chung	Martine De Cock	{'relation': 'collaborate'}
+Sam Chung	Young Choh	{'relation': 'collaborate'}
+Sam Chung	Radha Poovendran	{'relation': 'collaborate'}
+Sam Chung	Yan Bai	{'relation': 'collaborate'}
+Sam Chung	Zac Bylin	{'relation': 'collaborate'}
+Sam Chung	Barbara Endicott-Popovsky	{'relation': 'collaborate'}
+Sam Chung	Yun-Sik Lee	{'relation': 'collaborate'}
+Sam Chung	Lirong Dai	{'relation': 'collaborate'}
+Sam Chung	Meeta Sharma	{'relation': 'collaborate'}
+Sam Chung	Jack Nelson	{'relation': 'collaborate'}
+Sam Chung	Don McLane	{'relation': 'collaborate'}
+Anna Maria Radzikowska	Martine De Cock	{'relation': 'collaborate'}
+Anna Maria Radzikowska	Chris Cornelis	{'relation': 'collaborate'}
+Barbara Endicott-Popovsky	Yan Bai	{'relation': 'collaborate'}
+Barbara Endicott-Popovsky	Don McLane	{'relation': 'collaborate'}
+Young Choh	Yan Bai	{'relation': 'collaborate'}
+Chris Cornelis	Paulo Pinheiro Da Silva	{'relation': 'collaborate'}
+Chris Cornelis	Martine De Cock	{'relation': 'collaborate'}
+Chris Cornelis	Jeroen Janssen	{'relation': 'collaborate'}
+Davy Van Nieuwenborgh	Martine De Cock	{'relation': 'collaborate'}
+Yan Bai	Lirong Dai	{'relation': 'collaborate'}
+Yan Bai	Meeta Sharma	{'relation': 'collaborate'}
+Yan Bai	Radha Poovendran	{'relation': 'collaborate'}
+Martine De Cock	Paulo Pinheiro Da Silva	{'relation': 'collaborate'}
+Martine De Cock	Jeroen Janssen	{'relation': 'collaborate'}
+Martine De Cock	E. Kerre	{'relation': 'collaborate'}
+Martine De Cock	C. Cornelis	{'relation': 'collaborate'}
+C. Cornelis	E. Kerre	{'relation': 'collaborate'}
+Lirong Dai	Meeta Sharma	{'relation': 'collaborate'}

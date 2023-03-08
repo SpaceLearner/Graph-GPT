@@ -1,62 +1,59 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:11 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:15 2023
 # 
-George D. Magoulas	5
-Diana Laurillard	{'relation': 'collaborate'}
-George D. Magoulas	{'relation': 'collaborate'}
-Patricia Charlton	{'relation': 'collaborate'}
-Maria Grigoriadou	{'relation': 'collaborate'}
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-Josie Taylor	3
-Rosemary Luckin	{'relation': 'collaborate'}
-L. Plowman	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Jenny Preece	5
-Derek L. Hansen	{'relation': 'collaborate'}
-Lisa Neal	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Yvonne Waern	{'relation': 'collaborate'}
-Mark Notess	1
-Lisa Neal	{'relation': 'collaborate'}
-David R. Kaufman	2
-Lisa Neal	{'relation': 'collaborate'}
-Gitte Lindgaard	{'relation': 'collaborate'}
-Rosemary Luckin	2
-L. Plowman	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Giorgio Marullo	1
-Diana Laurillard	{'relation': 'collaborate'}
-Clark N. Quinn	1
-Lisa Neal	{'relation': 'collaborate'}
-Diana Laurillard	7
-Lisa Neal	{'relation': 'collaborate'}
-Patricia Charlton	{'relation': 'collaborate'}
-Yvonne Waern	{'relation': 'collaborate'}
-L. Plowman	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-Maria Grigoriadou	{'relation': 'collaborate'}
-Yvonne Waern	2
-Ben Shneiderman	{'relation': 'collaborate'}
-Lisa Neal	{'relation': 'collaborate'}
-Patricia Charlton	2
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-Maria Grigoriadou	{'relation': 'collaborate'}
-Diane Miller	1
-Lisa Neal	{'relation': 'collaborate'}
-Lisa Neal	4
-Derek L. Hansen	{'relation': 'collaborate'}
-Gitte Lindgaard	{'relation': 'collaborate'}
-Saul Carliner	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Gitte Lindgaard	1
-Derek L. Hansen	{'relation': 'collaborate'}
-Derek L. Hansen	1
-Ben Shneiderman	{'relation': 'collaborate'}
-Maria Grigoriadou	1
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-L. Plowman	0
-Ben Shneiderman	0
-Saul Carliner	0
-Kyparisia A. Papanikolaou	0
+Hsu-Jung Liu	1
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Haneul Ko	1
+Jong-Hyouk Lee	{'relation': 'collaborate'}
+Wei-Shuo Li	5
+Chun-Wei Tsai	{'relation': 'collaborate'}
+Jong-Hyouk Lee	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Min Chen	{'relation': 'collaborate'}
+Chu-Sing Yang	{'relation': 'collaborate'}
+Sing-Liang Chen	2
+Yu-Chang Chen	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Chun-Wei Tsai	4
+Jong-Hyouk Lee	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Min Chen	{'relation': 'collaborate'}
+Chu-Sing Yang	{'relation': 'collaborate'}
+Min Chen	2
+Chu-Sing Yang	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Chu-Sing Yang	2
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Yu-Chang Chen	{'relation': 'collaborate'}
+Joong-Hee Lee	1
+Jong-Hyouk Lee	{'relation': 'collaborate'}
+Chih-Hung Lin	1
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+T. C. Cheng	4
+T. K. Truong	{'relation': 'collaborate'}
+L. J. Wang	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+I. S. Reed	{'relation': 'collaborate'}
+L. J. Wang	3
+T. K. Truong	{'relation': 'collaborate'}
+I. S. Reed	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	{'relation': 'collaborate'}
+Wen-Shyong Hsieh	5
+Jong-Hyouk Lee	{'relation': 'collaborate'}
+Yu-Chang Chen	{'relation': 'collaborate'}
+Chuan-Fu Wu	{'relation': 'collaborate'}
+I. S. Reed	{'relation': 'collaborate'}
+T. K. Truong	{'relation': 'collaborate'}
+Jong-Hyouk Lee	3
+Hun-Jung Lim	{'relation': 'collaborate'}
+Jung-Chan Na	{'relation': 'collaborate'}
+Byungchul Park	{'relation': 'collaborate'}
+Chuan-Fu Wu	0
+Hun-Jung Lim	0
+T. K. Truong	1
+I. S. Reed	{'relation': 'collaborate'}
+Yu-Chang Chen	1
+Yu-Chang Chen	{'relation': 'collaborate'}
+Byungchul Park	0
+I. S. Reed	0
+Jung-Chan Na	0

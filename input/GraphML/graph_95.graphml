@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="E. Tirapegui">
+      <data key="affiliation">Univ. Libre de Bruxelles, Brussels, Belgium</data>
+      <data key="research">complex Ginzburg-Landau equation, normal form, simple global characterization</data>
+    </node>
+    <node id="G. Iooss">
+      <data key="affiliation">Nan</data>
+      <data key="research">Azimuthal mode, Couette-Taylor problem, quasi-periodic flow</data>
+    </node>
+    <node id="C. Nore">
+      <data key="affiliation">Laboratoire d'lnformatique pour la Mécanique et les Sciences de l' Ingénieur , CNRS, BP 133, 91403 Orsay Cedex, France and Université Paris XI, Département de Physique, 91405 O ...</data>
+      <data key="research">Lagrange finite element, Interior Penalty technique, Fourier mode</data>
+    </node>
+    <node id="Andreas Knopfel">
+      <data key="affiliation">HassoPlattnerInstitute for ITSystems Engineering</data>
+      <data key="research">different meaning, different name, word component</data>
+    </node>
+    <node id="P. Tabeling">
+      <data key="affiliation">HassoPlattnerInstitute for Software Systems Engineering, Potsdam, Germany</data>
+      <data key="research">Fundamental Modeling Concepts, large system, Architecture Elicitation</data>
+    </node>
+    <node id="Cristán Huepe">
+      <data key="affiliation">CHuepe Labs Inc., Chicago IL, USA</data>
+      <data key="research">alignment control, common direction, neighboring robot</data>
+    </node>
+    <node id="P. Coullet">
+      <data key="affiliation">Univ. de Nice, Nice, France</data>
+      <data key="research">modulated wave patternsSources, wave pattern, convective pattern</data>
+    </node>
+    <node id="S. Fauve">
+      <data key="affiliation">Ecole Normale Superieure, Paris, France</data>
+      <data key="research">Nonlinear oscillatory convection, quantitative phase dynamics approach</data>
+    </node>
+    <node id="C. Elphick">
+      <data key="affiliation">Univ. de Nice, Nice, France</data>
+      <data key="research">normal form, phase singularity, propagating pulsesDynamics</data>
+    </node>
+    <node id="M. E. Brachet">
+      <data key="affiliation">Ecole Normale Superieure, Paris, France</data>
+      <data key="research">frequency gap, dinger flow, nonlinear Schr</data>
+    </node>
+    <edge source="E. Tirapegui" target="C. Elphick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Tirapegui" target="G. Iooss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Tirapegui" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Tirapegui" target="P. Coullet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Iooss" target="C. Elphick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Iooss" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Iooss" target="P. Coullet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Nore" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Nore" target="S. Fauve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Knopfel" target="P. Tabeling">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Tabeling" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cristán Huepe" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Coullet" target="C. Elphick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Coullet" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fauve" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Elphick" target="M. E. Brachet">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

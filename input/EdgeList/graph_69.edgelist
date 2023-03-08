@@ -1,34 +1,35 @@
-Leon G. Stucki	Jack C. Wileden	{'relation': 'collaborate'}
-Leon G. Stucki	Richard Fairley	{'relation': 'collaborate'}
-Leon G. Stucki	J. Ramanathan	{'relation': 'collaborate'}
-Leon G. Stucki	Alan R. Segal	{'relation': 'collaborate'}
-Erich Hughes	Dock Allen	{'relation': 'collaborate'}
-Erich Hughes	Bhavani M. Thuraisingham	{'relation': 'collaborate'}
-Alan R. Segal	Jack C. Wileden	{'relation': 'collaborate'}
-Alan R. Segal	Richard Fairley	{'relation': 'collaborate'}
-Alan R. Segal	J. Ramanathan	{'relation': 'collaborate'}
-Charles McKay	K A Gilroy	{'relation': 'collaborate'}
-Charles McKay	Dock Allen	{'relation': 'collaborate'}
-Charles McKay	Richard Fairley	{'relation': 'collaborate'}
-Charles McKay	J. Bamberger	{'relation': 'collaborate'}
-Charles McKay	Mike Kamrad	{'relation': 'collaborate'}
-Charles McKay	David Eichmann	{'relation': 'collaborate'}
-Charles McKay	C. Atkinson	{'relation': 'collaborate'}
-Jack C. Wileden	Richard Fairley	{'relation': 'collaborate'}
-Jack C. Wileden	J. Ramanathan	{'relation': 'collaborate'}
-Offer Pazy	Mike Kamrad	{'relation': 'collaborate'}
-J. Ramanathan	Richard Fairley	{'relation': 'collaborate'}
-Richard Fairley	J. Bamberger	{'relation': 'collaborate'}
-C. Atkinson	David Eichmann	{'relation': 'collaborate'}
-K A Gilroy	Dock Allen	{'relation': 'collaborate'}
-K A Gilroy	Mike Kamrad	{'relation': 'collaborate'}
-Dennis Cornhill	Rakesh Jha	{'relation': 'collaborate'}
-Dennis Cornhill	Mike Kamrad	{'relation': 'collaborate'}
-Dennis Cornhill	Greg Eisenhauer	{'relation': 'collaborate'}
-Fred Maymir-Ducharme	Mike Kamrad	{'relation': 'collaborate'}
-Mike Kamrad	Dock Allen	{'relation': 'collaborate'}
-Mike Kamrad	Rakesh Jha	{'relation': 'collaborate'}
-Mike Kamrad	Greg Eisenhauer	{'relation': 'collaborate'}
-Mike Kamrad	Joseph K. Cross	{'relation': 'collaborate'}
-Greg Eisenhauer	Rakesh Jha	{'relation': 'collaborate'}
-Bhavani M. Thuraisingham	Dock Allen	{'relation': 'collaborate'}
+Yoshihiro Okada	Kouichi Utsumiya	{'relation': 'collaborate'}
+Yoshihiro Okada	Hiroaki Nishino	{'relation': 'collaborate'}
+Yoshihiro Okada	Shigeru Takano	{'relation': 'collaborate'}
+Yoshihiro Okada	Yong-Moo Kwon	{'relation': 'collaborate'}
+Kazuyuki Yoshida	Kazuyoshi Korida	{'relation': 'collaborate'}
+Kazuyuki Yoshida	Kouichi Utsumiya	{'relation': 'collaborate'}
+Kazuyuki Yoshida	Hiroaki Nishino	{'relation': 'collaborate'}
+Kazuyuki Yoshida	Eiji Aoki	{'relation': 'collaborate'}
+James Newman	Sung-Bae Cho	{'relation': 'collaborate'}
+Sung-Bae Cho	Hiroaki Nishino	{'relation': 'collaborate'}
+Sung-Bae Cho	Sang-Rok Oh	{'relation': 'collaborate'}
+Sung-Bae Cho	Young-Chul Kim	{'relation': 'collaborate'}
+Sung-Bae Cho	Jun-Ki Min	{'relation': 'collaborate'}
+Sung-Bae Cho	Ashish Ghosh	{'relation': 'collaborate'}
+Sung-Bae Cho	Frank Earl Pollick	{'relation': 'collaborate'}
+Sung-Bae Cho	Jin H. Kim	{'relation': 'collaborate'}
+Sung-Bae Cho	Alok Kumar	{'relation': 'collaborate'}
+Sung-Bae Cho	Kouichi Utsumiya	{'relation': 'collaborate'}
+Sung-Bae Cho	Hideyuki Takagi	{'relation': 'collaborate'}
+Kouichi Utsumiya	Hiroaki Nishino	{'relation': 'collaborate'}
+Kouichi Utsumiya	Yong-Moo Kwon	{'relation': 'collaborate'}
+Kouichi Utsumiya	Eiji Aoki	{'relation': 'collaborate'}
+Kouichi Utsumiya	Hideyuki Takagi	{'relation': 'collaborate'}
+Kouichi Utsumiya	Kazuyoshi Korida	{'relation': 'collaborate'}
+Kouichi Utsumiya	Akira Yamaguchi	{'relation': 'collaborate'}
+Kouichi Utsumiya	Masatoshi Nishimura	{'relation': 'collaborate'}
+Young-Chul Kim	Sang-Rok Oh	{'relation': 'collaborate'}
+Yong-Moo Kwon	Hiroaki Nishino	{'relation': 'collaborate'}
+Eiji Aoki	Kazuyoshi Korida	{'relation': 'collaborate'}
+Eiji Aoki	Hiroaki Nishino	{'relation': 'collaborate'}
+Masatoshi Nishimura	Hiroaki Nishino	{'relation': 'collaborate'}
+Hideyuki Takagi	Hiroaki Nishino	{'relation': 'collaborate'}
+Hiroaki Nishino	Kazuyoshi Korida	{'relation': 'collaborate'}
+Hiroaki Nishino	Shigeru Takano	{'relation': 'collaborate'}
+Hiroaki Nishino	Akira Yamaguchi	{'relation': 'collaborate'}

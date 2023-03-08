@@ -1,51 +1,61 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:03 2023
 # 
-Stephen Edward Bricher	2
-J Bebernes	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-A. A. Samarskii	2
-S. P. Kurdyumov	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-L A Peletier	2
-J L Vazquez	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-Simon Premože	2
-Kirill Garanzha	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-Howard A. Levine	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-Kirill Garanzha	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-C. J. Budd	2
-V. A. Galaktionov	{'relation': 'collaborate'}
-G. J. Collins	{'relation': 'collaborate'}
-N. I. V'yukova	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-Migual A. Herrero	6
-M. Kindelan	{'relation': 'collaborate'}
-N. Bellomo	{'relation': 'collaborate'}
-J L Vazquez	{'relation': 'collaborate'}
-J. J. L. Velázquez	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	{'relation': 'collaborate'}
-J. J. L. Velázquez	2
-M. Kindelan	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-M. Kindelan	0
-V. A. Frolov	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-J Bebernes	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-G. J. Collins	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-Edward A. Kopylov	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-S. P. Kurdyumov	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-J L Vazquez	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-V. A. Galaktionov	0
-N. Bellomo	0
+Tony Field	5
+Berc Rustem	{'relation': 'collaborate'}
+Peter Harrison	{'relation': 'collaborate'}
+Uli Harder	{'relation': 'collaborate'}
+Nalân Gülpinar	{'relation': 'collaborate'}
+Louis-Francois Pau	{'relation': 'collaborate'}
+Robert Fourer	1
+G. Mitra	{'relation': 'collaborate'}
+E. Messina	3
+G. Mitra	{'relation': 'collaborate'}
+C. Lucas	{'relation': 'collaborate'}
+S. A. MirHassani	{'relation': 'collaborate'}
+Gregory Gutin	4
+G. Mitra	{'relation': 'collaborate'}
+Istvan Maros	{'relation': 'collaborate'}
+Nalân Gülpinar	{'relation': 'collaborate'}
+A. Zverovitch	{'relation': 'collaborate'}
+Kenneth Darby-Dowman	1
+G. Mitra	{'relation': 'collaborate'}
+Uli Harder	4
+Nalân Gülpinar	{'relation': 'collaborate'}
+Peter Harrison	{'relation': 'collaborate'}
+Berc Rustem	{'relation': 'collaborate'}
+Louis-Francois Pau	{'relation': 'collaborate'}
+Istvan Maros	2
+Nalân Gülpinar	{'relation': 'collaborate'}
+G. Mitra	{'relation': 'collaborate'}
+Csaba I. Fábián	1
+G. Mitra	{'relation': 'collaborate'}
+Louis-Francois Pau	3
+Berc Rustem	{'relation': 'collaborate'}
+Nalân Gülpinar	{'relation': 'collaborate'}
+Peter Harrison	{'relation': 'collaborate'}
+H. Jones	2
+G. Mitra	{'relation': 'collaborate'}
+D Parkinson	{'relation': 'collaborate'}
+Berc Rustem	2
+Peter Harrison	{'relation': 'collaborate'}
+Nalân Gülpinar	{'relation': 'collaborate'}
+S. A. MirHassani	2
+C. Lucas	{'relation': 'collaborate'}
+G. Mitra	{'relation': 'collaborate'}
+G. Mitra	6
+D Parkinson	{'relation': 'collaborate'}
+C. Lucas	{'relation': 'collaborate'}
+Mehrdad Tamiz	{'relation': 'collaborate'}
+Nalân Gülpinar	{'relation': 'collaborate'}
+Nico Di Domenica	{'relation': 'collaborate'}
+A. Zverovitch	{'relation': 'collaborate'}
+A. Zverovitch	1
+Nalân Gülpinar	{'relation': 'collaborate'}
+Nico Di Domenica	0
+D Parkinson	0
+C. Lucas	0
+Mehrdad Tamiz	0
+Nalân Gülpinar	1
+Peter Harrison	{'relation': 'collaborate'}
+Peter Harrison	0

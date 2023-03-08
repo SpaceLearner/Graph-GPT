@@ -1,32 +1,47 @@
-Xiaozhe Wang	Ramamohanarao Kotagiri	{'relation': 'collaborate'}
-Xiaozhe Wang	and Jim Bezdek	{'relation': 'collaborate'}
-Xiaozhe Wang	Liang Wang	{'relation': 'collaborate'}
-Xiaozhe Wang	Christopher Leckie	{'relation': 'collaborate'}
-Yongzhen Huang	Liang Wang	{'relation': 'collaborate'}
-Wen Gao	Liang Wang	{'relation': 'collaborate'}
-Wen Gao	Lei Zhang	{'relation': 'collaborate'}
-Zhongqiu Li	Liang Wang	{'relation': 'collaborate'}
-Zhongqiu Li	Zhongqiu Li	{'relation': 'collaborate'}
-Zhongqiu Li	Wentao Wang	{'relation': 'collaborate'}
-Liang Wang	Lei Zhang	{'relation': 'collaborate'}
-Liang Wang	Ran He	{'relation': 'collaborate'}
-Liang Wang	Huiyu Zhou	{'relation': 'collaborate'}
-Liang Wang	Wenfeng Shen	{'relation': 'collaborate'}
-Liang Wang	Lukasz G. Szafaryn	{'relation': 'collaborate'}
-Liang Wang	Zhan Song	{'relation': 'collaborate'}
-Liang Wang	Shiqi Yu	{'relation': 'collaborate'}
-Liang Wang	Dong Liu	{'relation': 'collaborate'}
-Liang Wang	Junping Zhang	{'relation': 'collaborate'}
-Liang Wang	Ramamohanarao Kotagiri	{'relation': 'collaborate'}
-Liang Wang	Xiaoru Yuan	{'relation': 'collaborate'}
-Liang Wang	Wentao Wang	{'relation': 'collaborate'}
-Liang Wang	M. Bertini	{'relation': 'collaborate'}
-Liang Wang	and Jim Bezdek	{'relation': 'collaborate'}
-Liang Wang	Christopher Leckie	{'relation': 'collaborate'}
-Liang Wang	Liang Wang	{'relation': 'collaborate'}
-and Jim Bezdek	Christopher Leckie	{'relation': 'collaborate'}
-and Jim Bezdek	Ramamohanarao Kotagiri	{'relation': 'collaborate'}
-Christopher Leckie	Ramamohanarao Kotagiri	{'relation': 'collaborate'}
-Xiaoru Yuan	Junping Zhang	{'relation': 'collaborate'}
-Lei Zhang	Wentao Wang	{'relation': 'collaborate'}
-Lei Zhang	Lei Zhang	{'relation': 'collaborate'}
+E. Pesch	Günter Schmidt	{'relation': 'collaborate'}
+E. Pesch	J Weglarz	{'relation': 'collaborate'}
+E. Pesch	J Blazewicz	{'relation': 'collaborate'}
+E. Pesch	K. Ecker	{'relation': 'collaborate'}
+Franz Freyberger	Günter Schmidt	{'relation': 'collaborate'}
+Franz Freyberger	E. Ettelt	{'relation': 'collaborate'}
+Franz Freyberger	C. Fischer	{'relation': 'collaborate'}
+L. Nemes	P. Bernus	{'relation': 'collaborate'}
+L. Nemes	Günter Schmidt	{'relation': 'collaborate'}
+P. Bernus	Günter Schmidt	{'relation': 'collaborate'}
+P. Bernus	K. Mertins	{'relation': 'collaborate'}
+P. Bernus	Michael J. Shaw	{'relation': 'collaborate'}
+P. Bernus	Troy Jefferson Strader	{'relation': 'collaborate'}
+P. Bernus	Andrew B. Whinston	{'relation': 'collaborate'}
+P. Bernus	Robert W. Blanning	{'relation': 'collaborate'}
+Susanne Albers	Günter Schmidt	{'relation': 'collaborate'}
+M. Drozdowski	Günter Schmidt	{'relation': 'collaborate'}
+M. Drozdowski	J Blazewicz	{'relation': 'collaborate'}
+M. Drozdowski	J Weglarz	{'relation': 'collaborate'}
+M. Drozdowski	W. Kubiak	{'relation': 'collaborate'}
+M. Drozdowski	P. Formanowicz	{'relation': 'collaborate'}
+K. Mertins	Günter Schmidt	{'relation': 'collaborate'}
+W. Kubiak	J Blazewicz	{'relation': 'collaborate'}
+W. Kubiak	Günter Schmidt	{'relation': 'collaborate'}
+W. Kubiak	P. Formanowicz	{'relation': 'collaborate'}
+Troy Jefferson Strader	Andrew B. Whinston	{'relation': 'collaborate'}
+Troy Jefferson Strader	Günter Schmidt	{'relation': 'collaborate'}
+Troy Jefferson Strader	Michael J. Shaw	{'relation': 'collaborate'}
+Troy Jefferson Strader	Robert W. Blanning	{'relation': 'collaborate'}
+Andrew B. Whinston	Robert W. Blanning	{'relation': 'collaborate'}
+Andrew B. Whinston	Michael J. Shaw	{'relation': 'collaborate'}
+Andrew B. Whinston	Günter Schmidt	{'relation': 'collaborate'}
+Michael J. Shaw	Robert W. Blanning	{'relation': 'collaborate'}
+Michael J. Shaw	Günter Schmidt	{'relation': 'collaborate'}
+J Blazewicz	P. Formanowicz	{'relation': 'collaborate'}
+J Blazewicz	K. Ecker	{'relation': 'collaborate'}
+J Blazewicz	J Weglarz	{'relation': 'collaborate'}
+J Blazewicz	Günter Schmidt	{'relation': 'collaborate'}
+Bernd Lahl	Günter Schmidt	{'relation': 'collaborate'}
+J Weglarz	K. Ecker	{'relation': 'collaborate'}
+J Weglarz	Günter Schmidt	{'relation': 'collaborate'}
+E. Ettelt	Günter Schmidt	{'relation': 'collaborate'}
+E. Ettelt	C. Fischer	{'relation': 'collaborate'}
+K. Ecker	Günter Schmidt	{'relation': 'collaborate'}
+Günter Schmidt	C. Fischer	{'relation': 'collaborate'}
+Günter Schmidt	P. Formanowicz	{'relation': 'collaborate'}
+Günter Schmidt	Robert W. Blanning	{'relation': 'collaborate'}

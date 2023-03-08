@@ -1,63 +1,55 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:10 2023
 # 
-Sharon Jeanette Simmons	4
-Norman Wilde	{'relation': 'collaborate'}
-Michael Jiang	{'relation': 'collaborate'}
-Michael Groble	{'relation': 'collaborate'}
-John Coffey	{'relation': 'collaborate'}
-John Coffey	2
-Norman Wilde	{'relation': 'collaborate'}
-Eman M. El-Sheikh	{'relation': 'collaborate'}
-Eman M. El-Sheikh	2
-Norman Wilde	{'relation': 'collaborate'}
-Benjamin Hartmann	{'relation': 'collaborate'}
-Michael Groble	2
-Michael Jiang	{'relation': 'collaborate'}
-Norman Wilde	{'relation': 'collaborate'}
-Robert S. Arnold	2
-Norman Wilde	{'relation': 'collaborate'}
-Malcolm Slovin	{'relation': 'collaborate'}
-Malcolm C Munro	4
-Norman Wilde	{'relation': 'collaborate'}
-K. H. Bennett	{'relation': 'collaborate'}
-Jean-Pierre Queille	{'relation': 'collaborate'}
-Vaclav Rajlich	{'relation': 'collaborate'}
-Norman Wilde	13
-Vaclav Rajlich	{'relation': 'collaborate'}
-W. Eric Wong	{'relation': 'collaborate'}
-Michael Jiang	{'relation': 'collaborate'}
-Joseph R. Horgan	{'relation': 'collaborate'}
-Jean-Pierre Queille	{'relation': 'collaborate'}
-Scott M. Brown	{'relation': 'collaborate'}
-J. Jenny Li	{'relation': 'collaborate'}
-S. London	{'relation': 'collaborate'}
-Paul Matthews	{'relation': 'collaborate'}
-Malcolm Slovin	{'relation': 'collaborate'}
-K. H. Bennett	{'relation': 'collaborate'}
-Benjamin Hartmann	{'relation': 'collaborate'}
-J. L. Alberi	{'relation': 'collaborate'}
-J. L. Alberi	4
-J. Jenny Li	{'relation': 'collaborate'}
-W. Eric Wong	{'relation': 'collaborate'}
-S. London	{'relation': 'collaborate'}
-Joseph R. Horgan	{'relation': 'collaborate'}
-Malcolm Slovin	0
-Benjamin Hartmann	0
-W. Eric Wong	3
-J. Jenny Li	{'relation': 'collaborate'}
-S. London	{'relation': 'collaborate'}
-Joseph R. Horgan	{'relation': 'collaborate'}
-Joseph R. Horgan	2
-S. London	{'relation': 'collaborate'}
-J. Jenny Li	{'relation': 'collaborate'}
-Scott M. Brown	0
-J. Jenny Li	1
-S. London	{'relation': 'collaborate'}
-Michael Jiang	0
-K. H. Bennett	1
-Vaclav Rajlich	{'relation': 'collaborate'}
-Paul Matthews	0
-Vaclav Rajlich	0
-S. London	0
-Jean-Pierre Queille	0
+Linda Brodo	4
+Alejandro F. Frangi	{'relation': 'collaborate'}
+Javier Galbally	{'relation': 'collaborate'}
+M. Tistarelli	{'relation': 'collaborate'}
+Julian Fierrez	{'relation': 'collaborate'}
+S. A. M. Baert	2
+Alejandro F. Frangi	{'relation': 'collaborate'}
+M. A. Viergever	{'relation': 'collaborate'}
+Julian Fierrez	3
+Alejandro F. Frangi	{'relation': 'collaborate'}
+Javier Galbally	{'relation': 'collaborate'}
+M. Tistarelli	{'relation': 'collaborate'}
+Alejandro F. Frangi	15
+B. K. Ersbøll	{'relation': 'collaborate'}
+M. A. Viergever	{'relation': 'collaborate'}
+Bob Moore	{'relation': 'collaborate'}
+Javier Galbally	{'relation': 'collaborate'}
+Bart M. ter Haar Romeny	{'relation': 'collaborate'}
+Michael Sass Hansen	{'relation': 'collaborate'}
+Ernesto Zacur	{'relation': 'collaborate'}
+Bram van Ginneken	{'relation': 'collaborate'}
+Jimison Iavindrasana	{'relation': 'collaborate'}
+Edward J. Vigmond	{'relation': 'collaborate'}
+A. Berruezo	{'relation': 'collaborate'}
+Avan Suinesiaputra	{'relation': 'collaborate'}
+M. Tistarelli	{'relation': 'collaborate'}
+U. Perego	{'relation': 'collaborate'}
+M. Cremonesi	{'relation': 'collaborate'}
+M. Cremonesi	2
+C. Ferri	{'relation': 'collaborate'}
+U. Perego	{'relation': 'collaborate'}
+Javier Galbally	1
+M. Tistarelli	{'relation': 'collaborate'}
+B. K. Ersbøll	1
+Michael Sass Hansen	{'relation': 'collaborate'}
+M. Tistarelli	0
+C. Ferri	0
+Bob Moore	1
+Jimison Iavindrasana	{'relation': 'collaborate'}
+Jimison Iavindrasana	0
+A. Berruezo	0
+Bram van Ginneken	2
+Bart M. ter Haar Romeny	{'relation': 'collaborate'}
+M. A. Viergever	{'relation': 'collaborate'}
+Avan Suinesiaputra	0
+Edward J. Vigmond	0
+U. Perego	0
+Bart M. ter Haar Romeny	1
+M. A. Viergever	{'relation': 'collaborate'}
+Michael Sass Hansen	0
+M. A. Viergever	0
+Ernesto Zacur	0

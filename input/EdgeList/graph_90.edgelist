@@ -1,46 +1,49 @@
-Roberta L. Klatzky	George D. Stetten	{'relation': 'collaborate'}
-Roberta L. Klatzky	A. Thompson	{'relation': 'collaborate'}
-Roberta L. Klatzky	Joel Schuman	{'relation': 'collaborate'}
-Roberta L. Klatzky	Bing Wu	{'relation': 'collaborate'}
-Roberta L. Klatzky	R. L. Hollis	{'relation': 'collaborate'}
-Roberta L. Klatzky	S. J. Lederman	{'relation': 'collaborate'}
-Roberta L. Klatzky	Randy Lee	{'relation': 'collaborate'}
-Roberta L. Klatzky	M. W. Siegel	{'relation': 'collaborate'}
-Roberta L. Klatzky	Peter J. Berkelman	{'relation': 'collaborate'}
-Y. Yokokohji	R. L. Hollis	{'relation': 'collaborate'}
-A. Thompson	S. J. Lederman	{'relation': 'collaborate'}
-A. Thompson	Peter J. Berkelman	{'relation': 'collaborate'}
-A. Thompson	R. L. Hollis	{'relation': 'collaborate'}
-Alfred A. Rizzi	Zack Butler	{'relation': 'collaborate'}
-Alfred A. Rizzi	R. L. Hollis	{'relation': 'collaborate'}
-S. Salcudean	R. L. Hollis	{'relation': 'collaborate'}
-M. W. Siegel	Bing Wu	{'relation': 'collaborate'}
-M. W. Siegel	R. L. Hollis	{'relation': 'collaborate'}
-M. W. Siegel	Joel Schuman	{'relation': 'collaborate'}
-M. W. Siegel	Randy Lee	{'relation': 'collaborate'}
-M. W. Siegel	George D. Stetten	{'relation': 'collaborate'}
-Zack Butler	R. L. Hollis	{'relation': 'collaborate'}
-Robert H. Swendsen	R. L. Hollis	{'relation': 'collaborate'}
-Robert H. Swendsen	V. Varadharajan	{'relation': 'collaborate'}
-Robert H. Swendsen	R. Klatzky	{'relation': 'collaborate'}
-S. J. Lederman	Peter J. Berkelman	{'relation': 'collaborate'}
-S. J. Lederman	R. L. Hollis	{'relation': 'collaborate'}
-S. J. Lederman	R. Klatzky	{'relation': 'collaborate'}
-Bing Wu	Joel Schuman	{'relation': 'collaborate'}
-Bing Wu	George D. Stetten	{'relation': 'collaborate'}
-Bing Wu	R. L. Hollis	{'relation': 'collaborate'}
-Bing Wu	Randy Lee	{'relation': 'collaborate'}
-Peter J. Berkelman	R. L. Hollis	{'relation': 'collaborate'}
-V. Varadharajan	R. L. Hollis	{'relation': 'collaborate'}
-V. Varadharajan	R. Klatzky	{'relation': 'collaborate'}
-Umashankar Nagarajan	George Kantor	{'relation': 'collaborate'}
-Umashankar Nagarajan	R. L. Hollis	{'relation': 'collaborate'}
-Randy Lee	Joel Schuman	{'relation': 'collaborate'}
-Randy Lee	R. L. Hollis	{'relation': 'collaborate'}
-Randy Lee	George D. Stetten	{'relation': 'collaborate'}
-George D. Stetten	R. L. Hollis	{'relation': 'collaborate'}
-George D. Stetten	Joel Schuman	{'relation': 'collaborate'}
-R. L. Hollis	George Kantor	{'relation': 'collaborate'}
-R. L. Hollis	R. Klatzky	{'relation': 'collaborate'}
-R. L. Hollis	Sarjoun Skaff	{'relation': 'collaborate'}
-R. L. Hollis	Joel Schuman	{'relation': 'collaborate'}
+Paul L. Lewin	E. Rogers	{'relation': 'collaborate'}
+Paul L. Lewin	Chris T. Freeman	{'relation': 'collaborate'}
+Paul L. Lewin	D. H. Owens	{'relation': 'collaborate'}
+Paul L. Lewin	Zhonglun Cai	{'relation': 'collaborate'}
+Paul L. Lewin	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Peter H. Bauer	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Peter H. Bauer	E. Rogers	{'relation': 'collaborate'}
+Ligang Wu	James Lam	{'relation': 'collaborate'}
+Ligang Wu	E. Rogers	{'relation': 'collaborate'}
+Ligang Wu	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Ligang Wu	Anton Kummert	{'relation': 'collaborate'}
+E. Rogers	I. V. Gaishun	{'relation': 'collaborate'}
+E. Rogers	Chris T. Freeman	{'relation': 'collaborate'}
+E. Rogers	D. H. Owens	{'relation': 'collaborate'}
+E. Rogers	V. R. Sule	{'relation': 'collaborate'}
+E. Rogers	Krzysztof Gałkowski	{'relation': 'collaborate'}
+E. Rogers	Anton Kummert	{'relation': 'collaborate'}
+E. Rogers	Olivier Bachelier	{'relation': 'collaborate'}
+E. Rogers	James Lam	{'relation': 'collaborate'}
+E. Rogers	Artur Gramacki	{'relation': 'collaborate'}
+E. Rogers	Zhonglun Cai	{'relation': 'collaborate'}
+E. Rogers	Driss Mehdi	{'relation': 'collaborate'}
+J. B. Edwards	D. H. Owens	{'relation': 'collaborate'}
+Shengyuan Xu	James Lam	{'relation': 'collaborate'}
+Shengyuan Xu	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Shengyuan Xu	Zhiping Lin	{'relation': 'collaborate'}
+N. P. Karampetakis	Krzysztof Gałkowski	{'relation': 'collaborate'}
+V. R. Sule	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Chris T. Freeman	{'relation': 'collaborate'}
+Krzysztof Gałkowski	I. V. Gaishun	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Anton Kummert	{'relation': 'collaborate'}
+Krzysztof Gałkowski	D. H. Owens	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Joerg Velten	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Artur Gramacki	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Zhiping Lin	{'relation': 'collaborate'}
+Krzysztof Gałkowski	James Lam	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Driss Mehdi	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Zhonglun Cai	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Olivier Bachelier	{'relation': 'collaborate'}
+Artur Gramacki	D. H. Owens	{'relation': 'collaborate'}
+Zhonglun Cai	Chris T. Freeman	{'relation': 'collaborate'}
+I. V. Gaishun	D. H. Owens	{'relation': 'collaborate'}
+Olivier Bachelier	Anton Kummert	{'relation': 'collaborate'}
+Olivier Bachelier	Driss Mehdi	{'relation': 'collaborate'}
+Driss Mehdi	Anton Kummert	{'relation': 'collaborate'}
+Anton Kummert	Zhiping Lin	{'relation': 'collaborate'}
+Anton Kummert	Joerg Velten	{'relation': 'collaborate'}
+Anton Kummert	James Lam	{'relation': 'collaborate'}
+James Lam	Zhiping Lin	{'relation': 'collaborate'}

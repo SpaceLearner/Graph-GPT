@@ -1,142 +1,127 @@
 graph [
   node [
     id 0
-    label "H. W. Roebbers"
-    affiliation "TASS B.V., Eindhoven, The Netherlands"
-    research "mobile phone, Process Architectures, computer system"
+    label "Hammurabi C. Mendes"
+    affiliation "Brown University, Providence, USA"
+    research "multiple task allocation policy, memory consistency model, Byzantine process"
   ]
   node [
     id 1
-    label "B. Vinter"
-    affiliation "Nan"
-    research "Grid infrastructure, Nordic Grid infrastructure, Nordic Grid project"
+    label "Alba C.  M.  A. Melo"
+    affiliation "University of Brasilia (UnB), Department of Computer Science, Campus UNB  ICCNorte  subsolo, 70910900 BrasiliaDF, Brazil and University of Ottawa (SITE), PARADISE Research Laboratory, 800 Ki ..."
+    research "grid environment, multiple task allocation policy, adaptive task allocation framework"
   ]
   node [
     id 2
-    label "E. T. -H. Chu"
-    affiliation "National Yunlin University of Science and Technology, Taiwan"
-    research "smart device, intelligent Guards, virtual processor"
+    label "Samer Samarah"
+    affiliation "Department of Computer Information Systems, Yarmouk University, Irbed 21163, Jordan."
+    research "sensor node, behavioral pattern, service provider"
   ]
   node [
     id 3
-    label "J. F. Broenink"
-    affiliation "Universiteit Twente P.O. Box 217, 7500 AE, Enschede The                    Netherlands"
-    research "mechatronic system, complex production cell system, computer system"
+    label "C. F. Chiasserini"
+    affiliation "CERCOMDipartimento di Elettronica, Politecnico di Torino Corso Duca degli Abruzzi, Torino, Italy"
+    research "sensor network, mobile network, network node"
   ]
   node [
     id 4
-    label "Chien-Min Huang"
-    affiliation "Dept. of Electr. Eng., Utah State Univ., Logan, UT"
-    research "codebook generation, codebook generation algorithm, good initial codebook"
+    label "Graciela Rom&#225;n-Alonso"
+    affiliation "Departamento de Ing. El&#233;ctrica, Universidad Aut&#243;noma Metropolitana, Izt., D.F., M&#233;xico"
+    research "porous network, data item, parallel application"
   ]
   node [
     id 5
-    label "C. M. Huang"
-    affiliation "Nan"
-    research "Intelligent Guards, alert message, asynchronous alert message delivery"
+    label "Alba Cristina Magalhaes Alves de Melo"
+    affiliation "Department of Computer Science, University of Brasilia (UnB), Brasilia, Brazil"
+    research "heterogeneous multicore cluster, appropriate fault tolerance technique, fault tolerance technique"
   ]
   node [
     id 6
-    label "Yun Gong"
-    affiliation "School of Mathematics, Georgia Institute of Technology, Atlanta, GA 303320160, USA"
-    research "empirical likelihood ratio statistic, Smoothed jackknife empirical likelihood, jackknife empirical likelihood method"
+    label "Caron Dzermajko"
+    affiliation "Department of Computer Sciences, University of North of Texas, Denton, TX 76203, U.S.A."
+    research "DDM method, DDM scheme, DDM implementation"
   ]
   node [
     id 7
-    label "F. Adachi"
+    label "A. Corradi"
     affiliation "Nan"
-    research "ArticleGuest editorial wideband, CDMA IIFirst Page, IFirst Page"
+    research ""
   ]
   node [
     id 8
-    label "Frederick R. M. Barnes"
-    affiliation "University of Kent, Canterbury, UK"
-    research "Process Architectures, system scalability, concurrent component"
+    label "J.-R. Sack"
+    affiliation "MaxPlanckInstitute for Informatics, Stuhlsatzenhausweg 85, 66123 Saarbr&#252;cken, Germany"
+    research "shortest path, time O, earliest arrival time"
   ]
   node [
     id 9
-    label "G. S. Stiles"
+    label "Ke Liu"
     affiliation "Nan"
-    research "full search, full search equivalent, encoding phase"
+    research "medium-sized city, Beijing city logistics, city logistics city logistics"
   ]
   node [
     id 10
-    label "Adrian Gh. Podoleanu"
-    affiliation "Department of Dental Materials and Dental Technologies, University of Medicine and Pharmacy Victor Babes, Timisoara, Romania"
-    research "ceramic crown, ceramic mass, ceramic veneer"
+    label "A K Datta"
+    affiliation "School of Computer Science, University of Nevada, Las Vegas,"
+    research "proposed algorithm, self-stabilizing algorithm, connected network"
   ]
   node [
     id 11
-    label "L. B. Milstein"
-    affiliation "Nan"
-    research "Cognitive Radio, ApplicationsGuest Editorial, ArticleGuest Editorial Quality-of-Service Delivery"
+    label "A. Hossain"
+    affiliation "University of Ottawa, Ottawa, Canada"
+    research "haptic virtual object, current network delay, local user"
   ]
   node [
     id 12
-    label "P. H. Welch"
-    affiliation "GEC Avionics, Airport Works, Rochester, Kent, England"
-    research "complex system, Communicating Sequential Processes, complex systems design"
+    label "Azzedine Boukerche"
+    affiliation "Wireless and Mobile Networking Research Laboratory"
+    research "Emergency Preparedness, emergency incident, emergency responder"
   ]
   node [
     id 13
-    label "Q. Bi"
-    affiliation "Nan"
-    research "full search, full search equivalent, encoding phase"
+    label "Kaiyuan Lu"
+    affiliation "School of Computer Science, Carleton University, Ottawa, Ontario, Canada"
+    research "context aware system, aggregates context information, context aggregation"
   ]
   node [
     id 14
-    label "A. J. Vinck"
-    affiliation "Institute for Experimental Mathematics, Essen, Germany"
-    research "coset code, main channel, minimum channel symbol duration"
+    label "Yanjun Hu"
+    affiliation "Nan"
+    research "bottom ash, MSWI ash, fly ash"
   ]
   node [
     id 15
-    label "J. W. S. Liu"
-    affiliation "Nan"
-    research "response time, end-to-end response time, different priority"
+    label "Diego Daniel Duarte"
+    affiliation "Federal University of Minas Gerais, Belo Horizonte  Minas Gerais, Brazil"
+    research "seller profile, fixed-price online negotiation, online commercial activity"
   ]
   node [
     id 16
-    label "R. W. Harris"
-    affiliation "Nan"
-    research "adaptive search algorithm, optimal bit allocation algorithm, bit rate"
+    label "Sotiris Nikoletseas"
+    affiliation "Computer Technology Institute, P.O. Box 1122, 26110 Patras, Greece, Department of Computer Engineering &#38; Informatics, University of Patras, 26500 Patras, Greece"
+    research "wireless sensor network, sensor network, wireless network"
   ]
   node [
     id 17
-    label "Hsiao-Hwa Chen"
-    affiliation "Department of Computer and Electronics Engineering, University of NebraskaLincoln, NE and Department of Engineering Science, National Cheng Kung University, Taiwan"
-    research "proposed scheme, wireless network, wireless sensor network"
+    label "Ednaldo B. Pizzolato"
+    affiliation "Federal University of S. Carlos, SP, Brazil"
+    research "multimodal interaction, social interaction, Multimodal Interface"
   ]
   node [
     id 18
-    label "Adam T. Sampson"
-    affiliation "University of Abertay Dundee, Dundee, UK"
-    research "complex systems simulation, agent-based simulation, complex system"
+    label "D. Nussbaum"
+    affiliation "Carleton University"
+    research "P touch, larger treatment area, radiotherapy treatment"
   ]
   node [
     id 19
-    label "Michael K. H. Fan"
-    affiliation "Nan"
-    research "numerical method, output feedback variable structure"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
+    label "Alejandro C. Frery"
+    affiliation "CPMAT &#38; LCCV, Instituto de Computa&#231;&#231;&#227;o, Universidade Federal de Alagoas, BR 104 Norte km 97, Macei&#243; AL 57072970, Brazil"
+    research "edge detection, Nonparametric edge detection, alternative method"
   ]
   edge [
     source 0
     target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
     relation "collaborate"
   ]
   edge [
@@ -145,43 +130,13 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
     source 1
     target 12
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
     source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -191,87 +146,37 @@ graph [
   ]
   edge [
     source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
     target 16
     relation "collaborate"
   ]
   edge [
     source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
+    target 12
     relation "collaborate"
   ]
   edge [
     source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
+    target 12
     relation "collaborate"
   ]
   edge [
     source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 13
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 10
+    source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
     relation "collaborate"
   ]
   edge [
     source 8
-    target 9
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -280,68 +185,53 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 9
     target 12
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 13
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
     source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 14
+    target 12
     relation "collaborate"
   ]
   edge [
     source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 13
     target 16
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
     target 14
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 17
+    source 13
+    target 18
     relation "collaborate"
   ]
 ]

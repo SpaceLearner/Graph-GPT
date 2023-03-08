@@ -1,192 +1,217 @@
 graph [
   node [
     id 0
-    label "Joris Vertommen"
-    affiliation "Centre for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A bus 2422, 3001 Heverlee, Belgium"
-    research "dissimilarity measure, Pairwise-adaptive dissimilarity measure, measure dynamically"
+    label "Min Yao"
+    affiliation "Nan"
+    research "OSEK OSSpecification-based test, Producing Specification-based test, adequate test suite"
   ]
   node [
     id 1
-    label "Maja Hadzic"
-    affiliation "DEBII, Curtin University, Western Australia"
-    research "semantic web, semantic web application, web ontology"
+    label "Aining Yin"
+    affiliation "Institute of Information on Traditional Chinese Medicine, China Academy of Traditional Chinese Medicine, Beijing 100700, PR China"
+    research "ontology development, traditional Chinese medical language, traditional Chinese medicineThis paper"
   ]
   node [
     id 2
-    label "Ruben Verlinden"
-    affiliation "Semantics Technology and Applications Research Laboratory, Vrije Universiteit Brussel"
-    research "competency model, information source, meaningful competency"
+    label "Zhenyu Shan"
+    affiliation "Zhejiang University, China"
+    research "audio resource, audio search engine, efficient content-based audio search"
   ]
   node [
     id 3
-    label "Dirk Cattrysse"
-    affiliation "Center for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A, B3001 Heverlee, Belgium"
-    research "truck scheduling problem, optimal site, compact patch"
+    label "David N. Cottingham"
+    affiliation "University of Cambridge Computer Laboratory"
+    research "coverage map, coverage area, individual wireless access network"
   ]
   node [
     id 4
-    label "Lieven De Lathauwer"
-    affiliation "Lieven.DeLathauwer@kuleuvenkortrijk.be"
-    research "singular value decomposition, canonical decomposition, cosine-sine decomposition"
+    label "Yu Zhang"
+    affiliation "Institute of High Performance Computing, Singapore"
+    research "facial model, facial muscle, prototype model"
   ]
   node [
     id 5
-    label "P Van Dooren"
-    affiliation "paul.vandooren@uclouvain.be and absil@ inma.ucl.ac.be"
-    research "new algorithm, fellow matrix, generalized Schur algorithm"
+    label "Wei Shi"
+    affiliation "Nan"
+    research "Dynamic Reconfiguration, Ensuring Correctness, chronic disease"
   ]
   node [
     id 6
-    label "J. Vanthienen"
-    affiliation "Department of Applied Economic Sciences, K.U.Leuven, Naamsestraat 69, B3000 Leuven, Belgium"
-    research "decision table, process mining, process model"
+    label "T. S. Huang"
+    affiliation "Nan"
+    research "Dynamic Scene Analysis, Image Sequence Processing"
   ]
   node [
     id 7
-    label "A. M. Habraken"
-    affiliation "ArGEnCo, Universit&#233; de Li&#232;ge, Li&#232;ge, Belgium 4000"
-    research "finite element, constitutive law, finite element simulation"
+    label "Lina Zhang"
+    affiliation "Nan"
+    research "Workflow Engine, Web Services, Asynchronous Web Services"
   ]
   node [
     id 8
-    label "Bart De Moor"
-    affiliation "ESAT, SCDSISTA, K.U.Leuven, Kasteelpark Arenberg 10, B3001 LeuvenHeverlee, Belgium"
-    research "exact balanced representation, input-output data, finite time"
+    label "Yuxing Mao"
+    affiliation "Nan"
+    research "generalized frequent item set, ItemsetsMining generalized frequent item, traditional frequent item set"
   ]
   node [
     id 9
-    label "W. Dewulf"
-    affiliation "Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium"
-    research "windshield wiper, Bosch windshield wiper, different environmental category"
+    label "Jiang Li"
+    affiliation "Nan"
+    research "positioning result, accurate target location, data fusion"
   ]
   node [
     id 10
-    label "Bert Lauwers"
-    affiliation "Nan"
-    research "tool path, tool path track, error prediction tool"
+    label "Dongdong Li"
+    affiliation "Huawei Technologies, Plano, TX"
+    research "conventional approach, Probability-based resource allocation, channel availability"
   ]
   node [
     id 11
-    label "Vincent J. Carey"
-    affiliation "Channing Laboratory, Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115, USA"
-    research "gene expression, microarray experiment, BioConductorThe microarray gene expression"
+    label "Zhaohui Wu"
+    affiliation "Nan"
+    research "Computer Science, International Conference, Lecture Notes"
   ]
   node [
     id 12
-    label "P. Sas"
+    label "Nenggan Zheng"
     affiliation "Nan"
-    research "reference signal, extensive original reference set, extensive set"
+    research "control processor, control program generating navigation, intelligent control system"
   ]
   node [
     id 13
-    label "P. Van Houtte"
-    affiliation "MTM, Katholieke Universiteit Leuven, Heverlee, Belgium 3001"
-    research "Finite Element Simulation, finite element, constitutive law"
+    label "Haoyi Ren"
+    affiliation "Zhejiang University, Hangzhou, China"
+    research "mobile phone, human mobility, virtual reality environment"
   ]
   node [
     id 14
-    label "H. Sol"
-    affiliation "Nan"
-    research "global financial transaction, global transaction, national market"
+    label "Chunying Zhou"
+    affiliation "Zhejiang University, Hangzhou, China"
+    research "Semantic Bayesian Network, semantic web, semi-supervised learning method"
   ]
   node [
     id 15
-    label "J. V&#225;ncza"
-    affiliation "Computer and Automation Research Institute, Hungarian Academy of Sciences, Hungary,Department of Manufacturing Science and Technology, Budapest University of Technology and Economics, Hungary"
-    research "sheet metal, process planning, automated process planning"
+    label "Congfu Xu"
+    affiliation "Zhejiang University, China"
+    research "data set, frequent itemsets, data mining"
   ]
   node [
     id 16
-    label "Joost R. Duflou"
-    affiliation "Faculty of Engineering, Katholieke Universiteit Leuven, Belgium"
-    research "sheet metal, automated process planning, automatic process planning"
+    label "Yi Feng"
+    affiliation "Nan"
+    research "data center, hierarchical approach, high availability"
   ]
   node [
     id 17
-    label "Hendrik Van Brussel"
-    affiliation "Mechanical Engineering Department, Division PMA, Celestijnenlaan 300B, B3001 Heverlee, Belgium"
-    research "PAM hysteresis, Non-local memory hysteresis, hysteresis behavior"
+    label "Kougen Zheng"
+    affiliation "Zhejiang University Hangzhou,China"
+    research "wireless networked sensor, sensor network, sensor node"
   ]
   node [
     id 18
-    label "L. Vandenberghe"
-    affiliation "Dept. of Electr. Eng., Californica Univ., Los Angeles, CA, USA"
-    research "interior-point method, convex optimization problem, sizing problem"
+    label "Liang Chen"
+    affiliation "School of Software, Tsinghua University, Beijing, P.R., China"
+    research "fuzzy appraisal decision-making method, fuzzy experience evaluation matrix, fuzzy logic"
   ]
   node [
     id 19
-    label "B. Willems"
-    affiliation "Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium"
-    research "US electronics, joint US EPA, active disassembly"
+    label "Jonathan J. Davies"
+    affiliation "University of Cambridge"
+    research "Intelligent Transportation, special issue, application code"
   ]
   edge [
     source 0
-    target 8
+    target 11
     relation "collaborate"
   ]
   edge [
     source 0
-    target 3
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 16
     relation "collaborate"
   ]
   edge [
     source 1
-    target 8
+    target 14
     relation "collaborate"
   ]
   edge [
     source 2
-    target 8
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 16
     relation "collaborate"
   ]
   edge [
     source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 14
     relation "collaborate"
   ]
   edge [
+    source 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 11
+    relation "collaborate"
+  ]
+  edge [
     source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 18
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -196,57 +221,57 @@ graph [
   ]
   edge [
     source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
+    target 11
     relation "collaborate"
   ]
   edge [
     source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 16
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 11
     target 14
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 16
+    source 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 15
     relation "collaborate"
   ]
   edge [
     source 14
     target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 19
     relation "collaborate"
   ]
 ]

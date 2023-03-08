@@ -1,65 +1,63 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:02 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:05 2023
 # 
-H Lam	16
-Yu Long	{'relation': 'collaborate'}
-Lalita Narupiyakul	{'relation': 'collaborate'}
-Zuo-Jun (Max) Shen	{'relation': 'collaborate'}
-Sumalatha Adabala	{'relation': 'collaborate'}
-Haifei Li	{'relation': 'collaborate'}
-Andréa M. Matsunaga	{'relation': 'collaborate'}
-Yihua Huang	{'relation': 'collaborate'}
-Greg Stitt	{'relation': 'collaborate'}
-Liang-Jie Zhang	{'relation': 'collaborate'}
-Seokwon Yang	{'relation': 'collaborate'}
-Karthik Nagarajan	{'relation': 'collaborate'}
-Alan D. George	{'relation': 'collaborate'}
-Vikas Aggarwal	{'relation': 'collaborate'}
-Ed Barkmeyer	{'relation': 'collaborate'}
-K. Clint Slatton	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Ed Barkmeyer	0
-Yihua Huang	1
-Haifei Li	{'relation': 'collaborate'}
-Karthik Nagarajan	6
-K. Clint Slatton	{'relation': 'collaborate'}
-Chris Conger	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Adam Jacobs	{'relation': 'collaborate'}
-Alan D. George	{'relation': 'collaborate'}
-Clint Slatton	{'relation': 'collaborate'}
-Zuo-Jun (Max) Shen	0
-Andréa M. Matsunaga	1
-Sumalatha Adabala	{'relation': 'collaborate'}
-Clint Slatton	2
-Alan D. George	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Greg Stitt	3
-Alan D. George	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Vikas Aggarwal	{'relation': 'collaborate'}
-Seokwon Yang	0
-K. Clint Slatton	3
-Alan D. George	{'relation': 'collaborate'}
-Vikas Aggarwal	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Liang-Jie Zhang	2
-Haifei Li	{'relation': 'collaborate'}
-Liang-Jie Zhang	{'relation': 'collaborate'}
-Yu Long	0
-Sumalatha Adabala	0
-Adam Jacobs	3
-Chris Conger	{'relation': 'collaborate'}
-Alan D. George	{'relation': 'collaborate'}
-Brian Holland	{'relation': 'collaborate'}
-Brian Holland	3
-Vikas Aggarwal	{'relation': 'collaborate'}
-Alan D. George	{'relation': 'collaborate'}
-Chris Conger	{'relation': 'collaborate'}
-Chris Conger	1
-Alan D. George	{'relation': 'collaborate'}
-Alan D. George	1
-Vikas Aggarwal	{'relation': 'collaborate'}
-Haifei Li	0
-Vikas Aggarwal	0
-Lalita Narupiyakul	0
+Yoseph Bar-Cohen	1
+David R. Hanson	{'relation': 'collaborate'}
+R E. Griswold	7
+Paulo J. Santos	{'relation': 'collaborate'}
+James F Gimpel	{'relation': 'collaborate'}
+G. David Ripley	{'relation': 'collaborate'}
+David R. Hanson	{'relation': 'collaborate'}
+R. B. Dewar	{'relation': 'collaborate'}
+J T Korb	{'relation': 'collaborate'}
+Fredrick C. Druseikis	{'relation': 'collaborate'}
+Mukund Raghavachari	1
+David R. Hanson	{'relation': 'collaborate'}
+Alvaro E. Campos	1
+David R. Hanson	{'relation': 'collaborate'}
+J T Korb	1
+David R. Hanson	{'relation': 'collaborate'}
+Norman Ramsey	2
+Mary F. Fernandez	{'relation': 'collaborate'}
+David R. Hanson	{'relation': 'collaborate'}
+Gary Lindstrom	5
+Howard J. Larsen	{'relation': 'collaborate'}
+G. David Ripley	{'relation': 'collaborate'}
+Keith R. Merkel	{'relation': 'collaborate'}
+Fredrick C. Druseikis	{'relation': 'collaborate'}
+David R. Hanson	{'relation': 'collaborate'}
+Howard J. Larsen	4
+G. David Ripley	{'relation': 'collaborate'}
+Keith R. Merkel	{'relation': 'collaborate'}
+David R. Hanson	{'relation': 'collaborate'}
+Fredrick C. Druseikis	{'relation': 'collaborate'}
+James F Gimpel	3
+R. B. Dewar	{'relation': 'collaborate'}
+David R. Hanson	{'relation': 'collaborate'}
+Paulo J. Santos	{'relation': 'collaborate'}
+G. David Ripley	3
+David R. Hanson	{'relation': 'collaborate'}
+Keith R. Merkel	{'relation': 'collaborate'}
+Fredrick C. Druseikis	{'relation': 'collaborate'}
+David R. Hanson	9
+Mary F. Fernandez	{'relation': 'collaborate'}
+R. B. Dewar	{'relation': 'collaborate'}
+Brian K. Reid	{'relation': 'collaborate'}
+Paulo J. Santos	{'relation': 'collaborate'}
+Keith R. Merkel	{'relation': 'collaborate'}
+Jeffrey Korn	{'relation': 'collaborate'}
+Christopher W. Fraser	{'relation': 'collaborate'}
+Fredrick C. Druseikis	{'relation': 'collaborate'}
+Todd A. Proebsting	{'relation': 'collaborate'}
+Fredrick C. Druseikis	1
+Keith R. Merkel	{'relation': 'collaborate'}
+Paulo J. Santos	1
+R. B. Dewar	{'relation': 'collaborate'}
+Keith R. Merkel	0
+Mary F. Fernandez	0
+R. B. Dewar	0
+Brian K. Reid	0
+Christopher W. Fraser	1
+Todd A. Proebsting	{'relation': 'collaborate'}
+Jeffrey Korn	0
+Todd A. Proebsting	0

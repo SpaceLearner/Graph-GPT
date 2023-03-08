@@ -1,78 +1,31 @@
-R. Mukkamala	C Michael Overstreet	{'relation': 'collaborate'}
-R. Mukkamala	Ajay K. Gupta	{'relation': 'collaborate'}
-R. Mukkamala	A. Prabhu	{'relation': 'collaborate'}
-R. Mukkamala	K. Maly	{'relation': 'collaborate'}
-R. Mukkamala	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-R. Mukkamala	K J Maly	{'relation': 'collaborate'}
-R. Mukkamala	C. S. Vemuru	{'relation': 'collaborate'}
-L. Kohn	M. Levitt	{'relation': 'collaborate'}
-L. Kohn	A. Prabhu	{'relation': 'collaborate'}
-L. Kohn	P. Ferolito	{'relation': 'collaborate'}
-L. Kohn	L. Yang	{'relation': 'collaborate'}
-L. Kohn	P. Fu	{'relation': 'collaborate'}
-L. Kohn	H. Kwan	{'relation': 'collaborate'}
-L. Kohn	Gregory B. Zyner	{'relation': 'collaborate'}
-L. Kohn	Robert Yung	{'relation': 'collaborate'}
-L. Kohn	Dale Greenley	{'relation': 'collaborate'}
-D. Gopi	A. Prabhu	{'relation': 'collaborate'}
-H. Kwan	Robert Yung	{'relation': 'collaborate'}
-H. Kwan	Dale Greenley	{'relation': 'collaborate'}
-H. Kwan	L. Yang	{'relation': 'collaborate'}
-H. Kwan	A. Prabhu	{'relation': 'collaborate'}
-H. Kwan	P. Ferolito	{'relation': 'collaborate'}
-H. Kwan	M. Levitt	{'relation': 'collaborate'}
-H. Kwan	P. Fu	{'relation': 'collaborate'}
-H. Kwan	Gregory B. Zyner	{'relation': 'collaborate'}
-A. Prabhu	Ajay K. Gupta	{'relation': 'collaborate'}
-A. Prabhu	Dale Greenley	{'relation': 'collaborate'}
-A. Prabhu	C. S. Vemuru	{'relation': 'collaborate'}
-A. Prabhu	L. Yang	{'relation': 'collaborate'}
-A. Prabhu	C Michael Overstreet	{'relation': 'collaborate'}
-A. Prabhu	Robert Yung	{'relation': 'collaborate'}
-A. Prabhu	K. Maly	{'relation': 'collaborate'}
-A. Prabhu	R. Narasimha	{'relation': 'collaborate'}
-A. Prabhu	P. Fu	{'relation': 'collaborate'}
-A. Prabhu	P. Ferolito	{'relation': 'collaborate'}
-A. Prabhu	M. Levitt	{'relation': 'collaborate'}
-A. Prabhu	K J Maly	{'relation': 'collaborate'}
-A. Prabhu	Gregory B. Zyner	{'relation': 'collaborate'}
-A. Prabhu	A. Youssef	{'relation': 'collaborate'}
-A. Prabhu	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-Robert Yung	Dale Greenley	{'relation': 'collaborate'}
-Robert Yung	M. Levitt	{'relation': 'collaborate'}
-Robert Yung	Gregory B. Zyner	{'relation': 'collaborate'}
-Robert Yung	P. Ferolito	{'relation': 'collaborate'}
-Robert Yung	L. Yang	{'relation': 'collaborate'}
-Robert Yung	P. Fu	{'relation': 'collaborate'}
-P. Ferolito	Dale Greenley	{'relation': 'collaborate'}
-P. Ferolito	Gregory B. Zyner	{'relation': 'collaborate'}
-P. Ferolito	P. Fu	{'relation': 'collaborate'}
-P. Ferolito	L. Yang	{'relation': 'collaborate'}
-P. Ferolito	M. Levitt	{'relation': 'collaborate'}
-L. Yang	M. Levitt	{'relation': 'collaborate'}
-L. Yang	Gregory B. Zyner	{'relation': 'collaborate'}
-L. Yang	P. Fu	{'relation': 'collaborate'}
-L. Yang	Dale Greenley	{'relation': 'collaborate'}
-A. Youssef	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-A. Youssef	C Michael Overstreet	{'relation': 'collaborate'}
-A. Youssef	K J Maly	{'relation': 'collaborate'}
-A. Youssef	Ajay K. Gupta	{'relation': 'collaborate'}
-A. Youssef	K. Maly	{'relation': 'collaborate'}
-Gregory B. Zyner	P. Fu	{'relation': 'collaborate'}
-Gregory B. Zyner	M. Levitt	{'relation': 'collaborate'}
-Gregory B. Zyner	Dale Greenley	{'relation': 'collaborate'}
-P. Fu	Dale Greenley	{'relation': 'collaborate'}
-P. Fu	M. Levitt	{'relation': 'collaborate'}
-Ajay K. Gupta	K. Maly	{'relation': 'collaborate'}
-Ajay K. Gupta	K J Maly	{'relation': 'collaborate'}
-Ajay K. Gupta	C Michael Overstreet	{'relation': 'collaborate'}
-Ajay K. Gupta	C. S. Vemuru	{'relation': 'collaborate'}
-Ajay K. Gupta	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-C. S. Vemuru	K. Maly	{'relation': 'collaborate'}
-C. S. Vemuru	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-M. Levitt	Dale Greenley	{'relation': 'collaborate'}
-C Michael Overstreet	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-C Michael Overstreet	K. Maly	{'relation': 'collaborate'}
-C Michael Overstreet	K J Maly	{'relation': 'collaborate'}
-K. Maly	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
-K J Maly	Hussein M. Abdel-Wahab	{'relation': 'collaborate'}
+D. A. Torigian	Xinjian Chen	{'relation': 'collaborate'}
+D. A. Torigian	J K Udupa	{'relation': 'collaborate'}
+J K Udupa	R. Reynolds	{'relation': 'collaborate'}
+J K Udupa	Celina Zofia Imielinska	{'relation': 'collaborate'}
+J K Udupa	Paulo A.  V. Miranda	{'relation': 'collaborate'}
+J K Udupa	Gabor T Herman	{'relation': 'collaborate'}
+J K Udupa	Xinjian Chen	{'relation': 'collaborate'}
+J K Udupa	G. Frieder	{'relation': 'collaborate'}
+J K Udupa	K. D. Toennies	{'relation': 'collaborate'}
+J K Udupa	Alexandre X. Falcão	{'relation': 'collaborate'}
+J K Udupa	Lih-Shyang Chen	{'relation': 'collaborate'}
+J K Udupa	Ting Chen	{'relation': 'collaborate'}
+J K Udupa	Krzysztof Chris Ciesielski	{'relation': 'collaborate'}
+J K Udupa	C. Meyer	{'relation': 'collaborate'}
+J K Udupa	Dimitri Metaxas	{'relation': 'collaborate'}
+J K Udupa	Li Bai	{'relation': 'collaborate'}
+J K Udupa	S N Srihari	{'relation': 'collaborate'}
+J K Udupa	Venkatramana G. Ajjanagadde	{'relation': 'collaborate'}
+K. Walker	R. Reynolds	{'relation': 'collaborate'}
+Xinjian Chen	Krzysztof Chris Ciesielski	{'relation': 'collaborate'}
+S N Srihari	Gabor T Herman	{'relation': 'collaborate'}
+G. Frieder	C. Meyer	{'relation': 'collaborate'}
+G. Frieder	Gabor T Herman	{'relation': 'collaborate'}
+G. Loeffler	R. Reynolds	{'relation': 'collaborate'}
+Paulo A.  V. Miranda	Alexandre X. Falcão	{'relation': 'collaborate'}
+Gabor T Herman	R. Reynolds	{'relation': 'collaborate'}
+Gabor T Herman	C. Meyer	{'relation': 'collaborate'}
+Gabor T Herman	K. D. Toennies	{'relation': 'collaborate'}
+Ting Chen	Dimitri Metaxas	{'relation': 'collaborate'}
+Ting Chen	Celina Zofia Imielinska	{'relation': 'collaborate'}
+Celina Zofia Imielinska	Dimitri Metaxas	{'relation': 'collaborate'}

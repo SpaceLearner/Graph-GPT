@@ -1,177 +1,147 @@
 graph [
   node [
     id 0
-    label "R. Mukkamala"
-    affiliation "Old Dominion University, Norfolk, Virginia"
-    research "larger model, subsystem model, fake tuples"
+    label "D. A. Torigian"
+    affiliation "Department of Radiology, University of Pennsylvania Medical Center"
+    research "proposed method, computational analysis, ASM model"
   ]
   node [
     id 1
-    label "L. Kohn"
-    affiliation "SPARC Technology, Sun Microsystems, Inc., 2550 Garcia Avenue, Mountain View, CA"
-    research "visual instruction set, SPARC processor, high performance"
+    label "J K Udupa"
+    affiliation "Medical Image Processing Group Department of Radiology, University of Pennsylvania Blockley Hall, Fourth Floor, 423 Guardian Drive, Philadelphia, PA 191046021, USA"
+    research "image element, clinical MR image, vectorial image"
   ]
   node [
     id 2
-    label "D. Gopi"
-    affiliation "Department of Chemistry, Periyar University, Salem636 011, India"
-    research "exact solitary solution, nonlinear Schr, nonlinear Schrodinger"
+    label "K. Walker"
+    affiliation "SiByte, Inc."
+    research "data value, flexible value samplingThis paper, resulting value profile"
   ]
   node [
     id 3
-    label "H. Kwan"
-    affiliation "Nan"
-    research "complex predictor-corrector method, generalized vector-magnitude-approximation method, second-order numerical integration method"
+    label "Xinjian Chen"
+    affiliation "Dept. of Autom., Tsinghua Univ., Beijing, China"
+    research "proposed architecture, direct method, row-column method"
   ]
   node [
     id 4
-    label "A. Prabhu"
-    affiliation "Department of Physics, Periyar University, Salem636 011, India"
-    research "exact solitary solution, dinger equation, nonlinear Schr"
+    label "Li Bai"
+    affiliation "Nan"
+    research "False Repudiation, augmented message, message body"
   ]
   node [
     id 5
-    label "Robert Yung"
-    affiliation "Nan"
-    research "numeric calculation, existing numeric data type, extended numeric"
+    label "S N Srihari"
+    affiliation "State Univ. of New York at Buffalo, Buffalo"
+    research "handwritten document, word recognition, word image"
   ]
   node [
     id 6
-    label "P. Ferolito"
-    affiliation "SPARC Technology, Sun Microsystems, Inc., 2550 Garcia Avenue, Mountain View, CA"
-    research "64-bit SPARC V9 architecture, SPARC Technology Business, SPARC processor"
+    label "G. Frieder"
+    affiliation "Information Retrieval Lab, Illinois Institute of Technology"
+    research "computer architecture, Yizkor Books, simulation executive"
   ]
   node [
     id 7
-    label "L. Yang"
+    label "Lih-Shyang Chen"
     affiliation "Nan"
-    research "flexible software, software plugin, DLL interface"
+    research "original image, radial transformation, radial image"
   ]
   node [
     id 8
-    label "A. Youssef"
+    label "G. Loeffler"
     affiliation "Nan"
-    research "interprocess communication, Software Architecture, Interactive Remote Instruction system"
+    research "mechanical optical switch, optical fiber, SL Undersea Lightwave System"
   ]
   node [
     id 9
-    label "Gregory B. Zyner"
-    affiliation "Nan"
-    research "SPARC processor, visual instruction set, 64-bit SPARC V9 architecture"
+    label "Paulo A.  V. Miranda"
+    affiliation "State University of Campinas (UNICAMP), Brazil"
+    research "automatic segmentation, optimum-path forest, Image Segmentation"
   ]
   node [
     id 10
-    label "P. Fu"
-    affiliation "Nan"
-    research "UltraSPARC microprocessor, UltraSPARC microprocessorThe overall verification, 64-bit SPARC V9 architecture"
+    label "Gabor T Herman"
+    affiliation "Computer Science Department, The Graduate Center, City University of New York, New York, NY"
+    research "image reconstruction, label image, noisy image column"
   ]
   node [
     id 11
-    label "Ajay K. Gupta"
-    affiliation "Stony Brook University, Stony Brook, NY"
-    research "sensor network, wireless sensor network, sensor node"
+    label "Krzysztof Chris Ciesielski"
+    affiliation "Department of Mathematics, West Virginia University, Morgantown, WV 265066310, United States and Department of Radiology, MIPG, University of Pennsylvania, Blockley Hall, 4th Floor, 423 Guardian  ..."
+    research "affinity function, fuzzy connectedness, equivalent affinity"
   ]
   node [
     id 12
-    label "R. Narasimha"
-    affiliation "Nan"
-    research "continuous-time development, continuous-time random process, discrete-time continuous-dilation"
+    label "Venkatramana G. Ajjanagadde"
+    affiliation "Univ. of Pennsylvania, Philadelphia"
+    research "reasoning system, knowledge representation, variable binding problem"
   ]
   node [
     id 13
-    label "C. S. Vemuru"
-    affiliation "Nan"
-    research "XTV feature, CoReview chairman, interactive document"
+    label "Ting Chen"
+    affiliation "School of Computer Science, Northwestern Polytechnical University, China"
+    research "image structure, Dynamic Compressive Tracking algorithm, Dynamic Compressive TrackingReal-Time Compressive"
   ]
   node [
     id 14
-    label "M. Levitt"
-    affiliation "Department of Structural Biology, Stanford University, Stanford, CA"
-    research "protein folding, protein structure, ab initio protein folding"
+    label "Alexandre X. Falc&#227;o"
+    affiliation "Nan"
+    research "shell rendering, volume rendering, extended-shell rendering"
   ]
   node [
     id 15
-    label "C Michael Overstreet"
-    affiliation "Computer Science Department, University of Alabama, University, AL"
-    research "model specification, interactive simulation, software resource"
+    label "C. Meyer"
+    affiliation "Nan"
+    research "guarded fragment, first-order logic, multi-modal logic"
   ]
   node [
     id 16
-    label "K. Maly"
-    affiliation "Nan"
-    research "IRI system, LDM system, interactive remote instruction"
+    label "Celina Zofia Imielinska"
+    affiliation "Columbia University, New York"
+    research "pressure sensor, lung deformation, lung dynamic"
   ]
   node [
     id 17
-    label "Dale Greenley"
-    affiliation "SPARC Technology, Sun Microsystems, Inc, 2550 Garcia Avenue, Mountain View, CA"
-    research "64-bit SPARC V9 architecture, SPARC processor, high performance"
+    label "Dimitri Metaxas"
+    affiliation "Rutgers University"
+    research "range data, expression flow, visual data"
   ]
   node [
     id 18
-    label "K J Maly"
-    affiliation "Computer Science Department, Old Dominion University, Norfolk, Virginia and Computer Science Department, University of Minnesota, Minneapolis, MN"
-    research "digital library, data stream, accessible digital library"
+    label "R. Reynolds"
+    affiliation "Centre for Excellence in Teaching and Learning through Design (CETLD), Victoria and Albert Museum, Cromwell Road, South Kensington, London SW7 2RL, United Kingdom"
+    research "Web-based museum, university-level design student, museum environment"
   ]
   node [
     id 19
-    label "Hussein M. Abdel-Wahab"
-    affiliation "Graduate Sch. of Inf. Sci. &#38; Technol., Tokyo Univ., Japan"
-    research "multicast group, group key, idealized system"
+    label "K. D. Toennies"
+    affiliation "OttovonGuerickeUniversit&#228;t Magdeburg, Germany"
+    research "seismic data, complex shape, segmentation result"
   ]
   edge [
     source 0
-    target 15
+    target 3
     relation "collaborate"
   ]
   edge [
     source 0
-    target 11
+    target 1
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 0
+    source 1
     target 18
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 13
+    source 1
+    target 16
     relation "collaborate"
   ]
   edge [
     source 1
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 7
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -186,327 +156,122 @@ graph [
   ]
   edge [
     source 1
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 6
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 14
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 1
     target 7
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 1
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 15
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 5
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 1
     target 12
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 2
     target 18
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 3
     target 11
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 5
     target 10
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
+    source 6
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 13
+    source 6
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 15
+    source 8
     target 18
     relation "collaborate"
   ]
   edge [
-    source 16
+    source 9
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 19
     relation "collaborate"
   ]
   edge [
-    source 18
-    target 19
+    source 13
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
     relation "collaborate"
   ]
 ]

@@ -1,56 +1,42 @@
-Pinar Boyraz	Kazuya Takeda	{'relation': 'collaborate'}
-Pinar Boyraz	Chiyomi Miyajima	{'relation': 'collaborate'}
-N. Kitaoka	K. Takeda	{'relation': 'collaborate'}
-N. Kitaoka	Chiyomi Miyajima	{'relation': 'collaborate'}
-Norihide Kitaoka	Kazuya Takeda	{'relation': 'collaborate'}
-Norihide Kitaoka	Chiyomi Miyajima	{'relation': 'collaborate'}
-Norihide Kitaoka	Katunobu Itou	{'relation': 'collaborate'}
-Norihide Kitaoka	Takanobu Nishiura	{'relation': 'collaborate'}
-Norihide Kitaoka	Satoshi Nakamura	{'relation': 'collaborate'}
-Norihide Kitaoka	Takanori Nishino	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Shigeki Matsubara	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Katunobu Itou	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Kazuya Takeda	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Fumitada Itakura	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Hiroshi Fujimura	{'relation': 'collaborate'}
-Nobuo Kawaguchi	Chiyomi Miyajima	{'relation': 'collaborate'}
-Takanori Nishino	Hiroshi Fujimura	{'relation': 'collaborate'}
-Takanori Nishino	Chiyomi Miyajima	{'relation': 'collaborate'}
-Takanori Nishino	Tomoyuki Nishita	{'relation': 'collaborate'}
-Takanori Nishino	Fumitada Itakura	{'relation': 'collaborate'}
-Takanori Nishino	Yoshinori Dobashi	{'relation': 'collaborate'}
-Takanori Nishino	Kazuya Takeda	{'relation': 'collaborate'}
-Takanori Nishino	Kei Iwasaki	{'relation': 'collaborate'}
-Takanori Nishino	Katunobu Itou	{'relation': 'collaborate'}
-Takanori Nishino	Weifeng Li	{'relation': 'collaborate'}
-Yoshinori Dobashi	Kei Iwasaki	{'relation': 'collaborate'}
-Yoshinori Dobashi	Tomoyuki Nishita	{'relation': 'collaborate'}
-Kazuya Takeda	Chiyomi Miyajima	{'relation': 'collaborate'}
-Kazuya Takeda	Weifeng Li	{'relation': 'collaborate'}
-Kazuya Takeda	Hiroshi Fujimura	{'relation': 'collaborate'}
-Kazuya Takeda	Satoshi Nakamura	{'relation': 'collaborate'}
-Kazuya Takeda	Katunobu Itou	{'relation': 'collaborate'}
-Kazuya Takeda	Fumitada Itakura	{'relation': 'collaborate'}
-Kazuya Takeda	Takanobu Nishiura	{'relation': 'collaborate'}
-Kazuya Takeda	Shigeki Matsubara	{'relation': 'collaborate'}
-Chiyomi Miyajima	K. Takeda	{'relation': 'collaborate'}
-Chiyomi Miyajima	Fumitada Itakura	{'relation': 'collaborate'}
-Chiyomi Miyajima	Satoshi Nakamura	{'relation': 'collaborate'}
-Chiyomi Miyajima	Weifeng Li	{'relation': 'collaborate'}
-Chiyomi Miyajima	Takanobu Nishiura	{'relation': 'collaborate'}
-Chiyomi Miyajima	Heiga Zen	{'relation': 'collaborate'}
-Chiyomi Miyajima	Hiroshi Fujimura	{'relation': 'collaborate'}
-Chiyomi Miyajima	Tadashi Kitamura	{'relation': 'collaborate'}
-Chiyomi Miyajima	Katunobu Itou	{'relation': 'collaborate'}
-Tadashi Kitamura	Heiga Zen	{'relation': 'collaborate'}
-Kei Iwasaki	Tomoyuki Nishita	{'relation': 'collaborate'}
-Weifeng Li	Katunobu Itou	{'relation': 'collaborate'}
-Weifeng Li	Fumitada Itakura	{'relation': 'collaborate'}
-Weifeng Li	Hiroshi Fujimura	{'relation': 'collaborate'}
-Fumitada Itakura	Hiroshi Fujimura	{'relation': 'collaborate'}
-Fumitada Itakura	Shigeki Matsubara	{'relation': 'collaborate'}
-Fumitada Itakura	Katunobu Itou	{'relation': 'collaborate'}
-Hiroshi Fujimura	Shigeki Matsubara	{'relation': 'collaborate'}
-Hiroshi Fujimura	Katunobu Itou	{'relation': 'collaborate'}
-Takanobu Nishiura	Satoshi Nakamura	{'relation': 'collaborate'}
-Shigeki Matsubara	Katunobu Itou	{'relation': 'collaborate'}
+Peter Kopacek	C. E. Pedreira	{'relation': 'collaborate'}
+Tony Larsson	C. E. Pedreira	{'relation': 'collaborate'}
+Tony Larsson	Flávio R. Wagner	{'relation': 'collaborate'}
+Tony Larsson	Ivan Müller	{'relation': 'collaborate'}
+Tony Larsson	Luigi Carro	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	C. E. Pedreira	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	L. Carro	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	Flávio R. Wagner	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	Lisane Brisolara	{'relation': 'collaborate'}
+Marcio F.  da S. Oliveira	Franz J. Rammig	{'relation': 'collaborate'}
+Bran Selic	K. Nilsen	{'relation': 'collaborate'}
+Bran Selic	C. E. Pedreira	{'relation': 'collaborate'}
+Bran Selic	Douglas Schmidt	{'relation': 'collaborate'}
+Douglas Schmidt	C. E. Pedreira	{'relation': 'collaborate'}
+Douglas Schmidt	K. Nilsen	{'relation': 'collaborate'}
+A. H. Frigeri	C. E. Pedreira	{'relation': 'collaborate'}
+Y. Zorian	Paolo Prinetto	{'relation': 'collaborate'}
+Y. Zorian	C. E. Pedreira	{'relation': 'collaborate'}
+Y. Zorian	Octávio P. Dias	{'relation': 'collaborate'}
+Y. Zorian	I. C. Teixeira	{'relation': 'collaborate'}
+Luigi Carro	C. E. Pedreira	{'relation': 'collaborate'}
+Luigi Carro	Flávio R. Wagner	{'relation': 'collaborate'}
+Paolo Prinetto	Octávio P. Dias	{'relation': 'collaborate'}
+Paolo Prinetto	C. E. Pedreira	{'relation': 'collaborate'}
+Paolo Prinetto	I. C. Teixeira	{'relation': 'collaborate'}
+Ricardo J. Machado	C. E. Pedreira	{'relation': 'collaborate'}
+Ricardo J. Machado	Flávio R. Wagner	{'relation': 'collaborate'}
+C. E. Pedreira	Lisane Brisolara	{'relation': 'collaborate'}
+C. E. Pedreira	Franz J. Rammig	{'relation': 'collaborate'}
+C. E. Pedreira	Flávio R. Wagner	{'relation': 'collaborate'}
+C. E. Pedreira	I. C. Teixeira	{'relation': 'collaborate'}
+C. E. Pedreira	Danúbia B. Espíndola	{'relation': 'collaborate'}
+C. E. Pedreira	K. Nilsen	{'relation': 'collaborate'}
+C. E. Pedreira	Octávio P. Dias	{'relation': 'collaborate'}
+C. E. Pedreira	L. Carro	{'relation': 'collaborate'}
+C. E. Pedreira	Ivan Müller	{'relation': 'collaborate'}
+L. Carro	Flávio R. Wagner	{'relation': 'collaborate'}
+L. Carro	Lisane Brisolara	{'relation': 'collaborate'}
+L. Carro	Franz J. Rammig	{'relation': 'collaborate'}
+Lisane Brisolara	Flávio R. Wagner	{'relation': 'collaborate'}
+I. C. Teixeira	Octávio P. Dias	{'relation': 'collaborate'}
+Flávio R. Wagner	Franz J. Rammig	{'relation': 'collaborate'}

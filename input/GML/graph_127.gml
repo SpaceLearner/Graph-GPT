@@ -1,127 +1,127 @@
 graph [
   node [
     id 0
-    label "G. Zhang"
-    affiliation "Dept. of Biological &#38; Agricultural Engg, The University of Georgia, Athens, GA"
-    research "composite reconstruction metric, biomechanical stability, virtual craniofacial reconstruction"
+    label "Utkarsh Srivastava"
+    affiliation "Yahoo!, Inc."
+    research "data stream, continuous query, query processing"
   ]
   node [
     id 1
-    label "T. Yu"
-    affiliation "General Electric, USA"
-    research "comprehensive approach, systems level approach, perimeter protection"
+    label "Ravi Kumar"
+    affiliation "Jaypee Institute of Engineering &#38; Technology, India"
+    research "Clustering Algorithm, proposed algorithm, proposed algorithm work"
   ]
   node [
     id 2
-    label "C. Greco"
-    affiliation "Dipartimento di Automatica e Informatica, Politecnico di Torino, CENS (Centro Elaborazione Numerale del Segnale  CNR), Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
-    research "MUSMAR approachThe problem, MUSMAR self-tuner, acronym MUSMAR"
+    label "Ivan Kelly"
+    affiliation "Yahoo! Research"
+    research "system state, high performance, log abstraction"
   ]
   node [
     id 3
-    label "Xingfa Gu"
-    affiliation "Institute of Remote Sensing Applications, Chinese Academy of Sciences, Beijing, 100080, China"
-    research "hybrid method, atmospheric MTF, object-oriented method"
+    label "Mahadev Konar"
+    affiliation "hortonworks.com"
+    research "resource management infrastructure, shared register, ZooKeeper interface"
   ]
   node [
     id 4
-    label "L. D. Fink"
-    affiliation "Instructional Dev. Program, Oklahoma Univ., Norman, OK, USA"
-    research "research project, deep learning, higher level learning"
+    label "Darrell Long"
+    affiliation "Nan"
+    research "priority mechanism, small priority machine, token ring priority functionA"
   ]
   node [
     id 5
-    label "G. Doretto"
-    affiliation "Dept. of CS &#38; EE, West Virginia University, Morgantown, WV"
-    research "object class, context aware dictionary, contextual information"
+    label "Bikas Saha"
+    affiliation "hortonworks.com"
+    research "resource management infrastructure, Apache Hadoop, Apache Hadoop YARN"
   ]
   node [
     id 6
-    label "C. Weiss"
-    affiliation "Nan"
-    research "Asynchronous Learning Module Development, Better Student Learning, deep learning"
+    label "Alexander Shraer"
+    affiliation "Google, Inc."
+    research "W storage, dynamic R, dynamic system"
   ]
   node [
     id 7
-    label "Q. D. Yang"
-    affiliation "Rockwell Scientific, 1049, Camino Do Rios, Thousand Oaks, CA"
-    research "cohesive zone model, solder joint, cyclic loading"
+    label "Benjamin Reed"
+    affiliation "osmeta, Inc."
+    research "system state, high performance, log abstraction"
   ]
   node [
     id 8
-    label "R. Nevatia"
-    affiliation "Nan"
-    research "evidence feature, Expandable Bayesian network, object description"
+    label "Ashish Chawla"
+    affiliation "Yahoo! Inc"
+    research "group recommendation, central item, front-end server"
   ]
   node [
     id 9
-    label "Reiner Hegerl"
-    affiliation "Nan"
-    research "Steerable Pyramid Denoising, Electron Tomographic Reconstructions, Three-Dimensional Electron MicroscopyElectron tomography"
+    label "Santhosh Srinivasan"
+    affiliation "Yahoo! Inc., Sunnyvale, CA"
+    research "Hadoop workflow management system, conventional workflow management tool, scalable workflow management system"
   ]
   node [
     id 10
-    label "Peter Tu"
-    affiliation "General Electric, USA"
-    research "search image, facial image, training data"
+    label "Shlomo Moran"
+    affiliation "Department of Computer Science, Technion, Haifa 32000, Israel and AT&#38;T Bell Labs at Murray Hill and CWI, Amsterdam"
+    research "convex coloring, convex recoloring, admissible run"
   ]
   node [
     id 11
-    label "Kwei-Jay Lin"
-    affiliation "Nan"
-    research "air traffic control system, concurrency control, concurrency control manager"
+    label "Sanjay Radia"
+    affiliation "hortonworks.com"
+    research "resource management infrastructure, Apache Hadoop, Apache Hadoop YARN"
   ]
   node [
     id 12
-    label "Daesik Hong"
-    affiliation "Nan"
-    research "advanced peak, successive peak, new weighting coefficient"
+    label "Flavio Junqueira"
+    affiliation "Yahoo! Research, Barcelona, Spain"
+    research "high performance, system state, high availability"
   ]
   node [
     id 13
-    label "B. Zhang"
-    affiliation "Physics School, Peking University, 100871 Beijing, China"
-    research "injection current, Microfluidic cooling, 2-GAFIBM milling rate"
+    label "Randal C. Burns"
+    affiliation "IEEE"
+    research "file system, large data set, data management"
   ]
   node [
     id 14
-    label "Nils Krahnstoever"
-    affiliation "General Electric Global Research, Niskayuna, NY"
-    research "visual human motion tracking, RFID-based object tracking, human motion tracking"
+    label "Pramod Bhatotia"
+    affiliation "Max Planck Institute for Software Systems, Saarbr&#252;cken, Germany"
+    research "data center, large-scale data, processing job"
   ]
   node [
     id 15
-    label "Z. Tang"
-    affiliation "Nan"
-    research "nested loop, Control Mechanism, efficient nested control mechanism"
+    label "Flavio Paiva Junqueira"
+    affiliation "Microsoft Research, Cambridge, United Kingdom"
+    research "search engine, Web search engine, query log"
   ]
   node [
     id 16
-    label "T. Stockhammer"
-    affiliation "Nomor Res., Bergen, Germany"
-    research "wireless video application, AVC video, video bit stream"
+    label "Mohammad Al-Fares"
+    affiliation "University of California, San Diego, La Jolla, CA, USA"
+    research "data center, data center network, UCSD Triton network architecture"
   ]
   node [
     id 17
-    label "Hrvoje Jenka&#269;"
-    affiliation "Institute for Communications Engineering, Munich University of Technology, Munich, Germany"
-    research "video stream, scalable video coding, wireless video"
+    label "Ken Yocum"
+    affiliation "U.C. San Diego and Illumina, Inc."
+    research "data fidelity, multiple data center, unstructured data"
   ]
   node [
     id 18
-    label "Mark Yeary"
-    affiliation "The University of Oklahoma"
-    research "shift-add network, MRCM problem, weather radar polarimetry"
+    label "Edward G. Chron"
+    affiliation "IBM Research Division, Almaden Research Center, 650 Harry Road, San Jose, California 95120"
+    research "autonomic systemsStatically, autonomic tuning, general method"
   ]
   node [
     id 19
-    label "Dennis Chen"
-    affiliation "SPARC Technology, Sun Microsystems, Inc, 2550 Garcia Avenue, Mountain View, CA"
-    research "UltraSPARC microprocessor, UltraSPARC microprocessorThe overall verification, 64-bit SPARC V9 architecture"
+    label "Sharad Agarwal"
+    affiliation "MSR Redmond"
+    research "mesh network, ad-hoc network, cellular network"
   ]
   edge [
     source 0
-    target 4
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -131,37 +131,7 @@ graph [
   ]
   edge [
     source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -170,68 +140,53 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 11
+    source 2
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 2
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 1
+    source 3
     target 5
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 2
+    source 3
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 6
+    source 3
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
+    source 3
+    target 11
     relation "collaborate"
   ]
   edge [
     source 4
-    target 6
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -241,37 +196,102 @@ graph [
   ]
   edge [
     source 5
-    target 14
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
     relation "collaborate"
   ]
   edge [
     source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 16
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 7
     target 17
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 10
+    source 7
     target 14
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 15
     relation "collaborate"
   ]
 ]

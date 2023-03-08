@@ -1,142 +1,137 @@
 graph [
   node [
     id 0
-    label "Richard G. Rozier"
-    affiliation "Nan"
-    research "hybrid CMOS-SEED, diode optical receiver, free-space optical interconnection scheme"
+    label "Charles L. A. Clarke"
+    affiliation "School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada"
+    research "information retrieval, information retrieval evaluation, secondary retrieval step"
   ]
   node [
     id 1
-    label "R. Oettel"
-    affiliation "Nan"
-    research "optoelectronic device, large-scale ICs, CMOS VLSI circuit"
+    label "Aaron Spaulding"
+    affiliation "SRI International, Menlo Park, CA"
+    research "declarative knowledge base, knowledge base, science textbook"
   ]
   node [
     id 2
-    label "O. Torudbakken"
-    affiliation "SUN Microsystems, Oslo, Norway"
-    research "static assignment, VM Migration, dynamic assignment"
+    label "Xing Dong Yang"
+    affiliation "University of Alberta, Edmonton, Canada"
+    research "mobile device, A-coord input, magic finger"
   ]
   node [
     id 3
-    label "Sadik C. Esener"
-    affiliation "University of California, San Diego"
-    research "optical transpose interconnection system, optical interconnects, 3-D optoelectronic neural system"
+    label "Jennifer Gluck"
+    affiliation "University of British Columbia, Vancouver, BC, Canada"
+    research "large music collection, haptic mapping, symbolic haptic rendering"
   ]
   node [
     id 4
-    label "Ashok Venketaraman Krishnamoorthy"
-    affiliation "Oracle Labs"
-    research "point-to-point network, free-space optical interconnects, optical communication"
+    label "Pourang Irani"
+    affiliation "IEEE"
+    research "mobile device, interaction technique, geon diagram"
   ]
   node [
     id 5
-    label "R. Farbarik"
-    affiliation "Nan"
-    research "optoelectronic device, area pad buffer, area pad power analysis"
+    label "John S. Whissell"
+    affiliation "David R. Cheriton School of Computer Science, University of Waterloo, Waterloo, Canada N2L 3G1"
+    research "true label, clustering method, clustering algorithm"
   ]
   node [
     id 6
-    label "Philippe J. Marchand"
-    affiliation "Optical Micro Machines, San Diego, CA 92121, USA"
-    research "optical transpose interconnection system, 4-f imaging system, channel system"
+    label "Roberta M. Melvin"
+    affiliation "University of Manitoba, Winnipeg, Canada"
+    research "networked technology, work practice, work purpose"
   ]
   node [
     id 7
-    label "Dinesh Patil"
-    affiliation "Oracle"
-    research "probe station, probe station selection, energy efficiency"
+    label "Mirette Marzouk"
+    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, 200 University Avenue West, N2L 3G1, Waterloo, ON, Canada"
+    research "video query processing, ground-truthed corpus, video data"
   ]
   node [
     id 8
-    label "Eric Chang"
-    affiliation "Oracle Labs"
-    research "Large-Scale Computer SystemsOptical interconnects, Silicon Photonic Interconnects, area budget"
+    label "Benjamin Lafreniere"
+    affiliation "University of Waterloo, Waterloo, ON, Canada"
+    research "user community, software usability, usability issue"
   ]
   node [
     id 9
-    label "Alex Chung Hen Chow"
-    affiliation "Sun Microsystems Laboratories, USA"
-    research "Large-Scale Computer, Dynamic Cache, coupling capacitance"
+    label "Cristina Conati"
+    affiliation "Istituto per la Ricerca Scientifica e Tecnologica, Italy"
+    research "user model, student model, individual user"
   ]
   node [
     id 10
-    label "K. W. Goossen"
-    affiliation "Nan"
-    research "dense-WDMWe present AMOEBA, optoelectronic switch, semiconductorThe AMOEBA chip"
+    label "George Labahn"
+    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, UST Lille, 59655, Waterloo, ON, Canada"
+    research "input matrix, fraction-free algorithm, new algorithm"
   ]
   node [
     id 11
-    label "Frankie Liu"
-    affiliation "Oracle"
-    research "asynchronous circuit, asynchronous circuitsOn-chip high-bandwidth, asynchronous signal"
+    label "Giuseppe Carenini"
+    affiliation "University of British Columbia, Vancouver, B.C. Canada"
+    research "evaluative argument, interactive AVs, real user"
   ]
   node [
     id 12
-    label "J. E. Cunningham"
-    affiliation "Oracle"
-    research "Lester C. Thurow, Knowledge-Based Economy, Large-Scale Computer"
+    label "Edward Lank"
+    affiliation "University of Waterloo, Waterloo, Ontario, Canada"
+    research "spatial correspondence, surface B, smartphone screen"
   ]
   node [
     id 13
-    label "Mikko H. Lipasti"
-    affiliation "IEEE"
-    research "value locality, overall performance, memory consistency model"
+    label "Will Haines"
+    affiliation "SRI International, Menlo Park, CA, USA"
+    research "end user, new approach, artificial intelligence"
   ]
   node [
     id 14
-    label "D. A. B. Miller"
-    affiliation "Nan"
-    research "VLSI circuitsThe AMOEBA chip, dense-WDMWe present AMOEBA, optoelectronic switch"
+    label "Michael Terry"
+    affiliation "University of Waterloo, Waterloo, ON, Canada"
+    research "Side Views, Textured agreement, creativity support tool"
   ]
   node [
     id 15
-    label "J. A. Walker"
-    affiliation "Nan"
-    research "dense-WDMWe present AMOEBA, optoelectronic switch, semiconductorThe AMOEBA chip"
+    label "Per-Ola Kristensson"
+    affiliation "University of St Andrews"
+    research "user study, text entry evaluation, text entry method"
   ]
   node [
     id 16
-    label "Fouad Eskender Kiamilev"
-    affiliation "Department Electrical and Computer Engineering, University of Delaware, Newark, DE"
-    research "free-space optical interconnects, diode optical receiver, free-space optical interconnection scheme"
+    label "Carl A. Gutwin"
+    affiliation "Univerity of Saskatchewan"
+    research "groupware system, group awareness, real-time groupware"
   ]
   node [
     id 17
-    label "Chia-Hsin Owen Chen"
-    affiliation "Institute of Information Science, Academia Sinica, Taipei, Taiwan"
-    research "authentic public key, GAnGS system, multivariate public key cryptosystems"
+    label "Andrea Bunt"
+    affiliation "David R. Cheriton School of Computer Science, University of Waterloo, Waterloo, ON, Canada"
+    research "user community, A-coord input, adaptive support"
   ]
   node [
     id 18
-    label "Uzi Efron"
-    affiliation "Nan"
-    research "3-D computer, architectureSpatial Light Modulator Technology, optical interconnects"
+    label "Andrew J. G. Cockburn"
+    affiliation "Department of Computing Science, Stirling University, STIRLING, Scotland, FK9 4LA"
+    research "spatial memory, user performance, user interface"
   ]
   node [
     id 19
-    label "I. Shubin"
-    affiliation "Oracle Labs"
-    research "efficient communication infrastructure, integrated photonic device, optical communication"
+    label "Richard Mann"
+    affiliation "Cardinal Health, USA"
+    research "motion parallax, image motion, motion boundary"
   ]
   edge [
     source 0
-    target 4
+    target 5
     relation "collaborate"
   ]
   edge [
     source 0
-    target 10
+    target 17
     relation "collaborate"
   ]
   edge [
     source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 15
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -145,23 +140,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 12
+    source 1
+    target 15
     relation "collaborate"
   ]
   edge [
     source 1
-    target 16
+    target 13
     relation "collaborate"
   ]
   edge [
     source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -171,27 +161,17 @@ graph [
   ]
   edge [
     source 2
-    target 12
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 2
     target 16
     relation "collaborate"
   ]
   edge [
     source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -201,12 +181,7 @@ graph [
   ]
   edge [
     source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -215,78 +190,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 6
+    source 5
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 5
     target 14
     relation "collaborate"
   ]
   edge [
     source 5
-    target 16
+    target 8
     relation "collaborate"
   ]
   edge [
     source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -296,37 +216,47 @@ graph [
   ]
   edge [
     source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 19
     relation "collaborate"
   ]
   edge [
     source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
+    target 17
     relation "collaborate"
   ]
   edge [
     source 9
-    target 12
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -336,17 +266,17 @@ graph [
   ]
   edge [
     source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
+    target 17
     relation "collaborate"
   ]
   edge [
     source 12
-    target 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -355,28 +285,53 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 19
+    source 13
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 14
+    source 13
     target 15
     relation "collaborate"
   ]
   edge [
     source 14
-    target 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 19
     relation "collaborate"
   ]
   edge [
     source 15
-    target 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

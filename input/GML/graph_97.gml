@@ -1,192 +1,197 @@
 graph [
   node [
     id 0
-    label "R. B. Dewar"
-    affiliation "Ada Core Technologies, New York"
-    research "programming language, Ada gem, Ada language"
+    label "Weichang Shen"
+    affiliation "Nan"
+    research "OpenMPprogramming model, Columnwise Block-Striped Decomposition, Matrix Multiplication"
   ]
   node [
     id 1
-    label "Yoseph Bar-Cohen"
+    label "Feng Si"
     affiliation "Nan"
-    research "artificial muscle, science fiction, artificial intelligence"
+    research "control message, information security, security need"
   ]
   node [
     id 2
-    label "Alvaro E. Campos"
-    affiliation "Departamento de Ciencia de la Computaci&#243;n, Pontificia Universidad Cat&#243;lica de Chile, Casilla 306, Santiago 22, Chile"
-    research "sequential consistency, efficient implementation, causally consistent protocol"
+    label "Ye Zhao"
+    affiliation "Kent State University"
+    research "flow field, flow simulation, air flow"
   ]
   node [
     id 3
-    label "Jeffrey Korn"
-    affiliation "AT&#38;T LabsResearch"
-    research "visualization technique, Graph Sketches, graph sketch"
+    label "Yan Xiang"
+    affiliation "Electronic Engineering Department, Tsinghua University, Beijing, China"
+    research "face recognition, automatic face recognition system, recognition part"
   ]
   node [
     id 4
-    label "Gary Lindstrom"
-    affiliation "Univ. of Pittsburgh, Pittsburgh, PA"
-    research "functional language, memory model, functional programming language"
+    label "Guangda Su"
+    affiliation "Nan"
+    research "appropriate deformation graph, deformation graph, pre-estimated rigidity"
   ]
   node [
     id 5
-    label "Paulo J. Santos"
-    affiliation "Bell Laboratories, Lucent Technologies, 200 Laurel Avenue, Middletown, NJ"
-    research "video recording, event stream, mental chunk"
+    label "Guoqing Zhang"
+    affiliation "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 637553"
+    research "uneven terrain, agile walking, uneven terrain walking"
   ]
   node [
     id 6
-    label "Mukund Raghavachari"
-    affiliation "Nan"
-    research "multipacket routing, randomized algorithm"
+    label "Fan Xiangning"
+    affiliation "Institute of RF&#38;OEICs, School of Information Science and Engineering, Southeast University, Nanjing, China"
+    research "tail current source, cluster head, multihop-LEACH protocol"
   ]
   node [
     id 7
-    label "Howard J. Larsen"
-    affiliation "Nan"
-    research "Ada tasking, Adam compiler, Adam parallel processing"
+    label "Xianfu Lei"
+    affiliation "Inst. of Mobile Communications, Southwest Jiaotong University, Chengdu, Sichuan, China"
+    research "outage probability, spectrum efficiency, a-stable clutter"
   ]
   node [
     id 8
-    label "G. David Ripley"
-    affiliation "The University of Arizona, Tucson, Arizona"
-    research "Simple LR, measurement data, syntax error"
+    label "Jing Yang"
+    affiliation "Nan"
+    research "Random InputsAn efficient solver, Differential Equations, Efficient Solver"
   ]
   node [
     id 9
-    label "James F Gimpel"
-    affiliation "Bell Telephone Laboratories, Holmdel, NJ"
-    research "discrete pattern, graphical problem, maximum-matching problem"
+    label "Chuan Fu"
+    affiliation "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P.R. China"
+    research "existing Internet architecture, Internet-based economy, Internet Content Provider"
   ]
   node [
     id 10
-    label "Fredrick C. Druseikis"
-    affiliation "Bell Laboratories, Holmdel, NJ 07733, U.S.A."
-    research "Simple LR, SL5 procedure, procedure mechanism"
+    label "Xinyu Liu"
+    affiliation "Northeastern University and Baoshan Iron &#38; Steel Co., Ltd"
+    research "agile manufacturing, customer-driven manufacturing system, efficient agile manufacturing system"
   ]
   node [
     id 11
-    label "David R. Hanson"
-    affiliation "Microsoft Research, 1 Microsoft Way, Redmond, WA"
-    research "programming language, data structure, dynamic scope"
+    label "Jing He"
+    affiliation "Department of Computer Science, Old Dominion University"
+    research "potential energy function, decoy set, key block"
   ]
   node [
     id 12
-    label "Keith R. Merkel"
+    label "Zheng Hao"
     affiliation "Nan"
-    research "pointer variable, error checking, error condition"
+    research "web page, different browser, overall design framework"
   ]
   node [
     id 13
-    label "R E. Griswold"
-    affiliation "Bell Telephone Laboratories, Inc., Holmdel, New Jersey"
-    research "programming language, SNOBOL language, Icon programming language"
+    label "Congcong Li"
+    affiliation "Cornell University, USA"
+    research "contextual information, proposed cue, unlabeled region"
   ]
   node [
     id 14
-    label "Mary F. Fernandez"
-    affiliation "AT&#38;T Research"
-    research "data source, semistructured data, relational data"
+    label "Nishant Sinha"
+    affiliation "IBM Research, India"
+    research "concurrent program, software system, large number"
   ]
   node [
     id 15
-    label "Brian K. Reid"
-    affiliation "Stanford Univ., Stanford, CA"
-    research "text editing, text manipulation, text manipulationThis"
+    label "Jia-Dong Ren"
+    affiliation "Nan"
+    research "memory space, algorithm MFPBI, memory consumption"
   ]
   node [
     id 16
-    label "Christopher W. Fraser"
-    affiliation ", Seattle, USA"
-    research "code generator, assembly code, good code"
+    label "Yingchun Li"
+    affiliation "Nan"
+    research "Transmission Performance, next-generation passive optical network, optical OFDM signal"
   ]
   node [
     id 17
-    label "Norman Ramsey"
-    affiliation "Tufts University, Medford, USA"
-    research "target machine, intermediate code, program committee"
+    label "Yansheng Lu"
+    affiliation "College of Computer Scie. and Tech., Wuhan, Hubei 430074, China"
+    research "ProgramsSoftware testing, state-based class level testing, structural testing"
   ]
   node [
     id 18
-    label "J T Korb"
-    affiliation "The University of Arizona"
-    research "computational thinking, CSNET site, computational principle"
+    label "Yan Shang"
+    affiliation "Department of Electronics and Communication, Yanshan University, Hebei 066004, China"
+    research "texture image, Rotation Invariant Texture Classification, SVMA rotation invariant texture"
   ]
   node [
     id 19
-    label "Todd A. Proebsting"
-    affiliation "Microsoft Research, One Microsoft Way, Redmond, WA"
-    research "liquid software, code generator, mobile code"
+    label "Yanfang Ren"
+    affiliation "Nan"
+    research "design pattern, software design, Design PatternsDesign pattern"
   ]
   edge [
     source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
     target 8
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 1
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 10
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 16
     relation "collaborate"
   ]
   edge [
     source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
     target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -196,7 +201,7 @@ graph [
   ]
   edge [
     source 6
-    target 11
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -205,103 +210,43 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
     source 8
     target 11
     relation "collaborate"
   ]
   edge [
     source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 11
     target 14
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
+    source 8
     target 17
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 16
+    source 8
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -310,13 +255,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 17
-    relation "collaborate"
-  ]
-  edge [
     source 16
-    target 19
+    target 18
     relation "collaborate"
   ]
 ]

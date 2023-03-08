@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A. Thompson">
+      <data key="affiliation">Nan</data>
+      <data key="research">virtual task, real task, 3-D peg-in-hole task</data>
+    </node>
+    <node id="Bing Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">sudden cardiac death, 64-row multi-detector computed tomography, conventional coronary angiography</data>
+    </node>
+    <node id="S. J. Lederman">
+      <data key="affiliation">Queen's Univ., Kingston, Canada</data>
+      <data key="research">haptic classification, haptic recognition, virtual task</data>
+    </node>
+    <node id="V. Varadharajan">
+      <data key="affiliation">Robotics Inst., Pittsburgh</data>
+      <data key="research">deformable spring, different spring stiffness, helical spring</data>
+    </node>
+    <node id="George Kantor">
+      <data key="affiliation">Electrical Eng. Dept., Federal University of Rio de Janeiro, Brazil, Field Robotics Center, Robotics Institute, Carnegie Mellon University, Pittsburgh</data>
+      <data key="research">dynamically stable mobile robot, motion policy, integrated motion planning</data>
+    </node>
+    <node id="George D. Stetten">
+      <data key="affiliation">University of Pittsburgh / Carnegie Mellon University</data>
+      <data key="research">Sonic Flashlight, ultrasound image, virtual image</data>
+    </node>
+    <node id="Y. Yokokohji">
+      <data key="affiliation">IEEE</data>
+      <data key="research">encountered-type haptic device, proposed method, virtual object</data>
+    </node>
+    <node id="Joel Schuman">
+      <data key="affiliation">UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA, Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA</data>
+      <data key="research">proposed method, retinal OCT image, SD-OCT volume</data>
+    </node>
+    <node id="Roberta L. Klatzky">
+      <data key="affiliation">Department of Psychology, University of California, Santa Barbara, CA</data>
+      <data key="research">haptic feedback, virtual environment, virtual task</data>
+    </node>
+    <node id="Zack Butler">
+      <data key="affiliation">Computer Science Department, Rochester Institute of Technology, Rochester, NY 14623 USA</data>
+      <data key="research">binary sensor, different course, binary sensor model</data>
+    </node>
+    <node id="S. Salcudean">
+      <data key="affiliation">Nan</data>
+      <data key="research">variable compliance fine motion</data>
+    </node>
+    <node id="Sarjoun Skaff">
+      <data key="affiliation">Bossa Nova Robotics, Pittsburgh, PA, USA</data>
+      <data key="research">execution memory, short term memory, state estimation</data>
+    </node>
+    <node id="Robert H. Swendsen">
+      <data key="affiliation">CarnegieMellon Univ., Pittsburgh, PA</data>
+      <data key="research">weighted histogram analysis method, free energy, deformable spring</data>
+    </node>
+    <node id="Peter J. Berkelman">
+      <data key="affiliation">University of HawaiiManoa, Department of Mechanical Engineering, USA</data>
+      <data key="research">virtual task, real task, motion range</data>
+    </node>
+    <node id="Umashankar Nagarajan">
+      <data key="affiliation">Disney Research Pittsburgh, Pittsburgh, USA 15213</data>
+      <data key="research">dynamically stable mobile robot, motion policy, mobile robot</data>
+    </node>
+    <node id="Alfred A. Rizzi">
+      <data key="affiliation">Boston Dynamics, Inc., Waltham, MA, USA</data>
+      <data key="research">control policy, mechanical system, freedom robot</data>
+    </node>
+    <node id="R. L. Hollis">
+      <data key="affiliation">The Robotics Institute, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh, PA 15213</data>
+      <data key="research">dynamically stable mobile robot, haptic device, real texture</data>
+    </node>
+    <node id="M. W. Siegel">
+      <data key="affiliation">CarnegirMellon Univ., Pittsburgh, PA</data>
+      <data key="research">floor plan, actual sonar map, simulated sonar map</data>
+    </node>
+    <node id="Randy Lee">
+      <data key="affiliation">Department of Biomedical Engineering, Carnegie Mellon University</data>
+      <data key="research">magnifying force, Hand-held force magnifier, proportionally greater force</data>
+    </node>
+    <node id="R. Klatzky">
+      <data key="affiliation">Dept. of Psychology, Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">maximum roughness, force variability, haptic device</data>
+    </node>
+    <edge source="A. Thompson" target="S. J. Lederman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Thompson" target="Roberta L. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Thompson" target="Peter J. Berkelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Thompson" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="Joel Schuman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="M. W. Siegel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="Roberta L. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="George D. Stetten">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bing Wu" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. J. Lederman" target="Peter J. Berkelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. J. Lederman" target="Roberta L. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. J. Lederman" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. J. Lederman" target="R. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Varadharajan" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Varadharajan" target="R. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Varadharajan" target="Robert H. Swendsen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Kantor" target="Umashankar Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Kantor" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George D. Stetten" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George D. Stetten" target="Roberta L. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George D. Stetten" target="Joel Schuman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George D. Stetten" target="M. W. Siegel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George D. Stetten" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Yokokohji" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joel Schuman" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joel Schuman" target="Roberta L. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joel Schuman" target="M. W. Siegel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joel Schuman" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roberta L. Klatzky" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roberta L. Klatzky" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roberta L. Klatzky" target="M. W. Siegel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roberta L. Klatzky" target="Peter J. Berkelman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zack Butler" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zack Butler" target="Alfred A. Rizzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Salcudean" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sarjoun Skaff" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert H. Swendsen" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert H. Swendsen" target="R. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter J. Berkelman" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Umashankar Nagarajan" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alfred A. Rizzi" target="R. L. Hollis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. L. Hollis" target="M. W. Siegel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. L. Hollis" target="R. Klatzky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. L. Hollis" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. W. Siegel" target="Randy Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

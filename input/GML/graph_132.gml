@@ -1,157 +1,162 @@
 graph [
   node [
     id 0
-    label "Richard Buchanan"
-    affiliation "Case Western Reserve University, Cleveland, OH, USA"
-    research "communication design, interaction design process, live UI design"
+    label "Michele Rossi"
+    affiliation "Universit&#224; di Brescia, Dipartimento di Ingegneria dell'Informazione, Italy"
+    research "DSS Acceptability, User-Centered Design Methodology, methodology application"
   ]
   node [
     id 1
-    label "Angela Z. Wagner"
-    affiliation "Carnegie Mellon University, Pittsburgh, PA"
-    research "students game, student performance, Off-task behavior"
+    label "Chunhe Xia"
+    affiliation "Nan"
+    research "existing routing protocol, new routing protocol, routing problem"
   ]
   node [
     id 2
-    label "Elissa Darnell"
-    affiliation "eBay, Inc., San Jose, CA, USA"
-    research "user experience, user behavior, user need"
+    label "Chong Han"
+    affiliation "Nan"
+    research "GMPV algorithm, Maximal Frequent Itemsets, algorithm efficiency"
   ]
   node [
     id 3
-    label "Rajiv P. Mehta"
-    affiliation "Zume Life"
-    research "wicked problem, Reframing health, individual case data"
+    label "Qing Wei"
+    affiliation "DoCoMo Communication Laboratories Europe, Munich, Germany"
+    research "P2P search, mobile object tracking"
   ]
   node [
     id 4
-    label "F. RichardsonSmith"
-    affiliation "Nan"
-    research "design language, hypermedia cue"
+    label "Bernhard Plattner"
+    affiliation "NeuTechnikum Buchs, Buchs, Switzerland./ University of Zurich, 8057 Zurich, Switzerland."
+    research "network user, active network, anonymity network"
   ]
   node [
     id 5
-    label "W. Wulff"
-    affiliation "Fitch RichardsonSmith, Worthington OH"
-    research "system functionalities, design interface convention, design language"
+    label "Christian Prehofer"
+    affiliation "fortiss GmbH, Munich, Germany"
+    research "mobile network, mobile device, embedded system"
   ]
   node [
     id 6
-    label "Paul Burke"
-    affiliation "National Center for Forensic Science, University of Central Florida, Orlando, Florida, United States"
-    research "Digital Forensics, virtual environment, information technology research"
+    label "Mohsen Rais-Ghasem"
+    affiliation "Nan"
+    research "contextual effect, exemplar-based account"
   ]
   node [
     id 7
-    label "Paul Pangaro"
-    affiliation "CyberneticLifestyles.com"
-    research "computer animation, computer graphics, wicked problem"
+    label "J&#246;rg Widmer"
+    affiliation "Institute IMDEA Networks, Madrid, Spain"
+    research "network coding, cross-layer design, ad-hoc network"
   ]
   node [
     id 8
-    label "Jodi Forlizzi"
-    affiliation "HumanComputer Interaction Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA"
-    research "cognitive load, younger driver, haptic feedback"
+    label "Wolfgang Kellerer"
+    affiliation "Nan"
+    research "Web Enabled Telecommunication Service"
   ]
   node [
     id 9
-    label "John Skidgel"
-    affiliation "Adobe Systems, Inc."
-    research "Flash application, video application, Building Flash Video player"
+    label "Maximilian Michel"
+    affiliation "BauhausUniversit&#228;t, Weimar, Germany"
+    research "search engine, reference search engine, ClueWeb09 corpus"
   ]
   node [
     id 10
-    label "Ryan S. Baker"
-    affiliation "Worcester Polytechnic Institute, Department of Social Science and Policy Studies, 100 Institute Road, Worcester, MA 01609, USA"
-    research "intelligent tutoring system, students game, Off-task behavior"
+    label "Michele Zorzi"
+    affiliation "Consorzio Ferrara Ricerche (CFR), Ferrara, Italy"
+    research "underwater network, wireless sensor network, performance evaluation"
   ]
   node [
     id 11
-    label "Dan R. Olsen, Jr."
-    affiliation "Nan"
-    research ""
+    label "Norihiro Ishikawa"
+    affiliation "Network Management Development Department, NTT DoCoMo, Yokosuka, Japan 2398536"
+    research "mobile phone, mobile device, mobile terminal"
   ]
   node [
     id 12
-    label "Ido Roll"
-    affiliation "University of British Columbia, Canada"
-    research "Help Tutor, students game, help-seeking behavior"
+    label "Martin Petitclerc"
+    affiliation "IBM Canada Ltd., Ottawa, Ontario"
+    research "analytical process, analysis expert system, analysis framework"
   ]
   node [
     id 13
-    label "C. Rohrer"
-    affiliation "Eye square GmbH, Berlin, Germany and Humboldt Universit&#228;t zu Berlin, Seminar f&#252;r &#196;sthetik, Berlin, Germany and eBay User Experience Research, San Jose, CA"
-    research "user experience, online advertising, German LFG grammar"
+    label "Yongqiang Zhang"
+    affiliation "Rensselaer Polytechnic Institute"
+    research "structured motif, efficient algorithm, structured motif search"
   ]
   node [
     id 14
-    label "John L. Zimmerman"
-    affiliation "Carnegie Mellon University, Pittsburgh, PA"
-    research "design research, design process, interaction design"
+    label "K&#225;roly Farkas"
+    affiliation "Department of Telecommunications, Budapest University of Technology and Economics, Hungary and Institute of Informatics and Economics, University of West Hungary, Hungary"
+    research "wireless community network, wireless network, mobile device"
   ]
   node [
     id 15
-    label "Kenneth Koedinger"
-    affiliation "HumanComputer Interaction Institute,"
-    research "intelligent tutoring system, tutor learning, cognitive model"
+    label "A. Zanella"
+    affiliation "University of Calgary, Calgary, AB."
+    research "interface component, translucent interface component, single display groupware"
   ]
   node [
     id 16
-    label "J. Rheinfrank"
-    affiliation "Oracle Corporation, 500 Oracle Parkway, Redwood Shores, CA"
-    research "system functionalities, user interface, design interface convention"
+    label "Zoran Despotovic"
+    affiliation "DoCoMo Communications Laboratories Europe, Germany"
+    research "social network, International Workshop, Peer-to-Peer Computing"
   ]
   node [
     id 17
-    label "Irene Au"
-    affiliation "Google, Mountain View, CA, USA"
-    research "user experience, design team, effective strategies user experience"
+    label "Baoqing Jiang"
+    affiliation "Nan"
+    research "cross-media retrieval, Temporal-spatial Clustering, high-dimensional data"
   ]
   node [
     id 18
-    label "Joseph E. Beck"
-    affiliation "Computer Science Department, Wrcester Polytechnic Institute, Worcester, MA"
-    research "student performance, student modeling, student model"
+    label "Paulo Mendes"
+    affiliation "University Lus&#243;fona, Lisboa, Portugal"
+    research "Multi-user Session, QoS Mapping, User-provided network"
   ]
   node [
     id 19
-    label "S. Evenson"
-    affiliation "Microsoft FUSE Labs"
-    research "design approach, design language, interaction design research"
+    label "Jie Feng"
+    affiliation "Nan"
+    research "Adaptive Inter Mode Decision, Inter mode, estimated mode"
   ]
   edge [
     source 0
-    target 19
+    target 3
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 19
+    source 0
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
     target 10
     relation "collaborate"
   ]
   edge [
     source 1
-    target 18
+    target 3
     relation "collaborate"
   ]
   edge [
     source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 15
+    target 19
     relation "collaborate"
   ]
   edge [
     source 2
-    target 19
+    target 3
     relation "collaborate"
   ]
   edge [
@@ -160,7 +165,12 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 13
     relation "collaborate"
   ]
@@ -171,7 +181,77 @@ graph [
   ]
   edge [
     source 3
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -180,53 +260,83 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
+    source 5
+    target 18
     relation "collaborate"
   ]
   edge [
     source 5
-    target 16
+    target 8
     relation "collaborate"
   ]
   edge [
     source 5
-    target 19
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
     relation "collaborate"
   ]
   edge [
     source 6
-    target 19
+    target 12
     relation "collaborate"
   ]
   edge [
     source 7
-    target 19
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 19
+    source 7
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 15
     relation "collaborate"
   ]
   edge [
     source 8
-    target 14
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 19
+    source 8
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -235,83 +345,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
+    source 9
+    target 16
     relation "collaborate"
   ]
   edge [
     source 10
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
     relation "collaborate"
   ]
   edge [
     source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
+    target 16
     relation "collaborate"
   ]
   edge [
     source 14
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
     target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 18
-    target 19
     relation "collaborate"
   ]
 ]

@@ -1,43 +1,38 @@
-Montek Singh	Vishal Gupta	{'relation': 'collaborate'}
-Montek Singh	Gennette Gill	{'relation': 'collaborate'}
-Gennette Gill	Vishal Gupta	{'relation': 'collaborate'}
-Karsten Schwan	Paul Brett	{'relation': 'collaborate'}
-Karsten Schwan	D. A. Koufaty	{'relation': 'collaborate'}
-Karsten Schwan	Ganapati Srinivasa	{'relation': 'collaborate'}
-Karsten Schwan	Dheeraj Reddy	{'relation': 'collaborate'}
-Karsten Schwan	Min Lee	{'relation': 'collaborate'}
-Karsten Schwan	Vishal Gupta	{'relation': 'collaborate'}
-Karsten Schwan	Scott Hahn	{'relation': 'collaborate'}
-Karsten Schwan	Ripal Nathuji	{'relation': 'collaborate'}
-Vishal Gupta	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
-Vishal Gupta	Scott Hahn	{'relation': 'collaborate'}
-Vishal Gupta	Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
-Vishal Gupta	Paul Brett	{'relation': 'collaborate'}
-Vishal Gupta	Pulkit Parikh	{'relation': 'collaborate'}
-Vishal Gupta	Gopal Datt Joshi	{'relation': 'collaborate'}
-Vishal Gupta	K. Najeeb	{'relation': 'collaborate'}
-Vishal Gupta	Dheeraj Reddy	{'relation': 'collaborate'}
-Vishal Gupta	S. C. Sharma	{'relation': 'collaborate'}
-Vishal Gupta	Min Lee	{'relation': 'collaborate'}
-Vishal Gupta	D. A. Koufaty	{'relation': 'collaborate'}
-Vishal Gupta	V. Kamakoti	{'relation': 'collaborate'}
-Vishal Gupta	D. Bertsimas	{'relation': 'collaborate'}
-Vishal Gupta	Ganapati Srinivasa	{'relation': 'collaborate'}
-Vishal Gupta	Ripal Nathuji	{'relation': 'collaborate'}
-Vishal Gupta	Sitaram Ramachandrula	{'relation': 'collaborate'}
-Dheeraj Reddy	Ganapati Srinivasa	{'relation': 'collaborate'}
-Dheeraj Reddy	Scott Hahn	{'relation': 'collaborate'}
-Dheeraj Reddy	Paul Brett	{'relation': 'collaborate'}
-Dheeraj Reddy	D. A. Koufaty	{'relation': 'collaborate'}
-D. A. Koufaty	Ganapati Srinivasa	{'relation': 'collaborate'}
-D. A. Koufaty	Scott Hahn	{'relation': 'collaborate'}
-D. A. Koufaty	Paul Brett	{'relation': 'collaborate'}
-Paul Brett	Scott Hahn	{'relation': 'collaborate'}
-Paul Brett	Ganapati Srinivasa	{'relation': 'collaborate'}
-Gopal Datt Joshi	Pulkit Parikh	{'relation': 'collaborate'}
-Gopal Datt Joshi	Sitaram Ramachandrula	{'relation': 'collaborate'}
-Scott Hahn	Ganapati Srinivasa	{'relation': 'collaborate'}
-K. Najeeb	V. Kamakoti	{'relation': 'collaborate'}
-D. Bertsimas	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
-Pulkit Parikh	Sitaram Ramachandrula	{'relation': 'collaborate'}
-Ripal Nathuji	Min Lee	{'relation': 'collaborate'}
+Sebastian Provenzano	L. Vergara	{'relation': 'collaborate'}
+Sebastian Provenzano	F. J. Fuenmayor	{'relation': 'collaborate'}
+Sebastian Provenzano	Francklin Rivas	{'relation': 'collaborate'}
+Andres Camacho	Jorge Igual	{'relation': 'collaborate'}
+Andres Camacho	L. Vergara	{'relation': 'collaborate'}
+Andres Camacho	P. Bernabeu	{'relation': 'collaborate'}
+Andres Camacho	Raul Llinares	{'relation': 'collaborate'}
+L. Vergara	Jorge Moragues	{'relation': 'collaborate'}
+L. Vergara	Jorge Gosalbez	{'relation': 'collaborate'}
+L. Vergara	Antonio Soriano	{'relation': 'collaborate'}
+L. Vergara	J. Morales	{'relation': 'collaborate'}
+L. Vergara	Soledad Gomez	{'relation': 'collaborate'}
+L. Vergara	P. Bernabeu	{'relation': 'collaborate'}
+L. Vergara	Arturo Serrano	{'relation': 'collaborate'}
+L. Vergara	J. Sastre	{'relation': 'collaborate'}
+L. Vergara	V. Naranjo	{'relation': 'collaborate'}
+L. Vergara	Raul Llinares	{'relation': 'collaborate'}
+L. Vergara	Jorge Igual	{'relation': 'collaborate'}
+L. Vergara	Francklin Rivas	{'relation': 'collaborate'}
+L. Vergara	A. Rodríguez	{'relation': 'collaborate'}
+P. Bernabeu	Jorge Igual	{'relation': 'collaborate'}
+Jorge Moragues	Antonio Soriano	{'relation': 'collaborate'}
+Jorge Moragues	Kiel M Gilleade	{'relation': 'collaborate'}
+Jorge Moragues	Ana Cabrera	{'relation': 'collaborate'}
+Jorge Moragues	Areti Damala	{'relation': 'collaborate'}
+Jorge Moragues	Soledad Gomez	{'relation': 'collaborate'}
+Jorge Moragues	Jorge Gosalbez	{'relation': 'collaborate'}
+Kiel M Gilleade	Areti Damala	{'relation': 'collaborate'}
+Kiel M Gilleade	Ana Cabrera	{'relation': 'collaborate'}
+Arturo Serrano	Jorge Igual	{'relation': 'collaborate'}
+Arturo Serrano	Raul Llinares	{'relation': 'collaborate'}
+Arturo Serrano	Jorge Gosalbez	{'relation': 'collaborate'}
+F. J. Fuenmayor	Francklin Rivas	{'relation': 'collaborate'}
+Jorge Gosalbez	Raul Llinares	{'relation': 'collaborate'}
+Jorge Gosalbez	Jorge Igual	{'relation': 'collaborate'}
+J. Sastre	V. Naranjo	{'relation': 'collaborate'}
+Raul Llinares	Jorge Igual	{'relation': 'collaborate'}
+Areti Damala	Ana Cabrera	{'relation': 'collaborate'}

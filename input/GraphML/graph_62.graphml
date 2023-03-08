@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Timothy Wilson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Video Game Industry, video game, video game development</data>
+    </node>
+    <node id="Thomas Plum">
+      <data key="affiliation">Plum Hall, Inc., Kamuela, HI, USA</data>
+      <data key="research">formally-verifiable language, high-level modeling language, normal third-generation programming language</data>
+    </node>
+    <node id="Jianbo Zhang">
+      <data key="affiliation">Trident Microsystems, Inc., 2450 Walsh Ave., Santa Clara, CA</data>
+      <data key="research">depth precision, variable-resolution depth buffer, Quasi-linear depth buffer</data>
+    </node>
+    <node id="A. D. McGettrick">
+      <data key="affiliation">ACM, Glasgow, Scotland Uk</data>
+      <data key="research">computer science, ACM Education Board, computer engineering</data>
+    </node>
+    <node id="John Impagliazzo">
+      <data key="affiliation">ACM Inroads</data>
+      <data key="research">computer engineering, computing curriculum, Computing Curricula</data>
+    </node>
+    <node id="S. E. Conry">
+      <data key="affiliation">Clarkson Universiy, Potsdam, NY, USA</data>
+      <data key="research">Computer Engineering, cooperative problem, local decision</data>
+    </node>
+    <node id="Mitchell Aaron Thornton">
+      <data key="affiliation">University of Arkansas</data>
+      <data key="research">experimental result, logic circuit, combinational logic</data>
+    </node>
+    <node id="Jinjing Zhao">
+      <data key="affiliation">Beijing Institute of System Engineerring, Beijing, China and National Key Laboratory of Science and Technology on Information System Security, Beijing, China</data>
+      <data key="research">new heuristic method, fuzzing data generation, fuzzing data scale</data>
+    </node>
+    <node id="Yun Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">temporal resolution, TransmissionLayered video coding, coding result</data>
+    </node>
+    <node id="David Svoboda">
+      <data key="affiliation">Centre for Biomedical Image Analysis, Faculty of Informatics, Masaryk University, Brno, Czech Republic</data>
+      <data key="research">ground truth image, Java Coding Guidelines, biomedical image analysis</data>
+    </node>
+    <node id="Bei Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">reverse logistics, urban ITIS, green logistics</data>
+    </node>
+    <node id="Guofang Jiao">
+      <data key="affiliation">Sanei Co., Room 402, 31326 Kagamiyama, HigashiHiroshima, 7390046, Japan email: nakamae@sanei.co.jp, JP</data>
+      <data key="research">depth precision, variable-resolution depth buffer, video sequence image</data>
+    </node>
+    <node id="Hua Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Image Classification, visual descriptors, image feature</data>
+    </node>
+    <node id="Robert C. Seacord">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">Secure Coding, legacy system, software vulnerability</data>
+    </node>
+    <node id="Yan Wen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Energy Consumption, clinker cooler, clinker conveying</data>
+    </node>
+    <node id="Nicole Drechsler">
+      <data key="affiliation">Institute of Computer Science, University of Bremen, 28359 Bremen, Germany &lt;rfc822&gt;nd@informatik.unibremen.de&lt;/rfc822&gt;</data>
+      <data key="research">VLSI CAD, experimental result, search space</data>
+    </node>
+    <node id="Shujun Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">HU moment, YCbCr color space, current hand gesture method</data>
+    </node>
+    <node id="Michael A. Harper">
+      <data key="affiliation">Southern Methodist University</data>
+      <data key="research">disaster tolerance, systems engineering principal, systems perspective</data>
+    </node>
+    <node id="Jiping Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Geo-event ontology, different geographic information source, ontology construction</data>
+    </node>
+    <node id="Roger B. Dannenberg">
+      <data key="affiliation">Nan</data>
+      <data key="research">AIR Integer model, integer model, prototype AIR integer compiler</data>
+    </node>
+    <edge source="Timothy Wilson" target="Jianbo Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="Mitchell Aaron Thornton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="A. D. McGettrick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="S. E. Conry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="Roger B. Dannenberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="Guofang Jiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="Robert C. Seacord">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="David Svoboda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="John Impagliazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy Wilson" target="Thomas Plum">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Plum" target="Robert C. Seacord">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Plum" target="David Svoboda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Plum" target="Roger B. Dannenberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Jinjing Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Bei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Guofang Jiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Jiping Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Hua Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Shujun Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Yun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianbo Zhang" target="Yan Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. McGettrick" target="John Impagliazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. McGettrick" target="Mitchell Aaron Thornton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. McGettrick" target="S. E. Conry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Impagliazzo" target="S. E. Conry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Impagliazzo" target="Mitchell Aaron Thornton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. E. Conry" target="Mitchell Aaron Thornton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mitchell Aaron Thornton" target="Nicole Drechsler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mitchell Aaron Thornton" target="Michael A. Harper">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinjing Zhao" target="Yan Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinjing Zhao" target="Hua Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Liu" target="Shujun Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Svoboda" target="Robert C. Seacord">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Svoboda" target="Roger B. Dannenberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bei Wang" target="Jiping Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Chen" target="Yan Wen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert C. Seacord" target="Roger B. Dannenberg">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,28 +1,38 @@
-Stephen Edward Bricher	J Bebernes	{'relation': 'collaborate'}
-Stephen Edward Bricher	V. A. Galaktionov	{'relation': 'collaborate'}
-A. A. Samarskii	S. P. Kurdyumov	{'relation': 'collaborate'}
-A. A. Samarskii	V. A. Galaktionov	{'relation': 'collaborate'}
-L A Peletier	J L Vazquez	{'relation': 'collaborate'}
-L A Peletier	V. A. Galaktionov	{'relation': 'collaborate'}
-Simon Premože	Kirill Garanzha	{'relation': 'collaborate'}
-Simon Premože	V. A. Galaktionov	{'relation': 'collaborate'}
-Howard A. Levine	V. A. Galaktionov	{'relation': 'collaborate'}
-Kirill Garanzha	V. A. Galaktionov	{'relation': 'collaborate'}
-C. J. Budd	V. A. Galaktionov	{'relation': 'collaborate'}
-C. J. Budd	G. J. Collins	{'relation': 'collaborate'}
-N. I. V'yukova	V. A. Galaktionov	{'relation': 'collaborate'}
-Migual A. Herrero	M. Kindelan	{'relation': 'collaborate'}
-Migual A. Herrero	N. Bellomo	{'relation': 'collaborate'}
-Migual A. Herrero	J L Vazquez	{'relation': 'collaborate'}
-Migual A. Herrero	J. J. L. Velázquez	{'relation': 'collaborate'}
-Migual A. Herrero	V. A. Galaktionov	{'relation': 'collaborate'}
-Migual A. Herrero	J. J. Velasquez	{'relation': 'collaborate'}
-J. J. L. Velázquez	M. Kindelan	{'relation': 'collaborate'}
-J. J. L. Velázquez	V. A. Galaktionov	{'relation': 'collaborate'}
-V. A. Frolov	V. A. Galaktionov	{'relation': 'collaborate'}
-J Bebernes	V. A. Galaktionov	{'relation': 'collaborate'}
-G. J. Collins	V. A. Galaktionov	{'relation': 'collaborate'}
-Edward A. Kopylov	V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	V. A. Galaktionov	{'relation': 'collaborate'}
-S. P. Kurdyumov	V. A. Galaktionov	{'relation': 'collaborate'}
-J L Vazquez	V. A. Galaktionov	{'relation': 'collaborate'}
+Tony Field	Berc Rustem	{'relation': 'collaborate'}
+Tony Field	Peter Harrison	{'relation': 'collaborate'}
+Tony Field	Uli Harder	{'relation': 'collaborate'}
+Tony Field	Nalân Gülpinar	{'relation': 'collaborate'}
+Tony Field	Louis-Francois Pau	{'relation': 'collaborate'}
+Robert Fourer	G. Mitra	{'relation': 'collaborate'}
+E. Messina	G. Mitra	{'relation': 'collaborate'}
+E. Messina	C. Lucas	{'relation': 'collaborate'}
+E. Messina	S. A. MirHassani	{'relation': 'collaborate'}
+Gregory Gutin	G. Mitra	{'relation': 'collaborate'}
+Gregory Gutin	Istvan Maros	{'relation': 'collaborate'}
+Gregory Gutin	Nalân Gülpinar	{'relation': 'collaborate'}
+Gregory Gutin	A. Zverovitch	{'relation': 'collaborate'}
+Kenneth Darby-Dowman	G. Mitra	{'relation': 'collaborate'}
+Uli Harder	Nalân Gülpinar	{'relation': 'collaborate'}
+Uli Harder	Peter Harrison	{'relation': 'collaborate'}
+Uli Harder	Berc Rustem	{'relation': 'collaborate'}
+Uli Harder	Louis-Francois Pau	{'relation': 'collaborate'}
+Istvan Maros	Nalân Gülpinar	{'relation': 'collaborate'}
+Istvan Maros	G. Mitra	{'relation': 'collaborate'}
+Csaba I. Fábián	G. Mitra	{'relation': 'collaborate'}
+Louis-Francois Pau	Berc Rustem	{'relation': 'collaborate'}
+Louis-Francois Pau	Nalân Gülpinar	{'relation': 'collaborate'}
+Louis-Francois Pau	Peter Harrison	{'relation': 'collaborate'}
+H. Jones	G. Mitra	{'relation': 'collaborate'}
+H. Jones	D Parkinson	{'relation': 'collaborate'}
+Berc Rustem	Peter Harrison	{'relation': 'collaborate'}
+Berc Rustem	Nalân Gülpinar	{'relation': 'collaborate'}
+S. A. MirHassani	C. Lucas	{'relation': 'collaborate'}
+S. A. MirHassani	G. Mitra	{'relation': 'collaborate'}
+G. Mitra	D Parkinson	{'relation': 'collaborate'}
+G. Mitra	C. Lucas	{'relation': 'collaborate'}
+G. Mitra	Mehrdad Tamiz	{'relation': 'collaborate'}
+G. Mitra	Nalân Gülpinar	{'relation': 'collaborate'}
+G. Mitra	Nico Di Domenica	{'relation': 'collaborate'}
+G. Mitra	A. Zverovitch	{'relation': 'collaborate'}
+A. Zverovitch	Nalân Gülpinar	{'relation': 'collaborate'}
+Nalân Gülpinar	Peter Harrison	{'relation': 'collaborate'}

@@ -1,197 +1,197 @@
 graph [
   node [
     id 0
-    label "Young-Chul Kim"
-    affiliation "Department of Electronics and Computer Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 500757, Korea"
-    research "crosstalk delay, crosstalk-free codewords, genetic algorithm"
+    label "A. Thompson"
+    affiliation "Nan"
+    research "virtual task, real task, 3-D peg-in-hole task"
   ]
   node [
     id 1
-    label "James Newman"
+    label "Bing Wu"
     affiliation "Nan"
-    research "Routledge Introductions, Teaching Videogames, videogames industry"
+    research "sudden cardiac death, 64-row multi-detector computed tomography, conventional coronary angiography"
   ]
   node [
     id 2
-    label "Yoshihiro Okada"
-    affiliation "Nan"
-    research "Intelligent Box, medical training system, collaborative environment"
+    label "S. J. Lederman"
+    affiliation "Queen's Univ., Kingston, Canada"
+    research "haptic classification, haptic recognition, virtual task"
   ]
   node [
     id 3
-    label "Sung-Bae Cho"
-    affiliation "Human Inf. Process. Res. Lab., ATR, Kyoto"
-    research "multiple network, network output, fuzzy logic"
+    label "V. Varadharajan"
+    affiliation "Robotics Inst., Pittsburgh"
+    research "deformable spring, different spring stiffness, helical spring"
   ]
   node [
     id 4
-    label "Sang-Rok Oh"
-    affiliation "Intelligent Systems Control Research Center, Korea Institute of Science and Technology, P.O. Box 131 Cheongryang, Seoul, Korea/ email: cyj@amadeus.kist.re.kr"
-    research "humanoid robot, log-polar image, visual tracking"
+    label "George Kantor"
+    affiliation "Electrical Eng. Dept., Federal University of Rio de Janeiro, Brazil, Field Robotics Center, Robotics Institute, Carnegie Mellon University, Pittsburgh"
+    research "dynamically stable mobile robot, motion policy, integrated motion planning"
   ]
   node [
     id 5
-    label "Yong-Moo Kwon"
-    affiliation "Nan"
-    research "multimedia object, spatio-temporal constraint"
+    label "George D. Stetten"
+    affiliation "University of Pittsburgh / Carnegie Mellon University"
+    research "Sonic Flashlight, ultrasound image, virtual image"
   ]
   node [
     id 6
-    label "Kazuyoshi Korida"
-    affiliation "Dept. of Communication, Oita Pref. College of Arts and Culture, Oita 8700833, Japan"
-    research "virtual environment, virtual environments3D, virtual object"
+    label "Y. Yokokohji"
+    affiliation "IEEE"
+    research "encountered-type haptic device, proposed method, virtual object"
   ]
   node [
     id 7
-    label "Frank Earl Pollick"
-    affiliation "University of Glasgow, UK"
-    research "action understanding, different level, abstract action goal"
+    label "Joel Schuman"
+    affiliation "UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA, Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA"
+    research "proposed method, retinal OCT image, SD-OCT volume"
   ]
   node [
     id 8
-    label "Jun-Ki Min"
-    affiliation "Dept. of Comput. Sci., Yonsei Univ., Seoul, South Korea"
-    research "social context, personal context, mobile social network"
+    label "Roberta L. Klatzky"
+    affiliation "Department of Psychology, University of California, Santa Barbara, CA"
+    research "haptic feedback, virtual environment, virtual task"
   ]
   node [
     id 9
-    label "Hiroaki Nishino"
-    affiliation "Nan"
-    research "medical image, Medical Imaging Diagnosis, medical activity"
+    label "Zack Butler"
+    affiliation "Computer Science Department, Rochester Institute of Technology, Rochester, NY 14623 USA"
+    research "binary sensor, different course, binary sensor model"
   ]
   node [
     id 10
-    label "Shigeru Takano"
+    label "S. Salcudean"
     affiliation "Nan"
-    research "Electric Power Consumption, energy consumption, WiP Abstract"
+    research "variable compliance fine motion"
   ]
   node [
     id 11
-    label "Alok Kumar"
-    affiliation "School of Management, Yale University, New Haven, CT"
-    research "price graph, stock market, actual stock"
+    label "Sarjoun Skaff"
+    affiliation "Bossa Nova Robotics, Pittsburgh, PA, USA"
+    research "execution memory, short term memory, state estimation"
   ]
   node [
     id 12
-    label "Eiji Aoki"
-    affiliation "Nan"
-    research "Information Technology, Cloud Service, Educational Field"
+    label "Robert H. Swendsen"
+    affiliation "CarnegieMellon Univ., Pittsburgh, PA"
+    research "weighted histogram analysis method, free energy, deformable spring"
   ]
   node [
     id 13
-    label "Masatoshi Nishimura"
-    affiliation "Nan"
-    research "proposed method, implementation method, book-style interface usable"
+    label "Peter J. Berkelman"
+    affiliation "University of HawaiiManoa, Department of Mechanical Engineering, USA"
+    research "virtual task, real task, motion range"
   ]
   node [
     id 14
-    label "Jin H. Kim"
-    affiliation "Nan"
-    research "CMU design automation system, automated design, chip area"
+    label "Umashankar Nagarajan"
+    affiliation "Disney Research Pittsburgh, Pittsburgh, USA 15213"
+    research "dynamically stable mobile robot, motion policy, mobile robot"
   ]
   node [
     id 15
-    label "Kouichi Utsumiya"
-    affiliation "Institute for Hypernetwork Society"
-    research "proposed system, proposed method, haptic device"
+    label "Alfred A. Rizzi"
+    affiliation "Boston Dynamics, Inc., Waltham, MA, USA"
+    research "control policy, mechanical system, freedom robot"
   ]
   node [
     id 16
-    label "Kazuyuki Yoshida"
-    affiliation "Dept. of Computer Science and Intelligent Systems, Oita University, Oita 8701192, Japan"
-    research "discriminable tactile stimulus, tactile feedback function, tactile interaction"
+    label "R. L. Hollis"
+    affiliation "The Robotics Institute, Carnegie Mellon University, 5000 Forbes Ave., Pittsburgh, PA 15213"
+    research "dynamically stable mobile robot, haptic device, real texture"
   ]
   node [
     id 17
-    label "Ashish Ghosh"
-    affiliation "Machine Intelligence Unit Indian Statistical Institute 203 B. T Road Calcutta 70003S, India ash@isical.ernet.in"
-    research "proposed algorithm, proposed method, proposed technique"
+    label "M. W. Siegel"
+    affiliation "CarnegirMellon Univ., Pittsburgh, PA"
+    research "floor plan, actual sonar map, simulated sonar map"
   ]
   node [
     id 18
-    label "Akira Yamaguchi"
-    affiliation "Keio University, Department of System Design Engineering, 3141, Hiyoshi, Kohokuku, Yokohama, 2238522, Japan"
-    research "multilateral control system, time delay, constant communication time delay"
+    label "Randy Lee"
+    affiliation "Department of Biomedical Engineering, Carnegie Mellon University"
+    research "magnifying force, Hand-held force magnifier, proportionally greater force"
   ]
   node [
     id 19
-    label "Hideyuki Takagi"
-    affiliation "Nan"
-    research "one-dimensional space, proposed method, benchmark function"
+    label "R. Klatzky"
+    affiliation "Dept. of Psychology, Carnegie Mellon University, Pittsburgh, PA"
+    research "maximum roughness, force variability, haptic device"
   ]
   edge [
     source 0
-    target 3
+    target 2
     relation "collaborate"
   ]
   edge [
     source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 8
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 17
+    source 0
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 0
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 7
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 14
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -200,73 +200,108 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 15
+    source 4
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 4
     target 16
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 13
     relation "collaborate"
   ]
   edge [
     source 9
-    target 12
+    target 16
     relation "collaborate"
   ]
   edge [
     source 9
-    target 18
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 15
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -275,22 +310,42 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 15
+    source 12
     target 19
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 13
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 14
     target 16
     relation "collaborate"
   ]
   edge [
     source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
     target 18
     relation "collaborate"
   ]

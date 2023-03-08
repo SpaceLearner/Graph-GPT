@@ -1,39 +1,23 @@
-Roberto M. Avanzi	H Prodinger	{'relation': 'collaborate'}
-Roberto M. Avanzi	Clemens Heuberger	{'relation': 'collaborate'}
-R. F. Tichy	Stephan G. Wagner	{'relation': 'collaborate'}
-R. F. Tichy	Arnold Knopfmacher	{'relation': 'collaborate'}
-R. F. Tichy	H Prodinger	{'relation': 'collaborate'}
-R. F. Tichy	Clemens Heuberger	{'relation': 'collaborate'}
-R. F. Tichy	Peter Grabner	{'relation': 'collaborate'}
-R. F. Tichy	Philippe Flajolet	{'relation': 'collaborate'}
-Arnold Knopfmacher	Peter Grabner	{'relation': 'collaborate'}
-Arnold Knopfmacher	H Prodinger	{'relation': 'collaborate'}
-Arnold Knopfmacher	Stephan G. Wagner	{'relation': 'collaborate'}
-Arnold Knopfmacher	Margaret Archibald	{'relation': 'collaborate'}
-C. Martinez	H Prodinger	{'relation': 'collaborate'}
-C. Martinez	Philippe Flajolet	{'relation': 'collaborate'}
-H Prodinger	Margaret Archibald	{'relation': 'collaborate'}
-H Prodinger	R. Katti	{'relation': 'collaborate'}
-H Prodinger	Peter Grabner	{'relation': 'collaborate'}
-H Prodinger	H M Mahmoud	{'relation': 'collaborate'}
-H Prodinger	Wojciech Szpankowski	{'relation': 'collaborate'}
-H Prodinger	Stephan G. Wagner	{'relation': 'collaborate'}
-H Prodinger	Werner Kuich	{'relation': 'collaborate'}
-H Prodinger	Emrah Kilic	{'relation': 'collaborate'}
-H Prodinger	Jörg M. Thuswaldner	{'relation': 'collaborate'}
-H Prodinger	Clemens Heuberger	{'relation': 'collaborate'}
-H Prodinger	Emeric Deutsch	{'relation': 'collaborate'}
-H Prodinger	Friedrich Hubalek	{'relation': 'collaborate'}
-H Prodinger	Philippe Flajolet	{'relation': 'collaborate'}
-Stephan G. Wagner	Clemens Heuberger	{'relation': 'collaborate'}
-Peter Grabner	Philippe Flajolet	{'relation': 'collaborate'}
-Peter Grabner	Clemens Heuberger	{'relation': 'collaborate'}
-Peter Grabner	Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Clemens Heuberger	Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Clemens Heuberger	Margaret Archibald	{'relation': 'collaborate'}
-Clemens Heuberger	R. Katti	{'relation': 'collaborate'}
-K. Scheicher	Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Manfred Madritsch	Jörg M. Thuswaldner	{'relation': 'collaborate'}
-H M Mahmoud	Friedrich Hubalek	{'relation': 'collaborate'}
-H M Mahmoud	Philippe Flajolet	{'relation': 'collaborate'}
-Wojciech Szpankowski	Philippe Flajolet	{'relation': 'collaborate'}
+X. D. Fang	A. Basu	{'relation': 'collaborate'}
+Joshua R. Smith	A. Basu	{'relation': 'collaborate'}
+Sandipan Dandapat	A. Basu	{'relation': 'collaborate'}
+A. Basu	T. Nayak	{'relation': 'collaborate'}
+A. Basu	Lijun Yin	{'relation': 'collaborate'}
+A. Basu	R. Mall	{'relation': 'collaborate'}
+A. Basu	M. H. Korayem	{'relation': 'collaborate'}
+A. Basu	N. D. Dutt	{'relation': 'collaborate'}
+A. Basu	P. Sreenivasa Kumar	{'relation': 'collaborate'}
+A. Basu	Ashraf Elnagar	{'relation': 'collaborate'}
+A. Basu	James Stanier	{'relation': 'collaborate'}
+A. Basu	S. Dey	{'relation': 'collaborate'}
+A. Basu	D. Saha	{'relation': 'collaborate'}
+A. Basu	Erik Asmussen	{'relation': 'collaborate'}
+A. Basu	Pabitra Mitra	{'relation': 'collaborate'}
+A. Basu	R. S. Mitra	{'relation': 'collaborate'}
+A. Basu	S. Mukherjee	{'relation': 'collaborate'}
+A. Basu	Vijay K. Gurbani	{'relation': 'collaborate'}
+A. Basu	Anirban Lahiri	{'relation': 'collaborate'}
+R. S. Mitra	D. Saha	{'relation': 'collaborate'}
+T. Nayak	S. Mukherjee	{'relation': 'collaborate'}
+D. Saha	S. Mukherjee	{'relation': 'collaborate'}
+Vijay K. Gurbani	James Stanier	{'relation': 'collaborate'}

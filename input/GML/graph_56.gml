@@ -1,123 +1,138 @@
 graph [
   node [
     id 0
-    label "Jiro Katto"
-    affiliation "&#160;"
-    research "new parent, overlay tree, proactive approach"
+    label "Raimond L. Winslow"
+    affiliation "Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA"
+    research "vector field, SA node, deformation diffeomorphic metric mapping"
   ]
   node [
     id 1
-    label "Xiaolong Liu"
-    affiliation "Institute of Ideal Information Technology, Northeast Normal University, Changchun, 130024, China"
-    research "instructional design platform, instructional strategy, specific subject"
+    label "Daniel Q. Naiman"
+    affiliation "Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA"
+    research "multiple linkage test, Gaussian approximation, microarray data"
   ]
   node [
     id 2
-    label "Li Tian"
-    affiliation "Department of Mathematics, Pennsylvania State University, University Park, PA 16802, USA"
-    research "basis function, elliptic equation, linear elliptic partial differential"
+    label "Henry P. Wynn"
+    affiliation "Department of Statistics, London School of Economics, B.P. 121, 2000 route des Lucioles, WC2A 2AE, London, UK"
+    research "Betti number, coherent system, algebraic analysis"
   ]
   node [
     id 3
-    label "K. Doya"
-    affiliation "Neural Computation Unit, Initial Research Project, OkinawaInstitute of Science and Technology, JST, Japan"
-    research "reinforcement learning, multiple model-based reinforcement learning, procedural learning"
+    label "David Gilbert"
+    affiliation "Nan"
+    research "PARLOG Translator"
   ]
   node [
     id 4
-    label "Jiulun Fan"
-    affiliation "Nan"
-    research "sparse histogram image segmentation, common image segmentation technology, image segmentation"
+    label "J. C. Spall"
+    affiliation "The Johns Hopkins University"
+    research "full system, stochastic approximation, complex system"
   ]
   node [
     id 5
-    label "Alireza Ahrary"
-    affiliation "Fukuoka Industry, Science and Technology Foundation, Japan and Information, Production and Systems Research Center, Waseda University, Japan"
-    research "Big Data, XML document, user need"
+    label "Nathan L. Kleinman"
+    affiliation "Options and Choices, Inc. (OCI), Cheyenne, Wyoming"
+    research "Common Random Numbers method, efficient optimization algorithm, stochastic approximation algorithm"
   ]
   node [
     id 6
-    label "Hiroyuki Miyamoto"
-    affiliation "Nan"
-    research "International Conference, Selected Papers, Neural Information Processing"
+    label "Aik Choon Tan"
+    affiliation "Bioinformatics Research Centre, Department of Computing Science, 12 Lilybank Gardens, University of Glasgow, Glasgow G12 8QQ, UK"
+    research "experimental data, different biological data set, individual learning system"
   ]
   node [
     id 7
-    label "Seiichiro Kamata"
-    affiliation "Dept. of Intelligent Syst., Kyushu Univ., Fukuoka"
-    research "proposed method, Hilbert curve, experimental result"
+    label "Lei Xu"
+    affiliation "Nan"
+    research "User Relationships, URPC-Rec algorithm, clusters user"
   ]
   node [
     id 8
-    label "Ding Feng"
-    affiliation "Nan"
-    research "anti-stacked control, automatic winder anti-stacked control, control system"
+    label "Jian Feng"
+    affiliation "Airforce Military Representative Office Resident in Shenyang Region, PR China"
+    research "different mode, optimal control method, lubrication condition"
   ]
   node [
     id 9
-    label "Masumi Ishikawa"
-    affiliation "Kyushu Institute of Technology"
-    research "mobile robot, proposed method, search performance"
+    label "Bahman Afsari"
+    affiliation "Nan"
+    research "binary classifier, k disjoint pair, Automated Micro-Array Classification Challenge"
   ]
   node [
     id 10
-    label "Kyota Higa"
+    label "Giovanni Parmigiani"
     affiliation "Nan"
-    research "music TV program, music signal, chroma component"
+    research "biological process, open source, R package CoGAPS"
   ]
   node [
     id 11
-    label "Risto Miikkulainen"
-    affiliation "University of California, Merced, University of Texas, Austin"
-    research "neural network, artificial neural network, neuroevolution method"
+    label "R E Stone"
+    affiliation "AT&#38;T Bell Laboratories, Holmdel, NJ"
+    research "linear complementarity problem, Homological Characterization, Q-MatricesA real square matrix"
   ]
   node [
     id 12
-    label "Lin Yang"
-    affiliation "National University of Defense Technology, Changsha, China"
-    research "identity definition, identity data, critical identity operation tag"
+    label "Michael F. Ochs"
+    affiliation "The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD"
+    research "functional genomics data pipeline, microarray data, supplementary data"
   ]
   node [
     id 13
-    label "Bin Guo"
-    affiliation "Nan"
-    research "opportunistic social network, social activity, social context"
+    label "Carey E. Priebe"
+    affiliation "Naval Ocean Systems Center, Code 421 San Diego, Ca. 92152 USA"
+    research "computer network data, data fusion, data point"
   ]
   node [
     id 14
-    label "Takeshi Yamakawa"
-    affiliation "Department of Electronic Engineering, Hallym University, Gangwon, Republic of Korea"
-    research "EEG data, Smartphone household wireless, ill-posed inverse data"
+    label "Xiaoling Wu"
+    affiliation "Nan"
+    research "NO2 Pollution Index, air pollution, air pollution pattern"
   ]
   node [
     id 15
-    label "Helge Ritter"
-    affiliation "Nan"
-    research "Human Centered Robot Systems, Human Centered Robotic Systems, TechnologyHuman Centered Robotic Systems"
+    label "Onn Chan"
+    affiliation "Department of Mathematics, National University of Singapore, Kent Ridge, S119260, Republic of Singapore (email: onn.chan@ubs.com,taokai@yahoo.com)"
+    research "Markov chain, random walk, probability transition matrix"
   ]
   node [
     id 16
-    label "Hong Zhang"
-    affiliation "Nan"
-    research "disparity discontinuity, initial disparity map, accurate dense disparity map"
+    label "Leslie M. Cope"
+    affiliation "Department of Mathematical Sciences, Johns Hopkins University, 3400 N. Charles St, Baltimore, MD 21218, USA,"
+    research "Affymetrix GeneChip data, expression measure, Affymetrix probe level data"
   ]
   node [
     id 17
-    label "Toshiyuki Nomura"
-    affiliation "Common Platform Software Research Laboratories, NEC Corporation, Nakaharaku, Japan 2168666"
-    research "memory-conscious decoder, Enhanced aacPlus Decoder, maximum number"
+    label "D. Geman"
+    affiliation "IMEDIA Project, INRIA Rocquencourt"
+    research "query image, image data, target image"
   ]
   node [
     id 18
-    label "Kazuhiko Nishino"
+    label "Donald German"
     affiliation "Nan"
-    research "Designing Neural Networks, Genetic Algorithms, Structural Learning"
+    research "Bayesian restoration, Gibbs distribution, stochastic relaxation"
   ]
   node [
     id 19
-    label "Tetsuo Furukawa"
-    affiliation "Kyushu Institute of Technology, Department of Brain Science and Engineering, 24 Hibikino, Wakamatsu, 8080196, Kitakyushu, Japan"
-    research "conventional SOM, self-organizing map, parent SOM"
+    label "Rafael A. Irizarry"
+    affiliation "Department of Biostatistics, Johns Hopkins University, 615 N. Wolfe St E3035, Baltimore, MD 21218, USA"
+    research "supplementary data, Supplementary information, ChIPx data"
+  ]
+  edge [
+    source 0
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 6
+    relation "collaborate"
   ]
   edge [
     source 0
@@ -125,13 +140,68 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
     target 10
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -140,18 +210,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 7
+    source 1
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -160,33 +220,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
     source 4
-    target 16
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 9
+    source 6
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 6
     target 7
     relation "collaborate"
   ]
   edge [
     source 6
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -196,27 +246,7 @@ graph [
   ]
   edge [
     source 7
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -225,43 +255,33 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
     source 10
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 15
+    source 10
+    target 16
     relation "collaborate"
   ]
   edge [
     source 12
-    target 16
+    target 17
     relation "collaborate"
   ]
   edge [
     source 13
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
     relation "collaborate"
   ]
 ]

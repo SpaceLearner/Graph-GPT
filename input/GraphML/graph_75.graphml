@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Clint Slatton">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL</data>
+      <data key="research">FPGAsMany signal processing algorithm, PDF algorithm, image processing algorithm</data>
+    </node>
+    <node id="Zuo-Jun (Max) Shen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Information Infrastructure, collaborative e-business, Internet-based scalable e-business enterprise</data>
+    </node>
+    <node id="Andréa M. Matsunaga">
+      <data key="affiliation">University of Florida, Gainesville, FL</data>
+      <data key="research">virtual grid, In-VIGO approach, proposed approach</data>
+    </node>
+    <node id="Vikas Aggarwal">
+      <data key="affiliation">IBM India Research Lab, Plot 4, Block C, Vasant Kunj Inst. Area, New Delhi 110070, India</data>
+      <data key="research">HPC Challenge RandomAccess benchmark, HPCC RandomAccess benchmark, RandomAccess benchmark</data>
+    </node>
+    <node id="Lalita Narupiyakul">
+      <data key="affiliation">University of Ontario Institute of Technology, Canada</data>
+      <data key="research">focus part, FET system, focus information</data>
+    </node>
+    <node id="K. Clint Slatton">
+      <data key="affiliation">University of Florida, Gainesville, FL</data>
+      <data key="research">airborne LiDAR data, individual tree, LiDAR data</data>
+    </node>
+    <node id="Seokwon Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Active Capability, Interactive Tool</data>
+    </node>
+    <node id="Liang-Jie Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Web service, Web Services Research, TrendsWeb Services Research</data>
+    </node>
+    <node id="Alan D. George">
+      <data key="affiliation">Highperformance Computing and Simulation (HCS)  Research Laboratory, Department of Electrical and Computer Engineering,  University of Florida, P.O. Box 116200, Gainesville, FL 326116200,  USA</data>
+      <data key="research">parallel performance wizard, performance analysis tool, application performance</data>
+    </node>
+    <node id="H Lam">
+      <data key="affiliation">Univ. of Florida, Gainesville</data>
+      <data key="research">Web service, application system, Grid service</data>
+    </node>
+    <node id="Sumalatha Adabala">
+      <data key="affiliation">Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida, Gainesville, FL</data>
+      <data key="research">In-VIGO approach, virtual grid, virtualization technology</data>
+    </node>
+    <node id="Yihua Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computer Organization, computer science, computer system</data>
+    </node>
+    <node id="Adam Jacobs">
+      <data key="affiliation">1010data Inc.</data>
+      <data key="research">radiation effect, Gigabit Ethernet, upset rate</data>
+    </node>
+    <node id="Ed Barkmeyer">
+      <data key="affiliation">National Institute of Standards and Technology, Gaithersburg, MD</data>
+      <data key="research">semantic-mediation architecture, database system, communication requirement</data>
+    </node>
+    <node id="Karthik Nagarajan">
+      <data key="affiliation">University of Florida</data>
+      <data key="research">hardware paradigm, hardware design, RC Amenability Test</data>
+    </node>
+    <node id="Greg Stitt">
+      <data key="affiliation">University of Florida, Gainesville, FL</data>
+      <data key="research">application designer, performance improvement, FPGA accelerator</data>
+    </node>
+    <node id="Brian Holland">
+      <data key="affiliation">MITRE Corp.</data>
+      <data key="research">application performance, performance bottleneck, performance metrics</data>
+    </node>
+    <node id="Haifei Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">negotiation agent, negotiation primitive, whole negotiation process</data>
+    </node>
+    <node id="Yu Long">
+      <data key="affiliation">Nan</data>
+      <data key="research">original DPS, value range, better diversity</data>
+    </node>
+    <node id="Chris Conger">
+      <data key="affiliation">University of Florida, Gainesville</data>
+      <data key="research">space-based radar, RapidIO network, RapidIO feasibility study</data>
+    </node>
+    <edge source="Clint Slatton" target="Alan D. George">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clint Slatton" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clint Slatton" target="Karthik Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zuo-Jun (Max) Shen" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andréa M. Matsunaga" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andréa M. Matsunaga" target="Sumalatha Adabala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vikas Aggarwal" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vikas Aggarwal" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vikas Aggarwal" target="K. Clint Slatton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vikas Aggarwal" target="Greg Stitt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vikas Aggarwal" target="Alan D. George">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lalita Narupiyakul" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Clint Slatton" target="Karthik Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Clint Slatton" target="Alan D. George">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Clint Slatton" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Clint Slatton" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seokwon Yang" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang-Jie Zhang" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang-Jie Zhang" target="Haifei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang-Jie Zhang" target="Liang-Jie Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="H Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="Adam Jacobs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="Chris Conger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="Greg Stitt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan D. George" target="Karthik Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Yu Long">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Sumalatha Adabala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Haifei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Yihua Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Greg Stitt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Karthik Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Ed Barkmeyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Lam" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yihua Huang" target="Haifei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Jacobs" target="Chris Conger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Jacobs" target="Karthik Nagarajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Jacobs" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karthik Nagarajan" target="Chris Conger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karthik Nagarajan" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Greg Stitt" target="Brian Holland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brian Holland" target="Chris Conger">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

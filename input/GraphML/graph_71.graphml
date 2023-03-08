@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="E. P. Mariatos">
+      <data key="affiliation">University of Patras</data>
+      <data key="research">mapping algorithm, design assistance tool, entire design process</data>
+    </node>
+    <node id="Spyrogiannis Batistatos">
+      <data key="affiliation">Nan</data>
+      <data key="research">ATM Protocols, Automatic Specification Mapping, DOLEMEN MethodologyReusable Architecture Templates</data>
+    </node>
+    <node id="A. Milidonis">
+      <data key="affiliation">Technol. Educ. Inst. of Athens, Athens, Greece</data>
+      <data key="research">discrete wavelet, appropriate architecture, competitive architecture</data>
+    </node>
+    <node id="P. Merakos">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Patras, Rio 26500, Greece</data>
+      <data key="research">power consumption, proposed cost function, proposed technique</data>
+    </node>
+    <node id="D. E. Metafas">
+      <data key="affiliation">Athens Information Technology (AIT), Peania, Athens, Greece</data>
+      <data key="research">game server, reconfigurable System-on-Chip, complete system</data>
+    </node>
+    <node id="V. Mariatos">
+      <data key="affiliation">Nan</data>
+      <data key="research">formal approach, formal description language, INSYDE projectThe paper</data>
+    </node>
+    <node id="G. Anagnostopoulos">
+      <data key="affiliation">Nan</data>
+      <data key="research">design alternative, memory requirement, 2-D discrete wavelet</data>
+    </node>
+    <node id="Michael K. Birbas">
+      <data key="affiliation">Analogies S.A., Patra, Greece</data>
+      <data key="research">D converter, die area, ultra low area</data>
+    </node>
+    <node id="Costas E. Goutis">
+      <data key="affiliation">VLSI Design Lab., Patras, Greece</data>
+      <data key="research">experimental result, performance improvement, proposed methodology</data>
+    </node>
+    <node id="Dimitrios J. Soudris">
+      <data key="affiliation">9 Heroon Polytechneiou, Zographou Campus, 15780 Athens, Greece</data>
+      <data key="research">proposed methodology, memory footprint, memory hierarchy</data>
+    </node>
+    <node id="Grigorios Kalivas">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Patras Campus of Rion, Greece</data>
+      <data key="research">phase noise, John Wiley, estimation scheme</data>
+    </node>
+    <node id="S. K. Tsasakou">
+      <data key="affiliation">School of Electronics and Computer Science, University of Southampton, Southampton, UK</data>
+      <data key="research">provenance system, Service Oriented Architecture, SOA-Based provenance systemRecent work</data>
+    </node>
+    <node id="G. D. Papadopoulos">
+      <data key="affiliation">Department of Telecommunications, Aristotle University of Thessaloniki, Panepistimioupolis, 541 24 Thessaloniki, Greece</data>
+      <data key="research">channel condition, average SDU throughput, multicarrier code division</data>
+    </node>
+    <node id="S. S. Nikolaidis">
+      <data key="affiliation">Electronics &amp; Computers Division, Department of Physics, University of Thessaloniki, 54006 Thessalloniki, Greece</data>
+      <data key="research">embedded processor, power consumption, MIPS processor</data>
+    </node>
+    <node id="G.-P. Economou">
+      <data key="affiliation">University of Patras, Department of Physics, Electronics Lab., 261 10 Patras, GREECE</data>
+      <data key="research">color image, face image, different image</data>
+    </node>
+    <node id="N. S Voros">
+      <data key="affiliation">Technological Educational Institute of Mesolonghi, Greece</data>
+      <data key="research">system level design, chip design, efficient system design</data>
+    </node>
+    <node id="K. Masselos">
+      <data key="affiliation">INTRACOM S.A., Attika</data>
+      <data key="research">power consumption, data transfer, experimental result</data>
+    </node>
+    <node id="J. Cornelis">
+      <data key="affiliation">Nan</data>
+      <data key="research">complexity analysis</data>
+    </node>
+    <node id="N. C. Petrellis">
+      <data key="affiliation">TEI of Larissa, Greece</data>
+      <data key="research">D converter, integer divider, coarse ADC</data>
+    </node>
+    <node id="F. Plessas">
+      <data key="affiliation">Department of Computer &amp; Communication Engineering, University of Thessaly, Greece</data>
+      <data key="research">phase noise, John Wiley, power consumption</data>
+    </node>
+    <edge source="E. P. Mariatos" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="Michael K. Birbas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="S. S. Nikolaidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="G.-P. Economou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="G. D. Papadopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="S. K. Tsasakou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="N. C. Petrellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="D. E. Metafas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="P. Merakos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. P. Mariatos" target="N. S Voros">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Spyrogiannis Batistatos" target="Michael K. Birbas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Spyrogiannis Batistatos" target="V. Mariatos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Spyrogiannis Batistatos" target="N. C. Petrellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Milidonis" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Milidonis" target="Dimitrios J. Soudris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Merakos" target="K. Masselos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Merakos" target="Michael K. Birbas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Merakos" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. E. Metafas" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. E. Metafas" target="K. Masselos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. E. Metafas" target="S. S. Nikolaidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. E. Metafas" target="G.-P. Economou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Mariatos" target="Michael K. Birbas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Mariatos" target="N. C. Petrellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Anagnostopoulos" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="Costas E. Goutis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="F. Plessas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="Dimitrios J. Soudris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="G. D. Papadopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="N. C. Petrellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="S. K. Tsasakou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="Grigorios Kalivas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael K. Birbas" target="N. S Voros">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costas E. Goutis" target="K. Masselos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costas E. Goutis" target="J. Cornelis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costas E. Goutis" target="Dimitrios J. Soudris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costas E. Goutis" target="S. S. Nikolaidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costas E. Goutis" target="G.-P. Economou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dimitrios J. Soudris" target="K. Masselos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dimitrios J. Soudris" target="N. S Voros">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dimitrios J. Soudris" target="S. S. Nikolaidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Grigorios Kalivas" target="F. Plessas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. K. Tsasakou" target="N. S Voros">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. D. Papadopoulos" target="N. C. Petrellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. S. Nikolaidis" target="G.-P. Economou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. S Voros" target="K. Masselos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Masselos" target="J. Cornelis">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="D. A. Torigian">
+      <data key="affiliation">Department of Radiology, University of Pennsylvania Medical Center</data>
+      <data key="research">proposed method, computational analysis, ASM model</data>
+    </node>
+    <node id="J K Udupa">
+      <data key="affiliation">Medical Image Processing Group Department of Radiology, University of Pennsylvania Blockley Hall, Fourth Floor, 423 Guardian Drive, Philadelphia, PA 191046021, USA</data>
+      <data key="research">image element, clinical MR image, vectorial image</data>
+    </node>
+    <node id="K. Walker">
+      <data key="affiliation">SiByte, Inc.</data>
+      <data key="research">data value, flexible value samplingThis paper, resulting value profile</data>
+    </node>
+    <node id="Xinjian Chen">
+      <data key="affiliation">Dept. of Autom., Tsinghua Univ., Beijing, China</data>
+      <data key="research">proposed architecture, direct method, row-column method</data>
+    </node>
+    <node id="Li Bai">
+      <data key="affiliation">Nan</data>
+      <data key="research">False Repudiation, augmented message, message body</data>
+    </node>
+    <node id="S N Srihari">
+      <data key="affiliation">State Univ. of New York at Buffalo, Buffalo</data>
+      <data key="research">handwritten document, word recognition, word image</data>
+    </node>
+    <node id="G. Frieder">
+      <data key="affiliation">Information Retrieval Lab, Illinois Institute of Technology</data>
+      <data key="research">computer architecture, Yizkor Books, simulation executive</data>
+    </node>
+    <node id="Lih-Shyang Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">original image, radial transformation, radial image</data>
+    </node>
+    <node id="G. Loeffler">
+      <data key="affiliation">Nan</data>
+      <data key="research">mechanical optical switch, optical fiber, SL Undersea Lightwave System</data>
+    </node>
+    <node id="Paulo A.  V. Miranda">
+      <data key="affiliation">State University of Campinas (UNICAMP), Brazil</data>
+      <data key="research">automatic segmentation, optimum-path forest, Image Segmentation</data>
+    </node>
+    <node id="Gabor T Herman">
+      <data key="affiliation">Computer Science Department, The Graduate Center, City University of New York, New York, NY</data>
+      <data key="research">image reconstruction, label image, noisy image column</data>
+    </node>
+    <node id="Krzysztof Chris Ciesielski">
+      <data key="affiliation">Department of Mathematics, West Virginia University, Morgantown, WV 265066310, United States and Department of Radiology, MIPG, University of Pennsylvania, Blockley Hall, 4th Floor, 423 Guardian  ...</data>
+      <data key="research">affinity function, fuzzy connectedness, equivalent affinity</data>
+    </node>
+    <node id="Venkatramana G. Ajjanagadde">
+      <data key="affiliation">Univ. of Pennsylvania, Philadelphia</data>
+      <data key="research">reasoning system, knowledge representation, variable binding problem</data>
+    </node>
+    <node id="Ting Chen">
+      <data key="affiliation">School of Computer Science, Northwestern Polytechnical University, China</data>
+      <data key="research">image structure, Dynamic Compressive Tracking algorithm, Dynamic Compressive TrackingReal-Time Compressive</data>
+    </node>
+    <node id="Alexandre X. Falcão">
+      <data key="affiliation">Nan</data>
+      <data key="research">shell rendering, volume rendering, extended-shell rendering</data>
+    </node>
+    <node id="C. Meyer">
+      <data key="affiliation">Nan</data>
+      <data key="research">guarded fragment, first-order logic, multi-modal logic</data>
+    </node>
+    <node id="Celina Zofia Imielinska">
+      <data key="affiliation">Columbia University, New York</data>
+      <data key="research">pressure sensor, lung deformation, lung dynamic</data>
+    </node>
+    <node id="Dimitri Metaxas">
+      <data key="affiliation">Rutgers University</data>
+      <data key="research">range data, expression flow, visual data</data>
+    </node>
+    <node id="R. Reynolds">
+      <data key="affiliation">Centre for Excellence in Teaching and Learning through Design (CETLD), Victoria and Albert Museum, Cromwell Road, South Kensington, London SW7 2RL, United Kingdom</data>
+      <data key="research">Web-based museum, university-level design student, museum environment</data>
+    </node>
+    <node id="K. D. Toennies">
+      <data key="affiliation">OttovonGuerickeUniversität Magdeburg, Germany</data>
+      <data key="research">seismic data, complex shape, segmentation result</data>
+    </node>
+    <edge source="D. A. Torigian" target="Xinjian Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. A. Torigian" target="J K Udupa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="R. Reynolds">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Celina Zofia Imielinska">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Paulo A.  V. Miranda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Gabor T Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Xinjian Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="G. Frieder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="K. D. Toennies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Alexandre X. Falcão">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Lih-Shyang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Ting Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Krzysztof Chris Ciesielski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="C. Meyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Dimitri Metaxas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Li Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="S N Srihari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J K Udupa" target="Venkatramana G. Ajjanagadde">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Walker" target="R. Reynolds">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xinjian Chen" target="Krzysztof Chris Ciesielski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S N Srihari" target="Gabor T Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Frieder" target="C. Meyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Frieder" target="Gabor T Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Loeffler" target="R. Reynolds">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paulo A.  V. Miranda" target="Alexandre X. Falcão">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gabor T Herman" target="R. Reynolds">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gabor T Herman" target="C. Meyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gabor T Herman" target="K. D. Toennies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ting Chen" target="Dimitri Metaxas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ting Chen" target="Celina Zofia Imielinska">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Celina Zofia Imielinska" target="Dimitri Metaxas">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

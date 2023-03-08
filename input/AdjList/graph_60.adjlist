@@ -1,71 +1,57 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:01 2023
 # 
-Ming Li	7
-Limin Wang	{'relation': 'collaborate'}
-Ming Li	{'relation': 'collaborate'}
-Guojun Chen	{'relation': 'collaborate'}
-Xuming Han	{'relation': 'collaborate'}
-Huimin Zhang	{'relation': 'collaborate'}
-Jing Wang	{'relation': 'collaborate'}
-Chijun Zhang	{'relation': 'collaborate'}
-Li Zhang	4
-Xuming Han	{'relation': 'collaborate'}
-Chijun Zhang	{'relation': 'collaborate'}
-Jing Wang	{'relation': 'collaborate'}
-Limin Wang	{'relation': 'collaborate'}
-Chijun Zhang	5
-Limin Wang	{'relation': 'collaborate'}
-Xuming Han	{'relation': 'collaborate'}
-Huimin Zhang	{'relation': 'collaborate'}
-Guojun Chen	{'relation': 'collaborate'}
-Jing Wang	{'relation': 'collaborate'}
-Gilman Tolle	5
-Limin Wang	{'relation': 'collaborate'}
-Chris Anderson	{'relation': 'collaborate'}
-R. Ramnath	{'relation': 'collaborate'}
-HongJiang Zhang	{'relation': 'collaborate'}
-Santosh Kumar	{'relation': 'collaborate'}
-Ruoming Pang	1
-Limin Wang	{'relation': 'collaborate'}
-T. V. Lakshman	2
-Limin Wang	{'relation': 'collaborate'}
-Stéphane Betgé-Brezetz	{'relation': 'collaborate'}
-Xiaoou Tang	2
-Limin Wang	{'relation': 'collaborate'}
-HongJiang Zhang	{'relation': 'collaborate'}
-Huimin Zhang	3
-Guojun Chen	{'relation': 'collaborate'}
-Limin Wang	{'relation': 'collaborate'}
-Xuming Han	{'relation': 'collaborate'}
-HongJiang Zhang	4
-Limin Wang	{'relation': 'collaborate'}
-Chris Anderson	{'relation': 'collaborate'}
-Santosh Kumar	{'relation': 'collaborate'}
-R. Ramnath	{'relation': 'collaborate'}
-Yongmei He	2
-Limin Wang	{'relation': 'collaborate'}
-Xuming Han	{'relation': 'collaborate'}
-Xuming Han	2
-Limin Wang	{'relation': 'collaborate'}
-Guojun Chen	{'relation': 'collaborate'}
-K. Panusopone	1
-Limin Wang	{'relation': 'collaborate'}
-Guojun Chen	1
-Limin Wang	{'relation': 'collaborate'}
-Jing Wang	1
-Jing Wang	{'relation': 'collaborate'}
-Santosh Kumar	3
-Limin Wang	{'relation': 'collaborate'}
-R. Ramnath	{'relation': 'collaborate'}
-Chris Anderson	{'relation': 'collaborate'}
-Yuanyuan Zhou	1
-Limin Wang	{'relation': 'collaborate'}
-Limin Wang	3
-R. Ramnath	{'relation': 'collaborate'}
-Stéphane Betgé-Brezetz	{'relation': 'collaborate'}
-Chris Anderson	{'relation': 'collaborate'}
-Stéphane Betgé-Brezetz	0
-Chris Anderson	1
-R. Ramnath	{'relation': 'collaborate'}
-R. Ramnath	0
+Offer Pazy	1
+Mike Kamrad	{'relation': 'collaborate'}
+Dennis Cornhill	3
+Rakesh Jha	{'relation': 'collaborate'}
+Mike Kamrad	{'relation': 'collaborate'}
+Greg Eisenhauer	{'relation': 'collaborate'}
+Jack C. Wileden	4
+Alan R. Segal	{'relation': 'collaborate'}
+Leon G. Stucki	{'relation': 'collaborate'}
+Richard Fairley	{'relation': 'collaborate'}
+J. Ramanathan	{'relation': 'collaborate'}
+Mike Kamrad	7
+Fred Maymir-Ducharme	{'relation': 'collaborate'}
+Dock Allen	{'relation': 'collaborate'}
+Rakesh Jha	{'relation': 'collaborate'}
+Greg Eisenhauer	{'relation': 'collaborate'}
+Charles McKay	{'relation': 'collaborate'}
+K A Gilroy	{'relation': 'collaborate'}
+Joseph K. Cross	{'relation': 'collaborate'}
+Rakesh Jha	1
+Greg Eisenhauer	{'relation': 'collaborate'}
+Dock Allen	4
+Charles McKay	{'relation': 'collaborate'}
+Bhavani M. Thuraisingham	{'relation': 'collaborate'}
+K A Gilroy	{'relation': 'collaborate'}
+Erich Hughes	{'relation': 'collaborate'}
+J. Bamberger	2
+Charles McKay	{'relation': 'collaborate'}
+Richard Fairley	{'relation': 'collaborate'}
+David Eichmann	2
+C. Atkinson	{'relation': 'collaborate'}
+Charles McKay	{'relation': 'collaborate'}
+Fred Maymir-Ducharme	0
+Richard Fairley	4
+Alan R. Segal	{'relation': 'collaborate'}
+Charles McKay	{'relation': 'collaborate'}
+Leon G. Stucki	{'relation': 'collaborate'}
+J. Ramanathan	{'relation': 'collaborate'}
+Leon G. Stucki	2
+J. Ramanathan	{'relation': 'collaborate'}
+Alan R. Segal	{'relation': 'collaborate'}
+C. Atkinson	1
+Charles McKay	{'relation': 'collaborate'}
+Erich Hughes	1
+Bhavani M. Thuraisingham	{'relation': 'collaborate'}
+Charles McKay	1
+K A Gilroy	{'relation': 'collaborate'}
+K A Gilroy	0
+Joseph K. Cross	0
+Alan R. Segal	1
+J. Ramanathan	{'relation': 'collaborate'}
+Greg Eisenhauer	0
+J. Ramanathan	0
+Bhavani M. Thuraisingham	0

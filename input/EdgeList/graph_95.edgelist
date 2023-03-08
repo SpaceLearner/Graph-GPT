@@ -1,32 +1,16 @@
-A. Esposito	Giuseppe De Pietro	{'relation': 'collaborate'}
-A. Esposito	P. Costa	{'relation': 'collaborate'}
-A. Esposito	A. Mazzeo	{'relation': 'collaborate'}
-A. Esposito	S. Scarpetta	{'relation': 'collaborate'}
-A. Esposito	M. Marinaro	{'relation': 'collaborate'}
-A. Esposito	L. Catarinucci	{'relation': 'collaborate'}
-A. Esposito	Mauro Mongiardo	{'relation': 'collaborate'}
-A. Esposito	Federico Malucelli	{'relation': 'collaborate'}
-A. Esposito	G. Reitano	{'relation': 'collaborate'}
-K. Sato	P. Costa	{'relation': 'collaborate'}
-K. Sato	W. D. Richard	{'relation': 'collaborate'}
-S. Scarpetta	M. Marinaro	{'relation': 'collaborate'}
-G. Reitano	Giuseppe De Pietro	{'relation': 'collaborate'}
-C. Mascolo	P. Costa	{'relation': 'collaborate'}
-C. Mascolo	Mirco Musolesi	{'relation': 'collaborate'}
-A. Olivé	C. Quer	{'relation': 'collaborate'}
-A. Olivé	Dolors Costal	{'relation': 'collaborate'}
-A. Olivé	P. Costa	{'relation': 'collaborate'}
-A. Olivé	Maria Ribera Sancho	{'relation': 'collaborate'}
-C. Quer	Dolors Costal	{'relation': 'collaborate'}
-C. Quer	Maria Ribera Sancho	{'relation': 'collaborate'}
-C. Quer	P. Costa	{'relation': 'collaborate'}
-Maria Ribera Sancho	P. Costa	{'relation': 'collaborate'}
-Maria Ribera Sancho	Dolors Costal	{'relation': 'collaborate'}
-P. Larzabal	H. Clergeot	{'relation': 'collaborate'}
-P. Larzabal	P. Costa	{'relation': 'collaborate'}
-H. Clergeot	P. Costa	{'relation': 'collaborate'}
-Federico Malucelli	Mauro Mongiardo	{'relation': 'collaborate'}
-A. Mazzeo	P. Costa	{'relation': 'collaborate'}
-W. D. Richard	P. Costa	{'relation': 'collaborate'}
-P. Costa	Dolors Costal	{'relation': 'collaborate'}
-P. Costa	Mirco Musolesi	{'relation': 'collaborate'}
+E. Tirapegui	C. Elphick	{'relation': 'collaborate'}
+E. Tirapegui	G. Iooss	{'relation': 'collaborate'}
+E. Tirapegui	M. E. Brachet	{'relation': 'collaborate'}
+E. Tirapegui	P. Coullet	{'relation': 'collaborate'}
+G. Iooss	C. Elphick	{'relation': 'collaborate'}
+G. Iooss	M. E. Brachet	{'relation': 'collaborate'}
+G. Iooss	P. Coullet	{'relation': 'collaborate'}
+C. Nore	M. E. Brachet	{'relation': 'collaborate'}
+C. Nore	S. Fauve	{'relation': 'collaborate'}
+Andreas Knopfel	P. Tabeling	{'relation': 'collaborate'}
+P. Tabeling	M. E. Brachet	{'relation': 'collaborate'}
+Cristán Huepe	M. E. Brachet	{'relation': 'collaborate'}
+P. Coullet	C. Elphick	{'relation': 'collaborate'}
+P. Coullet	M. E. Brachet	{'relation': 'collaborate'}
+S. Fauve	M. E. Brachet	{'relation': 'collaborate'}
+C. Elphick	M. E. Brachet	{'relation': 'collaborate'}

@@ -1,59 +1,32 @@
-Xiaofang Zhou	Shuo Shang	{'relation': 'collaborate'}
-Xiaofang Zhou	Limin Guo	{'relation': 'collaborate'}
-Xiaofang Zhou	Ke Deng	{'relation': 'collaborate'}
-Xiaofang Zhou	Jiajie Xu	{'relation': 'collaborate'}
-Xiaofang Zhou	Hu Wu	{'relation': 'collaborate'}
-Xiaofang Zhou	Zhiming Ding	{'relation': 'collaborate'}
-Xiaofang Zhou	Kuien Liu	{'relation': 'collaborate'}
-Xiaofang Zhou	Mingshu Li	{'relation': 'collaborate'}
-Mingshu Li	Ke Deng	{'relation': 'collaborate'}
-Mingshu Li	Yong Wang	{'relation': 'collaborate'}
-Mingshu Li	Bei Zhang	{'relation': 'collaborate'}
-Mingshu Li	Dapeng Liu	{'relation': 'collaborate'}
-Mingshu Li	Lin Shi	{'relation': 'collaborate'}
-Mingshu Li	Qing Wang	{'relation': 'collaborate'}
-Mingshu Li	Zhiming Ding	{'relation': 'collaborate'}
-Mingshu Li	Kuien Liu	{'relation': 'collaborate'}
-Mingshu Li	Longfei Zhang	{'relation': 'collaborate'}
-Mingshu Li	Jiajie Xu	{'relation': 'collaborate'}
-Jiajie Xu	Zhiming Ding	{'relation': 'collaborate'}
-Jiajie Xu	Limin Guo	{'relation': 'collaborate'}
-Jiajie Xu	Longfei Zhang	{'relation': 'collaborate'}
-Jiajie Xu	Kuien Liu	{'relation': 'collaborate'}
-Jiajie Xu	Xiling Sun	{'relation': 'collaborate'}
-Jiajie Xu	Xu Gao	{'relation': 'collaborate'}
-Dapeng Liu	Qing Wang	{'relation': 'collaborate'}
-Dapeng Liu	Yong Wang	{'relation': 'collaborate'}
-Hu Wu	Zhiming Ding	{'relation': 'collaborate'}
-Hu Wu	Jun Han	{'relation': 'collaborate'}
-Hu Wu	Yong Wang	{'relation': 'collaborate'}
-Hu Wu	Limin Guo	{'relation': 'collaborate'}
-Hu Wu	Kuien Liu	{'relation': 'collaborate'}
-Hu Wu	Qing Wang	{'relation': 'collaborate'}
-Zhiming Ding	Xu Gao	{'relation': 'collaborate'}
-Zhiming Ding	Limin Guo	{'relation': 'collaborate'}
-Zhiming Ding	Shuo Shang	{'relation': 'collaborate'}
-Zhiming Ding	Xiling Sun	{'relation': 'collaborate'}
-Zhiming Ding	Kuien Liu	{'relation': 'collaborate'}
-Zhiming Ding	Bin Yang	{'relation': 'collaborate'}
-Zhiming Ding	Ke Deng	{'relation': 'collaborate'}
-Zhiming Ding	Longfei Zhang	{'relation': 'collaborate'}
-Longfei Zhang	Yong Wang	{'relation': 'collaborate'}
-Longfei Zhang	Kuien Liu	{'relation': 'collaborate'}
-Yong Wang	Qing Wang	{'relation': 'collaborate'}
-Kuien Liu	Limin Guo	{'relation': 'collaborate'}
-Kuien Liu	Qing Wang	{'relation': 'collaborate'}
-Kuien Liu	Ke Deng	{'relation': 'collaborate'}
-Kuien Liu	Jun Han	{'relation': 'collaborate'}
-Kuien Liu	Xiling Sun	{'relation': 'collaborate'}
-Kuien Liu	Haibo Wang	{'relation': 'collaborate'}
-Kuien Liu	Shuo Shang	{'relation': 'collaborate'}
-Kuien Liu	Xu Gao	{'relation': 'collaborate'}
-Kuien Liu	Bin Yang	{'relation': 'collaborate'}
-Xiling Sun	Limin Guo	{'relation': 'collaborate'}
-Xiling Sun	Xu Gao	{'relation': 'collaborate'}
-Qing Wang	Bin Yang	{'relation': 'collaborate'}
-Qing Wang	Jun Han	{'relation': 'collaborate'}
-Xu Gao	Limin Guo	{'relation': 'collaborate'}
-Bin Yang	Shuo Shang	{'relation': 'collaborate'}
-Ke Deng	Shuo Shang	{'relation': 'collaborate'}
+R. Rinaldo	G. A. Mian	{'relation': 'collaborate'}
+R. Rinaldo	Riccardo Bernardini	{'relation': 'collaborate'}
+R. Rinaldo	G. Cortelazzo	{'relation': 'collaborate'}
+R. Rinaldo	Giancarlo Calvagno	{'relation': 'collaborate'}
+Soren Forchhammer	G. Cortelazzo	{'relation': 'collaborate'}
+Soren Forchhammer	Pietro Zanuttigh	{'relation': 'collaborate'}
+Marco Andreetto	G. Cortelazzo	{'relation': 'collaborate'}
+P Zamperoni	G. Cortelazzo	{'relation': 'collaborate'}
+P Zamperoni	G. A. Mian	{'relation': 'collaborate'}
+Anup Basu	G. Cortelazzo	{'relation': 'collaborate'}
+Carlo Ferrari	G. Cortelazzo	{'relation': 'collaborate'}
+Carlo Ferrari	Mary Ellen Bock	{'relation': 'collaborate'}
+Mary Ellen Bock	G. Cortelazzo	{'relation': 'collaborate'}
+Fabio Marton	G. Cortelazzo	{'relation': 'collaborate'}
+Riccardo Bernardini	G. Cortelazzo	{'relation': 'collaborate'}
+Riccardo Bernardini	Giancarlo Calvagno	{'relation': 'collaborate'}
+Riccardo Bernardini	G. A. Mian	{'relation': 'collaborate'}
+Giancarlo Calvagno	G. Cortelazzo	{'relation': 'collaborate'}
+Giancarlo Calvagno	G. A. Mian	{'relation': 'collaborate'}
+G. Cortelazzo	G. A. Mian	{'relation': 'collaborate'}
+G. Cortelazzo	S. Dal Poz	{'relation': 'collaborate'}
+G. Cortelazzo	A. Baschirotto	{'relation': 'collaborate'}
+G. Cortelazzo	Enrico Malavasi	{'relation': 'collaborate'}
+G. Cortelazzo	N. Benvenuto	{'relation': 'collaborate'}
+G. Cortelazzo	Pietro Zanuttigh	{'relation': 'collaborate'}
+G. Cortelazzo	R. Manduchi	{'relation': 'collaborate'}
+G. Cortelazzo	Nicola Orio	{'relation': 'collaborate'}
+G. Cortelazzo	Stefano Mattoccia	{'relation': 'collaborate'}
+S. Dal Poz	R. Manduchi	{'relation': 'collaborate'}
+G. A. Mian	R. Manduchi	{'relation': 'collaborate'}
+A. Baschirotto	Enrico Malavasi	{'relation': 'collaborate'}
+Stefano Mattoccia	Pietro Zanuttigh	{'relation': 'collaborate'}

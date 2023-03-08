@@ -1,137 +1,142 @@
 graph [
   node [
     id 0
-    label "Pinar Boyraz"
-    affiliation "Mechanical Engineering Department, Istanbul Technical University, Istanbul, Turkey"
-    research "Digital Signal Processing, In-Vehicle Systems, biometric driver identification"
+    label "Peter Kopacek"
+    affiliation "Nan"
+    research "Systems Theory"
   ]
   node [
     id 1
-    label "N. Kitaoka"
-    affiliation "Dept. of Inf. Sci., Kyoto Univ., Japan"
-    research "Concept-based phrase, phrase candidate, optimal search"
+    label "Tony Larsson"
+    affiliation "School of Information Science, Computer and Electrical Engineering, Halmstad University, Halmstad, Sweden"
+    research "heterogeneous sensor network, wireless sensor network, sensor network"
   ]
   node [
     id 2
-    label "Norihide Kitaoka"
-    affiliation "Nagoya University, Nagoya, Japan"
-    research "recognition performance, integrative recognition method, speech recognition"
+    label "Marcio F.  da S. Oliveira"
+    affiliation "Federal University of Rio Grande do Sul, Porto Alegre, Brazil and University of Paderborn, Paderborn, Germany"
+    research "embedded system, design space exploration, design space"
   ]
   node [
     id 3
-    label "Nobuo Kawaguchi"
-    affiliation "Nan"
-    research "elevator acceleration data, elevator acceleration database, elevator acceleration recognition algorithm"
+    label "Bran Selic"
+    affiliation "Electrical &#38; Information Engineering, The University of Sydney, NSW 2006, Australia"
+    research "HPC system, High Performance Computing, fault tolerance"
   ]
   node [
     id 4
-    label "Takanori Nishino"
-    affiliation "Wakayama University"
-    research "freezing ice, water-ice interface, fast simulation method"
+    label "Douglas Schmidt"
+    affiliation "Nan"
+    research "underlying cloud environment, application developer, perioperative period"
   ]
   node [
     id 5
-    label "Yoshinori Dobashi"
-    affiliation "Hiroshima City University, Faculty of Information Sciences, 341 Ozukahigashi, Asaminamiku, Hiroshima, 7313194, Japan Email: {doba, okita}@im.hiroshimacu.ac.jp, JP"
-    research "proposed method, realistic image, efficient method"
+    label "A. H. Frigeri"
+    affiliation "Nan"
+    research "formal safety licensing, high safety requirement, individual safety integrity level"
   ]
   node [
     id 6
-    label "Kazuya Takeda"
-    affiliation "Graduate School of Information Science Nagoya University, Furocho, Chikusaku Nagoya 4648603, JAPAN"
-    research "dialog strategy, information retrieval, dialog example"
+    label "Y. Zorian"
+    affiliation "Department of Electrical Engineering, McGill University, Montreal, Quebec"
+    research "error coverage, new approach, better error coverage"
   ]
   node [
     id 7
-    label "Chiyomi Miyajima"
-    affiliation "Graduate School of Information Science Nagoya University, Furocho, Chikusaku Nagoya 4648603, JAPAN"
-    research "dialog strategy, information retrieval, dialog example"
+    label "Luigi Carro"
+    affiliation "Nan"
+    research "SRAM power consumption, aggressive power saving, power drain"
   ]
   node [
     id 8
-    label "Tadashi Kitamura"
-    affiliation "Department of Computer Science, Nagoya Institute of Technology, Nagoya, 4668555 Japan"
-    research "synthesized speech, proposed method, speech recognition"
+    label "Paolo Prinetto"
+    affiliation "Dipartimento di Automatica e Informatica Torino, Italy"
+    research "experimental result, test pattern, test algorithm"
   ]
   node [
     id 9
-    label "Heiga Zen"
-    affiliation "Nagoya Inst. of Technol., Nagoya, Japan"
-    research "multiple acoustic model, training algorithm, PoE framework"
+    label "Ricardo J. Machado"
+    affiliation "Dept. of Information Systems"
+    research "software development, software product line, software architecture"
   ]
   node [
     id 10
-    label "Kei Iwasaki"
-    affiliation "Wakayama University"
-    research "dynamic scene, interactive rendering method, previous method"
+    label "C. E. Pedreira"
+    affiliation "Pontif&#237;cia Car&#243;lica do Rio de Janeiro, Rio de Janeiro, Brazil"
+    research "embedded system, case study, embedded real-time system"
   ]
   node [
     id 11
-    label "Weifeng Li"
-    affiliation "Nan"
-    research "existing search engine, search engine, Search EngineThe general search"
+    label "K. Nilsen"
+    affiliation "Atego Systems"
+    research "real-time Java, critical Java, Java Technologies"
   ]
   node [
     id 12
-    label "Fumitada Itakura"
-    affiliation "Meijo University Nagoya,Japan"
-    research "proposed method, original noisy speech, speech recognition"
+    label "L. Carro"
+    affiliation "Federal University of Santa Catarina (UFSC), Brazil"
+    research "embedded system, experimental result, proposed approach"
   ]
   node [
     id 13
-    label "Hiroshi Fujimura"
-    affiliation "The authors are with the Department of Media Science, Graduate School of Information Science, Nagoya University, Nagoyashi, 4648603 Japan.,"
-    research "speech corpus, speech recognition accuracy, dialogue mode"
+    label "Lisane Brisolara"
+    affiliation "Nan"
+    research "embedded system, embedded Java application, embedded software development process"
   ]
   node [
     id 14
-    label "Takanobu Nishiura"
-    affiliation "The author is with Ritsumeikan University, Kusatsushi, 525. 8577 Japan.,"
-    research "Gion Festival, Yamahoko Parade, Festival music"
+    label "Dan&#250;bia B. Esp&#237;ndola"
+    affiliation "Center of Computational Sciences, Federal University of Rio Grande  FURG, Rio Grande, RS, Brazil"
+    research "intelligent maintenance system, maintenance system, gas industry"
   ]
   node [
     id 15
-    label "Shigeki Matsubara"
-    affiliation "Nagoya University, Nagoya, Japan"
-    research "ontological metadata database, store LR metadata, know-how information"
+    label "I. C. Teixeira"
+    affiliation "INESCID Lisbon / ISTUTL, Portugal"
+    research "test preparation, test effectiveness, proposed methodology"
   ]
   node [
     id 16
-    label "K. Takeda"
-    affiliation "Nan"
-    research "acceptable response time, inventory configuration, inventory system"
+    label "Oct&#225;vio P. Dias"
+    affiliation "IST/INESC, R. Alves Redol, 9, 1000029 Lisboa, Portugal"
+    research "proposed methodology, new approach, adaptive methodology"
   ]
   node [
     id 17
-    label "Tomoyuki Nishita"
-    affiliation "IEEE"
-    research "proposed method, previous method, fast method"
+    label "Fl&#225;vio R. Wagner"
+    affiliation "Universidade Federal do Rio Grande do Sul, Instituto de Inform&#225;tica, Caixa Postal 1501, 90001Porto Alegre RS, Brazil and IBM Rio Scientific Center"
+    research "embedded system, embedded application, design space"
   ]
   node [
     id 18
-    label "Katunobu Itou"
-    affiliation "Tokyo Institute of Technology, Tokyo, Japan"
-    research "speaker model, speaker verification, silent pause"
+    label "Franz J. Rammig"
+    affiliation "CLAB"
+    research "embedded system, system model, biological immune system"
   ]
   node [
     id 19
-    label "Satoshi Nakamura"
-    affiliation "Meiji University, Tokyo, Japan"
-    research "music video clip, viewer comment, music mood category"
+    label "Ivan M&#252;ller"
+    affiliation "Electrical Engineering Department, Federal University of Rio Grande do Sul, Brazil"
+    research "WirelessHART network, Wireless HART network, Wireless HART network analyzer"
   ]
   edge [
     source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 10
     relation "collaborate"
   ]
   edge [
     source 1
-    target 16
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -141,12 +146,22 @@ graph [
   ]
   edge [
     source 2
-    target 6
+    target 10
     relation "collaborate"
   ]
   edge [
     source 2
-    target 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -155,88 +170,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 14
+    source 3
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 19
+    source 3
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 2
+    source 3
     target 4
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
     source 4
     target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
     relation "collaborate"
   ]
   edge [
@@ -250,98 +200,68 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 17
-    relation "collaborate"
-  ]
-  edge [
     source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 8
     relation "collaborate"
   ]
   edge [
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 15
+    relation "collaborate"
+  ]
+  edge [
     source 7
-    target 18
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
     relation "collaborate"
   ]
   edge [
     source 8
-    target 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -350,52 +270,62 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 18
+    source 10
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 12
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 14
+    source 10
     target 19
     relation "collaborate"
   ]
   edge [
+    source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 17
+    relation "collaborate"
+  ]
+  edge [
     source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 17
     target 18
     relation "collaborate"
   ]

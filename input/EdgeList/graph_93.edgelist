@@ -1,31 +1,49 @@
-Ting Chen	J K Udupa	{'relation': 'collaborate'}
-Ting Chen	Dimitri Metaxas	{'relation': 'collaborate'}
-Ting Chen	Celina Zofia Imielinska	{'relation': 'collaborate'}
-K. Walker	R. Reynolds	{'relation': 'collaborate'}
-Celina Zofia Imielinska	J K Udupa	{'relation': 'collaborate'}
-Celina Zofia Imielinska	Dimitri Metaxas	{'relation': 'collaborate'}
-Krzysztof Chris Ciesielski	Xinjian Chen	{'relation': 'collaborate'}
-Krzysztof Chris Ciesielski	J K Udupa	{'relation': 'collaborate'}
-Lih-Shyang Chen	J K Udupa	{'relation': 'collaborate'}
-Paulo A.  V. Miranda	J K Udupa	{'relation': 'collaborate'}
-Paulo A.  V. Miranda	Alexandre X. Falcão	{'relation': 'collaborate'}
-Xinjian Chen	J K Udupa	{'relation': 'collaborate'}
-Xinjian Chen	D. A. Torigian	{'relation': 'collaborate'}
-Alexandre X. Falcão	J K Udupa	{'relation': 'collaborate'}
-Gabor T Herman	J K Udupa	{'relation': 'collaborate'}
-Gabor T Herman	S N Srihari	{'relation': 'collaborate'}
-Gabor T Herman	R. Reynolds	{'relation': 'collaborate'}
-Gabor T Herman	G. Frieder	{'relation': 'collaborate'}
-Gabor T Herman	C. Meyer	{'relation': 'collaborate'}
-Gabor T Herman	K. D. Toennies	{'relation': 'collaborate'}
-Dimitri Metaxas	J K Udupa	{'relation': 'collaborate'}
-G. Frieder	J K Udupa	{'relation': 'collaborate'}
-G. Frieder	C. Meyer	{'relation': 'collaborate'}
-J K Udupa	R. Reynolds	{'relation': 'collaborate'}
-J K Udupa	K. D. Toennies	{'relation': 'collaborate'}
-J K Udupa	C. Meyer	{'relation': 'collaborate'}
-J K Udupa	Li Bai	{'relation': 'collaborate'}
-J K Udupa	D. A. Torigian	{'relation': 'collaborate'}
-J K Udupa	S N Srihari	{'relation': 'collaborate'}
-J K Udupa	Venkatramana G. Ajjanagadde	{'relation': 'collaborate'}
-R. Reynolds	G. Loeffler	{'relation': 'collaborate'}
+Paul L. Lewin	E. Rogers	{'relation': 'collaborate'}
+Paul L. Lewin	Chris T. Freeman	{'relation': 'collaborate'}
+Paul L. Lewin	D. H. Owens	{'relation': 'collaborate'}
+Paul L. Lewin	Zhonglun Cai	{'relation': 'collaborate'}
+Paul L. Lewin	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Peter H. Bauer	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Peter H. Bauer	E. Rogers	{'relation': 'collaborate'}
+Ligang Wu	James Lam	{'relation': 'collaborate'}
+Ligang Wu	E. Rogers	{'relation': 'collaborate'}
+Ligang Wu	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Ligang Wu	Anton Kummert	{'relation': 'collaborate'}
+E. Rogers	I. V. Gaishun	{'relation': 'collaborate'}
+E. Rogers	Chris T. Freeman	{'relation': 'collaborate'}
+E. Rogers	D. H. Owens	{'relation': 'collaborate'}
+E. Rogers	V. R. Sule	{'relation': 'collaborate'}
+E. Rogers	Krzysztof Gałkowski	{'relation': 'collaborate'}
+E. Rogers	Anton Kummert	{'relation': 'collaborate'}
+E. Rogers	Olivier Bachelier	{'relation': 'collaborate'}
+E. Rogers	James Lam	{'relation': 'collaborate'}
+E. Rogers	Jarosław Gramacki	{'relation': 'collaborate'}
+E. Rogers	Zhonglun Cai	{'relation': 'collaborate'}
+E. Rogers	Driss Mehdi	{'relation': 'collaborate'}
+J. B. Edwards	D. H. Owens	{'relation': 'collaborate'}
+Shengyuan Xu	James Lam	{'relation': 'collaborate'}
+Shengyuan Xu	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Shengyuan Xu	Zhiping Lin	{'relation': 'collaborate'}
+N. P. Karampetakis	Krzysztof Gałkowski	{'relation': 'collaborate'}
+V. R. Sule	Krzysztof Gałkowski	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Chris T. Freeman	{'relation': 'collaborate'}
+Krzysztof Gałkowski	I. V. Gaishun	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Anton Kummert	{'relation': 'collaborate'}
+Krzysztof Gałkowski	D. H. Owens	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Joerg Velten	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Jarosław Gramacki	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Zhiping Lin	{'relation': 'collaborate'}
+Krzysztof Gałkowski	James Lam	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Driss Mehdi	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Zhonglun Cai	{'relation': 'collaborate'}
+Krzysztof Gałkowski	Olivier Bachelier	{'relation': 'collaborate'}
+Zhonglun Cai	Chris T. Freeman	{'relation': 'collaborate'}
+I. V. Gaishun	D. H. Owens	{'relation': 'collaborate'}
+Olivier Bachelier	Anton Kummert	{'relation': 'collaborate'}
+Olivier Bachelier	Driss Mehdi	{'relation': 'collaborate'}
+Driss Mehdi	Anton Kummert	{'relation': 'collaborate'}
+Anton Kummert	Zhiping Lin	{'relation': 'collaborate'}
+Anton Kummert	Joerg Velten	{'relation': 'collaborate'}
+Anton Kummert	James Lam	{'relation': 'collaborate'}
+Jarosław Gramacki	D. H. Owens	{'relation': 'collaborate'}
+James Lam	Zhiping Lin	{'relation': 'collaborate'}

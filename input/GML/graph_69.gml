@@ -1,166 +1,181 @@
 graph [
   node [
     id 0
-    label "Leon G. Stucki"
-    affiliation "Pingree Park, Colorado"
-    research "software engineering, software engineer, mythical software engineer"
+    label "Yoshihiro Okada"
+    affiliation "Nan"
+    research "Intelligent Box, medical training system, collaborative environment"
   ]
   node [
     id 1
-    label "Erich Hughes"
-    affiliation "The MITRE Corporation, Bedford MA"
-    research "dependable semantic web, semantic web, legacy application"
+    label "Kazuyuki Yoshida"
+    affiliation "Dept. of Computer Science and Intelligent Systems, Oita University, Oita 8701192, Japan"
+    research "discriminable tactile stimulus, tactile feedback function, tactile interaction"
   ]
   node [
     id 2
-    label "Alan R. Segal"
-    affiliation "NBI, Inc. U.S.A."
-    research "large-scale software system component, software system design, abstract specification"
+    label "James Newman"
+    affiliation "Nan"
+    research "Routledge Introductions, Teaching Videogames, videogames industry"
   ]
   node [
     id 3
-    label "Charles McKay"
-    affiliation "Interfaces, UHCL"
-    research "multiple contractor, lifecycle software process, prime software contractor"
+    label "Sung-Bae Cho"
+    affiliation "Human Inf. Process. Res. Lab., ATR, Kyoto"
+    research "multiple network, network output, fuzzy logic"
   ]
   node [
     id 4
-    label "Jack C. Wileden"
-    affiliation "Computer Science Department, University of Massachussets, Amherst, USA"
-    research "software system, software engineering, concurrent software system"
+    label "Alok Kumar"
+    affiliation "School of Management, Yale University, New Haven, CT"
+    research "price graph, stock market, actual stock"
   ]
   node [
     id 5
-    label "Offer Pazy"
-    affiliation "48 Beeri St., TelAviv 64233, Israel"
-    research "real-time Ada application, task termination, Ada community"
+    label "Kouichi Utsumiya"
+    affiliation "Institute for Hypernetwork Society"
+    research "proposed system, proposed method, haptic device"
   ]
   node [
     id 6
-    label "J. Ramanathan"
-    affiliation "MITRE Corp., Bedford, MA"
-    research "Gaussian process, alternate Gaussian process, covariance structure"
+    label "Young-Chul Kim"
+    affiliation "Department of Electronics and Computer Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 500757, Korea"
+    research "crosstalk delay, crosstalk-free codewords, genetic algorithm"
   ]
   node [
     id 7
-    label "Richard Fairley"
+    label "Yong-Moo Kwon"
     affiliation "Nan"
-    research ""
+    research "multimedia object, spatio-temporal constraint"
   ]
   node [
     id 8
-    label "C. Atkinson"
+    label "Eiji Aoki"
     affiliation "Nan"
-    research "Multidimensional Systemic Representation, Actor Network Theory, Actor Networks"
+    research "Information Technology, Cloud Service, Educational Field"
   ]
   node [
     id 9
-    label "K A Gilroy"
-    affiliation "Harris Corporation, Melbourne, Florida"
-    research "Ada software, automated transformation, Ada language"
+    label "Jun-Ki Min"
+    affiliation "Dept. of Comput. Sci., Yonsei Univ., Seoul, South Korea"
+    research "social context, personal context, mobile social network"
   ]
   node [
     id 10
-    label "Dennis Cornhill"
-    affiliation "Honeywell, Minneapolis, MN"
-    research "Ada entity, Ada Program Partitioning Language, Ada ProgramsAda Program Partitioning"
+    label "Jin H. Kim"
+    affiliation "Nan"
+    research "CMU design automation system, automated design, chip area"
   ]
   node [
     id 11
-    label "David Eichmann"
-    affiliation "School of Library and Information Science, The University of Iowa"
-    research "video data, knowledge transfer, video event"
+    label "Masatoshi Nishimura"
+    affiliation "Nan"
+    research "proposed method, implementation method, book-style interface usable"
   ]
   node [
     id 12
-    label "Fred Maymir-Ducharme"
-    affiliation "Loral Defense SystemsEast, Reston, VA"
-    research "domain analysis, domain analysis technology, dynamic priority"
+    label "Hideyuki Takagi"
+    affiliation "Nan"
+    research "one-dimensional space, proposed method, benchmark function"
   ]
   node [
     id 13
-    label "Mike Kamrad"
-    affiliation "ARTEWG Chair, Honeywell, Kamrad at HIMULTICS"
-    research "inter-program communication, session summary, Ada experience report"
+    label "Hiroaki Nishino"
+    affiliation "Nan"
+    research "medical image, Medical Imaging Diagnosis, medical activity"
   ]
   node [
     id 14
-    label "Joseph K. Cross"
-    affiliation "Lockheed Martin Tactical Systems, St. Paul, Minnesota"
-    research "mission-critical DRE system, Fault-Tolerant CORBA, Real-Time CORBA"
+    label "Kazuyoshi Korida"
+    affiliation "Dept. of Communication, Oita Pref. College of Arts and Culture, Oita 8700833, Japan"
+    research "virtual environment, virtual environments3D, virtual object"
   ]
   node [
     id 15
-    label "Greg Eisenhauer"
-    affiliation "College of Computing, Georgia Institute of Technology, Atlanta, Georgia"
-    research "data analytics, data staging, output data"
+    label "Akira Yamaguchi"
+    affiliation "Keio University, Department of System Design Engineering, 3141, Hiyoshi, Kohokuku, Yokohama, 2238522, Japan"
+    research "multilateral control system, time delay, constant communication time delay"
   ]
   node [
     id 16
-    label "Bhavani M. Thuraisingham"
-    affiliation "UT Dallas, Richardson"
-    research "RDF data, data stream, multimedia data"
+    label "Frank Earl Pollick"
+    affiliation "University of Glasgow, UK"
+    research "action understanding, different level, abstract action goal"
   ]
   node [
     id 17
-    label "Rakesh Jha"
-    affiliation "Nan"
-    research "application behavior, data-flow application, adaptive resource allocation"
+    label "Ashish Ghosh"
+    affiliation "Machine Intelligence Unit Indian Statistical Institute 203 B. T Road Calcutta 70003S, India ash@isical.ernet.in"
+    research "proposed algorithm, proposed method, proposed technique"
   ]
   node [
     id 18
-    label "Dock Allen"
-    affiliation "Control Data Corporation, Bloomington, MN"
-    research "real-time applicationsAda run-time environment, tailored run-time environment"
+    label "Shigeru Takano"
+    affiliation "Nan"
+    research "Electric Power Consumption, energy consumption, WiP Abstract"
   ]
   node [
     id 19
-    label "J. Bamberger"
-    affiliation "TRW Defense Systems Group, Redondo Beach CA"
-    research "software engineering, Software Process Practicum, software quality"
+    label "Sang-Rok Oh"
+    affiliation "Intelligent Systems Control Research Center, Korea Institute of Science and Technology, P.O. Box 131 Cheongryang, Seoul, Korea/ email: cyj@amadeus.kist.re.kr"
+    research "humanoid robot, log-polar image, visual tracking"
   ]
   edge [
     source 0
-    target 4
+    target 5
     relation "collaborate"
   ]
   edge [
     source 0
-    target 7
+    target 13
     relation "collaborate"
   ]
   edge [
     source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 18
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 0
     target 7
     relation "collaborate"
   ]
   edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 8
+    relation "collaborate"
+  ]
+  edge [
     source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 6
     relation "collaborate"
   ]
@@ -171,42 +186,32 @@ graph [
   ]
   edge [
     source 3
-    target 18
+    target 17
     relation "collaborate"
   ]
   edge [
     source 3
-    target 7
+    target 16
     relation "collaborate"
   ]
   edge [
     source 3
-    target 19
+    target 10
     relation "collaborate"
   ]
   edge [
     source 3
-    target 13
+    target 4
     relation "collaborate"
   ]
   edge [
     source 3
-    target 11
+    target 5
     relation "collaborate"
   ]
   edge [
     source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -215,43 +220,58 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 5
     target 7
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 19
+    source 5
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 11
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 18
+    source 6
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 7
     target 13
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 17
+    source 8
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 8
     target 13
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 15
+    source 11
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -261,32 +281,17 @@ graph [
   ]
   edge [
     source 13
-    target 18
+    target 14
     relation "collaborate"
   ]
   edge [
     source 13
-    target 17
+    target 18
     relation "collaborate"
   ]
   edge [
     source 13
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 18
     relation "collaborate"
   ]
 ]

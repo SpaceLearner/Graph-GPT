@@ -1,60 +1,70 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:03 2023
 # 
-Timothy Wilson	10
-Jianbo Zhang	{'relation': 'collaborate'}
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-A. D. McGettrick	{'relation': 'collaborate'}
-S. E. Conry	{'relation': 'collaborate'}
-Roger B. Dannenberg	{'relation': 'collaborate'}
-Guofang Jiao	{'relation': 'collaborate'}
-Robert C. Seacord	{'relation': 'collaborate'}
-David Svoboda	{'relation': 'collaborate'}
-John Impagliazzo	{'relation': 'collaborate'}
-Thomas Plum	{'relation': 'collaborate'}
-Hua Chen	3
-Yan Wen	{'relation': 'collaborate'}
-Jinjing Zhao	{'relation': 'collaborate'}
-Jianbo Zhang	{'relation': 'collaborate'}
-Shujun Zhang	2
-Yun Liu	{'relation': 'collaborate'}
-Jianbo Zhang	{'relation': 'collaborate'}
-Yun Liu	1
-Jianbo Zhang	{'relation': 'collaborate'}
-S. E. Conry	3
-John Impagliazzo	{'relation': 'collaborate'}
-A. D. McGettrick	{'relation': 'collaborate'}
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Robert C. Seacord	3
-David Svoboda	{'relation': 'collaborate'}
-Thomas Plum	{'relation': 'collaborate'}
-Roger B. Dannenberg	{'relation': 'collaborate'}
-David Svoboda	2
-Thomas Plum	{'relation': 'collaborate'}
-Roger B. Dannenberg	{'relation': 'collaborate'}
-Jinjing Zhao	2
-Jianbo Zhang	{'relation': 'collaborate'}
-Yan Wen	{'relation': 'collaborate'}
-John Impagliazzo	2
-A. D. McGettrick	{'relation': 'collaborate'}
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Thomas Plum	1
-Roger B. Dannenberg	{'relation': 'collaborate'}
-Jiping Liu	2
-Bei Wang	{'relation': 'collaborate'}
-Jianbo Zhang	{'relation': 'collaborate'}
-Yan Wen	1
-Jianbo Zhang	{'relation': 'collaborate'}
-Michael A. Harper	1
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Guofang Jiao	1
-Jianbo Zhang	{'relation': 'collaborate'}
-Roger B. Dannenberg	0
-Nicole Drechsler	1
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-A. D. McGettrick	1
-Mitchell Aaron Thornton	{'relation': 'collaborate'}
-Mitchell Aaron Thornton	0
-Jianbo Zhang	1
-Bei Wang	{'relation': 'collaborate'}
-Bei Wang	0
+E. P. Mariatos	10
+Costas E. Goutis	{'relation': 'collaborate'}
+Michael K. Birbas	{'relation': 'collaborate'}
+S. S. Nikolaidis	{'relation': 'collaborate'}
+G.-P. Economou	{'relation': 'collaborate'}
+G. D. Papadopoulos	{'relation': 'collaborate'}
+S. K. Tsasakou	{'relation': 'collaborate'}
+N. C. Petrellis	{'relation': 'collaborate'}
+D. E. Metafas	{'relation': 'collaborate'}
+P. Merakos	{'relation': 'collaborate'}
+N. S Voros	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	3
+Michael K. Birbas	{'relation': 'collaborate'}
+V. Mariatos	{'relation': 'collaborate'}
+N. C. Petrellis	{'relation': 'collaborate'}
+A. Milidonis	2
+Costas E. Goutis	{'relation': 'collaborate'}
+Dimitrios J. Soudris	{'relation': 'collaborate'}
+P. Merakos	3
+K. Masselos	{'relation': 'collaborate'}
+Michael K. Birbas	{'relation': 'collaborate'}
+Costas E. Goutis	{'relation': 'collaborate'}
+D. E. Metafas	4
+Costas E. Goutis	{'relation': 'collaborate'}
+K. Masselos	{'relation': 'collaborate'}
+S. S. Nikolaidis	{'relation': 'collaborate'}
+G.-P. Economou	{'relation': 'collaborate'}
+V. Mariatos	2
+Michael K. Birbas	{'relation': 'collaborate'}
+N. C. Petrellis	{'relation': 'collaborate'}
+G. Anagnostopoulos	1
+Costas E. Goutis	{'relation': 'collaborate'}
+Michael K. Birbas	8
+Costas E. Goutis	{'relation': 'collaborate'}
+F. Plessas	{'relation': 'collaborate'}
+Dimitrios J. Soudris	{'relation': 'collaborate'}
+G. D. Papadopoulos	{'relation': 'collaborate'}
+N. C. Petrellis	{'relation': 'collaborate'}
+S. K. Tsasakou	{'relation': 'collaborate'}
+Grigorios Kalivas	{'relation': 'collaborate'}
+N. S Voros	{'relation': 'collaborate'}
+Costas E. Goutis	5
+K. Masselos	{'relation': 'collaborate'}
+J. Cornelis	{'relation': 'collaborate'}
+Dimitrios J. Soudris	{'relation': 'collaborate'}
+S. S. Nikolaidis	{'relation': 'collaborate'}
+G.-P. Economou	{'relation': 'collaborate'}
+Dimitrios J. Soudris	3
+K. Masselos	{'relation': 'collaborate'}
+N. S Voros	{'relation': 'collaborate'}
+S. S. Nikolaidis	{'relation': 'collaborate'}
+Grigorios Kalivas	1
+F. Plessas	{'relation': 'collaborate'}
+S. K. Tsasakou	1
+N. S Voros	{'relation': 'collaborate'}
+G. D. Papadopoulos	1
+N. C. Petrellis	{'relation': 'collaborate'}
+S. S. Nikolaidis	1
+G.-P. Economou	{'relation': 'collaborate'}
+G.-P. Economou	0
+N. S Voros	1
+K. Masselos	{'relation': 'collaborate'}
+K. Masselos	1
+J. Cornelis	{'relation': 'collaborate'}
+J. Cornelis	0
+N. C. Petrellis	0
+F. Plessas	0

@@ -1,137 +1,137 @@
 graph [
   node [
     id 0
-    label "Fangyan Rao"
-    affiliation "IBM China Research Laboratory, Beijing, China"
-    research "data warehouse, spatial data, spatial data warehouse"
+    label "Mon-Song Chen"
+    affiliation "Nan"
+    research "heterogeneous multimedia stream, sweeping scheduling"
   ]
   node [
     id 1
-    label "QingBo Wang"
-    affiliation "IBM China Research Laboratory, China"
-    research "virtual appliance, data center, service deployment"
+    label "James P. Gray"
+    affiliation "IBM Corporation, P.O. Box 12195, Research Triangle Park, N.C."
+    research "SNA Networks, SNA enhancement, SNA network"
   ]
   node [
     id 2
-    label "E. Miller"
+    label "Y. Ofek"
     affiliation "Nan"
-    research "PacketCable architecture, multimedia system architecture, PacketCable architecturePacketCableTM"
+    research "resource sharing, synchronous optical hypergraph"
   ]
   node [
     id 3
-    label "N. Fujisawa"
-    affiliation "Dept. of Theor. and Appl. Mech., Univ. of Illinois, Urbana, Illinois 61801, USA (Dept. of Mech. Sys. Eng., Gunma Univ., Kiryu, 376, Japan) (Current: Dept. of Mech. and Prod. Eng., Niigata Univ., N ..."
-    research "velocity field, PIV Measurement, flow pattern"
+    label "T. P. Barzilai"
+    affiliation "IBM T.J. Watson Research Center, Hawthorne, NY"
+    research "RSVP protocol, Service Architecture, tree connection"
   ]
   node [
     id 4
-    label "Xing Jin"
-    affiliation "Warwick Business School, University of Warwick, Coventry CV4 7AL, United Kingdom"
-    research "quasiMonte Carlo method, portfolio value-at-risk, indicator function"
+    label "A. Kershenbaum"
+    affiliation "Nan"
+    research "integrated network tool, interactive designThe network design, network architecture"
   ]
   node [
     id 5
-    label "Haixun Wang"
-    affiliation "Nan"
-    research "match list, scoring function, Weighted Proximity Best-Joins"
+    label "Z.-Y. Shae"
+    affiliation "IBM Watson Research Center, 30 Sawmill River Road, Hawthorne, NY 10532, USA <rfc822>zshae@us.ibm.com</rfc822>"
+    research "P system, amultimedia chat system, peerTalk system"
   ]
   node [
     id 6
-    label "Li Zhang"
-    affiliation "Beihang University, Beijing, China"
-    research "customer satisfaction, web customer satisfaction, iterative model"
+    label "Baruch Awerbuch"
+    affiliation "baruch@blaze.cs.jhu.edu"
+    research "online algorithm, dynamic network, competitive randomized algorithm"
   ]
   node [
     id 7
-    label "Jian Shu"
-    affiliation "Faculty of Computing, Nanchang Institute of Aeronautical Technology, Nanchang, Jiangxi, P.R. China"
-    research "optimal superimposition, general solution, weighted optimal rigid superimposition"
+    label "A E Baratz"
+    affiliation "IBM Thomas J. Watson Research Center, Yorktown Heights, NY"
+    research "maximum network flow problem, deadlock-free flow control, existing network request"
   ]
   node [
     id 8
-    label "Ying Chen"
-    affiliation "National University of Singapore"
-    research "x-ray image, Smith-Waterman algorithm, biomedical text retrieval"
+    label "P. Kermani"
+    affiliation "Nan"
+    research "integrated network tool, interactive designThe network design, network architecture"
   ]
   node [
     id 9
-    label "Yuan-sheng Luo"
-    affiliation "School of Computer and Communication Engineering, Changsha University of Science and Technology, Changsha 410114, China"
-    research "service composition, composite service, QoS-aware end-to-end service compositionMany"
+    label "Harrick M. Vin"
+    affiliation "Dept. of Comput. Sci. &#38; Eng., California Univ., San Diego, La Jolla, CA"
+    research "multimedia server, integrated services network, video stream"
   ]
   node [
     id 10
-    label "Y. Nakayama"
-    affiliation "Toshiba Corporation, Kawasaki, 2128582 Japan"
-    research "sequence control program, control logic, sequence control program design"
+    label "David Peleg"
+    affiliation "Nan"
+    research "communication requirement, English auction, limited communication assumption"
   ]
   node [
     id 11
-    label "Zhen Chen"
-    affiliation "Nan"
-    research "out-of-sequence packet, buffering strategy, limited fast memory capacity"
+    label "Ashish Mehra"
+    affiliation "RealTime Computing Laboratory, Department of Electrical Engineering and Computer Science, The University of Michigan, Ann Arbor, MI 481092122, USA"
+    research "real-time channel, communication subsystem, host communication software"
   ]
   node [
     id 12
-    label "T. Lunney"
-    affiliation "Nan"
-    research "information technologyA microprocessor-controlled textile, summer camp"
+    label "Erich M. Nahum"
+    affiliation "IBM, Yroktown Heights, NY, USA"
+    research "performance issue, SIP server performance, experimental performance study"
   ]
   node [
     id 13
-    label "Ruth Willenborg"
-    affiliation "IBM Software Group, RTP, NC"
-    research "virtual appliance, service deployment, deployment process"
+    label "I S Gopal"
+    affiliation "Internet Architecture, Florham Park, NJ"
+    research "new model, objective function, high-speed network"
   ]
   node [
     id 14
-    label "Gang Huang"
-    affiliation "Intel Corporation"
-    research "complex hierarchical power distribution, power delivery, power supply noise"
+    label "J M Jaffe"
+    affiliation "IBM, T. J. Watson Research Center, Hawthorne, NY"
+    research "knot detection algorithm, multi-destination routing, load operation"
   ]
   node [
     id 15
-    label "Changhua Sun"
-    affiliation "IBM, Beijing"
-    research "virtual appliance, service deployment, short flow"
+    label "Debanjan Saha"
+    affiliation "IBM Research"
+    research "on-line game, Euclidean embedding, game publisher"
   ]
   node [
     id 16
-    label "Xian Wu"
-    affiliation "Nan"
-    research "fixed point, approximate selection, generalized quasi-variational inequality"
+    label "Adrain Segall"
+    affiliation "IBM Thomas J.Watson Research Center, Yorktown Heights, NY"
+    research "new protocol, slot reuse, Bluetooth Scatternets"
   ]
   node [
     id 17
-    label "Y. Zhao"
-    affiliation "Dept. of Electr. Eng., Washington Univ., Seattle, WA"
-    research "GD model, Gibbs distribution, Markov chain"
+    label "D. Pozefsky"
+    affiliation "IBM, Research Triangle Park, NC"
+    research "directory service, LEN architecture, LEN prototype"
   ]
   node [
     id 18
-    label "Peijie Yu"
-    affiliation "Shanghai Jiao Tong University"
-    research "security monitor, Leveraging hardware virtualization, O virtualization"
+    label "Paul E. Green, Jr."
+    affiliation "Tellabs Operations, Inc."
+    research "ArticleCommunicrostic No., First Page, ArticlePuzzle No."
   ]
   node [
     id 19
-    label "K. Brown"
-    affiliation "Nan"
-    research "microprocessor-controlled textile"
+    label "R. A. Sultan"
+    affiliation "IBM T. J. Watson Research Center, Yorktown Heights, NY"
+    research "Implementing System, advanced peer-to-peer, advanced peer-to-peer networkingATM"
   ]
   edge [
     source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 4
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 11
+    source 0
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -141,72 +141,97 @@ graph [
   ]
   edge [
     source 1
-    target 8
+    target 7
     relation "collaborate"
   ]
   edge [
     source 1
-    target 15
+    target 14
     relation "collaborate"
   ]
   edge [
     source 1
-    target 13
+    target 18
     relation "collaborate"
   ]
   edge [
     source 2
-    target 19
+    target 3
     relation "collaborate"
   ]
   edge [
     source 3
-    target 10
+    target 12
     relation "collaborate"
   ]
   edge [
     source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
     target 11
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 8
+    source 3
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 8
+    source 3
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 3
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -215,88 +240,68 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 9
+    source 7
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 7
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 18
     relation "collaborate"
   ]
   edge [
     source 8
-    target 14
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 11
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
     target 16
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 13
+    source 14
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 15
+    source 14
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 14
     target 17
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 17
+    source 17
+    target 18
     relation "collaborate"
   ]
 ]

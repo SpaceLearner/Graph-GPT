@@ -1,40 +1,32 @@
-Sharon Jeanette Simmons	Norman Wilde	{'relation': 'collaborate'}
-Sharon Jeanette Simmons	Michael Jiang	{'relation': 'collaborate'}
-Sharon Jeanette Simmons	Michael Groble	{'relation': 'collaborate'}
-Sharon Jeanette Simmons	John Coffey	{'relation': 'collaborate'}
-John Coffey	Norman Wilde	{'relation': 'collaborate'}
-John Coffey	Eman M. El-Sheikh	{'relation': 'collaborate'}
-Eman M. El-Sheikh	Norman Wilde	{'relation': 'collaborate'}
-Eman M. El-Sheikh	Benjamin Hartmann	{'relation': 'collaborate'}
-Michael Groble	Michael Jiang	{'relation': 'collaborate'}
-Michael Groble	Norman Wilde	{'relation': 'collaborate'}
-Robert S. Arnold	Norman Wilde	{'relation': 'collaborate'}
-Robert S. Arnold	Malcolm Slovin	{'relation': 'collaborate'}
-Malcolm C Munro	Norman Wilde	{'relation': 'collaborate'}
-Malcolm C Munro	K. H. Bennett	{'relation': 'collaborate'}
-Malcolm C Munro	Jean-Pierre Queille	{'relation': 'collaborate'}
-Malcolm C Munro	Vaclav Rajlich	{'relation': 'collaborate'}
-Norman Wilde	Vaclav Rajlich	{'relation': 'collaborate'}
-Norman Wilde	W. Eric Wong	{'relation': 'collaborate'}
-Norman Wilde	Michael Jiang	{'relation': 'collaborate'}
-Norman Wilde	Joseph R. Horgan	{'relation': 'collaborate'}
-Norman Wilde	Jean-Pierre Queille	{'relation': 'collaborate'}
-Norman Wilde	Scott M. Brown	{'relation': 'collaborate'}
-Norman Wilde	J. Jenny Li	{'relation': 'collaborate'}
-Norman Wilde	S. London	{'relation': 'collaborate'}
-Norman Wilde	Paul Matthews	{'relation': 'collaborate'}
-Norman Wilde	Malcolm Slovin	{'relation': 'collaborate'}
-Norman Wilde	K. H. Bennett	{'relation': 'collaborate'}
-Norman Wilde	Benjamin Hartmann	{'relation': 'collaborate'}
-Norman Wilde	J. L. Alberi	{'relation': 'collaborate'}
-J. L. Alberi	J. Jenny Li	{'relation': 'collaborate'}
-J. L. Alberi	W. Eric Wong	{'relation': 'collaborate'}
-J. L. Alberi	S. London	{'relation': 'collaborate'}
-J. L. Alberi	Joseph R. Horgan	{'relation': 'collaborate'}
-W. Eric Wong	J. Jenny Li	{'relation': 'collaborate'}
-W. Eric Wong	S. London	{'relation': 'collaborate'}
-W. Eric Wong	Joseph R. Horgan	{'relation': 'collaborate'}
-Joseph R. Horgan	S. London	{'relation': 'collaborate'}
-Joseph R. Horgan	J. Jenny Li	{'relation': 'collaborate'}
-J. Jenny Li	S. London	{'relation': 'collaborate'}
-K. H. Bennett	Vaclav Rajlich	{'relation': 'collaborate'}
+Linda Brodo	Alejandro F. Frangi	{'relation': 'collaborate'}
+Linda Brodo	Javier Galbally	{'relation': 'collaborate'}
+Linda Brodo	M. Tistarelli	{'relation': 'collaborate'}
+Linda Brodo	Julian Fierrez	{'relation': 'collaborate'}
+S. A. M. Baert	Alejandro F. Frangi	{'relation': 'collaborate'}
+S. A. M. Baert	M. A. Viergever	{'relation': 'collaborate'}
+Julian Fierrez	Alejandro F. Frangi	{'relation': 'collaborate'}
+Julian Fierrez	Javier Galbally	{'relation': 'collaborate'}
+Julian Fierrez	M. Tistarelli	{'relation': 'collaborate'}
+Alejandro F. Frangi	B. K. Ersbøll	{'relation': 'collaborate'}
+Alejandro F. Frangi	M. A. Viergever	{'relation': 'collaborate'}
+Alejandro F. Frangi	Bob Moore	{'relation': 'collaborate'}
+Alejandro F. Frangi	Javier Galbally	{'relation': 'collaborate'}
+Alejandro F. Frangi	Bart M. ter Haar Romeny	{'relation': 'collaborate'}
+Alejandro F. Frangi	Michael Sass Hansen	{'relation': 'collaborate'}
+Alejandro F. Frangi	Ernesto Zacur	{'relation': 'collaborate'}
+Alejandro F. Frangi	Bram van Ginneken	{'relation': 'collaborate'}
+Alejandro F. Frangi	Jimison Iavindrasana	{'relation': 'collaborate'}
+Alejandro F. Frangi	Edward J. Vigmond	{'relation': 'collaborate'}
+Alejandro F. Frangi	A. Berruezo	{'relation': 'collaborate'}
+Alejandro F. Frangi	Avan Suinesiaputra	{'relation': 'collaborate'}
+Alejandro F. Frangi	M. Tistarelli	{'relation': 'collaborate'}
+Alejandro F. Frangi	U. Perego	{'relation': 'collaborate'}
+Alejandro F. Frangi	M. Cremonesi	{'relation': 'collaborate'}
+M. Cremonesi	C. Ferri	{'relation': 'collaborate'}
+M. Cremonesi	U. Perego	{'relation': 'collaborate'}
+Javier Galbally	M. Tistarelli	{'relation': 'collaborate'}
+B. K. Ersbøll	Michael Sass Hansen	{'relation': 'collaborate'}
+Bob Moore	Jimison Iavindrasana	{'relation': 'collaborate'}
+Bram van Ginneken	Bart M. ter Haar Romeny	{'relation': 'collaborate'}
+Bram van Ginneken	M. A. Viergever	{'relation': 'collaborate'}
+Bart M. ter Haar Romeny	M. A. Viergever	{'relation': 'collaborate'}

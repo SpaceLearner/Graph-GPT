@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hrvoje Jenkač">
+      <data key="affiliation">Institute for Communications Engineering, Munich University of Technology, Munich, Germany</data>
+      <data key="research">video stream, scalable video coding, wireless video</data>
+    </node>
+    <node id="Q. D. Yang">
+      <data key="affiliation">Rockwell Scientific, 1049, Camino Do Rios, Thousand Oaks, CA</data>
+      <data key="research">cohesive zone model, solder joint, cyclic loading</data>
+    </node>
+    <node id="L. D. Fink">
+      <data key="affiliation">Instructional Dev. Program, Oklahoma Univ., Norman, OK, USA</data>
+      <data key="research">research project, deep learning, higher level learning</data>
+    </node>
+    <node id="Z. Tang">
+      <data key="affiliation">Nan</data>
+      <data key="research">nested loop, Control Mechanism, efficient nested control mechanism</data>
+    </node>
+    <node id="T. Yu">
+      <data key="affiliation">General Electric, USA</data>
+      <data key="research">comprehensive approach, systems level approach, perimeter protection</data>
+    </node>
+    <node id="Nils Krahnstoever">
+      <data key="affiliation">General Electric Global Research, Niskayuna, NY</data>
+      <data key="research">visual human motion tracking, RFID-based object tracking, human motion tracking</data>
+    </node>
+    <node id="Daesik Hong">
+      <data key="affiliation">Nan</data>
+      <data key="research">advanced peak, successive peak, new weighting coefficient</data>
+    </node>
+    <node id="G. Zhang">
+      <data key="affiliation">Dept. of Biological &amp; Agricultural Engg, The University of Georgia, Athens, GA</data>
+      <data key="research">composite reconstruction metric, biomechanical stability, virtual craniofacial reconstruction</data>
+    </node>
+    <node id="Mark Yeary">
+      <data key="affiliation">The University of Oklahoma</data>
+      <data key="research">shift-add network, MRCM problem, weather radar polarimetry</data>
+    </node>
+    <node id="G. Doretto">
+      <data key="affiliation">Dept. of CS &amp; EE, West Virginia University, Morgantown, WV</data>
+      <data key="research">object class, context aware dictionary, contextual information</data>
+    </node>
+    <node id="Reiner Hegerl">
+      <data key="affiliation">Nan</data>
+      <data key="research">Steerable Pyramid Denoising, Electron Tomographic Reconstructions, Three-Dimensional Electron MicroscopyElectron tomography</data>
+    </node>
+    <node id="Xingfa Gu">
+      <data key="affiliation">Institute of Remote Sensing Applications, Chinese Academy of Sciences, Beijing, 100080, China</data>
+      <data key="research">hybrid method, atmospheric MTF, object-oriented method</data>
+    </node>
+    <node id="Dennis Chen">
+      <data key="affiliation">SPARC Technology, Sun Microsystems, Inc, 2550 Garcia Avenue, Mountain View, CA</data>
+      <data key="research">UltraSPARC microprocessor, UltraSPARC microprocessorThe overall verification, 64-bit SPARC V9 architecture</data>
+    </node>
+    <node id="C. Greco">
+      <data key="affiliation">Dipartimento di Automatica e Informatica, Politecnico di Torino, CENS (Centro Elaborazione Numerale del Segnale  CNR), Corso Duca degli Abruzzi 24, 10129 Torino, Italy</data>
+      <data key="research">MUSMAR approachThe problem, MUSMAR self-tuner, acronym MUSMAR</data>
+    </node>
+    <node id="R. Nevatia">
+      <data key="affiliation">Nan</data>
+      <data key="research">evidence feature, Expandable Bayesian network, object description</data>
+    </node>
+    <node id="Kwei-Jay Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">air traffic control system, concurrency control, concurrency control manager</data>
+    </node>
+    <node id="B. Zhang">
+      <data key="affiliation">Physics School, Peking University, 100871 Beijing, China</data>
+      <data key="research">injection current, Microfluidic cooling, 2-GAFIBM milling rate</data>
+    </node>
+    <node id="Peter Tu">
+      <data key="affiliation">General Electric, USA</data>
+      <data key="research">search image, facial image, training data</data>
+    </node>
+    <node id="T. Stockhammer">
+      <data key="affiliation">Nomor Res., Bergen, Germany</data>
+      <data key="research">wireless video application, AVC video, video bit stream</data>
+    </node>
+    <node id="C. Weiss">
+      <data key="affiliation">Nan</data>
+      <data key="research">Asynchronous Learning Module Development, Better Student Learning, deep learning</data>
+    </node>
+    <edge source="Hrvoje Jenkač" target="T. Stockhammer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hrvoje Jenkač" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Q. D. Yang" target="T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. D. Fink" target="G. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. D. Fink" target="T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. D. Fink" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. D. Fink" target="Mark Yeary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Tang" target="T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="B. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Daesik Hong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="R. Nevatia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Nils Krahnstoever">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Kwei-Jay Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Dennis Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Peter Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Reiner Hegerl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="G. Doretto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="C. Greco">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Xingfa Gu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="G. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Yu" target="Mark Yeary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nils Krahnstoever" target="C. Greco">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nils Krahnstoever" target="G. Doretto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nils Krahnstoever" target="Peter Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Zhang" target="Mark Yeary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Zhang" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Yeary" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Doretto" target="C. Greco">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Nevatia" target="Peter Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Stockhammer" target="C. Weiss">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

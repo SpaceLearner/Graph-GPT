@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Michael J. Gallivan">
+      <data key="affiliation">Georgia State University, CIS Department, Atlanta, GA</data>
+      <data key="research">IT professional, IT outsourcing, IT profession</data>
+    </node>
+    <node id="Mohan R Tanniru">
+      <data key="affiliation">University of WisconsinMadison, Madison, Wisconsin</data>
+      <data key="research">process redesign, career path, information system</data>
+    </node>
+    <node id="Dennis F. Galletta">
+      <data key="affiliation">Fox School of Business and Management Temple University, Philadelphia, PA</data>
+      <data key="research">MIS Research, experimental study, user performance</data>
+    </node>
+    <node id="Ayoung Suh">
+      <data key="affiliation">Ewha Womans University, Korea</data>
+      <data key="research">virtual community, online social tie, social network</data>
+    </node>
+    <node id="Thomas Meservy">
+      <data key="affiliation">Brigham Young University</data>
+      <data key="research">deception detection, deception detection method, Detecting deception</data>
+    </node>
+    <node id="Chris Ogan">
+      <data key="affiliation">School of Journalism, Indiana University, Bloomington, Indiana, USA</data>
+      <data key="research">organizational culture, student experience, IT education</data>
+    </node>
+    <node id="Kelly J. Fadel">
+      <data key="affiliation">Utah State University</data>
+      <data key="research">knowledge exchange, knowledge source, knowledge transfer</data>
+    </node>
+    <node id="Ajit Kambil">
+      <data key="affiliation">Andersen Consulting</data>
+      <data key="research">electronic commerce, business network, electronic market</data>
+    </node>
+    <node id="Monica Adya">
+      <data key="affiliation">Marquette University, Milwaukee, WI</data>
+      <data key="research">IT career, IT professional, women IT professional</data>
+    </node>
+    <node id="David E Pingry">
+      <data key="affiliation">Univ. of Arizona, Tucson</data>
+      <data key="research">IT investment, IT spending, alternative patent policy</data>
+    </node>
+    <node id="Manju K. Ahuja">
+      <data key="affiliation">Computer and Information Systems, College of Business, University of Louisville, Louisville, KY 40292, United States</data>
+      <data key="research">virtual organization, information technology, work environment</data>
+    </node>
+    <node id="Alexandra Durcikova">
+      <data key="affiliation">Price College of Business, The University of Oklahoma, Norman, OK, USA</data>
+      <data key="research">knowledge management, knowledge management system, knowledge source</data>
+    </node>
+    <node id="Hoon S. Cha">
+      <data key="affiliation">Nan</data>
+      <data key="research">knowledge usefulness, source credibility, Experimental TestUnderstanding knowledge transfer</data>
+    </node>
+    <node id="Matthew L. Jensen">
+      <data key="affiliation">Nan</data>
+      <data key="research">common knowledge interest, influence knowledge contribution, knowledge evaluation</data>
+    </node>
+    <node id="Brian Butler">
+      <data key="affiliation">Carnegie Mellon University</data>
+      <data key="research">social feature, profile information, social emphasis</data>
+    </node>
+    <node id="Elisa Mattarelli">
+      <data key="affiliation">University of Modena and Reggio Emilia, Reggio Emilia, Italy</data>
+      <data key="research">24-h knowledge factory, knowledge sharing, co-located team</data>
+    </node>
+    <node id="A. Woszczynski">
+      <data key="affiliation">Kennesaw State University</data>
+      <data key="research">student success, IT educator, IT field</data>
+    </node>
+    <node id="M. E. Thatcher">
+      <data key="affiliation">Department of Computer Information Systems, University of Louisville, College of Business, Louisville, KY 40292, USA</data>
+      <data key="research">product quality, IT investment, insurance company</data>
+    </node>
+    <node id="Susan A. Brown">
+      <data key="affiliation">University of Arizona's Eller College of Management</data>
+      <data key="research">Nano Mapper, User Acceptance, cognitive fit</data>
+    </node>
+    <node id="Suzanne P. Weisband">
+      <data key="affiliation">Univ. of Arizona, Tucson</data>
+      <data key="research">system administrator, older system, newer system</data>
+    </node>
+    <edge source="Michael J. Gallivan" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Gallivan" target="Monica Adya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Gallivan" target="A. Woszczynski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohan R Tanniru" target="Kelly J. Fadel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohan R Tanniru" target="Susan A. Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohan R Tanniru" target="Suzanne P. Weisband">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis F. Galletta" target="Kelly J. Fadel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis F. Galletta" target="Alexandra Durcikova">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis F. Galletta" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis F. Galletta" target="Brian Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ayoung Suh" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Meservy" target="Matthew L. Jensen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Meservy" target="Kelly J. Fadel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Ogan" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Brian Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Hoon S. Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Matthew L. Jensen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Alexandra Durcikova">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Elisa Mattarelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Susan A. Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kelly J. Fadel" target="Suzanne P. Weisband">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ajit Kambil" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Monica Adya" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Monica Adya" target="A. Woszczynski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David E Pingry" target="M. E. Thatcher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David E Pingry" target="Hoon S. Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David E Pingry" target="Manju K. Ahuja">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manju K. Ahuja" target="A. Woszczynski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manju K. Ahuja" target="Hoon S. Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manju K. Ahuja" target="M. E. Thatcher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexandra Durcikova" target="Susan A. Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexandra Durcikova" target="Hoon S. Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexandra Durcikova" target="Brian Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexandra Durcikova" target="Suzanne P. Weisband">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hoon S. Cha" target="M. E. Thatcher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Elisa Mattarelli" target="Suzanne P. Weisband">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,167 +1,167 @@
 graph [
   node [
     id 0
-    label "Joseph F. Murray"
-    affiliation "Brain and Cognitive Sciences Department, Massachusetts Institute of Technology, Cambridge, USA 02139"
-    research "overcomplete dictionary, sparse representation, sparse coding"
+    label "Joe Kraynak"
+    affiliation "Howard W. Sams &#38; Company, Carmel, IN"
+    research "Complete Idiot, Minute Guide, Easy Internet"
   ]
   node [
     id 1
-    label "Mohan M. Trivedi"
-    affiliation "Nan"
-    research "feature set, small-sized feature set, spatio-temporal feature extraction"
+    label "David G. Durand"
+    affiliation "LTI, Amiens, France"
+    research "Smart Home, Version Control, workshop participant"
   ]
   node [
     id 2
-    label "Tara Javidi"
-    affiliation "University of California, San Diego, USA"
-    research "throughput optimal, adaptive opportunistic routing scheme, routing policy"
+    label "Geoffrey W. McKim"
+    affiliation "Indiana Univ., Bloomington"
+    research "Internet Research Companion, scholarly communication forum, STIN model"
   ]
   node [
     id 3
-    label "Ramesh Annavajjala"
-    affiliation "ArrayComm LLC, San Jose, CA"
-    research "Rayleigh fading channel, channel code rate, perfect channel estimation"
+    label "Mark Schulman"
+    affiliation "Cincinnati Bell Information Systems (CBIS)"
+    research "Lotus Notes, Lotus NotesFrom, UNIXUsing UNIXUsing Lotus NotesQue"
   ]
   node [
     id 4
-    label "Chandra R. Murthy"
-    affiliation "Dept. of Electr. &#38; Comput. Eng., California Univ., San Diego, La Jolla, CA"
-    research "Rayleigh flat-fading channel, channel error, channel feedback requirement"
+    label "Samantha Penrod"
+    affiliation "Nan"
+    research "Windows SmartStart, WordPerfect Version, WordPerfect Windows Easy"
   ]
   node [
     id 5
-    label "J.C. Roh"
-    affiliation "Texas Instrum. Inc., Sunnyvale, CA"
-    research "beamforming matrix, MIMO channel, channel capacity"
+    label "Suzanne Weixel"
+    affiliation "Nan"
+    research "Microsoft Office, Learning Microsoft Office, Learning Microsoft Word"
   ]
   node [
     id 6
-    label "Michele Zorzi"
-    affiliation "Consorzio Ferrara Ricerche (CFR), Ferrara, Italy"
-    research "underwater network, wireless sensor network, performance evaluation"
+    label "Bob Mullen"
+    affiliation "Nan"
+    research "current release, different part, different performance characteristic"
   ]
   node [
     id 7
-    label "Emanuele Coviello"
-    affiliation "University of California, San Diego, San Diego, USA"
-    research "BoS Tree, semantic abstraction, cross-modal document retrieval"
+    label "Tim Evans"
+    affiliation "Nan"
+    research "Intranet application, Intranet development, complete Windows NT Intranet"
   ]
   node [
     id 8
-    label "K. V. S. Hari"
-    affiliation "Dept. of ECE, Indian Inst. of Sci., Bangalore, India"
-    research "spatial smoothing, FIR system, IOFDM system"
+    label "Carolyn B. Mitchell"
+    affiliation "Nan"
+    research "Automatic Speech Recognition, CR-ROM technology, Triple Play Plus"
   ]
   node [
     id 9
-    label "J. R. Zeidler"
-    affiliation "Department of Electrical and Computer Engineering, University of California, San Diego, La Jolla, CA and Space and Naval Warfare Center, San Diego, CA"
-    research "adaptive lattice filter, adaptive filter, corresponding Wiener filter"
+    label "Eric P. Bloom"
+    affiliation "Nan"
+    research "C Trilogy"
   ]
   node [
     id 10
-    label "Umit Yapanel"
-    affiliation "LENA Foundation, Boulder, CO"
-    research "neutral detection, automatic speech recognition, speech recognition"
+    label "Marilyn G. Kyd"
+    affiliation "Nan"
+    research "Microsoft PowerPoint, Microsoft Office, Learn PowerPoint"
   ]
   node [
     id 11
-    label "M. Murthi"
-    affiliation "Department of Electrical and Computer Engineering, University of Miami, McArthur Engineering Bldg. 406, 1251 Memorial Dr., Coral Gables, FL 33146, United States"
-    research "predictive coder, predictive coding, packet loss condition"
+    label "Elli Mylonas"
+    affiliation "Scholarly Technology Group, Brown University, Providence, RI"
+    research "Frank Halasz, Perseus project, information structure"
   ]
   node [
     id 12
-    label "Srikanth V. Krishnamurthy"
+    label "Laura Acklen"
     affiliation "Nan"
-    research "Multimedia Networks, Special Section"
+    research "Corel WordPerfect, Absolute Beginner, Special Edition"
   ]
   node [
     id 13
-    label "R. Hegde"
-    affiliation "Freescale Semiconductor, Technology Solutions Organization, Austin, TX"
-    research "Silicon gate, partial reduction, CVD poly-Si"
+    label "Gordon McComb"
+    affiliation "Nan"
+    research "robot builder, robotic arm, Gordon McComb"
   ]
   node [
     id 14
-    label "Scott Makeig"
-    affiliation "Swartz Center for Computational Neuroscience, Institute for Neural Computation and Department of Neurosciences, School of Medicine, University of California San Diego, La Jolla, CA"
-    research "independent component analysis, EEG data, EEG signal"
+    label "Julia A. Cardis"
+    affiliation "Nan"
+    research "Complete Idiot, domestic travel concern, general travel advice"
   ]
   node [
     id 15
-    label "Kjersti Engan"
-    affiliation "Dept. of Electr. &#38; Comput. Eng., Hogskolen i Stavanger, Stavanger, Norway"
-    research "signal expansion, dictionary vector, overcomplete dictionary"
+    label "George R. Beinhorn"
+    affiliation "Que Corp., Carmel, IN"
+    research "step approach, QuickStartUsing Professional Write PlusWordPerfect, Troubleshooting section"
   ]
   node [
     id 16
-    label "Jianxia Ning"
-    affiliation "University of California, Riverside, Riverside, CA, USA"
-    research "GHz band, neighbor discovery, analytical framework"
+    label "Dan Post"
+    affiliation "Nan"
+    research "Microsoft Excel, Complete Idiot, lower commission"
   ]
   node [
     id 17
-    label "Bhaskar D. Rao"
-    affiliation "Department of Electrical and Computer Engineering, University of California, La Jolla, CA, USA"
-    research "Support Recovery, expected distortion performance, channel-error induced distortion"
+    label "Jerry Honeycutt"
+    affiliation "Nan"
+    research "Windows NT, Windows Desktop Deployment Resource, Windows Registry"
   ]
   node [
     id 18
-    label "Elettra Venosa"
-    affiliation "San Diego State University, San Diego, USA"
-    research "converter channelizer, spectral fragment, pre-processing task"
+    label "Steven B. Combs"
+    affiliation "Nan"
+    research "AutoCAD release, non-discipline approach, advanced drawing area"
   ]
   node [
     id 19
-    label "M. Wengler"
+    label "Que Corporation"
     affiliation "Nan"
-    research "MRC receiver, OC receiver, performance analysis"
+    research "quick reference"
   ]
   edge [
     source 0
-    target 17
+    target 13
     relation "collaborate"
   ]
   edge [
     source 0
-    target 15
+    target 19
     relation "collaborate"
   ]
   edge [
     source 1
-    target 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
     relation "collaborate"
   ]
   edge [
     source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
+    target 19
     relation "collaborate"
   ]
   edge [
     source 4
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 5
-    target 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -170,77 +170,67 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
     source 7
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 8
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 9
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 10
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 11
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 12
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 12
-    target 16
+    target 13
     relation "collaborate"
   ]
   edge [
     source 13
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 14
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 15
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 16
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
     source 17
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 17
+    source 18
     target 19
     relation "collaborate"
   ]

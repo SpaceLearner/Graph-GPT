@@ -1,282 +1,267 @@
 graph [
   node [
     id 0
-    label "Susan A. Brown"
-    affiliation "University of Arizona's Eller College of Management"
-    research "Nano Mapper, User Acceptance, cognitive fit"
+    label "Masumi Ishikawa"
+    affiliation "Kyushu Institute of Technology"
+    research "mobile robot, proposed method, search performance"
   ]
   node [
     id 1
-    label "Tracey Rizzuto"
-    affiliation "Nan"
-    research "common error, Urban Legend, Common Errors"
+    label "Seiichiro Kamata"
+    affiliation "Dept. of Intelligent Syst., Kyushu Univ., Fukuoka"
+    research "proposed method, Hilbert curve, experimental result"
   ]
   node [
     id 2
-    label "M. Pohst"
-    affiliation "Technische Universit&#228;t Berlin, Fachbereich 3, Mathematik MA 81, Stra&#946;e des 17. Juni 136, 10623 Berlin, Germany"
-    research "global field, number field, input vector"
+    label "Kazuhiko Nishino"
+    affiliation "Nan"
+    research "Designing Neural Networks, Genetic Algorithms, Structural Learning"
   ]
   node [
     id 3
-    label "R. A. Hirschheim"
-    affiliation "Department of Information Systems, E.J. Ourso College of Business Administration Louisiana State University, Baton Rouge, LA"
-    research "information system, IT outsourcing, IT function"
+    label "Bin Guo"
+    affiliation "Nan"
+    research "opportunistic social network, social activity, social context"
   ]
   node [
     id 4
-    label "Ted E. Lee"
-    affiliation "University of Memphis"
-    research "individual knowledge, knowledge management system, organizational knowledge"
+    label "Hiroyuki Miyamoto"
+    affiliation "Nan"
+    research "International Conference, Selected Papers, Neural Information Processing"
   ]
   node [
     id 5
-    label "M. Babik"
-    affiliation "Slovak Academy of Sciences, Slovakia"
-    research "semantic technology, Grid resource, intelligent Grid service"
+    label "Li Tian"
+    affiliation "Department of Mathematics, Pennsylvania State University, University Park, PA 16802, USA"
+    research "basis function, elliptic equation, linear elliptic partial differential"
   ]
   node [
     id 6
-    label "Iris A. Junglas"
-    affiliation "Florida State University, Tallahassee, FL"
-    research "virtual world, virtual environment, virtual world environment"
+    label "Helge Ritter"
+    affiliation "Nan"
+    research "Human Centered Robot Systems, Human Centered Robotic Systems, TechnologyHuman Centered Robotic Systems"
   ]
   node [
     id 7
-    label "Ronald T. Cenfetelli"
-    affiliation "Division of Management Information Systems, Sauder School of Business, University of British Columbia, Vancouver, British Columbia, V6T 1Z2, Canada"
-    research "Service Quality, e-government service quality, formative measurement"
+    label "Takeshi Yamakawa"
+    affiliation "Department of Electronic Engineering, Hallym University, Gangwon, Republic of Korea"
+    research "EEG data, Smartphone household wireless, ill-posed inverse data"
   ]
   node [
     id 8
-    label "D. Benjamin"
-    affiliation "The Johns Hopkins University Applied Physics Laboratory, 11100, Laurel, MD, 20723, USA"
-    research "Chandrayaan-1 spacecraft, sister instrument, Indian Space Research Organisation"
+    label "Risto Miikkulainen"
+    affiliation "University of California, Merced, University of Texas, Austin"
+    research "neural network, artificial neural network, neuroevolution method"
   ]
   node [
     id 9
-    label "Richard J. Welke"
-    affiliation "McMaster University"
-    research "BAM system, business process, systems risk"
+    label "Lin Yang"
+    affiliation "National University of Defense Technology, Changsha, China"
+    research "identity definition, identity data, critical identity operation tag"
   ]
   node [
     id 10
-    label "B. Jayatilaka"
-    affiliation "B. Jayatilaka"
-    research "data production model, CDF experimentThe data production, data collection"
+    label "Kyota Higa"
+    affiliation "Nan"
+    research "music TV program, music signal, chroma component"
   ]
   node [
     id 11
-    label "A. Schwarz"
-    affiliation "Nan"
-    research "quintic number field"
+    label "Jiro Katto"
+    affiliation "&#160;"
+    research "new parent, overlay tree, proactive approach"
   ]
   node [
     id 12
-    label "N L Johnson"
-    affiliation "The University of Houston"
-    research "framework article, translation plane, collineation group"
+    label "Hong Zhang"
+    affiliation "Nan"
+    research "disparity discontinuity, initial disparity map, accurate dense disparity map"
   ]
   node [
     id 13
-    label "S. Cabrera"
-    affiliation "Instituto de Ciencias Biom$#xE9/dicas, Universidad de Chile, Santiago, Chile"
-    research "Santiago de ChileAdditional comparison, ground-based UVI estimation, ground-based measurement"
+    label "Xiaolong Liu"
+    affiliation "Institute of Ideal Information Technology, Northeast Normal University, Changchun, 130024, China"
+    research "instructional design platform, instructional strategy, specific subject"
   ]
   node [
     id 14
-    label "F. Diaz y Diaz"
-    affiliation "Univ. Bordeaux I, Talence, France"
-    research "quartic field, number field, quartic subfieldAlgorithmic method"
+    label "Toshiyuki Nomura"
+    affiliation "Common Platform Software Research Laboratories, NEC Corporation, Nakaharaku, Japan 2168666"
+    research "memory-conscious decoder, Enhanced aacPlus Decoder, maximum number"
   ]
   node [
     id 15
-    label "Helen Kelley"
-    affiliation "University of Lethbridge"
-    research "student subject, causal attribution, computer virus"
+    label "Jiulun Fan"
+    affiliation "Nan"
+    research "sparse histogram image segmentation, common image segmentation technology, image segmentation"
   ]
   node [
     id 16
-    label "Jinyoul Lee"
-    affiliation "State University of New York at Binghamton"
-    research "virtual organization, knowledge management, real world"
+    label "Alireza Ahrary"
+    affiliation "Fukuoka Industry, Science and Technology Foundation, Japan and Information, Production and Systems Research Center, Waseda University, Japan"
+    research "Big Data, XML document, user need"
   ]
   node [
     id 17
-    label "Wynne W. Chin"
-    affiliation "Nan"
-    research "PLS Methods, PLS Path Modeling approach, PLS analysis"
+    label "K. Doya"
+    affiliation "Neural Computation Unit, Initial Research Project, OkinawaInstitute of Science and Technology, JST, Japan"
+    research "reinforcement learning, multiple model-based reinforcement learning, procedural learning"
   ]
   node [
     id 18
-    label "Norman A. Johnson"
-    affiliation "University of Houston"
-    research "virtual world, fast form, computer-mediated negotiation"
+    label "Tetsuo Furukawa"
+    affiliation "Kyushu Institute of Technology, Department of Brain Science and Engineering, 24 Hibikino, Wakamatsu, 8080196, Kitakyushu, Japan"
+    research "conventional SOM, self-organizing map, parent SOM"
   ]
   node [
     id 19
-    label "Jill M. Sundie"
-    affiliation "University of Texas, San Antonio, San Antonio, TX"
-    research "technological sophistication, psychometric analysis, computer-based animated PowerPoint"
+    label "Ding Feng"
+    affiliation "Nan"
+    research "anti-stacked control, automatic winder anti-stacked control, control system"
   ]
   edge [
     source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 11
     target 12
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 0
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 0
     target 18
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 0
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 0
     target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 14
     relation "collaborate"
   ]
   edge [
     source 12
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 17
     target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
     relation "collaborate"
   ]
 ]

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Chijun Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">atmospheric quality, ApplicationsAtmospheric quality assessment, atmospheric environment</data>
+    </node>
+    <node id="Gilman Tolle">
+      <data key="affiliation">Arch Rock Corporation, San Francisco, CA</data>
+      <data key="research">sensor network, node wireless, physical information</data>
+    </node>
+    <node id="Yuanyuan Zhou">
+      <data key="affiliation">University of California, San Diego</data>
+      <data key="research">Storage Technologies, USENIX conference</data>
+    </node>
+    <node id="Stéphane Betgé-Brezetz">
+      <data key="affiliation">AlcatelLucent Bell Labs, Villarceaux, France</data>
+      <data key="research">sensitive file, user profile, cloud user</data>
+    </node>
+    <node id="Guojun Chen">
+      <data key="affiliation">College of Computer and Communication Engineering, China University of Petroleum, Dongying, China</data>
+      <data key="research">feature point, Polyhedral Visual Hull, original model</data>
+    </node>
+    <node id="Xuming Han">
+      <data key="affiliation">Nan</data>
+      <data key="research">economical college, Computer Specialty, bilingual teaching</data>
+    </node>
+    <node id="Li Zhang">
+      <data key="affiliation">Beihang University, Beijing, China</data>
+      <data key="research">customer satisfaction, web customer satisfaction, iterative model</data>
+    </node>
+    <node id="Huimin Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">SOACloud computing, cloud computing, cloud provider</data>
+    </node>
+    <node id="K. Panusopone">
+      <data key="affiliation">Dept. of Adv. Technol., Gen. Instrum., San Diego, CA</data>
+      <data key="research">proposed method, interlaced video, progressive image transmission</data>
+    </node>
+    <node id="Chris Anderson">
+      <data key="affiliation">Microsoft, Redmond, USA</data>
+      <data key="research">content call, tail content, text content</data>
+    </node>
+    <node id="Jing Wang">
+      <data key="affiliation">Department of Experimental Statistics, Louisiana State University, Baton Rouge, LA 70803, USA</data>
+      <data key="research">proposed MCEM algorithm, Markov chain, independent sample</data>
+    </node>
+    <node id="Ruoming Pang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Oblivious Hashing, remote code authentication, implicit computation</data>
+    </node>
+    <node id="HongJiang Zhang">
+      <data key="affiliation">Microsoft Research China, Haidain District, Beijing</data>
+      <data key="research">Content-based video browsing, video browsing</data>
+    </node>
+    <node id="Xiaoou Tang">
+      <data key="affiliation">The Chinese University of Hong Kong, Shatin</data>
+      <data key="research">example-based image stylization, guidance image, single image</data>
+    </node>
+    <node id="R. Ramnath">
+      <data key="affiliation">National University of Singapore</data>
+      <data key="research">efficient parallel software, software dependency, software engineering curriculum</data>
+    </node>
+    <node id="Santosh Kumar">
+      <data key="affiliation">University of Memphis, TN</data>
+      <data key="research">full coverage, Alpha Coverage, Sparse WiFi deployment</data>
+    </node>
+    <node id="Yongmei He">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computer Specialty, economical college, computer graduate</data>
+    </node>
+    <node id="Limin Wang">
+      <data key="affiliation">Network Protocols and Systems Research Department, AlcatelLucent Bell Labs, Murray Hill, New Jersey</data>
+      <data key="research">service provider, user request, enterprise location</data>
+    </node>
+    <node id="Ming Li">
+      <data key="affiliation">Computer Graphics Group, RWTH Aachen University, Aachen, Germany</data>
+      <data key="research">mobile device, dynamic tiling display, interactive display surface</data>
+    </node>
+    <node id="T. V. Lakshman">
+      <data key="affiliation">Univ. of Maryland, College Park, MD</data>
+      <data key="research">communication scheme, decentralized consensus protocol, message interchange</data>
+    </node>
+    <edge source="Chijun Zhang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Xuming Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Li Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Huimin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Guojun Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chijun Zhang" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gilman Tolle" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gilman Tolle" target="Chris Anderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gilman Tolle" target="R. Ramnath">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gilman Tolle" target="HongJiang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gilman Tolle" target="Santosh Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuanyuan Zhou" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphane Betgé-Brezetz" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphane Betgé-Brezetz" target="T. V. Lakshman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Chen" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Chen" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Chen" target="Huimin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Chen" target="Xuming Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuming Han" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuming Han" target="Li Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuming Han" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuming Han" target="Huimin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuming Han" target="Yongmei He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Zhang" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Zhang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huimin Zhang" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huimin Zhang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Panusopone" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Anderson" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Anderson" target="HongJiang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Anderson" target="R. Ramnath">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Anderson" target="Santosh Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruoming Pang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="HongJiang Zhang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="HongJiang Zhang" target="Xiaoou Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="HongJiang Zhang" target="Santosh Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="HongJiang Zhang" target="R. Ramnath">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoou Tang" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Ramnath" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Ramnath" target="Santosh Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Santosh Kumar" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongmei He" target="Limin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Limin Wang" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Limin Wang" target="T. V. Lakshman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Li" target="Ming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

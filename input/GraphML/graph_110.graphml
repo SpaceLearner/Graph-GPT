@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jian Yin">
+      <data key="affiliation">School of Information Science and Technology, Sun Yatsen University Guangzhou, China</data>
+      <data key="research">infectious disease, Apriori algorithm, association rule</data>
+    </node>
+    <node id="Wei Zhang">
+      <data key="affiliation">Department of Industrial Engineering, Tsinghua University, Beijing 100084, People's Republic of China</data>
+      <data key="research">physical fatigue, safety study, Wiley Periodicals</data>
+    </node>
+    <node id="Chao Cai">
+      <data key="affiliation">School of Information Science and Engineering, Northeastern University, Liaoning, People's Republic of China</data>
+      <data key="research">coupling connection, adaptive control law, control method</data>
+    </node>
+    <node id="Huili Gong">
+      <data key="affiliation">Nan</data>
+      <data key="research">spatial data mining theory, agricultural economy spatial distribution, local spatial autocorrelation</data>
+    </node>
+    <node id="Weicheng Xie">
+      <data key="affiliation">Nan</data>
+      <data key="research">wavelet packet, wavelet packet theory, measurement system</data>
+    </node>
+    <node id="Xin Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Digital Environment, IP enforcement rule, data security</data>
+    </node>
+    <node id="Wenliang Gao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Scale Parameter, original image, primitive image</data>
+    </node>
+    <node id="Jun Yan">
+      <data key="affiliation">Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</data>
+      <data key="research">optimization problem, classical optimization procedure, generalized optimization problem</data>
+    </node>
+    <node id="Jing Wang">
+      <data key="affiliation">Department of Experimental Statistics, Louisiana State University, Baton Rouge, LA 70803, USA</data>
+      <data key="research">proposed MCEM algorithm, Markov chain, independent sample</data>
+    </node>
+    <node id="Mingzhou Ding">
+      <data key="affiliation">Department of Biomedical Engineering, University of Florida, Gainesville, FL 32611, USA</data>
+      <data key="research">proposed method, registration method, Heart Rate</data>
+    </node>
+    <node id="Taisong Jin">
+      <data key="affiliation">Nan</data>
+      <data key="research">particle filter, experimental result, real-time visual tracking algorithm</data>
+    </node>
+    <node id="Yan Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">high quality teaching service, new teaching quality evaluation, positive teaching attitude</data>
+    </node>
+    <node id="Jun Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">sparse representation, Sparse Dictionary Reconstruction, different fabric type</data>
+    </node>
+    <node id="Xueyong Liu">
+      <data key="affiliation">School of Mathematics and Computational Science, Hunan University of Science and Technology, Xiangtan, Hunan, 411201, PR China</data>
+      <data key="research">tax forecasting, support vector machine, tax forecasting model</data>
+    </node>
+    <node id="Haisheng Chen">
+      <data key="affiliation">School of Business and Administration, South China University of Technology, Guangdong, China</data>
+      <data key="research">Technical M, Long-term Wealth Effect, technology M</data>
+    </node>
+    <node id="Jianping Ye">
+      <data key="affiliation">School of Electrical and Information Engineering, Xihua University, Chengdu, Sichuan, China</data>
+      <data key="research">related information collection, miner positioning, underground communication</data>
+    </node>
+    <node id="Lingling Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">vertical constraint, final conclusion, final market</data>
+    </node>
+    <node id="Guohua Zhang">
+      <data key="affiliation">National University of Defence Technology</data>
+      <data key="research">motivation level, hand touch, possible touch gesture</data>
+    </node>
+    <node id="Xiaojuan Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">inductive approach, inductive semantics, inductive verification approach</data>
+    </node>
+    <node id="Ping Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">centralized financial management system, power grid enterprise, financial management mode</data>
+    </node>
+    <edge source="Jian Yin" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Yin" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Zhang" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Zhang" target="Jun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chao Cai" target="Mingzhou Ding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chao Cai" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huili Gong" target="Xiaojuan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huili Gong" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weicheng Xie" target="Xin Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weicheng Xie" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weicheng Xie" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Xu" target="Jianping Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Xu" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Xu" target="Ping Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Xu" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Xu" target="Haisheng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenliang Gao" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Guohua Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mingzhou Ding" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Taisong Jin" target="Guohua Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Taisong Jin" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Wang" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wang" target="Xueyong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wang" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wang" target="Ping Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wang" target="Jianping Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wang" target="Haisheng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haisheng Chen" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haisheng Chen" target="Jianping Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haisheng Chen" target="Ping Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianping Ye" target="Ping Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianping Ye" target="Lingling Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lingling Li" target="Xiaojuan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lingling Li" target="Ping Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lingling Li" target="Guohua Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A G Barto">
+      <data key="affiliation">University of Michigan, Ann Arbor, Michigan</data>
+      <data key="research">reinforcement learning, Hierarchical Reinforcement LearningReinforcement learning, active learning</data>
+    </node>
+    <node id="Jeff Johns">
+      <data key="affiliation">Univ. of Massachusetts Amherst, Amherst, MA</data>
+      <data key="research">basis function, policy iteration, hybrid algorithm</data>
+    </node>
+    <node id="Hava Tova Siegelmann">
+      <data key="affiliation">Department of Computer Science, University of Massachusetts, 140 Governors Drive, Amherst, MA 01003 hava@cs.umass.edu</data>
+      <data key="research">computational power, Multi-agent system, biological system</data>
+    </node>
+    <node id="Robert Maloy">
+      <data key="affiliation">University of Massachusetts Amherst, Amherst, MA</data>
+      <data key="research">computer technology, computer use, history learning</data>
+    </node>
+    <node id="Rana El Kaliouby">
+      <data key="affiliation">Media Laboratory, Massachusetts Intitute of Technology, Cambridge 02142</data>
+      <data key="research">facial expression, facial affect, emotional hearing aid</data>
+    </node>
+    <node id="Dan Suthers">
+      <data key="affiliation">Department of Computer Science, University of Massachusetts, Amherst, Mass.</data>
+      <data key="research">collaborative learning, online learning, active learning behavior</data>
+    </node>
+    <node id="J. Brooks">
+      <data key="affiliation">Nan</data>
+      <data key="research">A LEGAL REASONING PROGRAM, HOLDING A CONVERSATION, MOTIVATIONS BEHIND A DISCOURSE</data>
+    </node>
+    <node id="Klaus Schultz">
+      <data key="affiliation">Nan</data>
+      <data key="research">cognitive development, high cognitive ability student, low cognitive ability student</data>
+    </node>
+    <node id="Beverly P. Woolf">
+      <data key="affiliation">University of Massachussetts, Amherst</data>
+      <data key="research">intelligent tutoring system, intelligent tutor, individual student</data>
+    </node>
+    <node id="Kasia Muldner">
+      <data key="affiliation">Arizona State University, Tempe, Arizona</data>
+      <data key="research">intelligent tutoring system, affective state, user model</data>
+    </node>
+    <node id="Dan Murray">
+      <data key="affiliation">Nan</data>
+      <data key="research">Interpress printingDocument retrieval, electronic publishing</data>
+    </node>
+    <node id="Toby Dragon">
+      <data key="affiliation">CeLTech, Saarland University, Germany</data>
+      <data key="research">content recognition, expert knowledge base, knowledge base</data>
+    </node>
+    <node id="Rosalind Wright Picard">
+      <data key="affiliation">Media Laboratory, Massachusetts Intitute of Technology, Cambridge 02142</data>
+      <data key="research">affective state, facial expression, new technology</data>
+    </node>
+    <node id="Scott D. Anderson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Social Visualization, environmental visualization, behavior focus</data>
+    </node>
+    <node id="Ted Slovin">
+      <data key="affiliation">Nan</data>
+      <data key="research">DESIGNED A CONSULTANT SYSTEM, FORMULATES A PSYCHOLOGICAL ASSESSMENT, GENERATES A PERSONALITY PROFILE</data>
+    </node>
+    <node id="Carole R. Beal">
+      <data key="affiliation">USC Information Sciences Institute</data>
+      <data key="research">structural abstraction, students interact, cognitive workload</data>
+    </node>
+    <node id="Sridhar Mahadevan">
+      <data key="affiliation">Autonomous Learning Laboratory, {kferguso, mahadeva}@cs.umass.edu</data>
+      <data key="research">basis function, hierarchical reinforcement learning, machine learning</data>
+    </node>
+    <node id="Leena Razzaq">
+      <data key="affiliation">University of Massachusetts Amherst, Amherst, MA</data>
+      <data key="research">tutored problem, students time, Assistment system</data>
+    </node>
+    <node id="Elliot Soloway">
+      <data key="affiliation">Department of Computer Science, Yale University, New Haven, CT 06520/ CompuTech, Inc., New Haven, CT.</data>
+      <data key="research">non-procedural language, procedural language, new problem</data>
+    </node>
+    <node id="Esma Aimeur">
+      <data key="affiliation">Université de Montréal, Département d'Informatique et de Recherche Opérationnelle, 2920, chemin de la Tour, Montréal, Québec, Canada H3C 3J7</data>
+      <data key="research">recommender system, personal information, personal knowledge publishing</data>
+    </node>
+    <edge source="A G Barto" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A G Barto" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A G Barto" target="Jeff Johns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A G Barto" target="Sridhar Mahadevan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Johns" target="Sridhar Mahadevan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Johns" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Johns" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hava Tova Siegelmann" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Maloy" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Maloy" target="Leena Razzaq">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rana El Kaliouby" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rana El Kaliouby" target="Rosalind Wright Picard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rana El Kaliouby" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Suthers" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Suthers" target="Elliot Soloway">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Brooks" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Klaus Schultz" target="Beverly P. Woolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Klaus Schultz" target="Carole R. Beal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Scott D. Anderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Rosalind Wright Picard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Dan Murray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Leena Razzaq">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Sridhar Mahadevan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Kasia Muldner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Esma Aimeur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Elliot Soloway">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Carole R. Beal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Beverly P. Woolf" target="Ted Slovin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kasia Muldner" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Murray" target="Toby Dragon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toby Dragon" target="Rosalind Wright Picard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toby Dragon" target="Sridhar Mahadevan">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

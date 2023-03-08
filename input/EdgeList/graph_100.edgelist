@@ -1,31 +1,32 @@
-Li Yan	Xu Yan	{'relation': 'collaborate'}
-Li Yan	Zhang Wei	{'relation': 'collaborate'}
-Li Yan	Li Yan	{'relation': 'collaborate'}
-Sheng Li	Yuelin Wang	{'relation': 'collaborate'}
-Sheng Li	Xu Yan	{'relation': 'collaborate'}
-Sheng Li	Fei Feng	{'relation': 'collaborate'}
-Fei Feng	Xu Yan	{'relation': 'collaborate'}
-Fei Feng	Yuelin Wang	{'relation': 'collaborate'}
-Hui Wang	Xu Yan	{'relation': 'collaborate'}
-Fuhai Li	Xu Yan	{'relation': 'collaborate'}
-Fuhai Li	Guilin Wen	{'relation': 'collaborate'}
-Guilin Wen	Xu Yan	{'relation': 'collaborate'}
-Hui Zheng	Guang Yang	{'relation': 'collaborate'}
-Hui Zheng	Xu Yan	{'relation': 'collaborate'}
-Dong Xinfa	Xu Yan	{'relation': 'collaborate'}
-Dong Xinfa	Zhang Wei	{'relation': 'collaborate'}
-Xu Yan	Zhang Wei	{'relation': 'collaborate'}
-Xu Yan	Wang Qi	{'relation': 'collaborate'}
-Xu Yan	Liu Hongfei	{'relation': 'collaborate'}
-Xu Yan	Shishir K. Shah	{'relation': 'collaborate'}
-Xu Yan	Xu Hongguo	{'relation': 'collaborate'}
-Xu Yan	Yuelin Wang	{'relation': 'collaborate'}
-Xu Yan	Guang Yang	{'relation': 'collaborate'}
-Xu Yan	D. Pitt	{'relation': 'collaborate'}
-Xu Yan	Bai Yan	{'relation': 'collaborate'}
-Xu Yan	Ioannis A. Kakadiaris	{'relation': 'collaborate'}
-Xu Yan	N. Levine	{'relation': 'collaborate'}
-Shishir K. Shah	Ioannis A. Kakadiaris	{'relation': 'collaborate'}
-Zhang Wei	Zhang Wei	{'relation': 'collaborate'}
-N. Levine	D. Pitt	{'relation': 'collaborate'}
-Liu Hongfei	Xu Hongguo	{'relation': 'collaborate'}
+Artem Katasonov	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Artem Katasonov	Sergiy Nikitin	{'relation': 'collaborate'}
+Igor Keleberda	Michael Fleming	{'relation': 'collaborate'}
+Igor Keleberda	Natalya Lesna	{'relation': 'collaborate'}
+Igor Keleberda	Hamidreza Baghi	{'relation': 'collaborate'}
+Igor Keleberda	Yevgen Biletskiy	{'relation': 'collaborate'}
+Igor Keleberda	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Mikko Kovalainen	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Mikko Kovalainen	Seppo Puuronen	{'relation': 'collaborate'}
+Borys Omelayenko	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Jian Tang	Jari Veijalainen	{'relation': 'collaborate'}
+Jian Tang	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Cheryl Bauman	Michael Fleming	{'relation': 'collaborate'}
+Jari Veijalainen	Henry Tirri	{'relation': 'collaborate'}
+Jari Veijalainen	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Jari Veijalainen	Sergiy Nikitin	{'relation': 'collaborate'}
+Seppo Puuronen	Vladimir Ryabov	{'relation': 'collaborate'}
+Seppo Puuronen	Alexey Tsymbal	{'relation': 'collaborate'}
+Seppo Puuronen	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Hamidreza Baghi	Michael Fleming	{'relation': 'collaborate'}
+Hamidreza Baghi	Yevgen Biletskiy	{'relation': 'collaborate'}
+Yevgen Biletskiy	Michael Fleming	{'relation': 'collaborate'}
+Michael Fleming	Bruce Spencer	{'relation': 'collaborate'}
+Alexey Tsymbal	Vagan Y. Terziyan	{'relation': 'collaborate'}
+M A. Bramer	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Vladimir Ryabov	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Bruce Spencer	Bruce Spencer	{'relation': 'collaborate'}
+Natalya Lesna	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Anton Naumenko	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Anton Naumenko	Sergiy Nikitin	{'relation': 'collaborate'}
+Sergiy Nikitin	Vagan Y. Terziyan	{'relation': 'collaborate'}
+Henry Tirri	Vagan Y. Terziyan	{'relation': 'collaborate'}

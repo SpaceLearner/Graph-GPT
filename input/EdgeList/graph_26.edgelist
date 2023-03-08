@@ -1,45 +1,35 @@
-Fei Xu	Alin Dobra	{'relation': 'collaborate'}
-Fei Xu	Mingxi Wu	{'relation': 'collaborate'}
-Fei Xu	Christopher Jermaine	{'relation': 'collaborate'}
-Fei Xu	Florin Rusu	{'relation': 'collaborate'}
-Tamer Kahveci	Abhijit Pol	{'relation': 'collaborate'}
-Tamer Kahveci	S. Ranka	{'relation': 'collaborate'}
-Tamer Kahveci	Alin Dobra	{'relation': 'collaborate'}
-Tamer Kahveci	Christopher Jermaine	{'relation': 'collaborate'}
-Tamer Kahveci	Haitham Gabr	{'relation': 'collaborate'}
-Minos N. Garofalakis	Christopher Jermaine	{'relation': 'collaborate'}
-Minos N. Garofalakis	Alin Dobra	{'relation': 'collaborate'}
-Minos N. Garofalakis	Johannes E. Gehrke	{'relation': 'collaborate'}
-Minos N. Garofalakis	Rajeev Rastogi	{'relation': 'collaborate'}
-Alin Dobra	Supriya Nirkhiwale	{'relation': 'collaborate'}
-Alin Dobra	Christopher Jermaine	{'relation': 'collaborate'}
-Alin Dobra	Florin Rusu	{'relation': 'collaborate'}
-Alin Dobra	Lixia Chen	{'relation': 'collaborate'}
-Alin Dobra	David Kempe	{'relation': 'collaborate'}
-Alin Dobra	Rajeev Rastogi	{'relation': 'collaborate'}
-Alin Dobra	Abhijit Pol	{'relation': 'collaborate'}
-Alin Dobra	Mingxi Wu	{'relation': 'collaborate'}
-Alin Dobra	Subramanian Arumugam	{'relation': 'collaborate'}
-Alin Dobra	Laukik Chitnis	{'relation': 'collaborate'}
-Alin Dobra	Haitham Gabr	{'relation': 'collaborate'}
-Alin Dobra	Niketan Pansare	{'relation': 'collaborate'}
-Alin Dobra	S. Ranka	{'relation': 'collaborate'}
-Alin Dobra	Johannes E. Gehrke	{'relation': 'collaborate'}
-Alin Dobra	Shantanu H. Joshi	{'relation': 'collaborate'}
-Alin Dobra	Amit Dhurandhar	{'relation': 'collaborate'}
-Supriya Nirkhiwale	Christopher Jermaine	{'relation': 'collaborate'}
-Abhijit Pol	Christopher Jermaine	{'relation': 'collaborate'}
-Abhijit Pol	Shantanu H. Joshi	{'relation': 'collaborate'}
-Abhijit Pol	Subramanian Arumugam	{'relation': 'collaborate'}
-Mingxi Wu	Florin Rusu	{'relation': 'collaborate'}
-Mingxi Wu	S. Ranka	{'relation': 'collaborate'}
-Mingxi Wu	Christopher Jermaine	{'relation': 'collaborate'}
-Rajeev Rastogi	Johannes E. Gehrke	{'relation': 'collaborate'}
-Johannes E. Gehrke	David Kempe	{'relation': 'collaborate'}
-Christopher Jermaine	Shantanu H. Joshi	{'relation': 'collaborate'}
-Christopher Jermaine	Subramanian Arumugam	{'relation': 'collaborate'}
-Christopher Jermaine	Florin Rusu	{'relation': 'collaborate'}
-Christopher Jermaine	S. Ranka	{'relation': 'collaborate'}
-Christopher Jermaine	Niketan Pansare	{'relation': 'collaborate'}
-Subramanian Arumugam	Shantanu H. Joshi	{'relation': 'collaborate'}
-S. Ranka	Laukik Chitnis	{'relation': 'collaborate'}
+Thomas Mirlacher	Regina Bernhaupt	{'relation': 'collaborate'}
+Thomas Mirlacher	Philipe Palanque	{'relation': 'collaborate'}
+Thomas Mirlacher	Andreas Boldt	{'relation': 'collaborate'}
+Thomas Mirlacher	Manfred Tscheligi	{'relation': 'collaborate'}
+Manuel Will	Regina Bernhaupt	{'relation': 'collaborate'}
+Marianna Obrist	Manfred Tscheligi	{'relation': 'collaborate'}
+Marianna Obrist	Regina Bernhaupt	{'relation': 'collaborate'}
+Ben A. M. Schouten	Regina Bernhaupt	{'relation': 'collaborate'}
+Ben A. M. Schouten	Florian Mueller	{'relation': 'collaborate'}
+Ronald L. Boring	Regina Bernhaupt	{'relation': 'collaborate'}
+Ronald L. Boring	Sandra Basnyat	{'relation': 'collaborate'}
+Jan Gulliksen	Regina Bernhaupt	{'relation': 'collaborate'}
+Jan Gulliksen	J L Wesson	{'relation': 'collaborate'}
+Jan Gulliksen	Ebba Thora Hvannberg	{'relation': 'collaborate'}
+Cédric Bach	Regina Bernhaupt	{'relation': 'collaborate'}
+Katherine Isbister	Regina Bernhaupt	{'relation': 'collaborate'}
+Katherine Isbister	Licia Calvi	{'relation': 'collaborate'}
+Katherine Isbister	Florian Mueller	{'relation': 'collaborate'}
+Katherine Isbister	Daniel Cook	{'relation': 'collaborate'}
+Dennis Wixon	Regina Bernhaupt	{'relation': 'collaborate'}
+Dennis Wixon	Manfred Tscheligi	{'relation': 'collaborate'}
+Dennis Wixon	Florian Mueller	{'relation': 'collaborate'}
+Sandra Basnyat	Regina Bernhaupt	{'relation': 'collaborate'}
+Manfred Tscheligi	Newton Lee	{'relation': 'collaborate'}
+Manfred Tscheligi	Regina Bernhaupt	{'relation': 'collaborate'}
+Manfred Tscheligi	Andreas Boldt	{'relation': 'collaborate'}
+Manfred Tscheligi	Florian Mueller	{'relation': 'collaborate'}
+Licia Calvi	Regina Bernhaupt	{'relation': 'collaborate'}
+Newton Lee	Regina Bernhaupt	{'relation': 'collaborate'}
+Andreas Boldt	Regina Bernhaupt	{'relation': 'collaborate'}
+Ebba Thora Hvannberg	Regina Bernhaupt	{'relation': 'collaborate'}
+Philipe Palanque	Regina Bernhaupt	{'relation': 'collaborate'}
+Daniel Cook	Regina Bernhaupt	{'relation': 'collaborate'}
+Regina Bernhaupt	Florian Mueller	{'relation': 'collaborate'}
+Regina Bernhaupt	J L Wesson	{'relation': 'collaborate'}

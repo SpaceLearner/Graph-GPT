@@ -1,70 +1,54 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:02 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:05 2023
 # 
-T. C. Scott	3
-Michael B. Monagan	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-George Labahn	5
-Keith O. Geddes	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-K. M. Heal	{'relation': 'collaborate'}
-Ziming Li	{'relation': 'collaborate'}
-S. R. Czapor	{'relation': 'collaborate'}
-Gaston H. Gonnet	8
-Stephen Michael Watt	{'relation': 'collaborate'}
-T. J. Smedley	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-Bruce W. Char	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-W. Morven Gentleman	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-B. L. Leong	{'relation': 'collaborate'}
-W. Morven Gentleman	2
-Bruce W. Char	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-T. J. Smedley	1
-Keith O. Geddes	{'relation': 'collaborate'}
-Ziming Li	3
-Keith O. Geddes	{'relation': 'collaborate'}
-Ha Le	{'relation': 'collaborate'}
-Bruno Salvy	{'relation': 'collaborate'}
-Ha Le	2
-Keith O. Geddes	{'relation': 'collaborate'}
-S. A. Abramov	{'relation': 'collaborate'}
-Bruno Salvy	2
-S. Dooley	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Stephen Michael Watt	5
-S. Dooley	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-Bruce W. Char	{'relation': 'collaborate'}
-B. L. Leong	{'relation': 'collaborate'}
-Bruce W. Char	4
-B. L. Leong	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-K. M. Heal	2
-Michael B. Monagan	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Keith O. Geddes	8
-S. R. Czapor	{'relation': 'collaborate'}
-R. G. McLenaghan	{'relation': 'collaborate'}
-S. Dooley	{'relation': 'collaborate'}
-S. A. Abramov	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-B. L. Leong	{'relation': 'collaborate'}
-L. Y. Stefanus	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-S. A. Abramov	0
-Gregory J. Fee	1
-Michael B. Monagan	{'relation': 'collaborate'}
-L. Y. Stefanus	0
-R. G. McLenaghan	0
-B. L. Leong	1
-Michael B. Monagan	{'relation': 'collaborate'}
-Michael B. Monagan	0
-S. R. Czapor	0
-S. Dooley	0
+Dariusz Dereniowski	1
+Danny Dyer	{'relation': 'collaborate'}
+Denis Hanson	9
+Danny Dyer	{'relation': 'collaborate'}
+Leif K. Jørgensen	{'relation': 'collaborate'}
+Ruth Haas	{'relation': 'collaborate'}
+Gary MacGillivray	{'relation': 'collaborate'}
+Dale Youngs	{'relation': 'collaborate'}
+Bo-Ting Yang	{'relation': 'collaborate'}
+J. W. Moon	{'relation': 'collaborate'}
+Ping Wang	{'relation': 'collaborate'}
+B. Alspach	{'relation': 'collaborate'}
+Gary MacGillivray	3
+Ruth Haas	{'relation': 'collaborate'}
+Ping Wang	{'relation': 'collaborate'}
+Dale Youngs	{'relation': 'collaborate'}
+Mirka Miller	3
+Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
+Leif K. Jørgensen	{'relation': 'collaborate'}
+C. Delorme	{'relation': 'collaborate'}
+Dale Youngs	0
+Leif K. Jørgensen	4
+C. Delorme	{'relation': 'collaborate'}
+Ken-ichi Kawarabayashi	{'relation': 'collaborate'}
+Ping Wang	{'relation': 'collaborate'}
+Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
+Guillermo Pineda-Villavicencio	1
+C. Delorme	{'relation': 'collaborate'}
+Ken-ichi Kawarabayashi	0
+David A. Pike	1
+Danny Dyer	{'relation': 'collaborate'}
+David Orden	2
+F. Santos	{'relation': 'collaborate'}
+Ruth Haas	{'relation': 'collaborate'}
+Bo-Ting Yang	2
+B. Alspach	{'relation': 'collaborate'}
+Danny Dyer	{'relation': 'collaborate'}
+J. W. Moon	0
+Sarah-Marie Belcastro	2
+Ruth Haas	{'relation': 'collaborate'}
+Michael O. Albertson	{'relation': 'collaborate'}
+Ruth Haas	2
+F. Santos	{'relation': 'collaborate'}
+Michael O. Albertson	{'relation': 'collaborate'}
+F. Santos	0
+Danny Dyer	1
+B. Alspach	{'relation': 'collaborate'}
+Ping Wang	0
+Michael O. Albertson	0
+C. Delorme	0
+B. Alspach	0

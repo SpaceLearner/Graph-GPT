@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Weichang Shen">
+      <data key="affiliation">Nan</data>
+      <data key="research">OpenMPprogramming model, Columnwise Block-Striped Decomposition, Matrix Multiplication</data>
+    </node>
+    <node id="Feng Si">
+      <data key="affiliation">Nan</data>
+      <data key="research">control message, information security, security need</data>
+    </node>
+    <node id="Ye Zhao">
+      <data key="affiliation">Kent State University</data>
+      <data key="research">flow field, flow simulation, air flow</data>
+    </node>
+    <node id="Yan Xiang">
+      <data key="affiliation">Electronic Engineering Department, Tsinghua University, Beijing, China</data>
+      <data key="research">face recognition, automatic face recognition system, recognition part</data>
+    </node>
+    <node id="Guangda Su">
+      <data key="affiliation">Nan</data>
+      <data key="research">appropriate deformation graph, deformation graph, pre-estimated rigidity</data>
+    </node>
+    <node id="Guoqing Zhang">
+      <data key="affiliation">School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 637553</data>
+      <data key="research">uneven terrain, agile walking, uneven terrain walking</data>
+    </node>
+    <node id="Fan Xiangning">
+      <data key="affiliation">Institute of RF&amp;OEICs, School of Information Science and Engineering, Southeast University, Nanjing, China</data>
+      <data key="research">tail current source, cluster head, multihop-LEACH protocol</data>
+    </node>
+    <node id="Xianfu Lei">
+      <data key="affiliation">Inst. of Mobile Communications, Southwest Jiaotong University, Chengdu, Sichuan, China</data>
+      <data key="research">outage probability, spectrum efficiency, a-stable clutter</data>
+    </node>
+    <node id="Jing Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Random InputsAn efficient solver, Differential Equations, Efficient Solver</data>
+    </node>
+    <node id="Chuan Fu">
+      <data key="affiliation">Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P.R. China</data>
+      <data key="research">existing Internet architecture, Internet-based economy, Internet Content Provider</data>
+    </node>
+    <node id="Xinyu Liu">
+      <data key="affiliation">Northeastern University and Baoshan Iron &amp; Steel Co., Ltd</data>
+      <data key="research">agile manufacturing, customer-driven manufacturing system, efficient agile manufacturing system</data>
+    </node>
+    <node id="Jing He">
+      <data key="affiliation">Department of Computer Science, Old Dominion University</data>
+      <data key="research">potential energy function, decoy set, key block</data>
+    </node>
+    <node id="Zheng Hao">
+      <data key="affiliation">Nan</data>
+      <data key="research">web page, different browser, overall design framework</data>
+    </node>
+    <node id="Congcong Li">
+      <data key="affiliation">Cornell University, USA</data>
+      <data key="research">contextual information, proposed cue, unlabeled region</data>
+    </node>
+    <node id="Nishant Sinha">
+      <data key="affiliation">IBM Research, India</data>
+      <data key="research">concurrent program, software system, large number</data>
+    </node>
+    <node id="Jia-Dong Ren">
+      <data key="affiliation">Nan</data>
+      <data key="research">memory space, algorithm MFPBI, memory consumption</data>
+    </node>
+    <node id="Yingchun Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Transmission Performance, next-generation passive optical network, optical OFDM signal</data>
+    </node>
+    <node id="Yansheng Lu">
+      <data key="affiliation">College of Computer Scie. and Tech., Wuhan, Hubei 430074, China</data>
+      <data key="research">ProgramsSoftware testing, state-based class level testing, structural testing</data>
+    </node>
+    <node id="Yan Shang">
+      <data key="affiliation">Department of Electronics and Communication, Yanshan University, Hebei 066004, China</data>
+      <data key="research">texture image, Rotation Invariant Texture Classification, SVMA rotation invariant texture</data>
+    </node>
+    <node id="Yanfang Ren">
+      <data key="affiliation">Nan</data>
+      <data key="research">design pattern, software design, Design PatternsDesign pattern</data>
+    </node>
+    <edge source="Weichang Shen" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng Si" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ye Zhao" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Guangda Su">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Yanfang Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Congcong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Zheng Hao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Fan Xiangning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Yan Shang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Xiang" target="Yingchun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guangda Su" target="Congcong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guangda Su" target="Yingchun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guangda Su" target="Yan Shang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guoqing Zhang" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guoqing Zhang" target="Chuan Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fan Xiangning" target="Zheng Hao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xianfu Lei" target="Jing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Jing He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Nishant Sinha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Yansheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Chuan Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Jia-Dong Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Xinyu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yang" target="Yanfang Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Congcong Li" target="Yingchun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Congcong Li" target="Yan Shang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yingchun Li" target="Yan Shang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

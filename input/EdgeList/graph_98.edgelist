@@ -1,29 +1,44 @@
-Dinggang Shen	Jianchao Zeng	{'relation': 'collaborate'}
-Dinggang Shen	Gabor Fichtinger	{'relation': 'collaborate'}
-Guo-Chen Zhang	Jianchao Zeng	{'relation': 'collaborate'}
-Xiaomei Yang	Jianchao Zeng	{'relation': 'collaborate'}
-Xiaoping Wang	Jianchao Zeng	{'relation': 'collaborate'}
-Jeng-Shyang Pan	Jianchao Zeng	{'relation': 'collaborate'}
-Xianguo Yan	Jianchao Zeng	{'relation': 'collaborate'}
-Xianguo Yan	Ming Yu	{'relation': 'collaborate'}
-Xianguo Yan	Jianhua Han	{'relation': 'collaborate'}
-Xianguo Yan	Jian Zhao	{'relation': 'collaborate'}
-Xianguo Yan	Juan Du	{'relation': 'collaborate'}
-Jian Zhao	Juan Du	{'relation': 'collaborate'}
-Jian Zhao	Jianchao Zeng	{'relation': 'collaborate'}
-Jian Zhao	Ming Yu	{'relation': 'collaborate'}
-Li-Ping Xie	Jianchao Zeng	{'relation': 'collaborate'}
-Li-Ping Xie	Zhihua Cui	{'relation': 'collaborate'}
-Li-Ping Xie	Richard A. Formato	{'relation': 'collaborate'}
-Seong K. Mun	Jianchao Zeng	{'relation': 'collaborate'}
-Zhihua Cui	Jianchao Zeng	{'relation': 'collaborate'}
-Zhihua Cui	Ziqiang Zhao	{'relation': 'collaborate'}
-Ming Yu	Juan Du	{'relation': 'collaborate'}
-Ming Yu	Jianchao Zeng	{'relation': 'collaborate'}
-Jianchao Zeng	Ziqiang Zhao	{'relation': 'collaborate'}
-Jianchao Zeng	Paul Wang	{'relation': 'collaborate'}
-Jianchao Zeng	Xiaodong Guo	{'relation': 'collaborate'}
-Jianchao Zeng	Kenneth Byrd	{'relation': 'collaborate'}
-Jianchao Zeng	Richard A. Formato	{'relation': 'collaborate'}
-Jianchao Zeng	Gabor Fichtinger	{'relation': 'collaborate'}
-Jianhua Han	Juan Du	{'relation': 'collaborate'}
+D. B. Skalak	M. Friedman	{'relation': 'collaborate'}
+Bracha Shapira	Moti Schneider	{'relation': 'collaborate'}
+Bracha Shapira	Yuval Elovici	{'relation': 'collaborate'}
+Bracha Shapira	Abraham Kandel	{'relation': 'collaborate'}
+Bracha Shapira	M. Friedman	{'relation': 'collaborate'}
+Bracha Shapira	Mark Last	{'relation': 'collaborate'}
+Moti Schneider	Abraham Kandel	{'relation': 'collaborate'}
+Moti Schneider	M. Friedman	{'relation': 'collaborate'}
+Moti Schneider	Mark Last	{'relation': 'collaborate'}
+Moti Schneider	Gideon Langholz	{'relation': 'collaborate'}
+Moti Schneider	A. P. Rotshtein	{'relation': 'collaborate'}
+Moti Schneider	Yuval Elovici	{'relation': 'collaborate'}
+Moti Schneider	H.-N. L. Teodorescu	{'relation': 'collaborate'}
+A Kandel	Joan Francioni	{'relation': 'collaborate'}
+A Kandel	R. Milo	{'relation': 'collaborate'}
+A Kandel	M. Friedman	{'relation': 'collaborate'}
+A Kandel	Ming Ma	{'relation': 'collaborate'}
+A Kandel	Mark Last	{'relation': 'collaborate'}
+A Kandel	Gideon Langholz	{'relation': 'collaborate'}
+A. P. Rotshtein	Abraham Kandel	{'relation': 'collaborate'}
+Jyh-Shyan Lin	M. Friedman	{'relation': 'collaborate'}
+Abraham Kandel	Yuval Elovici	{'relation': 'collaborate'}
+Abraham Kandel	Joan Francioni	{'relation': 'collaborate'}
+Abraham Kandel	H.-N. L. Teodorescu	{'relation': 'collaborate'}
+Abraham Kandel	Ming Ma	{'relation': 'collaborate'}
+Abraham Kandel	Mark Last	{'relation': 'collaborate'}
+Abraham Kandel	Gideon Langholz	{'relation': 'collaborate'}
+Abraham Kandel	Chlotia Posey	{'relation': 'collaborate'}
+Abraham Kandel	M. Friedman	{'relation': 'collaborate'}
+Abraham Kandel	Yan-Qing Zhang	{'relation': 'collaborate'}
+Eran Ferri	Gideon Langholz	{'relation': 'collaborate'}
+Joan Francioni	Gideon Langholz	{'relation': 'collaborate'}
+Yuval Elovici	M. Friedman	{'relation': 'collaborate'}
+Yuval Elovici	Mark Last	{'relation': 'collaborate'}
+Michael Margaliot	Gideon Langholz	{'relation': 'collaborate'}
+Mark Last	M. Friedman	{'relation': 'collaborate'}
+Gideon Langholz	M. Friedman	{'relation': 'collaborate'}
+Gideon Langholz	Chlotia Posey	{'relation': 'collaborate'}
+Gideon Langholz	Ming Ma	{'relation': 'collaborate'}
+Gideon Langholz	Yan-Qing Zhang	{'relation': 'collaborate'}
+A. Rabinovitch	M. Friedman	{'relation': 'collaborate'}
+M. Friedman	Ming Ma	{'relation': 'collaborate'}
+M. Friedman	R. Milo	{'relation': 'collaborate'}
+Yan-Qing Zhang	Ming Ma	{'relation': 'collaborate'}

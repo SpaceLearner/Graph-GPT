@@ -1,55 +1,52 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:00 2023
 # 
-Susan A. Brown	2
-Helen Kelley	{'relation': 'collaborate'}
-A. Schwarz	{'relation': 'collaborate'}
-Tracey Rizzuto	1
-A. Schwarz	{'relation': 'collaborate'}
-M. Pohst	2
-A. Schwarz	{'relation': 'collaborate'}
-F. Diaz y Diaz	{'relation': 'collaborate'}
-R. A. Hirschheim	3
-A. Schwarz	{'relation': 'collaborate'}
-Richard J. Welke	{'relation': 'collaborate'}
-B. Jayatilaka	{'relation': 'collaborate'}
-Ted E. Lee	1
-B. Jayatilaka	{'relation': 'collaborate'}
-M. Babik	3
-B. Jayatilaka	{'relation': 'collaborate'}
-D. Benjamin	{'relation': 'collaborate'}
-S. Cabrera	{'relation': 'collaborate'}
-Iris A. Junglas	4
-A. Schwarz	{'relation': 'collaborate'}
-Norman A. Johnson	{'relation': 'collaborate'}
-Wynne W. Chin	{'relation': 'collaborate'}
-Jill M. Sundie	{'relation': 'collaborate'}
-Ronald T. Cenfetelli	1
-A. Schwarz	{'relation': 'collaborate'}
-D. Benjamin	2
-B. Jayatilaka	{'relation': 'collaborate'}
-S. Cabrera	{'relation': 'collaborate'}
-Richard J. Welke	1
-A. Schwarz	{'relation': 'collaborate'}
-B. Jayatilaka	3
-A. Schwarz	{'relation': 'collaborate'}
-S. Cabrera	{'relation': 'collaborate'}
-Jinyoul Lee	{'relation': 'collaborate'}
-A. Schwarz	6
-Helen Kelley	{'relation': 'collaborate'}
-Jill M. Sundie	{'relation': 'collaborate'}
-F. Diaz y Diaz	{'relation': 'collaborate'}
-N L Johnson	{'relation': 'collaborate'}
-Norman A. Johnson	{'relation': 'collaborate'}
-Wynne W. Chin	{'relation': 'collaborate'}
-N L Johnson	1
-Wynne W. Chin	{'relation': 'collaborate'}
-S. Cabrera	0
-F. Diaz y Diaz	0
-Helen Kelley	0
-Jinyoul Lee	0
-Wynne W. Chin	2
-Norman A. Johnson	{'relation': 'collaborate'}
-Jill M. Sundie	{'relation': 'collaborate'}
-Norman A. Johnson	0
-Jill M. Sundie	0
+Masumi Ishikawa	14
+Hong Zhang	{'relation': 'collaborate'}
+Alireza Ahrary	{'relation': 'collaborate'}
+Tetsuo Furukawa	{'relation': 'collaborate'}
+Helge Ritter	{'relation': 'collaborate'}
+Seiichiro Kamata	{'relation': 'collaborate'}
+K. Doya	{'relation': 'collaborate'}
+Kazuhiko Nishino	{'relation': 'collaborate'}
+Hiroyuki Miyamoto	{'relation': 'collaborate'}
+Risto Miikkulainen	{'relation': 'collaborate'}
+Takeshi Yamakawa	{'relation': 'collaborate'}
+Toshiyuki Nomura	{'relation': 'collaborate'}
+Li Tian	{'relation': 'collaborate'}
+Jiro Katto	{'relation': 'collaborate'}
+Kyota Higa	{'relation': 'collaborate'}
+Seiichiro Kamata	2
+Alireza Ahrary	{'relation': 'collaborate'}
+Li Tian	{'relation': 'collaborate'}
+Kazuhiko Nishino	0
+Bin Guo	1
+Hong Zhang	{'relation': 'collaborate'}
+Hiroyuki Miyamoto	2
+K. Doya	{'relation': 'collaborate'}
+Takeshi Yamakawa	{'relation': 'collaborate'}
+Li Tian	1
+Alireza Ahrary	{'relation': 'collaborate'}
+Helge Ritter	1
+Risto Miikkulainen	{'relation': 'collaborate'}
+Takeshi Yamakawa	1
+K. Doya	{'relation': 'collaborate'}
+Risto Miikkulainen	0
+Lin Yang	1
+Hong Zhang	{'relation': 'collaborate'}
+Kyota Higa	2
+Toshiyuki Nomura	{'relation': 'collaborate'}
+Jiro Katto	{'relation': 'collaborate'}
+Jiro Katto	1
+Toshiyuki Nomura	{'relation': 'collaborate'}
+Hong Zhang	3
+Ding Feng	{'relation': 'collaborate'}
+Xiaolong Liu	{'relation': 'collaborate'}
+Jiulun Fan	{'relation': 'collaborate'}
+Xiaolong Liu	0
+Toshiyuki Nomura	0
+Jiulun Fan	0
+Alireza Ahrary	0
+K. Doya	0
+Tetsuo Furukawa	0
+Ding Feng	0

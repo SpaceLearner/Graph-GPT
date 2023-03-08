@@ -1,137 +1,142 @@
 graph [
   node [
     id 0
-    label "John M. Dennis"
-    affiliation "National Center for Atmospheric Science, Boulder, CO, USA"
-    research "Automated memory analysis, memory efficiency, data movement"
+    label "Jing-Xin Wang"
+    affiliation "Department of Computer Science and Information Engineering, National Cheng Kung University, Tainan, Taiwan, R.O.C."
+    research "MPEG-4 encoder, MPEG-4 parallel encoder, data computation"
   ]
   node [
     id 1
-    label "Q. Huang"
-    affiliation "Univ. Pierre et Marie Curie, Paris, France"
-    research "FORTRAN-77 program, heterogeneous set, conjugate fault slip data"
+    label "Ren-Hong Wang"
+    affiliation "Nan"
+    research "surface pencil, parametric representation, sufficient condition"
   ]
   node [
     id 2
-    label "V. Choulakian"
-    affiliation "University of Moncton, Canada"
-    research "marginal distribution, EM algorithm, proposed algorithm"
+    label "Ming Zhang"
+    affiliation "Institute of Modern Education Technology, East China Normal University, Shanghai, China"
+    research "classroom instruction information, pro cessing system"
   ]
   node [
     id 3
-    label "Y. Zhang"
-    affiliation "Nan"
-    research "Execution Software Integration Architecture, Manufacturing Planning"
+    label "Feng-Gong Lang"
+    affiliation "School of Mathematical Sciences, Ocean University of China, Qingdao, Shandong 266071, People's Republic of China"
+    research "cubic spline space, Multivariate spline space, basis spline"
   ]
   node [
     id 4
-    label "G. Felic"
-    affiliation "National ICT Australia/ University of Melbourne, Australia"
-    research "low cost, CMOS Radar, low power CMOS process"
+    label "Chun-Gang Zhu"
+    affiliation "Institute of Mathematical Sciences, Dalian University of Technology, Dalian 116024, China"
+    research "piecewise algebraic curve, piecewise algebraic variety, developable surface"
   ]
   node [
     id 5
-    label "Y. Feng"
+    label "Min Xu"
     affiliation "Nan"
-    research ""
+    research "Power Transformer, Data Mining, experimental data"
   ]
   node [
     id 6
-    label "David C. Gibbon"
-    affiliation "AT&#38;T Labs Research, Florham Park, NJ"
-    research "information retrieval, fresh content, Internet video system"
+    label "Bing Guo"
+    affiliation "Nan"
+    research "linear multi-step scheme, algebraic function approximation, multi-step difference"
   ]
   node [
     id 7
-    label "S. McCormick"
-    affiliation "Department of Applied Mathematics, University of Colorado at Boulder, Boulder, CO"
-    research "First-Order System, numerical result, test problem"
+    label "Yan Xu"
+    affiliation "Nan"
+    research "automatic service composition, coverability graph, coverability problem"
   ]
   node [
     id 8
-    label "Malathi Veeraraghavan"
-    affiliation "University of Virginia"
-    research "circuit-switched network, CO network, file transfer"
+    label "Fengshan Liu"
+    affiliation "Applied Mathematics Research Center, Delaware State University, DE 19901, USA"
+    research "high-order FDTD, calculation accuracy, CFS-RIPML boundary"
   ]
   node [
     id 9
-    label "D. Towsley"
-    affiliation "Computer Science Department, UMass Amherst, Amherst, MA 01003"
-    research "packet loss, network bandwidth, A RECEIVER"
+    label "Xue-Zhang Liang"
+    affiliation "Nan"
+    research "finger-vein image, binary image, different denoising method"
   ]
   node [
     id 10
-    label "Guojun Li"
-    affiliation "Department of Mathematics, Shandong University, Jinan 250100, P. R. China"
-    research "chorded cycle, edge disjoint Hamilton cycle, vertex-disjoint cycle"
+    label "Chong-Jun Li"
+    affiliation "Institute of Mathematical Sciences, Dalian University of Technology, Dalian 116024, China"
+    research "Bivariate quartic spline space, numerical example, proposed element"
   ]
   node [
     id 11
-    label "Changle Li"
-    affiliation "Nan"
-    research "MAC protocol, enhanced performance, network performance forvarious protocol"
+    label "Jie-Qing Tan"
+    affiliation "Institute of Applied Mathematics, Hefei University of Technology, 193 Tunxi Road, Hefei 230009, People's Republic of China"
+    research "continued fraction, interpolation surface, adaptive osculatory rational interpolation"
   ]
   node [
     id 12
-    label "Chun Ying"
-    affiliation "IBM China Research Laboratory"
-    research "service provider, Telecom operator, user-centric network management framework"
+    label "Xiaolei Zhang"
+    affiliation "Department of Educational Technology, Graduate School of Education, Peking University, Beijing, China"
+    research "online tutor, Working Forum, network map"
   ]
   node [
     id 13
-    label "Jian Li"
-    affiliation "Nan"
-    research "2-D data, data processing, gapped data"
+    label "Zhi-Qiang Xu"
+    affiliation "Department of Computer Science, Tsinghua University, Beijing, China"
+    research "discrete scheme, Gaussian curvature, canal surface"
   ]
   node [
     id 14
-    label "Wei Lu"
-    affiliation "Microsoft, Redmond, WA"
-    research "smartphone application, data leak, moment data"
+    label "Qin Fang"
+    affiliation "Nan"
+    research "Interactive Multimodal Volume Visualization, Treatment Planning Simulator"
   ]
   node [
     id 15
-    label "W. Yang"
+    label "Xiquan Shi"
     affiliation "Nan"
-    research "MIT vision machine"
+    research "human body, human body modeling, new basis"
   ]
   node [
     id 16
-    label "James F. Kurose"
-    affiliation "Univ. of Massachussetts, Amherst"
-    research "wireless network, network resource, multicast network"
+    label "Shaofan Wang"
+    affiliation "Beijing University of Technology, Beijing, P. R. China"
+    research "point model, sharp feature, point modelsRepresentation"
   ]
   node [
     id 17
-    label "Z. Liu"
-    affiliation "Department of Biochemistry and Molecular Biology, The University of Georgia, GA 30602, USA"
-    research "generalized threading problem, protein structure prediction, template structure"
+    label "Mian Li"
+    affiliation "Nan"
+    research "truncated power, hyperplane arrangement, box spline"
   ]
   node [
     id 18
-    label "M. Rais-Rohani"
-    affiliation "Department of Aerospace Engineering, Mississippi State University, Mississippi State, MS 39762, USA"
-    research "RBF model, response sample, analytical target"
+    label "Zhongxuan Luo"
+    affiliation "Dalian University of Technology, Dalian, China"
+    research "facial contour, facial geometry, facial image"
   ]
   node [
     id 19
-    label "D. V. Sarwate"
-    affiliation "Department of Informatics, University of Ilinois at UrbanaChampaign, 1406 West Green Street, Urbana, Norway"
-    research "new architecture, extended Euclidean algorithm, critical path delay"
+    label "Li-Hong Cui"
+    affiliation "School of Science, Beijing University of Chemical Technology, Beijing 100029, PR China"
+    research "multiscaling function, discrete multiwavelet, dilation factor"
   ]
   edge [
     source 0
-    target 15
+    target 1
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 17
+    source 1
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
     target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -140,58 +145,118 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 1
     target 14
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 17
+    source 1
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 5
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 1
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 17
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 17
+    source 4
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
     relation "collaborate"
   ]
   edge [
     source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -201,71 +266,6 @@ graph [
   ]
   edge [
     source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 17
     target 19
     relation "collaborate"
   ]

@@ -1,29 +1,45 @@
-Y. Yagi	Y. Iwai	{'relation': 'collaborate'}
-Y. Yagi	K. Watanabe	{'relation': 'collaborate'}
-I. Keshi	K. Watanabe	{'relation': 'collaborate'}
-S. Ogata	K. Watanabe	{'relation': 'collaborate'}
-S. Ogata	T. Takayama	{'relation': 'collaborate'}
-Y. Ishii	Y. Yamamoto	{'relation': 'collaborate'}
-Y. Ishii	K. Watanabe	{'relation': 'collaborate'}
-Y. Ishii	Y. Kubota	{'relation': 'collaborate'}
-Y. Ishii	T. Noguchi	{'relation': 'collaborate'}
-A. Ohgai	K. Watanabe	{'relation': 'collaborate'}
-S. Fukuyama	K. Watanabe	{'relation': 'collaborate'}
-S. Fukuyama	T. Suzuki	{'relation': 'collaborate'}
-K. Watanabe	Y. Kubota	{'relation': 'collaborate'}
-K. Watanabe	T. Suzuki	{'relation': 'collaborate'}
-K. Watanabe	T. Noguchi	{'relation': 'collaborate'}
-K. Watanabe	Y. Iwai	{'relation': 'collaborate'}
-K. Watanabe	S. Itoh	{'relation': 'collaborate'}
-K. Watanabe	Tsu-Tian Lee	{'relation': 'collaborate'}
-K. Watanabe	T. Takayama	{'relation': 'collaborate'}
-K. Watanabe	T. Ishihara	{'relation': 'collaborate'}
-K. Watanabe	N. Azuma	{'relation': 'collaborate'}
-K. Watanabe	A. Hirabayashi	{'relation': 'collaborate'}
-K. Watanabe	Y. Yamamoto	{'relation': 'collaborate'}
-K. Watanabe	S G. Tzafestas	{'relation': 'collaborate'}
-K. Watanabe	S. Kameda	{'relation': 'collaborate'}
-T. Noguchi	S. Kameda	{'relation': 'collaborate'}
-T. Noguchi	Y. Yamamoto	{'relation': 'collaborate'}
-N. Azuma	S. Itoh	{'relation': 'collaborate'}
-Y. Yamamoto	A. Hirabayashi	{'relation': 'collaborate'}
+Amit Dhurandhar	Alin Dobra	{'relation': 'collaborate'}
+Tamer Kahveci	Abhijit Pol	{'relation': 'collaborate'}
+Tamer Kahveci	S. Ranka	{'relation': 'collaborate'}
+Tamer Kahveci	Alin Dobra	{'relation': 'collaborate'}
+Tamer Kahveci	Christopher Jermaine	{'relation': 'collaborate'}
+Tamer Kahveci	Haitham Gabr	{'relation': 'collaborate'}
+Florin Rusu	Alin Dobra	{'relation': 'collaborate'}
+Florin Rusu	Mingxi Wu	{'relation': 'collaborate'}
+Florin Rusu	Christopher Jermaine	{'relation': 'collaborate'}
+Florin Rusu	Fei Xu	{'relation': 'collaborate'}
+Johannes E. Gehrke	David Kempe	{'relation': 'collaborate'}
+Johannes E. Gehrke	Minos N. Garofalakis	{'relation': 'collaborate'}
+Johannes E. Gehrke	Alin Dobra	{'relation': 'collaborate'}
+Johannes E. Gehrke	Rajeev Rastogi	{'relation': 'collaborate'}
+Fei Xu	Alin Dobra	{'relation': 'collaborate'}
+Fei Xu	Mingxi Wu	{'relation': 'collaborate'}
+Fei Xu	Christopher Jermaine	{'relation': 'collaborate'}
+S. Ranka	Laukik Chitnis	{'relation': 'collaborate'}
+S. Ranka	Alin Dobra	{'relation': 'collaborate'}
+S. Ranka	Christopher Jermaine	{'relation': 'collaborate'}
+S. Ranka	Mingxi Wu	{'relation': 'collaborate'}
+Shantanu H. Joshi	Christopher Jermaine	{'relation': 'collaborate'}
+Shantanu H. Joshi	Subramanian Arumugam	{'relation': 'collaborate'}
+Shantanu H. Joshi	Abhijit Pol	{'relation': 'collaborate'}
+Shantanu H. Joshi	Alin Dobra	{'relation': 'collaborate'}
+Christopher Jermaine	Alin Dobra	{'relation': 'collaborate'}
+Christopher Jermaine	Abhijit Pol	{'relation': 'collaborate'}
+Christopher Jermaine	Minos N. Garofalakis	{'relation': 'collaborate'}
+Christopher Jermaine	Subramanian Arumugam	{'relation': 'collaborate'}
+Christopher Jermaine	Supriya Nirkhiwale	{'relation': 'collaborate'}
+Christopher Jermaine	Niketan Pansare	{'relation': 'collaborate'}
+Christopher Jermaine	Mingxi Wu	{'relation': 'collaborate'}
+Supriya Nirkhiwale	Alin Dobra	{'relation': 'collaborate'}
+Mingxi Wu	Alin Dobra	{'relation': 'collaborate'}
+Subramanian Arumugam	Alin Dobra	{'relation': 'collaborate'}
+Subramanian Arumugam	Abhijit Pol	{'relation': 'collaborate'}
+Alin Dobra	Lixia Chen	{'relation': 'collaborate'}
+Alin Dobra	David Kempe	{'relation': 'collaborate'}
+Alin Dobra	Rajeev Rastogi	{'relation': 'collaborate'}
+Alin Dobra	Abhijit Pol	{'relation': 'collaborate'}
+Alin Dobra	Minos N. Garofalakis	{'relation': 'collaborate'}
+Alin Dobra	Laukik Chitnis	{'relation': 'collaborate'}
+Alin Dobra	Haitham Gabr	{'relation': 'collaborate'}
+Alin Dobra	Niketan Pansare	{'relation': 'collaborate'}
+Rajeev Rastogi	Minos N. Garofalakis	{'relation': 'collaborate'}

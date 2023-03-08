@@ -1,72 +1,54 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:05 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:06 2023
 # 
-Ligang Wu	4
-James Lam	{'relation': 'collaborate'}
-E. Rogers	{'relation': 'collaborate'}
-Krzysztof Gałkowski	{'relation': 'collaborate'}
-Anton Kummert	{'relation': 'collaborate'}
-Zhiping Lin	4
-Anton Kummert	{'relation': 'collaborate'}
-Krzysztof Gałkowski	{'relation': 'collaborate'}
-Shengyuan Xu	{'relation': 'collaborate'}
-James Lam	{'relation': 'collaborate'}
-Krzysztof Gałkowski	16
-Chris T. Freeman	{'relation': 'collaborate'}
-I. V. Gaishun	{'relation': 'collaborate'}
-N. P. Karampetakis	{'relation': 'collaborate'}
-Anton Kummert	{'relation': 'collaborate'}
-V. R. Sule	{'relation': 'collaborate'}
-D. H. Owens	{'relation': 'collaborate'}
-E. Rogers	{'relation': 'collaborate'}
-Joerg Velten	{'relation': 'collaborate'}
-Peter H. Bauer	{'relation': 'collaborate'}
-Jarosław Gramacki	{'relation': 'collaborate'}
-James Lam	{'relation': 'collaborate'}
-Driss Mehdi	{'relation': 'collaborate'}
-Paul L. Lewin	{'relation': 'collaborate'}
-Shengyuan Xu	{'relation': 'collaborate'}
-Zhonglun Cai	{'relation': 'collaborate'}
-Olivier Bachelier	{'relation': 'collaborate'}
-I. V. Gaishun	2
-E. Rogers	{'relation': 'collaborate'}
-D. H. Owens	{'relation': 'collaborate'}
-Paul L. Lewin	4
-E. Rogers	{'relation': 'collaborate'}
-Chris T. Freeman	{'relation': 'collaborate'}
-D. H. Owens	{'relation': 'collaborate'}
-Zhonglun Cai	{'relation': 'collaborate'}
-Shengyuan Xu	1
-James Lam	{'relation': 'collaborate'}
-N. P. Karampetakis	0
-E. Rogers	10
-Chris T. Freeman	{'relation': 'collaborate'}
-D. H. Owens	{'relation': 'collaborate'}
-V. R. Sule	{'relation': 'collaborate'}
-Anton Kummert	{'relation': 'collaborate'}
-Olivier Bachelier	{'relation': 'collaborate'}
-James Lam	{'relation': 'collaborate'}
-Peter H. Bauer	{'relation': 'collaborate'}
-Jarosław Gramacki	{'relation': 'collaborate'}
-Zhonglun Cai	{'relation': 'collaborate'}
-Driss Mehdi	{'relation': 'collaborate'}
-D. H. Owens	2
-J. B. Edwards	{'relation': 'collaborate'}
-Jarosław Gramacki	{'relation': 'collaborate'}
-Olivier Bachelier	2
-Anton Kummert	{'relation': 'collaborate'}
-Driss Mehdi	{'relation': 'collaborate'}
-V. R. Sule	0
-Joerg Velten	1
-Anton Kummert	{'relation': 'collaborate'}
-Jarosław Gramacki	0
-Chris T. Freeman	1
-Zhonglun Cai	{'relation': 'collaborate'}
-James Lam	1
-Anton Kummert	{'relation': 'collaborate'}
-Anton Kummert	1
-Driss Mehdi	{'relation': 'collaborate'}
-J. B. Edwards	0
-Zhonglun Cai	0
-Peter H. Bauer	0
-Driss Mehdi	0
+Yoshihiro Okada	2
+H. Fujisawa	{'relation': 'collaborate'}
+Seong-Whan Lee	{'relation': 'collaborate'}
+T. Hisamitsu	2
+H. Fujisawa	{'relation': 'collaborate'}
+K. Marukawa	{'relation': 'collaborate'}
+Cheng-Lin Liu	5
+Sriharsha Veeramachaneni	{'relation': 'collaborate'}
+H. Fujisawa	{'relation': 'collaborate'}
+George Nagy	{'relation': 'collaborate'}
+Kazuki Nakashima	{'relation': 'collaborate'}
+M. Cheriet	{'relation': 'collaborate'}
+R. Mine	1
+H. Fujisawa	{'relation': 'collaborate'}
+Éric Anquetil	2
+M. Cheriet	{'relation': 'collaborate'}
+Guy Lorette	{'relation': 'collaborate'}
+Guy Lorette	3
+H. Fujisawa	{'relation': 'collaborate'}
+Mounim A. El-Yacoubi	{'relation': 'collaborate'}
+M. Cheriet	{'relation': 'collaborate'}
+M. Cheriet	2
+H. Fujisawa	{'relation': 'collaborate'}
+Mounim A. El-Yacoubi	{'relation': 'collaborate'}
+H. Ikeda	2
+H. Fujisawa	{'relation': 'collaborate'}
+M. Ohki	{'relation': 'collaborate'}
+Kazuki Nakashima	1
+H. Fujisawa	{'relation': 'collaborate'}
+Mounim A. El-Yacoubi	1
+H. Fujisawa	{'relation': 'collaborate'}
+H. Fujisawa	9
+Yusuke Matsunaga	{'relation': 'collaborate'}
+K. Marukawa	{'relation': 'collaborate'}
+George Nagy	{'relation': 'collaborate'}
+Robert E. Frederking	{'relation': 'collaborate'}
+Seong-Whan Lee	{'relation': 'collaborate'}
+M. Ohki	{'relation': 'collaborate'}
+Jairo Rocha	{'relation': 'collaborate'}
+Sriharsha Veeramachaneni	{'relation': 'collaborate'}
+L Kerschberg	{'relation': 'collaborate'}
+Yusuke Matsunaga	0
+Robert E. Frederking	0
+L Kerschberg	0
+George Nagy	1
+Sriharsha Veeramachaneni	{'relation': 'collaborate'}
+Jairo Rocha	0
+Seong-Whan Lee	0
+Sriharsha Veeramachaneni	0
+K. Marukawa	0
+M. Ohki	0
