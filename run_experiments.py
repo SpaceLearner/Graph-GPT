@@ -12,6 +12,13 @@ import os
 from utils import task_handler, answer_cleasing, evaluate
 from functools import partial
 
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_random_exponential,
+)  
+
+
 import wandb
 
 class MyThread(Thread):
@@ -31,9 +38,17 @@ class MyThread(Thread):
     def getResult(self):
         return self.result
 
-def main(config, seed=0):
+@retry(wait=wait_random_exponential(min=3, max=60), stop=stop_after_attempt(10))
+def GPT(data):
+
     url     = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
     headers = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
+    response   = requests.post(url=url, headers=headers, data=json.dumps(data))
+    
+    return response
+
+def main(config, seed=0):
+    
     data    = {"prompt": "", 
             "max_tokens": 512, 
             "temperature": 0.3}
@@ -94,7 +109,7 @@ def main(config, seed=0):
                     data["prompt"] = instructer + graph + example + question + tail
                 print(example + question + tail)
                 
-                response   = requests.post(url=url, headers=headers, data=json.dumps(data))
+                response   = GPT(data)
                 answer     = json.loads(response.text)["choices"][0]["text"].strip()
                 pred       = answer_cleasing(config, answer)
                 # predictions.append(pred)
@@ -112,7 +127,7 @@ def main(config, seed=0):
                     else:
                         data["prompt"] = instructer + graph + example + question + tail
                 
-                    response   = requests.post(url=url, headers=headers, data=json.dumps(data))
+                    response   = GPT(data)
                     # print(response)
                     # print(json.loads(response.text))
                     answer     = json.loads(response.text)["choices"][0]["text"].strip()
@@ -135,7 +150,7 @@ if __name__ == "__main__":
     parser.add_argument("--dataset", type=str, default="Aminer",    help="The dataset to use. ")
     parser.add_argument("--method",  type=str, default="zero_shot", help="The method to use. ")
     parser.add_argument("--change_order", type=int, default=0,  help="whether use change order. ")
-    parser.add_argument("--self_argument", type=int, default=0,  help="whether use self-aug. ")
+    parser.add_argument("--self_augument", type=int, default=0,  help="whether use self-aug. ")
     parser.add_argument("--task",    type=str, default="degree",    help="The task to conduct. ")
     args = parser.parse_args()
     

@@ -8,7 +8,7 @@ parameters:
     values: ["EdgeList", "AdjList", "GML", "GraphML"]
   change_order:
     values: [0, 1]
-  self_augment:
+  self_augument:
     values: [0]
   task:
     values: ["degree"]
