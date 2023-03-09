@@ -86,7 +86,7 @@ def main(config, seed=0):
             example = "For example, the number of nodes is 16 and the number of edges is 32 if a graph have 16 nodes and 32 edges. \n"
     elif config.method == "zero_shot_cot":
         example = ""
-        tail = "Please answer it step by step with all answers. \n"
+        tail = "Let's think it step by step and then answer with all answers. \n"
 
     # print(example)
     accs = []
