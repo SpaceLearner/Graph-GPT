@@ -12,6 +12,8 @@ import os
 from utils import task_handler, answer_cleasing, evaluate
 from functools import partial
 
+import wandb
+
 class MyThread(Thread):
     def __init__(self, func, args):
         '''
@@ -34,7 +36,7 @@ def main(config, seed=0):
     headers = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
     data    = {"prompt": "", 
             "max_tokens": 512, 
-            "temperature": 0.3 }
+            "temperature": 0.3}
 
     # command = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-chat-davinci-002/completions?api-version=2022-12-01 -H \"Content-Type: application/json\" -H \"api-key: 516a05f6bed44ddeb2a6e8a047046ad5\" -d \"{ \"prompt\": \"please construct an undirected graph G with the following edge list separated by , : 1-2, 2-3, 3-4, 4-2, 2-6, 5-6, 6-1, 6-7, 7-9, 8-9.\", \"max_tokens\": 160, \"temperature\": 0.3 }\""
     # graph_file = "input/SMILES/hiv.smiles"
@@ -117,10 +119,14 @@ def main(config, seed=0):
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
                 print(predictions, true_answer)
-                accs.append(evaluate(predictions, true_answer))
+                acc = evaluate(predictions, true_answer)
+                accs.append(acc)
+                wandb.log({"epoch_acc": acc})
     
     accs = np.array(accs)
     print(np.mean(accs), np.std(accs))
+    wandb.log({"acc": np.mean(accs), "std": np.std(accs)})
+    
         
             
     # pred     = answer["choices"][0]["text"]
@@ -132,11 +138,12 @@ if __name__ == "__main__":
     parser.add_argument("--format",  type=str, default="GraphML",   help="Input format to use. ")
     parser.add_argument("--dataset", type=str, default="Aminer",    help="The dataset to use. ")
     parser.add_argument("--method",  type=str, default="zero_shot", help="The method to use. ")
-    parser.add_argument("--change_order",  action="store_true")
-    parser.add_argument("--self-argument", action="store_true")
+    parser.add_argument("--change_order", type=int, default=0,  help="whether use change order. ")
+    parser.add_argument("--self-argument", type=int, default=0,  help="whether use self-aug. ")
     parser.add_argument("--task",    type=str, default="degree",    help="The task to conduct. ")
     args = parser.parse_args()
     
+    wandb.init(project="GraphBench", config=args)
     
     main(args)
     # print("zero_shot: ")

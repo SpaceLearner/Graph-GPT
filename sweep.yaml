@@ -1,0 +1,13 @@
+program: run_experiments.py
+method: grid
+parameters:
+  method:
+    values: ["zero_shot", "one_shot", "zero_shot_cot"]
+  format:
+    values: ["EdgeList", "AdjList", "GML", "GraphML"]
+  change_order:
+    values: [0, 1]
+  self-augment:
+    values: [0]
+  task:
+    values: ["degree"]
