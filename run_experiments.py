@@ -127,10 +127,6 @@ def main(config, seed=0):
     print(np.mean(accs), np.std(accs))
     wandb.log({"acc": np.mean(accs), "std": np.std(accs)})
     
-        
-            
-    # pred     = answer["choices"][0]["text"]
-    
     
 if __name__ == "__main__":
     
@@ -139,7 +135,7 @@ if __name__ == "__main__":
     parser.add_argument("--dataset", type=str, default="Aminer",    help="The dataset to use. ")
     parser.add_argument("--method",  type=str, default="zero_shot", help="The method to use. ")
     parser.add_argument("--change_order", type=int, default=0,  help="whether use change order. ")
-    parser.add_argument("--self-argument", type=int, default=0,  help="whether use self-aug. ")
+    parser.add_argument("--self_argument", type=int, default=0,  help="whether use self-aug. ")
     parser.add_argument("--task",    type=str, default="degree",    help="The task to conduct. ")
     args = parser.parse_args()
     
