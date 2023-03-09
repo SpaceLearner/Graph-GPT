@@ -1,347 +1,252 @@
 graph [
   node [
     id 0
-    label "Jeremy Johnson"
-    affiliation "Interactive Media Technology Center, Georgia Institute of Technology, Atlanta, USA 30332"
-    research "smart toy, Recognition ApplicationsWireless sensor data, annotated play data"
+    label "Gyana Parija"
+    affiliation "IBM Research, India, New Delhi"
+    research "case study, business problem, decision problem"
   ]
   node [
     id 1
-    label "Pei Yin"
-    affiliation "Microsoft Corp, Redmond"
-    research "ASL recognition, ASL verification, ASL fenemes"
+    label "Benjamin McClosky"
+    affiliation "Columbia University, New York, NY, USA"
+    research "stable set polytope, co-2-plex polynomial, cohesive subgraphs"
   ]
   node [
     id 2
-    label "Peter Presti"
-    affiliation "Georgia Institute of Technology, Altanta"
-    research "deaf child, Educational Game, children interact"
+    label "J. Ma"
+    affiliation "University of Waterloo, Waterloo, ON, Canada"
+    research "experimental result, acceptable ionization collection efficiency, flat energy response ionization"
   ]
   node [
     id 3
-    label "Hendrik Iben"
-    affiliation "Unversity of Bremen, Bremen, Germany"
-    research "audio interface, HMD system, task guidance system"
+    label "Krishnaswami Srihari"
+    affiliation "SUNY Binghamton SSIE"
+    research "processing time, product failure, flow time"
   ]
   node [
     id 4
-    label "Scott Robertson"
+    label "Mohan V. Kalkunte"
     affiliation "Nan"
-    research "Open Government, Transformational Government, Citizen Engagement MinitrackIntroduction"
+    research "alternative design, robotic assembly cell"
   ]
   node [
     id 5
-    label "Amy Bruckman"
-    affiliation "Gerogia Institute of Technology"
-    research "online community, online creative collaboration, online blogging environment"
+    label "Patrick H. Madden"
+    affiliation "CSD"
+    research "circuit placement, placement contest, placement problem"
   ]
   node [
     id 6
-    label "Thad Starner"
-    affiliation "Contextual Computing Group, GVU Center, Georgia Insititute of Technology, Atlanta, GA 303320356, USA/ email: {thad,dminn,turtle,sloopy,joostan}@cc.gatech.edu , US"
-    research "Wearable Computer, mobile phone, mobile device"
+    label "Sarah S. Lam"
+    affiliation "State University of New York at Binghamton"
+    research "group intelligence, group size, indirect collaborative evolution"
   ]
   node [
     id 7
-    label "Shumin Zhai"
-    affiliation "Nan"
-    research ""
+    label "Balabhaskar Balasundaram"
+    affiliation "School of Industrial Engineering and Management, Oklahoma State University, Stillwater, Oklahoma 74078"
+    research "maximum independent set problem, binary local maximum, combinatorial optimization problem"
   ]
   node [
     id 8
-    label "Maribeth Gandy"
-    affiliation "Georgia Tech, Atlanta, GA"
-    research "Augmented Reality, older adult, early design activity"
+    label "W E Wilhelm"
+    affiliation "Department of Industrial Engineering, Texas A&#38;M University, TAMUS 3131, College Station, Texas 778433131"
+    research "column generation, three-stage approach, computational test"
   ]
   node [
     id 9
-    label "Derrick Parkhurst"
-    affiliation "Iowa State University"
-    research "eye movement, reaction time, visual sensitivity"
+    label "Chao Wang"
+    affiliation "Nan"
+    research "Density Maximization, many-to-many object correspondence, Density MaximizationGraph matching"
   ]
   node [
     id 10
-    label "Brian Jones"
-    affiliation "Georgia Institute of Technology, Atlanta, GA, USA"
-    research "healthy aging, older adult, action research study"
+    label "S. Butenko"
+    affiliation "Department of Industrial Engineering, Texas A&#38;M University, USA 77843"
+    research "clique relaxation, maximum independent set problem, maximum independent set"
   ]
   node [
     id 11
-    label "Stephen Sinclair"
-    affiliation "McGill University  Montreal, QC, Canada"
-    research "virtual stage, data representation, specific scene"
+    label "Charles R. Cash"
+    affiliation "ANSER Corporation, Arlington, VA"
+    research "cell design, variance reduction technique, Pre-determined cell performance measure"
   ]
   node [
     id 12
-    label "Kimberly Weaver"
-    affiliation "Georgia Institute of Technology, Atlanta, GA, USA"
-    research "sign language, hearing parent, deaf child"
+    label "S. S. Margulies"
+    affiliation "Department of Mathematics, Pennsylvania State University, State College, Pennsylvania 16802"
+    research "CG algorithm, postural change, healthy subject"
   ]
   node [
     id 13
-    label "Steven Dow"
-    affiliation "Carnegie Mellon University"
-    research "Elisa Giaccardi, family health heritage, generationsOn Heritage"
+    label "Mario Cesar Velez Gallego"
+    affiliation "Departamento de Ingenier&#237;a de Producci&#243;n, Universidad EAFIT, Carrera 49, 7 sur 50, Medell&#237;n, Colombia"
+    research "batch processing time, batch ready time, identical batch processing machine"
   ]
   node [
     id 14
-    label "Huahai Yang"
-    affiliation "University at Albany, SUNY, Albany, NY"
-    research "generic natural language interface, generic system, domain knowledge"
+    label "Xiaoyan Zhu"
+    affiliation "Nan"
+    research "AP clustering, clustering algorithm, effective clustering algorithm"
   ]
   node [
     id 15
-    label "Gregory D. Abowd"
-    affiliation "Intel Research Seattle,Intel Research Cambridge, University of California, San Diego, College of Computing &#38; GVU Center, Georgia Institute of Technology, Atlanta, GA"
-    research "ubiquitous computing, design method, automated capture"
+    label "Illya V. Hicks"
+    affiliation "Computational and Applied Mathematics, Rice University, Houston, Texas 770051892"
+    research "branch decomposition, optimal branch decomposition, NP-hard problem"
   ]
   node [
     id 16
-    label "Jeff Wilson"
-    affiliation "Baylor University, Waco, TX"
-    research "wireless network, wireless networkDriven, security method"
+    label "Purushothaman Damodaran"
+    affiliation "Department of Industrial and Systems Engineering, Northern Illinois University, DeKalb, IL 60115, USA"
+    research "processing time, longest processing time, batch processing machine"
   ]
   node [
     id 17
-    label "Michael Lawo"
-    affiliation "Universiaet Bremen, Germany"
-    research "inclusive design, user interface, virtual user model"
+    label "Jonathan C. Smith"
+    affiliation "Department of Industrial and Systems Engineering, University of Florida, Gainesville, USA"
+    research "edge-partition problem, filter placement problem, master problem"
   ]
   node [
     id 18
-    label "Scott Gilliland"
-    affiliation "Georgia Tech, Atlanta, GA, USA"
-    research "interactive installation, button interface, interactive environment"
+    label "Ameya R. Agnihotri"
+    affiliation "CSD"
+    research "placement problem, placement tool Feng Shui, mixed block placement"
   ]
   node [
     id 19
-    label "Jeffrey S. Pierce"
-    affiliation "IBM Research, USA"
-    research "user experience, interaction surface, information appliance"
+    label "Donglin Liang"
+    affiliation "Department of Industrial and Systems Engineering, Texas A&#38;M University, TAMUS 3131, College Station, TX 778433131, USA"
+    research "data-flow analysis, memory location, equivalence analysis"
   ]
   edge [
     source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
     target 8
     relation "collaborate"
   ]
   edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
     source 2
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 5
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
     source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
     target 16
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 3
     target 6
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 3
     target 18
     relation "collaborate"
   ]
   edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
     source 6
-    target 17
+    target 16
     relation "collaborate"
   ]
   edge [
     source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
     target 10
     relation "collaborate"
   ]
   edge [
+    source 7
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
     source 8
     target 16
     relation "collaborate"
   ]
   edge [
     source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
     target 14
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 8
     target 19
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 17
+    source 8
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 19
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 16
     relation "collaborate"
   ]
   edge [
     source 15
-    target 19
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
     relation "collaborate"
   ]
 ]

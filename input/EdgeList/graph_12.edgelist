@@ -1,34 +1,34 @@
-IEEE Region 7	Akihiro Yamamoto	{'relation': 'collaborate'}
-IEEE Region 7	Hans W. Nissen	{'relation': 'collaborate'}
-IEEE Region 7	Germany	{'relation': 'collaborate'}
-IEEE Region 7	L A Rosenberg	{'relation': 'collaborate'}
-IEEE Region 7	Joyce L. Vedral	{'relation': 'collaborate'}
-IEEE Region 7	François R. Boyer	{'relation': 'collaborate'}
-IEEE Region 7	T. Horváth	{'relation': 'collaborate'}
-IEEE Region 7	Robert A. van de Geijn	{'relation': 'collaborate'}
-IEEE Region 7	P Hajek	{'relation': 'collaborate'}
-IEEE Region 7	W. Eric Wong	{'relation': 'collaborate'}
-IEEE Region 7	Michael Gebhardt	{'relation': 'collaborate'}
-IEEE Region 7	Stephen Paul Jacobs	{'relation': 'collaborate'}
-IEEE Region 7	Jack J. Dongarra	{'relation': 'collaborate'}
-IEEE Region 7	D S Weld	{'relation': 'collaborate'}
-IEEE Region 7	Matthias Jarke	{'relation': 'collaborate'}
-IEEE Region 7	Hai Zhuge	{'relation': 'collaborate'}
-IEEE Region 7	Judy Goldsmith	{'relation': 'collaborate'}
-IEEE Region 7	Peng Dai	{'relation': 'collaborate'}
-Akihiro Yamamoto	Susumu Hayashi	{'relation': 'collaborate'}
-Akihiro Yamamoto	T. Horváth	{'relation': 'collaborate'}
-Peng Dai	Judy Goldsmith	{'relation': 'collaborate'}
-Peng Dai	D S Weld	{'relation': 'collaborate'}
-Matthias Jarke	Stephen Paul Jacobs	{'relation': 'collaborate'}
-Matthias Jarke	Germany	{'relation': 'collaborate'}
-Matthias Jarke	Hans W. Nissen	{'relation': 'collaborate'}
-Matthias Jarke	Michael Gebhardt	{'relation': 'collaborate'}
-Stephen Paul Jacobs	Hans W. Nissen	{'relation': 'collaborate'}
-Stephen Paul Jacobs	Germany	{'relation': 'collaborate'}
-Stephen Paul Jacobs	Michael Gebhardt	{'relation': 'collaborate'}
-Robert A. van de Geijn	Jack J. Dongarra	{'relation': 'collaborate'}
-Judy Goldsmith	D S Weld	{'relation': 'collaborate'}
-Hans W. Nissen	Michael Gebhardt	{'relation': 'collaborate'}
-Hans W. Nissen	Germany	{'relation': 'collaborate'}
-Michael Gebhardt	Germany	{'relation': 'collaborate'}
+E.-G. Talbi	François Clautiaux	{'relation': 'collaborate'}
+E.-G. Talbi	Saíd Hanafi	{'relation': 'collaborate'}
+E.-G. Talbi	Bilel Derbel	{'relation': 'collaborate'}
+Antoine Jouglet	Aziz Moukrim	{'relation': 'collaborate'}
+Antoine Jouglet	J. Carlier	{'relation': 'collaborate'}
+Antoine Jouglet	François Clautiaux	{'relation': 'collaborate'}
+Marie-Emilie Voge	François Clautiaux	{'relation': 'collaborate'}
+Saoussen Krichen	Adel Guitouni	{'relation': 'collaborate'}
+Saoussen Krichen	El-Ghazali Talbi	{'relation': 'collaborate'}
+Saoussen Krichen	Fouad Ben Abdelaziz	{'relation': 'collaborate'}
+Saoussen Krichen	Nadia Dahmani	{'relation': 'collaborate'}
+Saoussen Krichen	François Clautiaux	{'relation': 'collaborate'}
+Cláudio Alves	François Clautiaux	{'relation': 'collaborate'}
+Cláudio Alves	José M. Valério de Carvalho	{'relation': 'collaborate'}
+Cláudio Alves	Jürgen Rietz	{'relation': 'collaborate'}
+Manuel Iori	Mauro Dell'Amico	{'relation': 'collaborate'}
+Manuel Iori	François Clautiaux	{'relation': 'collaborate'}
+El-Ghazali Talbi	Bilel Derbel	{'relation': 'collaborate'}
+El-Ghazali Talbi	Nadia Dahmani	{'relation': 'collaborate'}
+El-Ghazali Talbi	François Clautiaux	{'relation': 'collaborate'}
+J. Carlier	Aziz Moukrim	{'relation': 'collaborate'}
+J. Carlier	Stéphane Nègre	{'relation': 'collaborate'}
+J. Carlier	François Clautiaux	{'relation': 'collaborate'}
+Stéphane Nègre	Aziz Moukrim	{'relation': 'collaborate'}
+Stéphane Nègre	François Clautiaux	{'relation': 'collaborate'}
+François Clautiaux	Christophe Wilbaut	{'relation': 'collaborate'}
+François Clautiaux	Mauro Dell'Amico	{'relation': 'collaborate'}
+François Clautiaux	Nadia Dahmani	{'relation': 'collaborate'}
+François Clautiaux	Jürgen Rietz	{'relation': 'collaborate'}
+François Clautiaux	Aziz Moukrim	{'relation': 'collaborate'}
+François Clautiaux	José M. Valério de Carvalho	{'relation': 'collaborate'}
+François Clautiaux	Saíd Hanafi	{'relation': 'collaborate'}
+Christophe Wilbaut	Saíd Hanafi	{'relation': 'collaborate'}
+Jürgen Rietz	José M. Valério de Carvalho	{'relation': 'collaborate'}

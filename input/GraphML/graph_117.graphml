@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Mounia Lalmas">
+      <data key="affiliation">Yahoo! Labs, Barcelona, Spain</data>
+      <data key="research">Serendipitous search, information access, focused attention</data>
+    </node>
+    <node id="Fei He">
+      <data key="affiliation">Nan</data>
+      <data key="research">output power, broadband balanced power amplifier, output impedance</data>
+    </node>
+    <node id="Yu Wang">
+      <data key="affiliation">INRIA, LIP, ENS Lyon, 46 avenue d'Italie, 69364 Cedex 07, France</data>
+      <data key="research">Volunteer resource, formal model, Volunteer Computing</data>
+    </node>
+    <node id="Liang Lu">
+      <data key="affiliation">Department of Automation, Shanghai Jiao Tong University, Shanghai, 200240, China</data>
+      <data key="research">disturbance tolerance, feedback law, single system</data>
+    </node>
+    <node id="Teerapong Leelanupab">
+      <data key="affiliation">King Mongkut's Institute of Technology Ladkrabang, Bangkok, Thailand</data>
+      <data key="research">laboratory-based user study, retrieval system, IIR system</data>
+    </node>
+    <node id="Yuhui Deng">
+      <data key="affiliation">Nan</data>
+      <data key="research">cold aisle, hot aisle, data center</data>
+    </node>
+    <node id="Huan Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">peak time, simulation result, average strata pressure</data>
+    </node>
+    <node id="Yao Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">evolvable hardware structure, analog filter, design method</data>
+    </node>
+    <node id="Yang Wang">
+      <data key="affiliation">Department of Computer Science and Engineering, New Mexico Institute of Mining and Technology, Socorro, NM</data>
+      <data key="research">android permission, benign apps, quantitative security risk assessment</data>
+    </node>
+    <node id="Ke Zhou">
+      <data key="affiliation">Huazhong University of Science &amp; Technology</data>
+      <data key="research">CDP functionality, block-level CDP scheme, state-of-the-art CDP implementation</data>
+    </node>
+    <node id="Chun-hua Li">
+      <data key="affiliation">Huazhong University of Science and Technology</data>
+      <data key="research">object cache, object prefetching, accessed object sequence</data>
+    </node>
+    <node id="Lingfang Zeng">
+      <data key="affiliation">Computer Networks and Distributed Systems Laboratory, Department of Electrical and Computer Engineering, The National University of Singapore, Singapore, Singapore 117576</data>
+      <data key="research">storage object, storage system, storage device</data>
+    </node>
+    <node id="Qun Liu">
+      <data key="affiliation">Harbin Engineering University, China</data>
+      <data key="research">Web service, Web service composition, Petri net</data>
+    </node>
+    <node id="Silu Fan">
+      <data key="affiliation">University of Science and Technology of China</data>
+      <data key="research">local level, global level, P3 amplitude</data>
+    </node>
+    <node id="Joemon Jose">
+      <data key="affiliation">Univ. of Glasgow, Scotland</data>
+      <data key="research">search result, search task, information need</data>
+    </node>
+    <node id="Hui Tian">
+      <data key="affiliation">College of Computer Science and Technology, National Huaqiao University, Xiamen, Fujian 361021, China and School of Computer Science and Technology, Huazhong University of Science and Technology,  ...</data>
+      <data key="research">secret message, embedding transparency, experimental result</data>
+    </node>
+    <node id="Frank Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">video summary, advanced video content analysis, efficient video indexing</data>
+    </node>
+    <node id="Jin Huang">
+      <data key="affiliation">huangjin12345@163.com</data>
+      <data key="research">mechanical quadrature method, integral equation, numerical example</data>
+    </node>
+    <node id="Zhipeng Tan">
+      <data key="affiliation">Huazhong University of Science and Technology, Wuhan, China</data>
+      <data key="research">provenance data, hybrid scheme, efficient provenance storageEfficient provenance</data>
+    </node>
+    <node id="Yike Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">anomaly detection method, intrusion detection, monitoring framework</data>
+    </node>
+    <edge source="Mounia Lalmas" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mounia Lalmas" target="Joemon Jose">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei He" target="Zhipeng Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei He" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Wang" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Wang" target="Jin Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Lu" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Lu" target="Yang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Lu" target="Chun-hua Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Teerapong Leelanupab" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Teerapong Leelanupab" target="Joemon Jose">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhui Deng" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhui Deng" target="Frank Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhui Deng" target="Yike Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huan Wang" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Li" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Li" target="Qun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Li" target="Lingfang Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Ke Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Chun-hua Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Lingfang Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Jin Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Chun-hua Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Zhipeng Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Joemon Jose">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Hui Tian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Frank Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Qun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Lingfang Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Jin Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Silu Fan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Zhou" target="Yike Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-hua Li" target="Frank Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lingfang Zeng" target="Qun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Wang" target="Yike Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

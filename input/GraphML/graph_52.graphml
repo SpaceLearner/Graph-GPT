@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Stanislas Boissau">
+      <data key="affiliation">Wageningen University</data>
+      <data key="research">Northern Vietnam, artificial maieutic approach, new methodology</data>
+    </node>
+    <node id="Karama Kanoun">
+      <data key="affiliation">LAASCNRS, Univ. de Toulouse, Toulouse, France F31077</data>
+      <data key="research">reliability growth, operational reliability, software reliability</data>
+    </node>
+    <node id="Alexis Drogoul">
+      <data key="affiliation">UMMISCO/UPMC, Paris, France,MSIUMMISCO/IRD, Hanoi, Vietnam</data>
+      <data key="research">agent-based model, brown plant hopper, participatory simulation</data>
+    </node>
+    <node id="Jean Arlat">
+      <data key="affiliation">University of Toulouse, France</data>
+      <data key="research">Fault Injection, fault tolerance process, fault tolerance mechanism</data>
+    </node>
+    <node id="Felix Ingrand">
+      <data key="affiliation">LAASCNRS University of Toulouse 7, Ave du Colonel Roche 31077 Toulouse, France</data>
+      <data key="research">autonomous system, behavior model, execution controller</data>
+    </node>
+    <node id="Edouard Amouroux">
+      <data key="affiliation">LIP6, UPMC, Paris, France</data>
+      <data key="research">simulation platform, agent behavior, agent-based model</data>
+    </node>
+    <node id="François Charpillet">
+      <data key="affiliation">INRIA Nancy Grand Est  LORIA Lab., Université de Lorraine, France</data>
+      <data key="research">multi-agent system, novel approach, swarm approach</data>
+    </node>
+    <node id="Marc-Olivier Killijian">
+      <data key="affiliation">LAASCNRS/ Universit&amp;#233/ de Toulouse F31077</data>
+      <data key="research">mobility trace, inference attack, mobile device</data>
+    </node>
+    <node id="Y. Haradji">
+      <data key="affiliation">EDF Recherche &amp; Dééveloppement, CLAMART, Cedex</data>
+      <data key="research">household activity, contextual activity, design ubiquitous technologiesThe aim</data>
+    </node>
+    <node id="Hoang Nam Chu">
+      <data key="affiliation">Nan</data>
+      <data key="research">property-based robustness, Autonomous SystemsThe functional layer, autonomous system</data>
+    </node>
+    <node id="Alain Boucher">
+      <data key="affiliation">Laboratoire TIMC/IMAG, Grenoble, France</data>
+      <data key="research">cellnuclei analysis, motion analysis, motion issue</data>
+    </node>
+    <node id="Minh Nguyen-Duc">
+      <data key="affiliation">Institut de la Francophonie pour l'Informatique (IFI), Hanoi, Vietnam</data>
+      <data key="research">air traffic control, artificial maieutic approach, multi-agent simulation</data>
+    </node>
+    <node id="Geber Ramalho">
+      <data key="affiliation">Nan</data>
+      <data key="research">broad use, intelligent agent, intelligent behavior</data>
+    </node>
+    <node id="Nicolas Sabouret">
+      <data key="affiliation">Laboratoire d'Informatique de Paris 6, Université Pierre et Marie Curie, Paris, France</data>
+      <data key="research">autonomous virtual agent, proposed architecture, virtual agent</data>
+    </node>
+    <node id="Olivier Simonin">
+      <data key="affiliation">Université de Toulouse, Institut de Mécanique des Fluides de Toulouse, IMFT, UMR 5502, Allée Camille Soula, 31400 Toulouse, France</data>
+      <data key="research">location problem, unknown environment, artificial potential fields approach</data>
+    </node>
+    <node id="David Powell">
+      <data key="affiliation">Nan</data>
+      <data key="research">safety margin, eliciting safety trigger condition, catastrophic system state</data>
+    </node>
+    <node id="François Sempé">
+      <data key="affiliation">Francois Sempé AE, Paris, France</data>
+      <data key="research">artificial maieutic approach, multi-agent simulation, multi-agent simulationsModels</data>
+    </node>
+    <node id="Angélica Muñoz-Meléndez">
+      <data key="affiliation">National Institute for Astrophysics, Optics and Electronics, Puebla, Mexico</data>
+      <data key="research">mobile robot, multiple people, adaptive contour people model</data>
+    </node>
+    <node id="Yann Chevaleyre">
+      <data key="affiliation">LIPN, Université ParisNord, Villetaneuse, France</data>
+      <data key="research">optimal allocation, transfer rate, utility function</data>
+    </node>
+    <node id="Z. Kalbarczyk">
+      <data key="affiliation">University of Illinois</data>
+      <data key="research">fault dictionary, fault injector, forensic data</data>
+    </node>
+    <edge source="Stanislas Boissau" target="Alain Boucher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stanislas Boissau" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stanislas Boissau" target="Minh Nguyen-Duc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stanislas Boissau" target="Alexis Drogoul">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karama Kanoun" target="Jean Arlat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karama Kanoun" target="David Powell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Angélica Muñoz-Meléndez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Minh Nguyen-Duc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Edouard Amouroux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="François Charpillet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Alain Boucher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Hoang Nam Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Geber Ramalho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexis Drogoul" target="Olivier Simonin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean Arlat" target="Z. Kalbarczyk">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean Arlat" target="Felix Ingrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean Arlat" target="Hoang Nam Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean Arlat" target="David Powell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean Arlat" target="Marc-Olivier Killijian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Felix Ingrand" target="David Powell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Felix Ingrand" target="Hoang Nam Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Felix Ingrand" target="Marc-Olivier Killijian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Edouard Amouroux" target="Alain Boucher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Edouard Amouroux" target="Nicolas Sabouret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Edouard Amouroux" target="Y. Haradji">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Edouard Amouroux" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Charpillet" target="Olivier Simonin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Charpillet" target="Hoang Nam Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Charpillet" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marc-Olivier Killijian" target="David Powell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marc-Olivier Killijian" target="Hoang Nam Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Haradji" target="Nicolas Sabouret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Haradji" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hoang Nam Chu" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hoang Nam Chu" target="David Powell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hoang Nam Chu" target="Olivier Simonin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alain Boucher" target="Minh Nguyen-Duc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alain Boucher" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Minh Nguyen-Duc" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geber Ramalho" target="Yann Chevaleyre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geber Ramalho" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicolas Sabouret" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Simonin" target="François Sempé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Sempé" target="Angélica Muñoz-Meléndez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Sempé" target="Yann Chevaleyre">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

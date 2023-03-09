@@ -1,55 +1,31 @@
-Shingo Uchihashi	J. T. Foote	{'relation': 'collaborate'}
-Shingo Uchihashi	John Doherty	{'relation': 'collaborate'}
-Shingo Uchihashi	L. Wilcox	{'relation': 'collaborate'}
-Shingo Uchihashi	Jun Shingu	{'relation': 'collaborate'}
-Shingo Uchihashi	John Boreczky	{'relation': 'collaborate'}
-Shingo Uchihashi	Andreas Girgensohn	{'relation': 'collaborate'}
-Shingo Uchihashi	Lynn D. Wilcox	{'relation': 'collaborate'}
-L. Wilcox	J. T. Foote	{'relation': 'collaborate'}
-John Doherty	John Boreczky	{'relation': 'collaborate'}
-John Doherty	John Adcock	{'relation': 'collaborate'}
-John Doherty	J. T. Foote	{'relation': 'collaborate'}
-John Doherty	Maribeth Back	{'relation': 'collaborate'}
-John Doherty	Lynn D. Wilcox	{'relation': 'collaborate'}
-John Doherty	Matthew Cooper	{'relation': 'collaborate'}
-John Doherty	Andreas Girgensohn	{'relation': 'collaborate'}
-John Doherty	Jun Shingu	{'relation': 'collaborate'}
-Maribeth Back	Timothy Childs	{'relation': 'collaborate'}
-Maribeth Back	J. T. Foote	{'relation': 'collaborate'}
-Maribeth Back	Jun Shingu	{'relation': 'collaborate'}
-Maribeth Back	Surapong Lertsithichai	{'relation': 'collaborate'}
-Maribeth Back	T. Matsumoto	{'relation': 'collaborate'}
-Maribeth Back	John Boreczky	{'relation': 'collaborate'}
-Timothy Childs	J. T. Foote	{'relation': 'collaborate'}
-Timothy Childs	Jun Shingu	{'relation': 'collaborate'}
-Surapong Lertsithichai	Lynn D. Wilcox	{'relation': 'collaborate'}
-Surapong Lertsithichai	J. T. Foote	{'relation': 'collaborate'}
-Surapong Lertsithichai	Andreas Girgensohn	{'relation': 'collaborate'}
-Surapong Lertsithichai	T. Matsumoto	{'relation': 'collaborate'}
-Surapong Lertsithichai	John Boreczky	{'relation': 'collaborate'}
-Andreas Girgensohn	Matthew Cooper	{'relation': 'collaborate'}
-Andreas Girgensohn	J. T. Foote	{'relation': 'collaborate'}
-Andreas Girgensohn	John Boreczky	{'relation': 'collaborate'}
-Andreas Girgensohn	Lynn D. Wilcox	{'relation': 'collaborate'}
-Andreas Girgensohn	Chunyuan Liao	{'relation': 'collaborate'}
-Andreas Girgensohn	John Adcock	{'relation': 'collaborate'}
-Xinding Sun	J. T. Foote	{'relation': 'collaborate'}
-Xinding Sun	B. S. Manjunath	{'relation': 'collaborate'}
-Harvey F. Silverman	J. T. Foote	{'relation': 'collaborate'}
-Harvey F. Silverman	John Adcock	{'relation': 'collaborate'}
-John Boreczky	J. T. Foote	{'relation': 'collaborate'}
-John Boreczky	T. Matsumoto	{'relation': 'collaborate'}
-John Boreczky	Lynn D. Wilcox	{'relation': 'collaborate'}
-K. Sparck Jones	J. T. Foote	{'relation': 'collaborate'}
-Chunyuan Liao	J. T. Foote	{'relation': 'collaborate'}
-Chunyuan Liao	Lynn D. Wilcox	{'relation': 'collaborate'}
-Matthew Cooper	J. T. Foote	{'relation': 'collaborate'}
-Matthew Cooper	John Adcock	{'relation': 'collaborate'}
-Matthew Cooper	Lynn D. Wilcox	{'relation': 'collaborate'}
-Jun Shingu	J. T. Foote	{'relation': 'collaborate'}
-B. S. Manjunath	J. T. Foote	{'relation': 'collaborate'}
-T. Matsumoto	J. T. Foote	{'relation': 'collaborate'}
-Lynn D. Wilcox	J. T. Foote	{'relation': 'collaborate'}
-Lynn D. Wilcox	John Adcock	{'relation': 'collaborate'}
-J. T. Foote	Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-J. T. Foote	John Adcock	{'relation': 'collaborate'}
+C. J. Date	Colin J. White	{'relation': 'collaborate'}
+Weisi Lin	L. Karam	{'relation': 'collaborate'}
+Weisi Lin	Hong Ren Wu	{'relation': 'collaborate'}
+Fuzheng Yang	Shuai Wan	{'relation': 'collaborate'}
+Fuzheng Yang	Hong Ren Wu	{'relation': 'collaborate'}
+Xinghuo Yu	Hong Ren Wu	{'relation': 'collaborate'}
+Xinghuo Yu	Suiyang Khoo	{'relation': 'collaborate'}
+Xinghuo Yu	Bin Qiu	{'relation': 'collaborate'}
+Xinghuo Yu	Zhihong Man	{'relation': 'collaborate'}
+Tao Chen	Hong Ren Wu	{'relation': 'collaborate'}
+Tao Chen	Bin Qiu	{'relation': 'collaborate'}
+Colin J. White	Chris White	{'relation': 'collaborate'}
+Chris White	Hong Ren Wu	{'relation': 'collaborate'}
+Chris White	David Wu	{'relation': 'collaborate'}
+Bin Qiu	Zhonghua Ma	{'relation': 'collaborate'}
+Bin Qiu	Hong Ren Wu	{'relation': 'collaborate'}
+Suiyang Khoo	Zhihong Man	{'relation': 'collaborate'}
+Suiyang Khoo	Hong Ren Wu	{'relation': 'collaborate'}
+Suiyang Khoo	Shengkui Zhao	{'relation': 'collaborate'}
+Darin Chan	David Wu	{'relation': 'collaborate'}
+Hong Ren Wu	K. R. Rao	{'relation': 'collaborate'}
+Hong Ren Wu	David Wu	{'relation': 'collaborate'}
+Hong Ren Wu	Zhonghua Ma	{'relation': 'collaborate'}
+Hong Ren Wu	Zhihong Man	{'relation': 'collaborate'}
+Hong Ren Wu	Shengkui Zhao	{'relation': 'collaborate'}
+Hong Ren Wu	Dagan Feng	{'relation': 'collaborate'}
+Hong Ren Wu	Shuai Wan	{'relation': 'collaborate'}
+Hong Ren Wu	Dinesh K. Kumar	{'relation': 'collaborate'}
+Hong Ren Wu	L. Karam	{'relation': 'collaborate'}
+Shengkui Zhao	Zhihong Man	{'relation': 'collaborate'}
+Zhonghua Ma	Dagan Feng	{'relation': 'collaborate'}

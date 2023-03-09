@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Woan Sun Chang">
+      <data key="affiliation">Department of Computer Science, George Mason University, Fairfax, VA</data>
+      <data key="research">best-effort traffic, QoS traffic, combined QoS</data>
+    </node>
+    <node id="Bo Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">finite delay, functional differential equation, uniform asymptotic stability</data>
+    </node>
+    <node id="Taieb F. Znati">
+      <data key="affiliation">Department of Telecommunications</data>
+      <data key="research">proposed scheme, ad-hoc network, sensor network</data>
+    </node>
+    <node id="Hakan Aydin">
+      <data key="affiliation">George Mason University</data>
+      <data key="research">system reliability, energy consumption, energy saving</data>
+    </node>
+    <node id="J. Mark Pullen">
+      <data key="affiliation">George Mason University, Fairfax, VA</data>
+      <data key="research">MSG-048 initial demonstration, NATO MSG-048 coalition battle, management initial demonstration lesson</data>
+    </node>
+    <node id="Chatchai Khunboa">
+      <data key="affiliation">George Mason University</data>
+      <data key="research">agent system, coordination space, agent communication architecture</data>
+    </node>
+    <node id="Robert J. Sclabassi">
+      <data key="affiliation">Computational Diagnostics Incorporated, Pittsburgh, PA</data>
+      <data key="research">video image, video data, temporal postural synergy</data>
+    </node>
+    <node id="A. K. Sood">
+      <data key="affiliation">George Mason University, USA</data>
+      <data key="research">Computational Complexity, duplicate value, attribute column</data>
+    </node>
+    <node id="P. Mundur">
+      <data key="affiliation">Department of Computer Science and Electrical Engineering, University of Maryland, Baltimore, Maryland</data>
+      <data key="research">storage domain, routing algorithm, VoD system</data>
+    </node>
+    <node id="Irina Gerasimov">
+      <data key="affiliation">Nan</data>
+      <data key="research">end-to-end QoS path, end-to-end quality-of-service support mechanism, network system</data>
+    </node>
+    <node id="Alexey Zhuravlev">
+      <data key="affiliation">Nan</data>
+      <data key="research">BSMC architecture, Block Storage Multi-Protocol Converter, Block Storage Multi-Protocol ConverterWe</data>
+    </node>
+    <node id="Don Krieger">
+      <data key="affiliation">Children's Hospital, Pittsburgh, PA</data>
+      <data key="research">differential activation, response preparation, discrimination task</data>
+    </node>
+    <node id="Boris Jukic">
+      <data key="affiliation">School of Business, Clarkson University, Potsdam, New York 13699</data>
+      <data key="research">pricing mechanism, pricing scheme, best-effort traffic</data>
+    </node>
+    <node id="Leijun Huang">
+      <data key="affiliation">George Mason University</data>
+      <data key="research">reliable bulk data dissemination, sensor network, object delivery latency</data>
+    </node>
+    <node id="Padmavathi Mundur">
+      <data key="affiliation">George Mason University</data>
+      <data key="research">user population, network subsystems, proposed algorithm</data>
+    </node>
+    <node id="M. F. Abdulla">
+      <data key="affiliation">Comp. SC. &amp; Engg. Electrical Engg. Comp. SC. &amp; Engg., Indian Institute of Technology,New Delhi, 110016, INDIA</data>
+      <data key="research">multiple on-chip signature checking, multiple embedded RAMs, various size</data>
+    </node>
+    <node id="Robert Simon">
+      <data key="affiliation">Nan</data>
+      <data key="research">end-to-end QoS path, end-to-end quality-of-service support mechanism, network system</data>
+    </node>
+    <node id="Sanjeev Setia">
+      <data key="affiliation">Department of Computer Science, George Mason University, Fairfax, VA</data>
+      <data key="research">sensor network, sensor node, idle memory</data>
+    </node>
+    <edge source="Woan Sun Chang" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Woan Sun Chang" target="Boris Jukic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Woan Sun Chang" target="J. Mark Pullen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Zhang" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Zhang" target="Hakan Aydin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Taieb F. Znati" target="Don Krieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Taieb F. Znati" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Taieb F. Znati" target="Robert J. Sclabassi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hakan Aydin" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Mark Pullen" target="Chatchai Khunboa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Mark Pullen" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chatchai Khunboa" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert J. Sclabassi" target="Don Krieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert J. Sclabassi" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. K. Sood" target="Padmavathi Mundur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. K. Sood" target="P. Mundur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. K. Sood" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Mundur" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Irina Gerasimov" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Irina Gerasimov" target="Alexey Zhuravlev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Krieger" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Boris Jukic" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leijun Huang" target="Sanjeev Setia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leijun Huang" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Padmavathi Mundur" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. F. Abdulla" target="Robert Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Simon" target="Sanjeev Setia">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

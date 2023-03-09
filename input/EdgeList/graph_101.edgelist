@@ -1,49 +1,34 @@
-Ligang Wu	James Lam	{'relation': 'collaborate'}
-Ligang Wu	E. Rogers	{'relation': 'collaborate'}
-Ligang Wu	Krzysztof Gałkowski	{'relation': 'collaborate'}
-Ligang Wu	Anton Kummert	{'relation': 'collaborate'}
-Zhiping Lin	Anton Kummert	{'relation': 'collaborate'}
-Zhiping Lin	Krzysztof Gałkowski	{'relation': 'collaborate'}
-Zhiping Lin	Shengyuan Xu	{'relation': 'collaborate'}
-Zhiping Lin	James Lam	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Chris T. Freeman	{'relation': 'collaborate'}
-Krzysztof Gałkowski	I. V. Gaishun	{'relation': 'collaborate'}
-Krzysztof Gałkowski	N. P. Karampetakis	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Anton Kummert	{'relation': 'collaborate'}
-Krzysztof Gałkowski	V. R. Sule	{'relation': 'collaborate'}
-Krzysztof Gałkowski	D. H. Owens	{'relation': 'collaborate'}
-Krzysztof Gałkowski	E. Rogers	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Joerg Velten	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Peter H. Bauer	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Artur Gramacki	{'relation': 'collaborate'}
-Krzysztof Gałkowski	James Lam	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Driss Mehdi	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Paul L. Lewin	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Shengyuan Xu	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Zhonglun Cai	{'relation': 'collaborate'}
-Krzysztof Gałkowski	Olivier Bachelier	{'relation': 'collaborate'}
-I. V. Gaishun	E. Rogers	{'relation': 'collaborate'}
-I. V. Gaishun	D. H. Owens	{'relation': 'collaborate'}
-Paul L. Lewin	E. Rogers	{'relation': 'collaborate'}
-Paul L. Lewin	Chris T. Freeman	{'relation': 'collaborate'}
-Paul L. Lewin	D. H. Owens	{'relation': 'collaborate'}
-Paul L. Lewin	Zhonglun Cai	{'relation': 'collaborate'}
-Shengyuan Xu	James Lam	{'relation': 'collaborate'}
-E. Rogers	Chris T. Freeman	{'relation': 'collaborate'}
-E. Rogers	D. H. Owens	{'relation': 'collaborate'}
-E. Rogers	V. R. Sule	{'relation': 'collaborate'}
-E. Rogers	Anton Kummert	{'relation': 'collaborate'}
-E. Rogers	Olivier Bachelier	{'relation': 'collaborate'}
-E. Rogers	James Lam	{'relation': 'collaborate'}
-E. Rogers	Peter H. Bauer	{'relation': 'collaborate'}
-E. Rogers	Artur Gramacki	{'relation': 'collaborate'}
-E. Rogers	Zhonglun Cai	{'relation': 'collaborate'}
-E. Rogers	Driss Mehdi	{'relation': 'collaborate'}
-D. H. Owens	J. B. Edwards	{'relation': 'collaborate'}
-D. H. Owens	Artur Gramacki	{'relation': 'collaborate'}
-Olivier Bachelier	Anton Kummert	{'relation': 'collaborate'}
-Olivier Bachelier	Driss Mehdi	{'relation': 'collaborate'}
-Joerg Velten	Anton Kummert	{'relation': 'collaborate'}
-Chris T. Freeman	Zhonglun Cai	{'relation': 'collaborate'}
-James Lam	Anton Kummert	{'relation': 'collaborate'}
-Anton Kummert	Driss Mehdi	{'relation': 'collaborate'}
+L. K. Welbourn	R. J. Whitrow	{'relation': 'collaborate'}
+L. J. Evett	Hao Liu	{'relation': 'collaborate'}
+L. J. Evett	N. Sherkat	{'relation': 'collaborate'}
+L. J. Evett	Taha Osman	{'relation': 'collaborate'}
+L. J. Evett	P. J. Standen	{'relation': 'collaborate'}
+L. J. Evett	Andy Burton	{'relation': 'collaborate'}
+L. J. Evett	R. J. Whitrow	{'relation': 'collaborate'}
+L. J. Evett	Maria Saridaki	{'relation': 'collaborate'}
+L. J. Evett	D. J. Brown	{'relation': 'collaborate'}
+Adel M. Alimi	N. Sherkat	{'relation': 'collaborate'}
+N. Sherkat	Hao Liu	{'relation': 'collaborate'}
+N. Sherkat	P. J. Standen	{'relation': 'collaborate'}
+N. Sherkat	R. J. Whitrow	{'relation': 'collaborate'}
+N. Sherkat	R. T. Gray	{'relation': 'collaborate'}
+N. Sherkat	T. J. Allen	{'relation': 'collaborate'}
+N. Sherkat	Roger J. Tait	{'relation': 'collaborate'}
+N. Sherkat	Yeow Kee Tan	{'relation': 'collaborate'}
+N. Sherkat	Taha Osman	{'relation': 'collaborate'}
+N. Sherkat	Lars Nolle	{'relation': 'collaborate'}
+N. Sherkat	D. J. Brown	{'relation': 'collaborate'}
+N. Sherkat	Tony Allen	{'relation': 'collaborate'}
+N. Sherkat	Andy Burton	{'relation': 'collaborate'}
+N. Sherkat	Ahmad Lotfi	{'relation': 'collaborate'}
+Hao Liu	D. J. Brown	{'relation': 'collaborate'}
+Hao Liu	P. J. Standen	{'relation': 'collaborate'}
+Hao Liu	Andy Burton	{'relation': 'collaborate'}
+R. T. Gray	Tony Allen	{'relation': 'collaborate'}
+D. J. Brown	P. J. Standen	{'relation': 'collaborate'}
+D. J. Brown	Maria Saridaki	{'relation': 'collaborate'}
+D. J. Brown	Andy Burton	{'relation': 'collaborate'}
+Tony Allen	Yeow Kee Tan	{'relation': 'collaborate'}
+Tony Allen	Roger J. Tait	{'relation': 'collaborate'}
+Andy Burton	P. J. Standen	{'relation': 'collaborate'}
+Maria Saridaki	P. J. Standen	{'relation': 'collaborate'}

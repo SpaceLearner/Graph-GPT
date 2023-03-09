@@ -1,32 +1,45 @@
-Jinling Wang	Xun Li	{'relation': 'collaborate'}
-Diana Franklin	Xun Li	{'relation': 'collaborate'}
-Diana Franklin	Frederic T. Chong	{'relation': 'collaborate'}
-Diana Franklin	Roland Geyer	{'relation': 'collaborate'}
-De Liu	Xun Li	{'relation': 'collaborate'}
-De Liu	Radhika Santhanam	{'relation': 'collaborate'}
-Yanjun Wang	Xun Li	{'relation': 'collaborate'}
-Yanjun Wang	Li Li	{'relation': 'collaborate'}
-Ziyu Wang	Shoucai Yuan	{'relation': 'collaborate'}
-Ziyu Wang	Xun Li	{'relation': 'collaborate'}
-Roland Geyer	Xun Li	{'relation': 'collaborate'}
-Roland Geyer	Frederic T. Chong	{'relation': 'collaborate'}
-Xun Li	Ben Hardekopf	{'relation': 'collaborate'}
-Xun Li	Clyde W. Holsapple	{'relation': 'collaborate'}
-Xun Li	Radhika Santhanam	{'relation': 'collaborate'}
-Xun Li	Frederic T. Chong	{'relation': 'collaborate'}
-Xun Li	Vasanth Ram Rajarathinam	{'relation': 'collaborate'}
-Xun Li	Shoucai Yuan	{'relation': 'collaborate'}
-Xun Li	SeungHwan Won	{'relation': 'collaborate'}
-Xun Li	Sang Bong Yoo	{'relation': 'collaborate'}
-Xun Li	Yanbo Gao	{'relation': 'collaborate'}
-Xun Li	Hongxu Ma	{'relation': 'collaborate'}
-Xun Li	Xi-shan Wen	{'relation': 'collaborate'}
-Xun Li	Li Li	{'relation': 'collaborate'}
-Xun Li	Woochul Shin	{'relation': 'collaborate'}
-Clyde W. Holsapple	Radhika Santhanam	{'relation': 'collaborate'}
-Ben Hardekopf	Vasanth Ram Rajarathinam	{'relation': 'collaborate'}
-Ben Hardekopf	Frederic T. Chong	{'relation': 'collaborate'}
-Vasanth Ram Rajarathinam	Frederic T. Chong	{'relation': 'collaborate'}
-Woochul Shin	Sang Bong Yoo	{'relation': 'collaborate'}
-Woochul Shin	Li Li	{'relation': 'collaborate'}
-Li Li	Sang Bong Yoo	{'relation': 'collaborate'}
+Song Ci	Hui Tang	{'relation': 'collaborate'}
+Song Ci	Tao Lin	{'relation': 'collaborate'}
+Song Ci	Gang Li	{'relation': 'collaborate'}
+Song Ci	Guan-Ming Su	{'relation': 'collaborate'}
+Song Ci	Haiyan Luo	{'relation': 'collaborate'}
+Song Ci	Wenjia Niu	{'relation': 'collaborate'}
+Song Ci	Zihou Wang	{'relation': 'collaborate'}
+Song Ci	Ding Tang	{'relation': 'collaborate'}
+Song Ci	Jinxia Liu	{'relation': 'collaborate'}
+Song Ci	Yang Li	{'relation': 'collaborate'}
+Song Ci	Yanni Han	{'relation': 'collaborate'}
+Wiro J. Niessen	Hui Tang	{'relation': 'collaborate'}
+Wiro J. Niessen	Michiel Schaap	{'relation': 'collaborate'}
+Gang Li	Ding Tang	{'relation': 'collaborate'}
+Gang Li	Hui Tang	{'relation': 'collaborate'}
+Gang Li	Wenjia Niu	{'relation': 'collaborate'}
+Gang Li	Z. Q. Shi	{'relation': 'collaborate'}
+Z. Q. Shi	Hui Tang	{'relation': 'collaborate'}
+Z. Q. Shi	Wenjia Niu	{'relation': 'collaborate'}
+Tao Guo	Hui Tang	{'relation': 'collaborate'}
+Hui Tang	Zihou Wang	{'relation': 'collaborate'}
+Hui Tang	Jinxia Liu	{'relation': 'collaborate'}
+Hui Tang	Bin Tang	{'relation': 'collaborate'}
+Hui Tang	Ming Zhu	{'relation': 'collaborate'}
+Hui Tang	Michiel Schaap	{'relation': 'collaborate'}
+Hui Tang	Hancong Duan	{'relation': 'collaborate'}
+Hui Tang	Yanni Han	{'relation': 'collaborate'}
+Hui Tang	Guan-Ming Su	{'relation': 'collaborate'}
+Hui Tang	Ling Bai	{'relation': 'collaborate'}
+Hui Tang	Ding Tang	{'relation': 'collaborate'}
+Hui Tang	Haiyan Luo	{'relation': 'collaborate'}
+Hui Tang	Wenjia Niu	{'relation': 'collaborate'}
+Hui Tang	Tao Lin	{'relation': 'collaborate'}
+Hui Tang	Yang Li	{'relation': 'collaborate'}
+Yang Li	Zihou Wang	{'relation': 'collaborate'}
+Yang Li	Wenjia Niu	{'relation': 'collaborate'}
+Yang Li	Tao Lin	{'relation': 'collaborate'}
+Yang Li	Yanni Han	{'relation': 'collaborate'}
+Wenjia Niu	Ding Tang	{'relation': 'collaborate'}
+Wenjia Niu	Yanni Han	{'relation': 'collaborate'}
+Wenjia Niu	Tao Lin	{'relation': 'collaborate'}
+Wenjia Niu	Zihou Wang	{'relation': 'collaborate'}
+Yanni Han	Zihou Wang	{'relation': 'collaborate'}
+Yanni Han	Tao Lin	{'relation': 'collaborate'}
+Zihou Wang	Tao Lin	{'relation': 'collaborate'}

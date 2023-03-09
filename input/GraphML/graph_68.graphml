@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Tony Field">
+      <data key="affiliation">Imperial College London, London, United Kingdom</data>
+      <data key="research">DSL expression, DSL data type, embedded DSL</data>
+    </node>
+    <node id="Robert Fourer">
+      <data key="affiliation">Department of Industrial Engineering and Management Sciences, Northwestern University, Evanston, IL</data>
+      <data key="research">linear programmingTechnical correspondence, real-world linear programming, matrix generator</data>
+    </node>
+    <node id="E. Messina">
+      <data key="affiliation">Nan</data>
+      <data key="research">capacity planning model, computational solution</data>
+    </node>
+    <node id="Gregory Gutin">
+      <data key="affiliation">gutin@cs.rhul.ac.uk</data>
+      <data key="research">minimum cost homomorphism problem, open problem, homomorphism problem</data>
+    </node>
+    <node id="Kenneth Darby-Dowman">
+      <data key="affiliation">Department of Mathematics and Statistics, Brunel University, Uxbridge UB8 3PH, England. Email: Email: kenneth.darbydowman@brunel.ac.uk</data>
+      <data key="research">integer programming, minimum labelling Steiner tree, order stochastic dominance</data>
+    </node>
+    <node id="Uli Harder">
+      <data key="affiliation">Imperial College London, London, UK</data>
+      <data key="research">energy usage, observed traffic, energy consumption</data>
+    </node>
+    <node id="Istvan Maros">
+      <data key="affiliation">Department of Computing, Imperial College, UK</data>
+      <data key="research">LP problem, computational experience, crash procedure</data>
+    </node>
+    <node id="Csaba I. Fábián">
+      <data key="affiliation">Kecskemét College, Institute of Informatics, 10 Izsáki út, 6000, Kecskemét, Hungary and Loránd Eötvös University, Department of OR, Budapest, Hunga ...</data>
+      <data key="research">cutting-plane method, simplex method, solution algorithm</data>
+    </node>
+    <node id="Louis-Francois Pau">
+      <data key="affiliation">Rotterdam School of Management</data>
+      <data key="research">individual tariff, corrupted data, full buffer</data>
+    </node>
+    <node id="H. Jones">
+      <data key="affiliation">Lawrence Livermore National Laboratory, Livermore, California</data>
+      <data key="research">Cell Broadband Engine, cell broadband engine processorThis, conventional processor organization</data>
+    </node>
+    <node id="Berc Rustem">
+      <data key="affiliation">Imperial College London</data>
+      <data key="research">global optimization, stochastic algorithm, recovery buffer</data>
+    </node>
+    <node id="S. A. MirHassani">
+      <data key="affiliation">Faculty of Mathematics and Computer Science, Amirkabir University of Technology, Tehran, Iran</data>
+      <data key="research">open vehicle, better solution, computational solution</data>
+    </node>
+    <node id="G. Mitra">
+      <data key="affiliation">Nan</data>
+      <data key="research">matrix storage scheme, storage requirement, storage scheme</data>
+    </node>
+    <node id="A. Zverovitch">
+      <data key="affiliation">Department of Computer Science, Royal Holloway, University of London, Egham, Surrey TW20 0EX, UK</data>
+      <data key="research">linear program, computational experiment, domination analysis</data>
+    </node>
+    <node id="Nico Di Domenica">
+      <data key="affiliation">Value Lab, Via Durini, Milano, Italy</data>
+      <data key="research">scenario generation, main scenario generation class, scenario generation method</data>
+    </node>
+    <node id="D Parkinson">
+      <data key="affiliation">DAP Support Unit, Queen Mary College, University of London</data>
+      <data key="research">environmentA parallel implementation, parallel computation, parallel efficiency</data>
+    </node>
+    <node id="C. Lucas">
+      <data key="affiliation">Brunel Univ., Middlesex, UK</data>
+      <data key="research">capacity planning model, decision model, model computes currency hedging</data>
+    </node>
+    <node id="Mehrdad Tamiz">
+      <data key="affiliation">Department of Mathematics and Statistics, Brunel University, Uxbridge UB8 3PH, UK</data>
+      <data key="research">revised simplex method, basic feasible solution, envelope method</data>
+    </node>
+    <node id="Nalân Gülpinar">
+      <data key="affiliation">The University of Warwick, Coventry, UK</data>
+      <data key="research">recovery buffer, response time, corrupted data</data>
+    </node>
+    <node id="Peter Harrison">
+      <data key="affiliation">Nan</data>
+      <data key="research">Build Linux file, Linux Quick Fix Notebook, Linux administration</data>
+    </node>
+    <edge source="Tony Field" target="Berc Rustem">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Field" target="Peter Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Field" target="Uli Harder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Field" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Field" target="Louis-Francois Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Fourer" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Messina" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Messina" target="C. Lucas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Messina" target="S. A. MirHassani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Gutin" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Gutin" target="Istvan Maros">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Gutin" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Gutin" target="A. Zverovitch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenneth Darby-Dowman" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Uli Harder" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Uli Harder" target="Peter Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Uli Harder" target="Berc Rustem">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Uli Harder" target="Louis-Francois Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Istvan Maros" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Istvan Maros" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Csaba I. Fábián" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Louis-Francois Pau" target="Berc Rustem">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Louis-Francois Pau" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Louis-Francois Pau" target="Peter Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Jones" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Jones" target="D Parkinson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Berc Rustem" target="Peter Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Berc Rustem" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. A. MirHassani" target="C. Lucas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. A. MirHassani" target="G. Mitra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="D Parkinson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="C. Lucas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="Mehrdad Tamiz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="Nico Di Domenica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Mitra" target="A. Zverovitch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Zverovitch" target="Nalân Gülpinar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nalân Gülpinar" target="Peter Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

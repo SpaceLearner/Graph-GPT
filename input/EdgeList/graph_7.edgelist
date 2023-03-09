@@ -1,86 +1,25 @@
-Andreas Reuter	David J. DeWitt	{'relation': 'collaborate'}
-Andreas Reuter	Michael Stonebraker	{'relation': 'collaborate'}
-Andreas Reuter	Dieter Gawlick	{'relation': 'collaborate'}
-Andreas Reuter	Pete Homan	{'relation': 'collaborate'}
-Andreas Reuter	Anon et al	{'relation': 'collaborate'}
-Andreas Reuter	John Nauman	{'relation': 'collaborate'}
-Andreas Reuter	Stefano Ceri	{'relation': 'collaborate'}
-Andreas Reuter	Ed Lazowska	{'relation': 'collaborate'}
-Andreas Reuter	James N. Gray	{'relation': 'collaborate'}
-Andreas Reuter	Mark Brown	{'relation': 'collaborate'}
-Mark Brown	Pete Homan	{'relation': 'collaborate'}
-Mark Brown	Stefano Ceri	{'relation': 'collaborate'}
-Mark Brown	David J. DeWitt	{'relation': 'collaborate'}
-Mark Brown	Anon et al	{'relation': 'collaborate'}
-Mark Brown	James N. Gray	{'relation': 'collaborate'}
-Mark Brown	Dieter Gawlick	{'relation': 'collaborate'}
-Mark Brown	Michael Stonebraker	{'relation': 'collaborate'}
-Mark Brown	Ed Lazowska	{'relation': 'collaborate'}
-Mark Brown	John Nauman	{'relation': 'collaborate'}
-Aly A. Farag	Sébastien Marcel	{'relation': 'collaborate'}
-Aly A. Farag	Javier R. Movellan	{'relation': 'collaborate'}
-Aly A. Farag	T. E. Boult	{'relation': 'collaborate'}
-Aly A. Farag	Ahmed EL-Barkouky	{'relation': 'collaborate'}
-Aly A. Farag	Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Aly A. Farag	Anon et al	{'relation': 'collaborate'}
-Aly A. Farag	Mohammad Nayeem Teli	{'relation': 'collaborate'}
-John Nauman	Michael Stonebraker	{'relation': 'collaborate'}
-John Nauman	James N. Gray	{'relation': 'collaborate'}
-John Nauman	Pete Homan	{'relation': 'collaborate'}
-John Nauman	David J. DeWitt	{'relation': 'collaborate'}
-John Nauman	Dieter Gawlick	{'relation': 'collaborate'}
-John Nauman	Stefano Ceri	{'relation': 'collaborate'}
-John Nauman	Ed Lazowska	{'relation': 'collaborate'}
-John Nauman	Anon et al	{'relation': 'collaborate'}
-Michael Stonebraker	Pete Homan	{'relation': 'collaborate'}
-Michael Stonebraker	David J. DeWitt	{'relation': 'collaborate'}
-Michael Stonebraker	Dieter Gawlick	{'relation': 'collaborate'}
-Michael Stonebraker	Stefano Ceri	{'relation': 'collaborate'}
-Michael Stonebraker	Anon et al	{'relation': 'collaborate'}
-Michael Stonebraker	James N. Gray	{'relation': 'collaborate'}
-Michael Stonebraker	Ed Lazowska	{'relation': 'collaborate'}
-Pete Homan	Stefano Ceri	{'relation': 'collaborate'}
-Pete Homan	Anon et al	{'relation': 'collaborate'}
-Pete Homan	James N. Gray	{'relation': 'collaborate'}
-Pete Homan	Ed Lazowska	{'relation': 'collaborate'}
-Pete Homan	Dieter Gawlick	{'relation': 'collaborate'}
-Pete Homan	David J. DeWitt	{'relation': 'collaborate'}
-Anon et al	Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Anon et al	Ahmed EL-Barkouky	{'relation': 'collaborate'}
-Anon et al	Ed Lazowska	{'relation': 'collaborate'}
-Anon et al	T. E. Boult	{'relation': 'collaborate'}
-Anon et al	Mark Burnett	{'relation': 'collaborate'}
-Anon et al	Javier R. Movellan	{'relation': 'collaborate'}
-Anon et al	Stefano Ceri	{'relation': 'collaborate'}
-Anon et al	James N. Gray	{'relation': 'collaborate'}
-Anon et al	Mohammad Nayeem Teli	{'relation': 'collaborate'}
-Anon et al	Sébastien Marcel	{'relation': 'collaborate'}
-Anon et al	Chris Amaris	{'relation': 'collaborate'}
-Anon et al	David J. DeWitt	{'relation': 'collaborate'}
-Anon et al	Dieter Gawlick	{'relation': 'collaborate'}
-Stefano Ceri	James N. Gray	{'relation': 'collaborate'}
-Stefano Ceri	David J. DeWitt	{'relation': 'collaborate'}
-Stefano Ceri	Dieter Gawlick	{'relation': 'collaborate'}
-Stefano Ceri	Ed Lazowska	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	Mohammad Nayeem Teli	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	Javier R. Movellan	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	Sébastien Marcel	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	T. E. Boult	{'relation': 'collaborate'}
-James N. Gray	David J. DeWitt	{'relation': 'collaborate'}
-James N. Gray	Dieter Gawlick	{'relation': 'collaborate'}
-James N. Gray	Ed Lazowska	{'relation': 'collaborate'}
-Sébastien Marcel	Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Sébastien Marcel	Javier R. Movellan	{'relation': 'collaborate'}
-Sébastien Marcel	Mohammad Nayeem Teli	{'relation': 'collaborate'}
-Sébastien Marcel	T. E. Boult	{'relation': 'collaborate'}
-David J. DeWitt	Dieter Gawlick	{'relation': 'collaborate'}
-David J. DeWitt	Ed Lazowska	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	Javier R. Movellan	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	T. E. Boult	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Dieter Gawlick	Ed Lazowska	{'relation': 'collaborate'}
-Chris Amaris	Mark Burnett	{'relation': 'collaborate'}
-Javier Lorenzo-Navarro	T. E. Boult	{'relation': 'collaborate'}
-Javier Lorenzo-Navarro	Javier R. Movellan	{'relation': 'collaborate'}
-Javier R. Movellan	T. E. Boult	{'relation': 'collaborate'}
+J.C. Roh	Bhaskar D. Rao	{'relation': 'collaborate'}
+M. Murthi	Bhaskar D. Rao	{'relation': 'collaborate'}
+Jianxia Ning	Bhaskar D. Rao	{'relation': 'collaborate'}
+Jianxia Ning	Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
+Elettra Venosa	Bhaskar D. Rao	{'relation': 'collaborate'}
+Chandra R. Murthy	Ramesh Annavajjala	{'relation': 'collaborate'}
+Chandra R. Murthy	Bhaskar D. Rao	{'relation': 'collaborate'}
+M. Wengler	Bhaskar D. Rao	{'relation': 'collaborate'}
+R. Hegde	Bhaskar D. Rao	{'relation': 'collaborate'}
+K. V. S. Hari	Bhaskar D. Rao	{'relation': 'collaborate'}
+J. R. Zeidler	Tara Javidi	{'relation': 'collaborate'}
+J. R. Zeidler	Bhaskar D. Rao	{'relation': 'collaborate'}
+Bhaskar D. Rao	Tara Javidi	{'relation': 'collaborate'}
+Bhaskar D. Rao	Scott Makeig	{'relation': 'collaborate'}
+Bhaskar D. Rao	Emanuele Coviello	{'relation': 'collaborate'}
+Bhaskar D. Rao	Michele Zorzi	{'relation': 'collaborate'}
+Bhaskar D. Rao	Ramesh Annavajjala	{'relation': 'collaborate'}
+Bhaskar D. Rao	Joseph F. Murray	{'relation': 'collaborate'}
+Bhaskar D. Rao	Mohan M. Trivedi	{'relation': 'collaborate'}
+Bhaskar D. Rao	Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
+Bhaskar D. Rao	Kjersti Engan	{'relation': 'collaborate'}
+Bhaskar D. Rao	Umit Yapanel	{'relation': 'collaborate'}
+Srikanth V. Krishnamurthy	Michele Zorzi	{'relation': 'collaborate'}
+Michele Zorzi	Emanuele Coviello	{'relation': 'collaborate'}
+Kjersti Engan	Joseph F. Murray	{'relation': 'collaborate'}

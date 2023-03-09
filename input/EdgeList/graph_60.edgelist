@@ -1,48 +1,34 @@
-Ming Li	Limin Wang	{'relation': 'collaborate'}
-Ming Li	Ming Li	{'relation': 'collaborate'}
-Ming Li	Guojun Chen	{'relation': 'collaborate'}
-Ming Li	Xuming Han	{'relation': 'collaborate'}
-Ming Li	Huimin Zhang	{'relation': 'collaborate'}
-Ming Li	Jing Wang	{'relation': 'collaborate'}
-Ming Li	Chijun Zhang	{'relation': 'collaborate'}
-Li Zhang	Xuming Han	{'relation': 'collaborate'}
-Li Zhang	Chijun Zhang	{'relation': 'collaborate'}
-Li Zhang	Jing Wang	{'relation': 'collaborate'}
-Li Zhang	Limin Wang	{'relation': 'collaborate'}
-Chijun Zhang	Limin Wang	{'relation': 'collaborate'}
-Chijun Zhang	Xuming Han	{'relation': 'collaborate'}
-Chijun Zhang	Huimin Zhang	{'relation': 'collaborate'}
-Chijun Zhang	Guojun Chen	{'relation': 'collaborate'}
-Chijun Zhang	Jing Wang	{'relation': 'collaborate'}
-Gilman Tolle	Limin Wang	{'relation': 'collaborate'}
-Gilman Tolle	Chris Anderson	{'relation': 'collaborate'}
-Gilman Tolle	R. Ramnath	{'relation': 'collaborate'}
-Gilman Tolle	HongJiang Zhang	{'relation': 'collaborate'}
-Gilman Tolle	Santosh Kumar	{'relation': 'collaborate'}
-Ruoming Pang	Limin Wang	{'relation': 'collaborate'}
-T. V. Lakshman	Limin Wang	{'relation': 'collaborate'}
-T. V. Lakshman	Stéphane Betgé-Brezetz	{'relation': 'collaborate'}
-Xiaoou Tang	Limin Wang	{'relation': 'collaborate'}
-Xiaoou Tang	HongJiang Zhang	{'relation': 'collaborate'}
-Huimin Zhang	Guojun Chen	{'relation': 'collaborate'}
-Huimin Zhang	Limin Wang	{'relation': 'collaborate'}
-Huimin Zhang	Xuming Han	{'relation': 'collaborate'}
-HongJiang Zhang	Limin Wang	{'relation': 'collaborate'}
-HongJiang Zhang	Chris Anderson	{'relation': 'collaborate'}
-HongJiang Zhang	Santosh Kumar	{'relation': 'collaborate'}
-HongJiang Zhang	R. Ramnath	{'relation': 'collaborate'}
-Yongmei He	Limin Wang	{'relation': 'collaborate'}
-Yongmei He	Xuming Han	{'relation': 'collaborate'}
-Xuming Han	Limin Wang	{'relation': 'collaborate'}
-Xuming Han	Guojun Chen	{'relation': 'collaborate'}
-K. Panusopone	Limin Wang	{'relation': 'collaborate'}
-Guojun Chen	Limin Wang	{'relation': 'collaborate'}
-Jing Wang	Jing Wang	{'relation': 'collaborate'}
-Santosh Kumar	Limin Wang	{'relation': 'collaborate'}
-Santosh Kumar	R. Ramnath	{'relation': 'collaborate'}
-Santosh Kumar	Chris Anderson	{'relation': 'collaborate'}
-Yuanyuan Zhou	Limin Wang	{'relation': 'collaborate'}
-Limin Wang	R. Ramnath	{'relation': 'collaborate'}
-Limin Wang	Stéphane Betgé-Brezetz	{'relation': 'collaborate'}
-Limin Wang	Chris Anderson	{'relation': 'collaborate'}
-Chris Anderson	R. Ramnath	{'relation': 'collaborate'}
+Offer Pazy	Mike Kamrad	{'relation': 'collaborate'}
+Dennis Cornhill	Rakesh Jha	{'relation': 'collaborate'}
+Dennis Cornhill	Mike Kamrad	{'relation': 'collaborate'}
+Dennis Cornhill	Greg Eisenhauer	{'relation': 'collaborate'}
+Jack C. Wileden	Alan R. Segal	{'relation': 'collaborate'}
+Jack C. Wileden	Leon G. Stucki	{'relation': 'collaborate'}
+Jack C. Wileden	Richard Fairley	{'relation': 'collaborate'}
+Jack C. Wileden	J. Ramanathan	{'relation': 'collaborate'}
+Mike Kamrad	Fred Maymir-Ducharme	{'relation': 'collaborate'}
+Mike Kamrad	Dock Allen	{'relation': 'collaborate'}
+Mike Kamrad	Rakesh Jha	{'relation': 'collaborate'}
+Mike Kamrad	Greg Eisenhauer	{'relation': 'collaborate'}
+Mike Kamrad	Charles McKay	{'relation': 'collaborate'}
+Mike Kamrad	K A Gilroy	{'relation': 'collaborate'}
+Mike Kamrad	Joseph K. Cross	{'relation': 'collaborate'}
+Rakesh Jha	Greg Eisenhauer	{'relation': 'collaborate'}
+Dock Allen	Charles McKay	{'relation': 'collaborate'}
+Dock Allen	Bhavani M. Thuraisingham	{'relation': 'collaborate'}
+Dock Allen	K A Gilroy	{'relation': 'collaborate'}
+Dock Allen	Erich Hughes	{'relation': 'collaborate'}
+J. Bamberger	Charles McKay	{'relation': 'collaborate'}
+J. Bamberger	Richard Fairley	{'relation': 'collaborate'}
+David Eichmann	C. Atkinson	{'relation': 'collaborate'}
+David Eichmann	Charles McKay	{'relation': 'collaborate'}
+Richard Fairley	Alan R. Segal	{'relation': 'collaborate'}
+Richard Fairley	Charles McKay	{'relation': 'collaborate'}
+Richard Fairley	Leon G. Stucki	{'relation': 'collaborate'}
+Richard Fairley	J. Ramanathan	{'relation': 'collaborate'}
+Leon G. Stucki	J. Ramanathan	{'relation': 'collaborate'}
+Leon G. Stucki	Alan R. Segal	{'relation': 'collaborate'}
+C. Atkinson	Charles McKay	{'relation': 'collaborate'}
+Erich Hughes	Bhavani M. Thuraisingham	{'relation': 'collaborate'}
+Charles McKay	K A Gilroy	{'relation': 'collaborate'}
+Alan R. Segal	J. Ramanathan	{'relation': 'collaborate'}

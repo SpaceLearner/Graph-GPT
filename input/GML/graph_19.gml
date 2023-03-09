@@ -1,252 +1,177 @@
 graph [
   node [
     id 0
-    label "Shingo Uchihashi"
-    affiliation "Department of Electrical and Computer Engineering"
-    research "comic book, highlight image, conventional video"
+    label "C. J. Date"
+    affiliation "Nan"
+    research "Database Systems, Religious Wars, SIGMOD Record"
   ]
   node [
     id 1
-    label "L. Wilcox"
+    label "Weisi Lin"
     affiliation "Nan"
-    research "index term, note page, automatic index creation"
+    research "Perceptual Processing, perceptual-based visual processing technique, perceptual-based visual signal processing"
   ]
   node [
     id 2
-    label "John Doherty"
-    affiliation "FX Palo Alto Laboratory, 3400 Hillview Avenue, Palo Alto, CA"
-    research "video sequence, Detail-on-demand video, browsing video"
+    label "Fuzheng Yang"
+    affiliation "Nan"
+    research "depth map, texture video, proposed algorithm"
   ]
   node [
     id 3
-    label "Maribeth Back"
+    label "Xinghuo Yu"
     affiliation "Nan"
-    research "Stereoscopic video, smartphone video encoders, video quality"
+    research "Switching-based signal estimation, digital implementation"
   ]
   node [
     id 4
-    label "Timothy Childs"
-    affiliation "FX Palo Alto Lab., CA, USA"
-    research "virtual factory, San Francisco, virtual mashups"
+    label "Tao Chen"
+    affiliation "Nan"
+    research "GIS professional, GIS Professional TalentThis paper, GIS professional market"
   ]
   node [
     id 5
-    label "Surapong Lertsithichai"
-    affiliation "Fuji Xerox Palo Alto Lab, Palo Alto, CA"
-    research "panoramic video, video segment, rich media"
+    label "Colin J. White"
+    affiliation "DataBase Associates, Morgan Hill, CA"
+    research "IBM relational database management, VM environment, successful database product"
   ]
   node [
     id 6
-    label "Andreas Girgensohn"
-    affiliation "FX PaIo Alto Lab. Inc.,, Palo Alto, CA, USA"
-    research "detail-on-demand video, video clip, interactive video"
+    label "Chris White"
+    affiliation "Nan"
+    research ""
   ]
   node [
     id 7
-    label "Xinding Sun"
-    affiliation "Nan"
-    research "remote participant, accurate speaker detector, active speaker"
+    label "Bin Qiu"
+    affiliation "Monash University"
+    research "proposed scheme, Landmark LRU scheme, proposed algorithm"
   ]
   node [
     id 8
-    label "Harvey F. Silverman"
-    affiliation "IBM T. J. Watson Research Center at Yorktown Heights, New York"
-    research "microphone array, speech recognition, head-mounted microphone"
+    label "Suiyang Khoo"
+    affiliation "Nan"
+    research "gear mesh vibration signal, signal model, gear vibration signal"
   ]
   node [
     id 9
-    label "John Boreczky"
-    affiliation "Fuji Xerox Palo Alto Lab, Palo Alto, CA"
-    research "screen updates, appropriate video file, digitized video"
+    label "Darin Chan"
+    affiliation "School of Informatics and Engineering, Flinders University of South Australia, P.O.Box 2100, South Australia"
+    research "data compression technique, data item, data volume"
   ]
   node [
     id 10
-    label "K. Sparck Jones"
-    affiliation "Univ. of Cambridge, Cambridge, UK"
-    research "information retrieval, document retrieval, information processing"
+    label "Hong Ren Wu"
+    affiliation "Nan"
+    research "Perceptual Processing, perceptual-based visual processing technique, perceptual-based visual signal processing"
   ]
   node [
     id 11
-    label "Chunyuan Liao"
-    affiliation "University of Maryland, College Park, MD"
-    research "intelligent transportation system, road traffic information, traffic condition monitoring"
+    label "Shengkui Zhao"
+    affiliation "Advanced Digital Sciences Center, Illinois at Singapore, Singapore, Singapore"
+    research "sound localization, GPU implementation, Spatialized audio multiparty teleconferencing"
   ]
   node [
     id 12
-    label "Matthew Cooper"
-    affiliation "FXPAL, USA"
-    research "international workshop, social dimension, Dr. Dick C.A"
+    label "Shuai Wan"
+    affiliation "Dept. Electron. Eng., Queen Mary, London"
+    research "proposed method, proposed approach, video coding"
   ]
   node [
     id 13
-    label "Jun Shingu"
-    affiliation "Fuji Xerox, Yokohama, CA, USA"
-    research "virtual factory, virtual model, Pantheia system"
+    label "David Wu"
+    affiliation "Institute for Information Industry, Taipei, Taiwan"
+    research "complex interaction, continuous availability, eventsThe continuous evolution"
   ]
   node [
     id 14
-    label "B. S. Manjunath"
+    label "Zhonghua Ma"
     affiliation "Nan"
-    research "text region, variable frame rate, Camera Alignment"
+    research "electric field, LWD instrument measurement data, LWD measurement"
   ]
   node [
     id 15
-    label "T. Matsumoto"
-    affiliation "Dept. of Electr. Eng., Waseda Univ., Tokyo"
-    research "spatial stability, stability issue, temporal dynamic"
+    label "K. R. Rao"
+    affiliation "Nan"
+    research "Digital Video Image, Perceptual Coding, Signal Processing"
   ]
   node [
     id 16
-    label "Lynn D. Wilcox"
-    affiliation "FXPAL"
-    research "detail-on-demand video, video clip, digital video"
+    label "Zhihong Man"
+    affiliation "School of Computer Engineering, Nanyang Technological University, Singapore"
+    research "adaptive filter, simulation result, MRVSS algorithm"
   ]
   node [
     id 17
-    label "J. T. Foote"
-    affiliation "Fuji Xerox Palo Alto Lab, Palo Alto, CA"
-    research "panoramic video, source video, video image"
+    label "Dinesh K. Kumar"
+    affiliation "Nan"
+    research "retina structure, optic disc, Shape Signature"
   ]
   node [
     id 18
-    label "John Adcock"
-    affiliation "FX Palo Alto Laboratory, Palo Alto, CA"
-    research "direct video manipulation interaction, direct video manipulation technique, efficient interactive video retrievalA"
+    label "L. Karam"
+    affiliation "Dept. of Electr. Eng., Arizona State Univ., Tempe, AZ"
+    research "image component, reconstructed image, adaptive perceptual quantization scheme"
   ]
   node [
     id 19
-    label "Tanveer Fathima Syeda-Mahmood"
-    affiliation "IEEE"
-    research "image databases, semantic matching, overall semantic similarity score"
+    label "Dagan Feng"
+    affiliation "Biomedical and Multimedia Information Technology (BMIT) Research Group, School of Information Technologies, The University of Sydney, NSW 2006, Australia and Center for Multimedia Signal Processin ..."
+    research "proposed algorithm, bias field, MR bias field effect"
   ]
   edge [
     source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 5
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 15
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
     relation "collaborate"
   ]
   edge [
     source 3
-    target 9
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 17
+    source 3
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 13
+    source 3
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 3
     target 16
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 17
+    source 4
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -255,48 +180,13 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
+    source 6
+    target 10
     relation "collaborate"
   ]
   edge [
     source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 17
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -305,28 +195,63 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 17
+    source 7
+    target 10
     relation "collaborate"
   ]
   edge [
     source 8
-    target 18
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 11
     relation "collaborate"
   ]
   edge [
     source 9
-    target 17
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 10
     target 15
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 10
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -335,63 +260,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 12
+    source 10
     target 18
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 11
     target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
     relation "collaborate"
   ]
   edge [
     source 14
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 17
     target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
     relation "collaborate"
   ]
 ]

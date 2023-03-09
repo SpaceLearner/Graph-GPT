@@ -1,66 +1,61 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:02 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:04 2023
 # 
-Montek Singh	2
-Vishal Gupta	{'relation': 'collaborate'}
-Gennette Gill	{'relation': 'collaborate'}
-Gennette Gill	1
-Vishal Gupta	{'relation': 'collaborate'}
-Karsten Schwan	8
-Paul Brett	{'relation': 'collaborate'}
-D. A. Koufaty	{'relation': 'collaborate'}
-Ganapati Srinivasa	{'relation': 'collaborate'}
-Dheeraj Reddy	{'relation': 'collaborate'}
-Min Lee	{'relation': 'collaborate'}
-Vishal Gupta	{'relation': 'collaborate'}
-Scott Hahn	{'relation': 'collaborate'}
-Ripal Nathuji	{'relation': 'collaborate'}
-Vishal Gupta	16
-Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
-Scott Hahn	{'relation': 'collaborate'}
-Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
-Paul Brett	{'relation': 'collaborate'}
-Pulkit Parikh	{'relation': 'collaborate'}
-Gopal Datt Joshi	{'relation': 'collaborate'}
-K. Najeeb	{'relation': 'collaborate'}
-Dheeraj Reddy	{'relation': 'collaborate'}
-S. C. Sharma	{'relation': 'collaborate'}
-Min Lee	{'relation': 'collaborate'}
-D. A. Koufaty	{'relation': 'collaborate'}
-V. Kamakoti	{'relation': 'collaborate'}
-D. Bertsimas	{'relation': 'collaborate'}
-Ganapati Srinivasa	{'relation': 'collaborate'}
-Ripal Nathuji	{'relation': 'collaborate'}
-Sitaram Ramachandrula	{'relation': 'collaborate'}
-Dheeraj Reddy	4
-Ganapati Srinivasa	{'relation': 'collaborate'}
-Scott Hahn	{'relation': 'collaborate'}
-Paul Brett	{'relation': 'collaborate'}
-D. A. Koufaty	{'relation': 'collaborate'}
-D. A. Koufaty	3
-Ganapati Srinivasa	{'relation': 'collaborate'}
-Scott Hahn	{'relation': 'collaborate'}
-Paul Brett	{'relation': 'collaborate'}
-Paul Brett	2
-Scott Hahn	{'relation': 'collaborate'}
-Ganapati Srinivasa	{'relation': 'collaborate'}
-Gopal Datt Joshi	2
-Pulkit Parikh	{'relation': 'collaborate'}
-Sitaram Ramachandrula	{'relation': 'collaborate'}
-Scott Hahn	1
-Ganapati Srinivasa	{'relation': 'collaborate'}
-K. Najeeb	1
-V. Kamakoti	{'relation': 'collaborate'}
-Ganapati Srinivasa	0
-S. C. Sharma	0
-D. Bertsimas	1
-Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
-Pulkit Parikh	1
-Sitaram Ramachandrula	{'relation': 'collaborate'}
-Gabriel A. Rincon-Mora	0
-Sitaram Ramachandrula	0
-V. Kamakoti	0
-Ripal Nathuji	1
-Min Lee	{'relation': 'collaborate'}
-Ioannis Ch. Paschalidis	0
-Min Lee	0
+Sebastian Provenzano	3
+L. Vergara	{'relation': 'collaborate'}
+F. J. Fuenmayor	{'relation': 'collaborate'}
+Francklin Rivas	{'relation': 'collaborate'}
+Andres Camacho	4
+Jorge Igual	{'relation': 'collaborate'}
+L. Vergara	{'relation': 'collaborate'}
+P. Bernabeu	{'relation': 'collaborate'}
+Raul Llinares	{'relation': 'collaborate'}
+L. Vergara	13
+Jorge Moragues	{'relation': 'collaborate'}
+Jorge Gosalbez	{'relation': 'collaborate'}
+Antonio Soriano	{'relation': 'collaborate'}
+J. Morales	{'relation': 'collaborate'}
+Soledad Gomez	{'relation': 'collaborate'}
+P. Bernabeu	{'relation': 'collaborate'}
+Arturo Serrano	{'relation': 'collaborate'}
+J. Sastre	{'relation': 'collaborate'}
+V. Naranjo	{'relation': 'collaborate'}
+Raul Llinares	{'relation': 'collaborate'}
+Jorge Igual	{'relation': 'collaborate'}
+Francklin Rivas	{'relation': 'collaborate'}
+A. Rodríguez	{'relation': 'collaborate'}
+P. Bernabeu	1
+Jorge Igual	{'relation': 'collaborate'}
+Jorge Moragues	6
+Antonio Soriano	{'relation': 'collaborate'}
+Kiel M Gilleade	{'relation': 'collaborate'}
+Ana Cabrera	{'relation': 'collaborate'}
+Areti Damala	{'relation': 'collaborate'}
+Soledad Gomez	{'relation': 'collaborate'}
+Jorge Gosalbez	{'relation': 'collaborate'}
+Kiel M Gilleade	2
+Areti Damala	{'relation': 'collaborate'}
+Ana Cabrera	{'relation': 'collaborate'}
+Arturo Serrano	3
+Jorge Igual	{'relation': 'collaborate'}
+Raul Llinares	{'relation': 'collaborate'}
+Jorge Gosalbez	{'relation': 'collaborate'}
+F. J. Fuenmayor	1
+Francklin Rivas	{'relation': 'collaborate'}
+J. Morales	0
+Jorge Gosalbez	2
+Raul Llinares	{'relation': 'collaborate'}
+Jorge Igual	{'relation': 'collaborate'}
+Antonio Soriano	0
+J. Sastre	1
+V. Naranjo	{'relation': 'collaborate'}
+Francklin Rivas	0
+Raul Llinares	1
+Jorge Igual	{'relation': 'collaborate'}
+Areti Damala	1
+Ana Cabrera	{'relation': 'collaborate'}
+Soledad Gomez	0
+Ana Cabrera	0
+A. Rodríguez	0
+V. Naranjo	0
+Jorge Igual	0

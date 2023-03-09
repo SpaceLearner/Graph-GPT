@@ -1,31 +1,32 @@
-C. Delorme	Leif K. Jørgensen	{'relation': 'collaborate'}
-C. Delorme	Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
-C. Delorme	Mirka Miller	{'relation': 'collaborate'}
-Bo-Ting Yang	Denis Hanson	{'relation': 'collaborate'}
-Bo-Ting Yang	B. Alspach	{'relation': 'collaborate'}
-Bo-Ting Yang	Danny Dyer	{'relation': 'collaborate'}
-Ping Wang	Gary MacGillivray	{'relation': 'collaborate'}
-Ping Wang	Denis Hanson	{'relation': 'collaborate'}
-Ping Wang	Leif K. Jørgensen	{'relation': 'collaborate'}
-F. Santos	David Orden	{'relation': 'collaborate'}
-F. Santos	Ruth Haas	{'relation': 'collaborate'}
-David A. Pike	Danny Dyer	{'relation': 'collaborate'}
-Mirka Miller	Guillermo Pineda-Villavicencio	{'relation': 'collaborate'}
-Mirka Miller	Leif K. Jørgensen	{'relation': 'collaborate'}
-Dale Youngs	Denis Hanson	{'relation': 'collaborate'}
-Dale Youngs	Gary MacGillivray	{'relation': 'collaborate'}
-Ken-ichi Kawarabayashi	Leif K. Jørgensen	{'relation': 'collaborate'}
-Guillermo Pineda-Villavicencio	Leif K. Jørgensen	{'relation': 'collaborate'}
-Danny Dyer	Denis Hanson	{'relation': 'collaborate'}
-Danny Dyer	Dariusz Dereniowski	{'relation': 'collaborate'}
-Danny Dyer	B. Alspach	{'relation': 'collaborate'}
-Michael O. Albertson	Ruth Haas	{'relation': 'collaborate'}
-Michael O. Albertson	Sarah-Marie Belcastro	{'relation': 'collaborate'}
-B. Alspach	Denis Hanson	{'relation': 'collaborate'}
-Gary MacGillivray	Ruth Haas	{'relation': 'collaborate'}
-Gary MacGillivray	Denis Hanson	{'relation': 'collaborate'}
-Denis Hanson	Leif K. Jørgensen	{'relation': 'collaborate'}
-Denis Hanson	Ruth Haas	{'relation': 'collaborate'}
-Denis Hanson	J. W. Moon	{'relation': 'collaborate'}
-Sarah-Marie Belcastro	Ruth Haas	{'relation': 'collaborate'}
-David Orden	Ruth Haas	{'relation': 'collaborate'}
+Hayoung Park	Yongtae Shin	{'relation': 'collaborate'}
+Hayoung Park	Hoon Ko	{'relation': 'collaborate'}
+Jongchan Lee	Hoon Ko	{'relation': 'collaborate'}
+Jongchan Lee	Hyun-Joo Moon	{'relation': 'collaborate'}
+Tai-hoon Kim	Carlos Ramos	{'relation': 'collaborate'}
+Tai-hoon Kim	Zita A. Vale	{'relation': 'collaborate'}
+Tai-hoon Kim	Hoon Ko	{'relation': 'collaborate'}
+Tai-hoon Kim	Hanmin Jung	{'relation': 'collaborate'}
+Hoon Ko	Zita A. Vale	{'relation': 'collaborate'}
+Hoon Ko	Kwang-Hyung Lee	{'relation': 'collaborate'}
+Hoon Ko	Hae-Seok Oh	{'relation': 'collaborate'}
+Hoon Ko	Hanmin Jung	{'relation': 'collaborate'}
+Hoon Ko	Yongtae Shin	{'relation': 'collaborate'}
+Hoon Ko	Carlos Freitas	{'relation': 'collaborate'}
+Hoon Ko	Carlos Ramos	{'relation': 'collaborate'}
+Hoon Ko	Hyun-Joo Moon	{'relation': 'collaborate'}
+Hoon Ko	Young Gu Lee	{'relation': 'collaborate'}
+Hoon Ko	Myunggwon Hwang	{'relation': 'collaborate'}
+Hoon Ko	Marek R. Ogiela	{'relation': 'collaborate'}
+Hoon Ko	Yongjun Lee	{'relation': 'collaborate'}
+Hoon Ko	Intae Ryoo	{'relation': 'collaborate'}
+Hoon Ko	Ilsun You	{'relation': 'collaborate'}
+Hoon Ko	Moon-seog Jun	{'relation': 'collaborate'}
+Hoon Ko	Seonho Kim	{'relation': 'collaborate'}
+Hanmin Jung	Myunggwon Hwang	{'relation': 'collaborate'}
+Young Gu Lee	Moon-seog Jun	{'relation': 'collaborate'}
+Myunggwon Hwang	Zita A. Vale	{'relation': 'collaborate'}
+Kwang-Hyung Lee	Moon-seog Jun	{'relation': 'collaborate'}
+Carlos Freitas	Carlos Ramos	{'relation': 'collaborate'}
+Ilsun You	Marek R. Ogiela	{'relation': 'collaborate'}
+Carlos Ramos	Zita A. Vale	{'relation': 'collaborate'}
+Hae-Seok Oh	Yongtae Shin	{'relation': 'collaborate'}

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hsu-Jung Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Priority-Based Hybrid Protocol, Wireless Sensor NetworksGrid computing, administrative domain</data>
+    </node>
+    <node id="Haneul Ko">
+      <data key="affiliation">School of Electrical and Engineering Korea University Seoul, Korea</data>
+      <data key="research">locator mapping system, interworking architecture, locator separation architecture</data>
+    </node>
+    <node id="Wei-Shuo Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">point process, wireless communication network, nearby point</data>
+    </node>
+    <node id="Sing-Liang Chen">
+      <data key="affiliation">Division of Systems and Engineering Management, School of Mechanical and Aerospace Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798, Singapore</data>
+      <data key="research">ERP investment, SCM perspective, ERP implementation</data>
+    </node>
+    <node id="Chun-Wei Tsai">
+      <data key="affiliation">Nan</data>
+      <data key="research">effective upper-bound model, good performance, proposed approach</data>
+    </node>
+    <node id="Min Chen">
+      <data key="affiliation">Richard Stockton College of New Jersey, Galloway</data>
+      <data key="research">user navigation, disoriented user, improved structure</data>
+    </node>
+    <node id="Chu-Sing Yang">
+      <data key="affiliation">Department of Electrical Engineering, Institute of Computer and Communication Engineering, National Cheng Kung University, Taiwan</data>
+      <data key="research">mobile sensor, proposed method, network lifetime</data>
+    </node>
+    <node id="Joong-Hee Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">Carbon Black, melting point, HDPE composite</data>
+    </node>
+    <node id="Chih-Hung Lin">
+      <data key="affiliation">CyberTrust Technology Institute Institute for Information Industry Taipei, Taiwan R.O.C.</data>
+      <data key="research">cloud virtualization environment, cloud platform, cloud virtualization environmentWhile</data>
+    </node>
+    <node id="T. C. Cheng">
+      <data key="affiliation">Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Kowloon, Hong Kong</data>
+      <data key="research">incompatible case, due date, objective function</data>
+    </node>
+    <node id="L. J. Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fiber-Based Board-Level Optical Clock</data>
+    </node>
+    <node id="Wen-Shyong Hsieh">
+      <data key="affiliation">Nan</data>
+      <data key="research">Priority-Based Hybrid Protocol, Wireless Sensor NetworksGrid computing, administrative domain</data>
+    </node>
+    <node id="Jong-Hyouk Lee">
+      <data key="affiliation">Institut Mines Telecom  Telecom Bretagne, Université Européenne de Bretagne, IRISA, France</data>
+      <data key="research">handover authentication procedure, handover optimized ticket-based authentication, handover latency</data>
+    </node>
+    <node id="Chuan-Fu Wu">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., Nat. Sun YatSen Univ., Kaohsiung</data>
+      <data key="research">original image, n method, intermediate set</data>
+    </node>
+    <node id="Hun-Jung Lim">
+      <data key="affiliation">Sungkyunkwan University, Korea</data>
+      <data key="research">proposed scheme, MANET ID, network model</data>
+    </node>
+    <node id="T. K. Truong">
+      <data key="affiliation">Nan</data>
+      <data key="research">spectral representation, arbitrary fBm, fBm property</data>
+    </node>
+    <node id="Yu-Chang Chen">
+      <data key="affiliation">Inst. of Compuy. &amp; Inf. Eng., Nation Sun YatSen Univ., Taiwan</data>
+      <data key="research">flow control, QoS guarantee, medium access control</data>
+    </node>
+    <node id="Byungchul Park">
+      <data key="affiliation">Dept. of Computer Science and Engineering, POSTECH, Pohang, Korea</data>
+      <data key="research">traffic classification, control network, mobile data network</data>
+    </node>
+    <node id="I. S. Reed">
+      <data key="affiliation">Department of Electrical Engineering, University of Southern California, Los Angeles, Calif. 90007.</data>
+      <data key="research">Reed-Solomon code, finite field, direct sum</data>
+    </node>
+    <node id="Jung-Chan Na">
+      <data key="affiliation">Nan</data>
+      <data key="research">security platform</data>
+    </node>
+    <edge source="Hsu-Jung Liu" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haneul Ko" target="Jong-Hyouk Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Shuo Li" target="Chun-Wei Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Shuo Li" target="Jong-Hyouk Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Shuo Li" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Shuo Li" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Shuo Li" target="Chu-Sing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sing-Liang Chen" target="Yu-Chang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sing-Liang Chen" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Wei Tsai" target="Jong-Hyouk Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Wei Tsai" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Wei Tsai" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Wei Tsai" target="Chu-Sing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Chen" target="Chu-Sing Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Chen" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chu-Sing Yang" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chu-Sing Yang" target="Yu-Chang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joong-Hee Lee" target="Jong-Hyouk Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chih-Hung Lin" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Cheng" target="T. K. Truong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Cheng" target="L. J. Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Cheng" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Cheng" target="I. S. Reed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. J. Wang" target="T. K. Truong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. J. Wang" target="I. S. Reed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. J. Wang" target="Wen-Shyong Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Hsieh" target="Jong-Hyouk Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Hsieh" target="Yu-Chang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Hsieh" target="Chuan-Fu Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Hsieh" target="I. S. Reed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Hsieh" target="T. K. Truong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jong-Hyouk Lee" target="Hun-Jung Lim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jong-Hyouk Lee" target="Jung-Chan Na">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jong-Hyouk Lee" target="Byungchul Park">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. K. Truong" target="I. S. Reed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Chang Chen" target="Yu-Chang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,25 +1,23 @@
-Joseph F. Murray	Bhaskar D. Rao	{'relation': 'collaborate'}
-Joseph F. Murray	Kjersti Engan	{'relation': 'collaborate'}
-Mohan M. Trivedi	Bhaskar D. Rao	{'relation': 'collaborate'}
-Tara Javidi	Bhaskar D. Rao	{'relation': 'collaborate'}
-Tara Javidi	J. R. Zeidler	{'relation': 'collaborate'}
-Ramesh Annavajjala	Bhaskar D. Rao	{'relation': 'collaborate'}
-Ramesh Annavajjala	Chandra R. Murthy	{'relation': 'collaborate'}
-Chandra R. Murthy	Bhaskar D. Rao	{'relation': 'collaborate'}
-J.C. Roh	Bhaskar D. Rao	{'relation': 'collaborate'}
-Michele Zorzi	Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
-Michele Zorzi	Bhaskar D. Rao	{'relation': 'collaborate'}
-Michele Zorzi	Emanuele Coviello	{'relation': 'collaborate'}
-Emanuele Coviello	Bhaskar D. Rao	{'relation': 'collaborate'}
-K. V. S. Hari	Bhaskar D. Rao	{'relation': 'collaborate'}
-J. R. Zeidler	Bhaskar D. Rao	{'relation': 'collaborate'}
-Umit Yapanel	Bhaskar D. Rao	{'relation': 'collaborate'}
-M. Murthi	Bhaskar D. Rao	{'relation': 'collaborate'}
-Srikanth V. Krishnamurthy	Bhaskar D. Rao	{'relation': 'collaborate'}
-Srikanth V. Krishnamurthy	Jianxia Ning	{'relation': 'collaborate'}
-R. Hegde	Bhaskar D. Rao	{'relation': 'collaborate'}
-Scott Makeig	Bhaskar D. Rao	{'relation': 'collaborate'}
-Kjersti Engan	Bhaskar D. Rao	{'relation': 'collaborate'}
-Jianxia Ning	Bhaskar D. Rao	{'relation': 'collaborate'}
-Bhaskar D. Rao	Elettra Venosa	{'relation': 'collaborate'}
-Bhaskar D. Rao	M. Wengler	{'relation': 'collaborate'}
+Joe Kraynak	Gordon McComb	{'relation': 'collaborate'}
+Joe Kraynak	Que Corporation	{'relation': 'collaborate'}
+David G. Durand	Que Corporation	{'relation': 'collaborate'}
+David G. Durand	Elli Mylonas	{'relation': 'collaborate'}
+Geoffrey W. McKim	Que Corporation	{'relation': 'collaborate'}
+Mark Schulman	Que Corporation	{'relation': 'collaborate'}
+Samantha Penrod	Que Corporation	{'relation': 'collaborate'}
+Suzanne Weixel	Que Corporation	{'relation': 'collaborate'}
+Bob Mullen	Que Corporation	{'relation': 'collaborate'}
+Bob Mullen	Laura Acklen	{'relation': 'collaborate'}
+Tim Evans	Que Corporation	{'relation': 'collaborate'}
+Carolyn B. Mitchell	Que Corporation	{'relation': 'collaborate'}
+Eric P. Bloom	Que Corporation	{'relation': 'collaborate'}
+Marilyn G. Kyd	Que Corporation	{'relation': 'collaborate'}
+Elli Mylonas	Que Corporation	{'relation': 'collaborate'}
+Laura Acklen	Que Corporation	{'relation': 'collaborate'}
+Laura Acklen	Gordon McComb	{'relation': 'collaborate'}
+Gordon McComb	Que Corporation	{'relation': 'collaborate'}
+Julia A. Cardis	Que Corporation	{'relation': 'collaborate'}
+George R. Beinhorn	Que Corporation	{'relation': 'collaborate'}
+Dan Post	Que Corporation	{'relation': 'collaborate'}
+Jerry Honeycutt	Que Corporation	{'relation': 'collaborate'}
+Steven B. Combs	Que Corporation	{'relation': 'collaborate'}

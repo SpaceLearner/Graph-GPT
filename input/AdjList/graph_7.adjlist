@@ -1,109 +1,48 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:49 2023
 # 
-Andreas Reuter	10
-David J. DeWitt	{'relation': 'collaborate'}
-Michael Stonebraker	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Pete Homan	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-John Nauman	{'relation': 'collaborate'}
-Stefano Ceri	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Mark Brown	{'relation': 'collaborate'}
-Mark Brown	9
-Pete Homan	{'relation': 'collaborate'}
-Stefano Ceri	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Michael Stonebraker	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-John Nauman	{'relation': 'collaborate'}
-Aly A. Farag	7
-Sébastien Marcel	{'relation': 'collaborate'}
-Javier R. Movellan	{'relation': 'collaborate'}
-T. E. Boult	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	{'relation': 'collaborate'}
-Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	{'relation': 'collaborate'}
-John Nauman	8
-Michael Stonebraker	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Pete Homan	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Stefano Ceri	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-Michael Stonebraker	7
-Pete Homan	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Stefano Ceri	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Pete Homan	6
-Stefano Ceri	{'relation': 'collaborate'}
-Anon et al	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Anon et al	13
-Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-T. E. Boult	{'relation': 'collaborate'}
-Mark Burnett	{'relation': 'collaborate'}
-Javier R. Movellan	{'relation': 'collaborate'}
-Stefano Ceri	{'relation': 'collaborate'}
-James N. Gray	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	{'relation': 'collaborate'}
-Sébastien Marcel	{'relation': 'collaborate'}
-Chris Amaris	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Stefano Ceri	4
-James N. Gray	{'relation': 'collaborate'}
-David J. DeWitt	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Ahmed EL-Barkouky	5
-Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	{'relation': 'collaborate'}
-Javier R. Movellan	{'relation': 'collaborate'}
-Sébastien Marcel	{'relation': 'collaborate'}
-T. E. Boult	{'relation': 'collaborate'}
-James N. Gray	3
-David J. DeWitt	{'relation': 'collaborate'}
-Dieter Gawlick	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Sébastien Marcel	4
-Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Javier R. Movellan	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	{'relation': 'collaborate'}
-T. E. Boult	{'relation': 'collaborate'}
-David J. DeWitt	2
-Dieter Gawlick	{'relation': 'collaborate'}
-Ed Lazowska	{'relation': 'collaborate'}
-Mohammad Nayeem Teli	3
-Javier R. Movellan	{'relation': 'collaborate'}
-T. E. Boult	{'relation': 'collaborate'}
-Javier Lorenzo-Navarro	{'relation': 'collaborate'}
-Dieter Gawlick	1
-Ed Lazowska	{'relation': 'collaborate'}
-Chris Amaris	1
-Mark Burnett	{'relation': 'collaborate'}
-Javier Lorenzo-Navarro	2
-T. E. Boult	{'relation': 'collaborate'}
-Javier R. Movellan	{'relation': 'collaborate'}
-Ed Lazowska	0
-Javier R. Movellan	1
-T. E. Boult	{'relation': 'collaborate'}
-T. E. Boult	0
-Mark Burnett	0
+J.C. Roh	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+M. Murthi	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+Jianxia Ning	2
+Bhaskar D. Rao	{'relation': 'collaborate'}
+Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
+Elettra Venosa	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+Chandra R. Murthy	2
+Ramesh Annavajjala	{'relation': 'collaborate'}
+Bhaskar D. Rao	{'relation': 'collaborate'}
+M. Wengler	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+R. Hegde	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+K. V. S. Hari	1
+Bhaskar D. Rao	{'relation': 'collaborate'}
+J. R. Zeidler	2
+Tara Javidi	{'relation': 'collaborate'}
+Bhaskar D. Rao	{'relation': 'collaborate'}
+Bhaskar D. Rao	10
+Tara Javidi	{'relation': 'collaborate'}
+Scott Makeig	{'relation': 'collaborate'}
+Emanuele Coviello	{'relation': 'collaborate'}
+Michele Zorzi	{'relation': 'collaborate'}
+Ramesh Annavajjala	{'relation': 'collaborate'}
+Joseph F. Murray	{'relation': 'collaborate'}
+Mohan M. Trivedi	{'relation': 'collaborate'}
+Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
+Kjersti Engan	{'relation': 'collaborate'}
+Umit Yapanel	{'relation': 'collaborate'}
+Scott Makeig	0
+Srikanth V. Krishnamurthy	1
+Michele Zorzi	{'relation': 'collaborate'}
+Michele Zorzi	1
+Emanuele Coviello	{'relation': 'collaborate'}
+Ramesh Annavajjala	0
+Kjersti Engan	1
+Joseph F. Murray	{'relation': 'collaborate'}
+Emanuele Coviello	0
+Tara Javidi	0
+Umit Yapanel	0
+Joseph F. Murray	0
+Mohan M. Trivedi	0

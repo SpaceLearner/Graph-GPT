@@ -1,42 +1,26 @@
-Jayme Hero	Robert Weber	{'relation': 'collaborate'}
-Jayme Hero	Julie A. Dickerson	{'relation': 'collaborate'}
-Jayme Hero	Rob Walstrom	{'relation': 'collaborate'}
-Jayme Hero	Feng Chen	{'relation': 'collaborate'}
-Jayme Hero	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Jayme Hero	Diane Rover	{'relation': 'collaborate'}
-Ruolin Liu	Julie A. Dickerson	{'relation': 'collaborate'}
-Robert Weber	Julie A. Dickerson	{'relation': 'collaborate'}
-Robert Weber	Robert Forsythe	{'relation': 'collaborate'}
-Robert Weber	Feng Chen	{'relation': 'collaborate'}
-Robert Weber	Mats P. E. Heimdahl	{'relation': 'collaborate'}
-Robert Weber	Diane Rover	{'relation': 'collaborate'}
-Robert Weber	Rob Walstrom	{'relation': 'collaborate'}
-Robert Weber	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Robert Weber	Thomas Rietz	{'relation': 'collaborate'}
-Feng Chen	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Feng Chen	Feng Chen	{'relation': 'collaborate'}
-Feng Chen	Rob Walstrom	{'relation': 'collaborate'}
-Feng Chen	Diane Rover	{'relation': 'collaborate'}
-Feng Chen	Julie A. Dickerson	{'relation': 'collaborate'}
-Hyun Mun Kim	Julie A. Dickerson	{'relation': 'collaborate'}
-Hyun Mun Kim	B Kosko	{'relation': 'collaborate'}
-Julie A. Dickerson	B Kosko	{'relation': 'collaborate'}
-Julie A. Dickerson	Pan Du	{'relation': 'collaborate'}
-Julie A. Dickerson	Ming Jia	{'relation': 'collaborate'}
-Julie A. Dickerson	Tian Xia	{'relation': 'collaborate'}
-Julie A. Dickerson	Andy W. Fulmer	{'relation': 'collaborate'}
-Julie A. Dickerson	Wengang Zhou	{'relation': 'collaborate'}
-Julie A. Dickerson	Shaozhi Ye	{'relation': 'collaborate'}
-Julie A. Dickerson	E. S. Wurtele	{'relation': 'collaborate'}
-Julie A. Dickerson	Diane Rover	{'relation': 'collaborate'}
-Julie A. Dickerson	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Julie A. Dickerson	Rob Walstrom	{'relation': 'collaborate'}
-E. S. Wurtele	Andy W. Fulmer	{'relation': 'collaborate'}
-E. S. Wurtele	Pan Du	{'relation': 'collaborate'}
-E. S. Wurtele	Carolina Cruz-Neira	{'relation': 'collaborate'}
-E. S. Wurtele	Ming Jia	{'relation': 'collaborate'}
-Rob Walstrom	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Rob Walstrom	Diane Rover	{'relation': 'collaborate'}
-Diane Rover	Carolina Cruz-Neira	{'relation': 'collaborate'}
-Shaozhi Ye	Ming Jia	{'relation': 'collaborate'}
-Robert Forsythe	Thomas Rietz	{'relation': 'collaborate'}
+Lee Sael	Bin Li	{'relation': 'collaborate'}
+Feng Sun	Bin Li	{'relation': 'collaborate'}
+Bin Li	S. Sheng	{'relation': 'collaborate'}
+Bin Li	David Zhang	{'relation': 'collaborate'}
+Bin Li	Yumei Wang	{'relation': 'collaborate'}
+Bin Li	Qiao Wang	{'relation': 'collaborate'}
+Bin Li	X. M. Chen	{'relation': 'collaborate'}
+Bin Li	MingXi Wan	{'relation': 'collaborate'}
+Bin Li	Dennis Shasha	{'relation': 'collaborate'}
+Bin Li	M. Espig	{'relation': 'collaborate'}
+Bin Li	Yuechao Wang	{'relation': 'collaborate'}
+Bin Li	Wei Liu	{'relation': 'collaborate'}
+Bin Li	Yuanyuan Zhang	{'relation': 'collaborate'}
+Bin Li	Xinqing Yan	{'relation': 'collaborate'}
+Bin Li	Yan Xu	{'relation': 'collaborate'}
+Bin Li	Juan Bai	{'relation': 'collaborate'}
+Youlun Xiong	Zhouping Yin	{'relation': 'collaborate'}
+Youlun Xiong	Xinqing Yan	{'relation': 'collaborate'}
+Guiliang Zhu	Xinqing Yan	{'relation': 'collaborate'}
+Juan Bai	Yan Xu	{'relation': 'collaborate'}
+Juan Bai	Xinqing Yan	{'relation': 'collaborate'}
+Wei Liu	Yan Xu	{'relation': 'collaborate'}
+Wei Liu	Wei Liu	{'relation': 'collaborate'}
+Yan Xu	Xinqing Yan	{'relation': 'collaborate'}
+Yan Xu	Yan Xu	{'relation': 'collaborate'}
+Zhouping Yin	Xinqing Yan	{'relation': 'collaborate'}

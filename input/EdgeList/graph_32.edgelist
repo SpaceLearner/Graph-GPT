@@ -1,26 +1,36 @@
-Hsiao-Wuen Hon	Jue Wang	{'relation': 'collaborate'}
-Hsiao-Wuen Hon	Hang Li	{'relation': 'collaborate'}
-Shi-Min Hu	Jue Wang	{'relation': 'collaborate'}
-Shi-Min Hu	Bin Liu	{'relation': 'collaborate'}
-Bingheng Lu	Jue Wang	{'relation': 'collaborate'}
-Bin Liu	Jue Wang	{'relation': 'collaborate'}
-Bin Liu	Fei-Yue Wang	{'relation': 'collaborate'}
-Chang Tian	Jue Wang	{'relation': 'collaborate'}
-Norman P. Jouppi	Jue Wang	{'relation': 'collaborate'}
-Adam Finkelstein	Jue Wang	{'relation': 'collaborate'}
-Adam Finkelstein	Sunghyun Cho	{'relation': 'collaborate'}
-Shuming Tang	Fei-Yue Wang	{'relation': 'collaborate'}
-Shuming Tang	Jue Wang	{'relation': 'collaborate'}
-Andrew Howard	Jue Wang	{'relation': 'collaborate'}
-Jia Chen	Jue Wang	{'relation': 'collaborate'}
-Jue Wang	Hang Li	{'relation': 'collaborate'}
-Jue Wang	Fei-Yue Wang	{'relation': 'collaborate'}
-Jue Wang	Liang Ding	{'relation': 'collaborate'}
-Jue Wang	Hua Huang	{'relation': 'collaborate'}
-Jue Wang	Hongyu Zhang	{'relation': 'collaborate'}
-Jue Wang	Sunghyun Cho	{'relation': 'collaborate'}
-Jue Wang	Shancang Li	{'relation': 'collaborate'}
-Jue Wang	Suqing Han	{'relation': 'collaborate'}
-Jue Wang	Xiao-Shan Gao	{'relation': 'collaborate'}
-Jue Wang	Jue Wang	{'relation': 'collaborate'}
-Hua Huang	Fei-Yue Wang	{'relation': 'collaborate'}
+Michael J. Gallivan	Manju K. Ahuja	{'relation': 'collaborate'}
+Michael J. Gallivan	Monica Adya	{'relation': 'collaborate'}
+Michael J. Gallivan	A. Woszczynski	{'relation': 'collaborate'}
+Mohan R Tanniru	Kelly J. Fadel	{'relation': 'collaborate'}
+Mohan R Tanniru	Susan A. Brown	{'relation': 'collaborate'}
+Mohan R Tanniru	Suzanne P. Weisband	{'relation': 'collaborate'}
+Dennis F. Galletta	Kelly J. Fadel	{'relation': 'collaborate'}
+Dennis F. Galletta	Alexandra Durcikova	{'relation': 'collaborate'}
+Dennis F. Galletta	Manju K. Ahuja	{'relation': 'collaborate'}
+Dennis F. Galletta	Brian Butler	{'relation': 'collaborate'}
+Ayoung Suh	Manju K. Ahuja	{'relation': 'collaborate'}
+Thomas Meservy	Matthew L. Jensen	{'relation': 'collaborate'}
+Thomas Meservy	Kelly J. Fadel	{'relation': 'collaborate'}
+Chris Ogan	Manju K. Ahuja	{'relation': 'collaborate'}
+Kelly J. Fadel	Brian Butler	{'relation': 'collaborate'}
+Kelly J. Fadel	Hoon S. Cha	{'relation': 'collaborate'}
+Kelly J. Fadel	Matthew L. Jensen	{'relation': 'collaborate'}
+Kelly J. Fadel	Alexandra Durcikova	{'relation': 'collaborate'}
+Kelly J. Fadel	Elisa Mattarelli	{'relation': 'collaborate'}
+Kelly J. Fadel	Susan A. Brown	{'relation': 'collaborate'}
+Kelly J. Fadel	Suzanne P. Weisband	{'relation': 'collaborate'}
+Ajit Kambil	Manju K. Ahuja	{'relation': 'collaborate'}
+Monica Adya	Manju K. Ahuja	{'relation': 'collaborate'}
+Monica Adya	A. Woszczynski	{'relation': 'collaborate'}
+David E Pingry	M. E. Thatcher	{'relation': 'collaborate'}
+David E Pingry	Hoon S. Cha	{'relation': 'collaborate'}
+David E Pingry	Manju K. Ahuja	{'relation': 'collaborate'}
+Manju K. Ahuja	A. Woszczynski	{'relation': 'collaborate'}
+Manju K. Ahuja	Hoon S. Cha	{'relation': 'collaborate'}
+Manju K. Ahuja	M. E. Thatcher	{'relation': 'collaborate'}
+Alexandra Durcikova	Susan A. Brown	{'relation': 'collaborate'}
+Alexandra Durcikova	Hoon S. Cha	{'relation': 'collaborate'}
+Alexandra Durcikova	Brian Butler	{'relation': 'collaborate'}
+Alexandra Durcikova	Suzanne P. Weisband	{'relation': 'collaborate'}
+Hoon S. Cha	M. E. Thatcher	{'relation': 'collaborate'}
+Elisa Mattarelli	Suzanne P. Weisband	{'relation': 'collaborate'}

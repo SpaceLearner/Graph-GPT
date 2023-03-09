@@ -1,177 +1,142 @@
 graph [
   node [
     id 0
-    label "Ming Li"
-    affiliation "Computer Graphics Group, RWTH Aachen University, Aachen, Germany"
-    research "mobile device, dynamic tiling display, interactive display surface"
+    label "Offer Pazy"
+    affiliation "48 Beeri St., TelAviv 64233, Israel"
+    research "real-time Ada application, task termination, Ada community"
   ]
   node [
     id 1
-    label "Li Zhang"
-    affiliation "Beihang University, Beijing, China"
-    research "customer satisfaction, web customer satisfaction, iterative model"
+    label "Dennis Cornhill"
+    affiliation "Honeywell, Minneapolis, MN"
+    research "Ada entity, Ada Program Partitioning Language, Ada ProgramsAda Program Partitioning"
   ]
   node [
     id 2
-    label "Chijun Zhang"
-    affiliation "Nan"
-    research "atmospheric quality, ApplicationsAtmospheric quality assessment, atmospheric environment"
+    label "Jack C. Wileden"
+    affiliation "Computer Science Department, University of Massachussets, Amherst, USA"
+    research "software system, software engineering, concurrent software system"
   ]
   node [
     id 3
-    label "Gilman Tolle"
-    affiliation "Arch Rock Corporation, San Francisco, CA"
-    research "sensor network, node wireless, physical information"
+    label "Mike Kamrad"
+    affiliation "ARTEWG Chair, Honeywell, Kamrad at HIMULTICS"
+    research "inter-program communication, session summary, Ada experience report"
   ]
   node [
     id 4
-    label "Ruoming Pang"
+    label "Rakesh Jha"
     affiliation "Nan"
-    research "Oblivious Hashing, remote code authentication, implicit computation"
+    research "application behavior, data-flow application, adaptive resource allocation"
   ]
   node [
     id 5
-    label "T. V. Lakshman"
-    affiliation "Univ. of Maryland, College Park, MD"
-    research "communication scheme, decentralized consensus protocol, message interchange"
+    label "Dock Allen"
+    affiliation "Control Data Corporation, Bloomington, MN"
+    research "real-time applicationsAda run-time environment, tailored run-time environment"
   ]
   node [
     id 6
-    label "Xiaoou Tang"
-    affiliation "The Chinese University of Hong Kong, Shatin"
-    research "example-based image stylization, guidance image, single image"
+    label "J. Bamberger"
+    affiliation "TRW Defense Systems Group, Redondo Beach CA"
+    research "software engineering, Software Process Practicum, software quality"
   ]
   node [
     id 7
-    label "Huimin Zhang"
-    affiliation "Nan"
-    research "SOACloud computing, cloud computing, cloud provider"
+    label "David Eichmann"
+    affiliation "School of Library and Information Science, The University of Iowa"
+    research "video data, knowledge transfer, video event"
   ]
   node [
     id 8
-    label "HongJiang Zhang"
-    affiliation "Microsoft Research China, Haidain District, Beijing"
-    research "Content-based video browsing, video browsing"
+    label "Fred Maymir-Ducharme"
+    affiliation "Loral Defense SystemsEast, Reston, VA"
+    research "domain analysis, domain analysis technology, dynamic priority"
   ]
   node [
     id 9
-    label "Yongmei He"
+    label "Richard Fairley"
     affiliation "Nan"
-    research "Computer Specialty, economical college, computer graduate"
+    research ""
   ]
   node [
     id 10
-    label "Xuming Han"
-    affiliation "Nan"
-    research "economical college, Computer Specialty, bilingual teaching"
+    label "Leon G. Stucki"
+    affiliation "Pingree Park, Colorado"
+    research "software engineering, software engineer, mythical software engineer"
   ]
   node [
     id 11
-    label "K. Panusopone"
-    affiliation "Dept. of Adv. Technol., Gen. Instrum., San Diego, CA"
-    research "proposed method, interlaced video, progressive image transmission"
+    label "C. Atkinson"
+    affiliation "Nan"
+    research "Multidimensional Systemic Representation, Actor Network Theory, Actor Networks"
   ]
   node [
     id 12
-    label "Guojun Chen"
-    affiliation "College of Computer and Communication Engineering, China University of Petroleum, Dongying, China"
-    research "feature point, Polyhedral Visual Hull, original model"
+    label "Erich Hughes"
+    affiliation "The MITRE Corporation, Bedford MA"
+    research "dependable semantic web, semantic web, legacy application"
   ]
   node [
     id 13
-    label "Jing Wang"
-    affiliation "Department of Experimental Statistics, Louisiana State University, Baton Rouge, LA 70803, USA"
-    research "proposed MCEM algorithm, Markov chain, independent sample"
+    label "Charles McKay"
+    affiliation "Interfaces, UHCL"
+    research "multiple contractor, lifecycle software process, prime software contractor"
   ]
   node [
     id 14
-    label "Santosh Kumar"
-    affiliation "University of Memphis, TN"
-    research "full coverage, Alpha Coverage, Sparse WiFi deployment"
+    label "K A Gilroy"
+    affiliation "Harris Corporation, Melbourne, Florida"
+    research "Ada software, automated transformation, Ada language"
   ]
   node [
     id 15
-    label "Yuanyuan Zhou"
-    affiliation "University of California, San Diego"
-    research "Storage Technologies, USENIX conference"
+    label "Joseph K. Cross"
+    affiliation "Lockheed Martin Tactical Systems, St. Paul, Minnesota"
+    research "mission-critical DRE system, Fault-Tolerant CORBA, Real-Time CORBA"
   ]
   node [
     id 16
-    label "Limin Wang"
-    affiliation "Network Protocols and Systems Research Department, AlcatelLucent Bell Labs, Murray Hill, New Jersey"
-    research "service provider, user request, enterprise location"
+    label "Alan R. Segal"
+    affiliation "NBI, Inc. U.S.A."
+    research "large-scale software system component, software system design, abstract specification"
   ]
   node [
     id 17
-    label "St&#233;phane Betg&#233;-Brezetz"
-    affiliation "AlcatelLucent Bell Labs, Villarceaux, France"
-    research "sensitive file, user profile, cloud user"
+    label "Greg Eisenhauer"
+    affiliation "College of Computing, Georgia Institute of Technology, Atlanta, Georgia"
+    research "data analytics, data staging, output data"
   ]
   node [
     id 18
-    label "Chris Anderson"
-    affiliation "Microsoft, Redmond, USA"
-    research "content call, tail content, text content"
+    label "J. Ramanathan"
+    affiliation "MITRE Corp., Bedford, MA"
+    research "Gaussian process, alternate Gaussian process, covariance structure"
   ]
   node [
     id 19
-    label "R. Ramnath"
-    affiliation "National University of Singapore"
-    research "efficient parallel software, software dependency, software engineering curriculum"
+    label "Bhavani M. Thuraisingham"
+    affiliation "UT Dallas, Richardson"
+    research "RDF data, data stream, multimedia data"
   ]
   edge [
     source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 0
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
+    target 3
     relation "collaborate"
   ]
   edge [
     source 1
-    target 10
+    target 4
     relation "collaborate"
   ]
   edge [
     source 1
-    target 2
+    target 3
     relation "collaborate"
   ]
   edge [
     source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -186,32 +151,12 @@ graph [
   ]
   edge [
     source 2
-    target 7
+    target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
     relation "collaborate"
   ]
   edge [
@@ -221,142 +166,127 @@ graph [
   ]
   edge [
     source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 15
     relation "collaborate"
   ]
   edge [
     source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
     target 17
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 5
     target 13
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 16
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 19
+    source 9
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 18
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 16
     relation "collaborate"
   ]
   edge [
-    source 16
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
     target 19
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 13
+    target 14
     relation "collaborate"
   ]
   edge [
     source 16
     target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 18
-    target 19
     relation "collaborate"
   ]
 ]

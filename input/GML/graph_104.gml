@@ -1,172 +1,162 @@
 graph [
   node [
     id 0
-    label "Ligang Wu"
+    label "Yoshihiro Okada"
     affiliation "Nan"
-    research "discrete-time Markovian jump singular, sufficient condition, Fault Detection Filter Design"
+    research "Intelligent Box, medical training system, collaborative environment"
   ]
   node [
     id 1
-    label "Zhiping Lin"
+    label "T. Hisamitsu"
     affiliation "Nan"
-    research "good solution, Wavelet Packet Multi-layer Perceptron, Mackey-Glass benchmark time series"
+    research "iD PHOTO disk, magneto-optical disk, small re-writable optical disk"
   ]
   node [
     id 2
-    label "Krzysztof Ga&#322;kowski"
-    affiliation "Institute of Physics, Nicolaus Copernicus University in Torun, Torun, Poland"
-    research "control law, new result, systems theoretic"
+    label "Cheng-Lin Liu"
+    affiliation "Nan"
+    research "recognition performance, Chinese Handwriting Recognition, delta feature"
   ]
   node [
     id 3
-    label "I. V. Gaishun"
-    affiliation "Institute of Mathematics, Belarussian National Academy of Sciences, Minsk, Belarus"
-    research "two-parameter discrete system, linear feedback, controllable system"
+    label "R. Mine"
+    affiliation "Hitachi Ltd., Central Research Laboratory, Tokyo, 1858601 Japan"
+    research "character string, character classification, character classifier"
   ]
   node [
     id 4
-    label "Paul L. Lewin"
-    affiliation "School of Electronics and Computer Science, University of Southampton, Southampton, UK"
-    research "experimental result, new result, transformer winding"
+    label "&#201;ric Anquetil"
+    affiliation "INSA de Rennes, France"
+    research "recognition system, handwritten character recognition system, recognition process"
   ]
   node [
     id 5
-    label "Shengyuan Xu"
-    affiliation "Nan"
-    research "Model Reduction, coupling nonconvex rank constraint, explicit parametrization"
+    label "Guy Lorette"
+    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
+    research "Lexical Analyzer, new modeling method, whole dictionary"
   ]
   node [
     id 6
-    label "N. P. Karampetakis"
-    affiliation "Department of Mathematics, Faculty of Sciences, Aristotle University of Thessaloniki, 54006 Thessaloniki, Greece"
-    research "Drazin inverse, rational matrix, two-variable polynomial matrix"
+    label "M. Cheriet"
+    affiliation "Ecole de Technologie Superieure (Canada)"
+    research "interventional image, computational model, biological structures result"
   ]
   node [
     id 7
-    label "E. Rogers"
-    affiliation "Univ. of Southampton, Southampton, UK"
-    research "control law, systems theoretic, new result"
+    label "H. Ikeda"
+    affiliation "Hiroshima Univ., Hiroshima City, Japan"
+    research "statistical data, generalized Hiroshima University, balanced filing scheme"
   ]
   node [
     id 8
-    label "D. H. Owens"
-    affiliation "Department of Automatic Control and Systems Engineering, University of Sheffield, Mappin Street, Sheffield S1 3JD, UK"
-    research "systems theoretic, systems theory, distinct class"
+    label "Kazuki Nakashima"
+    affiliation "Nan"
+    research "junction pattern, frame line, form documentsForm document structure"
   ]
   node [
     id 9
-    label "Olivier Bachelier"
-    affiliation "Universit&#233; de Poitiers, LAIIENSIP, 2 rue Pierre Brousse, B&#237;timent B25, BP633, 86022 Poitiers Cedex, France"
-    research "various subregions, Popov lemma, clustering region"
+    label "Mounim A. El-Yacoubi"
+    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
+    research "Street Name, street line, street line image"
   ]
   node [
     id 10
-    label "V. R. Sule"
-    affiliation "Computational Laboratories Ltd., Pune, India"
-    research "stabilizable plant, transfer matrix, pass profile"
+    label "H. Fujisawa"
+    affiliation "Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3"
+    research "character recognition, recognition accuracy, document recognition"
   ]
   node [
     id 11
-    label "Joerg Velten"
-    affiliation "Communication Theory, University of Wuppertal, Wuppertal, Germany 42119"
-    research "present paper, velocity filter, n-D system"
+    label "Yusuke Matsunaga"
+    affiliation "Guest Editor"
+    research "experimental result, proposed method, prefix graph"
   ]
   node [
     id 12
-    label "Jaros&#322;aw Gramacki"
-    affiliation "Nan"
-    research "MATLAB toolbox, linear system, linear systemsDevelopment"
+    label "Robert E. Frederking"
+    affiliation "Language Technologies Institute, Pittsburgh, PA"
+    research "speech translation, machine translation system, medical speech translation"
   ]
   node [
     id 13
-    label "Chris T. Freeman"
-    affiliation "School of Electronics and Computer Science, University of Southampton, Southampton, UK"
-    research "reference signal, reference governor, new result"
+    label "L Kerschberg"
+    affiliation "ECenter for EBusiness and Department of Information and Software Engineering, George Mason University Drive, Fairfax, VA 220304444 USA. <rfc822>kersch@gmu.edu</rfc822>"
+    research "data analysis, data inheritance, data integration"
   ]
   node [
     id 14
-    label "James Lam"
-    affiliation "Department of Mechanical Engineering, The University of Hong Kong, Pokfulam Road, Hong Kong"
-    research "state feedback H, sufficient condition, consensus problem"
+    label "George Nagy"
+    affiliation "Nan"
+    research "relational table, web table, CSV table"
   ]
   node [
     id 15
-    label "Anton Kummert"
-    affiliation "University of Wuppertal"
-    research "present paper, control law, classical linear systems theory"
+    label "Jairo Rocha"
+    affiliation "Department of Mathematics and Computer Science, Research Institute of Health Science (IUNICS), University of the Balearic Islands, 07122 Palma de Mallorca, Spain"
+    research "regular region, Maximal Trapezoid Set, polygonal approximation"
   ]
   node [
     id 16
-    label "J. B. Edwards"
-    affiliation "Department of Mining, McGill University 3480 University St., Montreal Quebec, Canada H3A 2A7 and Canadian Centre for Automation and Robotics in Mining"
-    research "tray-type column, first-order-lag behaviour, earlier investigation"
+    label "Seong-Whan Lee"
+    affiliation "Dept. of Brain and Cognitive Eng. Korea Univ., Seoul, Korea"
+    research "sub-interaction model, dynamic probabilistic model, human interaction"
   ]
   node [
     id 17
-    label "Zhonglun Cai"
-    affiliation "School of Electronics and Computer Science, University of Southampton, Southampton, UK"
-    research "DHC system, co-reference resolution, new result"
+    label "Sriharsha Veeramachaneni"
+    affiliation "Utah State Univ., Logan"
+    research "assertion-based debugger, real-time system"
   ]
   node [
     id 18
-    label "Peter H. Bauer"
-    affiliation "Department of Electrical Engineering, Notre Dame, IN"
-    research "sufficient condition, non-negative impulse response, Roesser model"
+    label "K. Marukawa"
+    affiliation "Nan"
+    research "expression pattern, street number, class symbol lattice"
   ]
   node [
     id 19
-    label "Driss Mehdi"
-    affiliation "LIASENSIP, University of Poitiers, LIASENSIP, Poitiers, France 86022"
-    research "linear matrix inequality, Robust Root-Clustering, fuzzy model"
+    label "M. Ohki"
+    affiliation "Nippon Institute of Technology"
+    research "program comprehension, program visualization tool"
   ]
   edge [
     source 0
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 10
     relation "collaborate"
   ]
   edge [
     source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 15
+    target 16
     relation "collaborate"
   ]
   edge [
     source 1
-    target 15
+    target 10
     relation "collaborate"
   ]
   edge [
     source 1
-    target 2
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 5
+    source 2
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
     target 14
     relation "collaborate"
   ]
   edge [
     source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 3
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -175,113 +165,43 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 3
     target 10
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 8
+    source 4
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 4
     target 5
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
+    source 5
+    target 10
     relation "collaborate"
   ]
   edge [
     source 5
-    target 14
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 13
+    source 5
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 8
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -291,77 +211,67 @@ graph [
   ]
   edge [
     source 7
-    target 15
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 9
+    source 8
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 14
+    source 9
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 18
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 12
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 10
     target 16
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 10
     target 19
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 10
     target 15
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 10
     target 17
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 15
+    source 10
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 19
+    source 14
+    target 17
     relation "collaborate"
   ]
 ]

@@ -1,43 +1,35 @@
-M. Arif	Nicole Vincent	{'relation': 'collaborate'}
-M. Arif	T. Brouard	{'relation': 'collaborate'}
-Gilles Venturini	Christiane Guinot	{'relation': 'collaborate'}
-Gilles Venturini	M. Slimane	{'relation': 'collaborate'}
-Gilles Venturini	N. Monmarchè	{'relation': 'collaborate'}
-Gilles Venturini	T. Brouard	{'relation': 'collaborate'}
-Gilles Venturini	Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-Nicole Vincent	T. Brouard	{'relation': 'collaborate'}
-Nicole Vincent	M. Slimane	{'relation': 'collaborate'}
-Nicole Vincent	Dominique Burger	{'relation': 'collaborate'}
-Nicole Vincent	Jean-Yves Ramel	{'relation': 'collaborate'}
-Manuel Barbosa	T. Brouard	{'relation': 'collaborate'}
-Josep Lladós	Jean-Yves Ramel	{'relation': 'collaborate'}
-Josep Lladós	Mathieu Delalandre	{'relation': 'collaborate'}
-Josep Lladós	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Josep Lladós	T. Brouard	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	T. Brouard	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	M. Slimane	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	M. C. Mraghni	{'relation': 'collaborate'}
-Pierre Liardet	S. Aupetit	{'relation': 'collaborate'}
-Pierre Liardet	M. Slimane	{'relation': 'collaborate'}
-Pierre Liardet	N. Monmarchè	{'relation': 'collaborate'}
-Mathieu Delalandre	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Mathieu Delalandre	Jean-Yves Ramel	{'relation': 'collaborate'}
-Mathieu Delalandre	T. Brouard	{'relation': 'collaborate'}
-M. Slimane	S. Aupetit	{'relation': 'collaborate'}
-M. Slimane	C. Gu&#233/ret	{'relation': 'collaborate'}
-M. Slimane	Pierre Gaucher	{'relation': 'collaborate'}
-M. Slimane	Christiane Guinot	{'relation': 'collaborate'}
-M. Slimane	Dominique Burger	{'relation': 'collaborate'}
-M. Slimane	T. Brouard	{'relation': 'collaborate'}
-M. Slimane	N. Monmarchè	{'relation': 'collaborate'}
-C. Gu&#233/ret	N. Monmarchè	{'relation': 'collaborate'}
-Jean-Yves Ramel	Hubert Cardot	{'relation': 'collaborate'}
-Jean-Yves Ramel	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Jean-Yves Ramel	T. Brouard	{'relation': 'collaborate'}
-T. Brouard	Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-T. Brouard	Hubert Cardot	{'relation': 'collaborate'}
-N. Monmarchè	Pierre Gaucher	{'relation': 'collaborate'}
-N. Monmarchè	Christiane Guinot	{'relation': 'collaborate'}
-N. Monmarchè	S. Aupetit	{'relation': 'collaborate'}
-Pierre Gaucher	S. Aupetit	{'relation': 'collaborate'}
-Christiane Guinot	S. Aupetit	{'relation': 'collaborate'}
+Larry Travis	Charles Kellogg	{'relation': 'collaborate'}
+Larry Travis	Philip Klahr	{'relation': 'collaborate'}
+Douglas B. Lenat	Philip Klahr	{'relation': 'collaborate'}
+Douglas B. Lenat	Donald A. Waterman	{'relation': 'collaborate'}
+Douglas B. Lenat	Frederick Hayes-Roth	{'relation': 'collaborate'}
+William S. Faught	S J Rosenschein	{'relation': 'collaborate'}
+William S. Faught	Donald A. Waterman	{'relation': 'collaborate'}
+William S. Faught	Philip Klahr	{'relation': 'collaborate'}
+Philip C. Jackson	Robert E. Veres	{'relation': 'collaborate'}
+Philip C. Jackson	Philip Klahr	{'relation': 'collaborate'}
+David J. McArthur	Sanjai Narian	{'relation': 'collaborate'}
+David J. McArthur	Philip Klahr	{'relation': 'collaborate'}
+S J Rosenschein	Donald A. Waterman	{'relation': 'collaborate'}
+S J Rosenschein	Philip Klahr	{'relation': 'collaborate'}
+S J Rosenschein	Frederick Hayes-Roth	{'relation': 'collaborate'}
+John W. Ellis	Philip Klahr	{'relation': 'collaborate'}
+John W. Ellis	Sanjai Narian	{'relation': 'collaborate'}
+L. D. Erman	Frederick Hayes-Roth	{'relation': 'collaborate'}
+L. D. Erman	A. Carlisle Scott	{'relation': 'collaborate'}
+L. D. Erman	D. Raj Reddy	{'relation': 'collaborate'}
+L. D. Erman	J. Davidson	{'relation': 'collaborate'}
+Frederick Hayes-Roth	Philip Klahr	{'relation': 'collaborate'}
+Frederick Hayes-Roth	D. Raj Reddy	{'relation': 'collaborate'}
+Frederick Hayes-Roth	J. Davidson	{'relation': 'collaborate'}
+Frederick Hayes-Roth	Donald A. Waterman	{'relation': 'collaborate'}
+Frederick Hayes-Roth	David J. Mostow	{'relation': 'collaborate'}
+Charles Kellogg	Philip Klahr	{'relation': 'collaborate'}
+Robert E. Veres	Philip Klahr	{'relation': 'collaborate'}
+A. Carlisle Scott	Philip Klahr	{'relation': 'collaborate'}
+Donald A. Waterman	Philip Klahr	{'relation': 'collaborate'}
+Bhashyam Ramesh	Antoine Abche	{'relation': 'collaborate'}
+Bhashyam Ramesh	Philip Klahr	{'relation': 'collaborate'}
+Antoine Abche	Philip Klahr	{'relation': 'collaborate'}
+Philip Klahr	David J. Mostow	{'relation': 'collaborate'}
+Philip Klahr	Sanjai Narian	{'relation': 'collaborate'}

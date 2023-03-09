@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jorge Parra">
+      <data key="affiliation">IKERLANIK4 Technology Research Center, Spain, Spain</data>
+      <data key="research">ambient media, smart home environment, user need</data>
+    </node>
+    <node id="Qing Chen">
+      <data key="affiliation">Institute of Automation, Shanghai Jiao Tong University, Shanghai 200030, Peoples' Republic of China</data>
+      <data key="research">continuous annealing furnace, quality model, continuous annealing process</data>
+    </node>
+    <node id="Yong Rui">
+      <data key="affiliation">Microsoft China R&amp;D Group, Beijing, China</data>
+      <data key="research">proposed approach, proposed method, image databases</data>
+    </node>
+    <node id="Peter Frykman">
+      <data key="affiliation">Geological Survey of Denmark and Greenland (GEUS) Thoravej 8, DK2400 Copenhagen NV, Denmark</data>
+      <data key="research">LMC scaling, Variogram scaling, histogram scaling</data>
+    </node>
+    <node id="Chong-Wah Ngo">
+      <data key="affiliation">City University of Hong Kong</data>
+      <data key="research">Web-Scale Near-Duplicate Search, multimedia content analysis, original content</data>
+    </node>
+    <node id="ASM Mahfujur Rahman">
+      <data key="affiliation">University of Ottawa, Ottawa, ON, Canada</data>
+      <data key="research">mobile phone, IR camera, Spatial-geometric approach</data>
+    </node>
+    <node id="Xiaojun Shen">
+      <data key="affiliation">Univ. of Illinois at UrbanaChampaign, Urbana</data>
+      <data key="research">visibility graph</data>
+    </node>
+    <node id="Reza GhasemAghaei">
+      <data key="affiliation">Carleton University, Ottawa, Ontario, Canada</data>
+      <data key="research">arm gesture, packet loss, actual many-to-one sensory data</data>
+    </node>
+    <node id="M. Anwar Hossain">
+      <data key="affiliation">King Saud University, Riyadh, Saudi Arabia</data>
+      <data key="research">ambient media, web service, proposed method</data>
+    </node>
+    <node id="Atif Alamri">
+      <data key="affiliation">King Saud University, Riyadh, Saudi Arabia</data>
+      <data key="research">dynamic web service composition, proposed framework, virtual environment</data>
+    </node>
+    <node id="Mauricio Orozco">
+      <data key="affiliation">New York University Abu Dhabi, UAE</data>
+      <data key="research">haptic device, haptic data, haptic research</data>
+    </node>
+    <node id="Bora Oz">
+      <data key="affiliation">Department of Civil and Environmental Engineering, University of Alberta, 220 Civil/Electrical Engineering Bldg., Edmonton, Alberta, Canada T6G 2G7</data>
+      <data key="research">histogram reproduction, conditional distribution, direct sequential simulation</data>
+    </node>
+    <node id="Clayton V. Deutsch">
+      <data key="affiliation">Department of Civil and Environmental Engineering, University of Alberta, 220 Civil/Electrical Engineering Bldg., Edmonton, Alberta, Canada T6G 2G7</data>
+      <data key="research">training image, multiple-point statistic, secondary data</data>
+    </node>
+    <node id="Jongeun Cha">
+      <data key="affiliation">Multimedia Communications Research Laboratory (MCR Lab) School of Information Technology and Engineering (SITE), University of Ottawa, Ottawa, Canada</data>
+      <data key="research">haptic interaction, proposed system, haptic rendering algorithm</data>
+    </node>
+    <node id="A. Richard Burke">
+      <data key="affiliation">Nan</data>
+      <data key="research">PCS system design issue, microwave OFS</data>
+    </node>
+    <node id="N. D. Georganas">
+      <data key="affiliation">Distributed and Collaborative Virtual Environments</data>
+      <data key="research">virtual environment, experimental result, proposed algorithm</data>
+    </node>
+    <node id="Thomas T. Tran">
+      <data key="affiliation">Nan</data>
+      <data key="research">search result, smart mirror system, augmented made-up face</data>
+    </node>
+    <node id="W. Gueaieb">
+      <data key="affiliation">Eng. Div., New York Univ., Abu Dhabi, United Arab Emirates</data>
+      <data key="research">sensory data, customized RFID system, proposed system</data>
+    </node>
+    <node id="Md. Abdur Rahman">
+      <data key="affiliation">Umm AlQura University, Makkah, Saudi Arabia</data>
+      <data key="research">tactile device, tactile feeling, disabled child</data>
+    </node>
+    <node id="Abdulmotaleb El Saddik">
+      <data key="affiliation">School of Electrical Engineering and Computer Science (EECS), Ottawa, Ontario, Canada</data>
+      <data key="research">experimental result, multimedia application, multimedia content</data>
+    </node>
+    <edge source="Jorge Parra" target="M. Anwar Hossain">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jorge Parra" target="ASM Mahfujur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jorge Parra" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Chen" target="Xiaojun Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Chen" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Chen" target="N. D. Georganas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Chen" target="ASM Mahfujur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Rui" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Rui" target="N. D. Georganas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Frykman" target="Bora Oz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Frykman" target="Clayton V. Deutsch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chong-Wah Ngo" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Md. Abdur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Reza GhasemAghaei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Thomas T. Tran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="W. Gueaieb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Jongeun Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="M. Anwar Hossain">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="N. D. Georganas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="ASM Mahfujur Rahman" target="Xiaojun Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojun Shen" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojun Shen" target="N. D. Georganas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Reza GhasemAghaei" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Reza GhasemAghaei" target="W. Gueaieb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Reza GhasemAghaei" target="Md. Abdur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Anwar Hossain" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Anwar Hossain" target="Atif Alamri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Anwar Hossain" target="W. Gueaieb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Anwar Hossain" target="Md. Abdur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Atif Alamri" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Atif Alamri" target="Jongeun Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mauricio Orozco" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mauricio Orozco" target="Jongeun Cha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bora Oz" target="Thomas T. Tran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bora Oz" target="Clayton V. Deutsch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clayton V. Deutsch" target="Thomas T. Tran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jongeun Cha" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jongeun Cha" target="Md. Abdur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Richard Burke" target="Thomas T. Tran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. D. Georganas" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas T. Tran" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Gueaieb" target="Md. Abdur Rahman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Gueaieb" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Md. Abdur Rahman" target="Abdulmotaleb El Saddik">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,137 +1,147 @@
 graph [
   node [
     id 0
-    label "Donald German"
-    affiliation "Nan"
-    research "Bayesian restoration, Gibbs distribution, stochastic relaxation"
+    label "Satoshi Kobayashi"
+    affiliation "National Institute of Informatics, Tokyo, Japan"
+    research "semantic wiki, proposed Semantic Wiki, simple Wiki syntax"
   ]
   node [
     id 1
-    label "Henry P. Wynn"
-    affiliation "Department of Statistics, London School of Economics, B.P. 121, 2000 route des Lucioles, WC2A 2AE, London, UK"
-    research "Betti number, coherent system, algebraic analysis"
+    label "Kensei Tsuchida"
+    affiliation "Toyo Univ., Saitama, Japan"
+    research "tree-structured diagram, attribute graph grammar, base model"
   ]
   node [
     id 2
-    label "Leslie M. Cope"
-    affiliation "Department of Mathematical Sciences, Johns Hopkins University, 3400 N. Charles St, Baltimore, MD 21218, USA,"
-    research "Affymetrix GeneChip data, expression measure, Affymetrix probe level data"
+    label "Kengo Sato"
+    affiliation "Dept. of Computer Science, Japan Biological Informatics Consortium, 10F TIME24 Building, 245 Aomi, Kotoku, Tokyo, Japan"
+    research "Grammatical Inference, Computer Science, International Colloquium"
   ]
   node [
     id 3
-    label "R E Stone"
-    affiliation "AT&#38;T Bell Laboratories, Holmdel, NJ"
-    research "linear complementarity problem, Homological Characterization, Q-MatricesA real square matrix"
+    label "Takashi Mihara"
+    affiliation "Department of Management Science, Kyushu Tokai University, 911 Toroku, Kumamoto 8628652, Japan"
+    research "quantum cryptosystems, polynomial time quantum algorithm, quantum secret key distribution"
   ]
   node [
     id 4
-    label "Onn Chan"
-    affiliation "Department of Mathematics, National University of Singapore, Kent Ridge, S119260, Republic of Singapore (email: onn.chan@ubs.com,taokai@yahoo.com)"
-    research "Markov chain, random walk, probability transition matrix"
+    label "Etsuji Tomita"
+    affiliation "Department of Information and Communication Engineering, Faculty of ElectroCommunications, The University of ElectroCommunications, Chofu, Tokyo, Japan"
+    research "mathcal L, mathcal X, mathcal C"
   ]
   node [
     id 5
-    label "Rafael A. Irizarry"
-    affiliation "Department of Biostatistics, Johns Hopkins University, 615 N. Wolfe St E3035, Baltimore, MD 21218, USA"
-    research "supplementary data, Supplementary information, ChIPx data"
+    label "Tadashi Yamazaki"
+    affiliation "Nan"
+    research "motor primitive, hobby-use humanoid robot, joint angle"
   ]
   node [
     id 6
-    label "Carey E. Priebe"
-    affiliation "Naval Ocean Systems Center, Code 421 San Diego, Ca. 92152 USA"
-    research "computer network data, data fusion, data point"
+    label "Kazutoshi Sasahara"
+    affiliation "Laboratory for Biolinguistics, Brain Science Institute, RIKEN, Saitama, Japan"
+    research "song syntax, Bengalese finch, song grammar"
   ]
   node [
     id 7
-    label "Nathan L. Kleinman"
-    affiliation "Options and Choices, Inc. (OCI), Cheyenne, Wyoming"
-    research "Common Random Numbers method, efficient optimization algorithm, stochastic approximation algorithm"
+    label "Miki Takahasi"
+    affiliation "Lab. for Biolinguistics, Brain Science Institute, RIKEN, 21 Hirosawa, Wakoshi, Saitama, 3510198, Japan"
+    research "song syntax, Bengalese finch, positive sample"
   ]
   node [
     id 8
-    label "David Gilbert"
-    affiliation "Nan"
-    research "PARLOG Translator"
+    label "Emiko Suzuki"
+    affiliation "Tokyo Kasei Gakudn Tsukuba Womens University, Tsukuba, Ibaraki, Japan"
+    research "sign language, deaf people, bilingual sign language dictionary"
   ]
   node [
     id 9
-    label "Aik Choon Tan"
-    affiliation "Bioinformatics Research Centre, Department of Computing Science, 12 Lilybank Gardens, University of Glasgow, Glasgow G12 8QQ, UK"
-    research "experimental data, different biological data set, individual learning system"
+    label "Kazuo Ohta"
+    affiliation "The University of ElectroCommunications, Tokyo, Japan"
+    research "multisignature scheme, collision attack, sufficient condition"
   ]
   node [
     id 10
-    label "Giovanni Parmigiani"
-    affiliation "Nan"
-    research "biological process, open source, R package CoGAPS"
+    label "Kazuo Okanoya"
+    affiliation "Brain Science Institute, RIKEN, Wako, Saitama, Japan,Graduate School of Frontier Science, The University of Tokyo, Kashiwa, Chiba, Japan"
+    research "Bengalese finch, vocal learning, simple method"
   ]
   node [
     id 11
-    label "Daniel Q. Naiman"
-    affiliation "Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA"
-    research "multiple linkage test, Gaussian approximation, microarray data"
+    label "Takeo Yaku"
+    affiliation "The author is with the Dept. of Computer Science and System Analysis, Nihon University, Tokyo, 1560045 Japan."
+    research "tree-structured diagram, attribute graph grammar, ridge detection method"
   ]
   node [
     id 12
-    label "Xiaoling Wu"
+    label "Junji Nishino"
     affiliation "Nan"
-    research "NO2 Pollution Index, air pollution, air pollution pattern"
+    research "imperfect information game, Monte Carlo computer Daihinmin, Monte Carlo search"
   ]
   node [
     id 13
-    label "J. C. Spall"
-    affiliation "The Johns Hopkins University"
-    research "full system, stochastic approximation, complex system"
+    label "Tetsunosuke Fujisaki"
+    affiliation "Science Institute, IBM Japan, Ltd., Sanbancho, Chiyodaku, Tokyo, Japan"
+    research "Logic programming, Japanese text, Japanese text proofreadingProceedings"
   ]
   node [
     id 14
-    label "Michael F. Ochs"
-    affiliation "The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD"
-    research "functional genomics data pipeline, microarray data, supplementary data"
+    label "Hiroshi Unno"
+    affiliation "University of Tsukuba, Tsukuba, Japan"
+    research "scalable software model checker, complete verification, automated higher-order verification"
   ]
   node [
     id 15
-    label "Jian Feng"
-    affiliation "Airforce Military Representative Office Resident in Shenyang Region, PR China"
-    research "different mode, optimal control method, lubrication condition"
+    label "Noboru Kunihiro"
+    affiliation "The University of Tokyo, Kashiwa, Japan 2778561"
+    research "sufficient condition, collision attack, SC algorithm"
   ]
   node [
     id 16
-    label "Bahman Afsari"
-    affiliation "Nan"
-    research "binary classifier, k disjoint pair, Automated Micro-Array Classification Challenge"
+    label "Robert Beals"
+    affiliation "IDACCR Princeton, Princeton, NJ, USA"
+    research "matrix group, finite index, log n"
   ]
   node [
     id 17
-    label "Lei Xu"
+    label "Tetsuro Nishino"
     affiliation "Nan"
-    research "User Relationships, URPC-Rec algorithm, clusters user"
+    research "Polynomial-Time Algorithm, real-time droct, deterministic pushdown transducers"
   ]
   node [
     id 18
-    label "D. Geman"
-    affiliation "IMEDIA Project, INRIA Rocquencourt"
-    research "query image, image data, target image"
+    label "Setsuo Yamada"
+    affiliation "ATR Interpreting Telecommunications Research Laboratories, Hikaridai, Seikacho, Sorakugun, Kyoto, Japan"
+    research "proposed method, complete translation result, degrade translation efficiency"
   ]
   node [
     id 19
-    label "Raimond L. Winslow"
-    affiliation "Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA"
-    research "vector field, SA node, deformation diffeomorphic metric mapping"
+    label "Yasubumi Sakakibara"
+    affiliation "Department of Biosciences and Informatics, Keio University, CREST, JST, 3141 Hiyoshi, Kohokuku, Yokohama, 2238522, Japan (Email: <rfc822>yasu@bio.keio.ac.jp</rfc822>)"
+    research "RNA sequence, context-free grammar, E. coli"
   ]
   edge [
     source 0
-    target 16
+    target 19
     relation "collaborate"
   ]
   edge [
     source 0
-    target 9
+    target 4
     relation "collaborate"
   ]
   edge [
     source 0
-    target 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -140,58 +150,83 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 5
+    source 1
+    target 14
     relation "collaborate"
   ]
   edge [
     source 2
-    target 6
+    target 17
     relation "collaborate"
   ]
   edge [
     source 2
-    target 10
+    target 19
     relation "collaborate"
   ]
   edge [
     source 2
-    target 11
+    target 4
     relation "collaborate"
   ]
   edge [
     source 3
-    target 11
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 19
     relation "collaborate"
   ]
   edge [
     source 5
-    target 10
+    target 17
     relation "collaborate"
   ]
   edge [
     source 6
-    target 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 10
     relation "collaborate"
   ]
   edge [
     source 7
-    target 11
+    target 10
     relation "collaborate"
   ]
   edge [
     source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 13
     relation "collaborate"
   ]
   edge [
     source 8
-    target 9
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -200,87 +235,52 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 10
-    target 11
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 11
     target 14
     relation "collaborate"
   ]
   edge [
     source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
     target 17
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 18
+    source 12
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 15
+    source 13
+    target 17
     relation "collaborate"
   ]
   edge [
     source 14
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 17
     target 18
     relation "collaborate"
   ]
   edge [
     source 17
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 18
     target 19
     relation "collaborate"
   ]

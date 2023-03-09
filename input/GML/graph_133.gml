@@ -1,143 +1,123 @@
 graph [
   node [
     id 0
-    label "Tao Xie"
+    label "M. Pratt"
     affiliation "Nan"
-    research "existing availability metrics, corresponding estimation approach, invocation record"
+    research "Large-Scale Scientific ComputationAn, Lawrence Livermore National Laboratory, Tutorial Series Perspectives"
   ]
   node [
     id 1
-    label "Michal Moskal"
-    affiliation "Microsoft Research Redmond"
-    research "mobile device, verification methodology, live programming"
+    label "S. Vettermann"
+    affiliation "Nan"
+    research "Web-Centric Information Integration"
   ]
   node [
     id 2
-    label "Pratch Piyawongwisal"
-    affiliation "University of Illinois at UrbanaChampaign, Urbana, IL"
-    research "smart phone, emergency management, situational awareness"
+    label "D. Liu"
+    affiliation "Nan"
+    research "Personalized E-Catalogs, User Models, XML-based Metadata"
   ]
   node [
     id 3
-    label "Alex X. Liu"
-    affiliation "Department of Computer Science and Engineering, Michigan State University, East Lansing,"
-    research "TCAM chip, TCAM space, different TCAM encoding scheme"
+    label "Geir Westgaard"
+    affiliation "SimSurgery/Intervensjonssenteret University of Oslo, Stenergt. 1E, 0050 Oslo, Norway"
+    research "fair surface, irregular mesh, C1 surface"
   ]
   node [
     id 4
-    label "Muhammad Shahzad"
-    affiliation "Michigan State University, USA"
-    research "smart phone, tag population size, legitimate user"
+    label "Youdong Liang"
+    affiliation "CAD/CAM Research Center, Zhejiang University, P. R. OF CHINA"
+    research "surface patch, Geometric Continuity, geometric continuity equation"
   ]
   node [
     id 5
-    label "Ratul Mahajan"
-    affiliation "Microsoft Research"
-    research "field study, shared infrastructure, large number"
+    label "Xiuzi Ye"
+    affiliation "Nan"
+    research "point cloud, segmentation algorithm, topology information"
   ]
   node [
     id 6
-    label "J M. Bishop"
-    affiliation "Computing, Goldsmiths, University of London, London, UK"
-    research "software engineering, mobile device, Java Gently"
+    label "Ilia Baldine"
+    affiliation "MCNC, Research Triangle Park, NC"
+    research "network architecture, network resource, core dWDM network"
   ]
   node [
     id 7
-    label "Jaeyeon Jung"
-    affiliation "Mazu Networks,"
-    research "DNS caching, DNS black list, DNS cache"
+    label "R. Anderl"
+    affiliation "Technical University of Darmstadt, Germany"
+    research "design environment, environmental impact, Design Product Models"
   ]
   node [
     id 8
-    label "M. Eltabakh"
-    affiliation "Worcester Polytechnic Institute, Worcester, MA"
-    research "scientific data, corresponding data item, data collection"
+    label "Michael Stupperich"
+    affiliation "DaimlerChrysler"
+    research "agile practice, integrated variant management, variant configuration mechanism"
   ]
   node [
     id 9
-    label "Ahmed K. Elmagarmid"
-    affiliation "Qatar Computing Research Institute"
-    research "data stream, video data, data quality"
+    label "Johannes Bumiller"
+    affiliation "DaimlerChrysler Research and Technology, Ulm, Germany"
+    research "business process support, Process-oriented Information Systems, impact factor"
   ]
   node [
     id 10
-    label "Liang Yu"
-    affiliation "University of San Francisco, School of Management, San Francisco, CA 94117, USA"
-    research "potential customer base, advanced technology, diffusion process"
+    label "U. Langbecker"
+    affiliation "Nan"
+    research "Geometric Design, conic boundary curvesA note, finite quadric segment"
   ]
   node [
     id 11
-    label "Shahab Baqai"
-    affiliation "Department of Computer Science, LUMS School of Science and Engineering, Lahore Pakistan, Pakistan"
-    research "multimedia data, multimedia information, multimedia application"
+    label "M. Schmitt"
+    affiliation "Nan"
+    research "weight smoothing, approximation model, approximation problem"
   ]
   node [
     id 12
-    label "Arjmand Samuel"
-    affiliation "Purdue University"
-    research "personal healthcare information management, policy heterogeneity, policy specification language"
+    label "Daniel Stevenson"
+    affiliation "MCNC, 3021 Cornwallis Rd., P.O. Box 12889, Research Triangle Park, NC"
+    research "OBS network, hardware implementation, core dWDM network"
   ]
   node [
     id 13
-    label "Elisa Bertino"
-    affiliation "Purdue University, West Lafayette"
-    research "keyword frequency, Abelian group homomorphic encryption, homomorphic encryption"
+    label "Hans Grabowski"
+    affiliation "Univ. Karlsruhe/TH, Karlsruhe, W. Germany"
+    research "test tool, IGES format, IGES model"
   ]
   node [
     id 14
-    label "Arif Ghafoor"
+    label "A. Bragg"
     affiliation "Nan"
-    research "new database allocation scheme"
+    research "dynamic routing, time zonesFirst Page"
   ]
   node [
     id 15
-    label "Frank Martinez"
-    affiliation "Microsoft Research, Redmond, Washington, USA"
-    research "digital neighborhood watch, camera data, home environment"
+    label "Bernhard Malle"
+    affiliation "Nan"
+    research "Product Model Data, electronic archiving, product liabilityLongterm"
   ]
   node [
     id 16
-    label "N. Tillmann"
-    affiliation "Microsoft Research, Redmond, WA"
-    research "test input, Parameterized unit test, dynamic symbolic execution"
+    label "X. Li"
+    affiliation "Nan"
+    research "New Decomposition Method, State Space Explosion Problem"
   ]
   node [
     id 17
-    label "Halima Ghafoor"
-    affiliation "Purdue University"
-    research "multimedia data, multimedia application, multimedia information"
+    label "Horst Nowacki"
+    affiliation "Technische Univ. Berlin, Berlin, W. Germany"
+    research "fair surface, surface representation, C1 surface"
   ]
   node [
     id 18
-    label "Jonathan de Halleux"
-    affiliation "Microsoft Research, Redmond WA"
-    research "test input, developer testing, Dynamic Symbolic Execution"
+    label "R Gnatz"
+    affiliation "Technische Univ. Munich, Munich, W. Germany"
+    research "wide spectrum language, program specification, program development"
   ]
   node [
     id 19
-    label "Rafae Bhatti"
-    affiliation "PwC, USA"
-    research "access control, federated access management, access management policy"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
+    label "K. Geiger"
+    affiliation "Nan"
+    research "Manufactured Parts, On-line Inspection, product developmentVision"
   ]
   edge [
     source 0
@@ -146,67 +126,57 @@ graph [
   ]
   edge [
     source 0
-    target 6
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 12
+    source 0
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 5
+    source 0
     target 7
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 12
+    source 0
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 17
     relation "collaborate"
   ]
   edge [
     source 5
-    target 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -215,28 +185,43 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 18
+    source 7
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 7
     target 16
     relation "collaborate"
   ]
   edge [
     source 7
-    target 12
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
     relation "collaborate"
   ]
   edge [
     source 7
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 12
     relation "collaborate"
   ]
   edge [
@@ -245,97 +230,47 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
     source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 12
     target 17
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
     target 14
     relation "collaborate"
   ]
   edge [
     source 13
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 13
     target 19
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 16
+    source 17
     target 18
     relation "collaborate"
   ]

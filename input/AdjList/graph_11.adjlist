@@ -1,49 +1,57 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:49 2023
 # 
-Donglin Liang	1
-W E Wilhelm	{'relation': 'collaborate'}
-Mario Cesar Velez Gallego	1
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Mohan V. Kalkunte	1
-W E Wilhelm	{'relation': 'collaborate'}
-Chao Wang	2
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Chao Wang	{'relation': 'collaborate'}
-Gyana Parija	1
-W E Wilhelm	{'relation': 'collaborate'}
-Patrick H. Madden	3
-Krishnaswami Srihari	{'relation': 'collaborate'}
-Ameya R. Agnihotri	{'relation': 'collaborate'}
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Xiaoyan Zhu	1
-W E Wilhelm	{'relation': 'collaborate'}
-Purushothaman Damodaran	4
-Ameya R. Agnihotri	{'relation': 'collaborate'}
-Krishnaswami Srihari	{'relation': 'collaborate'}
-W E Wilhelm	{'relation': 'collaborate'}
-Sarah S. Lam	{'relation': 'collaborate'}
-W E Wilhelm	2
-Illya V. Hicks	{'relation': 'collaborate'}
-Charles R. Cash	{'relation': 'collaborate'}
-Illya V. Hicks	6
-Benjamin McClosky	{'relation': 'collaborate'}
-J. Ma	{'relation': 'collaborate'}
-S. S. Margulies	{'relation': 'collaborate'}
-Balabhaskar Balasundaram	{'relation': 'collaborate'}
-S. Butenko	{'relation': 'collaborate'}
-Jonathan C. Smith	{'relation': 'collaborate'}
-Sarah S. Lam	1
-Krishnaswami Srihari	{'relation': 'collaborate'}
-J. Ma	1
-S. S. Margulies	{'relation': 'collaborate'}
-S. S. Margulies	0
-Ameya R. Agnihotri	1
-Krishnaswami Srihari	{'relation': 'collaborate'}
-Jonathan C. Smith	0
-Krishnaswami Srihari	0
-Benjamin McClosky	0
-Charles R. Cash	0
-Balabhaskar Balasundaram	1
-S. Butenko	{'relation': 'collaborate'}
-S. Butenko	0
+W. Eric Wong	1
+IEEE Region 7	{'relation': 'collaborate'}
+François R. Boyer	1
+IEEE Region 7	{'relation': 'collaborate'}
+P Hajek	1
+IEEE Region 7	{'relation': 'collaborate'}
+Michael Gebhardt	5
+Germany	{'relation': 'collaborate'}
+Stephen Paul Jacobs	{'relation': 'collaborate'}
+IEEE Region 7	{'relation': 'collaborate'}
+Matthias Jarke	{'relation': 'collaborate'}
+Hans W. Nissen	{'relation': 'collaborate'}
+Judy Goldsmith	3
+D S Weld	{'relation': 'collaborate'}
+Peng Dai	{'relation': 'collaborate'}
+IEEE Region 7	{'relation': 'collaborate'}
+IEEE Region 7	13
+Akihiro Yamamoto	{'relation': 'collaborate'}
+Hans W. Nissen	{'relation': 'collaborate'}
+Germany	{'relation': 'collaborate'}
+L A Rosenberg	{'relation': 'collaborate'}
+Joyce L. Vedral	{'relation': 'collaborate'}
+T. Horváth	{'relation': 'collaborate'}
+Robert A. van de Geijn	{'relation': 'collaborate'}
+Stephen Paul Jacobs	{'relation': 'collaborate'}
+Jack J. Dongarra	{'relation': 'collaborate'}
+D S Weld	{'relation': 'collaborate'}
+Matthias Jarke	{'relation': 'collaborate'}
+Hai Zhuge	{'relation': 'collaborate'}
+Peng Dai	{'relation': 'collaborate'}
+Susumu Hayashi	1
+Akihiro Yamamoto	{'relation': 'collaborate'}
+Joyce L. Vedral	0
+Hai Zhuge	0
+Hans W. Nissen	3
+Stephen Paul Jacobs	{'relation': 'collaborate'}
+Matthias Jarke	{'relation': 'collaborate'}
+Germany	{'relation': 'collaborate'}
+T. Horváth	1
+Akihiro Yamamoto	{'relation': 'collaborate'}
+Robert A. van de Geijn	1
+Jack J. Dongarra	{'relation': 'collaborate'}
+Akihiro Yamamoto	0
+D S Weld	1
+Peng Dai	{'relation': 'collaborate'}
+Peng Dai	0
+L A Rosenberg	0
+Stephen Paul Jacobs	2
+Matthias Jarke	{'relation': 'collaborate'}
+Germany	{'relation': 'collaborate'}
+Jack J. Dongarra	0
+Germany	1
+Matthias Jarke	{'relation': 'collaborate'}
+Matthias Jarke	0

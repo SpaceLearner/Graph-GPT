@@ -1,34 +1,30 @@
-Stéphane Nègre	J. Carlier	{'relation': 'collaborate'}
-Stéphane Nègre	Aziz Moukrim	{'relation': 'collaborate'}
-Stéphane Nègre	François Clautiaux	{'relation': 'collaborate'}
-François Clautiaux	Christophe Wilbaut	{'relation': 'collaborate'}
-François Clautiaux	Mauro Dell'Amico	{'relation': 'collaborate'}
-François Clautiaux	E.-G. Talbi	{'relation': 'collaborate'}
-François Clautiaux	Nadia Dahmani	{'relation': 'collaborate'}
-François Clautiaux	Jürgen Rietz	{'relation': 'collaborate'}
-François Clautiaux	Cláudio Alves	{'relation': 'collaborate'}
-François Clautiaux	Aziz Moukrim	{'relation': 'collaborate'}
-François Clautiaux	J. Carlier	{'relation': 'collaborate'}
-François Clautiaux	Manuel Iori	{'relation': 'collaborate'}
-François Clautiaux	José M. Valério de Carvalho	{'relation': 'collaborate'}
-François Clautiaux	Antoine Jouglet	{'relation': 'collaborate'}
-François Clautiaux	El-Ghazali Talbi	{'relation': 'collaborate'}
-François Clautiaux	Saíd Hanafi	{'relation': 'collaborate'}
-François Clautiaux	Marie-Emilie Voge	{'relation': 'collaborate'}
-François Clautiaux	Saoussen Krichen	{'relation': 'collaborate'}
-Aziz Moukrim	J. Carlier	{'relation': 'collaborate'}
-Aziz Moukrim	Antoine Jouglet	{'relation': 'collaborate'}
-Manuel Iori	Mauro Dell'Amico	{'relation': 'collaborate'}
-E.-G. Talbi	Saíd Hanafi	{'relation': 'collaborate'}
-E.-G. Talbi	Bilel Derbel	{'relation': 'collaborate'}
-Bilel Derbel	El-Ghazali Talbi	{'relation': 'collaborate'}
-José M. Valério de Carvalho	Jürgen Rietz	{'relation': 'collaborate'}
-José M. Valério de Carvalho	Cláudio Alves	{'relation': 'collaborate'}
-Cláudio Alves	Jürgen Rietz	{'relation': 'collaborate'}
-Antoine Jouglet	J. Carlier	{'relation': 'collaborate'}
-Christophe Wilbaut	Saíd Hanafi	{'relation': 'collaborate'}
-Fouad Ben Abdelaziz	Saoussen Krichen	{'relation': 'collaborate'}
-El-Ghazali Talbi	Saoussen Krichen	{'relation': 'collaborate'}
-El-Ghazali Talbi	Nadia Dahmani	{'relation': 'collaborate'}
-Saoussen Krichen	Adel Guitouni	{'relation': 'collaborate'}
-Saoussen Krichen	Nadia Dahmani	{'relation': 'collaborate'}
+David C. Gibbon	Z. Liu	{'relation': 'collaborate'}
+Jian Li	Z. Liu	{'relation': 'collaborate'}
+Jian Li	Y. Zhang	{'relation': 'collaborate'}
+Jian Li	Changle Li	{'relation': 'collaborate'}
+Jian Li	Jian Li	{'relation': 'collaborate'}
+S. McCormick	Z. Liu	{'relation': 'collaborate'}
+G. Felic	Z. Liu	{'relation': 'collaborate'}
+G. Felic	Y. Feng	{'relation': 'collaborate'}
+Q. Huang	Z. Liu	{'relation': 'collaborate'}
+D. Towsley	Z. Liu	{'relation': 'collaborate'}
+D. Towsley	James F. Kurose	{'relation': 'collaborate'}
+James F. Kurose	Z. Liu	{'relation': 'collaborate'}
+Changle Li	Z. Liu	{'relation': 'collaborate'}
+Wei Lu	Z. Liu	{'relation': 'collaborate'}
+Wei Lu	Chun Ying	{'relation': 'collaborate'}
+Wei Lu	Y. Zhang	{'relation': 'collaborate'}
+D. V. Sarwate	Z. Liu	{'relation': 'collaborate'}
+John M. Dennis	W. Yang	{'relation': 'collaborate'}
+John M. Dennis	Z. Liu	{'relation': 'collaborate'}
+John M. Dennis	Malathi Veeraraghavan	{'relation': 'collaborate'}
+M. Rais-Rohani	Z. Liu	{'relation': 'collaborate'}
+W. Yang	Z. Liu	{'relation': 'collaborate'}
+W. Yang	Malathi Veeraraghavan	{'relation': 'collaborate'}
+Guojun Li	Z. Liu	{'relation': 'collaborate'}
+V. Choulakian	Z. Liu	{'relation': 'collaborate'}
+Chun Ying	Z. Liu	{'relation': 'collaborate'}
+Chun Ying	Y. Zhang	{'relation': 'collaborate'}
+Y. Zhang	Z. Liu	{'relation': 'collaborate'}
+Z. Liu	Malathi Veeraraghavan	{'relation': 'collaborate'}
+Z. Liu	Y. Feng	{'relation': 'collaborate'}

@@ -1,32 +1,27 @@
-Javier Galbally	Alejandro F. Frangi	{'relation': 'collaborate'}
-Javier Galbally	Linda Brodo	{'relation': 'collaborate'}
-Javier Galbally	M. Tistarelli	{'relation': 'collaborate'}
-Javier Galbally	Julian Fierrez	{'relation': 'collaborate'}
-Bob Moore	Alejandro F. Frangi	{'relation': 'collaborate'}
-Bob Moore	Jimison Iavindrasana	{'relation': 'collaborate'}
-Alejandro F. Frangi	B. K. Ersbøll	{'relation': 'collaborate'}
-Alejandro F. Frangi	M. A. Viergever	{'relation': 'collaborate'}
-Alejandro F. Frangi	Bart M. ter Haar Romeny	{'relation': 'collaborate'}
-Alejandro F. Frangi	Julian Fierrez	{'relation': 'collaborate'}
-Alejandro F. Frangi	Michael Sass Hansen	{'relation': 'collaborate'}
-Alejandro F. Frangi	Ernesto Zacur	{'relation': 'collaborate'}
-Alejandro F. Frangi	Linda Brodo	{'relation': 'collaborate'}
-Alejandro F. Frangi	Bram van Ginneken	{'relation': 'collaborate'}
-Alejandro F. Frangi	Jimison Iavindrasana	{'relation': 'collaborate'}
-Alejandro F. Frangi	Edward J. Vigmond	{'relation': 'collaborate'}
-Alejandro F. Frangi	A. Berruezo	{'relation': 'collaborate'}
-Alejandro F. Frangi	S. A. M. Baert	{'relation': 'collaborate'}
-Alejandro F. Frangi	Avan Suinesiaputra	{'relation': 'collaborate'}
-Alejandro F. Frangi	M. Tistarelli	{'relation': 'collaborate'}
-Alejandro F. Frangi	U. Perego	{'relation': 'collaborate'}
-Alejandro F. Frangi	M. Cremonesi	{'relation': 'collaborate'}
-Linda Brodo	M. Tistarelli	{'relation': 'collaborate'}
-Linda Brodo	Julian Fierrez	{'relation': 'collaborate'}
-B. K. Ersbøll	Michael Sass Hansen	{'relation': 'collaborate'}
-M. Tistarelli	Julian Fierrez	{'relation': 'collaborate'}
-Bram van Ginneken	Bart M. ter Haar Romeny	{'relation': 'collaborate'}
-Bram van Ginneken	M. A. Viergever	{'relation': 'collaborate'}
-C. Ferri	M. Cremonesi	{'relation': 'collaborate'}
-M. A. Viergever	Bart M. ter Haar Romeny	{'relation': 'collaborate'}
-M. A. Viergever	S. A. M. Baert	{'relation': 'collaborate'}
-U. Perego	M. Cremonesi	{'relation': 'collaborate'}
+Woan Sun Chang	Robert Simon	{'relation': 'collaborate'}
+Woan Sun Chang	Boris Jukic	{'relation': 'collaborate'}
+Woan Sun Chang	J. Mark Pullen	{'relation': 'collaborate'}
+Bo Zhang	Robert Simon	{'relation': 'collaborate'}
+Bo Zhang	Hakan Aydin	{'relation': 'collaborate'}
+Taieb F. Znati	Don Krieger	{'relation': 'collaborate'}
+Taieb F. Znati	Robert Simon	{'relation': 'collaborate'}
+Taieb F. Znati	Robert J. Sclabassi	{'relation': 'collaborate'}
+Hakan Aydin	Robert Simon	{'relation': 'collaborate'}
+J. Mark Pullen	Chatchai Khunboa	{'relation': 'collaborate'}
+J. Mark Pullen	Robert Simon	{'relation': 'collaborate'}
+Chatchai Khunboa	Robert Simon	{'relation': 'collaborate'}
+Robert J. Sclabassi	Don Krieger	{'relation': 'collaborate'}
+Robert J. Sclabassi	Robert Simon	{'relation': 'collaborate'}
+A. K. Sood	Padmavathi Mundur	{'relation': 'collaborate'}
+A. K. Sood	P. Mundur	{'relation': 'collaborate'}
+A. K. Sood	Robert Simon	{'relation': 'collaborate'}
+P. Mundur	Robert Simon	{'relation': 'collaborate'}
+Irina Gerasimov	Robert Simon	{'relation': 'collaborate'}
+Irina Gerasimov	Alexey Zhuravlev	{'relation': 'collaborate'}
+Don Krieger	Robert Simon	{'relation': 'collaborate'}
+Boris Jukic	Robert Simon	{'relation': 'collaborate'}
+Leijun Huang	Sanjeev Setia	{'relation': 'collaborate'}
+Leijun Huang	Robert Simon	{'relation': 'collaborate'}
+Padmavathi Mundur	Robert Simon	{'relation': 'collaborate'}
+M. F. Abdulla	Robert Simon	{'relation': 'collaborate'}
+Robert Simon	Sanjeev Setia	{'relation': 'collaborate'}

@@ -1,207 +1,162 @@
 graph [
   node [
     id 0
-    label "Peter Harrison"
+    label "Jingyan Song"
     affiliation "Nan"
-    research "Build Linux file, Linux Quick Fix Notebook, Linux administration"
+    research "RGB-D sensor, GPS-denied environment, invariant observer"
   ]
   node [
     id 1
-    label "A. Zverovitch"
-    affiliation "Department of Computer Science, Royal Holloway, University of London, Egham, Surrey TW20 0EX, UK"
-    research "linear program, computational experiment, domination analysis"
+    label "Jie Deng"
+    affiliation "Stanford University, Stanford, CA"
+    research "compact model, CNFET circuit, analytical model"
   ]
   node [
     id 2
-    label "Istvan Maros"
-    affiliation "Department of Computing, Imperial College, UK"
-    research "LP problem, computational experience, crash procedure"
+    label "Xinhai Xu"
+    affiliation "Nan"
+    research "aggressive strategy, conservative strategy, statistical strategy"
   ]
   node [
     id 3
-    label "H. Jones"
-    affiliation "Lawrence Livermore National Laboratory, Livermore, California"
-    research "Cell Broadband Engine, cell broadband engine processorThis, conventional processor organization"
+    label "Jiannong Cao"
+    affiliation "Nan"
+    research "sensor fault, Structural Health Monitoring, WSN constraint"
   ]
   node [
     id 4
-    label "Mehrdad Tamiz"
-    affiliation "Department of Mathematics and Statistics, Brunel University, Uxbridge UB8 3PH, UK"
-    research "revised simplex method, basic feasible solution, envelope method"
+    label "Ji-Rong Wen"
+    affiliation "Tsinghua University, Beijing, China"
+    research "web page, experimental result, search engine"
   ]
   node [
     id 5
-    label "Csaba I. F&#225;bi&#225;n"
-    affiliation "Kecskem&#233;t College, Institute of Informatics, 10 Izs&#225;ki &#250;t, 6000, Kecskem&#233;t, Hungary and Lor&#225;nd E&#246;tv&#246;s University, Department of OR, Budapest, Hunga ..."
-    research "cutting-plane method, simplex method, solution algorithm"
+    label "M. Liebsch"
+    affiliation "NEC Laboratories, Heidelberg, Germany"
+    research "mobile node, mobile device, mobile terminal"
   ]
   node [
     id 6
-    label "S. A. MirHassani"
-    affiliation "Faculty of Mathematics and Computer Science, Amirkabir University of Technology, Tehran, Iran"
-    research "open vehicle, better solution, computational solution"
+    label "David Zhang"
+    affiliation "Nan"
+    research "metric learning, point-to-set distance, set-to-set distance"
   ]
   node [
     id 7
-    label "C. Lucas"
-    affiliation "Brunel Univ., Middlesex, UK"
-    research "capacity planning model, decision model, model computes currency hedging"
+    label "Can Gao"
+    affiliation "Department of Computer Science and Technology, Tongji University, Shanghai 201804, PR China and The Key Laboratory of &#8220;Embedded System and Service Computing&#8221;, Ministry of Education, Sh ..."
+    research "Two-dimensional color, unlabeled data, proposed algorithm"
   ]
   node [
     id 8
-    label "Gregory Gutin"
-    affiliation "gutin@cs.rhul.ac.uk"
-    research "minimum cost homomorphism problem, open problem, homomorphism problem"
+    label "Hans Joachim Einsiedler"
+    affiliation "Telekom Innovation Laboratories, Berlin Germany"
+    research "available bandwidth, Differentiated Services, MAC frame"
   ]
   node [
     id 9
-    label "Tony Field"
-    affiliation "Imperial College London, London, United Kingdom"
-    research "DSL expression, DSL data type, embedded DSL"
+    label "R. Schmitz"
+    affiliation "NEC Network Laboratories, NEC Europe Ltd, Heidelberg, Germany"
+    research "node mobility, vehicular network, network performance metrics"
   ]
   node [
     id 10
-    label "D Parkinson"
-    affiliation "DAP Support Unit, Queen Mary College, University of London"
-    research "environmentA parallel implementation, parallel computation, parallel efficiency"
+    label "Songzhu Mei"
+    affiliation "Nan"
+    research "Attributes Union, cryptographic access control system, speculative caching"
   ]
   node [
     id 11
-    label "Robert Fourer"
-    affiliation "Department of Industrial Engineering and Management Sciences, Northwestern University, Evanston, IL"
-    research "linear programmingTechnical correspondence, real-world linear programming, matrix generator"
+    label "Deguang Cui"
+    affiliation "Nan"
+    research "short-term air traffic flow, air traffic flow, airborne delay"
   ]
   node [
     id 12
-    label "Louis-Francois Pau"
-    affiliation "Rotterdam School of Management"
-    research "individual tariff, corrupted data, full buffer"
+    label "Xiaolong Ma"
+    affiliation "Nan"
+    research "optical parameter, feasible optical structure, optical performance"
   ]
   node [
     id 13
-    label "G. Mitra"
-    affiliation "Nan"
-    research "matrix storage scheme, storage requirement, storage scheme"
+    label "Fanglin Chen"
+    affiliation "Department of Automatic Control, College of Mechatronics and Automation, National University of Defense Technology, Changsha, Hunan, P.R. China"
+    research "partial fingerprint, partial fingerprint recognition, fingerprint area"
   ]
   node [
     id 14
-    label "Nico Di Domenica"
-    affiliation "Value Lab, Via Durini, Milano, Italy"
-    research "scenario generation, main scenario generation class, scenario generation method"
+    label "Qiaoge Liu"
+    affiliation "Nan"
+    research "service provider, modern service, traditional service"
   ]
   node [
     id 15
-    label "E. Messina"
+    label "Jie Zhou"
     affiliation "Nan"
-    research "capacity planning model, computational solution"
+    research "skin information, color information, skin detection"
   ]
   node [
     id 16
-    label "Uli Harder"
-    affiliation "Imperial College London, London, UK"
-    research "energy usage, observed traffic, energy consumption"
+    label "Pu Cheng"
+    affiliation "Nan"
+    research "skin information, color information, skin detection"
   ]
   node [
     id 17
-    label "Kenneth Darby-Dowman"
-    affiliation "Department of Mathematics and Statistics, Brunel University, Uxbridge UB8 3PH, England. Email: Email: kenneth.darbydowman@brunel.ac.uk"
-    research "integer programming, minimum labelling Steiner tree, order stochastic dominance"
+    label "Jianyu Li"
+    affiliation "University of Maryland, College Park, MD"
+    research "Twitter data, Twitter stream, large data set"
   ]
   node [
     id 18
-    label "Nal&#226;n G&#252;lpinar"
-    affiliation "The University of Warwick, Coventry, UK"
-    research "recovery buffer, response time, corrupted data"
+    label "Guiming Wu"
+    affiliation "National Laboratory for Parallel &#38; Distributed Processing, National University of Defense Technology, Changsha, China"
+    research "LU decomposition, subword parallelism, block LU decomposition algorithm"
   ]
   node [
     id 19
-    label "Berc Rustem"
-    affiliation "Imperial College London"
-    research "global optimization, stochastic algorithm, recovery buffer"
+    label "Shuang Wu"
+    affiliation "Nan"
+    research "K-mean algorithm, ensemble algorithm, subspace set"
   ]
   edge [
     source 0
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
+    target 15
     relation "collaborate"
   ]
   edge [
     source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
+    target 15
     relation "collaborate"
   ]
   edge [
     source 2
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
+    target 15
     relation "collaborate"
   ]
   edge [
     source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 10
+    target 15
     relation "collaborate"
   ]
   edge [
     source 4
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
     source 5
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 7
+    source 5
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 13
+    source 5
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -211,72 +166,47 @@ graph [
   ]
   edge [
     source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 15
     relation "collaborate"
   ]
   edge [
     source 8
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
     source 8
-    target 18
+    target 9
     relation "collaborate"
   ]
   edge [
     source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
+    target 15
     relation "collaborate"
   ]
   edge [
     source 10
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
     source 11
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
     source 12
-    target 19
+    target 14
     relation "collaborate"
   ]
   edge [
     source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
     target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -285,28 +215,33 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 14
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
     target 18
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 16
+    source 15
     target 19
     relation "collaborate"
   ]
   edge [
-    source 18
-    target 19
+    source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 17
     relation "collaborate"
   ]
 ]

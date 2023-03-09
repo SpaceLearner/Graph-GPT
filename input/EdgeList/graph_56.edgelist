@@ -1,29 +1,33 @@
-Jiro Katto	Toshiyuki Nomura	{'relation': 'collaborate'}
-Jiro Katto	Kyota Higa	{'relation': 'collaborate'}
-Jiro Katto	Masumi Ishikawa	{'relation': 'collaborate'}
-Xiaolong Liu	Hong Zhang	{'relation': 'collaborate'}
-Li Tian	Alireza Ahrary	{'relation': 'collaborate'}
-Li Tian	Masumi Ishikawa	{'relation': 'collaborate'}
-Li Tian	Seiichiro Kamata	{'relation': 'collaborate'}
-K. Doya	Hiroyuki Miyamoto	{'relation': 'collaborate'}
-K. Doya	Masumi Ishikawa	{'relation': 'collaborate'}
-K. Doya	Takeshi Yamakawa	{'relation': 'collaborate'}
-Jiulun Fan	Hong Zhang	{'relation': 'collaborate'}
-Alireza Ahrary	Masumi Ishikawa	{'relation': 'collaborate'}
-Alireza Ahrary	Seiichiro Kamata	{'relation': 'collaborate'}
-Hiroyuki Miyamoto	Takeshi Yamakawa	{'relation': 'collaborate'}
-Hiroyuki Miyamoto	Masumi Ishikawa	{'relation': 'collaborate'}
-Seiichiro Kamata	Masumi Ishikawa	{'relation': 'collaborate'}
-Ding Feng	Hong Zhang	{'relation': 'collaborate'}
-Masumi Ishikawa	Hong Zhang	{'relation': 'collaborate'}
-Masumi Ishikawa	Tetsuo Furukawa	{'relation': 'collaborate'}
-Masumi Ishikawa	Helge Ritter	{'relation': 'collaborate'}
-Masumi Ishikawa	Kazuhiko Nishino	{'relation': 'collaborate'}
-Masumi Ishikawa	Risto Miikkulainen	{'relation': 'collaborate'}
-Masumi Ishikawa	Takeshi Yamakawa	{'relation': 'collaborate'}
-Masumi Ishikawa	Toshiyuki Nomura	{'relation': 'collaborate'}
-Masumi Ishikawa	Kyota Higa	{'relation': 'collaborate'}
-Kyota Higa	Toshiyuki Nomura	{'relation': 'collaborate'}
-Risto Miikkulainen	Helge Ritter	{'relation': 'collaborate'}
-Lin Yang	Hong Zhang	{'relation': 'collaborate'}
-Bin Guo	Hong Zhang	{'relation': 'collaborate'}
+Raimond L. Winslow	Daniel Q. Naiman	{'relation': 'collaborate'}
+Raimond L. Winslow	Lei Xu	{'relation': 'collaborate'}
+Raimond L. Winslow	Aik Choon Tan	{'relation': 'collaborate'}
+Raimond L. Winslow	D. Geman	{'relation': 'collaborate'}
+Daniel Q. Naiman	Giovanni Parmigiani	{'relation': 'collaborate'}
+Daniel Q. Naiman	R E Stone	{'relation': 'collaborate'}
+Daniel Q. Naiman	J. C. Spall	{'relation': 'collaborate'}
+Daniel Q. Naiman	Xiaoling Wu	{'relation': 'collaborate'}
+Daniel Q. Naiman	Henry P. Wynn	{'relation': 'collaborate'}
+Daniel Q. Naiman	Donald German	{'relation': 'collaborate'}
+Daniel Q. Naiman	Bahman Afsari	{'relation': 'collaborate'}
+Daniel Q. Naiman	Lei Xu	{'relation': 'collaborate'}
+Daniel Q. Naiman	Onn Chan	{'relation': 'collaborate'}
+Daniel Q. Naiman	Nathan L. Kleinman	{'relation': 'collaborate'}
+Daniel Q. Naiman	Carey E. Priebe	{'relation': 'collaborate'}
+Daniel Q. Naiman	D. Geman	{'relation': 'collaborate'}
+Daniel Q. Naiman	Aik Choon Tan	{'relation': 'collaborate'}
+Daniel Q. Naiman	Leslie M. Cope	{'relation': 'collaborate'}
+Daniel Q. Naiman	Jian Feng	{'relation': 'collaborate'}
+David Gilbert	Aik Choon Tan	{'relation': 'collaborate'}
+J. C. Spall	Nathan L. Kleinman	{'relation': 'collaborate'}
+Aik Choon Tan	Donald German	{'relation': 'collaborate'}
+Aik Choon Tan	Lei Xu	{'relation': 'collaborate'}
+Aik Choon Tan	D. Geman	{'relation': 'collaborate'}
+Aik Choon Tan	Bahman Afsari	{'relation': 'collaborate'}
+Lei Xu	D. Geman	{'relation': 'collaborate'}
+Bahman Afsari	Donald German	{'relation': 'collaborate'}
+Giovanni Parmigiani	Michael F. Ochs	{'relation': 'collaborate'}
+Giovanni Parmigiani	Rafael A. Irizarry	{'relation': 'collaborate'}
+Giovanni Parmigiani	Leslie M. Cope	{'relation': 'collaborate'}
+Michael F. Ochs	D. Geman	{'relation': 'collaborate'}
+Carey E. Priebe	Leslie M. Cope	{'relation': 'collaborate'}
+Leslie M. Cope	Rafael A. Irizarry	{'relation': 'collaborate'}

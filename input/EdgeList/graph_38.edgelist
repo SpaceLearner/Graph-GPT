@@ -1,74 +1,28 @@
-R. E. Mihailovich	R. Y. Webb	{'relation': 'collaborate'}
-R. E. Mihailovich	N. C. MacDonald	{'relation': 'collaborate'}
-R. E. Mihailovich	B. W. Reed	{'relation': 'collaborate'}
-R. E. Mihailovich	R. Prasad	{'relation': 'collaborate'}
-R. E. Mihailovich	Karl-Friedrich Böhringer	{'relation': 'collaborate'}
-R. E. Mihailovich	Bruce R. Donald	{'relation': 'collaborate'}
-R. E. Mihailovich	S. A. Miller	{'relation': 'collaborate'}
-R. E. Mihailovich	John H. Das	{'relation': 'collaborate'}
-R. E. Mihailovich	S. G. Adams	{'relation': 'collaborate'}
-R. E. Mihailovich	Y. Xu	{'relation': 'collaborate'}
-B. W. Reed	Karl-Friedrich Böhringer	{'relation': 'collaborate'}
-B. W. Reed	Y. Xu	{'relation': 'collaborate'}
-B. W. Reed	John H. Das	{'relation': 'collaborate'}
-B. W. Reed	R. Prasad	{'relation': 'collaborate'}
-B. W. Reed	R. Y. Webb	{'relation': 'collaborate'}
-B. W. Reed	N. C. MacDonald	{'relation': 'collaborate'}
-B. W. Reed	S. A. Miller	{'relation': 'collaborate'}
-B. W. Reed	S. G. Adams	{'relation': 'collaborate'}
-Yan Zhuang	Kenneth Y. Goldberg	{'relation': 'collaborate'}
-Yan Zhuang	Karl-Friedrich Böhringer	{'relation': 'collaborate'}
-Yan Zhuang	Jingliang Chen	{'relation': 'collaborate'}
-Yan Zhuang	D. Halperin	{'relation': 'collaborate'}
-Yan Zhuang	Mark H. Overmars	{'relation': 'collaborate'}
-N. C. MacDonald	R. Prasad	{'relation': 'collaborate'}
-N. C. MacDonald	S. G. Adams	{'relation': 'collaborate'}
-N. C. MacDonald	R. Y. Webb	{'relation': 'collaborate'}
-N. C. MacDonald	Bruce R. Donald	{'relation': 'collaborate'}
-N. C. MacDonald	S. A. Miller	{'relation': 'collaborate'}
-N. C. MacDonald	Karl-Friedrich Böhringer	{'relation': 'collaborate'}
-N. C. MacDonald	John H. Das	{'relation': 'collaborate'}
-N. C. MacDonald	Y. Xu	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	James Jennings	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	D. Halperin	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	F. Newberry Paulisch	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Jingliang Chen	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	S. G. Adams	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Y. Xu	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Kenneth Y. Goldberg	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	R. Prasad	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Russell Brown	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	R. Y. Webb	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Bruce R. Donald	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Daniela Rus	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	Mark H. Overmars	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	S. A. Miller	{'relation': 'collaborate'}
-Karl-Friedrich Böhringer	John H. Das	{'relation': 'collaborate'}
-Mark H. Overmars	Kenneth Y. Goldberg	{'relation': 'collaborate'}
-Mark H. Overmars	D. Halperin	{'relation': 'collaborate'}
-Mark H. Overmars	Jingliang Chen	{'relation': 'collaborate'}
-D. Halperin	Kenneth Y. Goldberg	{'relation': 'collaborate'}
-D. Halperin	Bruce R. Donald	{'relation': 'collaborate'}
-D. Halperin	Jingliang Chen	{'relation': 'collaborate'}
-Bruce R. Donald	Russell Brown	{'relation': 'collaborate'}
-Bruce R. Donald	Daniela Rus	{'relation': 'collaborate'}
-Bruce R. Donald	James Jennings	{'relation': 'collaborate'}
-John H. Das	S. A. Miller	{'relation': 'collaborate'}
-John H. Das	S. G. Adams	{'relation': 'collaborate'}
-John H. Das	R. Y. Webb	{'relation': 'collaborate'}
-John H. Das	Y. Xu	{'relation': 'collaborate'}
-John H. Das	R. Prasad	{'relation': 'collaborate'}
-S. G. Adams	Y. Xu	{'relation': 'collaborate'}
-S. G. Adams	S. A. Miller	{'relation': 'collaborate'}
-S. G. Adams	R. Y. Webb	{'relation': 'collaborate'}
-S. G. Adams	R. Prasad	{'relation': 'collaborate'}
-James Jennings	Daniela Rus	{'relation': 'collaborate'}
-James Jennings	Russell Brown	{'relation': 'collaborate'}
-S. A. Miller	R. Prasad	{'relation': 'collaborate'}
-S. A. Miller	R. Y. Webb	{'relation': 'collaborate'}
-S. A. Miller	Y. Xu	{'relation': 'collaborate'}
-Russell Brown	Daniela Rus	{'relation': 'collaborate'}
-R. Prasad	Y. Xu	{'relation': 'collaborate'}
-R. Prasad	R. Y. Webb	{'relation': 'collaborate'}
-R. Y. Webb	Y. Xu	{'relation': 'collaborate'}
-Jingliang Chen	Kenneth Y. Goldberg	{'relation': 'collaborate'}
+Walter Knödel	Gerald Farin	{'relation': 'collaborate'}
+Walter Knödel	H. Noltemeier	{'relation': 'collaborate'}
+Bernd Hamann	Issac J. Trotts	{'relation': 'collaborate'}
+Bernd Hamann	Gerald Farin	{'relation': 'collaborate'}
+Bernd Hamann	Gregory Nielson	{'relation': 'collaborate'}
+Myungsoo Bae	Anshuman Razdan	{'relation': 'collaborate'}
+Myungsoo Bae	Gerald Farin	{'relation': 'collaborate'}
+Myungsoo Bae	M. R. Henderson	{'relation': 'collaborate'}
+A. J. Worsey	Gerald Farin	{'relation': 'collaborate'}
+M. R. Henderson	Gerald Farin	{'relation': 'collaborate'}
+M. R. Henderson	Anshuman Razdan	{'relation': 'collaborate'}
+H. Noltemeier	Gerald Farin	{'relation': 'collaborate'}
+Gerald Farin	Issac J. Trotts	{'relation': 'collaborate'}
+Gerald Farin	Ronald N. Goldman	{'relation': 'collaborate'}
+Gerald Farin	Kerstin Müller	{'relation': 'collaborate'}
+Gerald Farin	Georgios Stylianou	{'relation': 'collaborate'}
+Gerald Farin	G. Wu	{'relation': 'collaborate'}
+Gerald Farin	F. Zeilfelder	{'relation': 'collaborate'}
+Gerald Farin	Anne Gelb	{'relation': 'collaborate'}
+Gerald Farin	Wolfgang Böhm	{'relation': 'collaborate'}
+Gerald Farin	Anshuman Razdan	{'relation': 'collaborate'}
+Gerald Farin	Adam Huang	{'relation': 'collaborate'}
+Gerald Farin	Ahmad H. Nasri	{'relation': 'collaborate'}
+Gerald Farin	Gregory Nielson	{'relation': 'collaborate'}
+Gerald Farin	Donghak Jung	{'relation': 'collaborate'}
+Adam Huang	Anshuman Razdan	{'relation': 'collaborate'}
+Adam Huang	Gregory Nielson	{'relation': 'collaborate'}
+Anshuman Razdan	Gregory Nielson	{'relation': 'collaborate'}

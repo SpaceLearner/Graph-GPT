@@ -1,127 +1,142 @@
 graph [
   node [
     id 0
-    label "Scott D. Anderson"
+    label "Dan Grossman"
     affiliation "Nan"
-    research "Social Visualization, environmental visualization, behavior focus"
+    research "Summer School, Oregon programming languages summer, schoolThe Oregon Programming"
   ]
   node [
     id 1
-    label "Jeff Johns"
-    affiliation "Univ. of Massachusetts Amherst, Amherst, MA"
-    research "basis function, policy iteration, hybrid algorithm"
+    label "Brian T. Lewis"
+    affiliation "Intel Labs Santa Clara, CA"
+    research "high performance, early performance result, transactional memory"
   ]
   node [
     id 2
-    label "J. Brooks"
-    affiliation "Nan"
-    research "A LEGAL REASONING PROGRAM, HOLDING A CONVERSATION, MOTIVATIONS BEHIND A DISCOURSE"
+    label "S. Jagannathan"
+    affiliation "Dept. of Comput. Sci. &#38; Information Eng., Nat. Chung Cheng Univ., Chiayi, Taiwan"
+    research "proposed scheme, rate-based end-to-end congestion control, multimedia traffic"
   ]
   node [
     id 3
-    label "Toby Dragon"
-    affiliation "CeLTech, Saarland University, Germany"
-    research "content recognition, expert knowledge base, knowledge base"
+    label "Richard Hudson"
+    affiliation "Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA"
+    research "River Trail, single global lock semantics, transactional memory"
   ]
   node [
     id 4
-    label "Rosalind Wright Picard"
-    affiliation "Media Laboratory, Massachusetts Intitute of Technology, Cambridge 02142"
-    research "affective state, facial expression, new technology"
+    label "Serguei Preis"
+    affiliation "Intel Coporation, Novosibirsk, Russian Fed."
+    research "Xeon Phi, vector extension, CoprocessorThe Intel"
   ]
   node [
     id 5
-    label "Dan Murray"
-    affiliation "Nan"
-    research "Interpress printingDocument retrieval, electronic publishing"
+    label "Aleksandar Dragojevi&#263;"
+    affiliation "Swiss Federal Institute of Technology, Lausanne, Lausanne, Switzerland"
+    research "transactional memory, software transactional memory, STM barrier"
   ]
   node [
     id 6
-    label "Dan Suthers"
-    affiliation "Department of Computer Science, University of Massachusetts, Amherst, Mass."
-    research "collaborative learning, online learning, active learning behavior"
+    label "Ravi Narayanaswamy"
+    affiliation "Intel Corporation, Santa Clara, CA, USA"
+    research "nested parallelism, control mechanism, project performance"
   ]
   node [
     id 7
-    label "Klaus Schultz"
-    affiliation "Nan"
-    research "cognitive development, high cognitive ability student, low cognitive ability student"
+    label "Mainak Chaudhuri"
+    affiliation "Indian Institute of Technology, India"
+    research "active memory controller, active memory cluster, memory controller"
   ]
   node [
     id 8
-    label "Leena Razzaq"
-    affiliation "University of Massachusetts Amherst, Amherst, MA"
-    research "tutored problem, students time, Assistment system"
+    label "Ali-Reza Adl-Tabatabai"
+    affiliation "Google Inc. Mountain View, CA"
+    research "transactional memory, software transactional memory, high-performance software transactional memory"
   ]
   node [
     id 9
-    label "Esma Aimeur"
-    affiliation "Universit&#233; de Montr&#233;al, D&#233;partement d'Informatique et de Recherche Op&#233;rationnelle, 2920, chemin de la Tour, Montr&#233;al, Qu&#233;bec, Canada H3C 3J7"
-    research "recommender system, personal information, personal knowledge publishing"
+    label "Joseph Nuzman"
+    affiliation "Intel Architecture Group, Haifa, Israel"
+    research "L2 cache, exclusive LLC, inclusive LLC"
   ]
   node [
     id 10
-    label "A G Barto"
-    affiliation "University of Michigan, Ann Arbor, Michigan"
-    research "reinforcement learning, Hierarchical Reinforcement LearningReinforcement learning, active learning"
+    label "Eric Sprangle"
+    affiliation "Intel Corporation"
+    research "performance analysis, processor performance, deeper pipeline"
   ]
   node [
     id 11
-    label "Kasia Muldner"
-    affiliation "Arizona State University, Tempe, Arizona"
-    research "intelligent tutoring system, affective state, user model"
+    label "J. Elliot B. Moss"
+    affiliation "Department of Computer and Information Science, University of Massachusetts, Amherst, MA"
+    research "garbage collection, hybrid optimizations, object allocation"
   ]
   node [
     id 12
-    label "Elliot Soloway"
-    affiliation "Department of Computer Science, Yale University, New Haven, CT 06520/ CompuTech, Inc., New Haven, CT."
-    research "non-procedural language, procedural language, new problem"
+    label "Jayesh Gaur"
+    affiliation "Intel Corporation, Bangalore, India"
+    research "exclusive LLC, inclusive LLC, L2 cache"
   ]
   node [
     id 13
-    label "Sridhar Mahadevan"
-    affiliation "Autonomous Learning Laboratory, {kferguso, mahadeva}@cs.umass.edu"
-    research "basis function, hierarchical reinforcement learning, machine learning"
+    label "Deepak Majeti"
+    affiliation "Rice University, Houston, TX, USA"
+    research "Homogeneous Routers, GPU acceleration, NoC design"
   ]
   node [
     id 14
-    label "Rana El Kaliouby"
-    affiliation "Media Laboratory, Massachusetts Intitute of Technology, Cambridge 02142"
-    research "facial expression, facial affect, emotional hearing aid"
+    label "Sreenivas Subramoney"
+    affiliation "Intel Architecture Group, Bangalore, India"
+    research "exclusive LLC, L2 cache, inclusive LLC"
   ]
   node [
     id 15
-    label "Robert Maloy"
-    affiliation "University of Massachusetts Amherst, Amherst, MA"
-    research "computer technology, computer use, history learning"
+    label "Andrew McCreight"
+    affiliation "Portland State University,"
+    research "garbage collector, incremental collector, mechanized verification"
   ]
   node [
     id 16
-    label "Carole R. Beal"
-    affiliation "USC Information Sciences Institute"
-    research "structural abstraction, students interact, cognitive workload"
+    label "Robert Wahbe"
+    affiliation "Colusa Software, 1563 Solano Ave. MS350, Berkeley, CA"
+    research "adaptable binary, binary program, binary transformation"
   ]
   node [
     id 17
-    label "Beverly P. Woolf"
-    affiliation "University of Massachussetts, Amherst"
-    research "intelligent tutoring system, intelligent tutor, individual student"
+    label "Neal Glew"
+    affiliation "Intel Corporation, Santa Clara, CA"
+    research "type system, functional language, assembly language"
   ]
   node [
     id 18
-    label "Hava Tova Siegelmann"
-    affiliation "Department of Computer Science, University of Massachusetts, 140 Governors Drive, Amherst, MA 01003 hava@cs.umass.edu"
-    research "computational power, Multi-agent system, biological system"
+    label "Mauricio J. Serrano"
+    affiliation "Pontif&#237;cia Universidade Cat&#243;lica do Rio de Janeiro, Rio de Janeiro, Brazil"
+    research "false loop, data context, data structure"
   ]
   node [
     id 19
-    label "Ted Slovin"
-    affiliation "Nan"
-    research "DESIGNED A CONSULTANT SYSTEM, FORMULATES A PSYCHOLOGICAL ASSESSMENT, GENERATES A PERSONALITY PROFILE"
+    label "Raghuram Srinivasan"
+    affiliation "University of Cincinnati, Cincinnati, OH, USA"
+    research "process variation, system variable, Taylor series expansion"
   ]
   edge [
     source 0
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -130,23 +145,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
     source 2
-    target 17
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -156,17 +156,17 @@ graph [
   ]
   edge [
     source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
+    target 8
     relation "collaborate"
   ]
   edge [
     source 3
     target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -175,53 +175,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
+    source 4
+    target 8
     relation "collaborate"
   ]
   edge [
     source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 14
+    target 6
     relation "collaborate"
   ]
   edge [
     source 5
-    target 17
+    target 8
     relation "collaborate"
   ]
   edge [
     source 6
-    target 17
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 7
     target 12
     relation "collaborate"
   ]
   edge [
     source 7
-    target 17
+    target 14
     relation "collaborate"
   ]
   edge [
     source 7
-    target 16
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 17
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -230,58 +225,73 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 8
     target 17
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 17
+    source 8
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 8
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 13
     relation "collaborate"
   ]
   edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 14
+    relation "collaborate"
+  ]
+  edge [
     source 11
-    target 17
+    target 14
     relation "collaborate"
   ]
   edge [
     source 12
-    target 17
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 17
+    source 12
+    target 14
     relation "collaborate"
   ]
   edge [
     source 14
-    target 17
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 19
     relation "collaborate"
   ]
   edge [
     source 15
     target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 19
     relation "collaborate"
   ]
 ]

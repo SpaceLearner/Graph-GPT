@@ -1,242 +1,217 @@
 graph [
   node [
     id 0
-    label "Li Yan"
-    affiliation "Nan"
-    research "Support Vector Machine, proposed algorithm, proposed method"
+    label "Artem Katasonov"
+    affiliation "VTT Technical Research Centre of Finland, Tampere, Finland"
+    research "Semantic Agent Programming, smart entity, requirements quality control"
   ]
   node [
     id 1
-    label "Sheng Li"
-    affiliation "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China"
-    research "visual synthesis method, Phoneme-level articulatory animation, articulatory animation"
+    label "Igor Keleberda"
+    affiliation "Kharkiv National University of RadioElectronics, Kharkiv, Ukraine"
+    research "personalized search, learner profile, object description"
   ]
   node [
     id 2
-    label "Fei Feng"
-    affiliation "Nan"
-    research "light source, state light, coherent light"
+    label "Mikko Kovalainen"
+    affiliation "Solution Garden Ltd., Jyv&#228;skyl&#228;, Finland"
+    research "subject matter, decision support medical system, medical data"
   ]
   node [
     id 3
-    label "Hui Wang"
-    affiliation "Nan"
-    research "Information Asymmetry, control theory, game theory"
+    label "Borys Omelayenko"
+    affiliation "Division of Mathmatics and Computer Science, Vrije Universiteit Amsterdam, De Boelelaan 1081a, 1081 HV Amsterdam, Netherlands"
+    research "semantic web, business science, product catalog"
   ]
   node [
     id 4
-    label "Fuhai Li"
-    affiliation "College of Electrical and Information Engineering, Hunan University, Changsha, China 410082"
-    research "Tail-fitting Algorithm, deterministic jitter, random jitter"
+    label "Jian Tang"
+    affiliation "School of Reliability and System Engineering, Beihang University, Beijing, China"
+    research "prediction interval, data character, modified Block Bootstrap prediction"
   ]
   node [
     id 5
-    label "Guilin Wen"
-    affiliation "Nan"
-    research "delay derivative, BRL condition, aforesaid BRL"
+    label "Cheryl Bauman"
+    affiliation "TORC Technologies, LLC, Blacksburg, Virginia 24060"
+    research "Urban Challenge, Team VictorTango, Virginia Tech"
   ]
   node [
     id 6
-    label "Hui Zheng"
-    affiliation "Shanghai Key Laboratory of Magnetic Resonance, Physics Department, East China Normal University, Shanghai, China"
-    research "residual image, original image, denoised image"
+    label "Jari Veijalainen"
+    affiliation "Univ. of Jyvaskyla Finland"
+    research "mobile device, mobile terminal, mobile E-commerce"
   ]
   node [
     id 7
-    label "Dong Xinfa"
-    affiliation "Nan"
-    research "actual evaporation, visual programming language, water storage"
+    label "Seppo Puuronen"
+    affiliation "Univ. of Jyv&#168;skyla&#168;, Jyv&#168;skyla&#168;, Finland"
+    research "Dynamic Integration, data set, feature selection"
   ]
   node [
     id 8
-    label "Xu Yan"
-    affiliation "Nan"
-    research "sequence algorithm, OFDM system, Improved Algorithm"
+    label "Hamidreza Baghi"
+    affiliation "Dept. of Computer Science, University of Calgary, Canada"
+    research "learner profile, server component, specific subject"
   ]
   node [
     id 9
-    label "Yuelin Wang"
-    affiliation "State Key Laboratory of Transducer Technology, Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai 200050, China"
-    research "KOH etching, liquid polyimide, single crystal nano beam"
+    label "Yevgen Biletskiy"
+    affiliation "Nan"
+    research "product line, possible product, product line test space"
   ]
   node [
     id 10
-    label "Bai Yan"
-    affiliation "Nan"
-    research "heating value, heating value sensor, low heating value"
+    label "Michael Fleming"
+    affiliation "TORC Technologies, LLC, Blacksburg, Virginia 24060"
+    research "Urban Challenge, Team VictorTango, DARPA Urban ChallengeThe DARPA"
   ]
   node [
     id 11
-    label "Shishir K. Shah"
-    affiliation "Nan"
-    research "analytic quality, analytic performance metrics, analytic software"
+    label "Alexey Tsymbal"
+    affiliation "Corporate Technology Division Siemens AG Erlangen, Germany. Email: alexey.tsymbal@siemens.com"
+    research "Dynamic Integration, new instance, local accuracy estimate"
   ]
   node [
     id 12
-    label "Zhang Wei"
-    affiliation "Nan"
-    research "Matlab SoftwareMatlab, Matlab foundation course, application fields Matlab"
+    label "M A. Bramer"
+    affiliation "School of Computing, University of Portsmouth, Portsmouth, UK"
+    research "Artificial Intelligence, data mining, classification rule"
   ]
   node [
     id 13
-    label "N. Levine"
-    affiliation "Nan"
-    research "Hong Kong, deregulatory approach, deregulatory telecom development"
+    label "Vladimir Ryabov"
+    affiliation "University of Jyv&#228;skyl&#228;"
+    research "basic relation, indeterminate temporal point, temporal information"
   ]
   node [
     id 14
-    label "Guang Yang"
-    affiliation "Nan"
-    research "communication task, communication task loss rate, communication task schedule"
+    label "Bruce Spencer"
+    affiliation "Internet Logic Group of the National Research Council, Institute for Information Technology eBusiness"
+    research "underlying classifier, private information, international conference"
   ]
   node [
     id 15
-    label "D. Pitt"
-    affiliation "Strathclyde Bus. Sch., Glasgow"
-    research "Hong Kong, deregulatory approach, deregulatory telecom development"
+    label "Natalya Lesna"
+    affiliation "Kharkov National University of Radioelectronics"
+    research "Personalized Distance Learning, distant learning process automation, Multiagent Ontological System"
   ]
   node [
     id 16
-    label "Liu Hongfei"
-    affiliation "Automation Academy, Chongqing University, Chongqing, China and Chongqing Communication College, Chongqing, China"
-    research "Micro GC, tractor-semi trailer, Dynamic Lateral Load Transfer"
+    label "Anton Naumenko"
+    affiliation "Industrial Ontologies Group, MIT Department, University of Jyvaskyla, Jyvaskyla, Finland FIN40014"
+    research "business network, information security, EA approach"
   ]
   node [
     id 17
-    label "Wang Qi"
-    affiliation "Nan"
-    research "discrete delay, interval-like time-varying delay, Earthquake Searching ProblemIn"
+    label "Sergiy Nikitin"
+    affiliation "University of Jyv&#228;skyl&#228;, Finland"
+    research "context representation, context-sensitive metadata, faceted taxonomy"
   ]
   node [
     id 18
-    label "Xu Hongguo"
-    affiliation "Nan"
-    research "Bayesian network, tractor-semi trailer, Dynamic Lateral Load Transfer"
+    label "Henry Tirri"
+    affiliation "Nokia Research Center"
+    research "wireless sensor network, computing unit, sensor information"
   ]
   node [
     id 19
-    label "Ioannis A. Kakadiaris"
-    affiliation "IEEE"
-    research "proposed method, multi-feature fuzzy connectedness method, CT data"
+    label "Vagan Y. Terziyan"
+    affiliation "Kharkov State Technical University of Radioelectronics, Kharkov, Ukraine"
+    research "data mining method, data base, appropriate data mining method"
   ]
   edge [
     source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
+    target 19
     relation "collaborate"
   ]
   edge [
     source 0
-    target 0
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
     target 17
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 16
+    source 1
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 11
+    source 1
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 18
+    source 1
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 1
     target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 14
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 15
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -246,12 +221,17 @@ graph [
   ]
   edge [
     source 8
-    target 19
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 13
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -261,17 +241,42 @@ graph [
   ]
   edge [
     source 12
-    target 12
+    target 19
     relation "collaborate"
   ]
   edge [
     source 13
-    target 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
     relation "collaborate"
   ]
   edge [
     source 16
-    target 18
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 18
+    target 19
     relation "collaborate"
   ]
 ]

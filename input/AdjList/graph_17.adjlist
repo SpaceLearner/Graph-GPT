@@ -1,77 +1,49 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:50 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:51 2023
 # 
-Qin Yan	5
-P. R. White	{'relation': 'collaborate'}
-Esfandiar Zavarehei	{'relation': 'collaborate'}
-S. V. Vaseghi	{'relation': 'collaborate'}
-B. Milner	{'relation': 'collaborate'}
-Ioannis Andrianakis	{'relation': 'collaborate'}
-Ioannis Andrianakis	4
-S. V. Vaseghi	{'relation': 'collaborate'}
-B. Milner	{'relation': 'collaborate'}
-Esfandiar Zavarehei	{'relation': 'collaborate'}
-P. R. White	{'relation': 'collaborate'}
-Y. Kohama	2
-A. De Stefano	{'relation': 'collaborate'}
-T. Aoki	{'relation': 'collaborate'}
-Ru-Gang Xu	3
-M. Weston	{'relation': 'collaborate'}
-James H. Andrews	{'relation': 'collaborate'}
-Alex Groce	{'relation': 'collaborate'}
-K. Scott Hemmert	7
-Jonathan E. Cook	{'relation': 'collaborate'}
-C. Kersey	{'relation': 'collaborate'}
-Brian Barrett	{'relation': 'collaborate'}
-M. Weston	{'relation': 'collaborate'}
-Arun Rodrigues	{'relation': 'collaborate'}
-Ron Oldfield	{'relation': 'collaborate'}
-Bruce L. Jacob	{'relation': 'collaborate'}
-Brian Barrett	6
-Ron Oldfield	{'relation': 'collaborate'}
-M. Weston	{'relation': 'collaborate'}
-Jonathan E. Cook	{'relation': 'collaborate'}
-C. Kersey	{'relation': 'collaborate'}
-Arun Rodrigues	{'relation': 'collaborate'}
-Bruce L. Jacob	{'relation': 'collaborate'}
-P. R. White	5
-M. Weston	{'relation': 'collaborate'}
-A. De Stefano	{'relation': 'collaborate'}
-Esfandiar Zavarehei	{'relation': 'collaborate'}
-B. Milner	{'relation': 'collaborate'}
-S. V. Vaseghi	{'relation': 'collaborate'}
-B. Milner	2
-S. V. Vaseghi	{'relation': 'collaborate'}
-Esfandiar Zavarehei	{'relation': 'collaborate'}
-S. V. Vaseghi	1
-Esfandiar Zavarehei	{'relation': 'collaborate'}
-Esfandiar Zavarehei	0
-James H. Andrews	2
-Alex Groce	{'relation': 'collaborate'}
-M. Weston	{'relation': 'collaborate'}
-A. De Stefano	1
-T. Aoki	{'relation': 'collaborate'}
-Jonathan E. Cook	5
-M. Weston	{'relation': 'collaborate'}
-Arun Rodrigues	{'relation': 'collaborate'}
-Bruce L. Jacob	{'relation': 'collaborate'}
-C. Kersey	{'relation': 'collaborate'}
-Ron Oldfield	{'relation': 'collaborate'}
-C. Kersey	4
-M. Weston	{'relation': 'collaborate'}
-Arun Rodrigues	{'relation': 'collaborate'}
-Ron Oldfield	{'relation': 'collaborate'}
-Bruce L. Jacob	{'relation': 'collaborate'}
-M. Weston	4
-Bruce L. Jacob	{'relation': 'collaborate'}
-Ron Oldfield	{'relation': 'collaborate'}
-Arun Rodrigues	{'relation': 'collaborate'}
-Alex Groce	{'relation': 'collaborate'}
-T. Aoki	0
-Arun Rodrigues	2
-Ron Oldfield	{'relation': 'collaborate'}
-Bruce L. Jacob	{'relation': 'collaborate'}
-Alex Groce	0
-Bruce L. Jacob	1
-Ron Oldfield	{'relation': 'collaborate'}
-Ron Oldfield	0
+H. Nakajima	1
+T. Watanabe	{'relation': 'collaborate'}
+K. Komatsu	1
+T. Watanabe	{'relation': 'collaborate'}
+T. Ida	1
+T. Watanabe	{'relation': 'collaborate'}
+K. Ando	2
+T. Watanabe	{'relation': 'collaborate'}
+M. Ohsawa	{'relation': 'collaborate'}
+Y. Yamamoto	2
+T. Watanabe	{'relation': 'collaborate'}
+S. Okada	{'relation': 'collaborate'}
+H. Yamauchi	2
+T. Watanabe	{'relation': 'collaborate'}
+S. Okada	{'relation': 'collaborate'}
+S. Okada	1
+T. Watanabe	{'relation': 'collaborate'}
+M. Ohsawa	1
+T. Watanabe	{'relation': 'collaborate'}
+T. Fukumura	1
+T. Watanabe	{'relation': 'collaborate'}
+S. Komatsu	3
+T. Itoh	{'relation': 'collaborate'}
+S. Sawa	{'relation': 'collaborate'}
+T. Watanabe	{'relation': 'collaborate'}
+Takamichi Tateoka	2
+Youichi Maeda	{'relation': 'collaborate'}
+T. Watanabe	{'relation': 'collaborate'}
+S. Sawa	2
+T. Itoh	{'relation': 'collaborate'}
+T. Watanabe	{'relation': 'collaborate'}
+Youichi Maeda	1
+T. Watanabe	{'relation': 'collaborate'}
+Makoto Endo	1
+T. Watanabe	{'relation': 'collaborate'}
+R. Aoki	1
+T. Watanabe	{'relation': 'collaborate'}
+T. Watanabe	4
+Jien Kato	{'relation': 'collaborate'}
+Y. Daido	{'relation': 'collaborate'}
+T. Itoh	{'relation': 'collaborate'}
+T. Sakata	{'relation': 'collaborate'}
+Y. Daido	0
+T. Sakata	0
+T. Itoh	0
+Jien Kato	0

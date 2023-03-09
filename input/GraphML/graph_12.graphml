@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="E.-G. Talbi">
+      <data key="affiliation">Laboratoire de Génie Informatique / Institut IMAG, University of Grenoble</data>
+      <data key="research">Clew AlgorithmParallel Robot Motion, Robot Motion PlanningParallel Motion, robot motion planningThe Ariadne</data>
+    </node>
+    <node id="Antoine Jouglet">
+      <data key="affiliation">Heudiasyc, UMR CNRS 6599, Université de Technologie de Compiègne, BP 20529, 60205 Compiègne, France</data>
+      <data key="research">guillotine graph, dominance rule, release date</data>
+    </node>
+    <node id="Marie-Emilie Voge">
+      <data key="affiliation">Univ. Lille Nord de France, France</data>
+      <data key="research">k sink, transport layer, key issue</data>
+    </node>
+    <node id="Saoussen Krichen">
+      <data key="affiliation">LARODEC Laboratory, Faculty of Law, Economics and Management, University of Jendouba, Avenue de l'U.M.A, Jendouba 8189, Tunisia</data>
+      <data key="research">2-dimensional vector packing problem, Scheduling problem, lower bound</data>
+    </node>
+    <node id="Cláudio Alves">
+      <data key="affiliation">Departamento de Produção e Sistemas, Escola de Engenharia, Universidade do Minho, 4710057 Braga, Portugal</data>
+      <data key="research">lower bound, computational experiment, real-time optimization</data>
+    </node>
+    <node id="Manuel Iori">
+      <data key="affiliation">Dipartimento di Scienze e Metodi dell'Ingegneria, University of Modena and Reggio Emilia, Viale Amendola 2, 42100 Reggio Emilia, Italy</data>
+      <data key="research">salesman problem, branch-and-cut algorithm, Bin Packing Problem</data>
+    </node>
+    <node id="El-Ghazali Talbi">
+      <data key="affiliation">Nan</data>
+      <data key="research">2-dimensional vector packing problem, 2-dimensional vector packing problemIn, maximum length</data>
+    </node>
+    <node id="J. Carlier">
+      <data key="affiliation">Nan</data>
+      <data key="research">exact method, master slave bus, multiprocessor system</data>
+    </node>
+    <node id="Stéphane Nègre">
+      <data key="affiliation">Université de Picardie Jules Verne, Equipe ROAD, MIS, 5 rue du Moulin Neuf, 80000 Amiens, France</data>
+      <data key="research">parallel algorithm, proposed algorithm, best lower bound</data>
+    </node>
+    <node id="Bilel Derbel">
+      <data key="affiliation">Inria Lille  Nord Europe &amp; Université Lille 1, Villeneuve d'Ascq, France</data>
+      <data key="research">log n, time complexity, mobile agent algorithm</data>
+    </node>
+    <node id="François Clautiaux">
+      <data key="affiliation">LIFL, UMR USTL/CNRS 8022, Bítiment M3, 59655 Villeneuve d'Ascq Cédex, France</data>
+      <data key="research">computational experiment, lower bound, guillotine graph</data>
+    </node>
+    <node id="Mauro Dell'Amico">
+      <data key="affiliation">DISMI, via Amendola, 2, 42100 Reggio Emilia, Italy</data>
+      <data key="research">Salesman Problem, exact algorithm, branch-and-cut algorithm</data>
+    </node>
+    <node id="Christophe Wilbaut">
+      <data key="affiliation">Univ Lille Nord de France, Lille, France F59000 and UVHC, LAMIH, Valenciennes, France F59313 and CNRS, UMR 8530, Valenciennes, France F59313</data>
+      <data key="research">problem instance, feasible solution, lower bound</data>
+    </node>
+    <node id="Adel Guitouni">
+      <data key="affiliation">Defence R&amp;D Canada Valcartier, ValBéélair, Canada G3J 1X5</data>
+      <data key="research">proposed approach, new approach, situation analysis decision support</data>
+    </node>
+    <node id="Jürgen Rietz">
+      <data key="affiliation">Departamento de Produção e Sistemas, Escola de Engenharia, Universidade do Minho, 4710057 Braga, Portugal</data>
+      <data key="research">lower bound, dual cut, dual feasible function</data>
+    </node>
+    <node id="Fouad Ben Abdelaziz">
+      <data key="affiliation">LARODEC, Institut Supérieur de Gestion de Tunis, Le Bardo, Tunisie</data>
+      <data key="research">Nash equilibrium, Bluetooth device, discount quantity</data>
+    </node>
+    <node id="José M. Valério de Carvalho">
+      <data key="affiliation">Departamento de Produção e Sistemas, Escola de Engenharia, Universidade do Minho, 4710057 Braga, Portugal</data>
+      <data key="research">lower bound, computational experiment, dual cut</data>
+    </node>
+    <node id="Nadia Dahmani">
+      <data key="affiliation">Nan</data>
+      <data key="research">2-dimensional vector packing problem, 2-dimensional vector packing problemIn, maximum length</data>
+    </node>
+    <node id="Aziz Moukrim">
+      <data key="affiliation">Université de Clermont II, LIMOS, Complexe Scientifique des Cézeaux, 63177 Aubière Cedex, France</data>
+      <data key="research">project scheduling problem, guillotine graph, computational experiment</data>
+    </node>
+    <node id="Saíd Hanafi">
+      <data key="affiliation">University of Lille Nord de France, UVHC, and LAMIH, France</data>
+      <data key="research">problem instance, Tabu search, local search</data>
+    </node>
+    <edge source="E.-G. Talbi" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E.-G. Talbi" target="Saíd Hanafi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E.-G. Talbi" target="Bilel Derbel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antoine Jouglet" target="Aziz Moukrim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antoine Jouglet" target="J. Carlier">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antoine Jouglet" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marie-Emilie Voge" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saoussen Krichen" target="Adel Guitouni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saoussen Krichen" target="El-Ghazali Talbi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saoussen Krichen" target="Fouad Ben Abdelaziz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saoussen Krichen" target="Nadia Dahmani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saoussen Krichen" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cláudio Alves" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cláudio Alves" target="José M. Valério de Carvalho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cláudio Alves" target="Jürgen Rietz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manuel Iori" target="Mauro Dell'Amico">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manuel Iori" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="El-Ghazali Talbi" target="Bilel Derbel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="El-Ghazali Talbi" target="Nadia Dahmani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="El-Ghazali Talbi" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Carlier" target="Aziz Moukrim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Carlier" target="Stéphane Nègre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Carlier" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphane Nègre" target="Aziz Moukrim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphane Nègre" target="François Clautiaux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Christophe Wilbaut">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Mauro Dell'Amico">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Nadia Dahmani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Jürgen Rietz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Aziz Moukrim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="José M. Valério de Carvalho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="François Clautiaux" target="Saíd Hanafi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christophe Wilbaut" target="Saíd Hanafi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jürgen Rietz" target="José M. Valério de Carvalho">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

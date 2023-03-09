@@ -1,37 +1,42 @@
-Sunil R Das	Mansour H. Assaf	{'relation': 'collaborate'}
-Sunil R Das	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Sunil R Das	E. M. Petriu	{'relation': 'collaborate'}
-Ning Zhang	Lu Liu	{'relation': 'collaborate'}
-Ning Zhang	Q. Qin	{'relation': 'collaborate'}
-Ning Zhang	Yang Hong	{'relation': 'collaborate'}
-Timothy Kusky	Zhao-Liang Li	{'relation': 'collaborate'}
-Timothy Kusky	Q. Qin	{'relation': 'collaborate'}
-Chuan Jin	Mansour H. Assaf	{'relation': 'collaborate'}
-Chuan Jin	Q. Qin	{'relation': 'collaborate'}
-Chuan Jin	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Chuan Jin	Weihui Dai	{'relation': 'collaborate'}
-Chuan Jin	Weidong Zhao	{'relation': 'collaborate'}
-Chuan Jin	E. M. Petriu	{'relation': 'collaborate'}
-J. Li	L. Wang	{'relation': 'collaborate'}
-J. Li	Q. Qin	{'relation': 'collaborate'}
-J. Li	L. Zhu	{'relation': 'collaborate'}
-Yang Hong	Lu Liu	{'relation': 'collaborate'}
-Yang Hong	Q. Qin	{'relation': 'collaborate'}
-Coskun Bayrak	Mehmet Sahinoglu	{'relation': 'collaborate'}
-E. Chow	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Voicu Groza	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Voicu Groza	E. M. Petriu	{'relation': 'collaborate'}
-Voicu Groza	Mansour H. Assaf	{'relation': 'collaborate'}
-Voicu Groza	Altaf Hossain	{'relation': 'collaborate'}
-Altaf Hossain	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Altaf Hossain	E. M. Petriu	{'relation': 'collaborate'}
-L. Wang	Zhao-Liang Li	{'relation': 'collaborate'}
-L. Wang	Q. Qin	{'relation': 'collaborate'}
-L. Wang	L. Zhu	{'relation': 'collaborate'}
-L. Zhu	Q. Qin	{'relation': 'collaborate'}
-Q. Qin	Zhao-Liang Li	{'relation': 'collaborate'}
-Q. Qin	Lu Liu	{'relation': 'collaborate'}
-Mansour H. Assaf	Mehmet Sahinoglu	{'relation': 'collaborate'}
-Mansour H. Assaf	E. M. Petriu	{'relation': 'collaborate'}
-Weihui Dai	Weidong Zhao	{'relation': 'collaborate'}
-E. M. Petriu	Mehmet Sahinoglu	{'relation': 'collaborate'}
+Rob Walstrom	Carolina Cruz-Neira	{'relation': 'collaborate'}
+Rob Walstrom	Feng Chen	{'relation': 'collaborate'}
+Rob Walstrom	Jayme Hero	{'relation': 'collaborate'}
+Rob Walstrom	Robert Weber	{'relation': 'collaborate'}
+Rob Walstrom	Diane Rover	{'relation': 'collaborate'}
+Rob Walstrom	Julie A. Dickerson	{'relation': 'collaborate'}
+Mats P. E. Heimdahl	Robert Weber	{'relation': 'collaborate'}
+E. S. Wurtele	Andy W. Fulmer	{'relation': 'collaborate'}
+E. S. Wurtele	Pan Du	{'relation': 'collaborate'}
+E. S. Wurtele	Julie A. Dickerson	{'relation': 'collaborate'}
+E. S. Wurtele	Carolina Cruz-Neira	{'relation': 'collaborate'}
+E. S. Wurtele	Ming Jia	{'relation': 'collaborate'}
+Carolina Cruz-Neira	Feng Chen	{'relation': 'collaborate'}
+Carolina Cruz-Neira	Robert Weber	{'relation': 'collaborate'}
+Carolina Cruz-Neira	Diane Rover	{'relation': 'collaborate'}
+Carolina Cruz-Neira	Julie A. Dickerson	{'relation': 'collaborate'}
+Carolina Cruz-Neira	Jayme Hero	{'relation': 'collaborate'}
+Diane Rover	Feng Chen	{'relation': 'collaborate'}
+Diane Rover	Robert Weber	{'relation': 'collaborate'}
+Diane Rover	Julie A. Dickerson	{'relation': 'collaborate'}
+Diane Rover	Jayme Hero	{'relation': 'collaborate'}
+Jayme Hero	Robert Weber	{'relation': 'collaborate'}
+Jayme Hero	Julie A. Dickerson	{'relation': 'collaborate'}
+Jayme Hero	Feng Chen	{'relation': 'collaborate'}
+Ming Jia	Shaozhi Ye	{'relation': 'collaborate'}
+Ming Jia	Julie A. Dickerson	{'relation': 'collaborate'}
+Thomas Rietz	Robert Weber	{'relation': 'collaborate'}
+Thomas Rietz	Robert Forsythe	{'relation': 'collaborate'}
+Shaozhi Ye	Julie A. Dickerson	{'relation': 'collaborate'}
+Ruolin Liu	Julie A. Dickerson	{'relation': 'collaborate'}
+Tian Xia	Julie A. Dickerson	{'relation': 'collaborate'}
+Wengang Zhou	Julie A. Dickerson	{'relation': 'collaborate'}
+Robert Forsythe	Robert Weber	{'relation': 'collaborate'}
+Andy W. Fulmer	Julie A. Dickerson	{'relation': 'collaborate'}
+B Kosko	Julie A. Dickerson	{'relation': 'collaborate'}
+B Kosko	Hyun Mun Kim	{'relation': 'collaborate'}
+Feng Chen	Feng Chen	{'relation': 'collaborate'}
+Feng Chen	Robert Weber	{'relation': 'collaborate'}
+Feng Chen	Julie A. Dickerson	{'relation': 'collaborate'}
+Hyun Mun Kim	Julie A. Dickerson	{'relation': 'collaborate'}
+Robert Weber	Julie A. Dickerson	{'relation': 'collaborate'}
+Pan Du	Julie A. Dickerson	{'relation': 'collaborate'}

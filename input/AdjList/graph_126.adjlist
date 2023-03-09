@@ -1,74 +1,62 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:12 2023
 # 
-P. Majhi	8
-R. Jammy	{'relation': 'collaborate'}
-Sanjay Banerjee	{'relation': 'collaborate'}
-R. Harris	{'relation': 'collaborate'}
-J. Oh	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-H. Tseng	{'relation': 'collaborate'}
-P. D. Kirsch	{'relation': 'collaborate'}
-J. Oh	7
-Sanjay Banerjee	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-H. Tseng	{'relation': 'collaborate'}
-R. Harris	{'relation': 'collaborate'}
-P. D. Kirsch	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-R. Jammy	{'relation': 'collaborate'}
-R. Harris	13
-Simon Finn	{'relation': 'collaborate'}
-J. F. McDonald	{'relation': 'collaborate'}
-R. B. Hughes	{'relation': 'collaborate'}
-R. Jammy	{'relation': 'collaborate'}
-Sanjay Banerjee	{'relation': 'collaborate'}
-Gerry Musgrave	{'relation': 'collaborate'}
-T. Impelluso	{'relation': 'collaborate'}
-H. Tseng	{'relation': 'collaborate'}
-P. D. Kirsch	{'relation': 'collaborate'}
-P. Kristiansen	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-Daniel Druckman	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-Simon Finn	4
-M P Fourman	{'relation': 'collaborate'}
-John Longley	{'relation': 'collaborate'}
-R. B. Hughes	{'relation': 'collaborate'}
-Gerry Musgrave	{'relation': 'collaborate'}
-R. Jammy	5
-H. Tseng	{'relation': 'collaborate'}
-P. D. Kirsch	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-Sanjay Banerjee	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-John Longley	1
-M P Fourman	{'relation': 'collaborate'}
-P. Kristiansen	0
-R. J. Caron	1
-J. F. McDonald	{'relation': 'collaborate'}
-M P Fourman	0
-Gerry Musgrave	1
-R. B. Hughes	{'relation': 'collaborate'}
-Daniel Druckman	0
-H. Tseng	4
-P. D. Kirsch	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-Sanjay Banerjee	{'relation': 'collaborate'}
-T. Impelluso	0
-Sanjay Banerjee	3
-S. Lee	{'relation': 'collaborate'}
-P. Kalra	{'relation': 'collaborate'}
-P. D. Kirsch	{'relation': 'collaborate'}
-P. D. Kirsch	2
-P. Kalra	{'relation': 'collaborate'}
-S. Lee	{'relation': 'collaborate'}
-R. D. Freeman	1
-J. F. McDonald	{'relation': 'collaborate'}
-J. F. McDonald	0
-R. B. Hughes	0
-P. Kalra	1
-S. Lee	{'relation': 'collaborate'}
-S. Lee	0
+Lisa Neal	11
+David R. Kaufman	{'relation': 'collaborate'}
+Derek L. Hansen	{'relation': 'collaborate'}
+Diane Miller	{'relation': 'collaborate'}
+Diana Laurillard	{'relation': 'collaborate'}
+Clark N. Quinn	{'relation': 'collaborate'}
+Gitte Lindgaard	{'relation': 'collaborate'}
+Saul Carliner	{'relation': 'collaborate'}
+Mark Notess	{'relation': 'collaborate'}
+Jenny Preece	{'relation': 'collaborate'}
+Ben Shneiderman	{'relation': 'collaborate'}
+Yvonne Waern	{'relation': 'collaborate'}
+Diane Miller	0
+L. Plowman	3
+Rosemary Luckin	{'relation': 'collaborate'}
+Diana Laurillard	{'relation': 'collaborate'}
+Josie Taylor	{'relation': 'collaborate'}
+Mark Notess	0
+Rosemary Luckin	2
+Josie Taylor	{'relation': 'collaborate'}
+Diana Laurillard	{'relation': 'collaborate'}
+Maria Grigoriadou	4
+Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+George D. Magoulas	{'relation': 'collaborate'}
+Patricia Charlton	{'relation': 'collaborate'}
+Diana Laurillard	{'relation': 'collaborate'}
+Diana Laurillard	8
+George D. Magoulas	{'relation': 'collaborate'}
+Patricia Charlton	{'relation': 'collaborate'}
+Yvonne Waern	{'relation': 'collaborate'}
+Giorgio Marullo	{'relation': 'collaborate'}
+Jenny Preece	{'relation': 'collaborate'}
+Ben Shneiderman	{'relation': 'collaborate'}
+Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Josie Taylor	{'relation': 'collaborate'}
+Patricia Charlton	2
+Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+George D. Magoulas	{'relation': 'collaborate'}
+Gitte Lindgaard	2
+Derek L. Hansen	{'relation': 'collaborate'}
+David R. Kaufman	{'relation': 'collaborate'}
+George D. Magoulas	2
+George D. Magoulas	{'relation': 'collaborate'}
+Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Josie Taylor	0
+Clark N. Quinn	0
+David R. Kaufman	0
+Saul Carliner	0
+Derek L. Hansen	2
+Jenny Preece	{'relation': 'collaborate'}
+Ben Shneiderman	{'relation': 'collaborate'}
+Kyparisia A. Papanikolaou	0
+Jenny Preece	2
+Ben Shneiderman	{'relation': 'collaborate'}
+Yvonne Waern	{'relation': 'collaborate'}
+Yvonne Waern	1
+Ben Shneiderman	{'relation': 'collaborate'}
+Ben Shneiderman	0
+Giorgio Marullo	0

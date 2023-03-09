@@ -1,232 +1,157 @@
 graph [
   node [
     id 0
-    label "Qing Chen"
-    affiliation "Institute of Automation, Shanghai Jiao Tong University, Shanghai 200030, Peoples' Republic of China"
-    research "continuous annealing furnace, quality model, continuous annealing process"
+    label "Jianxin Chen"
+    affiliation "Beijing University of Chinese Medicine, Beijing, China"
+    research "unstable angina, Proteome Characteristic Pattern, inflammatory factor"
   ]
   node [
     id 1
-    label "Md. Abdur Rahman"
-    affiliation "Umm AlQura University, Makkah, Saudi Arabia"
-    research "tactile device, tactile feeling, disabled child"
+    label "Minjie Zhang"
+    affiliation "Nan"
+    research "automated negotiation, complex negotiation, complex automated negotiation"
   ]
   node [
     id 2
-    label "M. Anwar Hossain"
-    affiliation "King Saud University, Riyadh, Saudi Arabia"
-    research "ambient media, web service, proposed method"
+    label "T. Y. Lin"
+    affiliation "Nan"
+    research "Matrix Theory, Rough Set Theory, Granular Computing"
   ]
   node [
     id 3
-    label "Clayton V. Deutsch"
-    affiliation "Department of Civil and Environmental Engineering, University of Alberta, 220 Civil/Electrical Engineering Bldg., Edmonton, Alberta, Canada T6G 2G7"
-    research "training image, multiple-point statistic, secondary data"
+    label "Wei Huang"
+    affiliation "Rensselaer Polytechnic Institute"
+    research "type system, reference immutability, ownership type system"
   ]
   node [
     id 4
-    label "Chong-Wah Ngo"
-    affiliation "City University of Hong Kong"
-    research "Web-Scale Near-Duplicate Search, multimedia content analysis, original content"
+    label "Xiang Xu"
+    affiliation "Nan"
+    research "Restful Web service, services classification, Real-World RESTful Web ServiceWeb"
   ]
   node [
     id 5
-    label "Jorge Parra"
-    affiliation "IKERLANIK4 Technology Research Center, Spain, Spain"
-    research "ambient media, smart home environment, user need"
+    label "Xiaoling Zhang"
+    affiliation "Nan"
+    research "min-max strategy, IGD metric result, complex multi-objective optimization problem"
   ]
   node [
     id 6
-    label "Bora Oz"
-    affiliation "Department of Civil and Environmental Engineering, University of Alberta, 220 Civil/Electrical Engineering Bldg., Edmonton, Alberta, Canada T6G 2G7"
-    research "histogram reproduction, conditional distribution, direct sequential simulation"
+    label "Wei-Hua Wang"
+    affiliation "Nan"
+    research "neural network approach, nonlinear function approximator, nonparametric concept"
   ]
   node [
     id 7
-    label "Yong Rui"
-    affiliation "Microsoft China R&#38;D Group, Beijing, China"
-    research "proposed approach, proposed method, image databases"
+    label "Gang Yan"
+    affiliation "Nan"
+    research "human visual system, correct classification, image classification"
   ]
   node [
     id 8
-    label "A. Richard Burke"
-    affiliation "Nan"
-    research "PCS system design issue, microwave OFS"
+    label "Qing Li"
+    affiliation "City University of Hong Kong, Hong Kong"
+    research "object typicality, CF method, CF recommendation"
   ]
   node [
     id 9
-    label "Atif Alamri"
-    affiliation "King Saud University, Riyadh, Saudi Arabia"
-    research "dynamic web service composition, proposed framework, virtual environment"
+    label "Yi Mu"
+    affiliation "Nan"
+    research "required attribute, attribute-based mechanism, attribute-based oblivious access control"
   ]
   node [
     id 10
-    label "Abdulmotaleb El Saddik"
-    affiliation "School of Electrical Engineering and Computer Science (EECS), Ottawa, Ontario, Canada"
-    research "experimental result, multimedia application, multimedia content"
+    label "Walid G. Aref"
+    affiliation "WDPP, Purdue University, USA"
+    research "MessagePoor data quality, data expert, data governance"
   ]
   node [
     id 11
-    label "W. Gueaieb"
-    affiliation "Eng. Div., New York Univ., Abu Dhabi, United Arab Emirates"
-    research "sensory data, customized RFID system, proposed system"
+    label "Alex Delis"
+    affiliation "Nan"
+    research "Service-Oriented Computing, Software Engineering, ICSOC Workshops"
   ]
   node [
     id 12
-    label "Jongeun Cha"
-    affiliation "Multimedia Communications Research Laboratory (MCR Lab) School of Information Technology and Engineering (SITE), University of Ottawa, Ottawa, Canada"
-    research "haptic interaction, proposed system, haptic rendering algorithm"
+    label "Jeffrey Xu Yu"
+    affiliation "Nan"
+    research "LCR query, vertices u, bipartite graph"
   ]
   node [
     id 13
-    label "N. D. Georganas"
-    affiliation "Distributed and Collaborative Virtual Environments"
-    research "virtual environment, experimental result, proposed algorithm"
+    label "Huasheng Zhu"
+    affiliation "Nan"
+    research "image segmentation, liquid level, algorithm show"
   ]
   node [
     id 14
-    label "ASM Mahfujur Rahman"
-    affiliation "University of Ottawa, Ottawa, ON, Canada"
-    research "mobile phone, IR camera, Spatial-geometric approach"
+    label "Baihua Zheng"
+    affiliation "Nan"
+    research "object location information, query information, Spatial Queries"
   ]
   node [
     id 15
-    label "Mauricio Orozco"
-    affiliation "New York University Abu Dhabi, UAE"
-    research "haptic device, haptic data, haptic research"
+    label "G. Y. Wang"
+    affiliation "Key Laboratory of Education Ministry for Image Processing and Intelligence Control, Institute for Pattern Recognition and Artificial Intelligence, Huazhong University of Science &#38; Technology, Wuha ..."
+    research "discrete moment, linear sum, conventional AAN algorithm"
   ]
   node [
     id 16
-    label "Xiaojun Shen"
-    affiliation "Univ. of Illinois at UrbanaChampaign, Urbana"
-    research "visibility graph"
+    label "Min Zhang"
+    affiliation "Nan"
+    research "software trustworthiness, measurement model, software trustworthy measurement"
   ]
   node [
     id 17
-    label "Thomas T. Tran"
-    affiliation "Nan"
-    research "search result, smart mirror system, augmented made-up face"
+    label "Qing Liu"
+    affiliation "Department of Physical Education, Zhejiang Forestry College, Linan, China"
+    research "directional movement, virtual reality, physical education"
   ]
   node [
     id 18
-    label "Reza GhasemAghaei"
-    affiliation "Carleton University, Ottawa, Ontario, Canada"
-    research "arm gesture, packet loss, actual many-to-one sensory data"
+    label "Jing Zhu"
+    affiliation "Nan"
+    research "interference signal, asynchronous co-channel interference, asynchronous co-channel interference suppression"
   ]
   node [
     id 19
-    label "Peter Frykman"
-    affiliation "Geological Survey of Denmark and Greenland (GEUS) Thoravej 8, DK2400 Copenhagen NV, Denmark"
-    research "LMC scaling, Variogram scaling, histogram scaling"
+    label "Jian Fu"
+    affiliation "Sch. of Autom., Wuhan Univ. of Technol., Wuhan, China"
+    research "ADP design, GMIMO approach, looper system"
   ]
   edge [
     source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 1
-    target 14
+    target 17
     relation "collaborate"
   ]
   edge [
     source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
     target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 17
     relation "collaborate"
   ]
   edge [
     source 3
-    target 6
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 10
+    target 17
     relation "collaborate"
   ]
   edge [
     source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -235,13 +160,13 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 10
+    source 6
+    target 12
     relation "collaborate"
   ]
   edge [
     source 7
-    target 13
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -250,43 +175,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
+    source 8
     target 14
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 18
+    source 9
+    target 17
     relation "collaborate"
   ]
   edge [
     source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 16
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -295,43 +195,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 11
     target 17
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
     source 12
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
+    target 17
     relation "collaborate"
   ]
   edge [
     source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 18
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -340,8 +215,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 16
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

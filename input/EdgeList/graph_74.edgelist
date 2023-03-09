@@ -1,32 +1,47 @@
-Stefano Mattoccia	Pietro Zanuttigh	{'relation': 'collaborate'}
-Stefano Mattoccia	G. Cortelazzo	{'relation': 'collaborate'}
-Marco Andreetto	G. Cortelazzo	{'relation': 'collaborate'}
-Riccardo Bernardini	G. Cortelazzo	{'relation': 'collaborate'}
-Riccardo Bernardini	R. Rinaldo	{'relation': 'collaborate'}
-Riccardo Bernardini	Giancarlo Calvagno	{'relation': 'collaborate'}
-Riccardo Bernardini	G. A. Mian	{'relation': 'collaborate'}
-R. Rinaldo	G. A. Mian	{'relation': 'collaborate'}
-R. Rinaldo	G. Cortelazzo	{'relation': 'collaborate'}
-R. Rinaldo	Giancarlo Calvagno	{'relation': 'collaborate'}
-Enrico Malavasi	G. Cortelazzo	{'relation': 'collaborate'}
-Enrico Malavasi	A. Baschirotto	{'relation': 'collaborate'}
-N. Benvenuto	G. Cortelazzo	{'relation': 'collaborate'}
-G. A. Mian	G. Cortelazzo	{'relation': 'collaborate'}
-G. A. Mian	R. Manduchi	{'relation': 'collaborate'}
-G. A. Mian	P Zamperoni	{'relation': 'collaborate'}
-G. A. Mian	Giancarlo Calvagno	{'relation': 'collaborate'}
-S. Dal Poz	G. Cortelazzo	{'relation': 'collaborate'}
-S. Dal Poz	R. Manduchi	{'relation': 'collaborate'}
-Soren Forchhammer	G. Cortelazzo	{'relation': 'collaborate'}
-Soren Forchhammer	Pietro Zanuttigh	{'relation': 'collaborate'}
-A. Baschirotto	G. Cortelazzo	{'relation': 'collaborate'}
-Fabio Marton	G. Cortelazzo	{'relation': 'collaborate'}
-Mary Ellen Bock	G. Cortelazzo	{'relation': 'collaborate'}
-Mary Ellen Bock	Carlo Ferrari	{'relation': 'collaborate'}
-Giancarlo Calvagno	G. Cortelazzo	{'relation': 'collaborate'}
-Pietro Zanuttigh	G. Cortelazzo	{'relation': 'collaborate'}
-Carlo Ferrari	G. Cortelazzo	{'relation': 'collaborate'}
-Anup Basu	G. Cortelazzo	{'relation': 'collaborate'}
-R. Manduchi	G. Cortelazzo	{'relation': 'collaborate'}
-Nicola Orio	G. Cortelazzo	{'relation': 'collaborate'}
-G. Cortelazzo	P Zamperoni	{'relation': 'collaborate'}
+S. A. Abramov	Keith O. Geddes	{'relation': 'collaborate'}
+S. A. Abramov	Ha Le	{'relation': 'collaborate'}
+B. L. Leong	Bruce W. Char	{'relation': 'collaborate'}
+B. L. Leong	Michael B. Monagan	{'relation': 'collaborate'}
+B. L. Leong	Stephen Michael Watt	{'relation': 'collaborate'}
+B. L. Leong	Keith O. Geddes	{'relation': 'collaborate'}
+B. L. Leong	Gaston H. Gonnet	{'relation': 'collaborate'}
+K. M. Heal	Michael B. Monagan	{'relation': 'collaborate'}
+K. M. Heal	George Labahn	{'relation': 'collaborate'}
+K. M. Heal	Keith O. Geddes	{'relation': 'collaborate'}
+Keith O. Geddes	S. R. Czapor	{'relation': 'collaborate'}
+Keith O. Geddes	Stephen Michael Watt	{'relation': 'collaborate'}
+Keith O. Geddes	R. G. McLenaghan	{'relation': 'collaborate'}
+Keith O. Geddes	Ziming Li	{'relation': 'collaborate'}
+Keith O. Geddes	George Labahn	{'relation': 'collaborate'}
+Keith O. Geddes	Ha Le	{'relation': 'collaborate'}
+Keith O. Geddes	T. J. Smedley	{'relation': 'collaborate'}
+Keith O. Geddes	S. Dooley	{'relation': 'collaborate'}
+Keith O. Geddes	W. Morven Gentleman	{'relation': 'collaborate'}
+Keith O. Geddes	Bruce W. Char	{'relation': 'collaborate'}
+Keith O. Geddes	Michael B. Monagan	{'relation': 'collaborate'}
+Keith O. Geddes	L. Y. Stefanus	{'relation': 'collaborate'}
+Keith O. Geddes	Bruno Salvy	{'relation': 'collaborate'}
+Keith O. Geddes	Gregory J. Fee	{'relation': 'collaborate'}
+Keith O. Geddes	Gaston H. Gonnet	{'relation': 'collaborate'}
+Keith O. Geddes	T. C. Scott	{'relation': 'collaborate'}
+T. J. Smedley	Gaston H. Gonnet	{'relation': 'collaborate'}
+Bruce W. Char	W. Morven Gentleman	{'relation': 'collaborate'}
+Bruce W. Char	Stephen Michael Watt	{'relation': 'collaborate'}
+Bruce W. Char	Michael B. Monagan	{'relation': 'collaborate'}
+Bruce W. Char	Gaston H. Gonnet	{'relation': 'collaborate'}
+Bruce W. Char	Gregory J. Fee	{'relation': 'collaborate'}
+Bruno Salvy	Ziming Li	{'relation': 'collaborate'}
+Bruno Salvy	S. Dooley	{'relation': 'collaborate'}
+W. Morven Gentleman	Gaston H. Gonnet	{'relation': 'collaborate'}
+Gaston H. Gonnet	Stephen Michael Watt	{'relation': 'collaborate'}
+Gaston H. Gonnet	Gregory J. Fee	{'relation': 'collaborate'}
+Gaston H. Gonnet	Michael B. Monagan	{'relation': 'collaborate'}
+Gregory J. Fee	Michael B. Monagan	{'relation': 'collaborate'}
+Gregory J. Fee	T. C. Scott	{'relation': 'collaborate'}
+T. C. Scott	Michael B. Monagan	{'relation': 'collaborate'}
+S. Dooley	Stephen Michael Watt	{'relation': 'collaborate'}
+S. R. Czapor	George Labahn	{'relation': 'collaborate'}
+George Labahn	Michael B. Monagan	{'relation': 'collaborate'}
+George Labahn	Ziming Li	{'relation': 'collaborate'}
+Ha Le	Ziming Li	{'relation': 'collaborate'}
+Stephen Michael Watt	Michael B. Monagan	{'relation': 'collaborate'}

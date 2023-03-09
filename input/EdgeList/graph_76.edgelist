@@ -1,44 +1,33 @@
-Emiliano Miluzzo	Yih-Farn Chen	{'relation': 'collaborate'}
-Raghavan Pratiwadi	Richard Ferri	{'relation': 'collaborate'}
-Raghavan Pratiwadi	Glenn Fowler	{'relation': 'collaborate'}
-Raghavan Pratiwadi	Yih-Farn Chen	{'relation': 'collaborate'}
-Raghavan Pratiwadi	Balachander Krishnamurthy	{'relation': 'collaborate'}
-Raghavan Pratiwadi	Ambalavaner Logenthiran	{'relation': 'collaborate'}
-Raghavan Pratiwadi	David W. Thomas	{'relation': 'collaborate'}
-Raghavan Pratiwadi	K. P. Vo	{'relation': 'collaborate'}
-Raghavan Pratiwadi	John Snyder	{'relation': 'collaborate'}
-Glenn Fowler	David W. Thomas	{'relation': 'collaborate'}
-Glenn Fowler	Yih-Farn Chen	{'relation': 'collaborate'}
-Glenn Fowler	John Snyder	{'relation': 'collaborate'}
-Glenn Fowler	Balachander Krishnamurthy	{'relation': 'collaborate'}
-Glenn Fowler	K. P. Vo	{'relation': 'collaborate'}
-Glenn Fowler	Richard Ferri	{'relation': 'collaborate'}
-Thomas Ball	Yih-Farn Chen	{'relation': 'collaborate'}
-Glen Otero	Richard Ferri	{'relation': 'collaborate'}
-Jeffrey Korn	Yih-Farn Chen	{'relation': 'collaborate'}
-Jeffrey Korn	Tim Souder	{'relation': 'collaborate'}
-Matti A. Hiltunen	Yih-Farn Chen	{'relation': 'collaborate'}
-David C. Gibbon	Yih-Farn Chen	{'relation': 'collaborate'}
-David C. Gibbon	Daniel Stern	{'relation': 'collaborate'}
-Richard Ferri	Yih-Farn Chen	{'relation': 'collaborate'}
-Richard Ferri	John Snyder	{'relation': 'collaborate'}
-Richard Ferri	K. P. Vo	{'relation': 'collaborate'}
-Richard Ferri	David W. Thomas	{'relation': 'collaborate'}
-Richard Ferri	Balachander Krishnamurthy	{'relation': 'collaborate'}
-Tim Souder	Yih-Farn Chen	{'relation': 'collaborate'}
-Daniel Stern	Yih-Farn Chen	{'relation': 'collaborate'}
-C V. Ramamoorthy	Yih-Farn Chen	{'relation': 'collaborate'}
-David W. Thomas	John Snyder	{'relation': 'collaborate'}
-David W. Thomas	Balachander Krishnamurthy	{'relation': 'collaborate'}
-David W. Thomas	K. P. Vo	{'relation': 'collaborate'}
-David W. Thomas	Ambalavaner Logenthiran	{'relation': 'collaborate'}
-David W. Thomas	Yih-Farn Chen	{'relation': 'collaborate'}
-John Snyder	K. P. Vo	{'relation': 'collaborate'}
-John Snyder	Balachander Krishnamurthy	{'relation': 'collaborate'}
-John Snyder	Yih-Farn Chen	{'relation': 'collaborate'}
-Yennun Huang	Yih-Farn Chen	{'relation': 'collaborate'}
-Yennun Huang	K. P. Vo	{'relation': 'collaborate'}
-Greg Thompson	Yih-Farn Chen	{'relation': 'collaborate'}
-Yih-Farn Chen	K. P. Vo	{'relation': 'collaborate'}
-Yih-Farn Chen	Balachander Krishnamurthy	{'relation': 'collaborate'}
-K. P. Vo	Balachander Krishnamurthy	{'relation': 'collaborate'}
+Weiqi Wang	S. E. Salcudean	{'relation': 'collaborate'}
+K. Hashtrudi-Zaad	S. E. Salcudean	{'relation': 'collaborate'}
+K. Hashtrudi-Zaad	Claude Reboulet	{'relation': 'collaborate'}
+K. Hashtrudi-Zaad	P. Abolmaesumi	{'relation': 'collaborate'}
+Daniela Constantinescu	S. E. Salcudean	{'relation': 'collaborate'}
+Daniela Constantinescu	E. A. Croft	{'relation': 'collaborate'}
+Daniela Constantinescu	Elizabeth A. Croft	{'relation': 'collaborate'}
+Michael C. Yip	S. E. Salcudean	{'relation': 'collaborate'}
+Michael C. Yip	Omid Mohareri	{'relation': 'collaborate'}
+Xu Wen	Mehdi Moradi	{'relation': 'collaborate'}
+Xu Wen	S. E. Salcudean	{'relation': 'collaborate'}
+James Morris	S. E. Salcudean	{'relation': 'collaborate'}
+Mahdi Ramezani	S. E. Salcudean	{'relation': 'collaborate'}
+Mahdi Ramezani	Omid Mohareri	{'relation': 'collaborate'}
+Mahdi Ramezani	P. Abolmaesumi	{'relation': 'collaborate'}
+S. E. Salcudean	J M Varah	{'relation': 'collaborate'}
+S. E. Salcudean	Elizabeth A. Croft	{'relation': 'collaborate'}
+S. E. Salcudean	Omid Mohareri	{'relation': 'collaborate'}
+S. E. Salcudean	E. A. Croft	{'relation': 'collaborate'}
+S. E. Salcudean	Claude Reboulet	{'relation': 'collaborate'}
+S. E. Salcudean	G. Bell	{'relation': 'collaborate'}
+S. E. Salcudean	S. G. Deshmukh	{'relation': 'collaborate'}
+S. E. Salcudean	P. Abolmaesumi	{'relation': 'collaborate'}
+S. E. Salcudean	Joseph Yan	{'relation': 'collaborate'}
+S. E. Salcudean	Pascal Fallavollita	{'relation': 'collaborate'}
+S. E. Salcudean	Mehdi Moradi	{'relation': 'collaborate'}
+S. E. Salcudean	Andrew H. Gosline	{'relation': 'collaborate'}
+S. G. Deshmukh	Mehdi Moradi	{'relation': 'collaborate'}
+Mehdi Moradi	P. Abolmaesumi	{'relation': 'collaborate'}
+P. Abolmaesumi	Omid Mohareri	{'relation': 'collaborate'}
+P. Abolmaesumi	G. Bell	{'relation': 'collaborate'}
+P. Abolmaesumi	Pascal Fallavollita	{'relation': 'collaborate'}
+Andrew H. Gosline	Joseph Yan	{'relation': 'collaborate'}

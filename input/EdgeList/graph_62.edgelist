@@ -1,42 +1,37 @@
-Daisuke Kihara	Xin Gao	{'relation': 'collaborate'}
-Daisuke Kihara	Vladimir B. Bajic	{'relation': 'collaborate'}
-See-Kiong Ng	Zhuo Zhang	{'relation': 'collaborate'}
-See-Kiong Ng	Jinyan Li	{'relation': 'collaborate'}
-See-Kiong Ng	Vladimir Brusic	{'relation': 'collaborate'}
-See-Kiong Ng	Vladimir B. Bajic	{'relation': 'collaborate'}
-See-Kiong Ng	L. Wong	{'relation': 'collaborate'}
-See-Kiong Ng	Merlin Veronika	{'relation': 'collaborate'}
-D. K. Kaushik	Vladimir B. Bajic	{'relation': 'collaborate'}
-L. Wong	Vladimir B. Bajic	{'relation': 'collaborate'}
-L. Wong	Jinyan Li	{'relation': 'collaborate'}
-L. Wong	Rajesh Chowdhary	{'relation': 'collaborate'}
-L. Wong	Vladimir Brusic	{'relation': 'collaborate'}
-L. Wong	R. Ayesha Ali	{'relation': 'collaborate'}
-Jinfeng Zhang	Rajesh Chowdhary	{'relation': 'collaborate'}
-Jinfeng Zhang	Vladimir B. Bajic	{'relation': 'collaborate'}
-Allan Kamau	Karim Awara	{'relation': 'collaborate'}
-Allan Kamau	Michael Schramm	{'relation': 'collaborate'}
-Allan Kamau	Rajesh Chowdhary	{'relation': 'collaborate'}
-Allan Kamau	Vladimir B. Bajic	{'relation': 'collaborate'}
-Rajesh Chowdhary	Michael Schramm	{'relation': 'collaborate'}
-Rajesh Chowdhary	Vladimir B. Bajic	{'relation': 'collaborate'}
-Rajesh Chowdhary	R. Ayesha Ali	{'relation': 'collaborate'}
-Rajesh Chowdhary	Karim Awara	{'relation': 'collaborate'}
-Michael Schramm	Vladimir B. Bajic	{'relation': 'collaborate'}
-Karim Awara	Vladimir B. Bajic	{'relation': 'collaborate'}
-Karim Awara	Hani Jamjoom	{'relation': 'collaborate'}
-Karim Awara	P. Kalnis	{'relation': 'collaborate'}
-Karim Awara	Dan Williams	{'relation': 'collaborate'}
-Vladimir Brusic	Vladimir B. Bajic	{'relation': 'collaborate'}
-Vladimir Brusic	Seng Hong Seah	{'relation': 'collaborate'}
-Vladimir Brusic	Jinyan Li	{'relation': 'collaborate'}
-Seng Hong Seah	Vladimir B. Bajic	{'relation': 'collaborate'}
-Hani Jamjoom	Dan Williams	{'relation': 'collaborate'}
-Hani Jamjoom	P. Kalnis	{'relation': 'collaborate'}
-Dan Williams	P. Kalnis	{'relation': 'collaborate'}
-Jinyan Li	Vladimir B. Bajic	{'relation': 'collaborate'}
-Merlin Veronika	Vladimir B. Bajic	{'relation': 'collaborate'}
-Merlin Veronika	Zhuo Zhang	{'relation': 'collaborate'}
-Vladimir B. Bajic	Zhuo Zhang	{'relation': 'collaborate'}
-Vladimir B. Bajic	Xin Gao	{'relation': 'collaborate'}
-Vladimir B. Bajic	R. Ayesha Ali	{'relation': 'collaborate'}
+Timothy Wilson	Jianbo Zhang	{'relation': 'collaborate'}
+Timothy Wilson	Mitchell Aaron Thornton	{'relation': 'collaborate'}
+Timothy Wilson	A. D. McGettrick	{'relation': 'collaborate'}
+Timothy Wilson	S. E. Conry	{'relation': 'collaborate'}
+Timothy Wilson	Roger B. Dannenberg	{'relation': 'collaborate'}
+Timothy Wilson	Guofang Jiao	{'relation': 'collaborate'}
+Timothy Wilson	Robert C. Seacord	{'relation': 'collaborate'}
+Timothy Wilson	David Svoboda	{'relation': 'collaborate'}
+Timothy Wilson	John Impagliazzo	{'relation': 'collaborate'}
+Timothy Wilson	Thomas Plum	{'relation': 'collaborate'}
+Thomas Plum	Robert C. Seacord	{'relation': 'collaborate'}
+Thomas Plum	David Svoboda	{'relation': 'collaborate'}
+Thomas Plum	Roger B. Dannenberg	{'relation': 'collaborate'}
+Jianbo Zhang	Jinjing Zhao	{'relation': 'collaborate'}
+Jianbo Zhang	Bei Wang	{'relation': 'collaborate'}
+Jianbo Zhang	Guofang Jiao	{'relation': 'collaborate'}
+Jianbo Zhang	Jiping Liu	{'relation': 'collaborate'}
+Jianbo Zhang	Hua Chen	{'relation': 'collaborate'}
+Jianbo Zhang	Shujun Zhang	{'relation': 'collaborate'}
+Jianbo Zhang	Yun Liu	{'relation': 'collaborate'}
+Jianbo Zhang	Yan Wen	{'relation': 'collaborate'}
+A. D. McGettrick	John Impagliazzo	{'relation': 'collaborate'}
+A. D. McGettrick	Mitchell Aaron Thornton	{'relation': 'collaborate'}
+A. D. McGettrick	S. E. Conry	{'relation': 'collaborate'}
+John Impagliazzo	S. E. Conry	{'relation': 'collaborate'}
+John Impagliazzo	Mitchell Aaron Thornton	{'relation': 'collaborate'}
+S. E. Conry	Mitchell Aaron Thornton	{'relation': 'collaborate'}
+Mitchell Aaron Thornton	Nicole Drechsler	{'relation': 'collaborate'}
+Mitchell Aaron Thornton	Michael A. Harper	{'relation': 'collaborate'}
+Jinjing Zhao	Yan Wen	{'relation': 'collaborate'}
+Jinjing Zhao	Hua Chen	{'relation': 'collaborate'}
+Yun Liu	Shujun Zhang	{'relation': 'collaborate'}
+David Svoboda	Robert C. Seacord	{'relation': 'collaborate'}
+David Svoboda	Roger B. Dannenberg	{'relation': 'collaborate'}
+Bei Wang	Jiping Liu	{'relation': 'collaborate'}
+Hua Chen	Yan Wen	{'relation': 'collaborate'}
+Robert C. Seacord	Roger B. Dannenberg	{'relation': 'collaborate'}

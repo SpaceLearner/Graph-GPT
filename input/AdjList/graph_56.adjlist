@@ -1,52 +1,56 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:01 2023
 # 
-Jiro Katto	3
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Kyota Higa	{'relation': 'collaborate'}
-Masumi Ishikawa	{'relation': 'collaborate'}
-Xiaolong Liu	1
-Hong Zhang	{'relation': 'collaborate'}
-Li Tian	3
-Alireza Ahrary	{'relation': 'collaborate'}
-Masumi Ishikawa	{'relation': 'collaborate'}
-Seiichiro Kamata	{'relation': 'collaborate'}
-K. Doya	3
-Hiroyuki Miyamoto	{'relation': 'collaborate'}
-Masumi Ishikawa	{'relation': 'collaborate'}
-Takeshi Yamakawa	{'relation': 'collaborate'}
-Jiulun Fan	1
-Hong Zhang	{'relation': 'collaborate'}
-Alireza Ahrary	2
-Masumi Ishikawa	{'relation': 'collaborate'}
-Seiichiro Kamata	{'relation': 'collaborate'}
-Hiroyuki Miyamoto	2
-Takeshi Yamakawa	{'relation': 'collaborate'}
-Masumi Ishikawa	{'relation': 'collaborate'}
-Seiichiro Kamata	1
-Masumi Ishikawa	{'relation': 'collaborate'}
-Ding Feng	1
-Hong Zhang	{'relation': 'collaborate'}
-Masumi Ishikawa	8
-Hong Zhang	{'relation': 'collaborate'}
-Tetsuo Furukawa	{'relation': 'collaborate'}
-Helge Ritter	{'relation': 'collaborate'}
-Kazuhiko Nishino	{'relation': 'collaborate'}
-Risto Miikkulainen	{'relation': 'collaborate'}
-Takeshi Yamakawa	{'relation': 'collaborate'}
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Kyota Higa	{'relation': 'collaborate'}
-Kyota Higa	1
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Risto Miikkulainen	1
-Helge Ritter	{'relation': 'collaborate'}
-Lin Yang	1
-Hong Zhang	{'relation': 'collaborate'}
-Bin Guo	1
-Hong Zhang	{'relation': 'collaborate'}
-Takeshi Yamakawa	0
-Helge Ritter	0
-Hong Zhang	0
-Toshiyuki Nomura	0
-Kazuhiko Nishino	0
-Tetsuo Furukawa	0
+Raimond L. Winslow	4
+Daniel Q. Naiman	{'relation': 'collaborate'}
+Lei Xu	{'relation': 'collaborate'}
+Aik Choon Tan	{'relation': 'collaborate'}
+D. Geman	{'relation': 'collaborate'}
+Daniel Q. Naiman	15
+Giovanni Parmigiani	{'relation': 'collaborate'}
+R E Stone	{'relation': 'collaborate'}
+J. C. Spall	{'relation': 'collaborate'}
+Xiaoling Wu	{'relation': 'collaborate'}
+Henry P. Wynn	{'relation': 'collaborate'}
+Donald German	{'relation': 'collaborate'}
+Bahman Afsari	{'relation': 'collaborate'}
+Lei Xu	{'relation': 'collaborate'}
+Onn Chan	{'relation': 'collaborate'}
+Nathan L. Kleinman	{'relation': 'collaborate'}
+Carey E. Priebe	{'relation': 'collaborate'}
+D. Geman	{'relation': 'collaborate'}
+Aik Choon Tan	{'relation': 'collaborate'}
+Leslie M. Cope	{'relation': 'collaborate'}
+Jian Feng	{'relation': 'collaborate'}
+Henry P. Wynn	0
+David Gilbert	1
+Aik Choon Tan	{'relation': 'collaborate'}
+J. C. Spall	1
+Nathan L. Kleinman	{'relation': 'collaborate'}
+Nathan L. Kleinman	0
+Aik Choon Tan	4
+Donald German	{'relation': 'collaborate'}
+Lei Xu	{'relation': 'collaborate'}
+D. Geman	{'relation': 'collaborate'}
+Bahman Afsari	{'relation': 'collaborate'}
+Lei Xu	1
+D. Geman	{'relation': 'collaborate'}
+Jian Feng	0
+Bahman Afsari	1
+Donald German	{'relation': 'collaborate'}
+Giovanni Parmigiani	3
+Michael F. Ochs	{'relation': 'collaborate'}
+Rafael A. Irizarry	{'relation': 'collaborate'}
+Leslie M. Cope	{'relation': 'collaborate'}
+R E Stone	0
+Michael F. Ochs	1
+D. Geman	{'relation': 'collaborate'}
+Carey E. Priebe	1
+Leslie M. Cope	{'relation': 'collaborate'}
+Xiaoling Wu	0
+Onn Chan	0
+Leslie M. Cope	1
+Rafael A. Irizarry	{'relation': 'collaborate'}
+D. Geman	0
+Donald German	0
+Rafael A. Irizarry	0

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hideki Shima">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">candidate answer, textual entailment recognition, paraphrase pattern</data>
+    </node>
+    <node id="Frank Lin">
+      <data key="affiliation">Sperry Corporation</data>
+      <data key="research">32-bit MicroprocessorsThe benchmarking, 32-bit microprocessors, Benchmark Comparison</data>
+    </node>
+    <node id="Wang Sheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">LEACH-C protocol, LEACH-C Protocols, routing protocols change</data>
+    </node>
+    <node id="Keiji Yano">
+      <data key="affiliation">Ritsumeikan University, Kyoto, Japan</data>
+      <data key="research">city form, market demand, visual simulation</data>
+    </node>
+    <node id="Hironori Kasahara">
+      <data key="affiliation">Dept. of Computer Science</data>
+      <data key="research">OSCAR compiler, times speedup, coarse grain task</data>
+    </node>
+    <node id="Satoshi Tanaka">
+      <data key="affiliation">Nan</data>
+      <data key="research">data skew, estimation method, Dynamic Profiling</data>
+    </node>
+    <node id="T. Suda">
+      <data key="affiliation">University Netgroup Inc., P.O. Box 1288, Fallbrook, CA 92088, USA</data>
+      <data key="research">Molecular Communication, molecular communication system, network service</data>
+    </node>
+    <node id="J. William Murdock">
+      <data key="affiliation">IBM Watson Research Center Hawthorne, NY</data>
+      <data key="research">candidate answer, meta-case-based reasoning, legacy knowledge system</data>
+    </node>
+    <node id="Jorji Nonaka">
+      <data key="affiliation">Kyoto University</data>
+      <data key="research">CompositorHardware-accelerated image composition, distinct image composition hardware, final image</data>
+    </node>
+    <node id="Takahiro Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">natural disaster reduction, Disaster Reduction, Digital City</data>
+    </node>
+    <node id="Adam Lally">
+      <data key="affiliation">IBM T.J. Watson Research Center, Yorktown Heights, NY 10598, USA email: ferrucci@us.ibm.com alally@us.ibm.com</data>
+      <data key="research">candidate answer, complex factoid question, unstructured information</data>
+    </node>
+    <node id="Tsutomu Terada">
+      <data key="affiliation">Kobe University/Japan Science and Technology Agency, Kobe, Hyogo, Japan</data>
+      <data key="research">sound source, user context, evaluation result</data>
+    </node>
+    <node id="James Fan">
+      <data key="affiliation">Skyline Drive, Hawthorne, NY</data>
+      <data key="research">knowledge base, candidate answer, shallow knowledge</data>
+    </node>
+    <node id="Shinji Doi">
+      <data key="affiliation">The authors are with the Graduate School of Engineering, Osaka University, Suitashi, 5650871 Japan. Email: tmiya@pwr.eng.osakau.ac.jp</data>
+      <data key="research">Storage System, reliable storage system, threshold scheme</data>
+    </node>
+    <node id="Tadanori Mizuno">
+      <data key="affiliation">Faculty of Information Scinece, Aichi Institute of Technology, Shizuoka, Japan</data>
+      <data key="research">sensor node, mobile terminal, mobile host</data>
+    </node>
+    <node id="Hiroshi Kanayama">
+      <data key="affiliation">Nan</data>
+      <data key="research">Global Delivery, Language Translation, Human-quality translation</data>
+    </node>
+    <node id="Mengqiu Wang">
+      <data key="affiliation">University of Otago</data>
+      <data key="research">declarative agent programming support, existing agent platform, declarative goal</data>
+    </node>
+    <node id="Teruko Mitamura">
+      <data key="affiliation">LTI, CMU</data>
+      <data key="research">English article system, KANT machine translation system, KANT system</data>
+    </node>
+    <node id="B. K. Boguraev">
+      <data key="affiliation">IBM T. J. Watson Research Center</data>
+      <data key="research">document collection, complex factoid question, natural language processing</data>
+    </node>
+    <node id="Yusuke Miyao">
+      <data key="affiliation">National Institute of Informatics</data>
+      <data key="research">probabilistic model, HPSG parser, HPSG parsing</data>
+    </node>
+    <edge source="Hideki Shima" target="Adam Lally">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Takahiro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Hiroshi Kanayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Mengqiu Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="B. K. Boguraev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Teruko Mitamura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Frank Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="James Fan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="J. William Murdock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Satoshi Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hideki Shima" target="Yusuke Miyao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Lin" target="Mengqiu Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Lin" target="Teruko Mitamura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Sheng" target="Satoshi Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keiji Yano" target="Satoshi Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hironori Kasahara" target="Satoshi Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="Shinji Doi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="Tsutomu Terada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="Tadanori Mizuno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="T. Suda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="Jorji Nonaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Tanaka" target="Takahiro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. William Murdock" target="James Fan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. William Murdock" target="Adam Lally">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. William Murdock" target="B. K. Boguraev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Lally" target="B. K. Boguraev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Lally" target="James Fan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Fan" target="B. K. Boguraev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Kanayama" target="Yusuke Miyao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Kanayama" target="Teruko Mitamura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mengqiu Wang" target="Teruko Mitamura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Teruko Mitamura" target="Yusuke Miyao">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

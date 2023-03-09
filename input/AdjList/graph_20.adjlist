@@ -1,49 +1,52 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:51 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:51 2023
 # 
-Takamichi Tateoka	2
-Youichi Maeda	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-K. Komatsu	1
-T. Watanabe	{'relation': 'collaborate'}
-Y. Daido	1
-T. Watanabe	{'relation': 'collaborate'}
-S. Sawa	3
-S. Komatsu	{'relation': 'collaborate'}
-T. Itoh	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-Makoto Endo	1
-T. Watanabe	{'relation': 'collaborate'}
-H. Yamauchi	2
-T. Watanabe	{'relation': 'collaborate'}
-S. Okada	{'relation': 'collaborate'}
-T. Sakata	1
-T. Watanabe	{'relation': 'collaborate'}
-T. Itoh	2
-S. Komatsu	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-Youichi Maeda	1
-T. Watanabe	{'relation': 'collaborate'}
-T. Watanabe	10
-T. Fukumura	{'relation': 'collaborate'}
-H. Nakajima	{'relation': 'collaborate'}
-Jien Kato	{'relation': 'collaborate'}
-M. Ohsawa	{'relation': 'collaborate'}
-T. Ida	{'relation': 'collaborate'}
-R. Aoki	{'relation': 'collaborate'}
-S. Komatsu	{'relation': 'collaborate'}
-K. Ando	{'relation': 'collaborate'}
+A. Ohgai	1
+K. Watanabe	{'relation': 'collaborate'}
+T. Noguchi	4
+K. Watanabe	{'relation': 'collaborate'}
+Y. Ishii	{'relation': 'collaborate'}
+S. Kameda	{'relation': 'collaborate'}
 Y. Yamamoto	{'relation': 'collaborate'}
-S. Okada	{'relation': 'collaborate'}
-R. Aoki	0
-S. Komatsu	0
-T. Fukumura	0
-K. Ando	1
-M. Ohsawa	{'relation': 'collaborate'}
-T. Ida	0
-M. Ohsawa	0
-S. Okada	1
+S G. Tzafestas	1
+K. Watanabe	{'relation': 'collaborate'}
+I. Keshi	1
+K. Watanabe	{'relation': 'collaborate'}
+S. Fukuyama	2
+K. Watanabe	{'relation': 'collaborate'}
+T. Suzuki	{'relation': 'collaborate'}
+T. Takayama	2
+K. Watanabe	{'relation': 'collaborate'}
+S. Ogata	{'relation': 'collaborate'}
+Y. Yagi	2
+Y. Iwai	{'relation': 'collaborate'}
+K. Watanabe	{'relation': 'collaborate'}
+A. Hirabayashi	2
+K. Watanabe	{'relation': 'collaborate'}
 Y. Yamamoto	{'relation': 'collaborate'}
-H. Nakajima	0
-Y. Yamamoto	0
-Jien Kato	0
+Y. Yamamoto	2
+Y. Ishii	{'relation': 'collaborate'}
+K. Watanabe	{'relation': 'collaborate'}
+Y. Ishii	2
+K. Watanabe	{'relation': 'collaborate'}
+Y. Kubota	{'relation': 'collaborate'}
+S. Itoh	2
+K. Watanabe	{'relation': 'collaborate'}
+N. Azuma	{'relation': 'collaborate'}
+K. Watanabe	8
+Y. Kubota	{'relation': 'collaborate'}
+T. Suzuki	{'relation': 'collaborate'}
+Y. Iwai	{'relation': 'collaborate'}
+S. Ogata	{'relation': 'collaborate'}
+Tsu-Tian Lee	{'relation': 'collaborate'}
+T. Ishihara	{'relation': 'collaborate'}
+N. Azuma	{'relation': 'collaborate'}
+S. Kameda	{'relation': 'collaborate'}
+Tsu-Tian Lee	0
+Y. Kubota	0
+T. Ishihara	0
+S. Kameda	0
+S. Ogata	0
+N. Azuma	0
+T. Suzuki	0
+Y. Iwai	0

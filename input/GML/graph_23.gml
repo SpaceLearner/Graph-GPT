@@ -1,157 +1,177 @@
 graph [
   node [
     id 0
-    label "Y. Yagi"
-    affiliation "Nan"
-    research "large field, catadioptric omnidirectional image sensor, image mosaic"
+    label "Amit Dhurandhar"
+    affiliation "IBM Research, Yorktown Heights, NY, USA"
+    research "aggregated target, real data, classification algorithm"
   ]
   node [
     id 1
-    label "I. Keshi"
-    affiliation "Nan"
-    research "intelligent assistant system, knowledge-based framework"
+    label "Tamer Kahveci"
+    affiliation "Department of CISE University of Florida"
+    research "biological network, experimental result, metabolic network"
   ]
   node [
     id 2
-    label "S. Ogata"
-    affiliation "Graduate School of Engineering, Tokyo Metropolitan University, Hachioojishi, Tokyo, 1920397, Japan"
-    research "rtler vortex, Surfactant Solution, ppm surfactant solution"
+    label "Florin Rusu"
+    affiliation "University of California, Merced, Merced, CA"
+    research "big data analytics, entire data, entire data stream"
   ]
   node [
     id 3
-    label "Y. Ishii"
-    affiliation "Department of Information Systems Science, Faculty of Engineering, Soka University, 1236, Tangicho, Hachioji, Tokyo 1928577, Japan."
-    research "molten pool, UV radiation, Invisible Laser Beam"
+    label "Johannes E. Gehrke"
+    affiliation "4105B Upson Hall Cornell University Ithaca, NY 14853, USA"
+    research "data stream, data mining, synthetic data"
   ]
   node [
     id 4
-    label "A. Ohgai"
+    label "Fei Xu"
     affiliation "Nan"
-    research "Green Urbanism, Dhaka City, GU model"
+    research "subitizing range, large numerosity processing, temporo-parietal junction"
   ]
   node [
     id 5
-    label "S. Fukuyama"
-    affiliation "Fujitsu Microelectronics Ltd., 1500 Mizono, Tadocho, Kuwana, Mie 5110192, Japan"
-    research "fluorine contamination, barrier metal oxidation, Cu multilevel interconnects"
+    label "S. Ranka"
+    affiliation "IEEE"
+    research "experimental result, data point, baseline data"
   ]
   node [
     id 6
-    label "K. Watanabe"
-    affiliation "Nan"
-    research "control problem, discrete-time optimal control model, optimal control problem"
+    label "Shantanu H. Joshi"
+    affiliation "Laboratory of Neuroimaging, University of California, Los Angeles, CA"
+    research "shape space, shape analysis, observed shape"
   ]
   node [
     id 7
-    label "T. Ishihara"
-    affiliation "Nan"
-    research "clock rate, original signal, DFE mode"
+    label "Christopher Jermaine"
+    affiliation "Rice University, Houston, USA"
+    research "data set, data point, new data"
   ]
   node [
     id 8
-    label "Y. Iwai"
-    affiliation "Japan Federation of Medical Device Associations, Tokyo, Japan"
-    research "health indicator, physical health, health counseling"
+    label "Supriya Nirkhiwale"
+    affiliation "University of Florida"
+    research "optimal mobility pattern, optimization problem, delivery delay"
   ]
   node [
     id 9
-    label "T. Noguchi"
-    affiliation "Humanoid Robotics Institute, Waseda University, 341 Okubo Shinjukuku, Tokyo 1698555, Japan"
-    research "Waseda University, Humanoid Robotics Institute, Humanoid Robots"
+    label "Mingxi Wu"
+    affiliation "Oracle Corporation, Redwood Shores, USA"
+    research "data set, baseline data, data management"
   ]
   node [
     id 10
-    label "T. Takayama"
-    affiliation "Engineering Research Center, Toshiba Carrier Co. Ltd., Fujishi, Shizuoka, 4100395, Japan"
-    research "rtler vortex, Surfactant Solution, ppm surfactant solution"
+    label "Subramanian Arumugam"
+    affiliation "Nan"
+    research "web browser, web server, mobile agent"
   ]
   node [
     id 11
-    label "N. Azuma"
-    affiliation "Nan"
-    research "better picture quality, sound quality, Multi-Track PCM Audio Utilizing"
+    label "Alin Dobra"
+    affiliation "University of Florida, Gainesville, FL"
+    research "aggregate query, fault tolerance, sensor network"
   ]
   node [
     id 12
-    label "T. Suzuki"
-    affiliation "Nan"
-    research "monolithic ICs, repeater circuit, GaAs ICs"
+    label "Rajeev Rastogi"
+    affiliation "Yahoo! Labs Bangalore, Bangalore, India"
+    research "content redundancy, attribute value, real-life web data"
   ]
   node [
     id 13
-    label "S. Itoh"
-    affiliation "Shock Wave and Condensed Matter Research Center, Kumamoto University, 2391, Kurokami, Kumamoto, 8608555, Japan. Tel: +81963423299/ FAX: +81963423299/ Email: pdsm@mech.kumamotou.ac.jp"
-    research "stress wave, Numerical Analysis, blasting process"
+    label "David Kempe"
+    affiliation "University of Southern California, Los Angeles, California"
+    research "social network, approximation algorithm, network effect"
   ]
   node [
     id 14
-    label "S G. Tzafestas"
-    affiliation "National Technical, University of Athens, Athens, Greece"
-    research "fuzzy logic, control scheme, fuzzy reasoning"
+    label "Lixia Chen"
+    affiliation "Nan"
+    research "different diffusion, different region, gradient direction"
   ]
   node [
     id 15
-    label "Y. Yamamoto"
-    affiliation "National Aerospace Laboratory, Tokyo, JAPAN"
-    research "target performance, NWT Fortran, NAL numerical wind tunnel"
+    label "Laukik Chitnis"
+    affiliation "Google, 1600 Amphitheatre Parkway, Mountain View CA 94041 USA"
+    research "fault tolerance, sensor network, fault model"
   ]
   node [
     id 16
-    label "A. Hirabayashi"
-    affiliation "Nan"
-    research "memorization learning, noisy training example"
+    label "Abhijit Pol"
+    affiliation "University of Florida, Gainesville, FL"
+    research "large sample, data set, fundamental data management tool"
   ]
   node [
     id 17
-    label "Y. Kubota"
-    affiliation "Sony Corp., Tokyo"
-    research "consumer digital VCRsA video, consumer use digital VCRs, consumer-use digital VCRWe"
+    label "Minos N. Garofalakis"
+    affiliation "Nan"
+    research "seasoned TPC chair, subject matter, custom conference-centric reviewer"
   ]
   node [
     id 18
-    label "S. Kameda"
-    affiliation "Research Institute of Electrical Communication, Tohoku University"
-    research "reuse factor, frequency reuse factor, downlink throughput distribution"
+    label "Haitham Gabr"
+    affiliation "University of Florida, CISE Department, Gainesville, Florida 32611"
+    research "associate polynomial term, bivariate polynomial, difficult computational problem"
   ]
   node [
     id 19
-    label "Tsu-Tian Lee"
-    affiliation "Department of Electrical Engineering, Taipei University of Technology, Taipei, Taiwan"
-    research "rule base, Research ArticlesThe consistency, consistency degree"
+    label "Niketan Pansare"
+    affiliation "Rice University, Houston, TX, USA"
+    research "content relevance, relevant content, social network"
   ]
   edge [
     source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
+    target 11
     relation "collaborate"
   ]
   edge [
     source 1
-    target 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
     relation "collaborate"
   ]
   edge [
     source 2
-    target 6
+    target 11
     relation "collaborate"
   ]
   edge [
     source 2
-    target 10
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 4
     relation "collaborate"
   ]
   edge [
     source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -161,57 +181,47 @@ graph [
   ]
   edge [
     source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 9
     relation "collaborate"
   ]
   edge [
     source 4
-    target 6
+    target 7
     relation "collaborate"
   ]
   edge [
     source 5
-    target 6
+    target 15
     relation "collaborate"
   ]
   edge [
     source 5
-    target 12
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 17
+    source 5
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 5
     target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 10
     relation "collaborate"
   ]
   edge [
@@ -221,7 +231,7 @@ graph [
   ]
   edge [
     source 6
-    target 11
+    target 10
     relation "collaborate"
   ]
   edge [
@@ -231,27 +241,67 @@ graph [
   ]
   edge [
     source 6
-    target 15
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
     relation "collaborate"
   ]
   edge [
@@ -260,8 +310,38 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
     relation "collaborate"
   ]
 ]

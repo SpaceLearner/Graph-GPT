@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Artem Katasonov">
+      <data key="affiliation">VTT Technical Research Centre of Finland, Tampere, Finland</data>
+      <data key="research">Semantic Agent Programming, smart entity, requirements quality control</data>
+    </node>
+    <node id="Igor Keleberda">
+      <data key="affiliation">Kharkiv National University of RadioElectronics, Kharkiv, Ukraine</data>
+      <data key="research">personalized search, learner profile, object description</data>
+    </node>
+    <node id="Mikko Kovalainen">
+      <data key="affiliation">Solution Garden Ltd., Jyväskylä, Finland</data>
+      <data key="research">subject matter, decision support medical system, medical data</data>
+    </node>
+    <node id="Borys Omelayenko">
+      <data key="affiliation">Division of Mathmatics and Computer Science, Vrije Universiteit Amsterdam, De Boelelaan 1081a, 1081 HV Amsterdam, Netherlands</data>
+      <data key="research">semantic web, business science, product catalog</data>
+    </node>
+    <node id="Jian Tang">
+      <data key="affiliation">School of Reliability and System Engineering, Beihang University, Beijing, China</data>
+      <data key="research">prediction interval, data character, modified Block Bootstrap prediction</data>
+    </node>
+    <node id="Cheryl Bauman">
+      <data key="affiliation">TORC Technologies, LLC, Blacksburg, Virginia 24060</data>
+      <data key="research">Urban Challenge, Team VictorTango, Virginia Tech</data>
+    </node>
+    <node id="Jari Veijalainen">
+      <data key="affiliation">Univ. of Jyvaskyla Finland</data>
+      <data key="research">mobile device, mobile terminal, mobile E-commerce</data>
+    </node>
+    <node id="Seppo Puuronen">
+      <data key="affiliation">Univ. of Jyv¨skyla¨, Jyv¨skyla¨, Finland</data>
+      <data key="research">Dynamic Integration, data set, feature selection</data>
+    </node>
+    <node id="Hamidreza Baghi">
+      <data key="affiliation">Dept. of Computer Science, University of Calgary, Canada</data>
+      <data key="research">learner profile, server component, specific subject</data>
+    </node>
+    <node id="Yevgen Biletskiy">
+      <data key="affiliation">Nan</data>
+      <data key="research">product line, possible product, product line test space</data>
+    </node>
+    <node id="Michael Fleming">
+      <data key="affiliation">TORC Technologies, LLC, Blacksburg, Virginia 24060</data>
+      <data key="research">Urban Challenge, Team VictorTango, DARPA Urban ChallengeThe DARPA</data>
+    </node>
+    <node id="Alexey Tsymbal">
+      <data key="affiliation">Corporate Technology Division Siemens AG Erlangen, Germany. Email: alexey.tsymbal@siemens.com</data>
+      <data key="research">Dynamic Integration, new instance, local accuracy estimate</data>
+    </node>
+    <node id="M A. Bramer">
+      <data key="affiliation">School of Computing, University of Portsmouth, Portsmouth, UK</data>
+      <data key="research">Artificial Intelligence, data mining, classification rule</data>
+    </node>
+    <node id="Vladimir Ryabov">
+      <data key="affiliation">University of Jyväskylä</data>
+      <data key="research">basic relation, indeterminate temporal point, temporal information</data>
+    </node>
+    <node id="Bruce Spencer">
+      <data key="affiliation">Internet Logic Group of the National Research Council, Institute for Information Technology eBusiness</data>
+      <data key="research">underlying classifier, private information, international conference</data>
+    </node>
+    <node id="Natalya Lesna">
+      <data key="affiliation">Kharkov National University of Radioelectronics</data>
+      <data key="research">Personalized Distance Learning, distant learning process automation, Multiagent Ontological System</data>
+    </node>
+    <node id="Anton Naumenko">
+      <data key="affiliation">Industrial Ontologies Group, MIT Department, University of Jyvaskyla, Jyvaskyla, Finland FIN40014</data>
+      <data key="research">business network, information security, EA approach</data>
+    </node>
+    <node id="Sergiy Nikitin">
+      <data key="affiliation">University of Jyväskylä, Finland</data>
+      <data key="research">context representation, context-sensitive metadata, faceted taxonomy</data>
+    </node>
+    <node id="Henry Tirri">
+      <data key="affiliation">Nokia Research Center</data>
+      <data key="research">wireless sensor network, computing unit, sensor information</data>
+    </node>
+    <node id="Vagan Y. Terziyan">
+      <data key="affiliation">Kharkov State Technical University of Radioelectronics, Kharkov, Ukraine</data>
+      <data key="research">data mining method, data base, appropriate data mining method</data>
+    </node>
+    <edge source="Artem Katasonov" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Artem Katasonov" target="Sergiy Nikitin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Igor Keleberda" target="Michael Fleming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Igor Keleberda" target="Natalya Lesna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Igor Keleberda" target="Hamidreza Baghi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Igor Keleberda" target="Yevgen Biletskiy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Igor Keleberda" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mikko Kovalainen" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mikko Kovalainen" target="Seppo Puuronen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Borys Omelayenko" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Tang" target="Jari Veijalainen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Tang" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheryl Bauman" target="Michael Fleming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jari Veijalainen" target="Henry Tirri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jari Veijalainen" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jari Veijalainen" target="Sergiy Nikitin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seppo Puuronen" target="Vladimir Ryabov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seppo Puuronen" target="Alexey Tsymbal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seppo Puuronen" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hamidreza Baghi" target="Michael Fleming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hamidreza Baghi" target="Yevgen Biletskiy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yevgen Biletskiy" target="Michael Fleming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Fleming" target="Bruce Spencer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexey Tsymbal" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M A. Bramer" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir Ryabov" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce Spencer" target="Bruce Spencer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Natalya Lesna" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anton Naumenko" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anton Naumenko" target="Sergiy Nikitin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sergiy Nikitin" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Henry Tirri" target="Vagan Y. Terziyan">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

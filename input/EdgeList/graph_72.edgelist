@@ -1,33 +1,43 @@
-Kazuo Ohta	Noboru Kunihiro	{'relation': 'collaborate'}
-Kazuo Ohta	Tetsuro Nishino	{'relation': 'collaborate'}
-Hiroshi Unno	Takeo Yaku	{'relation': 'collaborate'}
-Hiroshi Unno	Kensei Tsuchida	{'relation': 'collaborate'}
-Hiroshi Unno	Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsunosuke Fujisaki	Emiko Suzuki	{'relation': 'collaborate'}
-Tetsunosuke Fujisaki	Tetsuro Nishino	{'relation': 'collaborate'}
-Kazutoshi Sasahara	Tetsuro Nishino	{'relation': 'collaborate'}
-Kazutoshi Sasahara	Miki Takahasi	{'relation': 'collaborate'}
-Kazutoshi Sasahara	Kazuo Okanoya	{'relation': 'collaborate'}
-Takashi Mihara	Tetsuro Nishino	{'relation': 'collaborate'}
-Robert Beals	Tetsuro Nishino	{'relation': 'collaborate'}
-Satoshi Kobayashi	Yasubumi Sakakibara	{'relation': 'collaborate'}
-Satoshi Kobayashi	Etsuji Tomita	{'relation': 'collaborate'}
-Satoshi Kobayashi	Tetsuro Nishino	{'relation': 'collaborate'}
-Satoshi Kobayashi	Kengo Sato	{'relation': 'collaborate'}
-Junji Nishino	Tetsuro Nishino	{'relation': 'collaborate'}
-Kensei Tsuchida	Tetsuro Nishino	{'relation': 'collaborate'}
-Kensei Tsuchida	Takeo Yaku	{'relation': 'collaborate'}
-Kengo Sato	Tetsuro Nishino	{'relation': 'collaborate'}
-Kengo Sato	Yasubumi Sakakibara	{'relation': 'collaborate'}
-Kengo Sato	Etsuji Tomita	{'relation': 'collaborate'}
-Takeo Yaku	Tetsuro Nishino	{'relation': 'collaborate'}
-Setsuo Yamada	Tetsuro Nishino	{'relation': 'collaborate'}
-Kazuo Okanoya	Miki Takahasi	{'relation': 'collaborate'}
-Kazuo Okanoya	Tetsuro Nishino	{'relation': 'collaborate'}
-Yasubumi Sakakibara	Etsuji Tomita	{'relation': 'collaborate'}
-Yasubumi Sakakibara	Tetsuro Nishino	{'relation': 'collaborate'}
-Noboru Kunihiro	Tetsuro Nishino	{'relation': 'collaborate'}
-Etsuji Tomita	Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsuro Nishino	Tadashi Yamazaki	{'relation': 'collaborate'}
-Tetsuro Nishino	Emiko Suzuki	{'relation': 'collaborate'}
-Tetsuro Nishino	Miki Takahasi	{'relation': 'collaborate'}
+Scott Hahn	Vishal Gupta	{'relation': 'collaborate'}
+Scott Hahn	Ganapati Srinivasa	{'relation': 'collaborate'}
+Scott Hahn	Karsten Schwan	{'relation': 'collaborate'}
+Scott Hahn	Dheeraj Reddy	{'relation': 'collaborate'}
+Scott Hahn	Paul Brett	{'relation': 'collaborate'}
+Scott Hahn	D. A. Koufaty	{'relation': 'collaborate'}
+D. A. Koufaty	Karsten Schwan	{'relation': 'collaborate'}
+D. A. Koufaty	Vishal Gupta	{'relation': 'collaborate'}
+D. A. Koufaty	Ganapati Srinivasa	{'relation': 'collaborate'}
+D. A. Koufaty	Dheeraj Reddy	{'relation': 'collaborate'}
+D. A. Koufaty	Paul Brett	{'relation': 'collaborate'}
+Gennette Gill	Montek Singh	{'relation': 'collaborate'}
+Gennette Gill	Vishal Gupta	{'relation': 'collaborate'}
+Montek Singh	Vishal Gupta	{'relation': 'collaborate'}
+Gopal Datt Joshi	Vishal Gupta	{'relation': 'collaborate'}
+Gopal Datt Joshi	Pulkit Parikh	{'relation': 'collaborate'}
+Gopal Datt Joshi	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Karsten Schwan	Paul Brett	{'relation': 'collaborate'}
+Karsten Schwan	Ganapati Srinivasa	{'relation': 'collaborate'}
+Karsten Schwan	Dheeraj Reddy	{'relation': 'collaborate'}
+Karsten Schwan	Min Lee	{'relation': 'collaborate'}
+Karsten Schwan	Vishal Gupta	{'relation': 'collaborate'}
+Karsten Schwan	Ripal Nathuji	{'relation': 'collaborate'}
+Vishal Gupta	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
+Vishal Gupta	Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
+Vishal Gupta	Paul Brett	{'relation': 'collaborate'}
+Vishal Gupta	Pulkit Parikh	{'relation': 'collaborate'}
+Vishal Gupta	K. Najeeb	{'relation': 'collaborate'}
+Vishal Gupta	Dheeraj Reddy	{'relation': 'collaborate'}
+Vishal Gupta	S. C. Sharma	{'relation': 'collaborate'}
+Vishal Gupta	Min Lee	{'relation': 'collaborate'}
+Vishal Gupta	V. Kamakoti	{'relation': 'collaborate'}
+Vishal Gupta	D. Bertsimas	{'relation': 'collaborate'}
+Vishal Gupta	Ganapati Srinivasa	{'relation': 'collaborate'}
+Vishal Gupta	Ripal Nathuji	{'relation': 'collaborate'}
+Vishal Gupta	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Dheeraj Reddy	Ganapati Srinivasa	{'relation': 'collaborate'}
+Dheeraj Reddy	Paul Brett	{'relation': 'collaborate'}
+Ioannis Ch. Paschalidis	D. Bertsimas	{'relation': 'collaborate'}
+Ripal Nathuji	Min Lee	{'relation': 'collaborate'}
+V. Kamakoti	K. Najeeb	{'relation': 'collaborate'}
+Paul Brett	Ganapati Srinivasa	{'relation': 'collaborate'}
+Sitaram Ramachandrula	Pulkit Parikh	{'relation': 'collaborate'}

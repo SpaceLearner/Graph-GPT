@@ -1,51 +1,39 @@
-P. Majhi	R. Jammy	{'relation': 'collaborate'}
-P. Majhi	Sanjay Banerjee	{'relation': 'collaborate'}
-P. Majhi	R. Harris	{'relation': 'collaborate'}
-P. Majhi	J. Oh	{'relation': 'collaborate'}
-P. Majhi	P. Kalra	{'relation': 'collaborate'}
-P. Majhi	S. Lee	{'relation': 'collaborate'}
-P. Majhi	H. Tseng	{'relation': 'collaborate'}
-P. Majhi	P. D. Kirsch	{'relation': 'collaborate'}
-J. Oh	Sanjay Banerjee	{'relation': 'collaborate'}
-J. Oh	S. Lee	{'relation': 'collaborate'}
-J. Oh	H. Tseng	{'relation': 'collaborate'}
-J. Oh	R. Harris	{'relation': 'collaborate'}
-J. Oh	P. D. Kirsch	{'relation': 'collaborate'}
-J. Oh	P. Kalra	{'relation': 'collaborate'}
-J. Oh	R. Jammy	{'relation': 'collaborate'}
-R. Harris	Simon Finn	{'relation': 'collaborate'}
-R. Harris	J. F. McDonald	{'relation': 'collaborate'}
-R. Harris	R. B. Hughes	{'relation': 'collaborate'}
-R. Harris	R. Jammy	{'relation': 'collaborate'}
-R. Harris	Sanjay Banerjee	{'relation': 'collaborate'}
-R. Harris	Gerry Musgrave	{'relation': 'collaborate'}
-R. Harris	T. Impelluso	{'relation': 'collaborate'}
-R. Harris	H. Tseng	{'relation': 'collaborate'}
-R. Harris	P. D. Kirsch	{'relation': 'collaborate'}
-R. Harris	P. Kristiansen	{'relation': 'collaborate'}
-R. Harris	S. Lee	{'relation': 'collaborate'}
-R. Harris	Daniel Druckman	{'relation': 'collaborate'}
-R. Harris	P. Kalra	{'relation': 'collaborate'}
-Simon Finn	M P Fourman	{'relation': 'collaborate'}
-Simon Finn	John Longley	{'relation': 'collaborate'}
-Simon Finn	R. B. Hughes	{'relation': 'collaborate'}
-Simon Finn	Gerry Musgrave	{'relation': 'collaborate'}
-R. Jammy	H. Tseng	{'relation': 'collaborate'}
-R. Jammy	P. D. Kirsch	{'relation': 'collaborate'}
-R. Jammy	S. Lee	{'relation': 'collaborate'}
-R. Jammy	Sanjay Banerjee	{'relation': 'collaborate'}
-R. Jammy	P. Kalra	{'relation': 'collaborate'}
-John Longley	M P Fourman	{'relation': 'collaborate'}
-R. J. Caron	J. F. McDonald	{'relation': 'collaborate'}
-Gerry Musgrave	R. B. Hughes	{'relation': 'collaborate'}
-H. Tseng	P. D. Kirsch	{'relation': 'collaborate'}
-H. Tseng	S. Lee	{'relation': 'collaborate'}
-H. Tseng	P. Kalra	{'relation': 'collaborate'}
-H. Tseng	Sanjay Banerjee	{'relation': 'collaborate'}
-Sanjay Banerjee	S. Lee	{'relation': 'collaborate'}
-Sanjay Banerjee	P. Kalra	{'relation': 'collaborate'}
-Sanjay Banerjee	P. D. Kirsch	{'relation': 'collaborate'}
-P. D. Kirsch	P. Kalra	{'relation': 'collaborate'}
-P. D. Kirsch	S. Lee	{'relation': 'collaborate'}
-R. D. Freeman	J. F. McDonald	{'relation': 'collaborate'}
-P. Kalra	S. Lee	{'relation': 'collaborate'}
+Lisa Neal	David R. Kaufman	{'relation': 'collaborate'}
+Lisa Neal	Derek L. Hansen	{'relation': 'collaborate'}
+Lisa Neal	Diane Miller	{'relation': 'collaborate'}
+Lisa Neal	Diana Laurillard	{'relation': 'collaborate'}
+Lisa Neal	Clark N. Quinn	{'relation': 'collaborate'}
+Lisa Neal	Gitte Lindgaard	{'relation': 'collaborate'}
+Lisa Neal	Saul Carliner	{'relation': 'collaborate'}
+Lisa Neal	Mark Notess	{'relation': 'collaborate'}
+Lisa Neal	Jenny Preece	{'relation': 'collaborate'}
+Lisa Neal	Ben Shneiderman	{'relation': 'collaborate'}
+Lisa Neal	Yvonne Waern	{'relation': 'collaborate'}
+L. Plowman	Rosemary Luckin	{'relation': 'collaborate'}
+L. Plowman	Diana Laurillard	{'relation': 'collaborate'}
+L. Plowman	Josie Taylor	{'relation': 'collaborate'}
+Rosemary Luckin	Josie Taylor	{'relation': 'collaborate'}
+Rosemary Luckin	Diana Laurillard	{'relation': 'collaborate'}
+Maria Grigoriadou	Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Maria Grigoriadou	George D. Magoulas	{'relation': 'collaborate'}
+Maria Grigoriadou	Patricia Charlton	{'relation': 'collaborate'}
+Maria Grigoriadou	Diana Laurillard	{'relation': 'collaborate'}
+Diana Laurillard	George D. Magoulas	{'relation': 'collaborate'}
+Diana Laurillard	Patricia Charlton	{'relation': 'collaborate'}
+Diana Laurillard	Yvonne Waern	{'relation': 'collaborate'}
+Diana Laurillard	Giorgio Marullo	{'relation': 'collaborate'}
+Diana Laurillard	Jenny Preece	{'relation': 'collaborate'}
+Diana Laurillard	Ben Shneiderman	{'relation': 'collaborate'}
+Diana Laurillard	Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Diana Laurillard	Josie Taylor	{'relation': 'collaborate'}
+Patricia Charlton	Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Patricia Charlton	George D. Magoulas	{'relation': 'collaborate'}
+Gitte Lindgaard	Derek L. Hansen	{'relation': 'collaborate'}
+Gitte Lindgaard	David R. Kaufman	{'relation': 'collaborate'}
+George D. Magoulas	George D. Magoulas	{'relation': 'collaborate'}
+George D. Magoulas	Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
+Derek L. Hansen	Jenny Preece	{'relation': 'collaborate'}
+Derek L. Hansen	Ben Shneiderman	{'relation': 'collaborate'}
+Jenny Preece	Ben Shneiderman	{'relation': 'collaborate'}
+Jenny Preece	Yvonne Waern	{'relation': 'collaborate'}
+Yvonne Waern	Ben Shneiderman	{'relation': 'collaborate'}

@@ -1,61 +1,55 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:06 2023
 # 
-L. Vergara	15
-Sebastian Provenzano	{'relation': 'collaborate'}
-Jorge Moragues	{'relation': 'collaborate'}
-Jorge Gosalbez	{'relation': 'collaborate'}
-Antonio Soriano	{'relation': 'collaborate'}
-Andres Camacho	{'relation': 'collaborate'}
-J. Morales	{'relation': 'collaborate'}
-Soledad Gomez	{'relation': 'collaborate'}
-P. Bernabeu	{'relation': 'collaborate'}
-Arturo Serrano	{'relation': 'collaborate'}
-J. Sastre	{'relation': 'collaborate'}
-V. Naranjo	{'relation': 'collaborate'}
-Raul Llinares	{'relation': 'collaborate'}
-Jorge Igual	{'relation': 'collaborate'}
-Francklin Rivas	{'relation': 'collaborate'}
-A. Rodríguez	{'relation': 'collaborate'}
-Francklin Rivas	2
-F. J. Fuenmayor	{'relation': 'collaborate'}
-Sebastian Provenzano	{'relation': 'collaborate'}
-V. Naranjo	1
-J. Sastre	{'relation': 'collaborate'}
-P. Bernabeu	2
-Andres Camacho	{'relation': 'collaborate'}
-Jorge Igual	{'relation': 'collaborate'}
-Ana Cabrera	3
-Jorge Moragues	{'relation': 'collaborate'}
-Areti Damala	{'relation': 'collaborate'}
-Kiel M Gilleade	{'relation': 'collaborate'}
-Antonio Soriano	1
-Jorge Moragues	{'relation': 'collaborate'}
-Jorge Gosalbez	4
-Raul Llinares	{'relation': 'collaborate'}
-Jorge Igual	{'relation': 'collaborate'}
-Arturo Serrano	{'relation': 'collaborate'}
-Jorge Moragues	{'relation': 'collaborate'}
-J. Sastre	0
-J. Morales	0
-Soledad Gomez	1
-Jorge Moragues	{'relation': 'collaborate'}
-Sebastian Provenzano	1
-F. J. Fuenmayor	{'relation': 'collaborate'}
-Jorge Igual	3
-Raul Llinares	{'relation': 'collaborate'}
-Andres Camacho	{'relation': 'collaborate'}
-Arturo Serrano	{'relation': 'collaborate'}
-Areti Damala	2
-Kiel M Gilleade	{'relation': 'collaborate'}
-Jorge Moragues	{'relation': 'collaborate'}
-Jorge Moragues	1
-Kiel M Gilleade	{'relation': 'collaborate'}
-F. J. Fuenmayor	0
-Kiel M Gilleade	0
-Raul Llinares	2
-Arturo Serrano	{'relation': 'collaborate'}
-Andres Camacho	{'relation': 'collaborate'}
-Andres Camacho	0
-Arturo Serrano	0
-A. Rodríguez	0
+Carine Hue	3
+Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+P. Perez	{'relation': 'collaborate'}
+Marc Boulle	{'relation': 'collaborate'}
+O. Trémois	1
+Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+Emmanuel Veneau	2
+P Bouthemy	{'relation': 'collaborate'}
+Rémi Ronfard	{'relation': 'collaborate'}
+Nicolas Papadakis	4
+Alexandre Hervieu	{'relation': 'collaborate'}
+Aurélie Bugeau	{'relation': 'collaborate'}
+V. Caselles	{'relation': 'collaborate'}
+Pau Gargallo	{'relation': 'collaborate'}
+Éric Anquetil	2
+Frédéric Dambreville	{'relation': 'collaborate'}
+Bertrand Coüasnon	{'relation': 'collaborate'}
+Aurélie Bugeau	4
+V. Caselles	{'relation': 'collaborate'}
+Alexandre Hervieu	{'relation': 'collaborate'}
+P. Perez	{'relation': 'collaborate'}
+Pau Gargallo	{'relation': 'collaborate'}
+Rémi Ronfard	1
+P Bouthemy	{'relation': 'collaborate'}
+A. Chessel	1
+P Bouthemy	{'relation': 'collaborate'}
+Roger Mohr	1
+P Bouthemy	{'relation': 'collaborate'}
+P. Perez	3
+P Bouthemy	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+R. Venkatehs Babu	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	3
+Frédéric Dambreville	{'relation': 'collaborate'}
+Alexandre Hervieu	{'relation': 'collaborate'}
+P Bouthemy	{'relation': 'collaborate'}
+Alexandre Hervieu	3
+Pau Gargallo	{'relation': 'collaborate'}
+P Bouthemy	{'relation': 'collaborate'}
+V. Caselles	{'relation': 'collaborate'}
+Pau Gargallo	1
+V. Caselles	{'relation': 'collaborate'}
+Bertrand Coüasnon	1
+Frédéric Dambreville	{'relation': 'collaborate'}
+Frédéric Dambreville	0
+Alain Lehmann	1
+P Bouthemy	{'relation': 'collaborate'}
+V. Caselles	0
+R. Venkatehs Babu	1
+P Bouthemy	{'relation': 'collaborate'}
+P Bouthemy	0
+Marc Boulle	0

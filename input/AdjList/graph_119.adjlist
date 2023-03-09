@@ -1,57 +1,55 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:07 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:11 2023
 # 
-Giorgio Leuzzi	4
-Giuseppe Ferri	{'relation': 'collaborate'}
-Antonio Serino	{'relation': 'collaborate'}
-Franco Giannini	{'relation': 'collaborate'}
-Dominique Schreurs	{'relation': 'collaborate'}
-Antonio Serino	2
-Franco Giannini	{'relation': 'collaborate'}
-Dominique Schreurs	{'relation': 'collaborate'}
-Renato Menicocci	2
-Alessandro Trifiletti	{'relation': 'collaborate'}
-Giuseppe Scotti	{'relation': 'collaborate'}
-G. Ricotti	3
-M. Faccio	{'relation': 'collaborate'}
-Giuseppe Ferri	{'relation': 'collaborate'}
-D. Rossi	{'relation': 'collaborate'}
-F. Santucci	2
-Maurizio Colizza	{'relation': 'collaborate'}
-M. Faccio	{'relation': 'collaborate'}
-W. Sansen	1
-Giuseppe Ferri	{'relation': 'collaborate'}
-Giuseppe Scotti	7
-M. Bucci	{'relation': 'collaborate'}
-A. D. Grasso	{'relation': 'collaborate'}
-Giuseppe Ferri	{'relation': 'collaborate'}
-Francesco Centurelli	{'relation': 'collaborate'}
-Alessandro Trifiletti	{'relation': 'collaborate'}
-Massimo Alioto	{'relation': 'collaborate'}
-S. Pennisi	{'relation': 'collaborate'}
-M. Faccio	4
-Giuseppe Ferri	{'relation': 'collaborate'}
-Maurizio Colizza	{'relation': 'collaborate'}
-G. Ciccarella	{'relation': 'collaborate'}
-D. Rossi	{'relation': 'collaborate'}
-Francesco Centurelli	3
-Giuseppe Ferri	{'relation': 'collaborate'}
-S. Pennisi	{'relation': 'collaborate'}
-Alessandro Trifiletti	{'relation': 'collaborate'}
-Massimo Alioto	1
-Alessandro Trifiletti	{'relation': 'collaborate'}
-S. Pennisi	2
-Alessandro Trifiletti	{'relation': 'collaborate'}
-A. D. Grasso	{'relation': 'collaborate'}
-D. Rossi	1
-Giuseppe Ferri	{'relation': 'collaborate'}
-A. D. Grasso	1
-Alessandro Trifiletti	{'relation': 'collaborate'}
-M. Bucci	0
-Alessandro Trifiletti	1
-Giuseppe Ferri	{'relation': 'collaborate'}
-Dominique Schreurs	0
-Giuseppe Ferri	0
-Franco Giannini	0
-G. Ciccarella	0
-Maurizio Colizza	0
+M. P. Mullen	2
+S. M. German	{'relation': 'collaborate'}
+D. G. Bair	{'relation': 'collaborate'}
+James H. Morris	1
+Ben Wegbreit	{'relation': 'collaborate'}
+Daphne Koller	4
+Sebastian B. Thrun	{'relation': 'collaborate'}
+Joseph Y. Halpern	{'relation': 'collaborate'}
+Michael Montemerlo	{'relation': 'collaborate'}
+Ben Wegbreit	{'relation': 'collaborate'}
+Sebastian B. Thrun	3
+Michael Montemerlo	{'relation': 'collaborate'}
+Ben Wegbreit	{'relation': 'collaborate'}
+Daphne Roller	{'relation': 'collaborate'}
+Joseph Y. Halpern	2
+S. M. German	{'relation': 'collaborate'}
+Daphne Roller	{'relation': 'collaborate'}
+Greg Hager	1
+Ben Wegbreit	{'relation': 'collaborate'}
+Ronald V. Book	3
+Sheila A. Greibach	{'relation': 'collaborate'}
+Oscar H. Ibarra	{'relation': 'collaborate'}
+Ben Wegbreit	{'relation': 'collaborate'}
+Oscar H. Ibarra	2
+Ben Wegbreit	{'relation': 'collaborate'}
+Sheila A. Greibach	{'relation': 'collaborate'}
+Jay M. Spitzen	2
+Charles J. Prenner	{'relation': 'collaborate'}
+Ben Wegbreit	{'relation': 'collaborate'}
+Michael Montemerlo	2
+Daphne Roller	{'relation': 'collaborate'}
+Ben Wegbreit	{'relation': 'collaborate'}
+Tom Cheatham	2
+Ben Wegbreit	{'relation': 'collaborate'}
+Daniel G. Bobrow	{'relation': 'collaborate'}
+Daniel G. Bobrow	1
+Ben Wegbreit	{'relation': 'collaborate'}
+Yuan Lu	1
+S. M. German	{'relation': 'collaborate'}
+J. Mitchell	1
+Ben Wegbreit	{'relation': 'collaborate'}
+D. G. Bair	1
+S. M. German	{'relation': 'collaborate'}
+Charles J. Prenner	1
+Ben Wegbreit	{'relation': 'collaborate'}
+Sheila A. Greibach	1
+Ben Wegbreit	{'relation': 'collaborate'}
+Ben Wegbreit	2
+S. M. German	{'relation': 'collaborate'}
+Daphne Roller	{'relation': 'collaborate'}
+S. M. German	0
+Daphne Roller	0

@@ -1,47 +1,37 @@
-K. Ecker	J Weglarz	{'relation': 'collaborate'}
-K. Ecker	J Blazewicz	{'relation': 'collaborate'}
-K. Ecker	Günter Schmidt	{'relation': 'collaborate'}
-K. Ecker	E. Pesch	{'relation': 'collaborate'}
-Franz Freyberger	Günter Schmidt	{'relation': 'collaborate'}
-Franz Freyberger	E. Ettelt	{'relation': 'collaborate'}
-Franz Freyberger	C. Fischer	{'relation': 'collaborate'}
-Andrew B. Whinston	Troy Jefferson Strader	{'relation': 'collaborate'}
-Andrew B. Whinston	Robert W. Blanning	{'relation': 'collaborate'}
-Andrew B. Whinston	Michael J. Shaw	{'relation': 'collaborate'}
-Andrew B. Whinston	Günter Schmidt	{'relation': 'collaborate'}
-Andrew B. Whinston	P. Bernus	{'relation': 'collaborate'}
-E. Pesch	Günter Schmidt	{'relation': 'collaborate'}
-E. Pesch	J Weglarz	{'relation': 'collaborate'}
-E. Pesch	J Blazewicz	{'relation': 'collaborate'}
-M. Drozdowski	Günter Schmidt	{'relation': 'collaborate'}
-M. Drozdowski	J Blazewicz	{'relation': 'collaborate'}
-M. Drozdowski	J Weglarz	{'relation': 'collaborate'}
-M. Drozdowski	W. Kubiak	{'relation': 'collaborate'}
-M. Drozdowski	P. Formanowicz	{'relation': 'collaborate'}
-Troy Jefferson Strader	Günter Schmidt	{'relation': 'collaborate'}
-Troy Jefferson Strader	Michael J. Shaw	{'relation': 'collaborate'}
-Troy Jefferson Strader	P. Bernus	{'relation': 'collaborate'}
-Troy Jefferson Strader	Robert W. Blanning	{'relation': 'collaborate'}
-J Weglarz	J Blazewicz	{'relation': 'collaborate'}
-J Weglarz	Günter Schmidt	{'relation': 'collaborate'}
-P. Formanowicz	J Blazewicz	{'relation': 'collaborate'}
-P. Formanowicz	Günter Schmidt	{'relation': 'collaborate'}
-P. Formanowicz	W. Kubiak	{'relation': 'collaborate'}
-Michael J. Shaw	Robert W. Blanning	{'relation': 'collaborate'}
-Michael J. Shaw	Günter Schmidt	{'relation': 'collaborate'}
-Michael J. Shaw	P. Bernus	{'relation': 'collaborate'}
-C. Fischer	E. Ettelt	{'relation': 'collaborate'}
-C. Fischer	Günter Schmidt	{'relation': 'collaborate'}
-P. Bernus	Günter Schmidt	{'relation': 'collaborate'}
-P. Bernus	K. Mertins	{'relation': 'collaborate'}
-P. Bernus	L. Nemes	{'relation': 'collaborate'}
-P. Bernus	Robert W. Blanning	{'relation': 'collaborate'}
-J Blazewicz	W. Kubiak	{'relation': 'collaborate'}
-J Blazewicz	Günter Schmidt	{'relation': 'collaborate'}
-E. Ettelt	Günter Schmidt	{'relation': 'collaborate'}
-K. Mertins	Günter Schmidt	{'relation': 'collaborate'}
-Robert W. Blanning	Günter Schmidt	{'relation': 'collaborate'}
-L. Nemes	Günter Schmidt	{'relation': 'collaborate'}
-Susanne Albers	Günter Schmidt	{'relation': 'collaborate'}
-W. Kubiak	Günter Schmidt	{'relation': 'collaborate'}
-Günter Schmidt	Bernd Lahl	{'relation': 'collaborate'}
+Zhe Mao	Xinping Yan	{'relation': 'collaborate'}
+Zhe Mao	Kun Li	{'relation': 'collaborate'}
+Chaozhong Wu	Hui Zhang	{'relation': 'collaborate'}
+Chaozhong Wu	Song Gao	{'relation': 'collaborate'}
+Chaozhong Wu	Hu Lei	{'relation': 'collaborate'}
+Chaozhong Wu	Xinping Yan	{'relation': 'collaborate'}
+Chaozhong Wu	Xianqiao Chen	{'relation': 'collaborate'}
+Chaozhong Wu	Jing Gong	{'relation': 'collaborate'}
+Qi Peng	Zhiyong Lu	{'relation': 'collaborate'}
+Qi Peng	Xinping Yan	{'relation': 'collaborate'}
+Kun Xu	Gang Liu	{'relation': 'collaborate'}
+Kun Xu	Xinping Yan	{'relation': 'collaborate'}
+Kun Xu	Yufen Sun	{'relation': 'collaborate'}
+Kun Xu	Fan Yang	{'relation': 'collaborate'}
+Song Gao	Hui Zhang	{'relation': 'collaborate'}
+Song Gao	Xinping Yan	{'relation': 'collaborate'}
+Song Gao	Xianqiao Chen	{'relation': 'collaborate'}
+Yufen Sun	Gang Liu	{'relation': 'collaborate'}
+Yufen Sun	Xinping Yan	{'relation': 'collaborate'}
+Zhiyong Lu	Xinping Yan	{'relation': 'collaborate'}
+Wangxin Xiao	Xinping Yan	{'relation': 'collaborate'}
+Wangxin Xiao	Xue Zhang	{'relation': 'collaborate'}
+Wei Xiong	Wei Xiong	{'relation': 'collaborate'}
+Wei Xiong	Xinping Yan	{'relation': 'collaborate'}
+Fan Yang	Bo Yang	{'relation': 'collaborate'}
+Fan Yang	Xinping Yan	{'relation': 'collaborate'}
+Kun Li	Xinping Yan	{'relation': 'collaborate'}
+Hu Lei	Xinping Yan	{'relation': 'collaborate'}
+Xinping Yan	Huabin Wang	{'relation': 'collaborate'}
+Xinping Yan	Xue Zhang	{'relation': 'collaborate'}
+Xinping Yan	Hui Zhang	{'relation': 'collaborate'}
+Xinping Yan	Jing Gong	{'relation': 'collaborate'}
+Xinping Yan	Gang Liu	{'relation': 'collaborate'}
+Xinping Yan	Bo Yang	{'relation': 'collaborate'}
+Xinping Yan	Xianqiao Chen	{'relation': 'collaborate'}
+Xianqiao Chen	Hui Zhang	{'relation': 'collaborate'}
+Huabin Wang	Bo Yang	{'relation': 'collaborate'}

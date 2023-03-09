@@ -1,33 +1,33 @@
-Donald German	Bahman Afsari	{'relation': 'collaborate'}
-Donald German	Aik Choon Tan	{'relation': 'collaborate'}
-Donald German	Daniel Q. Naiman	{'relation': 'collaborate'}
-Henry P. Wynn	Daniel Q. Naiman	{'relation': 'collaborate'}
-Leslie M. Cope	Rafael A. Irizarry	{'relation': 'collaborate'}
-Leslie M. Cope	Carey E. Priebe	{'relation': 'collaborate'}
-Leslie M. Cope	Giovanni Parmigiani	{'relation': 'collaborate'}
-Leslie M. Cope	Daniel Q. Naiman	{'relation': 'collaborate'}
-R E Stone	Daniel Q. Naiman	{'relation': 'collaborate'}
-Onn Chan	Daniel Q. Naiman	{'relation': 'collaborate'}
-Rafael A. Irizarry	Giovanni Parmigiani	{'relation': 'collaborate'}
-Carey E. Priebe	Daniel Q. Naiman	{'relation': 'collaborate'}
-Nathan L. Kleinman	Daniel Q. Naiman	{'relation': 'collaborate'}
-Nathan L. Kleinman	J. C. Spall	{'relation': 'collaborate'}
-David Gilbert	Aik Choon Tan	{'relation': 'collaborate'}
-Aik Choon Tan	Lei Xu	{'relation': 'collaborate'}
-Aik Choon Tan	D. Geman	{'relation': 'collaborate'}
-Aik Choon Tan	Raimond L. Winslow	{'relation': 'collaborate'}
-Aik Choon Tan	Daniel Q. Naiman	{'relation': 'collaborate'}
-Aik Choon Tan	Bahman Afsari	{'relation': 'collaborate'}
-Giovanni Parmigiani	Daniel Q. Naiman	{'relation': 'collaborate'}
-Giovanni Parmigiani	Michael F. Ochs	{'relation': 'collaborate'}
-Daniel Q. Naiman	Raimond L. Winslow	{'relation': 'collaborate'}
-Daniel Q. Naiman	J. C. Spall	{'relation': 'collaborate'}
-Daniel Q. Naiman	Xiaoling Wu	{'relation': 'collaborate'}
-Daniel Q. Naiman	Bahman Afsari	{'relation': 'collaborate'}
-Daniel Q. Naiman	Lei Xu	{'relation': 'collaborate'}
-Daniel Q. Naiman	D. Geman	{'relation': 'collaborate'}
-Daniel Q. Naiman	Jian Feng	{'relation': 'collaborate'}
-Michael F. Ochs	D. Geman	{'relation': 'collaborate'}
-Lei Xu	Raimond L. Winslow	{'relation': 'collaborate'}
-Lei Xu	D. Geman	{'relation': 'collaborate'}
-D. Geman	Raimond L. Winslow	{'relation': 'collaborate'}
+Satoshi Kobayashi	Yasubumi Sakakibara	{'relation': 'collaborate'}
+Satoshi Kobayashi	Etsuji Tomita	{'relation': 'collaborate'}
+Satoshi Kobayashi	Tetsuro Nishino	{'relation': 'collaborate'}
+Satoshi Kobayashi	Kengo Sato	{'relation': 'collaborate'}
+Kensei Tsuchida	Tetsuro Nishino	{'relation': 'collaborate'}
+Kensei Tsuchida	Takeo Yaku	{'relation': 'collaborate'}
+Kensei Tsuchida	Hiroshi Unno	{'relation': 'collaborate'}
+Kengo Sato	Tetsuro Nishino	{'relation': 'collaborate'}
+Kengo Sato	Yasubumi Sakakibara	{'relation': 'collaborate'}
+Kengo Sato	Etsuji Tomita	{'relation': 'collaborate'}
+Takashi Mihara	Tetsuro Nishino	{'relation': 'collaborate'}
+Etsuji Tomita	Tetsuro Nishino	{'relation': 'collaborate'}
+Etsuji Tomita	Yasubumi Sakakibara	{'relation': 'collaborate'}
+Tadashi Yamazaki	Tetsuro Nishino	{'relation': 'collaborate'}
+Kazutoshi Sasahara	Tetsuro Nishino	{'relation': 'collaborate'}
+Kazutoshi Sasahara	Miki Takahasi	{'relation': 'collaborate'}
+Kazutoshi Sasahara	Kazuo Okanoya	{'relation': 'collaborate'}
+Miki Takahasi	Kazuo Okanoya	{'relation': 'collaborate'}
+Miki Takahasi	Tetsuro Nishino	{'relation': 'collaborate'}
+Emiko Suzuki	Tetsunosuke Fujisaki	{'relation': 'collaborate'}
+Emiko Suzuki	Tetsuro Nishino	{'relation': 'collaborate'}
+Kazuo Ohta	Noboru Kunihiro	{'relation': 'collaborate'}
+Kazuo Ohta	Tetsuro Nishino	{'relation': 'collaborate'}
+Kazuo Okanoya	Tetsuro Nishino	{'relation': 'collaborate'}
+Takeo Yaku	Hiroshi Unno	{'relation': 'collaborate'}
+Takeo Yaku	Tetsuro Nishino	{'relation': 'collaborate'}
+Junji Nishino	Tetsuro Nishino	{'relation': 'collaborate'}
+Tetsunosuke Fujisaki	Tetsuro Nishino	{'relation': 'collaborate'}
+Hiroshi Unno	Tetsuro Nishino	{'relation': 'collaborate'}
+Noboru Kunihiro	Tetsuro Nishino	{'relation': 'collaborate'}
+Robert Beals	Tetsuro Nishino	{'relation': 'collaborate'}
+Tetsuro Nishino	Setsuo Yamada	{'relation': 'collaborate'}
+Tetsuro Nishino	Yasubumi Sakakibara	{'relation': 'collaborate'}

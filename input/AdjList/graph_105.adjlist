@@ -1,55 +1,54 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:05 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:06 2023
 # 
-Éric Anquetil	2
-Frédéric Dambreville	{'relation': 'collaborate'}
-Bertrand Coüasnon	{'relation': 'collaborate'}
-Carine Hue	3
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Marc Boulle	{'relation': 'collaborate'}
-A. Chessel	1
-P Bouthemy	{'relation': 'collaborate'}
-Aurélie Bugeau	5
-V. Caselles	{'relation': 'collaborate'}
-Nicolas Papadakis	{'relation': 'collaborate'}
-Alexandre Hervieu	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Pau Gargallo	{'relation': 'collaborate'}
-R. Venkatehs Babu	2
-P Bouthemy	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Emmanuel Veneau	2
-P Bouthemy	{'relation': 'collaborate'}
-Rémi Ronfard	{'relation': 'collaborate'}
-Alain Lehmann	1
-P Bouthemy	{'relation': 'collaborate'}
-P Bouthemy	5
-Rémi Ronfard	{'relation': 'collaborate'}
-Roger Mohr	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Alexandre Hervieu	{'relation': 'collaborate'}
-Bertrand Coüasnon	1
-Frédéric Dambreville	{'relation': 'collaborate'}
-Nicolas Papadakis	3
-Alexandre Hervieu	{'relation': 'collaborate'}
-V. Caselles	{'relation': 'collaborate'}
-Pau Gargallo	{'relation': 'collaborate'}
-Frédéric Dambreville	1
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Marc Boulle	0
-Roger Mohr	0
-Alexandre Hervieu	3
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Pau Gargallo	{'relation': 'collaborate'}
-V. Caselles	{'relation': 'collaborate'}
-Pau Gargallo	1
-V. Caselles	{'relation': 'collaborate'}
-V. Caselles	0
-P. Perez	1
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-O. Trémois	1
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Rémi Ronfard	0
-Jean-Pierre Le Cadre	0
+Zhiqiang Chen	2
+Jared Saia	{'relation': 'collaborate'}
+B. M. E. Moret	{'relation': 'collaborate'}
+Tanya Y. Berger-Wolf	2
+Yintao Yu	{'relation': 'collaborate'}
+Jared Saia	{'relation': 'collaborate'}
+Josh Karlin	1
+Jared Saia	{'relation': 'collaborate'}
+A. Karlin	2
+Eric J. Anderson	{'relation': 'collaborate'}
+Jared Saia	{'relation': 'collaborate'}
+Nicholas D. Pattengale	2
+Jared Saia	{'relation': 'collaborate'}
+B. M. E. Moret	{'relation': 'collaborate'}
+B. M. E. Moret	3
+C. Abdallah	{'relation': 'collaborate'}
+Jared Saia	{'relation': 'collaborate'}
+Michael J. Collins	{'relation': 'collaborate'}
+Piotr Sankowski	1
+Jared Saia	{'relation': 'collaborate'}
+Jared Saia	12
+Seth Gilbert	{'relation': 'collaborate'}
+Stephane Durocher	{'relation': 'collaborate'}
+Frank McSherry	{'relation': 'collaborate'}
+Michael J. Collins	{'relation': 'collaborate'}
+Steven D. Gribble	{'relation': 'collaborate'}
+Maxwell Young	{'relation': 'collaborate'}
+C. Abdallah	{'relation': 'collaborate'}
+Eric J. Anderson	{'relation': 'collaborate'}
+James Aspnes	{'relation': 'collaborate'}
+Stefan Saroiu	{'relation': 'collaborate'}
+Yintao Yu	{'relation': 'collaborate'}
+Olumuyiwa Oluwasanmi	{'relation': 'collaborate'}
+Frank McSherry	0
+Michael J. Collins	1
+Maxwell Young	{'relation': 'collaborate'}
+Maxwell Young	2
+Stephane Durocher	{'relation': 'collaborate'}
+Seth Gilbert	{'relation': 'collaborate'}
+Yintao Yu	0
+Eric J. Anderson	1
+Steven D. Gribble	{'relation': 'collaborate'}
+C. Abdallah	0
+Stefan Saroiu	1
+Steven D. Gribble	{'relation': 'collaborate'}
+Stephane Durocher	0
+Seth Gilbert	1
+James Aspnes	{'relation': 'collaborate'}
+Steven D. Gribble	0
+James Aspnes	0
+Olumuyiwa Oluwasanmi	0

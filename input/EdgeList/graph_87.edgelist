@@ -1,33 +1,29 @@
-Omid Mohareri	P. Abolmaesumi	{'relation': 'collaborate'}
-Omid Mohareri	S. E. Salcudean	{'relation': 'collaborate'}
-Omid Mohareri	Mahdi Ramezani	{'relation': 'collaborate'}
-Omid Mohareri	Michael C. Yip	{'relation': 'collaborate'}
-Mehdi Moradi	Xu Wen	{'relation': 'collaborate'}
-Mehdi Moradi	S. G. Deshmukh	{'relation': 'collaborate'}
-Mehdi Moradi	S. E. Salcudean	{'relation': 'collaborate'}
-Mehdi Moradi	P. Abolmaesumi	{'relation': 'collaborate'}
-Claude Reboulet	S. E. Salcudean	{'relation': 'collaborate'}
-Claude Reboulet	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
-J M Varah	S. E. Salcudean	{'relation': 'collaborate'}
-Andrew H. Gosline	S. E. Salcudean	{'relation': 'collaborate'}
-Andrew H. Gosline	Joseph Yan	{'relation': 'collaborate'}
-Elizabeth A. Croft	S. E. Salcudean	{'relation': 'collaborate'}
-Elizabeth A. Croft	Daniela Constantinescu	{'relation': 'collaborate'}
-G. Bell	S. E. Salcudean	{'relation': 'collaborate'}
-G. Bell	P. Abolmaesumi	{'relation': 'collaborate'}
-P. Abolmaesumi	S. E. Salcudean	{'relation': 'collaborate'}
-P. Abolmaesumi	Pascal Fallavollita	{'relation': 'collaborate'}
-P. Abolmaesumi	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
-P. Abolmaesumi	Mahdi Ramezani	{'relation': 'collaborate'}
-S. G. Deshmukh	S. E. Salcudean	{'relation': 'collaborate'}
-E. A. Croft	S. E. Salcudean	{'relation': 'collaborate'}
-E. A. Croft	Daniela Constantinescu	{'relation': 'collaborate'}
-Daniela Constantinescu	S. E. Salcudean	{'relation': 'collaborate'}
-James Morris	S. E. Salcudean	{'relation': 'collaborate'}
-Weiqi Wang	S. E. Salcudean	{'relation': 'collaborate'}
-Michael C. Yip	S. E. Salcudean	{'relation': 'collaborate'}
-S. E. Salcudean	Xu Wen	{'relation': 'collaborate'}
-S. E. Salcudean	Mahdi Ramezani	{'relation': 'collaborate'}
-S. E. Salcudean	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
-S. E. Salcudean	Joseph Yan	{'relation': 'collaborate'}
-S. E. Salcudean	Pascal Fallavollita	{'relation': 'collaborate'}
+Zhihua Cui	Jianchao Zeng	{'relation': 'collaborate'}
+Zhihua Cui	Ziqiang Zhao	{'relation': 'collaborate'}
+Zhihua Cui	Li-Ping Xie	{'relation': 'collaborate'}
+Xiaoping Wang	Jianchao Zeng	{'relation': 'collaborate'}
+Jeng-Shyang Pan	Jianchao Zeng	{'relation': 'collaborate'}
+Guo-Chen Zhang	Jianchao Zeng	{'relation': 'collaborate'}
+Richard A. Formato	Jianchao Zeng	{'relation': 'collaborate'}
+Richard A. Formato	Li-Ping Xie	{'relation': 'collaborate'}
+Ming Yu	Xianguo Yan	{'relation': 'collaborate'}
+Ming Yu	Juan Du	{'relation': 'collaborate'}
+Ming Yu	Jian Zhao	{'relation': 'collaborate'}
+Ming Yu	Jianchao Zeng	{'relation': 'collaborate'}
+Gabor Fichtinger	Jianchao Zeng	{'relation': 'collaborate'}
+Gabor Fichtinger	Dinggang Shen	{'relation': 'collaborate'}
+Jianhua Han	Juan Du	{'relation': 'collaborate'}
+Jianhua Han	Xianguo Yan	{'relation': 'collaborate'}
+Paul Wang	Jianchao Zeng	{'relation': 'collaborate'}
+Dinggang Shen	Jianchao Zeng	{'relation': 'collaborate'}
+Ziqiang Zhao	Jianchao Zeng	{'relation': 'collaborate'}
+Xiaodong Guo	Jianchao Zeng	{'relation': 'collaborate'}
+Jianchao Zeng	Kenneth Byrd	{'relation': 'collaborate'}
+Jianchao Zeng	Li-Ping Xie	{'relation': 'collaborate'}
+Jianchao Zeng	Xiaomei Yang	{'relation': 'collaborate'}
+Jianchao Zeng	Xianguo Yan	{'relation': 'collaborate'}
+Jianchao Zeng	Seong K. Mun	{'relation': 'collaborate'}
+Jianchao Zeng	Jian Zhao	{'relation': 'collaborate'}
+Xianguo Yan	Jian Zhao	{'relation': 'collaborate'}
+Xianguo Yan	Juan Du	{'relation': 'collaborate'}
+Jian Zhao	Juan Du	{'relation': 'collaborate'}

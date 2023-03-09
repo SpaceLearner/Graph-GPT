@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Paul L. Lewin">
+      <data key="affiliation">School of Electronics and Computer Science, University of Southampton, Southampton, UK</data>
+      <data key="research">experimental result, new result, transformer winding</data>
+    </node>
+    <node id="Peter H. Bauer">
+      <data key="affiliation">Department of Electrical Engineering, Notre Dame, IN</data>
+      <data key="research">sufficient condition, non-negative impulse response, Roesser model</data>
+    </node>
+    <node id="Ligang Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">discrete-time Markovian jump singular, sufficient condition, Fault Detection Filter Design</data>
+    </node>
+    <node id="E. Rogers">
+      <data key="affiliation">Univ. of Southampton, Southampton, UK</data>
+      <data key="research">control law, systems theoretic, new result</data>
+    </node>
+    <node id="J. B. Edwards">
+      <data key="affiliation">Department of Mining, McGill University 3480 University St., Montreal Quebec, Canada H3A 2A7 and Canadian Centre for Automation and Robotics in Mining</data>
+      <data key="research">tray-type column, first-order-lag behaviour, earlier investigation</data>
+    </node>
+    <node id="Shengyuan Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Model Reduction, coupling nonconvex rank constraint, explicit parametrization</data>
+    </node>
+    <node id="N. P. Karampetakis">
+      <data key="affiliation">Department of Mathematics, Faculty of Sciences, Aristotle University of Thessaloniki, 54006 Thessaloniki, Greece</data>
+      <data key="research">Drazin inverse, rational matrix, two-variable polynomial matrix</data>
+    </node>
+    <node id="V. R. Sule">
+      <data key="affiliation">Computational Laboratories Ltd., Pune, India</data>
+      <data key="research">stabilizable plant, transfer matrix, pass profile</data>
+    </node>
+    <node id="Krzysztof Gałkowski">
+      <data key="affiliation">Institute of Physics, Nicolaus Copernicus University in Torun, Torun, Poland</data>
+      <data key="research">control law, new result, systems theoretic</data>
+    </node>
+    <node id="Zhonglun Cai">
+      <data key="affiliation">School of Electronics and Computer Science, University of Southampton, Southampton, UK</data>
+      <data key="research">DHC system, co-reference resolution, new result</data>
+    </node>
+    <node id="I. V. Gaishun">
+      <data key="affiliation">Institute of Mathematics, Belarussian National Academy of Sciences, Minsk, Belarus</data>
+      <data key="research">two-parameter discrete system, linear feedback, controllable system</data>
+    </node>
+    <node id="Olivier Bachelier">
+      <data key="affiliation">Université de Poitiers, LAIIENSIP, 2 rue Pierre Brousse, Bítiment B25, BP633, 86022 Poitiers Cedex, France</data>
+      <data key="research">various subregions, Popov lemma, clustering region</data>
+    </node>
+    <node id="Chris T. Freeman">
+      <data key="affiliation">School of Electronics and Computer Science, University of Southampton, Southampton, UK</data>
+      <data key="research">reference signal, reference governor, new result</data>
+    </node>
+    <node id="Driss Mehdi">
+      <data key="affiliation">LIASENSIP, University of Poitiers, LIASENSIP, Poitiers, France 86022</data>
+      <data key="research">linear matrix inequality, Robust Root-Clustering, fuzzy model</data>
+    </node>
+    <node id="Anton Kummert">
+      <data key="affiliation">University of Wuppertal</data>
+      <data key="research">present paper, control law, classical linear systems theory</data>
+    </node>
+    <node id="Jarosław Gramacki">
+      <data key="affiliation">Nan</data>
+      <data key="research">MATLAB toolbox, linear system, linear systemsDevelopment</data>
+    </node>
+    <node id="James Lam">
+      <data key="affiliation">Department of Mechanical Engineering, The University of Hong Kong, Pokfulam Road, Hong Kong</data>
+      <data key="research">state feedback H, sufficient condition, consensus problem</data>
+    </node>
+    <node id="Zhiping Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">good solution, Wavelet Packet Multi-layer Perceptron, Mackey-Glass benchmark time series</data>
+    </node>
+    <node id="Joerg Velten">
+      <data key="affiliation">Communication Theory, University of Wuppertal, Wuppertal, Germany 42119</data>
+      <data key="research">present paper, velocity filter, n-D system</data>
+    </node>
+    <node id="D. H. Owens">
+      <data key="affiliation">Department of Automatic Control and Systems Engineering, University of Sheffield, Mappin Street, Sheffield S1 3JD, UK</data>
+      <data key="research">systems theoretic, systems theory, distinct class</data>
+    </node>
+    <edge source="Paul L. Lewin" target="E. Rogers">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul L. Lewin" target="Chris T. Freeman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul L. Lewin" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul L. Lewin" target="Zhonglun Cai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul L. Lewin" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter H. Bauer" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter H. Bauer" target="E. Rogers">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ligang Wu" target="James Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ligang Wu" target="E. Rogers">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ligang Wu" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ligang Wu" target="Anton Kummert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="I. V. Gaishun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Chris T. Freeman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="V. R. Sule">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Anton Kummert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Olivier Bachelier">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="James Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Jarosław Gramacki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Zhonglun Cai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Rogers" target="Driss Mehdi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. B. Edwards" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shengyuan Xu" target="James Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shengyuan Xu" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shengyuan Xu" target="Zhiping Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. P. Karampetakis" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. R. Sule" target="Krzysztof Gałkowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Chris T. Freeman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="I. V. Gaishun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Anton Kummert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Joerg Velten">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Jarosław Gramacki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Zhiping Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="James Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Driss Mehdi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Zhonglun Cai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krzysztof Gałkowski" target="Olivier Bachelier">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhonglun Cai" target="Chris T. Freeman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. V. Gaishun" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Bachelier" target="Anton Kummert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Bachelier" target="Driss Mehdi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Driss Mehdi" target="Anton Kummert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anton Kummert" target="Zhiping Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anton Kummert" target="Joerg Velten">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anton Kummert" target="James Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jarosław Gramacki" target="D. H. Owens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Lam" target="Zhiping Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

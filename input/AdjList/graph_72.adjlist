@@ -1,56 +1,66 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:04 2023
 # 
-Kazuo Ohta	2
-Noboru Kunihiro	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Hiroshi Unno	3
-Takeo Yaku	{'relation': 'collaborate'}
-Kensei Tsuchida	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsunosuke Fujisaki	2
-Emiko Suzuki	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kazutoshi Sasahara	3
-Tetsuro Nishino	{'relation': 'collaborate'}
-Miki Takahasi	{'relation': 'collaborate'}
-Kazuo Okanoya	{'relation': 'collaborate'}
-Takashi Mihara	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Robert Beals	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Satoshi Kobayashi	4
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Etsuji Tomita	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kengo Sato	{'relation': 'collaborate'}
-Junji Nishino	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kensei Tsuchida	2
-Tetsuro Nishino	{'relation': 'collaborate'}
-Takeo Yaku	{'relation': 'collaborate'}
-Kengo Sato	3
-Tetsuro Nishino	{'relation': 'collaborate'}
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Etsuji Tomita	{'relation': 'collaborate'}
-Takeo Yaku	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Setsuo Yamada	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kazuo Okanoya	2
-Miki Takahasi	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Yasubumi Sakakibara	2
-Etsuji Tomita	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Noboru Kunihiro	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Etsuji Tomita	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsuro Nishino	3
-Tadashi Yamazaki	{'relation': 'collaborate'}
-Emiko Suzuki	{'relation': 'collaborate'}
-Miki Takahasi	{'relation': 'collaborate'}
-Miki Takahasi	0
-Emiko Suzuki	0
-Tadashi Yamazaki	0
+Scott Hahn	6
+Vishal Gupta	{'relation': 'collaborate'}
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Karsten Schwan	{'relation': 'collaborate'}
+Dheeraj Reddy	{'relation': 'collaborate'}
+Paul Brett	{'relation': 'collaborate'}
+D. A. Koufaty	{'relation': 'collaborate'}
+D. A. Koufaty	5
+Karsten Schwan	{'relation': 'collaborate'}
+Vishal Gupta	{'relation': 'collaborate'}
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Dheeraj Reddy	{'relation': 'collaborate'}
+Paul Brett	{'relation': 'collaborate'}
+Gennette Gill	2
+Montek Singh	{'relation': 'collaborate'}
+Vishal Gupta	{'relation': 'collaborate'}
+Montek Singh	1
+Vishal Gupta	{'relation': 'collaborate'}
+Gopal Datt Joshi	3
+Vishal Gupta	{'relation': 'collaborate'}
+Pulkit Parikh	{'relation': 'collaborate'}
+Sitaram Ramachandrula	{'relation': 'collaborate'}
+Karsten Schwan	6
+Paul Brett	{'relation': 'collaborate'}
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Dheeraj Reddy	{'relation': 'collaborate'}
+Min Lee	{'relation': 'collaborate'}
+Vishal Gupta	{'relation': 'collaborate'}
+Ripal Nathuji	{'relation': 'collaborate'}
+Vishal Gupta	13
+Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
+Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
+Paul Brett	{'relation': 'collaborate'}
+Pulkit Parikh	{'relation': 'collaborate'}
+K. Najeeb	{'relation': 'collaborate'}
+Dheeraj Reddy	{'relation': 'collaborate'}
+S. C. Sharma	{'relation': 'collaborate'}
+Min Lee	{'relation': 'collaborate'}
+V. Kamakoti	{'relation': 'collaborate'}
+D. Bertsimas	{'relation': 'collaborate'}
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Ripal Nathuji	{'relation': 'collaborate'}
+Sitaram Ramachandrula	{'relation': 'collaborate'}
+Dheeraj Reddy	2
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Paul Brett	{'relation': 'collaborate'}
+Ioannis Ch. Paschalidis	1
+D. Bertsimas	{'relation': 'collaborate'}
+Ripal Nathuji	1
+Min Lee	{'relation': 'collaborate'}
+V. Kamakoti	1
+K. Najeeb	{'relation': 'collaborate'}
+K. Najeeb	0
+D. Bertsimas	0
+Min Lee	0
+Paul Brett	1
+Ganapati Srinivasa	{'relation': 'collaborate'}
+Ganapati Srinivasa	0
+Sitaram Ramachandrula	1
+Pulkit Parikh	{'relation': 'collaborate'}
+Gabriel A. Rincon-Mora	0
+Pulkit Parikh	0
+S. C. Sharma	0

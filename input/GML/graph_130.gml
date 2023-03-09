@@ -1,287 +1,297 @@
 graph [
   node [
     id 0
-    label "Dan Grossman"
-    affiliation "Nan"
-    research "Summer School, Oregon programming languages summer, schoolThe Oregon Programming"
+    label "Guodong Liu"
+    affiliation "Chongqing Jiaotong University, School of Civil Engineering and Architecture, 400074, Chongqing, China"
+    research "genetic regulatory network, stability condition, Stochastic Synchronization"
   ]
   node [
     id 1
-    label "Mainak Chaudhuri"
-    affiliation "Indian Institute of Technology, India"
-    research "active memory controller, active memory cluster, memory controller"
+    label "Zezhong Wang"
+    affiliation "Nan"
+    research "Finite Element MethodNA, Geomagnetic Induced Problems, Telluric Current"
   ]
   node [
     id 2
-    label "S. Jagannathan"
-    affiliation "Dept. of Comput. Sci. &#38; Information Eng., Nat. Chung Cheng Univ., Chiayi, Taiwan"
-    research "proposed scheme, rate-based end-to-end congestion control, multimedia traffic"
+    label "Wenting Wang"
+    affiliation "REINS Group, School of Software, Shanghai Jiao Tong University, Shanghai, P.R. China"
+    research "Web application, service provider, Availability-Aware Approach"
   ]
   node [
     id 3
-    label "Joseph Nuzman"
-    affiliation "Intel Architecture Group, Haifa, Israel"
-    research "L2 cache, exclusive LLC, inclusive LLC"
+    label "Gang Li"
+    affiliation "Pusan National University, Busan, Republic of Korea"
+    research "Prediction Method, current energy, energy harvesting"
   ]
   node [
     id 4
-    label "Eric Sprangle"
-    affiliation "Intel Corporation"
-    research "performance analysis, processor performance, deeper pipeline"
+    label "Jian Zhang"
+    affiliation "Nan"
+    research "Generating Models, System Description"
   ]
   node [
     id 5
-    label "Raghuram Srinivasan"
-    affiliation "University of Cincinnati, Cincinnati, OH, USA"
-    research "process variation, system variable, Taylor series expansion"
+    label "Weifeng Xu"
+    affiliation "Nan"
+    research "test input, test oracle, mining approach"
   ]
   node [
     id 6
-    label "Andrew McCreight"
-    affiliation "Portland State University,"
-    research "garbage collector, incremental collector, mechanized verification"
+    label "Xi Chen"
+    affiliation "Nan"
+    research "GIS application, Geographic Information System, application analysis"
   ]
   node [
     id 7
-    label "Mauricio J. Serrano"
-    affiliation "Pontif&#237;cia Universidade Cat&#243;lica do Rio de Janeiro, Rio de Janeiro, Brazil"
-    research "false loop, data context, data structure"
+    label "Lin Deng"
+    affiliation "Hong Kong University of Science and Technology, Hong Kong, China"
+    research "clickthrough data, search engine, search result"
   ]
   node [
     id 8
-    label "Jayesh Gaur"
-    affiliation "Intel Corporation, Bangalore, India"
-    research "exclusive LLC, inclusive LLC, L2 cache"
+    label "Chao Pan"
+    affiliation "School of Science, Dalian Fisheries University, China"
+    research "fish skin, Artifical fish, surface roughness"
   ]
   node [
     id 9
-    label "Ravi Narayanaswamy"
-    affiliation "Intel Corporation, Santa Clara, CA, USA"
-    research "nested parallelism, control mechanism, project performance"
+    label "Ramakrishnan Sundaram"
+    affiliation "Nan"
+    research "image processing, multiresolution approach, multistage neural network"
   ]
   node [
     id 10
-    label "Robert Wahbe"
-    affiliation "Colusa Software, 1563 Solano Ave. MS350, Berkeley, CA"
-    research "adaptable binary, binary program, binary transformation"
+    label "Zhihua Xie"
+    affiliation "College of Environmental Science and Engineering, Dalian Maritime University, Dalian, People's Republic of China"
+    research "proposed scheme, Robin boundary condition, ADE scheme"
   ]
   node [
     id 11
-    label "Deepak Majeti"
-    affiliation "Rice University, Houston, TX, USA"
-    research "Homogeneous Routers, GPU acceleration, NoC design"
+    label "Min Li"
+    affiliation "University of Wisconsin  Madison"
+    research "custom on-chip sensor, individual design path, pre-silicon stage"
   ]
   node [
     id 12
-    label "Richard Hudson"
-    affiliation "Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA"
-    research "River Trail, single global lock semantics, transactional memory"
+    label "Haopeng Chen"
+    affiliation "Nan"
+    research "ApproachWeb service, Web service composition, rule-based service composition framework"
   ]
   node [
     id 13
-    label "Serguei Preis"
-    affiliation "Intel Coporation, Novosibirsk, Russian Fed."
-    research "Xeon Phi, vector extension, CoprocessorThe Intel"
+    label "Bo Dong"
+    affiliation "bdong@dam.brown.edu and Johnny_Guzman@brown.edu"
+    research "original discontinuous Galerkin method, order k, Original DG Method"
   ]
   node [
     id 14
-    label "Neal Glew"
-    affiliation "Intel Corporation, Santa Clara, CA"
-    research "type system, functional language, assembly language"
+    label "Jian-Xin Xu"
+    affiliation "Dept. of Electr. &#38; Comput. Eng., Nat. Univ. of Singapore, Singapore, Singapore"
+    research "constructive function approximation network, fixed structure network, network structure"
   ]
   node [
     id 15
-    label "J. Elliot B. Moss"
-    affiliation "Department of Computer and Information Science, University of Massachusetts, Amherst, MA"
-    research "garbage collection, hybrid optimizations, object allocation"
+    label "Ying Guo"
+    affiliation "Nan"
+    research "proposed estimator, musical noise, noise suppressor"
   ]
   node [
     id 16
-    label "Sreenivas Subramoney"
-    affiliation "Intel Architecture Group, Bangalore, India"
-    research "exclusive LLC, L2 cache, inclusive LLC"
+    label "Xiaofeng Liao"
+    affiliation "State Key Laboratory of Power Transmission Equipment &#38; System Security and New Technology, College of Computer Science, Chongqing University, Chongqing, PR China"
+    research "smart card, power analysis attack, power analysis attacksIn"
   ]
   node [
     id 17
-    label "Ali-Reza Adl-Tabatabai"
-    affiliation "Google Inc. Mountain View, CA"
-    research "transactional memory, software transactional memory, high-performance software transactional memory"
+    label "Zhiqiang Gao"
+    affiliation "Nan"
+    research "SHA-1 IP core, Network Security Processor, ultra high throughput"
   ]
   node [
     id 18
-    label "Aleksandar Dragojevi&#263;"
-    affiliation "Swiss Federal Institute of Technology, Lausanne, Lausanne, Switzerland"
-    research "transactional memory, software transactional memory, STM barrier"
+    label "Qing Zheng"
+    affiliation "Nan"
+    research "Complex Domain Analysis Method, EM Waving, Transmission Line Transient FaultsNA"
   ]
   node [
     id 19
-    label "Brian T. Lewis"
-    affiliation "Intel Labs Santa Clara, CA"
-    research "high performance, early performance result, transactional memory"
+    label "Jiangang Duan"
+    affiliation "Nan"
+    research "Benchmark Tool, Cloud Object Storage Benchmark, Cloud Object Storage ServicesWith"
   ]
   edge [
     source 0
-    target 17
+    target 10
     relation "collaborate"
   ]
   edge [
     source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 11
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 17
+    source 0
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 0
     target 16
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 17
+    source 0
+    target 2
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 0
     target 12
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 8
+    source 0
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 1
     target 13
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 17
+    source 1
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 17
+    source 1
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 19
+    source 2
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 17
+    source 2
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 16
+    source 2
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 3
     target 15
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 17
+    source 3
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 19
     relation "collaborate"
   ]
   edge [
+    source 4
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 18
+    relation "collaborate"
+  ]
+  edge [
     source 14
-    target 17
+    target 18
     relation "collaborate"
   ]
   edge [
     source 15
-    target 16
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 15
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -290,7 +300,7 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 17
+    source 18
     target 19
     relation "collaborate"
   ]

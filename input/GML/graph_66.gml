@@ -1,162 +1,187 @@
 graph [
   node [
     id 0
-    label "Hans M. Amman"
-    affiliation "Utrecht School of Economics, Utrecht University, Utrecht, The Netherlands 3584 CS"
-    research "Computational Economics, optimal experimentation, stochastic control"
+    label "David C. Gibbon"
+    affiliation "AT&#38;T Labs Research, Florham Park, NJ"
+    research "information retrieval, fresh content, Internet video system"
   ]
   node [
     id 1
-    label "K. T. Huang"
+    label "Raghavan Pratiwadi"
     affiliation "Nan"
-    research "GaSb growth"
+    research "telecommunication network, feedback loop, application software"
   ]
   node [
     id 2
-    label "L. F. Pau"
-    affiliation "Battelle Memorial Institute, 7 Route de Drize, CH1227 Carouge, Switzerland."
-    research "electrical testing, class probability, Integrated Testing"
+    label "Emiliano Miluzzo"
+    affiliation "AT&#38;T Labs  Research, USA"
+    research "mobile phone, mobile device, sensor network"
   ]
   node [
     id 3
-    label "Hao-Chieh Liu"
+    label "Yih-Farn Chen"
     affiliation "Nan"
-    research "Hg-Cd-Te systemA study, InP p-quantum-well infrared photodetectors, experimental determination"
+    research "Mobile Phone, WSN Infrastructure, major challenge"
   ]
   node [
     id 4
-    label "C. H. Chen"
-    affiliation "Nan"
-    research "fuzzy logic, neural network, nondestructive evaluation"
+    label "Yennun Huang"
+    affiliation "Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan"
+    research "security researcher, Holography platform, malware program"
   ]
   node [
     id 5
-    label "Y. T. Wang"
-    affiliation "Bell Laboratories, Holmdel, NJ"
-    research "numerical result, VMS process schedule, VMS time-critical process schedulingThe"
+    label "Greg Thompson"
+    affiliation "Nan"
+    research "memory hierarchy performance, SPEC benchmarks, context switch"
   ]
   node [
     id 6
-    label "H&#246;rdur Arnarson"
-    affiliation "Nan"
-    research "computer vision, food handling, syntactic shape classification algorithm"
+    label "C V. Ramamoorthy"
+    affiliation "Department of Electrical Engineering and Computer Sciences and the Electronics Research Laboratory, University of California"
+    research "software system, software development, software engineering"
   ]
   node [
     id 7
-    label "Nastaran Baradaran"
-    affiliation "University of Southern California"
-    research "Scalar Replacement, specific data, storage structure"
+    label "Daniel Stern"
+    affiliation "AT&#38;T Labs  Research, Florham Park, NJ, USA"
+    research "world map, P2P technology, mobile user"
   ]
   node [
     id 8
-    label "P. S. P. Wang"
-    affiliation "Nan"
-    research "courtesy amount block, handprinted courtesy amount, bank check"
+    label "Thomas Ball"
+    affiliation "Microsoft Research, Redmond, WA"
+    research "predicate abstraction, model checking, first-order satisfaction"
   ]
   node [
     id 9
-    label "Clement T. Yu"
-    affiliation "Nan"
-    research "adaptive mixed relation decomposition, conjunctive retrieval query"
+    label "John Snyder"
+    affiliation "AT&#38;T Bell Laboratories, Murray Hill, NJ"
+    research "feedback loop, large software application, reusable software"
   ]
   node [
     id 10
-    label "Y. S. Kuo"
-    affiliation "Nan"
-    research "adaptable quad tree technique"
+    label "K. P. Vo"
+    affiliation "AT&#38;T LaboratoriesResearch, Florham, NJ"
+    research "Compressing table data, business data, compact data structure"
   ]
   node [
     id 11
-    label "D A Belsley"
-    affiliation "University of Salerno Italy and Boston College USA and University of Cyprus Cyprus and Erasmus University Rotterdam The Netherlands and University of Tokyo Japan and University of Washington USA"
-    research "serial correlation, Special Issue, Computational EconometricsEditorial"
+    label "Balachander Krishnamurthy"
+    affiliation "AT&#38;TLabs&#8211;&#8211;Research"
+    research "data retention, personal data flow, user data"
   ]
   node [
     id 12
-    label "O. K. Ersoy"
-    affiliation "School of Electrical Engineering, Purdue University, West Lafayette, Indiana"
-    research "input data, correlated data, data point"
+    label "David W. Thomas"
+    affiliation "Nan"
+    research "telecommunication network, feedback loop, application software"
   ]
   node [
     id 13
-    label "Hans P. Zima"
-    affiliation "JPL, Pasadena, CA, USA"
-    research "High Performance Fortran, Vienna Fortran, data distribution"
+    label "Glen Otero"
+    affiliation "PhD in Immunology and Microbiology and runs a consulting company called Linux Prophet in San Diego, California"
+    research "Beowulf cluster, Beowulf state, Building Linux ClustersLinux ProphetLinux"
   ]
   node [
     id 14
-    label "S. Ozer"
-    affiliation "Electrical &#38; Electronics Engineering Department, Istanbul University, Avcilar, Istanbul"
-    research "kernel function, Activity Detection, Chebyshev kernel function"
+    label "Richard Ferri"
+    affiliation "Nan"
+    research "feedback loop, different reuse measure, reuse growth factor"
   ]
   node [
     id 15
-    label "Jianlin Liu"
-    affiliation "Department of Electrical Engineering , University of California, Riverside, USA"
-    research "solid process, mosfet memory, nonvolatile memory application"
+    label "Ambalavaner Logenthiran"
+    affiliation "Nan"
+    research "telecommunication network, network capacity planning, network information technology software"
   ]
   node [
     id 16
-    label "Gabe Rudy"
-    affiliation "School of Computing, University of Utah, Salt Lake City, UT"
-    research "transformation recipe, CUDA code, transformation program"
+    label "Glenn Fowler"
+    affiliation "AT&#38;T LaboratoriesResearch, Florham, NJ"
+    research "automorphism partition, table compression, massive table"
   ]
   node [
     id 17
-    label "S. D. Lester"
-    affiliation "The Univ. of Texas at Austin, Austin, TX"
-    research "Phosphorus-overpressure rapid thermal annealing, indium phosphideA study, parasitic reaction"
+    label "Jeffrey Korn"
+    affiliation "AT&#38;T LabsResearch"
+    research "visualization technique, Graph Sketches, graph sketch"
   ]
   node [
     id 18
-    label "K. Lam"
-    affiliation "Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong"
-    research "varicose cylinder, cylinder vibration, three-dimensional wake structure"
+    label "Matti A. Hiltunen"
+    affiliation "AT&#38;TLabsResearch, Florham Park"
+    research "networked system, realistic e-commerce system, SystemsAutomatic system monitoring"
   ]
   node [
     id 19
-    label "K. P. Hsu"
-    affiliation "National Taiwan Univeristy, Taiwan"
-    research "National Taiwan University Hospital, Information System, Newborn Screening System"
+    label "Tim Souder"
+    affiliation "College of Information Science and Technology, Drexel University, Philadelphia, PA"
+    research "Legacy Access model, reverse engineering tool, legacy application"
   ]
   edge [
     source 0
-    target 2
+    target 3
     relation "collaborate"
   ]
   edge [
     source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 11
     relation "collaborate"
   ]
   edge [
     source 1
-    target 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
+    target 3
     relation "collaborate"
   ]
   edge [
     source 3
-    target 4
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -165,48 +190,58 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 12
+    source 3
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 7
+    source 3
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 3
     target 5
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -215,28 +250,93 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
+    source 9
+    target 14
     relation "collaborate"
   ]
   edge [
     source 9
-    target 18
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

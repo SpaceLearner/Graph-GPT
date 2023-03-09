@@ -1,28 +1,32 @@
-Kerstin Müller	Gerald Farin	{'relation': 'collaborate'}
-M. R. Henderson	Gerald Farin	{'relation': 'collaborate'}
-M. R. Henderson	Myungsoo Bae	{'relation': 'collaborate'}
-M. R. Henderson	Anshuman Razdan	{'relation': 'collaborate'}
-Walter Knödel	Gerald Farin	{'relation': 'collaborate'}
-Walter Knödel	H. Noltemeier	{'relation': 'collaborate'}
-Gerald Farin	Issac J. Trotts	{'relation': 'collaborate'}
-Gerald Farin	Ronald N. Goldman	{'relation': 'collaborate'}
-Gerald Farin	Georgios Stylianou	{'relation': 'collaborate'}
-Gerald Farin	G. Wu	{'relation': 'collaborate'}
-Gerald Farin	F. Zeilfelder	{'relation': 'collaborate'}
-Gerald Farin	Anne Gelb	{'relation': 'collaborate'}
-Gerald Farin	Myungsoo Bae	{'relation': 'collaborate'}
-Gerald Farin	H. Noltemeier	{'relation': 'collaborate'}
-Gerald Farin	Wolfgang Böhm	{'relation': 'collaborate'}
-Gerald Farin	Anshuman Razdan	{'relation': 'collaborate'}
-Gerald Farin	Adam Huang	{'relation': 'collaborate'}
-Gerald Farin	Ahmad H. Nasri	{'relation': 'collaborate'}
-Gerald Farin	Gregory Nielson	{'relation': 'collaborate'}
-Gerald Farin	A. J. Worsey	{'relation': 'collaborate'}
-Gerald Farin	Bernd Hamann	{'relation': 'collaborate'}
-Gerald Farin	Donghak Jung	{'relation': 'collaborate'}
-Bernd Hamann	Issac J. Trotts	{'relation': 'collaborate'}
-Bernd Hamann	Gregory Nielson	{'relation': 'collaborate'}
-Myungsoo Bae	Anshuman Razdan	{'relation': 'collaborate'}
-Gregory Nielson	Anshuman Razdan	{'relation': 'collaborate'}
-Gregory Nielson	Adam Huang	{'relation': 'collaborate'}
-Adam Huang	Anshuman Razdan	{'relation': 'collaborate'}
+Jill M. Sundie	A. Schwarz	{'relation': 'collaborate'}
+Jill M. Sundie	Iris A. Junglas	{'relation': 'collaborate'}
+Jill M. Sundie	Wynne W. Chin	{'relation': 'collaborate'}
+Ronald T. Cenfetelli	A. Schwarz	{'relation': 'collaborate'}
+S. Cabrera	B. Jayatilaka	{'relation': 'collaborate'}
+S. Cabrera	M. Babik	{'relation': 'collaborate'}
+S. Cabrera	D. Benjamin	{'relation': 'collaborate'}
+Jinyoul Lee	B. Jayatilaka	{'relation': 'collaborate'}
+N L Johnson	Wynne W. Chin	{'relation': 'collaborate'}
+N L Johnson	A. Schwarz	{'relation': 'collaborate'}
+D. Benjamin	M. Babik	{'relation': 'collaborate'}
+D. Benjamin	B. Jayatilaka	{'relation': 'collaborate'}
+B. Jayatilaka	A. Schwarz	{'relation': 'collaborate'}
+B. Jayatilaka	M. Babik	{'relation': 'collaborate'}
+B. Jayatilaka	Ted E. Lee	{'relation': 'collaborate'}
+B. Jayatilaka	R. A. Hirschheim	{'relation': 'collaborate'}
+M. Pohst	A. Schwarz	{'relation': 'collaborate'}
+M. Pohst	F. Diaz y Diaz	{'relation': 'collaborate'}
+Helen Kelley	Susan A. Brown	{'relation': 'collaborate'}
+Helen Kelley	A. Schwarz	{'relation': 'collaborate'}
+R. A. Hirschheim	A. Schwarz	{'relation': 'collaborate'}
+R. A. Hirschheim	Richard J. Welke	{'relation': 'collaborate'}
+F. Diaz y Diaz	A. Schwarz	{'relation': 'collaborate'}
+Norman A. Johnson	Wynne W. Chin	{'relation': 'collaborate'}
+Norman A. Johnson	Iris A. Junglas	{'relation': 'collaborate'}
+Norman A. Johnson	A. Schwarz	{'relation': 'collaborate'}
+A. Schwarz	Iris A. Junglas	{'relation': 'collaborate'}
+A. Schwarz	Tracey Rizzuto	{'relation': 'collaborate'}
+A. Schwarz	Susan A. Brown	{'relation': 'collaborate'}
+A. Schwarz	Richard J. Welke	{'relation': 'collaborate'}
+A. Schwarz	Wynne W. Chin	{'relation': 'collaborate'}
+Wynne W. Chin	Iris A. Junglas	{'relation': 'collaborate'}

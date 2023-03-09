@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="George-Othon Glentis">
+      <data key="affiliation">Dept. of Electron., TEI of Heraklion, Chinia</data>
+      <data key="research">proposed algorithm, efficient algorithm, TD-LMS algorithm</data>
+    </node>
+    <node id="K. Georgoulakis">
+      <data key="affiliation">Dept. of Inf., Athens Univ.</data>
+      <data key="research">efficient decision feedback equalizer, channel equalization, equalizer coefficient</data>
+    </node>
+    <node id="Jian Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">2-D data, data processing, gapped data</data>
+    </node>
+    <node id="Andreas Jakobsson">
+      <data key="affiliation">Dept. of Syst. &amp; Control, Uppsala Univ.</data>
+      <data key="research">proposed method, periodic signal, numerical simulation</data>
+    </node>
+    <node id="Kexin Zhao">
+      <data key="affiliation">Department of Business Information Systems and Operations Management, Belk College of Business, University of North Carolina at Charlotte, 9201 University City Boulevard, Charlotte, NC 28223, USA</data>
+      <data key="research">continuance intention, passive adopter, piracy risk cost</data>
+    </node>
+    <node id="Xiaoying Shao">
+      <data key="affiliation">The Signals and Systems Group, Department of Electrical Engineering Mathematics and Computer Science, University of Twente, Enschede, The Netherlands</data>
+      <data key="research">power consumption, Fountain code, Fountain-encoded packet</data>
+    </node>
+    <node id="K. Althoefer">
+      <data key="affiliation"> </data>
+      <data key="research">BP algorithm, local minimum, novel design</data>
+    </node>
+    <node id="C. H. Slump">
+      <data key="affiliation">Department of Applied Physics, Rijksuniversiteit Groningen, Nijenborgh 18, 9747 AG Groningen, The Netherlands</data>
+      <data key="research">power consumption, demon registration, Fountain code</data>
+    </node>
+    <node id="J. A. K. S. Jayasinghe">
+      <data key="affiliation">Twente University, Laboratory for Network Theory, The Netherlands</data>
+      <data key="research">display controller, systolic army graphics engine, complex operation</data>
+    </node>
+    <node id="F. W. Hoeksema">
+      <data key="affiliation">The Signals and Systems Group, Department of Electrical Engineering, Faculty of EEMCS, University of Twente, AE Enschede, The Netherlands</data>
+      <data key="research">physical layer, M cycle, baseband software-defined radio</data>
+    </node>
+    <node id="P. Koukoulas">
+      <data key="affiliation">Dept. of Inf., Athens Univ.</data>
+      <data key="research">blind identification, Volterra kernel, order Volterra system</data>
+    </node>
+    <node id="Otto E. Herrmann">
+      <data key="affiliation">Department of Electrical Engineering, University of Twente, Enschede, the Netherlands</data>
+      <data key="research">systolic army graphics engine, complex operation, nonlinear distortion</data>
+    </node>
+    <node id="Jan J. Gerbrands">
+      <data key="affiliation">Delft Univ. of Technology, Delft, The Netherlands</data>
+      <data key="research">closed minimal cost path, location system, Multiresolutional cluster segmentation</data>
+    </node>
+    <node id="A. Lee Swindlehurst">
+      <data key="affiliation">Dept. of Electr. Eng., Minnesota Univ., Minneapolis, MN, USA</data>
+      <data key="research">multiple antenna, multiple user, hot clutter</data>
+    </node>
+    <node id="N Kalouptsidis">
+      <data key="affiliation">Univ. of Athens, Athens, Greece</data>
+      <data key="research">blind identification, SPARLS algorithm, higher order</data>
+    </node>
+    <node id="Martin M. Samsom">
+      <data key="affiliation">University of Twente, Laboratory for Network Theory and VLSI Design, Enschede, The Netherlands</data>
+      <data key="research">power dissipation, high performance graphics, high performance graphics algorithm</data>
+    </node>
+    <node id="Mark J. Bentum">
+      <data key="affiliation">University of Twente, Laboratory for Network Theory and VLSI Design, Enschede, The Netherlands</data>
+      <data key="research">OLFAR cluster, power dissipation, real-time volume</data>
+    </node>
+    <node id="P. Stoica">
+      <data key="affiliation">Facultatea de Automatica, Institul Politehnic Bucuresti, Romania</data>
+      <data key="research">numerical example, parameter estimation, estimation error</data>
+    </node>
+    <node id="S L Marple">
+      <data key="affiliation">Oregon State University</data>
+      <data key="research">2-D tool, fast algorithm, least-squares-based minimum variance spectral</data>
+    </node>
+    <node id="Habti Abeida">
+      <data key="affiliation">Department of Electrical Engineering, King Fahd University of Petroleum &amp; Minerals, Dhahran, Saudi Arabia</data>
+      <data key="research">noncircular MUSIC algorithm, asymptotic distribution, DOA parameter</data>
+    </node>
+    <edge source="George-Othon Glentis" target="Otto E. Herrmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="C. H. Slump">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="Andreas Jakobsson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="P. Koukoulas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="K. Georgoulakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="N Kalouptsidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="Jian Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="Kexin Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George-Othon Glentis" target="Habti Abeida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="P. Stoica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Habti Abeida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Andreas Jakobsson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Kexin Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Jian Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="K. Althoefer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="A. Lee Swindlehurst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="S L Marple">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="Habti Abeida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="P. Stoica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Jakobsson" target="Kexin Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kexin Zhao" target="Habti Abeida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoying Shao" target="C. H. Slump">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Slump" target="F. W. Hoeksema">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Slump" target="Otto E. Herrmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Slump" target="Jan J. Gerbrands">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Slump" target="Martin M. Samsom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Slump" target="Mark J. Bentum">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. A. K. S. Jayasinghe" target="Otto E. Herrmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Koukoulas" target="N Kalouptsidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Lee Swindlehurst" target="P. Stoica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin M. Samsom" target="Mark J. Bentum">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Stoica" target="S L Marple">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

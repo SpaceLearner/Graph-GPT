@@ -1,132 +1,162 @@
 graph [
   node [
     id 0
-    label "Lindsay J. Groves"
-    affiliation "VUW, NZ"
-    research "Semistructured data, Lock-free algorithm, Object Relationship Attribute data"
+    label "Robert S. Arnold"
+    affiliation "MITRE Corporation"
+    research "software reeingineering, software maintenance, existing software"
   ]
   node [
     id 1
-    label "Ajith Abraham"
-    affiliation "Machine Intelligence Research Labs Machine Intelligence Research Labs(MIR Labs),, Scientific Network for Innovation and Research Excellence, Listopadu 15, Auburn, Washington, Czech Republic"
-    research "proposed method, evolutionary algorithm, neural network"
+    label "Norman Wilde"
+    affiliation "Dept of Computer Science, University of West Florida, Pensacola, FL"
+    research "software maintenance, software engineer, case study"
   ]
   node [
     id 2
-    label "Yuan Fang"
-    affiliation "Nan"
-    research "Electronic Government, Basic Information Platform, electronic government background"
+    label "W. Eric Wong"
+    affiliation "Department of Computer Science, University of Texas at Dallas, TX 75083, USA"
+    research "suspicious code, failed test case, program fault"
   ]
   node [
     id 3
-    label "Guohua Geng"
-    affiliation "Dept. of Computer Science, Northwest University at Xi'an, Shaanxi, China"
-    research "experimental result, proposed method, cultural relic image"
+    label "Joseph R. Horgan"
+    affiliation "Bell Laboratories, Murray Hill, New Jersey"
+    research "software system, software architecture, software testing"
   ]
   node [
     id 4
-    label "Xiaona Yan"
-    affiliation "Nan"
-    research "capillary tube, Critical Flux, flow characteristic"
+    label "K. H. Bennett"
+    affiliation "Univ. of Keele, Staffs, UK"
+    research "computer system, processesIn conventional operating system, system call"
   ]
   node [
     id 5
-    label "Yinghua Lu"
-    affiliation "Nan"
-    research "Maximum Margin, Face Recognition, Novel Approach"
+    label "Eman M. El-Sheikh"
+    affiliation "Department of Computer Science, University of West Florida, 11000 University Parkway, Pensacola, FL 32514, USA."
+    research "intelligent tutoring system, different domain, SOA maintainers"
   ]
   node [
     id 6
-    label "Xin Min"
-    affiliation "Department of Communication Engineering, Xiamen University, Fujian, P.R. China"
-    research "SIMO FM-DCSK UWB scheme, low complexity, low power application"
+    label "Michael Groble"
+    affiliation "Motorola Inc."
+    research "feature location, feature location problem, large system"
   ]
   node [
     id 7
-    label "Yingying Tan"
-    affiliation "Nan"
-    research "flood season, flood variation, hydrological variation diagnosis system"
+    label "Vaclav Rajlich"
+    affiliation "IEEE Computer Society"
+    research "software evolution, case study, software change"
   ]
   node [
     id 8
-    label "Minping Qian"
-    affiliation "Nan"
-    research "Iterative Stochastic SchemesAnnealing, closed form, general iterative stochastic scheme"
+    label "Malcolm C Munro"
+    affiliation "Researching Evolutionary Development Group, Department of Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire LE11 3TU"
+    research "software maintenance, software reuse, software change"
   ]
   node [
     id 9
-    label "Shaohua Teng"
-    affiliation "State Key Laboratory on Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology, Department of Computer Science and Technology, Tsinghua University, ..."
-    research "test set, Transfer Learning, Self-TrainingTraditional text classification method"
+    label "Benjamin Hartmann"
+    affiliation "Department of Mechanical Engineering, University Siegen, Siegen, Germany D57068"
+    research "local model, local model network, SOA maintainers"
   ]
   node [
     id 10
-    label "Heping Ding"
-    affiliation "Acoustics and Signal Processing, Institute for Microstructural Sciences, National Research Council, Canada"
-    research "proposed method, blind source separation, frequency bin"
+    label "Sharon Jeanette Simmons"
+    affiliation "University of West Florida"
+    research "feature location, feature location problem, large system"
   ]
   node [
     id 11
-    label "Hitomi Sato"
-    affiliation "Fujitsu Ltd., Nakaharaku, Japan"
-    research "tunable finite state machine"
+    label "Paul Matthews"
+    affiliation "Department of Information Science and Digital Media, Bristol Institute of Technology University of the West of England, Bristol, UK BS16 1QY"
+    research "agricultural knowledge, Kheti system, multimedia communication system"
   ]
   node [
     id 12
-    label "Lin Wang"
-    affiliation "Shandong Provincial Key Laboratory of Network Based Intelligent Computing, University of Jinan, Jinan, China"
-    research "concrete mix design, concrete experiment, concrete mix ratio"
+    label "S. London"
+    affiliation "Nan"
+    research "POPCORN Project"
   ]
   node [
     id 13
-    label "Lizhi Peng"
-    affiliation "Jinan University, China"
-    research "data gravitation, proposed method, P2P traffic"
+    label "Scott M. Brown"
+    affiliation "Department of Electrical and Computer Engineering Air Force Institute of Technology WrightPatterson AFB, OH"
+    research "Intelligent Information QueriesIdentifying, Intelligent Interface AgentsA decision, Probabilistic Knowledge-BasesUtility Theory-Based User"
   ]
   node [
     id 14
-    label "Qi Yin"
-    affiliation "Nan"
-    research "transport line, optimized configuration, regression model"
+    label "John Coffey"
+    affiliation "The University of West Florida, Pensacola, FL"
+    research "meta-cognitive tool, course design, course designer"
   ]
   node [
     id 15
-    label "Vanessa Evers"
-    affiliation "Institute of Educational Technology, The Open University, Milton Keynes, United Kingdom"
-    research "Open University, group discussion, informedia digital video library"
+    label "Michael Jiang"
+    affiliation "Nan"
+    research "autonomic capability, Case Study, Model-Based Approach"
   ]
   node [
     id 16
-    label "Wei-Chang Yeh"
+    label "J. Jenny Li"
     affiliation "Nan"
-    research "proposed algorithm, regression model, efficient error concealment algorithm"
+    research "Refactoring TestsMachine, software engineering, software testing"
   ]
   node [
     id 17
-    label "Chengqing Zong"
-    affiliation "National Laboratory of Pattern Recognition, Beijing, P. R. China"
-    research "sentiment classification, novel reordering model, statistical machine translation"
+    label "J. L. Alberi"
+    affiliation "Bellcore, 445 South Street, Morristown, NJ"
+    research "transition technology, IPv6 network, IPv6 transition initiative"
   ]
   node [
     id 18
-    label "Guowei Gu"
+    label "Malcolm Slovin"
     affiliation "Nan"
-    research "denitrifying condition, sole carbon source, 2-methylpyridine degradation"
+    research "Benefit Software Malntenance, Design Records, quality systemsSoftware Maintenance Standards"
   ]
   node [
     id 19
-    label "Xiuling Zhou"
-    affiliation "Nan"
-    research "image block, kernel matrix, matrix representation"
+    label "Jean-Pierre Queille"
+    affiliation "Laboratoire IMAG, , Grenoble Cedex, France 38041"
+    research "automatic propagation, propagation engine, software system"
   ]
   edge [
     source 0
-    target 12
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 18
     relation "collaborate"
   ]
   edge [
     source 1
-    target 12
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -136,7 +166,62 @@ graph [
   ]
   edge [
     source 1
-    target 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -145,13 +230,33 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
     source 3
     target 12
     relation "collaborate"
   ]
   edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
     source 4
-    target 12
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -161,66 +266,41 @@ graph [
   ]
   edge [
     source 5
-    target 12
+    target 14
     relation "collaborate"
   ]
   edge [
     source 5
-    target 17
+    target 9
     relation "collaborate"
   ]
   edge [
     source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
     target 15
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 14
     relation "collaborate"
   ]
@@ -231,6 +311,11 @@ graph [
   ]
   edge [
     source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 16
     target 17
     relation "collaborate"
   ]

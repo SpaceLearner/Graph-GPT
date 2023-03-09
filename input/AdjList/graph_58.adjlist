@@ -1,134 +1,60 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:01 2023
 # 
-Yue Pan	14
-Sarah Knoop	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-C. Neti	{'relation': 'collaborate'}
-Joseph P. Bigus	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-A Shabo	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-C. Neti	18
-Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Abhishek Verma	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-E. D. Young	{'relation': 'collaborate'}
-M. H. Schneider	{'relation': 'collaborate'}
-A Shabo	{'relation': 'collaborate'}
-Joseph P. Bigus	{'relation': 'collaborate'}
-Sarah Knoop	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Andrew W. Senior	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-E. Eide	{'relation': 'collaborate'}
-Sarah Knoop	12
-H. Chang	{'relation': 'collaborate'}
-Joseph P. Bigus	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-A Shabo	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-Joseph P. Bigus	11
-Ariel Farkash	{'relation': 'collaborate'}
-A Shabo	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Cheryl A. Kieliszewski	10
-Wang-Chiew Tan	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-A Shabo	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Abhishek Verma	0
-A Shabo	9
-David Gotz	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Susanne Glissmann	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-E. D. Young	1
-M. H. Schneider	{'relation': 'collaborate'}
-Susanne Glissmann	8
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Wang-Chiew Tan	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-Wang-Chiew Tan	7
-Shahram Ebadollahi	{'relation': 'collaborate'}
-H. Chang	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-M. H. Schneider	0
-H. Chang	6
-Shahram Ebadollahi	{'relation': 'collaborate'}
-Ariel Farkash	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Ariel Farkash	5
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-Shahram Ebadollahi	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Shahram Ebadollahi	4
-David Gotz	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Alexandre V. Evfimievski	{'relation': 'collaborate'}
-Boaz Carmeli	{'relation': 'collaborate'}
-E. Eide	0
-Alexandre V. Evfimievski	3
-Boaz Carmeli	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Tanveer Fathima Syeda-Mahmood	{'relation': 'collaborate'}
-Andrew W. Senior	0
-Tanveer Fathima Syeda-Mahmood	2
-Boaz Carmeli	{'relation': 'collaborate'}
-David Gotz	{'relation': 'collaborate'}
-Boaz Carmeli	1
-David Gotz	{'relation': 'collaborate'}
-David Gotz	0
+Mehmet Sahinoglu	8
+Mansour H. Assaf	{'relation': 'collaborate'}
+E. M. Petriu	{'relation': 'collaborate'}
+Voicu Groza	{'relation': 'collaborate'}
+Coskun Bayrak	{'relation': 'collaborate'}
+E. Chow	{'relation': 'collaborate'}
+Altaf Hossain	{'relation': 'collaborate'}
+Chuan Jin	{'relation': 'collaborate'}
+Sunil R Das	{'relation': 'collaborate'}
+Yang Hong	3
+Lu Liu	{'relation': 'collaborate'}
+Q. Qin	{'relation': 'collaborate'}
+Ning Zhang	{'relation': 'collaborate'}
+Weihui Dai	2
+Weidong Zhao	{'relation': 'collaborate'}
+Chuan Jin	{'relation': 'collaborate'}
+L. Zhu	3
+Q. Qin	{'relation': 'collaborate'}
+J. Li	{'relation': 'collaborate'}
+L. Wang	{'relation': 'collaborate'}
+Ning Zhang	2
+Lu Liu	{'relation': 'collaborate'}
+Q. Qin	{'relation': 'collaborate'}
+Coskun Bayrak	0
+E. M. Petriu	5
+Altaf Hossain	{'relation': 'collaborate'}
+Mansour H. Assaf	{'relation': 'collaborate'}
+Sunil R Das	{'relation': 'collaborate'}
+Chuan Jin	{'relation': 'collaborate'}
+Voicu Groza	{'relation': 'collaborate'}
+Lu Liu	1
+Q. Qin	{'relation': 'collaborate'}
+Q. Qin	5
+J. Li	{'relation': 'collaborate'}
+Chuan Jin	{'relation': 'collaborate'}
+L. Wang	{'relation': 'collaborate'}
+Timothy Kusky	{'relation': 'collaborate'}
+Zhao-Liang Li	{'relation': 'collaborate'}
+E. Chow	0
+Altaf Hossain	1
+Voicu Groza	{'relation': 'collaborate'}
+Chuan Jin	2
+Mansour H. Assaf	{'relation': 'collaborate'}
+Weidong Zhao	{'relation': 'collaborate'}
+Sunil R Das	1
+Mansour H. Assaf	{'relation': 'collaborate'}
+Weidong Zhao	0
+Timothy Kusky	1
+Zhao-Liang Li	{'relation': 'collaborate'}
+Voicu Groza	1
+Mansour H. Assaf	{'relation': 'collaborate'}
+Mansour H. Assaf	0
+L. Wang	2
+J. Li	{'relation': 'collaborate'}
+Zhao-Liang Li	{'relation': 'collaborate'}
+Zhao-Liang Li	0
+J. Li	0

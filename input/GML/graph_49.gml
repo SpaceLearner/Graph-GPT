@@ -1,157 +1,142 @@
 graph [
   node [
     id 0
-    label "Wangxin Xiao"
-    affiliation "Engineering Research Center of Transportation Safety, Minisrty of Eductation, Wuhan University of Technology, Wuhan, China"
-    research "low-noise tire, tire noise, tire pattern"
+    label "S. T. Chou"
+    affiliation "Nan"
+    research "InGaAlP layer, cracker temperature, molecular beam epitaxyThe"
   ]
   node [
     id 1
-    label "Chaozhong Wu"
-    affiliation "Engineering Research Center for Transportation Safety of MOE, Wuhan University of Technology, Wuhan, China 430063"
-    research "evolutionary algorithm, P system, Quantum-Inspired Evolutionary Algorithm"
+    label "Wei Lin"
+    affiliation "Nan"
+    research "QIRA code, bit error ratio, excellent error"
   ]
   node [
     id 2
-    label "Jing Gong"
+    label "K. F. Huang"
     affiliation "Nan"
-    research "AES algorithm, demo system, AES AlgorithmThe AES algorithm"
+    research "InGaAlP layer, cracker temperature, molecular beam epitaxy"
   ]
   node [
     id 3
-    label "Wei Xiong"
+    label "C. C. Yang"
     affiliation "Nan"
-    research "optimal feature subset, Rough Set-Support Vector Machine, selected feature"
+    research "color image processingA, final processed image, image processing"
   ]
   node [
     id 4
-    label "Gang Liu"
-    affiliation "Nan"
-    research "churn event, churn model, P2P NetworkThe prior study"
+    label "M. H. Lin"
+    affiliation "Acuity Technol., Menlo Park, CA, USA"
+    research "new binocular stereo algorithm, proposed algorithm, smooth surface"
   ]
   node [
     id 5
-    label "Fan Yang"
-    affiliation "Tsinghua University"
-    research "real-time interaction, experimental result, multiple net"
+    label "Tomoya Sugahara"
+    affiliation "Nan"
+    research "GaN quantum, Large Schottky barrier, memory operation"
   ]
   node [
     id 6
-    label "Qi Peng"
-    affiliation "Department of Radiology, The University of Texas Health Science Center at San Antonio, San Antonio, USA"
-    research "Mutual Information, Non-rigid Image Registration, existing registration framework"
+    label "T. H. Wu"
+    affiliation "Nan"
+    research "video sequence, electronic image stabilization, image stabilization"
   ]
   node [
     id 7
-    label "Zhiyong Lu"
+    label "Peter G. Eliseev"
     affiliation "Nan"
-    research "sequence variation, tmVar software, Text-mining mutation information"
+    research "GaN quantum, blue light emitting diodesInfluence, metalorganic chemical vapor deposition"
   ]
   node [
     id 8
-    label "Bo Yang"
-    affiliation "Department of Electrical Engineering and Computer Science, Case Western Reserve University, Cleveland, OH 44106, USA"
-    research "nonlinear system, semi-global stabilizability, global stabilizability"
+    label "David Zimmerman"
+    affiliation "ZAccess Consulting"
+    research "formalize test criterion, test case, test coverage"
   ]
   node [
     id 9
-    label "Xianqiao Chen"
+    label "Yoshihiro Shintani"
     affiliation "Nan"
-    research "vessel traffic flow, bridge areas waterway, traffic flow"
+    research "growth mechanism, low pressure, terraced substrate"
   ]
   node [
     id 10
-    label "Song Gao"
+    label "Marek Osi&#324;ski"
     affiliation "Nan"
-    research "Improved Genetic Algorithm, average fitness, Genetic Algorithm"
+    research "Optoelectronic Devices XVI, Optoelectronic Devices XVIIPhysics, Biomedical Applications IIPhysics"
   ]
   node [
     id 11
-    label "Huabin Wang"
+    label "Katsushi Nishino"
     affiliation "Nan"
-    research "control methodology, mode control theory, permanent magnet-type synchronous motor"
+    research "GaN quantum, metalorganic chemical vapor deposition"
   ]
   node [
     id 12
-    label "Hu Lei"
+    label "Kenji Shiojima"
     affiliation "Nan"
-    research "Data Glove, arm type haptic, arm type haptic interface"
+    research "electrical characteristic, memory operation, p-GaN contact"
   ]
   node [
     id 13
-    label "Yufen Sun"
-    affiliation "College of Computer Science &#38; Technology, Wuhan University of Technology Wuhan, China"
-    research "mixture model, Mixture-model MethodEstimating driver, driver assistance system"
+    label "Philippe Sartori"
+    affiliation "Motorola Labs, Motorola Inc., Schaumburg, IL"
+    research "adaptive modulation, coding scheme, robust space-time block coding"
   ]
   node [
     id 14
-    label "Kun Xu"
+    label "Shiro Sakai"
     affiliation "Nan"
-    research "indicator data, ApplicationNetwork operation complexity model, nested system model"
+    research "GaN quantum, MOVPELarge Schottky barrier, growth mechanism"
   ]
   node [
     id 15
-    label "Xue Zhang"
-    affiliation "Nan"
-    research "Adaptive User Profile, Web user, interests dynamically"
+    label "W. Y. Guo"
+    affiliation "Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan and Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan"
+    research "white matter, gray matter, cerebral hemodynamics"
   ]
   node [
     id 16
-    label "Zhe Mao"
-    affiliation "Nan"
-    research "Piecewise Cubic Spline Interpolation, real track, Vessel Track"
+    label "Y. H. Huang"
+    affiliation "Department of Mathematics Education, National Taichung University, Taichung, Taiwan"
+    research "presence server, constant location change, simulation result"
   ]
   node [
     id 17
-    label "Kun Li"
-    affiliation "University of Florida"
-    research "Greenplum parallel statistical text, automatic knowledge base construction, statistical algorithm"
+    label "C. L. Chen"
+    affiliation "Nan"
+    research "stainless steel sheet, commercial finite element analysis, spatial distribution"
   ]
   node [
     id 18
-    label "Xinping Yan"
+    label "Allen Goldberg"
     affiliation "Nan"
-    research "Intelligent Transport Systems, Intelligent Transportation Systems, Intelligent Transportation Systems Center"
+    research "stream processing, stream processing problem, stream processingStream processing"
   ]
   node [
     id 19
-    label "Hui Zhang"
-    affiliation "Nanjing Institution of Environment Science of Ministry of Environmental Protection, Nanjing, 210044, Jiangsu, China"
-    research "scattering coefficient, absorption coefficient, corresponding contribution ratio"
+    label "T. C. Wang"
+    affiliation "Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan"
+    research "small animal, automatic robot arm system, entire system accuracy"
   ]
   edge [
     source 0
-    target 18
+    target 1
     relation "collaborate"
   ]
   edge [
     source 0
-    target 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 2
     relation "collaborate"
   ]
   edge [
     source 1
     target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 9
     relation "collaborate"
   ]
   edge [
@@ -161,132 +146,187 @@ graph [
   ]
   edge [
     source 2
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
-    target 3
+    target 19
     relation "collaborate"
   ]
   edge [
     source 3
-    target 18
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 14
+    target 16
     relation "collaborate"
   ]
   edge [
     source 4
-    target 13
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 18
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 6
     relation "collaborate"
   ]
   edge [
     source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
     target 11
     relation "collaborate"
   ]
   edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 14
+    relation "collaborate"
+  ]
+  edge [
     source 8
     target 18
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 8
     target 19
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 19
+    source 9
+    target 14
     relation "collaborate"
   ]
   edge [
     source 10
-    target 18
+    target 13
     relation "collaborate"
   ]
   edge [
     source 11
-    target 18
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 14
     relation "collaborate"
   ]
   edge [
     source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 13
     target 14
     relation "collaborate"
   ]
   edge [
     source 14
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [
     source 15
-    target 18
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 18
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -295,8 +335,13 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
     source 17
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [

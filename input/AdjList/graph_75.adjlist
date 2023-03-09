@@ -1,66 +1,65 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:04 2023
 # 
-Michael Terry	6
-Benjamin Lafreniere	{'relation': 'collaborate'}
-John S. Whissell	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Charles L. A. Clarke	{'relation': 'collaborate'}
-Edward Lank	{'relation': 'collaborate'}
-Cristina Conati	2
-Giuseppe Carenini	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-George Labahn	4
-Andrea Bunt	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Edward Lank	{'relation': 'collaborate'}
-Mirette Marzouk	{'relation': 'collaborate'}
-John S. Whissell	3
-Charles L. A. Clarke	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Mirette Marzouk	2
-Edward Lank	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Giuseppe Carenini	1
-Andrea Bunt	{'relation': 'collaborate'}
-Xing Dong Yang	3
-Pourang Irani	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Carl A. Gutwin	{'relation': 'collaborate'}
-Jennifer Gluck	1
-Andrea Bunt	{'relation': 'collaborate'}
-Roberta M. Melvin	1
-Andrea Bunt	{'relation': 'collaborate'}
-Charles L. A. Clarke	2
-Andrea Bunt	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Andrea Bunt	9
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Carl A. Gutwin	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	{'relation': 'collaborate'}
-Pourang Irani	{'relation': 'collaborate'}
-Edward Lank	{'relation': 'collaborate'}
-Will Haines	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Aaron Spaulding	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	3
-Carl A. Gutwin	{'relation': 'collaborate'}
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Pourang Irani	{'relation': 'collaborate'}
-Will Haines	2
-Aaron Spaulding	{'relation': 'collaborate'}
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Pourang Irani	1
-Carl A. Gutwin	{'relation': 'collaborate'}
-Richard Mann	2
-Edward Lank	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Carl A. Gutwin	0
-Edward Lank	0
-Aaron Spaulding	1
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Benjamin Lafreniere	0
-Per-Ola Kristensson	0
+Clint Slatton	3
+Alan D. George	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Karthik Nagarajan	{'relation': 'collaborate'}
+Zuo-Jun (Max) Shen	1
+H Lam	{'relation': 'collaborate'}
+Andréa M. Matsunaga	2
+H Lam	{'relation': 'collaborate'}
+Sumalatha Adabala	{'relation': 'collaborate'}
+Vikas Aggarwal	5
+Brian Holland	{'relation': 'collaborate'}
+H Lam	{'relation': 'collaborate'}
+K. Clint Slatton	{'relation': 'collaborate'}
+Greg Stitt	{'relation': 'collaborate'}
+Alan D. George	{'relation': 'collaborate'}
+Lalita Narupiyakul	1
+H Lam	{'relation': 'collaborate'}
+K. Clint Slatton	4
+Karthik Nagarajan	{'relation': 'collaborate'}
+Alan D. George	{'relation': 'collaborate'}
+H Lam	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Seokwon Yang	1
+H Lam	{'relation': 'collaborate'}
+Liang-Jie Zhang	3
+H Lam	{'relation': 'collaborate'}
+Haifei Li	{'relation': 'collaborate'}
+Liang-Jie Zhang	{'relation': 'collaborate'}
+Alan D. George	6
+H Lam	{'relation': 'collaborate'}
+Adam Jacobs	{'relation': 'collaborate'}
+Chris Conger	{'relation': 'collaborate'}
+Greg Stitt	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Karthik Nagarajan	{'relation': 'collaborate'}
+H Lam	8
+Yu Long	{'relation': 'collaborate'}
+Sumalatha Adabala	{'relation': 'collaborate'}
+Haifei Li	{'relation': 'collaborate'}
+Yihua Huang	{'relation': 'collaborate'}
+Greg Stitt	{'relation': 'collaborate'}
+Karthik Nagarajan	{'relation': 'collaborate'}
+Ed Barkmeyer	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Sumalatha Adabala	0
+Yihua Huang	1
+Haifei Li	{'relation': 'collaborate'}
+Adam Jacobs	3
+Chris Conger	{'relation': 'collaborate'}
+Karthik Nagarajan	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Ed Barkmeyer	0
+Karthik Nagarajan	2
+Chris Conger	{'relation': 'collaborate'}
+Brian Holland	{'relation': 'collaborate'}
+Greg Stitt	1
+Brian Holland	{'relation': 'collaborate'}
+Brian Holland	1
+Chris Conger	{'relation': 'collaborate'}
+Haifei Li	0
+Yu Long	0
+Chris Conger	0

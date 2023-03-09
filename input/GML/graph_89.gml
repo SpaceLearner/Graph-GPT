@@ -1,128 +1,123 @@
 graph [
   node [
     id 0
-    label "Jianyu Li"
-    affiliation "University of Maryland, College Park, MD"
-    research "Twitter data, Twitter stream, large data set"
+    label "N. Levine"
+    affiliation "Nan"
+    research "Hong Kong, deregulatory approach, deregulatory telecom development"
   ]
   node [
     id 1
-    label "Guiming Wu"
-    affiliation "National Laboratory for Parallel &#38; Distributed Processing, National University of Defense Technology, Changsha, China"
-    research "LU decomposition, subword parallelism, block LU decomposition algorithm"
+    label "Zhang Wei"
+    affiliation "Nan"
+    research "Matlab SoftwareMatlab, Matlab foundation course, application fields Matlab"
   ]
   node [
     id 2
-    label "Fanglin Chen"
-    affiliation "Department of Automatic Control, College of Mechatronics and Automation, National University of Defense Technology, Changsha, Hunan, P.R. China"
-    research "partial fingerprint, partial fingerprint recognition, fingerprint area"
+    label "Hui Wang"
+    affiliation "Nan"
+    research "Information Asymmetry, control theory, game theory"
   ]
   node [
     id 3
-    label "Jingyan Song"
+    label "Bai Yan"
     affiliation "Nan"
-    research "RGB-D sensor, GPS-denied environment, invariant observer"
+    research "heating value, heating value sensor, low heating value"
   ]
   node [
     id 4
-    label "Ji-Rong Wen"
-    affiliation "Tsinghua University, Beijing, China"
-    research "web page, experimental result, search engine"
+    label "Xu Hongguo"
+    affiliation "Nan"
+    research "Bayesian network, tractor-semi trailer, Dynamic Lateral Load Transfer"
   ]
   node [
     id 5
-    label "Pu Cheng"
+    label "Xu Yan"
     affiliation "Nan"
-    research "skin information, color information, skin detection"
+    research "sequence algorithm, OFDM system, Improved Algorithm"
   ]
   node [
     id 6
-    label "R. Schmitz"
-    affiliation "NEC Network Laboratories, NEC Europe Ltd, Heidelberg, Germany"
-    research "node mobility, vehicular network, network performance metrics"
+    label "Guang Yang"
+    affiliation "Nan"
+    research "communication task, communication task loss rate, communication task schedule"
   ]
   node [
     id 7
-    label "Xinhai Xu"
-    affiliation "Nan"
-    research "aggressive strategy, conservative strategy, statistical strategy"
+    label "Yuelin Wang"
+    affiliation "State Key Laboratory of Transducer Technology, Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai 200050, China"
+    research "KOH etching, liquid polyimide, single crystal nano beam"
   ]
   node [
     id 8
-    label "M. Liebsch"
-    affiliation "NEC Laboratories, Heidelberg, Germany"
-    research "mobile node, mobile device, mobile terminal"
+    label "Guilin Wen"
+    affiliation "Nan"
+    research "delay derivative, BRL condition, aforesaid BRL"
   ]
   node [
     id 9
-    label "Qiaoge Liu"
-    affiliation "Nan"
-    research "service provider, modern service, traditional service"
+    label "Liu Hongfei"
+    affiliation "Automation Academy, Chongqing University, Chongqing, China and Chongqing Communication College, Chongqing, China"
+    research "Micro GC, tractor-semi trailer, Dynamic Lateral Load Transfer"
   ]
   node [
     id 10
-    label "Songzhu Mei"
+    label "Wang Qi"
     affiliation "Nan"
-    research "Attributes Union, cryptographic access control system, speculative caching"
+    research "discrete delay, interval-like time-varying delay, Earthquake Searching ProblemIn"
   ]
   node [
     id 11
-    label "Jie Deng"
-    affiliation "Stanford University, Stanford, CA"
-    research "compact model, CNFET circuit, analytical model"
+    label "Ioannis A. Kakadiaris"
+    affiliation "IEEE"
+    research "proposed method, multi-feature fuzzy connectedness method, CT data"
   ]
   node [
     id 12
-    label "Jiannong Cao"
-    affiliation "Nan"
-    research "sensor fault, Structural Health Monitoring, WSN constraint"
+    label "Fuhai Li"
+    affiliation "College of Electrical and Information Engineering, Hunan University, Changsha, China 410082"
+    research "Tail-fitting Algorithm, deterministic jitter, random jitter"
   ]
   node [
     id 13
-    label "Hans Joachim Einsiedler"
-    affiliation "Telekom Innovation Laboratories, Berlin Germany"
-    research "available bandwidth, Differentiated Services, MAC frame"
+    label "Sheng Li"
+    affiliation "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China"
+    research "visual synthesis method, Phoneme-level articulatory animation, articulatory animation"
   ]
   node [
     id 14
-    label "Jie Zhou"
-    affiliation "Nan"
-    research "skin information, color information, skin detection"
+    label "D. Pitt"
+    affiliation "Strathclyde Bus. Sch., Glasgow"
+    research "Hong Kong, deregulatory approach, deregulatory telecom development"
   ]
   node [
     id 15
-    label "Can Gao"
-    affiliation "Department of Computer Science and Technology, Tongji University, Shanghai 201804, PR China and The Key Laboratory of &#8220;Embedded System and Service Computing&#8221;, Ministry of Education, Sh ..."
-    research "Two-dimensional color, unlabeled data, proposed algorithm"
+    label "Li Yan"
+    affiliation "Nan"
+    research "Support Vector Machine, proposed algorithm, proposed method"
   ]
   node [
     id 16
-    label "Shuang Wu"
+    label "Dong Xinfa"
     affiliation "Nan"
-    research "K-mean algorithm, ensemble algorithm, subspace set"
+    research "actual evaporation, visual programming language, water storage"
   ]
   node [
     id 17
-    label "Deguang Cui"
-    affiliation "Nan"
-    research "short-term air traffic flow, air traffic flow, airborne delay"
+    label "Hui Zheng"
+    affiliation "Shanghai Key Laboratory of Magnetic Resonance, Physics Department, East China Normal University, Shanghai, China"
+    research "residual image, original image, denoised image"
   ]
   node [
     id 18
-    label "David Zhang"
+    label "Shishir K. Shah"
     affiliation "Nan"
-    research "metric learning, point-to-set distance, set-to-set distance"
+    research "analytic quality, analytic performance metrics, analytic software"
   ]
   node [
     id 19
-    label "Xiaolong Ma"
+    label "Fei Feng"
     affiliation "Nan"
-    research "optical parameter, feasible optical structure, optical performance"
-  ]
-  edge [
-    source 0
-    target 9
-    relation "collaborate"
+    research "light source, state light, coherent light"
   ]
   edge [
     source 0
@@ -131,27 +126,87 @@ graph [
   ]
   edge [
     source 0
-    target 19
+    target 5
     relation "collaborate"
   ]
   edge [
     source 1
-    target 14
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 1
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
     relation "collaborate"
   ]
   edge [
     source 2
-    target 14
+    target 5
     relation "collaborate"
   ]
   edge [
     source 3
-    target 14
+    target 5
     relation "collaborate"
   ]
   edge [
     source 4
-    target 14
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -160,88 +215,63 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 14
+    source 5
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
     relation "collaborate"
   ]
   edge [
     source 6
-    target 8
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 7
     target 13
     relation "collaborate"
   ]
   edge [
     source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
     target 19
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 14
+    source 8
+    target 12
     relation "collaborate"
   ]
   edge [
     source 11
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 14
     target 18
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 14
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 14
+    source 13
     target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 15
     relation "collaborate"
   ]
 ]

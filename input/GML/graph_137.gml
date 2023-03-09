@@ -1,317 +1,237 @@
 graph [
   node [
     id 0
-    label "Roberto M. Avanzi"
-    affiliation "Institute for Experimental Mathematics (IEM), Universit&#228;t Duisburg&#8211;Essen, Essen, Germany"
-    research "Scalar Multiplication, Koblitz curve, scalar multiplication algorithm"
+    label "X. D. Fang"
+    affiliation "Nan"
+    research "real-time fuzzy logic control, small-diameter drill, tool life"
   ]
   node [
     id 1
-    label "R. F. Tichy"
-    affiliation "Technische Univ. Graz, Graz, Austria"
-    research "low-discrepancy sequence, Gray code, positive integer"
+    label "Joshua R. Smith"
+    affiliation "University of Washington"
+    research "RF environment, RF-powered computer, RF-powered device"
   ]
   node [
     id 2
-    label "Arnold Knopfmacher"
-    affiliation "Wirwatersrand Univ., Johannesburg, South Africa"
-    research "length n, independent geometric random variable, random variable"
+    label "Sandipan Dandapat"
+    affiliation "Indian Institute of Technology, India"
+    research "EBMT system, DCU MT system, DCU machine translation system"
   ]
   node [
     id 3
-    label "C. Martinez"
-    affiliation "Departamento de Inform&#225;tica, Facultad de Ciencias Exactas Universidad Nacional de Salta, Argentina"
-    research "new algorithm, BRKGA Algorithm, BRKGA metaheuristic"
+    label "A. Basu"
+    affiliation "Nan"
+    research "encode facial texture, entire facial texture, facial wrinkle"
   ]
   node [
     id 4
-    label "H Prodinger"
-    affiliation "Mathematics Department, University of Stellenbosch, Stellenbosch, South Africa"
-    research "random variable, Scalar Multiplication, expected number"
+    label "Erik Asmussen"
+    affiliation "MIT Media Laboratory, Cambridge, MA"
+    research "RoBallet environment, RoBallet environment child, correct motion"
   ]
   node [
     id 5
-    label "Stephan G. Wagner"
-    affiliation "Department of mathematical sciences, stellenbosch university, private bag x1, matieland 7602, south africa (email: swagner@sun.ac.za)"
-    research "Wiener index, Merrifield-Simmons index, graph parameter"
+    label "Pabitra Mitra"
+    affiliation "Computer Science and Engineering, lIT Kharagpur, India"
+    research "STACK protocol, better energy efficiency, budget energy expenditure"
   ]
   node [
     id 6
-    label "Peter Grabner"
-    affiliation "Institut f&#252;r Mathematik A, Steyrergasse 30, A&#8211;8010 Graz, Austria (email: grabner@weyl.math.tu_graz.ac.at)"
-    research "average number, linear combination, numerical integration"
+    label "R. S. Mitra"
+    affiliation "Dept. of Comput. Sci. &#38; Eng., Indian Inst. of Technol., Kharagpur"
+    research "different knowledge source, knowledge representation, knowledge representation scheme"
   ]
   node [
     id 7
-    label "Clemens Heuberger"
-    affiliation "Technische Univ. Graz, Graz, Austria"
-    research "Scalar Multiplication, Lebesgue measure, algorithmic randomness"
+    label "Lijun Yin"
+    affiliation "Nan"
+    research "hand contour, hand feature, hand finger estimation"
   ]
   node [
     id 8
-    label "K. Scheicher"
-    affiliation "Radon Institute for Computational and Applied Mathematics (RICAM), Austrian Academy of Sciences, Altenbergerstra&#223;e 69, A4040 Linz, Austria"
-    research "finite field, present paper, polynomial ring"
+    label "P. Sreenivasa Kumar"
+    affiliation "Indian Institute of Technology Madras, India"
+    research "XML data, incomplete data, SPARQL query"
   ]
   node [
     id 9
-    label "Manfred Madritsch"
-    affiliation "Department of Mathematics and Information Technology, University of Leoben, A8700 Leoben, Austria"
-    research "number system, LLL algorithm, additive function"
+    label "T. Nayak"
+    affiliation "Nan"
+    research "quadratic entropy, dissimilarity measure, cross entropy"
   ]
   node [
     id 10
-    label "Werner Kuich"
-    affiliation "Technische Univ. Wien, Vienna, Austria"
-    research "algebraic power series, recognizable tree series, tree series"
+    label "R. Mall"
+    affiliation "GM India Science Lab, Bangalore,"
+    research "test case, test data, test coverage analysis"
   ]
   node [
     id 11
-    label "Emeric Deutsch"
-    affiliation "Department of Mathematics, Polytechnic University, Brooklyn, NY"
-    research "plane tree, young leave, 2-Motzkin path"
+    label "D. Saha"
+    affiliation "Nan"
+    research "IP routers, optical layer, reconfigurable optical backbone"
   ]
   node [
     id 12
-    label "R. Katti"
-    affiliation "IEEE"
-    research "greedy expansion, heterogeneous routing resource, minimal joint weight expansion"
+    label "Vijay K. Gurbani"
+    affiliation "Security Technology Research Group, Bell Labs, Lisle, Illinois"
+    research "SIP firewall, session initiation protocol, open source development"
   ]
   node [
     id 13
-    label "Emrah Kilic"
-    affiliation "TOBB ETU University of Economics and Technology, Mathematics Department, 06560 Sogutozu, Ankara, Turkey"
-    research "generalized Fibonacci p-numbers, generalized Binet formula, generalized order-k"
+    label "Ashraf Elnagar"
+    affiliation "Dept. of Comput. Sci., Sharjah Univ."
+    research "candidate cut-point, proposed algorithm, Team-Based Learning"
   ]
   node [
     id 14
-    label "H M Mahmoud"
-    affiliation "Department of Statistics, the George Washington Uuniversitywashington, DC 20052 email: hosam@gwu.edu"
-    research "stationary distribution, joint distribution, limit distribution"
+    label "S. Dey"
+    affiliation "Nan"
+    research "Markov chain, Completely Decomposable Hidden Markov, large number"
   ]
   node [
     id 15
-    label "Margaret Archibald"
-    affiliation "Laboratory of Foundational Aspects of Computer Science, Department of Mathematics &#38; Applied Mathematics, University of Cape Town, Rondebosch 7701, South Africa. Emails: Margaret.Archibald@uct.ac. ..."
-    research "Lebesgue measure, algorithmic randomness, signed-digit representation"
+    label "M. H. Korayem"
+    affiliation "Robotic Research Laboratories, Mechanical Engineering Department, Science &#38; Technology University, Narmak, Tehran, Iran"
+    research "maximum payload, cable robot, proposed method"
   ]
   node [
     id 16
-    label "Wojciech Szpankowski"
-    affiliation "Nan"
-    research "Multiaccess Systems, Performance Evaluation, Reservation Protocol"
+    label "S. Mukherjee"
+    affiliation "George A. Phibrick Researches, Inc., U.S.A."
+    research "analog computor, slow surface wave, analog computorThe existence"
   ]
   node [
     id 17
-    label "Philippe Flajolet"
-    affiliation "Algorithms Project, Inst. Nat. de Recherche en Inf. et Autom., Le Chesnay"
-    research "singularity analysis, random generation, random text"
+    label "N. D. Dutt"
+    affiliation "Nan"
+    research "accurate area, actual area, delay attribute"
   ]
   node [
     id 18
-    label "J&#246;rg M. Thuswaldner"
-    affiliation "Institut f&#252;r Mathematik und Angewandte Geometrie, Abteilung f&#252;r Mathematik und Statistik, Montanuniversit&#228;t Leoben, FranzJosef Stra&#237;e 18, A8700 Leoben, Austria"
-    research "finite field, number system, present paper"
+    label "Anirban Lahiri"
+    affiliation "NXP Semiconductors, The Netherlands"
+    research "battery life, performance density, multi-core embedded processor"
   ]
   node [
     id 19
-    label "Friedrich Hubalek"
-    affiliation "Institut f&#252;r Finanzund Versicherungsmathematik, Technische Universit&#228;t Wien, 1040 Vienna, Austria"
-    research "Geometric Asian option, bucket digital search tree, digital search tree"
+    label "James Stanier"
+    affiliation "University of Sussex, UK"
+    research "irreducible loop, imperative compiler, intermediate representation"
   ]
   edge [
     source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 3
     relation "collaborate"
   ]
   edge [
     source 1
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
+    target 3
     relation "collaborate"
   ]
   edge [
     source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
+    target 3
     relation "collaborate"
   ]
   edge [
     source 3
-    target 4
+    target 9
     relation "collaborate"
   ]
   edge [
     source 3
-    target 17
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 3
     target 10
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 7
+    source 3
     target 15
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 12
+    source 3
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 18
+    source 3
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 18
+    source 3
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 17
+    source 3
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 19
     relation "collaborate"
   ]
 ]

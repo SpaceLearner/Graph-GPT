@@ -1,127 +1,132 @@
 graph [
   node [
     id 0
-    label "Hsiao-Wuen Hon"
-    affiliation "Microsoft Research Asia, Beijing, China"
-    research "ambiguous query, speech recognition, query log"
+    label "Michael J. Gallivan"
+    affiliation "Georgia State University, CIS Department, Atlanta, GA"
+    research "IT professional, IT outsourcing, IT profession"
   ]
   node [
     id 1
-    label "Shi-Min Hu"
-    affiliation "TNList, Tsinghua Univ."
-    research "proposed approach, initial map, interactive image"
+    label "Mohan R Tanniru"
+    affiliation "University of WisconsinMadison, Madison, Wisconsin"
+    research "process redesign, career path, information system"
   ]
   node [
     id 2
-    label "Bingheng Lu"
-    affiliation "State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, People's Republic of China"
-    research "loading process, load release, full filling"
+    label "Dennis F. Galletta"
+    affiliation "Fox School of Business and Management Temple University, Philadelphia, PA"
+    research "MIS Research, experimental study, user performance"
   ]
   node [
     id 3
-    label "Bin Liu"
-    affiliation "Nan"
-    research "Laminated Flooring, Texture AnalysisExtracting surface image, defective laminated flooring"
+    label "Ayoung Suh"
+    affiliation "Ewha Womans University, Korea"
+    research "virtual community, online social tie, social network"
   ]
   node [
     id 4
-    label "Chang Tian"
-    affiliation "Nan"
-    research "path uncertainty, path probability, underlying path probability"
+    label "Thomas Meservy"
+    affiliation "Brigham Young University"
+    research "deception detection, deception detection method, Detecting deception"
   ]
   node [
     id 5
-    label "Norman P. Jouppi"
-    affiliation "Google"
-    research "memory system, high performance, performance improvement"
+    label "Chris Ogan"
+    affiliation "School of Journalism, Indiana University, Bloomington, Indiana, USA"
+    research "organizational culture, student experience, IT education"
   ]
   node [
     id 6
-    label "Adam Finkelstein"
-    affiliation "Nan"
-    research "Creative Performance, happy exhibit, creative insight"
+    label "Kelly J. Fadel"
+    affiliation "Utah State University"
+    research "knowledge exchange, knowledge source, knowledge transfer"
   ]
   node [
     id 7
-    label "Shuming Tang"
-    affiliation "Nan"
-    research "principal curve, proposed method, freeway traffic-stream modeling"
+    label "Ajit Kambil"
+    affiliation "Andersen Consulting"
+    research "electronic commerce, business network, electronic market"
   ]
   node [
     id 8
-    label "Andrew Howard"
-    affiliation "Space Exploration Technologies, 1 Rocket Road, Hawthorne, California 90250"
-    research "Wiley Periodicals, stereo vision, Hammerhead vision system"
+    label "Monica Adya"
+    affiliation "Marquette University, Milwaukee, WI"
+    research "IT career, IT professional, women IT professional"
   ]
   node [
     id 9
-    label "Jia Chen"
-    affiliation "Nan"
-    research "diversity type, embedded system, analysis software"
+    label "David E Pingry"
+    affiliation "Univ. of Arizona, Tucson"
+    research "IT investment, IT spending, alternative patent policy"
   ]
   node [
     id 10
-    label "Jue Wang"
-    affiliation "The Ohio State University, Columbus, OH"
-    research "IKONOS image, rock modeling, geopositioning accuracy"
+    label "Manju K. Ahuja"
+    affiliation "Computer and Information Systems, College of Business, University of Louisville, Louisville, KY 40292, United States"
+    research "virtual organization, information technology, work environment"
   ]
   node [
     id 11
-    label "Suqing Han"
-    affiliation "Department of Mathematics, Taiyuan Normal University, Taiyuan, China"
-    research "attribute order, information system, attribute theorem"
+    label "Alexandra Durcikova"
+    affiliation "Price College of Business, The University of Oklahoma, Norman, OK, USA"
+    research "knowledge management, knowledge management system, knowledge source"
   ]
   node [
     id 12
-    label "Sunghyun Cho"
-    affiliation "POSTECH"
-    research "importance diffusion, column removal, importance diffusionThis paper"
+    label "Hoon S. Cha"
+    affiliation "Nan"
+    research "knowledge usefulness, source credibility, Experimental TestUnderstanding knowledge transfer"
   ]
   node [
     id 13
-    label "Xiao-Shan Gao"
-    affiliation "KLMM, Institute of Systems Science"
-    research "parametric equation, decomposition algorithm, geometric constraint"
+    label "Matthew L. Jensen"
+    affiliation "Nan"
+    research "common knowledge interest, influence knowledge contribution, knowledge evaluation"
   ]
   node [
     id 14
-    label "Hua Huang"
-    affiliation "School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an 710049, China"
-    research "reference image, point cloud, web image"
+    label "Brian Butler"
+    affiliation "Carnegie Mellon University"
+    research "social feature, profile information, social emphasis"
   ]
   node [
     id 15
-    label "Liang Ding"
-    affiliation "Nan"
-    research "Maxwell equation, Multiresolution Method, Maxwell EquationThis paper"
+    label "Elisa Mattarelli"
+    affiliation "University of Modena and Reggio Emilia, Reggio Emilia, Italy"
+    research "24-h knowledge factory, knowledge sharing, co-located team"
   ]
   node [
     id 16
-    label "Hang Li"
-    affiliation "Sigma Center, Beijing, P. R. China"
-    research "experimental result, web search, ranking model"
+    label "A. Woszczynski"
+    affiliation "Kennesaw State University"
+    research "student success, IT educator, IT field"
   ]
   node [
     id 17
-    label "Shancang Li"
-    affiliation "Institute of Advanced Telecommunications, Swansea University, Swansea, UK"
-    research "proposed method, wireless sensor network, previous method"
+    label "M. E. Thatcher"
+    affiliation "Department of Computer Information Systems, University of Louisville, College of Business, Louisville, KY 40292, USA"
+    research "product quality, IT investment, insurance company"
   ]
   node [
     id 18
-    label "Hongyu Zhang"
-    affiliation "Tsinghua University, China"
-    research "test case, suspicious program element, existing fault localization technique"
+    label "Susan A. Brown"
+    affiliation "University of Arizona's Eller College of Management"
+    research "Nano Mapper, User Acceptance, cognitive fit"
   ]
   node [
     id 19
-    label "Fei-Yue Wang"
-    affiliation "Nan"
-    research "economic computing, economic system, Special Section"
+    label "Suzanne P. Weisband"
+    affiliation "Univ. of Arizona, Tucson"
+    research "system administrator, older system, newer system"
   ]
   edge [
     source 0
     target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -131,12 +136,27 @@ graph [
   ]
   edge [
     source 1
-    target 10
+    target 6
     relation "collaborate"
   ]
   edge [
     source 1
-    target 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -145,18 +165,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 10
+    source 2
+    target 14
     relation "collaborate"
   ]
   edge [
     source 3
-    target 19
+    target 10
     relation "collaborate"
   ]
   edge [
     source 4
-    target 10
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -166,7 +191,7 @@ graph [
   ]
   edge [
     source 6
-    target 10
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -175,7 +200,27 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 6
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 19
     relation "collaborate"
   ]
@@ -190,6 +235,21 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 8
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
     source 9
     target 10
     relation "collaborate"
@@ -197,26 +257,6 @@ graph [
   edge [
     source 10
     target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
     relation "collaborate"
   ]
   edge [
@@ -230,22 +270,32 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 11
+    source 11
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 13
+    source 11
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 10
+    source 11
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
     target 19
     relation "collaborate"
   ]

@@ -1,56 +1,62 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:07 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:11 2023
 # 
-Michael L. Schneider	1
-Neal S. Coulter	{'relation': 'collaborate'}
-Iraj Hirmanpour	2
-Soheil Khajenoori	{'relation': 'collaborate'}
-A. J. Kornecki	{'relation': 'collaborate'}
-Julia E. Hodges	2
-Neal S. Coulter	{'relation': 'collaborate'}
-A. J. Turner	{'relation': 'collaborate'}
-D. G. Linton	1
-Soheil Khajenoori	{'relation': 'collaborate'}
-A. J. Turner	3
-Robert Cannon	{'relation': 'collaborate'}
-Neal S. Coulter	{'relation': 'collaborate'}
-Nancy R. Mead	{'relation': 'collaborate'}
-D. Umphress	2
-Neal S. Coulter	{'relation': 'collaborate'}
-L. Jones	{'relation': 'collaborate'}
-David Gluch	3
-A. J. Kornecki	{'relation': 'collaborate'}
-Nader Kameli	{'relation': 'collaborate'}
-Soheil Khajenoori	{'relation': 'collaborate'}
-Robert Cannon	1
-Neal S. Coulter	{'relation': 'collaborate'}
-Kathy Beckman	3
-Nancy R. Mead	{'relation': 'collaborate'}
-Soheil Khajenoori	{'relation': 'collaborate'}
-Neal S. Coulter	{'relation': 'collaborate'}
-A. J. Kornecki	3
-Nancy R. Mead	{'relation': 'collaborate'}
-Soheil Khajenoori	{'relation': 'collaborate'}
-Nader Kameli	{'relation': 'collaborate'}
-Ira Monarch	1
-Neal S. Coulter	{'relation': 'collaborate'}
-Neal S. Coulter	4
-Nancy R. Mead	{'relation': 'collaborate'}
-Soheil Khajenoori	{'relation': 'collaborate'}
-L. Jones	{'relation': 'collaborate'}
-Fred G Harold	{'relation': 'collaborate'}
-Watts S. Humphrey	2
-Nancy R. Mead	{'relation': 'collaborate'}
-Soheil Khajenoori	{'relation': 'collaborate'}
-L. Jones	0
-Soheil Khajenoori	4
-Christian S. Bauer	{'relation': 'collaborate'}
-S Yeralan	{'relation': 'collaborate'}
-Nancy R. Mead	{'relation': 'collaborate'}
-Nader Kameli	{'relation': 'collaborate'}
-Nancy R. Mead	1
-Nader Kameli	{'relation': 'collaborate'}
-Nader Kameli	0
-S Yeralan	0
-Christian S. Bauer	0
-Fred G Harold	0
+Rajiv P. Mehta	2
+S. Evenson	{'relation': 'collaborate'}
+Paul Pangaro	{'relation': 'collaborate'}
+Ryan S. Baker	5
+Angela Z. Wagner	{'relation': 'collaborate'}
+S. Evenson	{'relation': 'collaborate'}
+Joseph E. Beck	{'relation': 'collaborate'}
+Kenneth Koedinger	{'relation': 'collaborate'}
+Ido Roll	{'relation': 'collaborate'}
+John Skidgel	2
+S. Evenson	{'relation': 'collaborate'}
+Dan R. Olsen, Jr.	{'relation': 'collaborate'}
+J. Rheinfrank	3
+W. Wulff	{'relation': 'collaborate'}
+S. Evenson	{'relation': 'collaborate'}
+F. RichardsonSmith	{'relation': 'collaborate'}
+Richard Buchanan	1
+S. Evenson	{'relation': 'collaborate'}
+C. Rohrer	3
+S. Evenson	{'relation': 'collaborate'}
+Irene Au	{'relation': 'collaborate'}
+Elissa Darnell	{'relation': 'collaborate'}
+F. RichardsonSmith	2
+W. Wulff	{'relation': 'collaborate'}
+S. Evenson	{'relation': 'collaborate'}
+Angela Z. Wagner	4
+S. Evenson	{'relation': 'collaborate'}
+Joseph E. Beck	{'relation': 'collaborate'}
+Ido Roll	{'relation': 'collaborate'}
+Kenneth Koedinger	{'relation': 'collaborate'}
+Joseph E. Beck	3
+Kenneth Koedinger	{'relation': 'collaborate'}
+S. Evenson	{'relation': 'collaborate'}
+Ido Roll	{'relation': 'collaborate'}
+Kenneth Koedinger	3
+S. Evenson	{'relation': 'collaborate'}
+Ido Roll	{'relation': 'collaborate'}
+Jodi Forlizzi	{'relation': 'collaborate'}
+S. Evenson	9
+Jodi Forlizzi	{'relation': 'collaborate'}
+Dan R. Olsen, Jr.	{'relation': 'collaborate'}
+Irene Au	{'relation': 'collaborate'}
+John L. Zimmerman	{'relation': 'collaborate'}
+Ido Roll	{'relation': 'collaborate'}
+Elissa Darnell	{'relation': 'collaborate'}
+Paul Pangaro	{'relation': 'collaborate'}
+Paul Burke	{'relation': 'collaborate'}
+W. Wulff	{'relation': 'collaborate'}
+Elissa Darnell	1
+Irene Au	{'relation': 'collaborate'}
+Dan R. Olsen, Jr.	0
+Paul Pangaro	0
+Ido Roll	0
+W. Wulff	0
+Jodi Forlizzi	1
+John L. Zimmerman	{'relation': 'collaborate'}
+Paul Burke	0
+John L. Zimmerman	0
+Irene Au	0

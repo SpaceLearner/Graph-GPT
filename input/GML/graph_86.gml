@@ -1,163 +1,123 @@
 graph [
   node [
     id 0
-    label "H Lam"
-    affiliation "Univ. of Florida, Gainesville"
-    research "Web service, application system, Grid service"
+    label "Yoseph Bar-Cohen"
+    affiliation "Nan"
+    research "artificial muscle, science fiction, artificial intelligence"
   ]
   node [
     id 1
-    label "Ed Barkmeyer"
-    affiliation "National Institute of Standards and Technology, Gaithersburg, MD"
-    research "semantic-mediation architecture, database system, communication requirement"
+    label "R E. Griswold"
+    affiliation "Bell Telephone Laboratories, Inc., Holmdel, New Jersey"
+    research "programming language, SNOBOL language, Icon programming language"
   ]
   node [
     id 2
-    label "Yihua Huang"
+    label "Mukund Raghavachari"
     affiliation "Nan"
-    research "Computer Organization, computer science, computer system"
+    research "multipacket routing, randomized algorithm"
   ]
   node [
     id 3
-    label "Karthik Nagarajan"
-    affiliation "University of Florida"
-    research "hardware paradigm, hardware design, RC Amenability Test"
+    label "Alvaro E. Campos"
+    affiliation "Departamento de Ciencia de la Computaci&#243;n, Pontificia Universidad Cat&#243;lica de Chile, Casilla 306, Santiago 22, Chile"
+    research "sequential consistency, efficient implementation, causally consistent protocol"
   ]
   node [
     id 4
-    label "Zuo-Jun (Max) Shen"
-    affiliation "Nan"
-    research "Information Infrastructure, collaborative e-business, Internet-based scalable e-business enterprise"
+    label "J T Korb"
+    affiliation "The University of Arizona"
+    research "computational thinking, CSNET site, computational principle"
   ]
   node [
     id 5
-    label "Andr&#233;a M. Matsunaga"
-    affiliation "University of Florida, Gainesville, FL"
-    research "virtual grid, In-VIGO approach, proposed approach"
+    label "Norman Ramsey"
+    affiliation "Tufts University, Medford, USA"
+    research "target machine, intermediate code, program committee"
   ]
   node [
     id 6
-    label "Clint Slatton"
-    affiliation "Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL"
-    research "FPGAsMany signal processing algorithm, PDF algorithm, image processing algorithm"
+    label "Gary Lindstrom"
+    affiliation "Univ. of Pittsburgh, Pittsburgh, PA"
+    research "functional language, memory model, functional programming language"
   ]
   node [
     id 7
-    label "Greg Stitt"
-    affiliation "University of Florida, Gainesville, FL"
-    research "application designer, performance improvement, FPGA accelerator"
+    label "Howard J. Larsen"
+    affiliation "Nan"
+    research "Ada tasking, Adam compiler, Adam parallel processing"
   ]
   node [
     id 8
-    label "Seokwon Yang"
-    affiliation "Nan"
-    research "Active Capability, Interactive Tool"
+    label "James F Gimpel"
+    affiliation "Bell Telephone Laboratories, Holmdel, NJ"
+    research "discrete pattern, graphical problem, maximum-matching problem"
   ]
   node [
     id 9
-    label "K. Clint Slatton"
-    affiliation "University of Florida, Gainesville, FL"
-    research "airborne LiDAR data, individual tree, LiDAR data"
+    label "G. David Ripley"
+    affiliation "The University of Arizona, Tucson, Arizona"
+    research "Simple LR, measurement data, syntax error"
   ]
   node [
     id 10
-    label "Liang-Jie Zhang"
-    affiliation "Nan"
-    research "Web service, Web Services Research, TrendsWeb Services Research"
+    label "David R. Hanson"
+    affiliation "Microsoft Research, 1 Microsoft Way, Redmond, WA"
+    research "programming language, data structure, dynamic scope"
   ]
   node [
     id 11
-    label "Yu Long"
-    affiliation "Nan"
-    research "original DPS, value range, better diversity"
+    label "Fredrick C. Druseikis"
+    affiliation "Bell Laboratories, Holmdel, NJ 07733, U.S.A."
+    research "Simple LR, SL5 procedure, procedure mechanism"
   ]
   node [
     id 12
-    label "Sumalatha Adabala"
-    affiliation "Advanced Computing and Information Systems (ACIS) Laboratory, University of Florida, Gainesville, FL"
-    research "In-VIGO approach, virtual grid, virtualization technology"
+    label "Paulo J. Santos"
+    affiliation "Bell Laboratories, Lucent Technologies, 200 Laurel Avenue, Middletown, NJ"
+    research "video recording, event stream, mental chunk"
   ]
   node [
     id 13
-    label "Adam Jacobs"
-    affiliation "1010data Inc."
-    research "radiation effect, Gigabit Ethernet, upset rate"
+    label "Keith R. Merkel"
+    affiliation "Nan"
+    research "pointer variable, error checking, error condition"
   ]
   node [
     id 14
-    label "Brian Holland"
-    affiliation "MITRE Corp."
-    research "application performance, performance bottleneck, performance metrics"
+    label "Mary F. Fernandez"
+    affiliation "AT&#38;T Research"
+    research "data source, semistructured data, relational data"
   ]
   node [
     id 15
-    label "Chris Conger"
-    affiliation "University of Florida, Gainesville"
-    research "space-based radar, RapidIO network, RapidIO feasibility study"
+    label "R. B. Dewar"
+    affiliation "Ada Core Technologies, New York"
+    research "programming language, Ada gem, Ada language"
   ]
   node [
     id 16
-    label "Alan D. George"
-    affiliation "Highperformance Computing and Simulation (HCS)  Research Laboratory, Department of Electrical and Computer Engineering,  University of Florida, P.O. Box 116200, Gainesville, FL 326116200,  USA"
-    research "parallel performance wizard, performance analysis tool, application performance"
+    label "Brian K. Reid"
+    affiliation "Stanford Univ., Stanford, CA"
+    research "text editing, text manipulation, text manipulationThis"
   ]
   node [
     id 17
-    label "Haifei Li"
-    affiliation "Nan"
-    research "negotiation agent, negotiation primitive, whole negotiation process"
+    label "Christopher W. Fraser"
+    affiliation ", Seattle, USA"
+    research "code generator, assembly code, good code"
   ]
   node [
     id 18
-    label "Vikas Aggarwal"
-    affiliation "IBM India Research Lab, Plot 4, Block C, Vasant Kunj Inst. Area, New Delhi 110070, India"
-    research "HPC Challenge RandomAccess benchmark, HPCC RandomAccess benchmark, RandomAccess benchmark"
+    label "Jeffrey Korn"
+    affiliation "AT&#38;T LabsResearch"
+    research "visualization technique, Graph Sketches, graph sketch"
   ]
   node [
     id 19
-    label "Lalita Narupiyakul"
-    affiliation "University of Ontario Institute of Technology, Canada"
-    research "focus part, FET system, focus information"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
-    relation "collaborate"
+    label "Todd A. Proebsting"
+    affiliation "Microsoft Research, One Microsoft Way, Redmond, WA"
+    research "liquid software, code generator, mobile code"
   ]
   edge [
     source 0
@@ -165,168 +125,198 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 8
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
+    source 1
     target 9
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 10
+    source 1
     target 10
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 1
     target 15
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 16
+    source 1
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 13
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 14
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 18
+    source 5
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 16
+    source 6
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 6
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 15
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 16
     relation "collaborate"
   ]
   edge [
-    source 16
+    source 10
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
     relation "collaborate"
   ]
 ]

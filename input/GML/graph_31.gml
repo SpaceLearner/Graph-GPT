@@ -1,192 +1,177 @@
 graph [
   node [
     id 0
-    label "Dongdong Li"
-    affiliation "Huawei Technologies, Plano, TX"
-    research "conventional approach, Probability-based resource allocation, channel availability"
+    label "Jiri Cermak"
+    affiliation "Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Rep"
+    research "restricted game, two-player zero-sum extensive-form game, Double-oracle algorithm"
   ]
   node [
     id 1
-    label "Haoyi Ren"
-    affiliation "Zhejiang University, Hangzhou, China"
-    research "mobile phone, human mobility, virtual reality environment"
+    label "Ram Somaraju"
+    affiliation "School of Information Technology and Electrical Engineering, University of New South Wales, Australian Defence Force Academy, Canberra, ACT"
+    research "communication channel, compact operator, essential dimension"
   ]
   node [
     id 2
-    label "Congfu Xu"
-    affiliation "Zhejiang University, China"
-    research "data set, frequent itemsets, data mining"
+    label "Ondrej Sykora"
+    affiliation "Nan"
+    research "Communication Complexity, Computer Science, International Colloquium"
   ]
   node [
     id 3
-    label "Kougen Zheng"
-    affiliation "Zhejiang University Hangzhou,China"
-    research "wireless networked sensor, sensor network, sensor node"
+    label "B. W.-Y. Wei"
+    affiliation "Department of Electrical Engineering, San Jose State University, 1 Washington Square, San Jose, California"
+    research "Systolic implementation, higher bandwidth, Huffman code"
   ]
   node [
     id 4
-    label "Zhaohui Wu"
-    affiliation "Nan"
-    research "Computer Science, International Conference, Lecture Notes"
+    label "Carlo H. S&#233;quin"
+    affiliation "Computer Science Division, University of California"
+    research "computer graphics, aesthetic design, design process"
   ]
   node [
     id 5
-    label "Yi Feng"
-    affiliation "Nan"
-    research "data center, hierarchical approach, high availability"
+    label "Viliam Lisy"
+    affiliation "Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Rep"
+    research "Double-oracle algorithm, restricted game, exact nash equilibrium"
   ]
   node [
     id 6
-    label "Nenggan Zheng"
-    affiliation "Nan"
-    research "control processor, control program generating navigation, intelligent control system"
+    label "Christopher Kiekintveld"
+    affiliation "Department of Computer Science, University of Texas at El Paso, El Paso, TX"
+    research "security game, security activity, security domain"
   ]
   node [
     id 7
-    label "Yuxing Mao"
+    label "Jianmin Wang"
     affiliation "Nan"
-    research "generalized frequent item set, ItemsetsMining generalized frequent item, traditional frequent item set"
+    research "model checking, abstract counter example, abstract reachable state space"
   ]
   node [
     id 8
-    label "Wei Shi"
-    affiliation "Nan"
-    research "Dynamic Reconfiguration, Ensuring Correctness, chronic disease"
+    label "Jiri Isa"
+    affiliation "Department of Theoretical Computer Science Faculty of Mathematics and Physics, Charles University in Prague, Prague, Czech Republic"
+    research "Cost-sensitive classification, Unconstrained Influence Diagrams, GS-DAG approach"
   ]
   node [
     id 9
-    label "Yu Zhang"
-    affiliation "Institute of High Performance Computing, Singapore"
-    research "facial model, facial muscle, prototype model"
+    label "Branislav Bosansky"
+    affiliation "Dept. of Cybernetics, Czech Technical University in Prague, Prague, Czech Republic"
+    research "restricted game, Double-oracle algorithm, exact nash equilibrium"
   ]
   node [
     id 10
-    label "Min Yao"
-    affiliation "Nan"
-    research "OSEK OSSpecification-based test, Producing Specification-based test, adequate test suite"
+    label "D. Lioupis"
+    affiliation "University of Patras, Greece"
+    research "software peripherals, Precise Control, serial memory"
   ]
   node [
     id 11
-    label "T. S. Huang"
-    affiliation "Nan"
-    research "Dynamic Scene Analysis, Image Sequence Processing"
+    label "Gary M. Shute"
+    affiliation "Department of Computer Science, University of MinnesotaDuluth, Duluth, USA 55812"
+    research "computer science, abstraction objective, information hiding"
   ]
   node [
     id 12
-    label "David N. Cottingham"
-    affiliation "University of Cambridge Computer Laboratory"
-    research "coverage map, coverage area, individual wireless access network"
+    label "Michal Pechoucek"
+    affiliation "Gerstner Lab., Czech Tech. Univ., Prague"
+    research "Double-oracle algorithm, entity recognition algorithm, proposed algorithm"
   ]
   node [
     id 13
-    label "Zhenyu Shan"
-    affiliation "Zhejiang University, China"
-    research "audio resource, audio search engine, efficient content-based audio search"
+    label "Mario Schkolnick"
+    affiliation "SGI"
+    research "System R, System RSystem R, data base"
   ]
   node [
     id 14
-    label "Lina Zhang"
-    affiliation "Nan"
-    research "Workflow Engine, Web Services, Asynchronous Web Services"
+    label "Josef Pieprzyk"
+    affiliation "Macquarie University, Australia"
+    research "information security, Australasian Information Security Conference, k mins problem"
   ]
   node [
     id 15
-    label "Jiang Li"
-    affiliation "Nan"
-    research "positioning result, accurate target location, data fusion"
+    label "Pavol Duris"
+    affiliation "Comenius University, Department of Computer Science, Mlynska dolina 1, 84215 Bratislava, Slovakia"
+    research "lower bound, infinite word, open problem"
   ]
   node [
     id 16
-    label "Chunying Zhou"
-    affiliation "Zhejiang University, Hangzhou, China"
-    research "Semantic Bayesian Network, semantic web, semi-supervised learning method"
+    label "Imrich Vrto"
+    affiliation "Slovak Academy of Sciences, Bratislava, Czechoslovakia"
+    research "time step, log n, minimum broadcasting time"
   ]
   node [
     id 17
-    label "Aining Yin"
-    affiliation "Institute of Information on Traditional Chinese Medicine, China Academy of Traditional Chinese Medicine, Beijing 100700, PR China"
-    research "ontology development, traditional Chinese medical language, traditional Chinese medicineThis paper"
+    label "William Zhu"
+    affiliation "Nan"
+    research "granular computing, unified granular computing methodology, classical rough set theory"
   ]
   node [
     id 18
-    label "Liang Chen"
-    affiliation "School of Software, Tsinghua University, Beijing, P.R., China"
-    research "fuzzy appraisal decision-making method, fuzzy experience evaluation matrix, fuzzy logic"
+    label "C. Kaklamanis"
+    affiliation "Computer Technology Institute and Press"
+    research "greedy algorithm, approximation algorithm, call control problem"
   ]
   node [
     id 19
-    label "Jonathan J. Davies"
-    affiliation "University of Cambridge"
-    research "Intelligent Transportation, special issue, application code"
+    label "Clark D. Thompson"
+    affiliation "Department of Computer Science, CarnegieMellon University, Pittsburgh, PA"
+    research "software watermarking, software protection, software development"
   ]
   edge [
     source 0
-    target 4
+    target 12
     relation "collaborate"
   ]
   edge [
     source 0
-    target 13
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 0
     target 6
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 0
     target 5
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 13
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 2
     target 8
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
     target 16
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 10
+    source 2
+    target 15
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 7
+    source 2
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
+    source 3
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -196,72 +181,57 @@ graph [
   ]
   edge [
     source 4
-    target 17
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 5
     target 12
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 11
+    source 5
+    target 9
     relation "collaborate"
   ]
   edge [
     source 5
-    target 17
+    target 8
     relation "collaborate"
   ]
   edge [
     source 5
-    target 16
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 6
     target 9
     relation "collaborate"
   ]
   edge [
     source 6
-    target 10
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 12
+    source 7
     target 19
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 13
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -270,8 +240,33 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 14
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
     source 16
-    target 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 18
+    target 19
     relation "collaborate"
   ]
 ]

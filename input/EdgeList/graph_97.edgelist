@@ -1,40 +1,28 @@
-R. B. Dewar	David R. Hanson	{'relation': 'collaborate'}
-R. B. Dewar	James F Gimpel	{'relation': 'collaborate'}
-R. B. Dewar	R E. Griswold	{'relation': 'collaborate'}
-R. B. Dewar	Paulo J. Santos	{'relation': 'collaborate'}
-Yoseph Bar-Cohen	David R. Hanson	{'relation': 'collaborate'}
-Alvaro E. Campos	David R. Hanson	{'relation': 'collaborate'}
-Jeffrey Korn	David R. Hanson	{'relation': 'collaborate'}
-Gary Lindstrom	Howard J. Larsen	{'relation': 'collaborate'}
-Gary Lindstrom	G. David Ripley	{'relation': 'collaborate'}
-Gary Lindstrom	Keith R. Merkel	{'relation': 'collaborate'}
-Gary Lindstrom	Fredrick C. Druseikis	{'relation': 'collaborate'}
-Gary Lindstrom	David R. Hanson	{'relation': 'collaborate'}
-Paulo J. Santos	David R. Hanson	{'relation': 'collaborate'}
-Paulo J. Santos	R E. Griswold	{'relation': 'collaborate'}
-Paulo J. Santos	James F Gimpel	{'relation': 'collaborate'}
-Mukund Raghavachari	David R. Hanson	{'relation': 'collaborate'}
-Howard J. Larsen	G. David Ripley	{'relation': 'collaborate'}
-Howard J. Larsen	Keith R. Merkel	{'relation': 'collaborate'}
-Howard J. Larsen	David R. Hanson	{'relation': 'collaborate'}
-Howard J. Larsen	Fredrick C. Druseikis	{'relation': 'collaborate'}
-G. David Ripley	David R. Hanson	{'relation': 'collaborate'}
-G. David Ripley	R E. Griswold	{'relation': 'collaborate'}
-G. David Ripley	Keith R. Merkel	{'relation': 'collaborate'}
-G. David Ripley	Fredrick C. Druseikis	{'relation': 'collaborate'}
-James F Gimpel	R E. Griswold	{'relation': 'collaborate'}
-James F Gimpel	David R. Hanson	{'relation': 'collaborate'}
-Fredrick C. Druseikis	Keith R. Merkel	{'relation': 'collaborate'}
-Fredrick C. Druseikis	R E. Griswold	{'relation': 'collaborate'}
-Fredrick C. Druseikis	David R. Hanson	{'relation': 'collaborate'}
-David R. Hanson	Mary F. Fernandez	{'relation': 'collaborate'}
-David R. Hanson	Brian K. Reid	{'relation': 'collaborate'}
-David R. Hanson	Keith R. Merkel	{'relation': 'collaborate'}
-David R. Hanson	R E. Griswold	{'relation': 'collaborate'}
-David R. Hanson	J T Korb	{'relation': 'collaborate'}
-David R. Hanson	Norman Ramsey	{'relation': 'collaborate'}
-David R. Hanson	Christopher W. Fraser	{'relation': 'collaborate'}
-David R. Hanson	Todd A. Proebsting	{'relation': 'collaborate'}
-R E. Griswold	J T Korb	{'relation': 'collaborate'}
-Mary F. Fernandez	Norman Ramsey	{'relation': 'collaborate'}
-Christopher W. Fraser	Todd A. Proebsting	{'relation': 'collaborate'}
+Weichang Shen	Jing Yang	{'relation': 'collaborate'}
+Feng Si	Jing Yang	{'relation': 'collaborate'}
+Ye Zhao	Jing Yang	{'relation': 'collaborate'}
+Yan Xiang	Guangda Su	{'relation': 'collaborate'}
+Yan Xiang	Yanfang Ren	{'relation': 'collaborate'}
+Yan Xiang	Congcong Li	{'relation': 'collaborate'}
+Yan Xiang	Zheng Hao	{'relation': 'collaborate'}
+Yan Xiang	Jing Yang	{'relation': 'collaborate'}
+Yan Xiang	Fan Xiangning	{'relation': 'collaborate'}
+Yan Xiang	Yan Shang	{'relation': 'collaborate'}
+Yan Xiang	Yingchun Li	{'relation': 'collaborate'}
+Guangda Su	Congcong Li	{'relation': 'collaborate'}
+Guangda Su	Yingchun Li	{'relation': 'collaborate'}
+Guangda Su	Yan Shang	{'relation': 'collaborate'}
+Guoqing Zhang	Jing Yang	{'relation': 'collaborate'}
+Guoqing Zhang	Chuan Fu	{'relation': 'collaborate'}
+Fan Xiangning	Zheng Hao	{'relation': 'collaborate'}
+Xianfu Lei	Jing Yang	{'relation': 'collaborate'}
+Jing Yang	Jing He	{'relation': 'collaborate'}
+Jing Yang	Nishant Sinha	{'relation': 'collaborate'}
+Jing Yang	Yansheng Lu	{'relation': 'collaborate'}
+Jing Yang	Chuan Fu	{'relation': 'collaborate'}
+Jing Yang	Jia-Dong Ren	{'relation': 'collaborate'}
+Jing Yang	Xinyu Liu	{'relation': 'collaborate'}
+Jing Yang	Yanfang Ren	{'relation': 'collaborate'}
+Congcong Li	Yingchun Li	{'relation': 'collaborate'}
+Congcong Li	Yan Shang	{'relation': 'collaborate'}
+Yingchun Li	Yan Shang	{'relation': 'collaborate'}

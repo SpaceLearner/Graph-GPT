@@ -1,147 +1,142 @@
 graph [
   node [
     id 0
-    label "&#201;ric Anquetil"
-    affiliation "INSA de Rennes, France"
-    research "recognition system, handwritten character recognition system, recognition process"
+    label "Zhiqiang Chen"
+    affiliation "Department of Computer Science, University of New Mexico, Albuquerque, NM"
+    research "joint routing, dynamic network flow problem, problemsWe study network model"
   ]
   node [
     id 1
-    label "Carine Hue"
-    affiliation "IRISA, Rennes I Univ."
-    research "particle filter, multiple object, multiple target"
+    label "Tanya Y. Berger-Wolf"
+    affiliation "DIMACS, Rutgers University, Piscataway, NJ, USA,Department of Computer Science, University of Illinois, Chicago, IL, USA"
+    research "dynamic network, social network, dynamic social network"
   ]
   node [
     id 2
-    label "A. Chessel"
-    affiliation "INRIA Centre Rennes  Bretagne Atlantique, Rennes and  Cell and Tissue Imaging Facility   IBISA, Institut Curie, Paris"
-    research "biological structure, additive image, coherent scalar image interpolation"
+    label "Josh Karlin"
+    affiliation "Google Inc., Cambridge, MA, USA"
+    research "Pretty Good BGP, Internet growth, Internet model"
   ]
   node [
     id 3
-    label "Aur&#233;lie Bugeau"
-    affiliation "Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain"
-    research "stereo image, tracked object, energy function"
+    label "A. Karlin"
+    affiliation "Nan"
+    research "sufficient condition, control law, insensitive system"
   ]
   node [
     id 4
-    label "R. Venkatehs Babu"
-    affiliation "Center for Quantifiable Quality of Service in Commun. Syst., Trondheim, Norway"
-    research "MS tracker, visual tracking, partial occlusion"
+    label "Nicholas D. Pattengale"
+    affiliation "Sandia National Laboratories, Albuquerque"
+    research "rogue taxon, support value, phylogenetic reconstruction"
   ]
   node [
     id 5
-    label "Emmanuel Veneau"
-    affiliation "Nan"
-    research "image analysis function, video analysis, Image Feature Extraction"
+    label "B. M. E. Moret"
+    affiliation "Dept. of Computer Science, U. of New Mexico, Albuquerque, NM"
+    research "phylogenetic tree, phylogenetic network, phylogenetic reconstruction"
   ]
   node [
     id 6
-    label "Alain Lehmann"
-    affiliation "IRISA, INRIA, Rennes Cedex, France"
-    research "video segment, real video sequence, computed local feature"
+    label "Piotr Sankowski"
+    affiliation "University of Rome"
+    research "dynamic algorithm, time algorithm, randomized time"
   ]
   node [
     id 7
-    label "P Bouthemy"
-    affiliation "IRISA / INRIA Rennes Campus Universitaire de Beaulieu, Rennes, France 35042"
-    research "motion model, camera motion, motion detection"
+    label "Jared Saia"
+    affiliation "Department of Computer Science and Engineering, University of Washington, Seattle, WA"
+    research "Byzantine agreement, log n, overlay network"
   ]
   node [
     id 8
-    label "Bertrand Co&#252;asnon"
-    affiliation "INSA, Rennes and UMR, IRISA, Rennes and Universit&#233; Europ&#233;enne de Bretagne, France"
-    research "structured document recognition, document structure recognition, recognition system"
+    label "Frank McSherry"
+    affiliation "Microsoft Research, Mountain View, CA, USA"
+    research "Special Issue, Weighted PINQ, program committee"
   ]
   node [
     id 9
-    label "Nicolas Papadakis"
-    affiliation "Image Group, Barcelona Media, Barcelona, Spain"
-    research "image sequence, stereo image, meteorological satellite image sequence"
+    label "Michael J. Collins"
+    affiliation "Sandia National Laboratories, Albuquerque, NM, USA"
+    research "Nonnegative integral subset representation, derive nontrivial bound, greedy heuristic"
   ]
   node [
     id 10
-    label "Fr&#233;d&#233;ric Dambreville"
-    affiliation "DGA, 16 bis avenue prieur de la C&#244;te d'or, 94114 Arcueil, France"
-    research "bilevel search planning, multisensor multizone search, multizone multisensor search planning"
+    label "Maxwell Young"
+    affiliation "National University of Singapore, Singapore, Singapore"
+    research "intensity matrix, message complexity, n node"
   ]
   node [
     id 11
-    label "Marc Boulle"
-    affiliation "Orange Labs, Lannion, France"
-    research "data preparation, discrete data, functional data"
+    label "Yintao Yu"
+    affiliation "University of Illinois at UrbanaChampaign, UrbanaChampaign, IL, USA"
+    research "heterogeneous information network, object data mining, heterogeneous network"
   ]
   node [
     id 12
-    label "Roger Mohr"
-    affiliation "Unite d'Enseignement et de Recherche Sciences Mathematiques, Universit&#233; de Nancy, Nancy, France."
-    research "arbitrary shaped volume, intrinsic volume property, Packing Volumes"
+    label "Eric J. Anderson"
+    affiliation "HewlettPackard Laboratories, Palo Alto, CA"
+    research "O system, storage system, O workloads"
   ]
   node [
     id 13
-    label "Alexandre Hervieu"
-    affiliation "Centre RennesBretagne Atlantique, Campus Univ. de Beaulieu, Rennes"
-    research "stereo image, temporal causality, novel method"
+    label "C. Abdallah"
+    affiliation "National Council for Scientific Research/Remote Sensing Center, Beirut, Lebanon"
+    research "satellite imagery, maximum accuracy level, major MM"
   ]
   node [
     id 14
-    label "Pau Gargallo"
-    affiliation "Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain"
-    research "depth map, input image, specular surface"
+    label "Stefan Saroiu"
+    affiliation "Microsoft Research"
+    research "content delivery, mobile application, research community"
   ]
   node [
     id 15
-    label "V. Caselles"
-    affiliation "Nan"
-    research "Hamilton-Jacobi equation, one-space variable, scalar conservation law"
+    label "Stephane Durocher"
+    affiliation "School of Computer Science, University of Waterloo, Waterloo, Ontario, Canada"
+    research "unit ball graph, n point, n vertex"
   ]
   node [
     id 16
-    label "P. Perez"
-    affiliation "Patrick.Perez@thomson.net"
-    research "digital image, geometric sketch, efficient algorithm"
+    label "Seth Gilbert"
+    affiliation "National University of Singapore"
+    research "high probability, message complexity, log n"
   ]
   node [
     id 17
-    label "O. Tr&#233;mois"
-    affiliation "CNRS, IRISA, Rennes, France"
-    research "optimality principle, source motion parameter, Phase-only multidimensional spatio-temporal analysis"
+    label "Steven D. Gribble"
+    affiliation "University of Washington"
+    research "web application, Web driver, Web page"
   ]
   node [
     id 18
-    label "R&#233;mi Ronfard"
-    affiliation "INRIA/LJK, Grenoble, France"
-    research "extremal contour, kinematic model, model people"
+    label "James Aspnes"
+    affiliation "IBM Almaden Res. Center, New York, NY, USA"
+    research "log n, data structure, n log n"
   ]
   node [
     id 19
-    label "Jean-Pierre Le Cadre"
-    affiliation "IRISA, Rennes, France"
-    research "source motion parameter, target motion analysis, observer trajectory"
+    label "Olumuyiwa Oluwasanmi"
+    affiliation "Department of Computer Science, University of New Mexico, Albuquerque, NM"
+    research "Byzantine agreement, algorithms work, random bit"
   ]
   edge [
     source 0
-    target 10
+    target 7
     relation "collaborate"
   ]
   edge [
     source 0
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
+    target 5
     relation "collaborate"
   ]
   edge [
     source 1
     target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -151,47 +146,37 @@ graph [
   ]
   edge [
     source 3
-    target 15
+    target 12
     relation "collaborate"
   ]
   edge [
     source 3
-    target 9
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 4
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 5
     target 13
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 5
     target 7
     relation "collaborate"
   ]
   edge [
     source 5
-    target 18
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -201,7 +186,37 @@ graph [
   ]
   edge [
     source 7
-    target 18
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -211,7 +226,17 @@ graph [
   ]
   edge [
     source 7
-    target 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -220,63 +245,33 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 9
     target 10
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 10
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 14
     relation "collaborate"
   ]
   edge [
     source 10
-    target 19
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
+    source 12
+    target 17
     relation "collaborate"
   ]
   edge [
     source 14
-    target 15
+    target 17
     relation "collaborate"
   ]
   edge [
     source 16
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 19
+    target 18
     relation "collaborate"
   ]
 ]

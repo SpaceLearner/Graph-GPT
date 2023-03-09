@@ -1,75 +1,66 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:01 2023
 # 
-Richard G. Rozier	6
-Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
-K. W. Goossen	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-J. A. Walker	{'relation': 'collaborate'}
-D. A. B. Miller	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-R. Oettel	3
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
-R. Farbarik	{'relation': 'collaborate'}
-O. Torudbakken	2
-Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-Sadik C. Esener	4
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Ashok Venketaraman Krishnamoorthy	{'relation': 'collaborate'}
-Philippe J. Marchand	{'relation': 'collaborate'}
-Uzi Efron	{'relation': 'collaborate'}
-Ashok Venketaraman Krishnamoorthy	15
-Chia-Hsin Owen Chen	{'relation': 'collaborate'}
-I. Shubin	{'relation': 'collaborate'}
-Eric Chang	{'relation': 'collaborate'}
-Uzi Efron	{'relation': 'collaborate'}
-Philippe J. Marchand	{'relation': 'collaborate'}
-Frankie Liu	{'relation': 'collaborate'}
-R. Farbarik	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-J. A. Walker	{'relation': 'collaborate'}
-Alex Chung Hen Chow	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Mikko H. Lipasti	{'relation': 'collaborate'}
-K. W. Goossen	{'relation': 'collaborate'}
-Dinesh Patil	{'relation': 'collaborate'}
-D. A. B. Miller	{'relation': 'collaborate'}
-R. Farbarik	1
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Philippe J. Marchand	2
-Uzi Efron	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Dinesh Patil	3
-Frankie Liu	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-I. Shubin	{'relation': 'collaborate'}
-Eric Chang	2
-Frankie Liu	{'relation': 'collaborate'}
-I. Shubin	{'relation': 'collaborate'}
-Alex Chung Hen Chow	1
-J. E. Cunningham	{'relation': 'collaborate'}
-K. W. Goossen	4
-D. A. B. Miller	{'relation': 'collaborate'}
-J. A. Walker	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-Frankie Liu	2
-I. Shubin	{'relation': 'collaborate'}
-J. E. Cunningham	{'relation': 'collaborate'}
-J. E. Cunningham	4
-J. A. Walker	{'relation': 'collaborate'}
-D. A. B. Miller	{'relation': 'collaborate'}
-I. Shubin	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Mikko H. Lipasti	0
-D. A. B. Miller	2
-J. A. Walker	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-J. A. Walker	1
-Fouad Eskender Kiamilev	{'relation': 'collaborate'}
-Fouad Eskender Kiamilev	0
-Chia-Hsin Owen Chen	0
-Uzi Efron	0
-I. Shubin	0
+Charles L. A. Clarke	4
+John S. Whissell	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+Benjamin Lafreniere	{'relation': 'collaborate'}
+Michael Terry	{'relation': 'collaborate'}
+Aaron Spaulding	3
+Per-Ola Kristensson	{'relation': 'collaborate'}
+Will Haines	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+Xing Dong Yang	3
+Pourang Irani	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+Carl A. Gutwin	{'relation': 'collaborate'}
+Jennifer Gluck	1
+Andrea Bunt	{'relation': 'collaborate'}
+Pourang Irani	3
+Andrea Bunt	{'relation': 'collaborate'}
+Carl A. Gutwin	{'relation': 'collaborate'}
+Andrew J. G. Cockburn	{'relation': 'collaborate'}
+John S. Whissell	3
+Andrea Bunt	{'relation': 'collaborate'}
+Michael Terry	{'relation': 'collaborate'}
+Benjamin Lafreniere	{'relation': 'collaborate'}
+Roberta M. Melvin	1
+Andrea Bunt	{'relation': 'collaborate'}
+Mirette Marzouk	3
+Edward Lank	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+George Labahn	{'relation': 'collaborate'}
+Benjamin Lafreniere	3
+Michael Terry	{'relation': 'collaborate'}
+Richard Mann	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+Cristina Conati	2
+Giuseppe Carenini	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+George Labahn	3
+Andrea Bunt	{'relation': 'collaborate'}
+Richard Mann	{'relation': 'collaborate'}
+Edward Lank	{'relation': 'collaborate'}
+Giuseppe Carenini	1
+Andrea Bunt	{'relation': 'collaborate'}
+Edward Lank	3
+Richard Mann	{'relation': 'collaborate'}
+Andrea Bunt	{'relation': 'collaborate'}
+Michael Terry	{'relation': 'collaborate'}
+Will Haines	2
+Andrea Bunt	{'relation': 'collaborate'}
+Per-Ola Kristensson	{'relation': 'collaborate'}
+Michael Terry	2
+Andrea Bunt	{'relation': 'collaborate'}
+Richard Mann	{'relation': 'collaborate'}
+Per-Ola Kristensson	2
+Andrea Bunt	{'relation': 'collaborate'}
+Andrew J. G. Cockburn	{'relation': 'collaborate'}
+Carl A. Gutwin	2
+Andrea Bunt	{'relation': 'collaborate'}
+Andrew J. G. Cockburn	{'relation': 'collaborate'}
+Andrea Bunt	2
+Andrew J. G. Cockburn	{'relation': 'collaborate'}
+Richard Mann	{'relation': 'collaborate'}
+Andrew J. G. Cockburn	0
+Richard Mann	0

@@ -1,44 +1,31 @@
-Tao Xie	Jonathan de Halleux	{'relation': 'collaborate'}
-Tao Xie	Alex X. Liu	{'relation': 'collaborate'}
-Tao Xie	N. Tillmann	{'relation': 'collaborate'}
-Tao Xie	Michal Moskal	{'relation': 'collaborate'}
-Tao Xie	Arjmand Samuel	{'relation': 'collaborate'}
-Tao Xie	J M. Bishop	{'relation': 'collaborate'}
-Michal Moskal	Arjmand Samuel	{'relation': 'collaborate'}
-Michal Moskal	N. Tillmann	{'relation': 'collaborate'}
-Michal Moskal	Jonathan de Halleux	{'relation': 'collaborate'}
-Michal Moskal	J M. Bishop	{'relation': 'collaborate'}
-Pratch Piyawongwisal	Arjmand Samuel	{'relation': 'collaborate'}
-Pratch Piyawongwisal	Liang Yu	{'relation': 'collaborate'}
-Alex X. Liu	Arjmand Samuel	{'relation': 'collaborate'}
-Alex X. Liu	Muhammad Shahzad	{'relation': 'collaborate'}
-Muhammad Shahzad	Arjmand Samuel	{'relation': 'collaborate'}
-Ratul Mahajan	Jaeyeon Jung	{'relation': 'collaborate'}
-Ratul Mahajan	Arjmand Samuel	{'relation': 'collaborate'}
-Ratul Mahajan	Frank Martinez	{'relation': 'collaborate'}
-J M. Bishop	Arjmand Samuel	{'relation': 'collaborate'}
-J M. Bishop	Jonathan de Halleux	{'relation': 'collaborate'}
-J M. Bishop	N. Tillmann	{'relation': 'collaborate'}
-Jaeyeon Jung	Arjmand Samuel	{'relation': 'collaborate'}
-Jaeyeon Jung	Frank Martinez	{'relation': 'collaborate'}
-M. Eltabakh	Arjmand Samuel	{'relation': 'collaborate'}
-M. Eltabakh	Ahmed K. Elmagarmid	{'relation': 'collaborate'}
-M. Eltabakh	Rafae Bhatti	{'relation': 'collaborate'}
-M. Eltabakh	Arif Ghafoor	{'relation': 'collaborate'}
-Ahmed K. Elmagarmid	Arjmand Samuel	{'relation': 'collaborate'}
-Ahmed K. Elmagarmid	Arif Ghafoor	{'relation': 'collaborate'}
-Ahmed K. Elmagarmid	Elisa Bertino	{'relation': 'collaborate'}
-Liang Yu	Arjmand Samuel	{'relation': 'collaborate'}
-Shahab Baqai	Arjmand Samuel	{'relation': 'collaborate'}
-Shahab Baqai	Arif Ghafoor	{'relation': 'collaborate'}
-Arjmand Samuel	N. Tillmann	{'relation': 'collaborate'}
-Arjmand Samuel	Rafae Bhatti	{'relation': 'collaborate'}
-Arjmand Samuel	Frank Martinez	{'relation': 'collaborate'}
-Arjmand Samuel	Elisa Bertino	{'relation': 'collaborate'}
-Arjmand Samuel	Jonathan de Halleux	{'relation': 'collaborate'}
-Arjmand Samuel	Arif Ghafoor	{'relation': 'collaborate'}
-Arjmand Samuel	Halima Ghafoor	{'relation': 'collaborate'}
-Elisa Bertino	Arif Ghafoor	{'relation': 'collaborate'}
-Elisa Bertino	Rafae Bhatti	{'relation': 'collaborate'}
-Arif Ghafoor	Rafae Bhatti	{'relation': 'collaborate'}
-N. Tillmann	Jonathan de Halleux	{'relation': 'collaborate'}
+M. Pratt	Daniel Stevenson	{'relation': 'collaborate'}
+M. Pratt	A. Bragg	{'relation': 'collaborate'}
+M. Pratt	Hans Grabowski	{'relation': 'collaborate'}
+M. Pratt	R. Anderl	{'relation': 'collaborate'}
+M. Pratt	Ilia Baldine	{'relation': 'collaborate'}
+S. Vettermann	R. Anderl	{'relation': 'collaborate'}
+D. Liu	Horst Nowacki	{'relation': 'collaborate'}
+Geir Westgaard	Horst Nowacki	{'relation': 'collaborate'}
+Youdong Liang	Xiuzi Ye	{'relation': 'collaborate'}
+Youdong Liang	Horst Nowacki	{'relation': 'collaborate'}
+Xiuzi Ye	Horst Nowacki	{'relation': 'collaborate'}
+Ilia Baldine	A. Bragg	{'relation': 'collaborate'}
+Ilia Baldine	Daniel Stevenson	{'relation': 'collaborate'}
+R. Anderl	Horst Nowacki	{'relation': 'collaborate'}
+R. Anderl	X. Li	{'relation': 'collaborate'}
+R. Anderl	K. Geiger	{'relation': 'collaborate'}
+R. Anderl	M. Schmitt	{'relation': 'collaborate'}
+R. Anderl	Michael Stupperich	{'relation': 'collaborate'}
+R. Anderl	Hans Grabowski	{'relation': 'collaborate'}
+R. Anderl	Johannes Bumiller	{'relation': 'collaborate'}
+R. Anderl	Bernhard Malle	{'relation': 'collaborate'}
+Michael Stupperich	Johannes Bumiller	{'relation': 'collaborate'}
+U. Langbecker	Horst Nowacki	{'relation': 'collaborate'}
+M. Schmitt	X. Li	{'relation': 'collaborate'}
+M. Schmitt	Hans Grabowski	{'relation': 'collaborate'}
+M. Schmitt	K. Geiger	{'relation': 'collaborate'}
+Daniel Stevenson	A. Bragg	{'relation': 'collaborate'}
+Hans Grabowski	Bernhard Malle	{'relation': 'collaborate'}
+Hans Grabowski	X. Li	{'relation': 'collaborate'}
+Hans Grabowski	K. Geiger	{'relation': 'collaborate'}
+Horst Nowacki	R Gnatz	{'relation': 'collaborate'}

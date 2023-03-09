@@ -1,34 +1,32 @@
-Giorgio Leuzzi	Giuseppe Ferri	{'relation': 'collaborate'}
-Giorgio Leuzzi	Antonio Serino	{'relation': 'collaborate'}
-Giorgio Leuzzi	Franco Giannini	{'relation': 'collaborate'}
-Giorgio Leuzzi	Dominique Schreurs	{'relation': 'collaborate'}
-Antonio Serino	Franco Giannini	{'relation': 'collaborate'}
-Antonio Serino	Dominique Schreurs	{'relation': 'collaborate'}
-Renato Menicocci	Alessandro Trifiletti	{'relation': 'collaborate'}
-Renato Menicocci	Giuseppe Scotti	{'relation': 'collaborate'}
-G. Ricotti	M. Faccio	{'relation': 'collaborate'}
-G. Ricotti	Giuseppe Ferri	{'relation': 'collaborate'}
-G. Ricotti	D. Rossi	{'relation': 'collaborate'}
-F. Santucci	Maurizio Colizza	{'relation': 'collaborate'}
-F. Santucci	M. Faccio	{'relation': 'collaborate'}
-W. Sansen	Giuseppe Ferri	{'relation': 'collaborate'}
-Giuseppe Scotti	M. Bucci	{'relation': 'collaborate'}
-Giuseppe Scotti	A. D. Grasso	{'relation': 'collaborate'}
-Giuseppe Scotti	Giuseppe Ferri	{'relation': 'collaborate'}
-Giuseppe Scotti	Francesco Centurelli	{'relation': 'collaborate'}
-Giuseppe Scotti	Alessandro Trifiletti	{'relation': 'collaborate'}
-Giuseppe Scotti	Massimo Alioto	{'relation': 'collaborate'}
-Giuseppe Scotti	S. Pennisi	{'relation': 'collaborate'}
-M. Faccio	Giuseppe Ferri	{'relation': 'collaborate'}
-M. Faccio	Maurizio Colizza	{'relation': 'collaborate'}
-M. Faccio	G. Ciccarella	{'relation': 'collaborate'}
-M. Faccio	D. Rossi	{'relation': 'collaborate'}
-Francesco Centurelli	Giuseppe Ferri	{'relation': 'collaborate'}
-Francesco Centurelli	S. Pennisi	{'relation': 'collaborate'}
-Francesco Centurelli	Alessandro Trifiletti	{'relation': 'collaborate'}
-Massimo Alioto	Alessandro Trifiletti	{'relation': 'collaborate'}
-S. Pennisi	Alessandro Trifiletti	{'relation': 'collaborate'}
-S. Pennisi	A. D. Grasso	{'relation': 'collaborate'}
-D. Rossi	Giuseppe Ferri	{'relation': 'collaborate'}
-A. D. Grasso	Alessandro Trifiletti	{'relation': 'collaborate'}
-Alessandro Trifiletti	Giuseppe Ferri	{'relation': 'collaborate'}
+M. P. Mullen	S. M. German	{'relation': 'collaborate'}
+M. P. Mullen	D. G. Bair	{'relation': 'collaborate'}
+James H. Morris	Ben Wegbreit	{'relation': 'collaborate'}
+Daphne Koller	Sebastian B. Thrun	{'relation': 'collaborate'}
+Daphne Koller	Joseph Y. Halpern	{'relation': 'collaborate'}
+Daphne Koller	Michael Montemerlo	{'relation': 'collaborate'}
+Daphne Koller	Ben Wegbreit	{'relation': 'collaborate'}
+Sebastian B. Thrun	Michael Montemerlo	{'relation': 'collaborate'}
+Sebastian B. Thrun	Ben Wegbreit	{'relation': 'collaborate'}
+Sebastian B. Thrun	Daphne Roller	{'relation': 'collaborate'}
+Joseph Y. Halpern	S. M. German	{'relation': 'collaborate'}
+Joseph Y. Halpern	Daphne Roller	{'relation': 'collaborate'}
+Greg Hager	Ben Wegbreit	{'relation': 'collaborate'}
+Ronald V. Book	Sheila A. Greibach	{'relation': 'collaborate'}
+Ronald V. Book	Oscar H. Ibarra	{'relation': 'collaborate'}
+Ronald V. Book	Ben Wegbreit	{'relation': 'collaborate'}
+Oscar H. Ibarra	Ben Wegbreit	{'relation': 'collaborate'}
+Oscar H. Ibarra	Sheila A. Greibach	{'relation': 'collaborate'}
+Jay M. Spitzen	Charles J. Prenner	{'relation': 'collaborate'}
+Jay M. Spitzen	Ben Wegbreit	{'relation': 'collaborate'}
+Michael Montemerlo	Daphne Roller	{'relation': 'collaborate'}
+Michael Montemerlo	Ben Wegbreit	{'relation': 'collaborate'}
+Tom Cheatham	Ben Wegbreit	{'relation': 'collaborate'}
+Tom Cheatham	Daniel G. Bobrow	{'relation': 'collaborate'}
+Daniel G. Bobrow	Ben Wegbreit	{'relation': 'collaborate'}
+Yuan Lu	S. M. German	{'relation': 'collaborate'}
+J. Mitchell	Ben Wegbreit	{'relation': 'collaborate'}
+D. G. Bair	S. M. German	{'relation': 'collaborate'}
+Charles J. Prenner	Ben Wegbreit	{'relation': 'collaborate'}
+Sheila A. Greibach	Ben Wegbreit	{'relation': 'collaborate'}
+Ben Wegbreit	S. M. German	{'relation': 'collaborate'}
+Ben Wegbreit	Daphne Roller	{'relation': 'collaborate'}

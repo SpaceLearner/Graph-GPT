@@ -1,177 +1,127 @@
 graph [
   node [
     id 0
-    label "Yue Pan"
-    affiliation "University of Indiana"
-    research "collapse informatics, sociotechnical system, imminent collapse"
+    label "Mehmet Sahinoglu"
+    affiliation "Auburn University, Montgomery"
+    research "Behavioral Model, different testing phase, software failure"
   ]
   node [
     id 1
-    label "C. Neti"
-    affiliation "Johns Hopkins Univ., Baltimore, MD"
-    research "fault tolerance, uniform fault tolerance, response property"
+    label "Yang Hong"
+    affiliation "School of Civil Engineering and Environmental Sciences, University of Oklahoma, Norman, OK, USA"
+    research "actual ET, daily ET bias, estimated ET"
   ]
   node [
     id 2
-    label "Sarah Knoop"
-    affiliation "IBM Almaden Research Lab, San Jose, CA"
-    research "healthcare industry, information technology, U.S. healthcare industry"
+    label "Weihui Dai"
+    affiliation "Nan"
+    research "emergency supply, Emergency Rescue, emergency management"
   ]
   node [
     id 3
-    label "Joseph P. Bigus"
-    affiliation "IBM T.J. Watson Research Center, 30 Sawmill River Road, Route 9A, Hawthorne, New York"
-    research "target system, autonomic system, software system"
+    label "L. Zhu"
+    affiliation "Nan"
+    research "smoke detection, Gaussian color model, Kalman Filter"
   ]
   node [
     id 4
-    label "Cheryl A. Kieliszewski"
-    affiliation "IBM Almaden Research Center, San Jose, CA"
-    research "service research, Service Science, complex service system"
+    label "Ning Zhang"
+    affiliation "Nan"
+    research "universality class, CF method, novel method"
   ]
   node [
     id 5
-    label "Abhishek Verma"
-    affiliation "HP Labs and University of Illinois at UrbanaChampaign"
-    research "Pig program, mapreduce job, completion time"
+    label "Coskun Bayrak"
+    affiliation "S. University Avenue, Little Rock, AR"
+    research "data source, data administrator, data integration gap"
   ]
   node [
     id 6
-    label "A Shabo"
-    affiliation "IBM Research, Haifa Research Laboratory, Haifa, Israel"
-    research "information technology, semantic interoperability, case library"
+    label "E. M. Petriu"
+    affiliation "Nan"
+    research "advanced control engineering, advanced control strategy, control structure"
   ]
   node [
     id 7
-    label "E. D. Young"
-    affiliation "Nan"
-    research "fault tolerance, uniform fault tolerance, response property"
+    label "Lu Liu"
+    affiliation "WalmartLabs"
+    research "fast data, big data, sensor data stream"
   ]
   node [
     id 8
-    label "Susanne Glissmann"
-    affiliation "IBM Research Division, Almaden Research Center, San Jose, CA"
-    research "information technology, mobile commerce, mobile initiative"
+    label "Q. Qin"
+    affiliation "Institute of Remote Sensing and GIS, Peking University, Beijing 100871, China"
+    research "real-time drought indicator, shortwave infrared drought index, drought index"
   ]
   node [
     id 9
-    label "Wang-Chiew Tan"
+    label "E. Chow"
     affiliation "Nan"
-    research "Crowd Data SourcingCrowd-based data, interactive data, powerful data procurement paradigm"
+    research "object-oriented database management system, object-oriented database management systemIRIS, IRIS DBMSIRIS"
   ]
   node [
     id 10
-    label "M. H. Schneider"
-    affiliation "Nan"
-    research "fault tolerance, uniform fault tolerance, response property"
+    label "Altaf Hossain"
+    affiliation "University of Ottawa, Ottawa, ON, Canada"
+    research "single stuck-line fault, embedded cores-based system-on-chips, combinational benchmark circuit"
   ]
   node [
     id 11
-    label "H. Chang"
-    affiliation "Drexel Univ., Philadelphia, PA"
-    research "Instruction Set Computing, Instruction Set Processing Specification, general multi-processor system CAD"
+    label "Chuan Jin"
+    affiliation "Nan"
+    research "Extended XinpaiIn order, Multi-agent Process Coordination, region segmentation operator"
   ]
   node [
     id 12
-    label "Ariel Farkash"
-    affiliation "IBM Research Division, Haifa Research Lab, Haifa, Israel"
-    research "semantic warehousing, information technology, semantic interoperability"
+    label "Sunil R Das"
+    affiliation "TechnionIsrael Institute of Technology, Faculty of Industrial Engineering and Management, Technion City, Haifa 32000, Israel"
+    research "mobile agent, black hole search problem, rendezvous problem"
   ]
   node [
     id 13
-    label "Shahram Ebadollahi"
-    affiliation "IBM Research, Hawthorne, NY, USA"
-    research "echocardiogram video, data stream, physiological data stream"
+    label "Weidong Zhao"
+    affiliation "Hebei University, Baoding, China"
+    research "D-S Evidence, detection efficiency, false negative rate"
   ]
   node [
     id 14
-    label "E. Eide"
-    affiliation "BBN Systems and Technologies, Cambridge, MA and Massachusetts Institute of Technology, Cambridge, MA"
-    research "automatic transcription, expressive style, speech waveform"
+    label "Timothy Kusky"
+    affiliation "China University of Geosciences, Wuhan, 430074, Hubei Province, China"
+    research "groundwater occurrence, high groundwater potential zone, SFZ aquifers"
   ]
   node [
     id 15
-    label "Alexandre V. Evfimievski"
-    affiliation "IBM Almaden Research Center, San Jose, CA"
-    research "privacy breach, new privacy notion, possible world"
+    label "Voicu Groza"
+    affiliation "University of Ottowa"
+    research "pulse rate variability, short duration oscillometric blood, SIMD intrinsics"
   ]
   node [
     id 16
-    label "Andrew W. Senior"
-    affiliation "Google Research, New york, NY"
-    research "video surveillance, IBM smart surveillance system, smart surveillance system"
+    label "Mansour H. Assaf"
+    affiliation "School of Information Technology and Engineering, Faculty of Engineering, University of Ottawa, Ottawa, ON, Canada"
+    research "built-in self-testing, subject paper, architectural design"
   ]
   node [
     id 17
-    label "Tanveer Fathima Syeda-Mahmood"
-    affiliation "IEEE"
-    research "image databases, semantic matching, overall semantic similarity score"
+    label "L. Wang"
+    affiliation "Nan"
+    research "fast implementation, spectral nested dissection"
   ]
   node [
     id 18
-    label "Boaz Carmeli"
-    affiliation "Haifa University Campus, Haifa, Israel"
-    research "IT system, message aggregation, sensitive business data"
+    label "Zhao-Liang Li"
+    affiliation "LSIIT, UdS, CNRS, 67412, Illkirch, France"
+    research "AIRS data, AIRS L2 LST product, AIRS-estimated LST"
   ]
   node [
     id 19
-    label "David Gotz"
-    affiliation "IBM Research, Hawthorne, New York"
-    research "visual analytic activity, comprehend information, sensemaking task"
+    label "J. Li"
+    affiliation "Nan"
+    research "estimation step, frequency estimator, high-order Yule-Walker"
   ]
   edge [
     source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -181,46 +131,31 @@ graph [
   ]
   edge [
     source 0
-    target 8
+    target 15
     relation "collaborate"
   ]
   edge [
     source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 5
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
+    source 0
     target 9
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 0
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 0
     target 12
     relation "collaborate"
   ]
@@ -231,227 +166,62 @@ graph [
   ]
   edge [
     source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 1
     target 8
     relation "collaborate"
   ]
   edge [
     source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 18
+    source 3
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 4
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 16
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
     source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 18
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -462,61 +232,11 @@ graph [
   edge [
     source 6
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
     relation "collaborate"
   ]
   edge [
     source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -531,42 +251,27 @@ graph [
   ]
   edge [
     source 8
-    target 12
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 13
+    source 8
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 8
     target 18
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 10
     target 15
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 17
+    source 11
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -575,93 +280,18 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
     source 12
-    target 17
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
+    source 14
     target 18
     relation "collaborate"
   ]
   edge [
     source 15
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 18
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -670,8 +300,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 18
-    target 19
+    source 17
+    target 18
     relation "collaborate"
   ]
 ]

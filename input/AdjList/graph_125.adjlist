@@ -1,45 +1,62 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:12 2023
 # 
-C. Hunt	1
-Y. Zhang	{'relation': 'collaborate'}
-M. M. Savalani	3
-Y. Zhang	{'relation': 'collaborate'}
-L. Hao	{'relation': 'collaborate'}
-R. A. Harris	{'relation': 'collaborate'}
-Y. Zhang	15
-Mike Cafarella	{'relation': 'collaborate'}
-Mongi A. Abidi	{'relation': 'collaborate'}
-J. Poitevin	{'relation': 'collaborate'}
-Z. Qiao	{'relation': 'collaborate'}
-Yusheng Feng	{'relation': 'collaborate'}
-Haiyong Xie	{'relation': 'collaborate'}
-Y. Shen	{'relation': 'collaborate'}
-Ratul Mahajan	{'relation': 'collaborate'}
-A. Stesmans	{'relation': 'collaborate'}
-C. Sun	{'relation': 'collaborate'}
-L. Breslau	{'relation': 'collaborate'}
-T. Hoffmann	{'relation': 'collaborate'}
-Z. Wang	{'relation': 'collaborate'}
-R. A. Harris	{'relation': 'collaborate'}
-L. Hao	{'relation': 'collaborate'}
-Ratul Mahajan	0
-L. Breslau	0
-C. Sun	0
-L. Hao	1
-R. A. Harris	{'relation': 'collaborate'}
-Mongi A. Abidi	0
-Z. Qiao	0
-R. A. Harris	2
-O. Koudelka	{'relation': 'collaborate'}
-L. Erup	{'relation': 'collaborate'}
-Yusheng Feng	0
-J. Poitevin	0
-Haiyong Xie	0
-T. Hoffmann	0
-Y. Shen	0
-Mike Cafarella	0
-O. Koudelka	0
-Z. Wang	0
-L. Erup	0
-A. Stesmans	0
+Clemens Heuberger	8
+H Prodinger	{'relation': 'collaborate'}
+R. F. Tichy	{'relation': 'collaborate'}
+Peter Grabner	{'relation': 'collaborate'}
+Jörg M. Thuswaldner	{'relation': 'collaborate'}
+Margaret Archibald	{'relation': 'collaborate'}
+Stephan G. Wagner	{'relation': 'collaborate'}
+R. Katti	{'relation': 'collaborate'}
+Roberto M. Avanzi	{'relation': 'collaborate'}
+Philippe Flajolet	6
+C. Martinez	{'relation': 'collaborate'}
+Wojciech Szpankowski	{'relation': 'collaborate'}
+H Prodinger	{'relation': 'collaborate'}
+R. F. Tichy	{'relation': 'collaborate'}
+Peter Grabner	{'relation': 'collaborate'}
+H M Mahmoud	{'relation': 'collaborate'}
+K. Scheicher	1
+Jörg M. Thuswaldner	{'relation': 'collaborate'}
+Manfred Madritsch	1
+Jörg M. Thuswaldner	{'relation': 'collaborate'}
+Emrah Kilic	1
+H Prodinger	{'relation': 'collaborate'}
+H Prodinger	14
+C. Martinez	{'relation': 'collaborate'}
+Margaret Archibald	{'relation': 'collaborate'}
+R. Katti	{'relation': 'collaborate'}
+Peter Grabner	{'relation': 'collaborate'}
+H M Mahmoud	{'relation': 'collaborate'}
+Wojciech Szpankowski	{'relation': 'collaborate'}
+Stephan G. Wagner	{'relation': 'collaborate'}
+Werner Kuich	{'relation': 'collaborate'}
+Roberto M. Avanzi	{'relation': 'collaborate'}
+R. F. Tichy	{'relation': 'collaborate'}
+Jörg M. Thuswaldner	{'relation': 'collaborate'}
+Emeric Deutsch	{'relation': 'collaborate'}
+Friedrich Hubalek	{'relation': 'collaborate'}
+Arnold Knopfmacher	{'relation': 'collaborate'}
+Jörg M. Thuswaldner	1
+Peter Grabner	{'relation': 'collaborate'}
+Werner Kuich	0
+Friedrich Hubalek	1
+H M Mahmoud	{'relation': 'collaborate'}
+Margaret Archibald	1
+Arnold Knopfmacher	{'relation': 'collaborate'}
+R. F. Tichy	3
+Stephan G. Wagner	{'relation': 'collaborate'}
+Arnold Knopfmacher	{'relation': 'collaborate'}
+Peter Grabner	{'relation': 'collaborate'}
+Stephan G. Wagner	1
+Arnold Knopfmacher	{'relation': 'collaborate'}
+Arnold Knopfmacher	1
+Peter Grabner	{'relation': 'collaborate'}
+C. Martinez	0
+R. Katti	0
+Roberto M. Avanzi	0
+Peter Grabner	0
+Wojciech Szpankowski	0
+H M Mahmoud	0
+Emeric Deutsch	0

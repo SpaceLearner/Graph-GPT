@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Alex X. Liu">
+      <data key="affiliation">Department of Computer Science and Engineering, Michigan State University, East Lansing,</data>
+      <data key="research">TCAM chip, TCAM space, different TCAM encoding scheme</data>
+    </node>
+    <node id="Jonathan de Halleux">
+      <data key="affiliation">Microsoft Research, Redmond WA</data>
+      <data key="research">test input, developer testing, Dynamic Symbolic Execution</data>
+    </node>
+    <node id="Pratch Piyawongwisal">
+      <data key="affiliation">University of Illinois at UrbanaChampaign, Urbana, IL</data>
+      <data key="research">smart phone, emergency management, situational awareness</data>
+    </node>
+    <node id="M. Eltabakh">
+      <data key="affiliation">Worcester Polytechnic Institute, Worcester, MA</data>
+      <data key="research">scientific data, corresponding data item, data collection</data>
+    </node>
+    <node id="Arjmand Samuel">
+      <data key="affiliation">Purdue University</data>
+      <data key="research">personal healthcare information management, policy heterogeneity, policy specification language</data>
+    </node>
+    <node id="Frank Martinez">
+      <data key="affiliation">Microsoft Research, Redmond, Washington, USA</data>
+      <data key="research">digital neighborhood watch, camera data, home environment</data>
+    </node>
+    <node id="Ahmed K. Elmagarmid">
+      <data key="affiliation">Qatar Computing Research Institute</data>
+      <data key="research">data stream, video data, data quality</data>
+    </node>
+    <node id="Arif Ghafoor">
+      <data key="affiliation">Nan</data>
+      <data key="research">new database allocation scheme</data>
+    </node>
+    <node id="Michal Moskal">
+      <data key="affiliation">Microsoft Research Redmond</data>
+      <data key="research">mobile device, verification methodology, live programming</data>
+    </node>
+    <node id="Rafae Bhatti">
+      <data key="affiliation">PwC, USA</data>
+      <data key="research">access control, federated access management, access management policy</data>
+    </node>
+    <node id="Liang Yu">
+      <data key="affiliation">University of San Francisco, School of Management, San Francisco, CA 94117, USA</data>
+      <data key="research">potential customer base, advanced technology, diffusion process</data>
+    </node>
+    <node id="N. Tillmann">
+      <data key="affiliation">Microsoft Research, Redmond, WA</data>
+      <data key="research">test input, Parameterized unit test, dynamic symbolic execution</data>
+    </node>
+    <node id="Elisa Bertino">
+      <data key="affiliation">Purdue University, West Lafayette</data>
+      <data key="research">keyword frequency, Abelian group homomorphic encryption, homomorphic encryption</data>
+    </node>
+    <node id="Ratul Mahajan">
+      <data key="affiliation">Microsoft Research</data>
+      <data key="research">field study, shared infrastructure, large number</data>
+    </node>
+    <node id="Halima Ghafoor">
+      <data key="affiliation">Purdue University</data>
+      <data key="research">multimedia data, multimedia application, multimedia information</data>
+    </node>
+    <node id="Shahab Baqai">
+      <data key="affiliation">Department of Computer Science, LUMS School of Science and Engineering, Lahore Pakistan, Pakistan</data>
+      <data key="research">multimedia data, multimedia information, multimedia application</data>
+    </node>
+    <node id="J M. Bishop">
+      <data key="affiliation">Computing, Goldsmiths, University of London, London, UK</data>
+      <data key="research">software engineering, mobile device, Java Gently</data>
+    </node>
+    <node id="Tao Xie">
+      <data key="affiliation">Nan</data>
+      <data key="research">existing availability metrics, corresponding estimation approach, invocation record</data>
+    </node>
+    <node id="Jaeyeon Jung">
+      <data key="affiliation">Mazu Networks,</data>
+      <data key="research">DNS caching, DNS black list, DNS cache</data>
+    </node>
+    <node id="Muhammad Shahzad">
+      <data key="affiliation">Michigan State University, USA</data>
+      <data key="research">smart phone, tag population size, legitimate user</data>
+    </node>
+    <edge source="Alex X. Liu" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex X. Liu" target="Arjmand Samuel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex X. Liu" target="Muhammad Shahzad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan de Halleux" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan de Halleux" target="N. Tillmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan de Halleux" target="Arjmand Samuel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan de Halleux" target="J M. Bishop">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan de Halleux" target="Michal Moskal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pratch Piyawongwisal" target="Arjmand Samuel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pratch Piyawongwisal" target="Liang Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Eltabakh" target="Arjmand Samuel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Eltabakh" target="Ahmed K. Elmagarmid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Eltabakh" target="Rafae Bhatti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Eltabakh" target="Arif Ghafoor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Michal Moskal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Shahab Baqai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="N. Tillmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Jaeyeon Jung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Rafae Bhatti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Ratul Mahajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Frank Martinez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="J M. Bishop">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Liang Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Elisa Bertino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Arif Ghafoor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Ahmed K. Elmagarmid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Muhammad Shahzad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arjmand Samuel" target="Halima Ghafoor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Martinez" target="Ratul Mahajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Martinez" target="Jaeyeon Jung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmed K. Elmagarmid" target="Arif Ghafoor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmed K. Elmagarmid" target="Elisa Bertino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arif Ghafoor" target="Rafae Bhatti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arif Ghafoor" target="Shahab Baqai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arif Ghafoor" target="Elisa Bertino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Moskal" target="N. Tillmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Moskal" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Moskal" target="J M. Bishop">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafae Bhatti" target="Elisa Bertino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Tillmann" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Tillmann" target="J M. Bishop">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ratul Mahajan" target="Jaeyeon Jung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J M. Bishop" target="Tao Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

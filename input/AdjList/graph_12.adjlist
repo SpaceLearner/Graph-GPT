@@ -1,57 +1,57 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:49 2023
 # 
-IEEE Region 7	18
-Akihiro Yamamoto	{'relation': 'collaborate'}
-Hans W. Nissen	{'relation': 'collaborate'}
-Germany	{'relation': 'collaborate'}
-L A Rosenberg	{'relation': 'collaborate'}
-Joyce L. Vedral	{'relation': 'collaborate'}
-François R. Boyer	{'relation': 'collaborate'}
-T. Horváth	{'relation': 'collaborate'}
-Robert A. van de Geijn	{'relation': 'collaborate'}
-P Hajek	{'relation': 'collaborate'}
-W. Eric Wong	{'relation': 'collaborate'}
-Michael Gebhardt	{'relation': 'collaborate'}
-Stephen Paul Jacobs	{'relation': 'collaborate'}
-Jack J. Dongarra	{'relation': 'collaborate'}
-D S Weld	{'relation': 'collaborate'}
-Matthias Jarke	{'relation': 'collaborate'}
-Hai Zhuge	{'relation': 'collaborate'}
-Judy Goldsmith	{'relation': 'collaborate'}
-Peng Dai	{'relation': 'collaborate'}
-Akihiro Yamamoto	2
-Susumu Hayashi	{'relation': 'collaborate'}
-T. Horváth	{'relation': 'collaborate'}
-Peng Dai	2
-Judy Goldsmith	{'relation': 'collaborate'}
-D S Weld	{'relation': 'collaborate'}
-François R. Boyer	0
-W. Eric Wong	0
-P Hajek	0
-Matthias Jarke	4
-Stephen Paul Jacobs	{'relation': 'collaborate'}
-Germany	{'relation': 'collaborate'}
-Hans W. Nissen	{'relation': 'collaborate'}
-Michael Gebhardt	{'relation': 'collaborate'}
-Joyce L. Vedral	0
-Stephen Paul Jacobs	3
-Hans W. Nissen	{'relation': 'collaborate'}
-Germany	{'relation': 'collaborate'}
-Michael Gebhardt	{'relation': 'collaborate'}
-Robert A. van de Geijn	1
-Jack J. Dongarra	{'relation': 'collaborate'}
-Hai Zhuge	0
-Judy Goldsmith	1
-D S Weld	{'relation': 'collaborate'}
-Susumu Hayashi	0
-D S Weld	0
-L A Rosenberg	0
-T. Horváth	0
-Hans W. Nissen	2
-Michael Gebhardt	{'relation': 'collaborate'}
-Germany	{'relation': 'collaborate'}
-Michael Gebhardt	1
-Germany	{'relation': 'collaborate'}
-Germany	0
-Jack J. Dongarra	0
+E.-G. Talbi	3
+François Clautiaux	{'relation': 'collaborate'}
+Saíd Hanafi	{'relation': 'collaborate'}
+Bilel Derbel	{'relation': 'collaborate'}
+Antoine Jouglet	3
+Aziz Moukrim	{'relation': 'collaborate'}
+J. Carlier	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+Marie-Emilie Voge	1
+François Clautiaux	{'relation': 'collaborate'}
+Saoussen Krichen	5
+Adel Guitouni	{'relation': 'collaborate'}
+El-Ghazali Talbi	{'relation': 'collaborate'}
+Fouad Ben Abdelaziz	{'relation': 'collaborate'}
+Nadia Dahmani	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+Cláudio Alves	3
+François Clautiaux	{'relation': 'collaborate'}
+José M. Valério de Carvalho	{'relation': 'collaborate'}
+Jürgen Rietz	{'relation': 'collaborate'}
+Manuel Iori	2
+Mauro Dell'Amico	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+El-Ghazali Talbi	3
+Bilel Derbel	{'relation': 'collaborate'}
+Nadia Dahmani	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+J. Carlier	3
+Aziz Moukrim	{'relation': 'collaborate'}
+Stéphane Nègre	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+Stéphane Nègre	2
+Aziz Moukrim	{'relation': 'collaborate'}
+François Clautiaux	{'relation': 'collaborate'}
+Bilel Derbel	0
+François Clautiaux	7
+Christophe Wilbaut	{'relation': 'collaborate'}
+Mauro Dell'Amico	{'relation': 'collaborate'}
+Nadia Dahmani	{'relation': 'collaborate'}
+Jürgen Rietz	{'relation': 'collaborate'}
+Aziz Moukrim	{'relation': 'collaborate'}
+José M. Valério de Carvalho	{'relation': 'collaborate'}
+Saíd Hanafi	{'relation': 'collaborate'}
+Mauro Dell'Amico	0
+Christophe Wilbaut	1
+Saíd Hanafi	{'relation': 'collaborate'}
+Adel Guitouni	0
+Jürgen Rietz	1
+José M. Valério de Carvalho	{'relation': 'collaborate'}
+Fouad Ben Abdelaziz	0
+José M. Valério de Carvalho	0
+Nadia Dahmani	0
+Aziz Moukrim	0
+Saíd Hanafi	0

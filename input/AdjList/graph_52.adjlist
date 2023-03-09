@@ -1,51 +1,69 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:00 2023
 # 
-Barbara Poblete	2
-Alejandro James	{'relation': 'collaborate'}
-M. Mendoza	{'relation': 'collaborate'}
-Ilkka Kivimäki	1
-Alejandro James	{'relation': 'collaborate'}
-Hugo Ortega	3
-Alejandro James	{'relation': 'collaborate'}
-Mark Tribe	{'relation': 'collaborate'}
-Pamela Jennings	{'relation': 'collaborate'}
-M. Mendoza	1
-Alejandro James	{'relation': 'collaborate'}
-J Miyazaki	1
-Alejandro James	{'relation': 'collaborate'}
-Eduardo Ruiz	1
-Alejandro James	{'relation': 'collaborate'}
-Y. Volkovich	2
-Alejandro James	{'relation': 'collaborate'}
-M. Lalmas	{'relation': 'collaborate'}
-Mark Tribe	2
-Alejandro James	{'relation': 'collaborate'}
-Pamela Jennings	{'relation': 'collaborate'}
-M. Lalmas	1
-Alejandro James	{'relation': 'collaborate'}
-Alexander C. Loui	1
-Alejandro James	{'relation': 'collaborate'}
-Pamela Jennings	3
-Alejandro James	{'relation': 'collaborate'}
-Frank Nack	{'relation': 'collaborate'}
-A. Del Bimbo	{'relation': 'collaborate'}
-Alejandro James	8
-Chahab Nastar	{'relation': 'collaborate'}
-Frank Nack	{'relation': 'collaborate'}
-Jérôme Picault	{'relation': 'collaborate'}
-F. Bonchi	{'relation': 'collaborate'}
-Marcel Worring	{'relation': 'collaborate'}
-Nicu Sebe	{'relation': 'collaborate'}
-Michael George Christel	{'relation': 'collaborate'}
-A. Del Bimbo	{'relation': 'collaborate'}
-Marcel Worring	1
-Nicu Sebe	{'relation': 'collaborate'}
-Michael George Christel	0
-Nicu Sebe	0
-F. Bonchi	0
-Jérôme Picault	0
-Frank Nack	1
-A. Del Bimbo	{'relation': 'collaborate'}
-Chahab Nastar	0
-A. Del Bimbo	0
+Stanislas Boissau	4
+Alain Boucher	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alexis Drogoul	{'relation': 'collaborate'}
+Karama Kanoun	2
+Jean Arlat	{'relation': 'collaborate'}
+David Powell	{'relation': 'collaborate'}
+Alexis Drogoul	9
+Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+Minh Nguyen-Duc	{'relation': 'collaborate'}
+Edouard Amouroux	{'relation': 'collaborate'}
+François Charpillet	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Alain Boucher	{'relation': 'collaborate'}
+Hoang Nam Chu	{'relation': 'collaborate'}
+Geber Ramalho	{'relation': 'collaborate'}
+Olivier Simonin	{'relation': 'collaborate'}
+Jean Arlat	5
+Z. Kalbarczyk	{'relation': 'collaborate'}
+Felix Ingrand	{'relation': 'collaborate'}
+Hoang Nam Chu	{'relation': 'collaborate'}
+David Powell	{'relation': 'collaborate'}
+Marc-Olivier Killijian	{'relation': 'collaborate'}
+Felix Ingrand	3
+David Powell	{'relation': 'collaborate'}
+Hoang Nam Chu	{'relation': 'collaborate'}
+Marc-Olivier Killijian	{'relation': 'collaborate'}
+Edouard Amouroux	4
+Alain Boucher	{'relation': 'collaborate'}
+Nicolas Sabouret	{'relation': 'collaborate'}
+Y. Haradji	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+François Charpillet	3
+Olivier Simonin	{'relation': 'collaborate'}
+Hoang Nam Chu	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Marc-Olivier Killijian	2
+David Powell	{'relation': 'collaborate'}
+Hoang Nam Chu	{'relation': 'collaborate'}
+Y. Haradji	2
+Nicolas Sabouret	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Hoang Nam Chu	3
+François Sempé	{'relation': 'collaborate'}
+David Powell	{'relation': 'collaborate'}
+Olivier Simonin	{'relation': 'collaborate'}
+Alain Boucher	2
+Minh Nguyen-Duc	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Minh Nguyen-Duc	1
+François Sempé	{'relation': 'collaborate'}
+Geber Ramalho	2
+Yann Chevaleyre	{'relation': 'collaborate'}
+François Sempé	{'relation': 'collaborate'}
+Nicolas Sabouret	1
+François Sempé	{'relation': 'collaborate'}
+Olivier Simonin	1
+François Sempé	{'relation': 'collaborate'}
+David Powell	0
+François Sempé	2
+Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+Yann Chevaleyre	{'relation': 'collaborate'}
+Angélica Muñoz-Meléndez	0
+Yann Chevaleyre	0
+Z. Kalbarczyk	0

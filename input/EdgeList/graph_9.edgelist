@@ -1,23 +1,45 @@
-Dan Post	Que Corporation	{'relation': 'collaborate'}
-Gordon McComb	Que Corporation	{'relation': 'collaborate'}
-Gordon McComb	Joe Kraynak	{'relation': 'collaborate'}
-Gordon McComb	Laura Acklen	{'relation': 'collaborate'}
-George R. Beinhorn	Que Corporation	{'relation': 'collaborate'}
-Samantha Penrod	Que Corporation	{'relation': 'collaborate'}
-Carolyn B. Mitchell	Que Corporation	{'relation': 'collaborate'}
-Jerry Honeycutt	Que Corporation	{'relation': 'collaborate'}
-Tim Evans	Que Corporation	{'relation': 'collaborate'}
-Eric P. Bloom	Que Corporation	{'relation': 'collaborate'}
-Julia A. Cardis	Que Corporation	{'relation': 'collaborate'}
-Que Corporation	Bob Mullen	{'relation': 'collaborate'}
-Que Corporation	Marilyn G. Kyd	{'relation': 'collaborate'}
-Que Corporation	Mark Schulman	{'relation': 'collaborate'}
-Que Corporation	David G. Durand	{'relation': 'collaborate'}
-Que Corporation	Elli Mylonas	{'relation': 'collaborate'}
-Que Corporation	Laura Acklen	{'relation': 'collaborate'}
-Que Corporation	Joe Kraynak	{'relation': 'collaborate'}
-Que Corporation	Steven B. Combs	{'relation': 'collaborate'}
-Que Corporation	Geoffrey W. McKim	{'relation': 'collaborate'}
-Que Corporation	Suzanne Weixel	{'relation': 'collaborate'}
-Laura Acklen	Bob Mullen	{'relation': 'collaborate'}
-David G. Durand	Elli Mylonas	{'relation': 'collaborate'}
+Derrick Parkhurst	Kimberly Weaver	{'relation': 'collaborate'}
+Maribeth Gandy	Thad Starner	{'relation': 'collaborate'}
+Maribeth Gandy	Scott Robertson	{'relation': 'collaborate'}
+Maribeth Gandy	Peter Presti	{'relation': 'collaborate'}
+Maribeth Gandy	Brian Jones	{'relation': 'collaborate'}
+Maribeth Gandy	Jeff Wilson	{'relation': 'collaborate'}
+Maribeth Gandy	Steven Dow	{'relation': 'collaborate'}
+Shumin Zhai	Huahai Yang	{'relation': 'collaborate'}
+Shumin Zhai	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Shumin Zhai	Kimberly Weaver	{'relation': 'collaborate'}
+Hendrik Iben	Kimberly Weaver	{'relation': 'collaborate'}
+Hendrik Iben	Michael Lawo	{'relation': 'collaborate'}
+Hendrik Iben	Thad Starner	{'relation': 'collaborate'}
+Scott Gilliland	Peter Presti	{'relation': 'collaborate'}
+Scott Gilliland	Thad Starner	{'relation': 'collaborate'}
+Stephen Sinclair	Peter Presti	{'relation': 'collaborate'}
+Gregory D. Abowd	Thad Starner	{'relation': 'collaborate'}
+Gregory D. Abowd	Kimberly Weaver	{'relation': 'collaborate'}
+Gregory D. Abowd	Peter Presti	{'relation': 'collaborate'}
+Gregory D. Abowd	Brian Jones	{'relation': 'collaborate'}
+Gregory D. Abowd	Jeremy Johnson	{'relation': 'collaborate'}
+Gregory D. Abowd	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Peter Presti	Kimberly Weaver	{'relation': 'collaborate'}
+Peter Presti	Steven Dow	{'relation': 'collaborate'}
+Peter Presti	Jeff Wilson	{'relation': 'collaborate'}
+Peter Presti	Scott Robertson	{'relation': 'collaborate'}
+Peter Presti	Pei Yin	{'relation': 'collaborate'}
+Peter Presti	Amy Bruckman	{'relation': 'collaborate'}
+Peter Presti	Brian Jones	{'relation': 'collaborate'}
+Peter Presti	Jeremy Johnson	{'relation': 'collaborate'}
+Peter Presti	Thad Starner	{'relation': 'collaborate'}
+Amy Bruckman	Thad Starner	{'relation': 'collaborate'}
+Amy Bruckman	Kimberly Weaver	{'relation': 'collaborate'}
+Thad Starner	Kimberly Weaver	{'relation': 'collaborate'}
+Thad Starner	Pei Yin	{'relation': 'collaborate'}
+Thad Starner	Michael Lawo	{'relation': 'collaborate'}
+Thad Starner	Jeremy Johnson	{'relation': 'collaborate'}
+Huahai Yang	Kimberly Weaver	{'relation': 'collaborate'}
+Huahai Yang	Jeffrey S. Pierce	{'relation': 'collaborate'}
+Michael Lawo	Kimberly Weaver	{'relation': 'collaborate'}
+Jeffrey S. Pierce	Kimberly Weaver	{'relation': 'collaborate'}
+Brian Jones	Scott Robertson	{'relation': 'collaborate'}
+Brian Jones	Jeff Wilson	{'relation': 'collaborate'}
+Jeremy Johnson	Kimberly Weaver	{'relation': 'collaborate'}
+Scott Robertson	Jeff Wilson	{'relation': 'collaborate'}

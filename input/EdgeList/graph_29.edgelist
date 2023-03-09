@@ -1,35 +1,26 @@
-Ebba Thora Hvannberg	Regina Bernhaupt	{'relation': 'collaborate'}
-Ebba Thora Hvannberg	Jan Gulliksen	{'relation': 'collaborate'}
-Dennis Wixon	Regina Bernhaupt	{'relation': 'collaborate'}
-Dennis Wixon	Manfred Tscheligi	{'relation': 'collaborate'}
-Dennis Wixon	Florian Mueller	{'relation': 'collaborate'}
-Manuel Will	Regina Bernhaupt	{'relation': 'collaborate'}
-Cédric Bach	Regina Bernhaupt	{'relation': 'collaborate'}
-Regina Bernhaupt	Katherine Isbister	{'relation': 'collaborate'}
-Regina Bernhaupt	Philipe Palanque	{'relation': 'collaborate'}
-Regina Bernhaupt	Florian Mueller	{'relation': 'collaborate'}
-Regina Bernhaupt	Andreas Boldt	{'relation': 'collaborate'}
-Regina Bernhaupt	Ben A. M. Schouten	{'relation': 'collaborate'}
-Regina Bernhaupt	Licia Calvi	{'relation': 'collaborate'}
-Regina Bernhaupt	Ronald L. Boring	{'relation': 'collaborate'}
-Regina Bernhaupt	Sandra Basnyat	{'relation': 'collaborate'}
-Regina Bernhaupt	Marianna Obrist	{'relation': 'collaborate'}
-Regina Bernhaupt	Thomas Mirlacher	{'relation': 'collaborate'}
-Regina Bernhaupt	Manfred Tscheligi	{'relation': 'collaborate'}
-Regina Bernhaupt	Newton Lee	{'relation': 'collaborate'}
-Regina Bernhaupt	J L Wesson	{'relation': 'collaborate'}
-Regina Bernhaupt	Daniel Cook	{'relation': 'collaborate'}
-Regina Bernhaupt	Jan Gulliksen	{'relation': 'collaborate'}
-Florian Mueller	Ben A. M. Schouten	{'relation': 'collaborate'}
-Florian Mueller	Katherine Isbister	{'relation': 'collaborate'}
-Florian Mueller	Manfred Tscheligi	{'relation': 'collaborate'}
-Marianna Obrist	Manfred Tscheligi	{'relation': 'collaborate'}
-Licia Calvi	Katherine Isbister	{'relation': 'collaborate'}
-Daniel Cook	Katherine Isbister	{'relation': 'collaborate'}
-Jan Gulliksen	J L Wesson	{'relation': 'collaborate'}
-Sandra Basnyat	Ronald L. Boring	{'relation': 'collaborate'}
-Thomas Mirlacher	Philipe Palanque	{'relation': 'collaborate'}
-Thomas Mirlacher	Andreas Boldt	{'relation': 'collaborate'}
-Thomas Mirlacher	Manfred Tscheligi	{'relation': 'collaborate'}
-Manfred Tscheligi	Newton Lee	{'relation': 'collaborate'}
-Manfred Tscheligi	Andreas Boldt	{'relation': 'collaborate'}
+Sunghyun Cho	Jue Wang	{'relation': 'collaborate'}
+Sunghyun Cho	Adam Finkelstein	{'relation': 'collaborate'}
+Jue Wang	Hang Li	{'relation': 'collaborate'}
+Jue Wang	Adam Finkelstein	{'relation': 'collaborate'}
+Jue Wang	Fei-Yue Wang	{'relation': 'collaborate'}
+Jue Wang	Liang Ding	{'relation': 'collaborate'}
+Jue Wang	Hua Huang	{'relation': 'collaborate'}
+Jue Wang	Norman P. Jouppi	{'relation': 'collaborate'}
+Jue Wang	Andrew Howard	{'relation': 'collaborate'}
+Jue Wang	Hongyu Zhang	{'relation': 'collaborate'}
+Jue Wang	Shancang Li	{'relation': 'collaborate'}
+Jue Wang	Suqing Han	{'relation': 'collaborate'}
+Jue Wang	Shuming Tang	{'relation': 'collaborate'}
+Jue Wang	Chang Tian	{'relation': 'collaborate'}
+Jue Wang	Bingheng Lu	{'relation': 'collaborate'}
+Jue Wang	Jia Chen	{'relation': 'collaborate'}
+Jue Wang	Hsiao-Wuen Hon	{'relation': 'collaborate'}
+Jue Wang	Bin Liu	{'relation': 'collaborate'}
+Jue Wang	Shi-Min Hu	{'relation': 'collaborate'}
+Jue Wang	Xiao-Shan Gao	{'relation': 'collaborate'}
+Jue Wang	Jue Wang	{'relation': 'collaborate'}
+Hua Huang	Fei-Yue Wang	{'relation': 'collaborate'}
+Hang Li	Hsiao-Wuen Hon	{'relation': 'collaborate'}
+Shi-Min Hu	Bin Liu	{'relation': 'collaborate'}
+Shuming Tang	Fei-Yue Wang	{'relation': 'collaborate'}
+Bin Liu	Fei-Yue Wang	{'relation': 'collaborate'}

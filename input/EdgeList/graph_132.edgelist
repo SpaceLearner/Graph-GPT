@@ -1,39 +1,49 @@
-Richard Buchanan	S. Evenson	{'relation': 'collaborate'}
-Angela Z. Wagner	S. Evenson	{'relation': 'collaborate'}
-Angela Z. Wagner	Ryan S. Baker	{'relation': 'collaborate'}
-Angela Z. Wagner	Joseph E. Beck	{'relation': 'collaborate'}
-Angela Z. Wagner	Ido Roll	{'relation': 'collaborate'}
-Angela Z. Wagner	Kenneth Koedinger	{'relation': 'collaborate'}
-Elissa Darnell	S. Evenson	{'relation': 'collaborate'}
-Elissa Darnell	Irene Au	{'relation': 'collaborate'}
-Elissa Darnell	C. Rohrer	{'relation': 'collaborate'}
-Rajiv P. Mehta	S. Evenson	{'relation': 'collaborate'}
-Rajiv P. Mehta	Paul Pangaro	{'relation': 'collaborate'}
-F. RichardsonSmith	W. Wulff	{'relation': 'collaborate'}
-F. RichardsonSmith	S. Evenson	{'relation': 'collaborate'}
-F. RichardsonSmith	J. Rheinfrank	{'relation': 'collaborate'}
-W. Wulff	J. Rheinfrank	{'relation': 'collaborate'}
-W. Wulff	S. Evenson	{'relation': 'collaborate'}
-Paul Burke	S. Evenson	{'relation': 'collaborate'}
-Paul Pangaro	S. Evenson	{'relation': 'collaborate'}
-Jodi Forlizzi	S. Evenson	{'relation': 'collaborate'}
-Jodi Forlizzi	Kenneth Koedinger	{'relation': 'collaborate'}
-Jodi Forlizzi	John L. Zimmerman	{'relation': 'collaborate'}
-John Skidgel	S. Evenson	{'relation': 'collaborate'}
-John Skidgel	Dan R. Olsen, Jr.	{'relation': 'collaborate'}
-Ryan S. Baker	S. Evenson	{'relation': 'collaborate'}
-Ryan S. Baker	Joseph E. Beck	{'relation': 'collaborate'}
-Ryan S. Baker	Kenneth Koedinger	{'relation': 'collaborate'}
-Ryan S. Baker	Ido Roll	{'relation': 'collaborate'}
-Dan R. Olsen, Jr.	S. Evenson	{'relation': 'collaborate'}
-Ido Roll	S. Evenson	{'relation': 'collaborate'}
-Ido Roll	Kenneth Koedinger	{'relation': 'collaborate'}
-Ido Roll	Joseph E. Beck	{'relation': 'collaborate'}
-C. Rohrer	S. Evenson	{'relation': 'collaborate'}
-C. Rohrer	Irene Au	{'relation': 'collaborate'}
-John L. Zimmerman	S. Evenson	{'relation': 'collaborate'}
-Kenneth Koedinger	S. Evenson	{'relation': 'collaborate'}
-Kenneth Koedinger	Joseph E. Beck	{'relation': 'collaborate'}
-J. Rheinfrank	S. Evenson	{'relation': 'collaborate'}
-Irene Au	S. Evenson	{'relation': 'collaborate'}
-Joseph E. Beck	S. Evenson	{'relation': 'collaborate'}
+Michele Rossi	Qing Wei	{'relation': 'collaborate'}
+Michele Rossi	A. Zanella	{'relation': 'collaborate'}
+Michele Rossi	Christian Prehofer	{'relation': 'collaborate'}
+Michele Rossi	Jörg Widmer	{'relation': 'collaborate'}
+Michele Rossi	Michele Zorzi	{'relation': 'collaborate'}
+Chunhe Xia	Qing Wei	{'relation': 'collaborate'}
+Chunhe Xia	Jie Feng	{'relation': 'collaborate'}
+Chong Han	Qing Wei	{'relation': 'collaborate'}
+Chong Han	Baoqing Jiang	{'relation': 'collaborate'}
+Qing Wei	Paulo Mendes	{'relation': 'collaborate'}
+Qing Wei	Yongqiang Zhang	{'relation': 'collaborate'}
+Qing Wei	Jie Feng	{'relation': 'collaborate'}
+Qing Wei	A. Zanella	{'relation': 'collaborate'}
+Qing Wei	Mohsen Rais-Ghasem	{'relation': 'collaborate'}
+Qing Wei	Martin Petitclerc	{'relation': 'collaborate'}
+Qing Wei	Jörg Widmer	{'relation': 'collaborate'}
+Qing Wei	Wolfgang Kellerer	{'relation': 'collaborate'}
+Qing Wei	Norihiro Ishikawa	{'relation': 'collaborate'}
+Qing Wei	Károly Farkas	{'relation': 'collaborate'}
+Qing Wei	Michele Zorzi	{'relation': 'collaborate'}
+Qing Wei	Christian Prehofer	{'relation': 'collaborate'}
+Qing Wei	Baoqing Jiang	{'relation': 'collaborate'}
+Qing Wei	Maximilian Michel	{'relation': 'collaborate'}
+Qing Wei	Zoran Despotovic	{'relation': 'collaborate'}
+Qing Wei	Bernhard Plattner	{'relation': 'collaborate'}
+Bernhard Plattner	Károly Farkas	{'relation': 'collaborate'}
+Bernhard Plattner	Paulo Mendes	{'relation': 'collaborate'}
+Bernhard Plattner	Christian Prehofer	{'relation': 'collaborate'}
+Christian Prehofer	Paulo Mendes	{'relation': 'collaborate'}
+Christian Prehofer	Wolfgang Kellerer	{'relation': 'collaborate'}
+Christian Prehofer	Michele Zorzi	{'relation': 'collaborate'}
+Christian Prehofer	A. Zanella	{'relation': 'collaborate'}
+Christian Prehofer	Károly Farkas	{'relation': 'collaborate'}
+Christian Prehofer	Jörg Widmer	{'relation': 'collaborate'}
+Mohsen Rais-Ghasem	Martin Petitclerc	{'relation': 'collaborate'}
+Jörg Widmer	Zoran Despotovic	{'relation': 'collaborate'}
+Jörg Widmer	Norihiro Ishikawa	{'relation': 'collaborate'}
+Jörg Widmer	Maximilian Michel	{'relation': 'collaborate'}
+Jörg Widmer	Wolfgang Kellerer	{'relation': 'collaborate'}
+Jörg Widmer	Michele Zorzi	{'relation': 'collaborate'}
+Jörg Widmer	A. Zanella	{'relation': 'collaborate'}
+Wolfgang Kellerer	Zoran Despotovic	{'relation': 'collaborate'}
+Wolfgang Kellerer	Maximilian Michel	{'relation': 'collaborate'}
+Wolfgang Kellerer	Norihiro Ishikawa	{'relation': 'collaborate'}
+Maximilian Michel	Norihiro Ishikawa	{'relation': 'collaborate'}
+Maximilian Michel	Zoran Despotovic	{'relation': 'collaborate'}
+Michele Zorzi	A. Zanella	{'relation': 'collaborate'}
+Norihiro Ishikawa	Zoran Despotovic	{'relation': 'collaborate'}
+Károly Farkas	Paulo Mendes	{'relation': 'collaborate'}

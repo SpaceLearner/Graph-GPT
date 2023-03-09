@@ -1,137 +1,127 @@
 graph [
   node [
     id 0
-    label "Yan Shang"
-    affiliation "Department of Electronics and Communication, Yanshan University, Hebei 066004, China"
-    research "texture image, Rotation Invariant Texture Classification, SVMA rotation invariant texture"
+    label "Giuseppe Ferri"
+    affiliation "Universita&#8217; L&#8217;Aquila, Italy, Loc.Monteluco Roio, 67040 Poggio di Roio"
+    research "generation current conveyor, standard CMOS technology, low voltage low power"
   ]
   node [
     id 1
-    label "Chuan Fu"
-    affiliation "Institute of Computing Technology, Chinese Academy of Sciences, Beijing, P.R. China"
-    research "existing Internet architecture, Internet-based economy, Internet Content Provider"
+    label "A. D. Grasso"
+    affiliation "Dipartimento di Ingegneria Elettrica Elettronica e dei Sistemi, Universita' di Catania, Viale Andrea Doria 6, Catania I95125, Italy"
+    research "design equation, John Wiley, phase margin"
   ]
   node [
     id 2
-    label "Guangda Su"
-    affiliation "Nan"
-    research "appropriate deformation graph, deformation graph, pre-estimated rigidity"
+    label "M. Faccio"
+    affiliation "Univ. L'Aquila, L'Aquila, Italy"
+    research "low bias current, low crossover distortion, low input"
   ]
   node [
     id 3
-    label "Xinyu Liu"
-    affiliation "Northeastern University and Baoshan Iron &#38; Steel Co., Ltd"
-    research "agile manufacturing, customer-driven manufacturing system, efficient agile manufacturing system"
+    label "Antonio Serino"
+    affiliation "Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy"
+    research "Inc. Int J RF, Microwave CAE, Wiley Periodicals"
   ]
   node [
     id 4
-    label "Fan Xiangning"
-    affiliation "Institute of RF&#38;OEICs, School of Information Science and Engineering, Southeast University, Nanjing, China"
-    research "tail current source, cluster head, multihop-LEACH protocol"
+    label "Giuseppe Scotti"
+    affiliation "Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy"
+    research "dynamic power, power consumption, generation current conveyor"
   ]
   node [
     id 5
-    label "Guoqing Zhang"
-    affiliation "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore 637553"
-    research "uneven terrain, agile walking, uneven terrain walking"
+    label "D. Rossi"
+    affiliation "ARCES, University of Bologna, Italy"
+    research "energy efficiency, different flavour, application space exploration"
   ]
   node [
     id 6
-    label "Weichang Shen"
-    affiliation "Nan"
-    research "OpenMPprogramming model, Columnwise Block-Striped Decomposition, Matrix Multiplication"
+    label "Dominique Schreurs"
+    affiliation "IMEC, MCP, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "Wiley Periodicals, Inc. Int J RF, Microwave CAE"
   ]
   node [
     id 7
-    label "Congcong Li"
-    affiliation "Cornell University, USA"
-    research "contextual information, proposed cue, unlabeled region"
+    label "Alessandro Trifiletti"
+    affiliation "Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy"
+    research "power consumption, dynamic power, differential power analysis"
   ]
   node [
     id 8
-    label "Jing He"
-    affiliation "Department of Computer Science, Old Dominion University"
-    research "potential energy function, decoy set, key block"
+    label "G. Ricotti"
+    affiliation "SGSThomson, Via Tolomeo 1, 20100 Cornaredo, Milano, Italy"
+    research "laboratory result, low bias current, low crossover distortion"
   ]
   node [
     id 9
-    label "Jing Yang"
-    affiliation "Nan"
-    research "Random InputsAn efficient solver, Differential Equations, Efficient Solver"
+    label "Maurizio Colizza"
+    affiliation "Center of Excellence DEWS, University of L'Aquila, L'Aquila, Italy"
+    research "proposed methodology, discrete event simulation, network simulation data"
   ]
   node [
     id 10
-    label "Feng Si"
-    affiliation "Nan"
-    research "control message, information security, security need"
+    label "G. Ciccarella"
+    affiliation "Telecom Italia, Roma, Italy"
+    research "discrete-time nonlinear systemsPerformance evaluation, nonlinear systemsA robust observer, continuous-discrete dynamic system approximation"
   ]
   node [
     id 11
-    label "Xianfu Lei"
-    affiliation "Inst. of Mobile Communications, Southwest Jiaotong University, Chengdu, Sichuan, China"
-    research "outage probability, spectrum efficiency, a-stable clutter"
+    label "Giorgio Leuzzi"
+    affiliation "Dipartimento di Ingegneria Elettrica, Universit&#224; dell'Aquila, L'Aquila, Italy"
+    research "conversion matrix, Inc. Int J RF, Microwave CAE"
   ]
   node [
     id 12
-    label "Nishant Sinha"
-    affiliation "IBM Research, India"
-    research "concurrent program, software system, large number"
+    label "Massimo Alioto"
+    affiliation "DII (Dipartimento di Ingegneria dell'Informazione), University of Siena, I53100, Siena, Italy and Berkeley Wireless Research Center, EECS (Electrical Engineering and Computer Sciences) Department ..."
+    research "energy consumption, DPA attack, input rise time"
   ]
   node [
     id 13
-    label "Yingchun Li"
+    label "F. Santucci"
     affiliation "Nan"
-    research "Transmission Performance, next-generation passive optical network, optical OFDM signal"
+    research "outage interval, correlated log-normal, Performance Analysis"
   ]
   node [
     id 14
-    label "Yansheng Lu"
-    affiliation "College of Computer Scie. and Tech., Wuhan, Hubei 430074, China"
-    research "ProgramsSoftware testing, state-based class level testing, structural testing"
+    label "S. Pennisi"
+    affiliation "DEES (Dipartimento Elettrico Elettronico e Sistemistico), Universita&#8217; Di Catania, Viale Andrea Doria, 6, I95125 Catania, Italy spennisi@dees.unict.it"
+    research "design equation, John Wiley, proposed solution"
   ]
   node [
     id 15
-    label "Yanfang Ren"
-    affiliation "Nan"
-    research "design pattern, software design, Design PatternsDesign pattern"
+    label "M. Bucci"
+    affiliation "Infineon Technol. AG, Graz, Austria"
+    research "power consumption, dual-rail precharge logic family, logic family"
   ]
   node [
     id 16
-    label "Yan Xiang"
-    affiliation "Electronic Engineering Department, Tsinghua University, Beijing, China"
-    research "face recognition, automatic face recognition system, recognition part"
+    label "W. Sansen"
+    affiliation "Department of Electrical Engineering, Katholieke Universiteit Leuven, Kardinaal Mercierlaan 94, 3001 Heverlee, Belgium"
+    research "Analog circuit design, experimental result, automated design"
   ]
   node [
     id 17
-    label "Ye Zhao"
-    affiliation "Kent State University"
-    research "flow field, flow simulation, air flow"
+    label "Francesco Centurelli"
+    affiliation "Dipartimento di Ingegneria Elettronica, Universit&#224;i Roma La Sapienza, Roma, Italy"
+    research "differential pair, proposed topology, design example"
   ]
   node [
     id 18
-    label "Zheng Hao"
-    affiliation "Nan"
-    research "web page, different browser, overall design framework"
+    label "Franco Giannini"
+    affiliation "Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy"
+    research "Inc. Int J RF, Wiley Periodicals, Microwave CAE"
   ]
   node [
     id 19
-    label "Jia-Dong Ren"
-    affiliation "Nan"
-    research "memory space, algorithm MFPBI, memory consumption"
+    label "Renato Menicocci"
+    affiliation "Fondazione Ugo Bordoni, Roma, Italy"
+    research "keystream sequence, clocked shift register, LFSR sequence"
   ]
   edge [
     source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -140,123 +130,163 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 9
+    source 0
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 5
+    source 0
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 0
     target 7
     relation "collaborate"
   ]
   edge [
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 8
+    relation "collaborate"
+  ]
+  edge [
     source 2
     target 13
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 2
     target 9
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 9
+    source 2
     target 10
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 14
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 17
     relation "collaborate"
   ]
   edge [
     source 9
-    target 19
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 16
+    source 11
     target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 17
     relation "collaborate"
   ]
 ]

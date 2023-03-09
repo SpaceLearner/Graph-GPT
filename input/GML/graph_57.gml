@@ -1,332 +1,207 @@
 graph [
   node [
     id 0
-    label "C. Greco"
-    affiliation "Dipartimento di Automatica e Informatica, Politecnico di Torino, CENS (Centro Elaborazione Numerale del Segnale  CNR), Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
-    research "MUSMAR approachThe problem, MUSMAR self-tuner, acronym MUSMAR"
+    label "Jianlin Liu"
+    affiliation "Department of Electrical Engineering , University of California, Riverside, USA"
+    research "solid process, mosfet memory, nonvolatile memory application"
   ]
   node [
     id 1
-    label "G. Morrone"
-    affiliation "LAMP (Multimedia Laboratory) COREP and Politecnico di Torino"
-    research "Quick Design, educational interactive multimedia package, educational module"
+    label "D A Belsley"
+    affiliation "University of Salerno Italy and Boston College USA and University of Cyprus Cyprus and Erasmus University Rotterdam The Netherlands and University of Tokyo Japan and University of Washington USA"
+    research "serial correlation, Special Issue, Computational EconometricsEditorial"
   ]
   node [
     id 2
-    label "Karl-E. Grosspietsch"
-    affiliation "EUROMICRO, Sankt Augustin, Germany"
-    research "n-version system, system behavior, fault tolerance"
+    label "S. Ozer"
+    affiliation "Electrical &#38; Electronics Engineering Department, Istanbul University, Avcilar, Istanbul"
+    research "kernel function, Activity Detection, Chebyshev kernel function"
   ]
   node [
     id 3
-    label "Dante Del Corso"
+    label "K. T. Huang"
     affiliation "Nan"
-    research "Microcomputer Busses"
+    research "GaSb growth"
   ]
   node [
     id 4
-    label "P. L. Civera"
-    affiliation "Dipartmento di Elettronica, Politecnico di Torino, Italy"
-    research "proposed approach, VLSI circuit, simulation-based technique"
+    label "L. F. Pau"
+    affiliation "Battelle Memorial Institute, 7 Route de Drize, CH1227 Carouge, Switzerland."
+    research "electrical testing, class probability, Integrated Testing"
   ]
   node [
     id 5
-    label "L. Reyneri"
-    affiliation "Istituto TeCIP, Scuola Superiore Sant'Anna, Ghezzano PI, Italy"
-    research "high resolution, ADC production test, test coverage"
+    label "Hao-Chieh Liu"
+    affiliation "Nan"
+    research "Hg-Cd-Te systemA study, InP p-quantum-well infrared photodetectors, experimental determination"
   ]
   node [
     id 6
-    label "C. Sanso&#232;"
-    affiliation "Politecnico di Torino, Cadence European Labs, Torino, Italy"
-    research "embedded system design, image processing, reactive system"
+    label "Y. T. Wang"
+    affiliation "Bell Laboratories, Holmdel, NJ"
+    research "numerical result, VMS process schedule, VMS time-critical process schedulingThe"
   ]
   node [
     id 7
-    label "G Zappa"
-    affiliation "Nan"
-    research "explicit criterion minimizationRobustness, multipredictor adaptive regulator, positive realness condition"
+    label "Nastaran Baradaran"
+    affiliation "University of Southern California"
+    research "Scalar Replacement, specific data, storage structure"
   ]
   node [
     id 8
-    label "M. Borri"
-    affiliation "Department of Information Engineering, University of Modena and Reggio Emilia, Modena, Italy"
-    research "SQRT strategy, TCP Friendly Rate Control, TCP-friendly congestion"
+    label "P. S. P. Wang"
+    affiliation "Nan"
+    research "courtesy amount block, handprinted courtesy amount, bank check"
   ]
   node [
     id 9
-    label "F Gregoretti"
-    affiliation "Institute of High Performance Computing and Networking ICARCNR, Naples"
-    research "gene expression profile, gene network, gene regulatory network"
+    label "Hans M. Amman"
+    affiliation "Utrecht School of Economics, Utrecht University, Utrecht, The Netherlands 3584 CS"
+    research "Computational Economics, optimal experimentation, stochastic control"
   ]
   node [
     id 10
-    label "Gianni Conte"
-    affiliation "Parco Area delle Scienze, Parma, Italy"
-    research "generalized stochastic Petri net, performance analysis, performance evaluation"
+    label "O. K. Ersoy"
+    affiliation "School of Electrical Engineering, Purdue University, West Lafayette, Indiana"
+    research "input data, correlated data, data point"
   ]
   node [
     id 11
-    label "G. Bruno"
-    affiliation "Nan"
-    research "Hausdorff-Young theorem, periodic function"
+    label "S. D. Lester"
+    affiliation "The Univ. of Texas at Austin, Austin, TX"
+    research "Phosphorus-overpressure rapid thermal annealing, indium phosphideA study, parasitic reaction"
   ]
   node [
     id 12
-    label "M. Tranchero"
-    affiliation "Politecnico di Torino, Dipartimento di Elettronica"
-    research "Simulink model, asynchronous circuit, hybrid simulation framework"
+    label "C. H. Chen"
+    affiliation "Nan"
+    research "fuzzy logic, neural network, nondestructive evaluation"
   ]
   node [
     id 13
-    label "H. D. Kirrman"
+    label "Y. S. Kuo"
     affiliation "Nan"
-    research "process control applicationsMicrocomputer Busses"
+    research "adaptable quad tree technique"
   ]
   node [
     id 14
-    label "Claudio Passerone"
-    affiliation "Politecnico di Torino, Cadence Europeans Labs, Italy"
-    research "embedded system, design methodology, embedded system design"
+    label "K. Lam"
+    affiliation "Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong"
+    research "varicose cylinder, cylinder vibration, three-dimensional wake structure"
   ]
   node [
     id 15
-    label "E Mosca"
-    affiliation "Univ. of Florence, Florence, Italy"
-    research "supervisory control, candidate controller, Min-max predictive control strategy"
+    label "K. P. Hsu"
+    affiliation "National Taiwan Univeristy, Taiwan"
+    research "National Taiwan University Hospital, Information System, Newborn Screening System"
   ]
   node [
     id 16
-    label "E. Ovcin"
-    affiliation "LAMP (Multimedia Laboratory) COREP and Politecnico di Torino"
-    research "educational interactive multimedia package, educational module, Quick Design"
+    label "Gabe Rudy"
+    affiliation "School of Computing, University of Utah, Salt Lake City, UT"
+    research "transformation recipe, CUDA code, transformation program"
   ]
   node [
     id 17
-    label "Philip C Treleaven"
-    affiliation "UK Centre in Financial Computing, London"
-    research "data flow, control flow, Parallel Architectures"
+    label "Hans P. Zima"
+    affiliation "JPL, Pasadena, CA, USA"
+    research "High Performance Fortran, Vienna Fortran, data distribution"
   ]
   node [
     id 18
-    label "G. Menga"
+    label "H&#246;rdur Arnarson"
     affiliation "Nan"
-    research "delivery environment, quick design, quick development"
+    research "computer vision, food handling, syntactic shape classification algorithm"
   ]
   node [
     id 19
-    label "M. Morisio"
+    label "Clement T. Yu"
     affiliation "Nan"
-    research "measurement process"
+    research "adaptive mixed relation decomposition, conjunctive retrieval query"
   ]
   edge [
     source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 12
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 13
+    source 1
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 1
     target 4
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
+    source 2
     target 12
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 14
+    source 4
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 10
+    source 4
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 15
+    source 4
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 4
     target 18
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 5
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 7
     target 12
     relation "collaborate"
   ]
   edge [
     source 8
-    target 14
+    target 12
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 10
+    source 10
+    target 12
     relation "collaborate"
   ]
   edge [
     source 11
-    target 18
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -335,17 +210,32 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 18
+    source 12
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 18
+    source 12
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 18
+    source 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 14
     target 19
     relation "collaborate"
   ]

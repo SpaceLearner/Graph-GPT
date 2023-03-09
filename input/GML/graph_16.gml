@@ -1,132 +1,132 @@
 graph [
   node [
     id 0
-    label "Yue Cui"
-    affiliation "Nan"
-    research "Network SystemA communication model, communication delay, inter-processor communication link"
+    label "K. Baert"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium and IMECHolst Centre, High Tech Campus 48, 5656 AE Eindhoven, The Netherlands"
+    research "MEMS hermetic packaging, new generic surface, microcrystalline silicon germanium"
   ]
   node [
     id 1
-    label "Yung-Chun Wu"
-    affiliation "Innovative Design and Energy Application Laboratory (IDEAL), Department of Aeronautical Engineering, National Formosa University, HuWei, Yunlin, Taiwan, R.O.C."
-    research "phase controller, electronic ballast system, system controller"
+    label "Aykut Avci"
+    affiliation "Center of MicroSystems Technology, Ghent University, Zwijnaarde B9052, Belgium"
+    research "variable pull-in voltage, disparity vector, D frame"
   ]
   node [
     id 2
-    label "Li-Der Chou"
-    affiliation "Dept. of Comput. Sci. &#38; Inf. Eng., Nat. Central Univ., Jhongli, Taiwan"
-    research "mobile social network service, potential care provider, potential impact"
+    label "Liesbet Lagae"
+    affiliation "imec, Heverlee 3001, Belgium and Department of Physics and Astronomy, KU Leuven, Leuven 3000, Belgium"
+    research "gold nanoparticles, LSPR-based biosensor, different oxidation method"
   ]
   node [
     id 3
-    label "Jau-Yien Lee"
+    label "G. Bryce"
     affiliation "Nan"
-    research "WTA neural network, WTA process, iterative WTA net"
+    research "modern application, Mach kernel, application developer"
   ]
   node [
     id 4
-    label "E. Chang"
-    affiliation "Nan"
-    research "prosodic feature, concatenative speech synthesizerThis paper, fluent speech"
+    label "G. Groeseneken"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "gate propagation delay, metal gate, gate intrinsic delay"
   ]
   node [
     id 5
-    label "Kuei-Ann Wen"
-    affiliation "Institute of Electronics, National Chiao Tung University, Taiwan"
-    research "m CMOS process, Polar Modulated CMOS Class-E, simulation result"
+    label "P. Ratchev"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "creep characterization, creep resistant, creep sensitive material"
   ]
   node [
     id 6
-    label "Ming-Yu Lee"
-    affiliation "National Taiwan University of Science and Technology, Taipei 106, Taiwan"
-    research "recommendation system, cold-start problem, proposed recommendation system"
+    label "V. Cherman"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "die structure, Si die, TSV A"
   ]
   node [
     id 7
-    label "Chien-Chao Huang"
-    affiliation "National Nano Device Laboratory, Hsinchu, Taiwan"
-    research "electrical characteristic, PDA time, conventional rapid thermal annealing"
+    label "A. Witvrouw"
+    affiliation "imec, Heverlee 3001, Belgium and Department MTM, KU Leuven, Leuven, Belgium"
+    research "MEMS device, poly-SiGe film, CMOS-integrated MEMS exhibit"
   ]
   node [
     id 8
-    label "Yi-Chun Chen"
-    affiliation "Tatung University, Taipei, Taiwan"
-    research "topic map, topic chain, topic element"
+    label "C. Bruynseraede"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "current crowding, weak spot, Self-aligned multi-level air gap"
   ]
   node [
     id 9
-    label "Chin-Chung Tsai"
-    affiliation "Nan"
-    research "sequential analysis, collaborative inquiry learning, knowledge construction behavior"
+    label "H. Bender"
+    affiliation "IMEC, 75 Kapeldreef, B3001 Leuven, Belgium and KULeuven, EE Department, 94 Kard. Mercierlaan, B3001 Leuven, Belgium"
+    research "various Co-Ni, atomic layer deposition, sidewall damage layer"
   ]
   node [
     id 10
-    label "Rohit Kumar"
-    affiliation "Raytheon BBN Technologies, Cambridge, MA, USA"
-    research "collaborative learning, social capability, exploratory learning environment"
+    label "C. Van Hoof"
+    affiliation "IMEC, Kapeldreef 75, B3001 Leuven, Belgium"
+    research "generic sensor interface chip, autonomous sensor system, biopotential signal"
   ]
   node [
     id 11
-    label "Yeong-Lin Lai"
-    affiliation "Nan"
-    research "T-shaped gate, novel fabrication technique, single-step electron-beam exposure"
+    label "C. Rusu"
+    affiliation "MEMS Group, Imego Inst., Gothenburg, Sweden"
+    research "MEMS device, controlled atmosphere encapsulation, device dimension"
   ]
   node [
     id 12
-    label "Ting-Chang Chang"
-    affiliation "Nan"
-    research "nanowire channel, multigate structure, experimental result"
+    label "R. Gunn"
+    affiliation "Microlelctron., VTT Inf. Technol., Finland"
+    research "MEMS device, controlled atmosphere encapsulation, device dimension"
   ]
   node [
     id 13
-    label "Chien-Hua Hsiao"
-    affiliation "Nan"
-    research "Compound Virtual Field Trip, Actual Field TripThis article, actual field trip"
+    label "Dries Van Thourhout"
+    affiliation "INTEC Department, Ghent University, Ghent, Belgium"
+    research "design method, display system, attenuatorA variable optical attenuator"
   ]
   node [
     id 14
-    label "Yi-Hung Wu"
+    label "R. Puers"
     affiliation "Nan"
-    research "driver route, current ridesharing system, novel approach"
+    research "Biomaterials-Microelectronics Challenge, Orthopedic Implants"
   ]
   node [
     id 15
-    label "Tsai-Yen Li"
-    affiliation "Stanford Univ., Stanford, CA"
-    research "On-line robot motion planning, dynamic environmentsOn-line manipulation planning, path planning"
+    label "Qing Ma"
+    affiliation "Nan"
+    research "Natural Language Processing, NLP application, NLP research"
   ]
   node [
     id 16
-    label "Chien-Liang Liu"
-    affiliation "National Taiwan Normal University"
-    research "fall detection system, prototype system, keyword generation model"
+    label "I. De Wolf"
+    affiliation "Interuniversity Microelectronics Center (IMEC), Kapeldreef 75, 3001 Heverlee, Belgium and Department of Metallurgy and Material Engineering, KU Leuven, Kasteelpark Arenberg 44, B3001 Heverlee, Be ..."
+    research "MEMS device, pore formation, complete Cu"
   ]
   node [
     id 17
-    label "Wei-Ren Chen"
-    affiliation "Department of Mechanical Engineering, Chinese Culture University, Taipei, Taiwan, ROC"
-    research "axial load, Timoshenko beam, spinning axially"
+    label "Henri Jansen"
+    affiliation "Microlelctron., VTT Inf. Technol., Finland"
+    research "MEMS device, black silicon method, device dimension"
   ]
   node [
     id 18
-    label "Chang-Ching Wu"
-    affiliation "University of California, Berkeley"
-    research "analog circuitsEfficient system-level design, analog platform-based design methodology, design decision"
+    label "Donald Adams"
+    affiliation "Nanochip, Inc, United States"
+    research "MEMS memory device, MEMS process, Ultra-high density MEMS probe"
   ]
   node [
     id 19
-    label "Chun-Yen Chang"
-    affiliation "Nan"
-    research "parameter extraction technique, general semiconductor device parameter, model-independent parameter extraction program"
+    label "T. B. Asafa"
+    affiliation "Center of Research Excellence in Renewable Energy, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia."
+    research "intrinsic stress, poly-SiGe film, deposition parameter"
   ]
   edge [
     source 0
-    target 19
+    target 9
     relation "collaborate"
   ]
   edge [
     source 0
-    target 15
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -136,22 +136,22 @@ graph [
   ]
   edge [
     source 1
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 12
+    target 7
     relation "collaborate"
   ]
   edge [
     source 2
-    target 19
+    target 7
     relation "collaborate"
   ]
   edge [
     source 2
-    target 6
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -160,28 +160,43 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 19
+    source 3
+    target 13
     relation "collaborate"
   ]
   edge [
     source 4
-    target 11
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 16
     relation "collaborate"
   ]
   edge [
     source 5
-    target 19
+    target 16
     relation "collaborate"
   ]
   edge [
     source 5
-    target 18
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 14
     relation "collaborate"
   ]
   edge [
     source 6
-    target 19
+    target 7
     relation "collaborate"
   ]
   edge [
@@ -190,33 +205,73 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 19
+    source 7
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 19
+    source 7
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 19
+    source 7
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 7
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 19
+    source 7
+    target 16
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 19
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -225,33 +280,13 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 19
-    relation "collaborate"
-  ]
-  edge [
     source 14
-    target 19
+    target 16
     relation "collaborate"
   ]
   edge [
     source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 17
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 18
-    target 19
+    target 18
     relation "collaborate"
   ]
 ]

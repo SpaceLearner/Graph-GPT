@@ -1,55 +1,64 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:03 2023
 # 
-Hideki Shima	11
-Adam Lally	{'relation': 'collaborate'}
-Takahiro Nishino	{'relation': 'collaborate'}
-Hiroshi Kanayama	{'relation': 'collaborate'}
-Mengqiu Wang	{'relation': 'collaborate'}
-B. K. Boguraev	{'relation': 'collaborate'}
-Teruko Mitamura	{'relation': 'collaborate'}
-Frank Lin	{'relation': 'collaborate'}
-James Fan	{'relation': 'collaborate'}
-J. William Murdock	{'relation': 'collaborate'}
-Satoshi Tanaka	{'relation': 'collaborate'}
-Yusuke Miyao	{'relation': 'collaborate'}
-Takahiro Nishino	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Keiji Yano	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Jorji Nonaka	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Tadanori Mizuno	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Satoshi Tanaka	5
-Shinji Doi	{'relation': 'collaborate'}
-Tsutomu Terada	{'relation': 'collaborate'}
-Hironori Kasahara	{'relation': 'collaborate'}
-T. Suda	{'relation': 'collaborate'}
-Wang Sheng	{'relation': 'collaborate'}
-Tsutomu Terada	0
-Hiroshi Kanayama	2
-Yusuke Miyao	{'relation': 'collaborate'}
-Teruko Mitamura	{'relation': 'collaborate'}
-B. K. Boguraev	3
-James Fan	{'relation': 'collaborate'}
-J. William Murdock	{'relation': 'collaborate'}
-Adam Lally	{'relation': 'collaborate'}
-Shinji Doi	0
-James Fan	2
-J. William Murdock	{'relation': 'collaborate'}
-Adam Lally	{'relation': 'collaborate'}
-Adam Lally	1
-J. William Murdock	{'relation': 'collaborate'}
-Teruko Mitamura	3
-Frank Lin	{'relation': 'collaborate'}
-Yusuke Miyao	{'relation': 'collaborate'}
-Mengqiu Wang	{'relation': 'collaborate'}
-Mengqiu Wang	1
-Frank Lin	{'relation': 'collaborate'}
-T. Suda	0
-Wang Sheng	0
-Hironori Kasahara	0
-Frank Lin	0
-Yusuke Miyao	0
-J. William Murdock	0
+M. Nagashima	7
+H. Nishino	{'relation': 'collaborate'}
+S. Murakami	{'relation': 'collaborate'}
+K. Matsushita	{'relation': 'collaborate'}
+H. Wada	{'relation': 'collaborate'}
+K. Maruyama	{'relation': 'collaborate'}
+T. Saito	{'relation': 'collaborate'}
+T. Okamoto	{'relation': 'collaborate'}
+M. Tanaka	3
+Yoshihiro Miyamoto	{'relation': 'collaborate'}
+H. Nishino	{'relation': 'collaborate'}
+K. Ozaki	{'relation': 'collaborate'}
+T. Okamoto	5
+S. Murakami	{'relation': 'collaborate'}
+T. Saito	{'relation': 'collaborate'}
+K. Maruyama	{'relation': 'collaborate'}
+H. Nishino	{'relation': 'collaborate'}
+H. Wada	{'relation': 'collaborate'}
+H. Wada	8
+Michihiro Hirai	{'relation': 'collaborate'}
+S. Ma	{'relation': 'collaborate'}
+H. Murayama	{'relation': 'collaborate'}
+H. Nishino	{'relation': 'collaborate'}
+T. Saito	{'relation': 'collaborate'}
+K. Matsushita	{'relation': 'collaborate'}
+K. Maruyama	{'relation': 'collaborate'}
+S. Murakami	{'relation': 'collaborate'}
+T. Saito	3
+K. Maruyama	{'relation': 'collaborate'}
+S. Murakami	{'relation': 'collaborate'}
+H. Nishino	{'relation': 'collaborate'}
+H. Murayama	0
+T. Maruyama	1
+T. Fujimura	{'relation': 'collaborate'}
+T. Nakagawa	3
+T. Fujimura	{'relation': 'collaborate'}
+S. Okuda	{'relation': 'collaborate'}
+H. Nishino	{'relation': 'collaborate'}
+H. Nishino	7
+T. Fujimura	{'relation': 'collaborate'}
+Yoshihiro Miyamoto	{'relation': 'collaborate'}
+S. Naka	{'relation': 'collaborate'}
+K. Maruyama	{'relation': 'collaborate'}
+S. Murakami	{'relation': 'collaborate'}
+S. Okuda	{'relation': 'collaborate'}
+K. Ozaki	{'relation': 'collaborate'}
+K. Matsushita	0
+S. Murakami	1
+K. Maruyama	{'relation': 'collaborate'}
+S. Ma	0
+K. Maruyama	0
+Yoshihiro Miyamoto	1
+K. Ozaki	{'relation': 'collaborate'}
+K. Ozaki	0
+M. Kamimura	1
+T. Fujimura	{'relation': 'collaborate'}
+S. Okuda	1
+T. Fujimura	{'relation': 'collaborate'}
+T. Fujimura	0
+Michihiro Hirai	0
+S. Naka	0

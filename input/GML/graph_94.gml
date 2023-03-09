@@ -1,152 +1,127 @@
 graph [
   node [
     id 0
-    label "L. Vergara"
-    affiliation "ETSITCamino de Vera s/n, 46023 Valencia, Spain"
-    research "ultrasonic signal, ICA mixture, independent component analysis"
+    label "Carine Hue"
+    affiliation "IRISA, Rennes I Univ."
+    research "particle filter, multiple object, multiple target"
   ]
   node [
     id 1
-    label "Francklin Rivas"
-    affiliation "Laboratorio de Sistemas Inteligentes, Universidad de Los Andes, Facultad de Ingenier&#237;a, M&#233;rida, Venezulea"
-    research "oil well, neural network, control system"
+    label "O. Tr&#233;mois"
+    affiliation "CNRS, IRISA, Rennes, France"
+    research "optimality principle, source motion parameter, Phase-only multidimensional spatio-temporal analysis"
   ]
   node [
     id 2
-    label "V. Naranjo"
+    label "Emmanuel Veneau"
     affiliation "Nan"
-    research "H.264 low delay video, low delay condition, real-time coders"
+    research "image analysis function, video analysis, Image Feature Extraction"
   ]
   node [
     id 3
-    label "P. Bernabeu"
-    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
-    research "source separation problem, statistical knowledge, posteriori estimate"
+    label "Nicolas Papadakis"
+    affiliation "Image Group, Barcelona Media, Barcelona, Spain"
+    research "image sequence, stereo image, meteorological satellite image sequence"
   ]
   node [
     id 4
-    label "Ana Cabrera"
-    affiliation "Museo Nacional de Artes Decorativas, Madrid, Spain"
-    research "intelligent complex event processing, adaptive augmented reality, Augmented Reality"
+    label "&#201;ric Anquetil"
+    affiliation "INSA de Rennes, France"
+    research "recognition system, handwritten character recognition system, recognition process"
   ]
   node [
     id 5
-    label "Antonio Soriano"
-    affiliation "IFIC, Centro mixto CSICUniv. de Valencia, Edificio Institutos de Investigaci&#243;n, Paterna, E46071 Valencia, Spain"
-    research "clinical decision support system, genetic algorithm, large system"
+    label "Aur&#233;lie Bugeau"
+    affiliation "Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain"
+    research "stereo image, tracked object, energy function"
   ]
   node [
     id 6
-    label "Jorge Gosalbez"
-    affiliation "Departamento de Communicaciones, Universidad Politecnica de Valencia, Cno. de Vera s/n, Valencia 46022, Spain"
-    research "independent component analysis, optimum detector, prewhitened signal gating"
+    label "R&#233;mi Ronfard"
+    affiliation "INRIA/LJK, Grenoble, France"
+    research "extremal contour, kinematic model, model people"
   ]
   node [
     id 7
-    label "J. Sastre"
-    affiliation "Instituto de Telecomunicaciones y Aplicaciones Multimedia"
-    research "variable frame rate, H.264 rate control, H.264 rate control algorithm"
+    label "A. Chessel"
+    affiliation "INRIA Centre Rennes  Bretagne Atlantique, Rennes and  Cell and Tissue Imaging Facility   IBISA, Institut Curie, Paris"
+    research "biological structure, additive image, coherent scalar image interpolation"
   ]
   node [
     id 8
-    label "J. Morales"
-    affiliation "Operations Research Center, Miguel Hern&#225;ndez University, 03202 Elche, Spain"
-    research "conditional distribution, approximate conditional predictive distributionsSampling, frequentist conditional testing"
+    label "Roger Mohr"
+    affiliation "Unite d'Enseignement et de Recherche Sciences Mathematiques, Universit&#233; de Nancy, Nancy, France."
+    research "arbitrary shaped volume, intrinsic volume property, Packing Volumes"
   ]
   node [
     id 9
-    label "Soledad Gomez"
-    affiliation "Institute of Telecommunications and Multimedia Applications (ITEAM), Polytechnical University of Valencia, Spain"
-    research "infrared image processing, false alarm, image processing"
+    label "P. Perez"
+    affiliation "Patrick.Perez@thomson.net"
+    research "digital image, geometric sketch, efficient algorithm"
   ]
   node [
     id 10
-    label "Sebastian Provenzano"
-    affiliation "Escuela de Ingenier&#237;a Mec&#225;nica, Universidad de Los Andes, Facultad de Ingenier&#237;a, M&#233;rida, Venezulea"
-    research "smooth solution, effectiveness index, neural network"
+    label "Jean-Pierre Le Cadre"
+    affiliation "IRISA, Rennes, France"
+    research "source motion parameter, target motion analysis, observer trajectory"
   ]
   node [
     id 11
-    label "Jorge Igual"
-    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
-    research "atrial signal, atrial activity, atrial component"
+    label "Alexandre Hervieu"
+    affiliation "Centre RennesBretagne Atlantique, Campus Univ. de Beaulieu, Rennes"
+    research "stereo image, temporal causality, novel method"
   ]
   node [
     id 12
-    label "Areti Damala"
-    affiliation "Centre de et M&#233;tiers, Paris, France"
-    research "AR system, adaptive augmented reality, mobile multimedia guide"
+    label "Pau Gargallo"
+    affiliation "Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain"
+    research "depth map, input image, specular surface"
   ]
   node [
     id 13
-    label "Jorge Moragues"
-    affiliation "Departamento de Comunicaciones, Universidad Polit&#233;cnica de Valencia, E46022 Valencia, Spain"
-    research "background noise, unknown signal, false alarm"
+    label "Bertrand Co&#252;asnon"
+    affiliation "INSA, Rennes and UMR, IRISA, Rennes and Universit&#233; Europ&#233;enne de Bretagne, France"
+    research "structured document recognition, document structure recognition, recognition system"
   ]
   node [
     id 14
-    label "F. J. Fuenmayor"
-    affiliation "Departamento de Ingenier&#237;a Mec&#225;nica y de Materiales, Universidad Polit&#233;cnica de Valencia, Camino de Vera s/n, E46022 Valencia, Spain"
-    research "finite element evaluation, discretization error, error estimator"
+    label "Fr&#233;d&#233;ric Dambreville"
+    affiliation "DGA, 16 bis avenue prieur de la C&#244;te d'or, 94114 Arcueil, France"
+    research "bilevel search planning, multisensor multizone search, multizone multisensor search planning"
   ]
   node [
     id 15
-    label "Kiel M Gilleade"
-    affiliation "Liverpool John Moores University, Liverpool, United Kingdom"
-    research "VoodooIO gaming kit, appropriable gaming device, gaming controller"
+    label "Alain Lehmann"
+    affiliation "IRISA, INRIA, Rennes Cedex, France"
+    research "video segment, real video sequence, computed local feature"
   ]
   node [
     id 16
-    label "Raul Llinares"
-    affiliation "Departamento de Comunicaciones, Universidad Politecnica de Valencia, Pza. Ferrandiz y Carbonell 1, CP 03801, Alcoy, Spain"
-    research "atrial signal, atrial activity, atrial component"
+    label "V. Caselles"
+    affiliation "Nan"
+    research "Hamilton-Jacobi equation, one-space variable, scalar conservation law"
   ]
   node [
     id 17
-    label "Andres Camacho"
-    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
-    research "atrial activity, atrial signal, source separation problem"
+    label "R. Venkatehs Babu"
+    affiliation "Center for Quantifiable Quality of Service in Commun. Syst., Trondheim, Norway"
+    research "MS tracker, visual tracking, partial occlusion"
   ]
   node [
     id 18
-    label "Arturo Serrano"
-    affiliation "Nan"
-    research "video signal, Cross-Layer Design, Videoconferencing Applications"
+    label "P Bouthemy"
+    affiliation "IRISA / INRIA Rennes Campus Universitaire de Beaulieu, Rennes, France 35042"
+    research "motion model, camera motion, motion detection"
   ]
   node [
     id 19
-    label "A. Rodr&#237;guez"
-    affiliation "Nan"
-    research "Si1-xGex layer, growth temperature, layer composition"
+    label "Marc Boulle"
+    affiliation "Orange Labs, Lannion, France"
+    research "data preparation, discrete data, functional data"
   ]
   edge [
     source 0
     target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 8
     relation "collaborate"
   ]
   edge [
@@ -156,47 +131,7 @@ graph [
   ]
   edge [
     source 0
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 2
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 1
-    relation "collaborate"
-  ]
-  edge [
-    source 0
     target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
     relation "collaborate"
   ]
   edge [
@@ -206,12 +141,12 @@ graph [
   ]
   edge [
     source 2
-    target 7
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 17
+    source 2
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -220,33 +155,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 13
+    source 3
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 3
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 12
     relation "collaborate"
   ]
   edge [
     source 4
-    target 15
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 4
     target 13
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 5
     target 16
     relation "collaborate"
   ]
   edge [
-    source 6
+    source 5
     target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -255,13 +205,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 13
+    source 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 18
     relation "collaborate"
   ]
   edge [
     source 9
-    target 13
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 17
     relation "collaborate"
   ]
   edge [
@@ -270,43 +235,48 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 10
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 18
+    relation "collaborate"
+  ]
+  edge [
     source 11
     target 16
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
     source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 13
+    target 16
     relation "collaborate"
   ]
   edge [
     source 13
-    target 15
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 16
+    source 15
     target 18
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 17
+    target 18
     relation "collaborate"
   ]
 ]

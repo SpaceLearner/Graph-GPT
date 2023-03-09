@@ -1,127 +1,147 @@
 graph [
   node [
     id 0
-    label "Sunil R Das"
-    affiliation "TechnionIsrael Institute of Technology, Faculty of Industrial Engineering and Management, Technion City, Haifa 32000, Israel"
-    research "mobile agent, black hole search problem, rendezvous problem"
+    label "Rob Walstrom"
+    affiliation "Iowa State University, Ames"
+    research "wearable computer, interaction device, embedded computer system"
   ]
   node [
     id 1
-    label "Ning Zhang"
-    affiliation "Nan"
-    research "universality class, CF method, novel method"
+    label "Mats P. E. Heimdahl"
+    affiliation "University of Minnesota Software Engineering Center"
+    research "test suite, software system, test case"
   ]
   node [
     id 2
-    label "Timothy Kusky"
-    affiliation "China University of Geosciences, Wuhan, 430074, Hubei Province, China"
-    research "groundwater occurrence, high groundwater potential zone, SFZ aquifers"
+    label "E. S. Wurtele"
+    affiliation "Iowa State University  Ames, IA 50011, USA"
+    research "metabolic network, experimental data, biological data"
   ]
   node [
     id 3
-    label "Chuan Jin"
-    affiliation "Nan"
-    research "Extended XinpaiIn order, Multi-agent Process Coordination, region segmentation operator"
+    label "Carolina Cruz-Neira"
+    affiliation "Louisiana Immersive Techonologies Entreprise, Lafayette, LA"
+    research "virtual reality, virtual world, VR Juggler"
   ]
   node [
     id 4
-    label "J. Li"
-    affiliation "Nan"
-    research "estimation step, frequency estimator, high-order Yule-Walker"
+    label "Diane Rover"
+    affiliation "Iowa State University, Department of Electrical and Computer Engineering, Coover Hall, Ames, IA"
+    research "performance visualization, performance information, performance evaluation"
   ]
   node [
     id 5
-    label "Yang Hong"
-    affiliation "School of Civil Engineering and Environmental Sciences, University of Oklahoma, Norman, OK, USA"
-    research "actual ET, daily ET bias, estimated ET"
+    label "Jayme Hero"
+    affiliation "Iowa State University, Ames"
+    research "wearable computer, interaction device, computer gaming"
   ]
   node [
     id 6
-    label "Coskun Bayrak"
-    affiliation "S. University Avenue, Little Rock, AR"
-    research "data source, data administrator, data integration gap"
+    label "Ming Jia"
+    affiliation "Nan"
+    research "up-link direction, adaptive connection admission, adaptive power control"
   ]
   node [
     id 7
-    label "E. Chow"
-    affiliation "Nan"
-    research "object-oriented database management system, object-oriented database management systemIRIS, IRIS DBMSIRIS"
+    label "Thomas Rietz"
+    affiliation "Department of Finance, Henry B. Tippie College of Business, University of Iowa, Iowa City, Iowa 522421000, USA. <rfc822>ThomasRietz@uiowa.edu</rfc822>"
+    research "external non-textual time series, time series data, prediction market"
   ]
   node [
     id 8
-    label "Voicu Groza"
-    affiliation "University of Ottowa"
-    research "pulse rate variability, short duration oscillometric blood, SIMD intrinsics"
+    label "Shaozhi Ye"
+    affiliation "Nan"
+    research "CF application, centralized web site recommender, recommender system prototype"
   ]
   node [
     id 9
-    label "Altaf Hossain"
-    affiliation "University of Ottawa, Ottawa, ON, Canada"
-    research "single stuck-line fault, embedded cores-based system-on-chips, combinational benchmark circuit"
+    label "Ruolin Liu"
+    affiliation "Nan"
+    research "Garden Landscape Design, landscape plants elaborately, reasonable landscape division"
   ]
   node [
     id 10
-    label "L. Wang"
+    label "Tian Xia"
     affiliation "Nan"
-    research "fast implementation, spectral nested dissection"
+    research "Time-Dependent Ultimate Bearing Capacity, empirical method, driven pile"
   ]
   node [
     id 11
-    label "L. Zhu"
+    label "Wengang Zhou"
     affiliation "Nan"
-    research "smoke detection, Gaussian color model, Kalman Filter"
+    research "central point, data point, potential WLAN hot point"
   ]
   node [
     id 12
-    label "Q. Qin"
-    affiliation "Institute of Remote Sensing and GIS, Peking University, Beijing 100871, China"
-    research "real-time drought indicator, shortwave infrared drought index, drought index"
+    label "Robert Forsythe"
+    affiliation "The University of Iowa, Iowa City, IA"
+    research "common knowledge, common knowledge assumption, common knowledgeIn"
   ]
   node [
     id 13
-    label "Mansour H. Assaf"
-    affiliation "School of Information Technology and Engineering, Faculty of Engineering, University of Ottawa, Ottawa, ON, Canada"
-    research "built-in self-testing, subject paper, architectural design"
+    label "Andy W. Fulmer"
+    affiliation "Miami Valley Labs, Procter &#38; Gamble  PO Box 538707, Cincinnati, OH 452538707, USA"
+    research "PubMed Assistant, gene expression data, Supplementary information"
   ]
   node [
     id 14
-    label "Weihui Dai"
-    affiliation "Nan"
-    research "emergency supply, Emergency Rescue, emergency management"
+    label "B Kosko"
+    affiliation "Verac Inc., 9605 Scranton Road, San Diego, CA 92121."
+    research "fuzzy system, noise benefit, additive fuzzy system"
   ]
   node [
     id 15
-    label "Weidong Zhao"
-    affiliation "Hebei University, Baoding, China"
-    research "D-S Evidence, detection efficiency, false negative rate"
+    label "Feng Chen"
+    affiliation "College of Chemical Engineering and Materials Science, Zhejiang University of Technology, Hangzhou, China"
+    research "methyl methacrylate, PMMA-based GPE, comprehensive property"
   ]
   node [
     id 16
-    label "E. M. Petriu"
-    affiliation "Nan"
-    research "advanced control engineering, advanced control strategy, control structure"
+    label "Hyun Mun Kim"
+    affiliation "Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA"
+    research "FBF network, numerical data, RBF network"
   ]
   node [
     id 17
-    label "Lu Liu"
-    affiliation "WalmartLabs"
-    research "fast data, big data, sensor data stream"
+    label "Robert Weber"
+    affiliation "Nan"
+    research "Clinical Study, Handheld-based Data Collection"
   ]
   node [
     id 18
-    label "Zhao-Liang Li"
-    affiliation "LSIIT, UdS, CNRS, 67412, Illkirch, France"
-    research "AIRS data, AIRS L2 LST product, AIRS-estimated LST"
+    label "Pan Du"
+    affiliation "Robert H. Lurie Comprehensive Cancer Center, Northwestern University  Chicago, IL 60611, USA"
+    research "peak detection, Illumina microarray, genetic network"
   ]
   node [
     id 19
-    label "Mehmet Sahinoglu"
-    affiliation "Auburn University, Montgomery"
-    research "Behavioral Model, different testing phase, software failure"
+    label "Julie A. Dickerson"
+    affiliation "Dept. of Electr. Eng.Syst., Univ. of Southern California, Los Angeles, CA, USA"
+    research "metabolic network, biological data, experimental data"
   ]
   edge [
     source 0
-    target 13
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 4
     relation "collaborate"
   ]
   edge [
@@ -130,23 +150,13 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 1
     target 17
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 5
+    source 2
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -156,27 +166,17 @@ graph [
   ]
   edge [
     source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 14
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -186,22 +186,42 @@ graph [
   ]
   edge [
     source 3
-    target 16
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
     relation "collaborate"
   ]
   edge [
     source 4
-    target 10
+    target 15
     relation "collaborate"
   ]
   edge [
     source 4
-    target 12
+    target 17
     relation "collaborate"
   ]
   edge [
     source 4
-    target 11
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
     relation "collaborate"
   ]
   edge [
@@ -211,7 +231,17 @@ graph [
   ]
   edge [
     source 5
-    target 12
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 8
     relation "collaborate"
   ]
   edge [
@@ -221,62 +251,32 @@ graph [
   ]
   edge [
     source 7
-    target 19
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 10
+    source 7
     target 12
     relation "collaborate"
   ]
   edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 19
+    relation "collaborate"
+  ]
+  edge [
     source 10
-    target 11
+    target 19
     relation "collaborate"
   ]
   edge [
     source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -290,17 +290,42 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 16
+    source 14
+    target 19
     relation "collaborate"
   ]
   edge [
     source 14
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 15
     target 15
     relation "collaborate"
   ]
   edge [
+    source 15
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 19
+    relation "collaborate"
+  ]
+  edge [
     source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 17
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 18
     target 19
     relation "collaborate"
   ]

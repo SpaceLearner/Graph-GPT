@@ -1,217 +1,202 @@
 graph [
   node [
     id 0
-    label "James H. Morris"
+    label "Lianyu Zhao"
     affiliation "Nan"
-    research "Program change, selective recompilation"
+    research "Free web, web page, censorship-resistant web"
   ]
   node [
     id 1
-    label "Greg Hager"
-    affiliation "<affil/>"
-    research "visual tracking, image region, ultrasound image"
+    label "Jianzhong Cui"
+    affiliation "Key Laboratory of Electromagnetic Processing of Materials, Ministry of Education, Northeastern University, Shenyang 110004, Liaoning, China"
+    research "copper film, organic coating, AZ31 magnesium alloy"
   ]
   node [
     id 2
-    label "Sebastian B. Thrun"
-    affiliation "Dept. of Computer Science III, University of Bonn, Bonn, Germany"
-    research "mobile robot, real robot, mobile robot navigation"
+    label "Tao Zhang"
+    affiliation "Nan"
+    research "system model, conditional transition system, Real-Time System"
   ]
   node [
     id 3
-    label "Charles J. Prenner"
-    affiliation "University of California, Berkeley, California"
-    research "increased instructional utilization, inexpensive interactive system, instructional computer system"
+    label "Zhi-Chun Li"
+    affiliation "School of Economics and Management, Beijing University of Aeronautics and Astronautics, Beijing, China"
+    research "Fixed-Point model, schedule reliability, network service level"
   ]
   node [
     id 4
-    label "M. P. Mullen"
-    affiliation "IBM Systems and Technology Group, 522 South Road, Poughkeepsie, New York"
-    research "perceptual structure, input device, control structure"
+    label "Caiming Liu"
+    affiliation "Laboratory of Intelligent Information Processing and Application, Leshan Normal University, Leshan, China"
+    research "self space, variable-sized self radius, variable-sized self radiusNegative selection"
   ]
   node [
     id 5
-    label "Daphne Koller"
-    affiliation "Stanford University"
-    research "rich representation, coherent object model, latent variables model"
+    label "Huaqiang Zhang"
+    affiliation "Nan"
+    research "Port ProjectSanchaji Bridge, Sanchaji Bridge, Hinterland Segmentation"
   ]
   node [
     id 6
-    label "Sheila A. Greibach"
-    affiliation "Air Force Cambridge Research Laboratories, Office of Aerospace Research, USAF, Bedford, Massachusetts, USA and Air Force Office of Scientific Research, Office of Aerospace Research, USAF, Arlingto ..."
-    research "context-free language, full AFL, abstract family"
+    label "Minhyuk Chang"
+    affiliation "Dept of Information &#38; Communications Engineering, Chosun University, Gwangju, Korea"
+    research "Image Retrieval, histogram refinement method, Maximal Eigenvalues"
   ]
   node [
     id 7
-    label "D. G. Bair"
-    affiliation "IBM Systems and Technology Group, 522 South Road, Poughkeepsie, New York"
-    research "functional verification, z196 system, G4 systemFunctional verification"
+    label "Huiqing Zhang"
+    affiliation "College of Electronic Information and Control Engineering, Beijing University of Technology, Beijing, China"
+    research "Fermentation ProcessesThe SVM need, generalization capability, modeling process demand"
   ]
   node [
     id 8
-    label "Oscar H. Ibarra"
-    affiliation "Nan"
-    research "APDCM Introduction"
+    label "Zongxia Xie"
+    affiliation "Harbin Institute of Technology, Power Engineering, 150001, Heilongjiang Province, PR China"
+    research "base classifier, classification accuracy, boundary sample"
   ]
   node [
     id 9
-    label "Yuan Lu"
-    affiliation "Coding and Communication Security Laboratory, Department of Electronic Engineering Shanghai Jiaotong University, Shanghai, People's Republic of China"
-    research "new scheme, wireless network, QKD technique"
+    label "Hui Zhao"
+    affiliation "Nan"
+    research "alarm rate, false alarm rate, fault prediction method"
   ]
   node [
     id 10
-    label "J. Mitchell"
+    label "Wenwen Li"
     affiliation "Nan"
-    research "intense vortex"
+    research "Asymmetrical Six-phase Permanent Magnet, Multi-motor series-connected system, multi-motor system"
   ]
   node [
     id 11
-    label "Daphne Roller"
-    affiliation "Computer Science Division, University of California, Berkeley, Berkeley, CA"
-    research "representation dependence, latent variable, data case"
+    label "Youjun Yue"
+    affiliation "Nan"
+    research "compound gradient vector, convergent analysis, convergent performance"
   ]
   node [
     id 12
-    label "Ben Wegbreit"
-    affiliation "CEO Strider Labs Inc, Palo Alto, USA"
-    research "programming language, data type, scene model"
+    label "Weixian Wang"
+    affiliation "Nan"
+    research "alarm rate, false alarm rate, fault prediction method"
   ]
   node [
     id 13
-    label "Tom Cheatham"
-    affiliation "University of Utah, Salt Lake City, Utah"
-    research "programming language, extensible language, language facility"
+    label "Pu Wang"
+    affiliation "Department of management, Naval University of Engineering, Wuhan, China"
+    research "MOGA scheduling scheme, complex job scheduling scenario, multi-objective genetic algorithmJob scheduling"
   ]
   node [
     id 14
-    label "Joseph Y. Halpern"
+    label "Aijun Yan"
     affiliation "Nan"
-    research "Judea Pearl, Judea PearlThe field, David Heckerman"
+    research "alarm rate, false alarm rate, fault prediction method"
   ]
   node [
     id 15
-    label "Ronald V. Book"
-    affiliation "Harvard University"
-    research "pushdown store, tape-bounded Turing acceptors, linear context-free language"
+    label "Jing Luo"
+    affiliation "Nan"
+    research "cardiac hypertrophy, Myocardin-Related Transcription Factor-A, cardiac hypertrophic-special genes expression"
   ]
   node [
     id 16
-    label "Michael Montemerlo"
-    affiliation "Stanford AI Lab, Stanford University"
-    research "simultaneous localization, autonomous robot, robot path"
+    label "Yuanrui Zhang"
+    affiliation "Peking University"
+    research "low scatternet formation latency, network topology, present BluePower"
   ]
   node [
     id 17
-    label "S. M. German"
-    affiliation "Xerox Palo Alto Research Center, Palo Alto, California"
-    research "propositional variable, Mealy machine, PO reduction"
+    label "Chunxiao Zhang"
+    affiliation "Nan"
+    research "Asymmetrical Six-phase Permanent Magnet, Multi-motor series-connected system, multi-motor system"
   ]
   node [
     id 18
-    label "Jay M. Spitzen"
-    affiliation "Center for Research in Computing Technology"
-    research "backtracking primitive, programming language, programming languagesPrimitive operation"
+    label "Xingwei Liu"
+    affiliation "Nan"
+    research "PlanetLab data, data assignment, P2PVoD SystemIn"
   ]
   node [
     id 19
-    label "Daniel G. Bobrow"
-    affiliation "KRL Research Group"
-    research "virtual copy, Common LISP object system, LISP system"
+    label "Haidong Zhong"
+    affiliation "Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, China"
+    research "geospatial processing service, RS image, GIS project"
   ]
   edge [
     source 0
-    target 12
+    target 9
     relation "collaborate"
   ]
   edge [
     source 1
-    target 12
+    target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 16
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 2
+    source 3
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 5
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 5
     target 17
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
     source 5
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
+    target 10
     relation "collaborate"
   ]
   edge [
     source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
+    target 9
     relation "collaborate"
   ]
   edge [
     source 7
-    target 17
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 14
     relation "collaborate"
   ]
   edge [
     source 8
-    target 15
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 12
+    source 9
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -220,23 +205,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
+    source 9
     target 14
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 16
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -245,37 +230,22 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 12
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 13
-    target 19
+    target 14
     relation "collaborate"
   ]
   edge [
     source 14
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 15
     target 17
     relation "collaborate"
   ]

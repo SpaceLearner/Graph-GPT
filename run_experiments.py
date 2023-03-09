@@ -47,13 +47,17 @@ def main(config, seed=0):
         prefix  = "./input/GML"
         reader  = nx.read_gml
         postfix = ".gml"
+    elif config.format == "GraphML":
+        prefix  = "./input/GraphML"
+        reader  = nx.read_graphml
+        postfix = ".graphml"
     elif config.format == "EdgeList":
-        prefix = "./input/EdgeList"
-        reader = partial(nx.read_edgelist, delimiter="\t")
+        prefix  = "./input/EdgeList"
+        reader  = partial(nx.read_edgelist, delimiter="\t")
         postfix = ".edgelist"
     elif config.format == "AdjList":
-        prefix = "./input/AdjList"
-        reader = partial(nx.read_adjlist,  delimiter="\t")
+        prefix  = "./input/AdjList"
+        reader  = partial(nx.read_adjlist,  delimiter="\t")
         postfix = ".adjlist"
     
     example = ""
@@ -83,7 +87,7 @@ def main(config, seed=0):
                 # precisions = []
                 question = question_head
                 if config.change_order:
-                    data["prompt"] = instructer + example + question + tail + graph 
+                    data["prompt"] = instructer + question + example  + tail + graph 
                 else:
                     data["prompt"] = instructer + graph + example + question + tail
                 print(example + question + tail)

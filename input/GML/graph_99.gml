@@ -1,127 +1,172 @@
 graph [
   node [
     id 0
-    label "Meng Xiaofeng"
-    affiliation "Beijing University of Aeronautics and Astronautics, China"
-    research "proposed method, Monte-Carlo simulation, HTML page"
+    label "G. W. Wei"
+    affiliation "Nan"
+    research "B-spline Lagrange wavelet, Gaussian Lagrange, Halfband Lagrange wavelet"
   ]
   node [
     id 1
-    label "Lixin Zhen"
-    affiliation "School of Mechanical Engineering, Xi'an Jiaotong University, 710049 Xi'an, China"
-    research "proposed method, Chinese character, new method"
+    label "Donald J. Kouri"
+    affiliation "University of Houston, Houston, TX"
+    research "new class, new family, encouraging result"
   ]
   node [
     id 2
-    label "Wang Lu"
+    label "Yanqiu Wang"
     affiliation "Nan"
-    research "Parallel Algorithm, Salient Features Extraction, real-time requirement"
+    research "triangle node, category recognition, Category Recognition System"
   ]
   node [
     id 3
-    label "Liang Hong"
-    affiliation "Nan"
-    research "local ontology, global ontology, ontology similarity algorithm"
+    label "Jiangguo Liu"
+    affiliation "liu@math.colostate.edu"
+    research "numerical experiment, numerical result, Eulerian-Lagrangian localized adjoint method"
   ]
   node [
     id 4
-    label "Liu Wenyin"
-    affiliation "College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai, China"
-    research "proposed method, experimental result, user interface"
+    label "Lin Mu"
+    affiliation "School of Mechanical Engineering, Dalian Jiaotong University, Dalian, China"
+    research "anchoring packaging machine, parametric design, design efficiency"
   ]
   node [
     id 5
-    label "Yafeng Wu"
-    affiliation "Nan"
-    research "Event-Based Location Dependent Data, Event-based Location Dependent Query, aggregate data"
+    label "Y. C. Zhou"
+    affiliation "Department of Mathematics, Michigan State University, East Lansing, MI"
+    research "MIB method, proposed method, high order"
   ]
   node [
     id 6
-    label "Jiaheng Lu"
-    affiliation "Key Laboratory of the Ministry of Education for Data Engineering and Knowledge Engineering, Renmin University of China, Beijing, China 100872 and School of Information, Renmin University of China, ..."
-    research "query processing, dimension table, efficient query processing"
+    label "Xiu Ye"
+    affiliation "College of Computer Science and Engineering, State Key Lab of CAD/CG, Zhejiang University, 310027 Hangzhou, China"
+    research "point set surface, prototype system, geometry image"
   ]
   node [
     id 7
-    label "Fan Junhui"
-    affiliation "School of Management Studies, Shanghai University of Engineering Science, Shanghai, China"
-    research "Multilevel Extensive Comprehensive Evaluation, High-End Equipment Manufacturing Industry, comprehensive evaluation"
+    label "Weizhu Bao"
+    affiliation "bao@math.nus.edu.sg"
+    research "numerical method, random projection method, accurate numerical method"
   ]
   node [
     id 8
-    label "Zhu Yonghua"
+    label "Qiuying Zheng"
     affiliation "Nan"
-    research "critical node, Intelligent Q, sensor node"
+    research "customer satisfaction, service industry, service provider"
   ]
   node [
     id 9
-    label "Zhihao Li"
-    affiliation "Wuhan University, China"
-    research "Context-aware social media recommendation, CPG mining, potential groupData recommendation"
+    label "Yang Wang"
+    affiliation "Department of Computer Science and Engineering, New Mexico Institute of Mining and Technology, Socorro, NM"
+    research "android permission, benign apps, quantitative security risk assessment"
   ]
   node [
     id 10
-    label "Zhang Qian"
+    label "Junping Wang"
     affiliation "Nan"
-    research "encryption scheme, encryption effect, DES encryption algorithm"
+    research "Multi-Objective Optimization version, Multi-objective Optimization Problems, Optimization Problem"
   ]
   node [
     id 11
-    label "Zhiyong Peng"
-    affiliation "IEEE"
-    research "Object Deputy Model, data source, multi-owner privacy data"
+    label "Weihong Guo"
+    affiliation "Department of Mathematics, University of Alabama, Tuscaloosa, USA 35487"
+    research "spatially variant noise, MRI image, noise distribution"
   ]
   node [
     id 12
-    label "Pan ShunHong"
-    affiliation "Nan"
-    research "critical node, sensor node, virtual laboratory environment"
+    label "Decheng Wan"
+    affiliation "School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University, Huashan Road 1954, 200030 Shanghai, China"
+    research "elliptic interface problem, interface method, mesh method"
   ]
   node [
     id 13
-    label "Li GuoQing"
-    affiliation "China Remote Sensing Satellite Ground Station, China"
-    research "water area, On-Demand Computation Framework, Water Area Extraction"
+    label "Meng Zhan"
+    affiliation "Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, Wuhan 430071, China"
+    research "elliptic interface problem, interface method, elliptic equation"
   ]
   node [
     id 14
-    label "Youhui Zhang"
-    affiliation "Tsinghua Univ., Beijing, P.R. China"
-    research "Windows NT, object-based storage device, real storage position"
+    label "Yuan Peng"
+    affiliation "Nan"
+    research "machine setup time, whole production time, Optimization Algorithm"
   ]
   node [
     id 15
-    label "Yi Pan"
-    affiliation "Nan"
-    research "previous ACCs, Anti-Collusion Codes, collusion attack"
+    label "M. G. Milanova"
+    affiliation "Computer Science Departmentt, UALR, USA"
+    research "new method, image representation, new approach"
   ]
   node [
     id 16
-    label "Di He"
-    affiliation "State Key Laboratory of Softeware Engineering, Wuhan University Computer School, Wuhan University, China"
-    research "community reputation, overall reputation, reputation model"
+    label "B. Patnaik"
+    affiliation "Department of Applied Mechanics, Indian Institute of Technology Madras, India"
+    research "modulation format, modified DPD scheme, symmetrical dispersion compensation scheme"
   ]
   node [
     id 17
-    label "Liwei Wang"
-    affiliation "The Chinese University of Hong Kong, Hong Kong"
-    research "classical Bayesian face, classical Bayesian face recognition, classical Bayesian method model"
+    label "Zhenhai Shao"
+    affiliation "Wireless Communication Laboratory, National Institute of Information and Communication Technology of Japan, #018A/10 TeleTech Park, Singapore 117674"
+    research "hybrid circuit, improved FDTD formulation, improved matrix-type FDTD method"
   ]
   node [
     id 18
-    label "Shi Jin"
-    affiliation "University College London, United Kingdom and National Mobile Communications Research Laboratory, Southeast University, Nanjing, P.R. China"
-    research "ergodic capacity, MIMO channel, sum capacity"
+    label "Shan Zhao"
+    affiliation "Xidian University"
+    research "high order, proposed method, MIB method"
   ]
   node [
     id 19
-    label "Yan-Qing Zhang"
-    affiliation "Nan"
-    research "BioinformaticsMachine Learning, Computational Biology, Computational Intelligence Approaches"
+    label "N. A. Baker"
+    affiliation "Department of Biochemistry and Molecular Biophysics, Center for Computational Biology, Washington University in St Louis, St Louis, MO 63110, USA"
+    research "Saccharomyces cerevisiae genome, Saccharomyces cerevisiae genomeSummary, structural prediction"
+  ]
+  edge [
+    source 0
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 5
+    relation "collaborate"
   ]
   edge [
     source 0
     target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -130,68 +175,33 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 2
+    source 0
     target 12
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 8
+    source 0
+    target 1
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 0
     target 11
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 2
     target 6
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 2
     target 10
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
+    source 2
+    target 4
     relation "collaborate"
   ]
   edge [
@@ -201,12 +211,22 @@ graph [
   ]
   edge [
     source 3
-    target 16
+    target 4
     relation "collaborate"
   ]
   edge [
     source 3
-    target 18
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 6
     relation "collaborate"
   ]
   edge [
@@ -215,33 +235,48 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
     source 6
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 10
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 12
+    source 6
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 10
+    source 9
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 12
+    source 9
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -251,22 +286,17 @@ graph [
   ]
   edge [
     source 11
-    target 17
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 16
+    source 12
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 15
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 17
+    source 17
+    target 18
     relation "collaborate"
   ]
 ]

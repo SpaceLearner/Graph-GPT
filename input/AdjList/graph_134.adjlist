@@ -1,66 +1,58 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:11 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:13 2023
 # 
-M. Arif	2
-Nicole Vincent	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Gilles Venturini	5
-Christiane Guinot	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-N. Monmarchè	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-Nicole Vincent	4
-T. Brouard	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-Dominique Burger	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-Manuel Barbosa	1
-T. Brouard	{'relation': 'collaborate'}
-Josep Lladós	4
-Jean-Yves Ramel	{'relation': 'collaborate'}
-Mathieu Delalandre	{'relation': 'collaborate'}
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	3
-T. Brouard	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-M. C. Mraghni	{'relation': 'collaborate'}
-Pierre Liardet	3
-S. Aupetit	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-N. Monmarchè	{'relation': 'collaborate'}
-Mathieu Delalandre	3
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-M. Slimane	7
-S. Aupetit	{'relation': 'collaborate'}
-C. Gu&#233/ret	{'relation': 'collaborate'}
-Pierre Gaucher	{'relation': 'collaborate'}
-Christiane Guinot	{'relation': 'collaborate'}
-Dominique Burger	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-N. Monmarchè	{'relation': 'collaborate'}
-C. Gu&#233/ret	1
-N. Monmarchè	{'relation': 'collaborate'}
-Dominique Burger	0
-Jean-Yves Ramel	3
-Hubert Cardot	{'relation': 'collaborate'}
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-T. Brouard	2
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Hubert Cardot	{'relation': 'collaborate'}
-N. Monmarchè	3
-Pierre Gaucher	{'relation': 'collaborate'}
-Christiane Guinot	{'relation': 'collaborate'}
-S. Aupetit	{'relation': 'collaborate'}
-Pierre Gaucher	1
-S. Aupetit	{'relation': 'collaborate'}
-Christiane Guinot	1
-S. Aupetit	{'relation': 'collaborate'}
-Muhammad Muzzamil Luqman	0
-S. Aupetit	0
-Hubert Cardot	0
-M. C. Mraghni	0
+Larry Travis	2
+Charles Kellogg	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+Douglas B. Lenat	3
+Philip Klahr	{'relation': 'collaborate'}
+Donald A. Waterman	{'relation': 'collaborate'}
+Frederick Hayes-Roth	{'relation': 'collaborate'}
+William S. Faught	3
+S J Rosenschein	{'relation': 'collaborate'}
+Donald A. Waterman	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+Philip C. Jackson	2
+Robert E. Veres	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+David J. McArthur	2
+Sanjai Narian	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+S J Rosenschein	3
+Donald A. Waterman	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+Frederick Hayes-Roth	{'relation': 'collaborate'}
+John W. Ellis	2
+Philip Klahr	{'relation': 'collaborate'}
+Sanjai Narian	{'relation': 'collaborate'}
+L. D. Erman	4
+Frederick Hayes-Roth	{'relation': 'collaborate'}
+A. Carlisle Scott	{'relation': 'collaborate'}
+D. Raj Reddy	{'relation': 'collaborate'}
+J. Davidson	{'relation': 'collaborate'}
+Frederick Hayes-Roth	5
+Philip Klahr	{'relation': 'collaborate'}
+D. Raj Reddy	{'relation': 'collaborate'}
+J. Davidson	{'relation': 'collaborate'}
+Donald A. Waterman	{'relation': 'collaborate'}
+David J. Mostow	{'relation': 'collaborate'}
+Charles Kellogg	1
+Philip Klahr	{'relation': 'collaborate'}
+Robert E. Veres	1
+Philip Klahr	{'relation': 'collaborate'}
+A. Carlisle Scott	1
+Philip Klahr	{'relation': 'collaborate'}
+J. Davidson	0
+Donald A. Waterman	1
+Philip Klahr	{'relation': 'collaborate'}
+Bhashyam Ramesh	2
+Antoine Abche	{'relation': 'collaborate'}
+Philip Klahr	{'relation': 'collaborate'}
+Antoine Abche	1
+Philip Klahr	{'relation': 'collaborate'}
+Philip Klahr	2
+David J. Mostow	{'relation': 'collaborate'}
+Sanjai Narian	{'relation': 'collaborate'}
+Sanjai Narian	0
+D. Raj Reddy	0
+David J. Mostow	0

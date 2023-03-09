@@ -1,237 +1,142 @@
 graph [
   node [
     id 0
-    label "Jian Wang"
-    affiliation "Nan"
-    research "multiple knapsack problem, rough sets theory, New Particle Swarm Optimization"
+    label "T. Hoffmann"
+    affiliation "Dept. of Electrical Engineering, University of Wuppertal, Fuhlrottstr. 10, D42097 Wuppertal Germany"
+    research "crosslinked polymers, linear polymers, crosslinked aromatic polymers"
   ]
   node [
     id 1
-    label "Quan Zhang"
+    label "Yusheng Feng"
     affiliation "Nan"
-    research "RAID10 system, energy efficiency, storage system"
+    research "elliptic boundary value problem, finite element approximation, pollution error estimation"
   ]
   node [
     id 2
-    label "Mathini Sellathurai"
-    affiliation "BellLabs., Holmdel, NJ, USA"
-    research "diversity product, superior performance, turbo-MIMO system"
+    label "Mike Cafarella"
+    affiliation "University of Michigan"
+    research "structured data, Web data, relational data"
   ]
   node [
     id 3
-    label "Ji-Bo Wei"
-    affiliation "National University of Defense Technology, China"
-    research "channel error, perfect channel state information, proposed receiver"
+    label "Z. Qiao"
+    affiliation "Nan"
+    research "first-order fuzzy differential equation"
   ]
   node [
     id 4
-    label "E. Gambi"
-    affiliation "D.I.B.E.T. Universit&#224; Politecnica delle Marche, Via Brecce Bianche 12, I60131 Ancona, ITALY"
-    research "technological approach, medical operator, older adult"
+    label "C. Sun"
+    affiliation "Nan"
+    research "short transaction, cooperative transaction, traditional short transaction"
   ]
   node [
     id 5
-    label "Wei Liu"
-    affiliation "Nan"
-    research "enterprise information, financial information, global information environment"
+    label "Mongi A. Abidi"
+    affiliation "University of Alabama in Huntsville, USA"
+    research "experimental result, proposed algorithm, face recognition"
   ]
   node [
     id 6
-    label "Jian Liu"
-    affiliation "School of Information Science and Engineering, Shandong University, Jinan, Shandong 250100, PR China"
-    research "energy efficiency, proposed scheme, Nonlinear optimization"
+    label "R. A. Harris"
+    affiliation "Rapid Manufacturing Research Group, Wolfson School of Mechanical and Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire, LE11 3TU, UK."
+    research "HDPE composite, HDPE layer, miniature SLS system"
   ]
   node [
     id 7
-    label "F. Chiaraluce"
-    affiliation "Dipartimento di Elettronica, Intelligenza Artificiale e Telecomunicazioni, Universit&#224; Politecnica delle Marche, Via Brecce Bianche, I60131 Ancona, Italy"
-    research "better performance, new class, Low Density Parity Check"
+    label "J. Poitevin"
+    affiliation "Parks Canada Agency, Gatineau, QC, Canada"
+    research "cloud contamination, alternative method, seasonal profile"
   ]
   node [
     id 8
-    label "Chaojing Tang"
-    affiliation "College of Electronic Science and Engineering, National University of Defense Technology, P. R. of China"
-    research "space channel, civil space mission, space agency"
+    label "O. Koudelka"
+    affiliation "Nan"
+    research "time stamp, satellite communication, channel capacity"
   ]
   node [
     id 9
-    label "Haifeng Li"
-    affiliation "Nan"
-    research "HMM System, neural modelling, pattern class"
+    label "L. Breslau"
+    affiliation "AT&#38;T Labs  Research"
+    research "real-time service, service quality management, best-effort-only network"
   ]
   node [
     id 10
-    label "Mario Baldi"
-    affiliation "Narus Inc., Sunnyvale, CA, USA"
-    research "Re-Org task, event log file, common datasets"
+    label "L. Hao"
+    affiliation "School of Engineering, Computer Science and Mathematics, University of Exeter, Exeter, EX4 4QF, UK."
+    research "HDPE composite, HDPE layer, miniature SLS system"
   ]
   node [
     id 11
-    label "Xiaofei Wang"
-    affiliation "Nan"
-    research "service composition, temporal constraint, temporal constraint satisfiability"
+    label "Ratul Mahajan"
+    affiliation "Microsoft Research"
+    research "field study, shared infrastructure, large number"
   ]
   node [
     id 12
-    label "Pei Xiao"
-    affiliation "Institute of Electronics, Communications, and Information Technology (ECIT), Queen's University of Belfast, BT3 9DT, U.K."
-    research "extrinsic information, performance gain, superior performance"
+    label "A. Stesmans"
+    affiliation "Department of Physics and Astronomy, University of Leuven, Celestijnenlaan 200D, B3001 Leuven, Belgium"
+    research "resonance study, Si dangling bond point, Si face"
   ]
   node [
     id 13
-    label "Jingjing Zhao"
+    label "C. Hunt"
     affiliation "Nan"
-    research "Transmission Lines, human visual attention, saLiency-based visual attention system"
+    research "Peer-to-Peer Configuration Interface, Protocol Independent Information Modelling"
   ]
   node [
     id 14
-    label "R. Antonicelli"
-    affiliation "Cardiology Operational Unit, INRCA Scientific Institute, Ancona, Italy"
-    research "technological approach, medical operator, older adult"
+    label "M. M. Savalani"
+    affiliation "Rapid Manufacturing Research Group, Wolfson School of Mechanical and Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire, LE11 3TU, UK."
+    research "HDPE composite, Selective Laser Melting, HDPE layer"
   ]
   node [
     id 15
-    label "Chun-lin Xiong"
-    affiliation "School of Electronic Science and Engineering, National University of Defense Technology, Changsha, China"
-    research "iterative receiver, perfect channel state information, proposed receiver"
+    label "Y. Shen"
+    affiliation "Nan"
+    research "meshing pair, meshing pairs design, pairs profile generation"
   ]
   node [
     id 16
-    label "Hua Wang"
-    affiliation "Huazhong University of Science &#38; Technology"
-    research "SSD FTL metadata change, SSD interact, SSD storage state"
+    label "Z. Wang"
+    affiliation "School of Mechatronic Engineering, Northwestern Polytechnical University, Xi'an, China"
+    research "CAD system, fixture design system, design information"
   ]
   node [
     id 17
-    label "Lei Zhang"
-    affiliation "Institute of Microelectronics, Tsinghua University, Beijing, China"
-    research "current gain, proposed ULCA, proposed circuit"
+    label "Haiyong Xie"
+    affiliation "Nan"
+    research "Hash Table, file system, main theory"
   ]
   node [
     id 18
-    label "P. Pierleoni"
+    label "Y. Zhang"
     affiliation "Nan"
-    research "turbo code, serially concatenated code, new Consultative Committee"
+    research "Execution Software Integration Architecture, Manufacturing Planning"
   ]
   node [
     id 19
-    label "Qiang Wang"
-    affiliation "Department of Control Science and Engineering, Harbin Institute of Technology, No. 92, West DaZhi, Harbin, 150001, PR China"
-    research "image fusion technique, fusion result, initial fusion result"
+    label "L. Erup"
+    affiliation "ESA, Noordwijk"
+    research "communications system, communications system designThe, DVB-RCS applicationsThe"
   ]
   edge [
     source 0
-    target 0
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 8
+    target 18
     relation "collaborate"
   ]
   edge [
     source 1
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 9
+    target 18
     relation "collaborate"
   ]
   edge [
     source 2
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
+    target 18
     relation "collaborate"
   ]
   edge [
     source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 17
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -240,113 +145,88 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 4
+    source 5
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 10
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
+    source 6
     target 14
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 13
-    relation "collaborate"
-  ]
-  edge [
     source 7
     target 18
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
     source 9
-    target 9
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 14
+    target 18
     relation "collaborate"
   ]
   edge [
     source 15
-    target 16
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
     relation "collaborate"
   ]
   edge [
     source 17
-    target 17
+    target 18
     relation "collaborate"
   ]
 ]

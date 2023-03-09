@@ -1,37 +1,32 @@
-Wei Wang	Zhigang Wang	{'relation': 'collaborate'}
-Wei Wang	Minglu Li	{'relation': 'collaborate'}
-Wei Wang	Yong Zeng	{'relation': 'collaborate'}
-Minglu Li	Zhigang Wang	{'relation': 'collaborate'}
-Minglu Li	Xinda Lu	{'relation': 'collaborate'}
-Yourong Li	Gangbing Song	{'relation': 'collaborate'}
-Yourong Li	Zhigang Wang	{'relation': 'collaborate'}
-Yourong Li	Changming Liu	{'relation': 'collaborate'}
-Yourong Li	Jianyi Kong	{'relation': 'collaborate'}
-Yourong Li	Xi Li	{'relation': 'collaborate'}
-Xinda Lu	Zhigang Wang	{'relation': 'collaborate'}
-Yu Hou	Jianyi Kong	{'relation': 'collaborate'}
-Ying Wan	Zhigang Wang	{'relation': 'collaborate'}
-Juanzi Li	Zhigang Wang	{'relation': 'collaborate'}
-Juanzi Li	Zhichun Wang	{'relation': 'collaborate'}
-Gangbing Song	Changming Liu	{'relation': 'collaborate'}
-Gangbing Song	Jianyi Kong	{'relation': 'collaborate'}
-Gangbing Song	Xi Li	{'relation': 'collaborate'}
-Gangbing Song	Zhigang Wang	{'relation': 'collaborate'}
-Yaping Zhao	Gongfa Li	{'relation': 'collaborate'}
-Yaping Zhao	Jianyi Kong	{'relation': 'collaborate'}
-Yuelin Chen	Jianyi Kong	{'relation': 'collaborate'}
-Hegen Xiong	Jianyi Kong	{'relation': 'collaborate'}
-Hegen Xiong	Jintang Yang	{'relation': 'collaborate'}
-Hegen Xiong	Gongfa Li	{'relation': 'collaborate'}
-Xi Li	Zhigang Wang	{'relation': 'collaborate'}
-Xi Li	Changming Liu	{'relation': 'collaborate'}
-Xi Li	Jianyi Kong	{'relation': 'collaborate'}
-Jintang Yang	Jianyi Kong	{'relation': 'collaborate'}
-Jintang Yang	Gongfa Li	{'relation': 'collaborate'}
-Changming Liu	Zhigang Wang	{'relation': 'collaborate'}
-Changming Liu	Jianyi Kong	{'relation': 'collaborate'}
-Gongfa Li	Jianyi Kong	{'relation': 'collaborate'}
-Jianyi Kong	Zhigang Wang	{'relation': 'collaborate'}
-Zhigang Wang	Yong Zeng	{'relation': 'collaborate'}
-Zhigang Wang	Zhichun Wang	{'relation': 'collaborate'}
-Zhigang Wang	Lixia Wang	{'relation': 'collaborate'}
+Jinling Wang	Xun Li	{'relation': 'collaborate'}
+Hongxu Ma	Xun Li	{'relation': 'collaborate'}
+Shoucai Yuan	Ziyu Wang	{'relation': 'collaborate'}
+Shoucai Yuan	Xun Li	{'relation': 'collaborate'}
+SeungHwan Won	Xun Li	{'relation': 'collaborate'}
+Xi-shan Wen	Xun Li	{'relation': 'collaborate'}
+Yanjun Wang	Xun Li	{'relation': 'collaborate'}
+Yanjun Wang	Li Li	{'relation': 'collaborate'}
+Sang Bong Yoo	Xun Li	{'relation': 'collaborate'}
+Sang Bong Yoo	Li Li	{'relation': 'collaborate'}
+Sang Bong Yoo	Woochul Shin	{'relation': 'collaborate'}
+Vasanth Ram Rajarathinam	Frederic T. Chong	{'relation': 'collaborate'}
+Vasanth Ram Rajarathinam	Xun Li	{'relation': 'collaborate'}
+Vasanth Ram Rajarathinam	Ben Hardekopf	{'relation': 'collaborate'}
+Ben Hardekopf	Xun Li	{'relation': 'collaborate'}
+Ben Hardekopf	Frederic T. Chong	{'relation': 'collaborate'}
+Woochul Shin	Xun Li	{'relation': 'collaborate'}
+Woochul Shin	Li Li	{'relation': 'collaborate'}
+Frederic T. Chong	Xun Li	{'relation': 'collaborate'}
+Frederic T. Chong	Roland Geyer	{'relation': 'collaborate'}
+Frederic T. Chong	Diana Franklin	{'relation': 'collaborate'}
+Li Li	Xun Li	{'relation': 'collaborate'}
+Diana Franklin	Xun Li	{'relation': 'collaborate'}
+Diana Franklin	Roland Geyer	{'relation': 'collaborate'}
+Xun Li	Roland Geyer	{'relation': 'collaborate'}
+Xun Li	Clyde W. Holsapple	{'relation': 'collaborate'}
+Xun Li	Radhika Santhanam	{'relation': 'collaborate'}
+Xun Li	De Liu	{'relation': 'collaborate'}
+Xun Li	Ziyu Wang	{'relation': 'collaborate'}
+Xun Li	Yanbo Gao	{'relation': 'collaborate'}
+Radhika Santhanam	De Liu	{'relation': 'collaborate'}
+Radhika Santhanam	Clyde W. Holsapple	{'relation': 'collaborate'}

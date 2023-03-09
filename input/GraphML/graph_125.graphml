@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Clemens Heuberger">
+      <data key="affiliation">Technische Univ. Graz, Graz, Austria</data>
+      <data key="research">Scalar Multiplication, Lebesgue measure, algorithmic randomness</data>
+    </node>
+    <node id="Philippe Flajolet">
+      <data key="affiliation">Algorithms Project, Inst. Nat. de Recherche en Inf. et Autom., Le Chesnay</data>
+      <data key="research">singularity analysis, random generation, random text</data>
+    </node>
+    <node id="K. Scheicher">
+      <data key="affiliation">Radon Institute for Computational and Applied Mathematics (RICAM), Austrian Academy of Sciences, Altenbergerstraße 69, A4040 Linz, Austria</data>
+      <data key="research">finite field, present paper, polynomial ring</data>
+    </node>
+    <node id="Manfred Madritsch">
+      <data key="affiliation">Department of Mathematics and Information Technology, University of Leoben, A8700 Leoben, Austria</data>
+      <data key="research">number system, LLL algorithm, additive function</data>
+    </node>
+    <node id="Emrah Kilic">
+      <data key="affiliation">TOBB ETU University of Economics and Technology, Mathematics Department, 06560 Sogutozu, Ankara, Turkey</data>
+      <data key="research">generalized Fibonacci p-numbers, generalized Binet formula, generalized order-k</data>
+    </node>
+    <node id="H Prodinger">
+      <data key="affiliation">Mathematics Department, University of Stellenbosch, Stellenbosch, South Africa</data>
+      <data key="research">random variable, Scalar Multiplication, expected number</data>
+    </node>
+    <node id="Jörg M. Thuswaldner">
+      <data key="affiliation">Institut für Mathematik und Angewandte Geometrie, Abteilung für Mathematik und Statistik, Montanuniversität Leoben, FranzJosef Straíe 18, A8700 Leoben, Austria</data>
+      <data key="research">finite field, number system, present paper</data>
+    </node>
+    <node id="Werner Kuich">
+      <data key="affiliation">Technische Univ. Wien, Vienna, Austria</data>
+      <data key="research">algebraic power series, recognizable tree series, tree series</data>
+    </node>
+    <node id="Friedrich Hubalek">
+      <data key="affiliation">Institut für Finanzund Versicherungsmathematik, Technische Universität Wien, 1040 Vienna, Austria</data>
+      <data key="research">Geometric Asian option, bucket digital search tree, digital search tree</data>
+    </node>
+    <node id="Margaret Archibald">
+      <data key="affiliation">Laboratory of Foundational Aspects of Computer Science, Department of Mathematics &amp; Applied Mathematics, University of Cape Town, Rondebosch 7701, South Africa. Emails: Margaret.Archibald@uct.ac. ...</data>
+      <data key="research">Lebesgue measure, algorithmic randomness, signed-digit representation</data>
+    </node>
+    <node id="R. F. Tichy">
+      <data key="affiliation">Technische Univ. Graz, Graz, Austria</data>
+      <data key="research">low-discrepancy sequence, Gray code, positive integer</data>
+    </node>
+    <node id="Stephan G. Wagner">
+      <data key="affiliation">Department of mathematical sciences, stellenbosch university, private bag x1, matieland 7602, south africa (email: swagner@sun.ac.za)</data>
+      <data key="research">Wiener index, Merrifield-Simmons index, graph parameter</data>
+    </node>
+    <node id="Arnold Knopfmacher">
+      <data key="affiliation">Wirwatersrand Univ., Johannesburg, South Africa</data>
+      <data key="research">length n, independent geometric random variable, random variable</data>
+    </node>
+    <node id="C. Martinez">
+      <data key="affiliation">Departamento de Informática, Facultad de Ciencias Exactas Universidad Nacional de Salta, Argentina</data>
+      <data key="research">new algorithm, BRKGA Algorithm, BRKGA metaheuristic</data>
+    </node>
+    <node id="R. Katti">
+      <data key="affiliation">IEEE</data>
+      <data key="research">greedy expansion, heterogeneous routing resource, minimal joint weight expansion</data>
+    </node>
+    <node id="Roberto M. Avanzi">
+      <data key="affiliation">Institute for Experimental Mathematics (IEM), Universität Duisburg–Essen, Essen, Germany</data>
+      <data key="research">Scalar Multiplication, Koblitz curve, scalar multiplication algorithm</data>
+    </node>
+    <node id="Peter Grabner">
+      <data key="affiliation">Institut für Mathematik A, Steyrergasse 30, A–8010 Graz, Austria (email: grabner@weyl.math.tu_graz.ac.at)</data>
+      <data key="research">average number, linear combination, numerical integration</data>
+    </node>
+    <node id="Wojciech Szpankowski">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multiaccess Systems, Performance Evaluation, Reservation Protocol</data>
+    </node>
+    <node id="H M Mahmoud">
+      <data key="affiliation">Department of Statistics, the George Washington Uuniversitywashington, DC 20052 email: hosam@gwu.edu</data>
+      <data key="research">stationary distribution, joint distribution, limit distribution</data>
+    </node>
+    <node id="Emeric Deutsch">
+      <data key="affiliation">Department of Mathematics, Polytechnic University, Brooklyn, NY</data>
+      <data key="research">plane tree, young leave, 2-Motzkin path</data>
+    </node>
+    <edge source="Clemens Heuberger" target="H Prodinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="R. F. Tichy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="Jörg M. Thuswaldner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="Margaret Archibald">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="Stephan G. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="R. Katti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clemens Heuberger" target="Roberto M. Avanzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="C. Martinez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="Wojciech Szpankowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="H Prodinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="R. F. Tichy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Flajolet" target="H M Mahmoud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Scheicher" target="Jörg M. Thuswaldner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manfred Madritsch" target="Jörg M. Thuswaldner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Emrah Kilic" target="H Prodinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="C. Martinez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Margaret Archibald">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="R. Katti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="H M Mahmoud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Wojciech Szpankowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Stephan G. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Werner Kuich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Roberto M. Avanzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="R. F. Tichy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Jörg M. Thuswaldner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Emeric Deutsch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Friedrich Hubalek">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H Prodinger" target="Arnold Knopfmacher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jörg M. Thuswaldner" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Friedrich Hubalek" target="H M Mahmoud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Margaret Archibald" target="Arnold Knopfmacher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. F. Tichy" target="Stephan G. Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. F. Tichy" target="Arnold Knopfmacher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. F. Tichy" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephan G. Wagner" target="Arnold Knopfmacher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arnold Knopfmacher" target="Peter Grabner">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

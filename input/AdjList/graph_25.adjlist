@@ -1,65 +1,49 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:22:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:11:53 2023
 # 
-Yuko Murayama	5
-Basabi Chakraborty	{'relation': 'collaborate'}
-Masatoshi Miyazaki	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Carl Howard Hauser	{'relation': 'collaborate'}
-Natsuko Hikage	{'relation': 'collaborate'}
-Hisao Koizumi	2
-Jun Sawamoto	{'relation': 'collaborate'}
-Hiroyasu Mitsui	{'relation': 'collaborate'}
-Naohisa Sakamoto	4
-Tomoki Yoshihisa	{'relation': 'collaborate'}
-Yasuo Ebara	{'relation': 'collaborate'}
-Koji Koyamada	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Hiroshi Yajima	2
-Norihisa Segawa	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Yasuo Ebara	3
-Tomoki Yoshihisa	{'relation': 'collaborate'}
-Koji Koyamada	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Norihisa Segawa	13
-Koji Koyamada	{'relation': 'collaborate'}
-Takeshi Yatsuo	{'relation': 'collaborate'}
-Takashi Katoh	{'relation': 'collaborate'}
-Basabi Chakraborty	{'relation': 'collaborate'}
-Natsuko Hikage	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Xuping Huang	{'relation': 'collaborate'}
-Tomoki Yoshihisa	{'relation': 'collaborate'}
-Ryota Kawashima	{'relation': 'collaborate'}
-Carl Howard Hauser	{'relation': 'collaborate'}
-Takuya Sasaki	{'relation': 'collaborate'}
-Masatoshi Miyazaki	{'relation': 'collaborate'}
-Yuji Wada	{'relation': 'collaborate'}
-Basabi Chakraborty	2
-Natsuko Hikage	{'relation': 'collaborate'}
-Carl Howard Hauser	{'relation': 'collaborate'}
-Xuping Huang	1
-Ryota Kawashima	{'relation': 'collaborate'}
-Tomoki Yoshihisa	1
-Koji Koyamada	{'relation': 'collaborate'}
-Takeshi Yatsuo	1
-Jun Sawamoto	{'relation': 'collaborate'}
-Takashi Katoh	3
-Jun Sawamoto	{'relation': 'collaborate'}
-Yuji Wada	{'relation': 'collaborate'}
-Takuya Sasaki	{'relation': 'collaborate'}
-Carl Howard Hauser	1
-Natsuko Hikage	{'relation': 'collaborate'}
-Takuya Sasaki	2
-Yuji Wada	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Koji Koyamada	0
-Hiroyasu Mitsui	1
-Jun Sawamoto	{'relation': 'collaborate'}
-Jun Sawamoto	1
-Yuji Wada	{'relation': 'collaborate'}
-Natsuko Hikage	0
-Masatoshi Miyazaki	0
-Ryota Kawashima	0
-Yuji Wada	0
+Lieven De Lathauwer	1
+Bart De Moor	{'relation': 'collaborate'}
+J. Vanthienen	1
+Bart De Moor	{'relation': 'collaborate'}
+P. Sas	2
+W. Dewulf	{'relation': 'collaborate'}
+Hendrik Van Brussel	{'relation': 'collaborate'}
+Joris Vertommen	3
+Bart De Moor	{'relation': 'collaborate'}
+Dirk Cattrysse	{'relation': 'collaborate'}
+Joost R. Duflou	{'relation': 'collaborate'}
+Joost R. Duflou	9
+Bart De Moor	{'relation': 'collaborate'}
+B. Willems	{'relation': 'collaborate'}
+A. M. Habraken	{'relation': 'collaborate'}
+H. Sol	{'relation': 'collaborate'}
+Dirk Cattrysse	{'relation': 'collaborate'}
+P. Van Houtte	{'relation': 'collaborate'}
+J. Váncza	{'relation': 'collaborate'}
+W. Dewulf	{'relation': 'collaborate'}
+Bert Lauwers	{'relation': 'collaborate'}
+Bert Lauwers	0
+L. Vandenberghe	1
+Bart De Moor	{'relation': 'collaborate'}
+B. Willems	1
+W. Dewulf	{'relation': 'collaborate'}
+W. Dewulf	1
+Hendrik Van Brussel	{'relation': 'collaborate'}
+Bart De Moor	4
+Ruben Verlinden	{'relation': 'collaborate'}
+P Van Dooren	{'relation': 'collaborate'}
+Vincent J. Carey	{'relation': 'collaborate'}
+Maja Hadzic	{'relation': 'collaborate'}
+P Van Dooren	0
+Hendrik Van Brussel	0
+Ruben Verlinden	0
+A. M. Habraken	2
+H. Sol	{'relation': 'collaborate'}
+P. Van Houtte	{'relation': 'collaborate'}
+P. Van Houtte	1
+H. Sol	{'relation': 'collaborate'}
+H. Sol	0
+Vincent J. Carey	0
+Dirk Cattrysse	0
+Maja Hadzic	0
+J. Váncza	0

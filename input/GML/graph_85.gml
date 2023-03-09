@@ -1,152 +1,132 @@
 graph [
   node [
     id 0
-    label "T. C. Scott"
-    affiliation "Institut f&#252;r Physikalische Chemie, RWTH Aachen University, 52056 Aachen, Germany and Zephyr Health Inc, 589 Howard Street, 3rd floor, San Francisco CA, USA"
-    research "exact solution, Lambert W function, five-dimensional surface"
+    label "Dariusz Dereniowski"
+    affiliation "Department of Algorithms and System Modeling, Faculty of Electronics, Telecommunications and Informatics, Gda&#324;sk University of Technology, Narutowicza 11/12, 80952 Gda&#324;sk, Poland. Emai ..."
+    research "experimental result, approximation ratio, edge ranking"
   ]
   node [
     id 1
-    label "George Labahn"
-    affiliation "University of Waterloo, David R. Cheriton School of Computer Science, UST Lille, 59655, Waterloo, ON, Canada"
-    research "input matrix, fraction-free algorithm, new algorithm"
+    label "Denis Hanson"
+    affiliation "Department of Mathematics and Statistics, University of Regina, Regina, Sk., Canada"
+    research "minimum number, search number, bipartite graph"
   ]
   node [
     id 2
-    label "Gaston H. Gonnet"
-    affiliation "Informatik ETH Z&#252;rich, Switzerland"
-    research "Maple system, efficient algorithm, computational problem"
+    label "Gary MacGillivray"
+    affiliation "Department of Mathematics and Statistics, University of Victoria, PO Box 3045 STN CSC, Victoria, BC, Canada"
+    research "near-unanimity function, weak near-unanimity function, H-colouring problem"
   ]
   node [
     id 3
-    label "W. Morven Gentleman"
-    affiliation "Nan"
-    research "black box, good circuit designer, good programmer"
+    label "Mirka Miller"
+    affiliation "The university of newcastle newcastle, Australia and University of west bohemia pilsen, Czech Republic and Kings college, London, United Kingdom and Itb bandung, Indonesia"
+    research "maximum degree, regular graph, diameter D"
   ]
   node [
     id 4
-    label "T. J. Smedley"
-    affiliation "Dalhousie University, Halifax, Nova Scotia, Canada"
-    research "visual programming, visual programming language, visual dataflow language"
+    label "Dale Youngs"
+    affiliation "Imperial College, London, UK"
+    research "K4-free graph4-chromatic projective graph, constructionThe size, cycle length"
   ]
   node [
     id 5
-    label "Ziming Li"
-    affiliation "Nan"
-    research "Weak Periodic Signal, new method, output signal"
+    label "Leif K. J&#248;rgensen"
+    affiliation "Department of Mathematical Sciences, Aalborg University, F. Bajers Vej 7, DK9220 Aalborg &#216;, Denmark"
+    research "bipartite graph, rooted K3, regular graph"
   ]
   node [
     id 6
-    label "Ha Le"
-    affiliation "Symbolic Computation Group, University of Waterloo, Waterloo, Canada"
-    research "rational function, hypergeometric term, definite sum"
+    label "Guillermo Pineda-Villavicencio"
+    affiliation "School of Information Technology and Mathematical Sciences, University of Ballarat, Ballarat, Victoria, Australia/ Department of Computer Science, University of Oriente, Santiago de Cuba, Cuba"
+    research "bipartite graph, maximum degree, diameter D"
   ]
   node [
     id 7
-    label "Bruno Salvy"
-    affiliation "Algorithms Project, Inria (France)"
-    research "differential equation, fast algorithm, linear recurrence"
+    label "Ken-ichi Kawarabayashi"
+    affiliation "National Institute of Informatics"
+    research "graph G, planar graph, k-connected graph"
   ]
   node [
     id 8
-    label "Stephen Michael Watt"
-    affiliation "Ontario Research Centre for Computer Algebra, Ontario, Canada URL: <url>www.orcca.on.ca</url>"
-    research "mathematical expression, abstract matrix, handwritten mathematical symbol"
+    label "David A. Pike"
+    affiliation "Department of Mathematics and Statistics, Memorial University of Newfoundland, St. John's, NL, Canada"
+    research "decycling number, smallest number, large BIBD"
   ]
   node [
     id 9
-    label "Bruce W. Char"
-    affiliation "Drexel University, Philadelphia, PA, USA"
-    research "entry-level course, year common course, Maple TA"
+    label "David Orden"
+    affiliation "Departamento de Matem&#225;ticas, Universidad de Alca&#225; de Henares, 28871 Alcal&#225; de Henares, Spain"
+    research "planar minimally rigid graph, Speculative Parallelization, dependence violation"
   ]
   node [
     id 10
-    label "K. M. Heal"
+    label "Bo-Ting Yang"
     affiliation "Nan"
-    research "guideMaple V, programming guideMaple V, Maple V"
+    research "Constrained Multicast Routing"
   ]
   node [
     id 11
-    label "Keith O. Geddes"
-    affiliation "Symbolic Computation Group, Department of Computer Science, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
-    research "Maple system, efficient adaptive algorithm, genetic algorithm"
+    label "J. W. Moon"
+    affiliation "Nan"
+    research "random tree, random treesAddendum"
   ]
   node [
     id 12
-    label "S. A. Abramov"
-    affiliation "Dorodnicyn Computing Center, Russian Academy of Sciences, Moscow, Russia 119991 and Department of Mechanics and Mathematics, Moscow State University, Leninskie gory, Moscow, Russia 119992"
-    research "Computer Algebra, polynomial coefficient, linear difference equation"
+    label "Sarah-Marie Belcastro"
+    affiliation "Department of Mathematics and Statistics, Smith College, Northampton, MA 01063, USA and Department of Mathematics and Statistics, Mt. Holyoke College, South Hadley, MA 01075, USA"
+    research "1-factor cover, Petersen graph, infinite family"
   ]
   node [
     id 13
-    label "Gregory J. Fee"
-    affiliation "Dept. of Mathematics and Statistics, Simon Fraser University, Burnaby, B.C., Canada V5A 1S6"
-    research "computer algebra system, numerical package, series expansion"
+    label "Ruth Haas"
+    affiliation "Department of Mathematics, Smith College, Northampton, MA"
+    research "planar minimally rigid graph, bipartite graph, graph embeddings"
   ]
   node [
     id 14
-    label "L. Y. Stefanus"
-    affiliation "University of Indonesia, Indonesia"
-    research "polynomial p, convolution basis function, dual functionals"
+    label "F. Santos"
+    affiliation "santosf@unican.es"
+    research "planar minimally rigid graph, graph embeddings, marked graph"
   ]
   node [
     id 15
-    label "R. G. McLenaghan"
-    affiliation "Department of Applied Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1"
-    research "component tensor calculation, tensor polynomialsA systematic study, Hamilton-Jacobi theory"
+    label "Danny Dyer"
+    affiliation "Department of Mathematics, Simon Fraser University"
+    research "minimum number, search number, search strategy"
   ]
   node [
     id 16
-    label "B. L. Leong"
-    affiliation "Univ. of Waterloo, Waterloo, Ont., Canada"
-    research "strict interpretation, grammar form, unambiguous grammar form"
+    label "Ping Wang"
+    affiliation "Institute of Information Management, National Chiao Tung University, Taiwan"
+    research "web service, proposed approach, mobile service"
   ]
   node [
     id 17
-    label "Michael B. Monagan"
-    affiliation "Nan"
-    research "In-place Arithmetic"
+    label "Michael O. Albertson"
+    affiliation "Smith College, Northampton, MA"
+    research "geometric automorphism, geometric graph, colorable graph"
   ]
   node [
     id 18
-    label "S. R. Czapor"
-    affiliation "Laurentian Univ., Sudbury, Ont. Canada"
-    research "algebraic equation, polynomial reduction, Combining Buchberger"
+    label "C. Delorme"
+    affiliation "Nan"
+    research "d-D Grid Graphs, d-D grid graph, Communication Delays"
   ]
   node [
     id 19
-    label "S. Dooley"
-    affiliation "IBM Research, Yorktown Heights, NY"
-    research "presentation markup, MathML content, MathML content expression"
+    label "B. Alspach"
+    affiliation "Department of Mathematics and Statistics, University of Regina, Regina, Saskatchewan, Canada S4S 0A2"
+    research "Cayley graph, search number, circulant graph"
   ]
   edge [
     source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 13
+    target 15
     relation "collaborate"
   ]
   edge [
     source 1
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 10
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -156,12 +136,47 @@ graph [
   ]
   edge [
     source 1
-    target 18
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
     source 2
-    target 8
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -170,58 +185,23 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 16
-    relation "collaborate"
-  ]
-  edge [
     source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
     target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -230,118 +210,58 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 5
     target 16
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 16
+    source 5
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 9
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 11
+    source 6
     target 18
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 8
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 11
+    source 9
     target 14
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 9
     target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -350,8 +270,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 17
+    source 15
+    target 19
     relation "collaborate"
   ]
 ]

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Nivedita Sahasrabudhe">
+      <data key="affiliation">NSF Engineering Research Center, Mississippi State University</data>
+      <data key="research">partial metrics, common comparison technique, data comparison metricsOften</data>
+    </node>
+    <node id="Bernhard Preim">
+      <data key="affiliation">Department of Simulation and Graphics, OvG University Magdeburg, Germany</data>
+      <data key="research">perfusion data, visualization technique, image data</data>
+    </node>
+    <node id="Ming Jiang">
+      <data key="affiliation">University of Leeds, Leeds, United Kingdom</data>
+      <data key="research">detection task, latent semantic analysis, strong emotional indicator</data>
+    </node>
+    <node id="J. Mark Janus">
+      <data key="affiliation">Nan</data>
+      <data key="research">Implicit Unsteady Turbomachinery Flow</data>
+    </node>
+    <node id="Jonathan West">
+      <data key="affiliation">DoD HPC Modernization Program</data>
+      <data key="research">lower priority job, higher priority job, highest priority job</data>
+    </node>
+    <node id="Klaus Mueller">
+      <data key="affiliation">SUNY Korea, Incheon, South Korea</data>
+      <data key="research">dense urban area, image-based positioning</data>
+    </node>
+    <node id="Ruoming Jin">
+      <data key="affiliation">Nan</data>
+      <data key="research">item set, hyper graph, proposed method</data>
+    </node>
+    <node id="Enrico Caserta">
+      <data key="affiliation">Ohio State University</data>
+      <data key="research">nuclear morphology, breast cancer, cell population</data>
+    </node>
+    <node id="Torsten Möller">
+      <data key="affiliation">University of Vienna</data>
+      <data key="research">IEEE Information Visualization conference, IEEE Visualization conference, work practice</data>
+    </node>
+    <node id="Mark Janus">
+      <data key="affiliation">Department of Aerospace Engineering, NSF Engineering Research Center, Mississippi State University</data>
+      <data key="research">partial metrics, common comparison technique, data comparison metricsOften</data>
+    </node>
+    <node id="Gerik Scheuermann">
+      <data key="affiliation">IEEE Computer Society</data>
+      <data key="research">vector field, critical point, potential flow</data>
+    </node>
+    <node id="Jay H. Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">control structure selection, new methodology</data>
+    </node>
+    <node id="Matthew Lewis">
+      <data key="affiliation">AlbertLudwigsUniversity of Freiburg, Germany</data>
+      <data key="research">industrial design, partial design, solution cube</data>
+    </node>
+    <node id="Stephen T. C. Wong">
+      <data key="affiliation">Nan</data>
+      <data key="research">biomedical imaging, image-assisted medical care, medical imaging</data>
+    </node>
+    <node id="Kenneth M. Martin">
+      <data key="affiliation">Kitware, Inc.</data>
+      <data key="research">data piece-by-piece, large data, piece size</data>
+    </node>
+    <node id="David H. Laidlaw">
+      <data key="affiliation">IEEE Computer Society</data>
+      <data key="research">visualization method, volume data, data value</data>
+    </node>
+    <node id="J. W. Wilkins">
+      <data key="affiliation">Dept. of Physics, The Ohio State University, Columbus, OH</data>
+      <data key="research">loop fusion, intermediate temporary array, data locality optimization</data>
+    </node>
+    <node id="Michael Knopp">
+      <data key="affiliation">Department of Radiology, Ohio State University, Columbus, OH 43210, U.S.A.</data>
+      <data key="research">Haralick texture analysis, brain activity, FMRIIn fMRI analysis</data>
+    </node>
+    <node id="Nikolaus Obholzer">
+      <data key="affiliation">Department of Systems Biology, Harvard Medical School, Boston, USA 02115</data>
+      <data key="research">cell membrane, automatic cell segmentation, cell membrane image</data>
+    </node>
+    <node id="R. K. Machiraju">
+      <data key="affiliation">Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA</data>
+      <data key="research">simulation data, data comparison metricsOften, large scientific data set</data>
+    </node>
+    <edge source="Nivedita Sahasrabudhe" target="J. Mark Janus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nivedita Sahasrabudhe" target="Mark Janus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nivedita Sahasrabudhe" target="Jonathan West">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nivedita Sahasrabudhe" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernhard Preim" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Jiang" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Mark Janus" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Mark Janus" target="Jonathan West">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan West" target="Mark Janus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan West" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Klaus Mueller" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Klaus Mueller" target="Gerik Scheuermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Klaus Mueller" target="Torsten Möller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruoming Jin" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Enrico Caserta" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Torsten Möller" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Torsten Möller" target="Gerik Scheuermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Janus" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gerik Scheuermann" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jay H. Lee" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matthew Lewis" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen T. C. Wong" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenneth M. Martin" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David H. Laidlaw" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. W. Wilkins" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Knopp" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nikolaus Obholzer" target="R. K. Machiraju">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

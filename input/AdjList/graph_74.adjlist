@@ -1,55 +1,70 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:04 2023
 # 
-Stefano Mattoccia	2
-Pietro Zanuttigh	{'relation': 'collaborate'}
-G. Cortelazzo	{'relation': 'collaborate'}
-Marco Andreetto	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Riccardo Bernardini	4
-G. Cortelazzo	{'relation': 'collaborate'}
-R. Rinaldo	{'relation': 'collaborate'}
-Giancarlo Calvagno	{'relation': 'collaborate'}
-G. A. Mian	{'relation': 'collaborate'}
-R. Rinaldo	3
-G. A. Mian	{'relation': 'collaborate'}
-G. Cortelazzo	{'relation': 'collaborate'}
-Giancarlo Calvagno	{'relation': 'collaborate'}
-Enrico Malavasi	2
-G. Cortelazzo	{'relation': 'collaborate'}
-A. Baschirotto	{'relation': 'collaborate'}
-N. Benvenuto	1
-G. Cortelazzo	{'relation': 'collaborate'}
-G. A. Mian	4
-G. Cortelazzo	{'relation': 'collaborate'}
-R. Manduchi	{'relation': 'collaborate'}
-P Zamperoni	{'relation': 'collaborate'}
-Giancarlo Calvagno	{'relation': 'collaborate'}
-S. Dal Poz	2
-G. Cortelazzo	{'relation': 'collaborate'}
-R. Manduchi	{'relation': 'collaborate'}
-Soren Forchhammer	2
-G. Cortelazzo	{'relation': 'collaborate'}
-Pietro Zanuttigh	{'relation': 'collaborate'}
-A. Baschirotto	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Fabio Marton	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Mary Ellen Bock	2
-G. Cortelazzo	{'relation': 'collaborate'}
-Carlo Ferrari	{'relation': 'collaborate'}
-Giancarlo Calvagno	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Pietro Zanuttigh	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Carlo Ferrari	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Anup Basu	1
-G. Cortelazzo	{'relation': 'collaborate'}
-R. Manduchi	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Nicola Orio	1
-G. Cortelazzo	{'relation': 'collaborate'}
-G. Cortelazzo	1
-P Zamperoni	{'relation': 'collaborate'}
-P Zamperoni	0
+S. A. Abramov	2
+Keith O. Geddes	{'relation': 'collaborate'}
+Ha Le	{'relation': 'collaborate'}
+B. L. Leong	5
+Bruce W. Char	{'relation': 'collaborate'}
+Michael B. Monagan	{'relation': 'collaborate'}
+Stephen Michael Watt	{'relation': 'collaborate'}
+Keith O. Geddes	{'relation': 'collaborate'}
+Gaston H. Gonnet	{'relation': 'collaborate'}
+K. M. Heal	3
+Michael B. Monagan	{'relation': 'collaborate'}
+George Labahn	{'relation': 'collaborate'}
+Keith O. Geddes	{'relation': 'collaborate'}
+Keith O. Geddes	16
+S. R. Czapor	{'relation': 'collaborate'}
+Stephen Michael Watt	{'relation': 'collaborate'}
+R. G. McLenaghan	{'relation': 'collaborate'}
+Ziming Li	{'relation': 'collaborate'}
+George Labahn	{'relation': 'collaborate'}
+Ha Le	{'relation': 'collaborate'}
+T. J. Smedley	{'relation': 'collaborate'}
+S. Dooley	{'relation': 'collaborate'}
+W. Morven Gentleman	{'relation': 'collaborate'}
+Bruce W. Char	{'relation': 'collaborate'}
+Michael B. Monagan	{'relation': 'collaborate'}
+L. Y. Stefanus	{'relation': 'collaborate'}
+Bruno Salvy	{'relation': 'collaborate'}
+Gregory J. Fee	{'relation': 'collaborate'}
+Gaston H. Gonnet	{'relation': 'collaborate'}
+T. C. Scott	{'relation': 'collaborate'}
+T. J. Smedley	1
+Gaston H. Gonnet	{'relation': 'collaborate'}
+Bruce W. Char	5
+W. Morven Gentleman	{'relation': 'collaborate'}
+Stephen Michael Watt	{'relation': 'collaborate'}
+Michael B. Monagan	{'relation': 'collaborate'}
+Gaston H. Gonnet	{'relation': 'collaborate'}
+Gregory J. Fee	{'relation': 'collaborate'}
+Bruno Salvy	2
+Ziming Li	{'relation': 'collaborate'}
+S. Dooley	{'relation': 'collaborate'}
+L. Y. Stefanus	0
+W. Morven Gentleman	1
+Gaston H. Gonnet	{'relation': 'collaborate'}
+Gaston H. Gonnet	3
+Stephen Michael Watt	{'relation': 'collaborate'}
+Gregory J. Fee	{'relation': 'collaborate'}
+Michael B. Monagan	{'relation': 'collaborate'}
+Gregory J. Fee	2
+Michael B. Monagan	{'relation': 'collaborate'}
+T. C. Scott	{'relation': 'collaborate'}
+T. C. Scott	1
+Michael B. Monagan	{'relation': 'collaborate'}
+S. Dooley	1
+Stephen Michael Watt	{'relation': 'collaborate'}
+S. R. Czapor	1
+George Labahn	{'relation': 'collaborate'}
+George Labahn	2
+Michael B. Monagan	{'relation': 'collaborate'}
+Ziming Li	{'relation': 'collaborate'}
+R. G. McLenaghan	0
+Ha Le	1
+Ziming Li	{'relation': 'collaborate'}
+Stephen Michael Watt	1
+Michael B. Monagan	{'relation': 'collaborate'}
+Ziming Li	0
+Michael B. Monagan	0

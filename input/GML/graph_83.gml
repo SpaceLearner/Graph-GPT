@@ -1,132 +1,147 @@
 graph [
   node [
     id 0
-    label "Montek Singh"
-    affiliation "The University of North Carolina at Chapel Hill"
-    research "asynchronous design, asynchronous design technique, behavioral design flow"
+    label "Sebastian Provenzano"
+    affiliation "Escuela de Ingenier&#237;a Mec&#225;nica, Universidad de Los Andes, Facultad de Ingenier&#237;a, M&#233;rida, Venezulea"
+    research "smooth solution, effectiveness index, neural network"
   ]
   node [
     id 1
-    label "Gennette Gill"
-    affiliation "Columbia University"
-    research "pipelined asynchronous system, slack matching, throughput goal"
+    label "Andres Camacho"
+    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
+    research "atrial activity, atrial signal, source separation problem"
   ]
   node [
     id 2
-    label "Karsten Schwan"
-    affiliation "College of Computing, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA"
-    research "data stream, high performance, data center"
+    label "L. Vergara"
+    affiliation "ETSITCamino de Vera s/n, 46023 Valencia, Spain"
+    research "ultrasonic signal, ICA mixture, independent component analysis"
   ]
   node [
     id 3
-    label "Vishal Gupta"
-    affiliation "Nan"
-    research "Soft Handoff, energy consumption, hard handoff"
+    label "P. Bernabeu"
+    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
+    research "source separation problem, statistical knowledge, posteriori estimate"
   ]
   node [
     id 4
-    label "Dheeraj Reddy"
-    affiliation "Intel, Hillsboro, OR, USA"
-    research "heterogeneous architecture, heterogeneous core, bias scheduling"
+    label "Jorge Moragues"
+    affiliation "Departamento de Comunicaciones, Universidad Polit&#233;cnica de Valencia, E46022 Valencia, Spain"
+    research "background noise, unknown signal, false alarm"
   ]
   node [
     id 5
-    label "D. A. Koufaty"
-    affiliation "Intel"
-    research "data forwarding, high performance, significant performance improvement"
+    label "Kiel M Gilleade"
+    affiliation "Liverpool John Moores University, Liverpool, United Kingdom"
+    research "VoodooIO gaming kit, appropriable gaming device, gaming controller"
   ]
   node [
     id 6
-    label "Paul Brett"
-    affiliation "CeLT, Harrison Learning Centre, University of Wolverhampton, Wolverhampton WV1 1SB, P.Brett@wlv.ac.uk"
-    research "cross-cultural competence, British business context, business people"
+    label "Arturo Serrano"
+    affiliation "Nan"
+    research "video signal, Cross-Layer Design, Videoconferencing Applications"
   ]
   node [
     id 7
-    label "Gopal Datt Joshi"
-    affiliation "CVIT, IIIT Hyderabad, Hyderabad, India"
-    research "document image, proposed method, retinal image"
+    label "F. J. Fuenmayor"
+    affiliation "Departamento de Ingenier&#237;a Mec&#225;nica y de Materiales, Universidad Polit&#233;cnica de Valencia, Camino de Vera s/n, E46022 Valencia, Spain"
+    research "finite element evaluation, discretization error, error estimator"
   ]
   node [
     id 8
-    label "Scott Hahn"
-    affiliation "Intel Corporation, USA"
-    research "heterogeneous architecture, heterogeneous core, bias scheduling"
+    label "J. Morales"
+    affiliation "Operations Research Center, Miguel Hern&#225;ndez University, 03202 Elche, Spain"
+    research "conditional distribution, approximate conditional predictive distributionsSampling, frequentist conditional testing"
   ]
   node [
     id 9
-    label "K. Najeeb"
-    affiliation "Indian Institute of Technology, India"
-    research "power virus generation, maximum dynamic power dissipation, proposed technique"
+    label "Jorge Gosalbez"
+    affiliation "Departamento de Communicaciones, Universidad Politecnica de Valencia, Cno. de Vera s/n, Valencia 46022, Spain"
+    research "independent component analysis, optimum detector, prewhitened signal gating"
   ]
   node [
     id 10
-    label "Ganapati Srinivasa"
-    affiliation "Intel Corp."
-    research "heterogeneous architecture, heterogeneous core, client device"
+    label "Antonio Soriano"
+    affiliation "IFIC, Centro mixto CSICUniv. de Valencia, Edificio Institutos de Investigaci&#243;n, Paterna, E46071 Valencia, Spain"
+    research "clinical decision support system, genetic algorithm, large system"
   ]
   node [
     id 11
-    label "S. C. Sharma"
-    affiliation "Electronics and Computer Discipline, DPT, IIT Roorkee, SaharanpurCampus, Saharanpur247 001, UP, India."
-    research "TCP version, TCP performance, TCP variant"
+    label "J. Sastre"
+    affiliation "Instituto de Telecomunicaciones y Aplicaciones Multimedia"
+    research "variable frame rate, H.264 rate control, H.264 rate control algorithm"
   ]
   node [
     id 12
-    label "D. Bertsimas"
-    affiliation "dbertsim@mit.edu"
-    research "robust optimization, optimization problem, linear optimization problem"
+    label "Francklin Rivas"
+    affiliation "Laboratorio de Sistemas Inteligentes, Universidad de Los Andes, Facultad de Ingenier&#237;a, M&#233;rida, Venezulea"
+    research "oil well, neural network, control system"
   ]
   node [
     id 13
-    label "Pulkit Parikh"
-    affiliation "International Institute of Information Technology (IIITH), Gachibowli, Hyderaba, India"
-    research "camera motion, camera motion model, motion information"
+    label "Raul Llinares"
+    affiliation "Departamento de Comunicaciones, Universidad Politecnica de Valencia, Pza. Ferrandiz y Carbonell 1, CP 03801, Alcoy, Spain"
+    research "atrial signal, atrial activity, atrial component"
   ]
   node [
     id 14
-    label "Gabriel A. Rincon-Mora"
-    affiliation "School of Electrical and Computer Engineering and Georgia Tech Analog, Power, and Energy ICs Lab at the Georgia Institute of Technology, Atlanta, USA 30332"
-    research "output voltage, power converter, ESR power saving"
+    label "Areti Damala"
+    affiliation "Centre de et M&#233;tiers, Paris, France"
+    research "AR system, adaptive augmented reality, mobile multimedia guide"
   ]
   node [
     id 15
-    label "Sitaram Ramachandrula"
-    affiliation "Hewlett Packard Labs, Bangalore, India"
-    research "experimental result, document image, Markov Random Field"
+    label "Soledad Gomez"
+    affiliation "Institute of Telecommunications and Multimedia Applications (ITEAM), Polytechnical University of Valencia, Spain"
+    research "infrared image processing, false alarm, image processing"
   ]
   node [
     id 16
-    label "V. Kamakoti"
-    affiliation "Nan"
-    research "Generalized Placement ProblemThe problem, generalized placement problem, placement problem"
+    label "Ana Cabrera"
+    affiliation "Museo Nacional de Artes Decorativas, Madrid, Spain"
+    research "intelligent complex event processing, adaptive augmented reality, Augmented Reality"
   ]
   node [
     id 17
-    label "Ripal Nathuji"
-    affiliation "Microsoft Research, Redmond, WA"
-    research "power management, power consumption, power efficiency"
+    label "A. Rodr&#237;guez"
+    affiliation "Nan"
+    research "Si1-xGex layer, growth temperature, layer composition"
   ]
   node [
     id 18
-    label "Ioannis Ch. Paschalidis"
-    affiliation "Boston Univ., Boston, MA"
-    research "buffer overflow probability, wireless sensor network, sensor node"
+    label "V. Naranjo"
+    affiliation "Nan"
+    research "H.264 low delay video, low delay condition, real-time coders"
   ]
   node [
     id 19
-    label "Min Lee"
-    affiliation "Nan"
-    research "memory unit, user address space, active memory unit"
+    label "Jorge Igual"
+    affiliation "EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain"
+    research "atrial signal, atrial activity, atrial component"
   ]
   edge [
     source 0
-    target 3
+    target 2
     relation "collaborate"
   ]
   edge [
     source 0
-    target 1
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 2
     relation "collaborate"
   ]
   edge [
@@ -135,18 +150,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 10
+    source 1
+    target 13
     relation "collaborate"
   ]
   edge [
@@ -156,7 +161,22 @@ graph [
   ]
   edge [
     source 2
-    target 19
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -166,7 +186,32 @@ graph [
   ]
   edge [
     source 2
-    target 8
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -176,162 +221,92 @@ graph [
   ]
   edge [
     source 3
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 19
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 4
     target 10
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 17
+    source 4
+    target 5
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 4
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 15
     relation "collaborate"
   ]
   edge [
     source 4
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
+    target 9
     relation "collaborate"
   ]
   edge [
     source 5
-    target 10
+    target 14
     relation "collaborate"
   ]
   edge [
     source 5
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 6
+    target 16
     relation "collaborate"
   ]
   edge [
     source 6
-    target 8
+    target 19
     relation "collaborate"
   ]
   edge [
     source 6
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 7
     target 13
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 15
+    source 6
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 10
+    source 7
+    target 12
     relation "collaborate"
   ]
   edge [
     source 9
-    target 16
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 9
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 11
     target 18
     relation "collaborate"
   ]
   edge [
     source 13
-    target 15
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 17
-    target 19
+    source 14
+    target 16
     relation "collaborate"
   ]
 ]

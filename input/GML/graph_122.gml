@@ -1,162 +1,172 @@
 graph [
   node [
     id 0
-    label "A. Lee Swindlehurst"
-    affiliation "Dept. of Electr. Eng., Minnesota Univ., Minneapolis, MN, USA"
-    research "multiple antenna, multiple user, hot clutter"
+    label "M. C. Mraghni"
+    affiliation "Nan"
+    research "Nearest Neighbors Set"
   ]
   node [
     id 1
-    label "N Kalouptsidis"
-    affiliation "Univ. of Athens, Athens, Greece"
-    research "blind identification, SPARLS algorithm, higher order"
+    label "Dominique Burger"
+    affiliation "BrailleNet/AccessiWeb, France"
+    research "CEN workshop, European Specific Support, Quality MarkImplementing web accessibility"
   ]
   node [
     id 2
-    label "Xiaoying Shao"
-    affiliation "The Signals and Systems Group, Department of Electrical Engineering Mathematics and Computer Science, University of Twente, Enschede, The Netherlands"
-    research "power consumption, Fountain code, Fountain-encoded packet"
+    label "N. Monmarch&#232;"
+    affiliation "Universit&#38;#233/ Fran&#38;#231/ois Rabelais Tours, Laboratoire d'Informatique, 64, Avenue Jean Portalis, 37200 Tours France. Emails: {gueret,monmarche,slimane}@univtours.fr"
+    research "artificial ant, ant colony, AntClass algorithm"
   ]
   node [
     id 3
-    label "Andreas Jakobsson"
-    affiliation "Dept. of Syst. &#38; Control, Uppsala Univ."
-    research "proposed method, periodic signal, numerical simulation"
+    label "Mathieu Delalandre"
+    affiliation "PSI Laboratory, University of Rouen, Mont Saint Aignan, France"
+    research "Symbol Recognition, performance evaluation, new approach"
   ]
   node [
     id 4
-    label "J. A. K. S. Jayasinghe"
-    affiliation "Twente University, Laboratory for Network Theory, The Netherlands"
-    research "display controller, systolic army graphics engine, complex operation"
+    label "Josep Llad&#243;s"
+    affiliation "CVC, Barcelona, Spain"
+    research "graphical document, graphical symbol, proposed method"
   ]
   node [
     id 5
-    label "K. Georgoulakis"
-    affiliation "Dept. of Inf., Athens Univ."
-    research "efficient decision feedback equalizer, channel equalization, equalizer coefficient"
+    label "Manuel Barbosa"
+    affiliation "Universidade do Minho, Campus de Gualtar, Portugal"
+    research "cryptographic software, formal verification, Randomness reuse"
   ]
   node [
     id 6
-    label "P. Stoica"
-    affiliation "Facultatea de Automatica, Institul Politehnic Bucuresti, Romania"
-    research "numerical example, parameter estimation, estimation error"
+    label "Nicole Vincent"
+    affiliation "SIP Team, LIPADE Laboratory, 45, rue des SaintsPeres, 75270, Paris Cedex 06, France"
+    research "Zipf law, new method, effective method"
   ]
   node [
     id 7
-    label "Otto E. Herrmann"
-    affiliation "Department of Electrical Engineering, University of Twente, Enschede, the Netherlands"
-    research "systolic army graphics engine, complex operation, nonlinear distortion"
+    label "M. Arif"
+    affiliation "Department of Electrical Engineering, Air University, Islamabad, Pakistan"
+    research "feature space, pattern classification problem, different class"
   ]
   node [
     id 8
-    label "Martin M. Samsom"
-    affiliation "University of Twente, Laboratory for Network Theory and VLSI Design, Enschede, The Netherlands"
-    research "power dissipation, high performance graphics, high performance graphics algorithm"
+    label "C. Gu&#38;#233/ret"
+    affiliation "Data Archiving and Networked Services (DANS), Den Haag, The Netherlands"
+    research "Linked Data, share information, data set"
   ]
   node [
     id 9
-    label "K. Althoefer"
-    affiliation "&#160;"
-    research "BP algorithm, local minimum, novel design"
+    label "Hubert Cardot"
+    affiliation "Universit&#233; Fran&#231;oisRabelais de Tours"
+    research "color watershed, recurrent neural network, ensemble method"
   ]
   node [
     id 10
-    label "P. Koukoulas"
-    affiliation "Dept. of Inf., Athens Univ."
-    research "blind identification, Volterra kernel, order Volterra system"
+    label "Gilles Venturini"
+    affiliation "Nan"
+    research "Delaunay triangulation, Approximated Delaunay Triangulation, novel technique"
   ]
   node [
     id 11
-    label "Jian Li"
-    affiliation "Nan"
-    research "2-D data, data processing, gapped data"
+    label "S. Aupetit"
+    affiliation "Laboratoire Informatique (EA6300), France, Universit&#233; Fran&#355;ois Rabelais Tours, Tours, France"
+    research "web page, dichromat user, web site"
   ]
   node [
     id 12
-    label "S L Marple"
-    affiliation "Oregon State University"
-    research "2-D tool, fast algorithm, least-squares-based minimum variance spectral"
+    label "Pierre Liardet"
+    affiliation "Laboratoire ATP, UMRCNRS 6632, Universit&#233; de Provence, CMI, Marseille, France"
+    research "subset GF, power consumption, binary sequence"
   ]
   node [
     id 13
-    label "Habti Abeida"
-    affiliation "Department of Electrical Engineering, King Fahd University of Petroleum &#38; Minerals, Dhahran, Saudi Arabia"
-    research "noncircular MUSIC algorithm, asymptotic distribution, DOA parameter"
+    label "Muhammad Muzzamil Luqman"
+    affiliation "Laboratoire d'Informatique, Universit&#233; Fran&#231;ois Rabelais de Tours, France and Computer Vision Center, Universitat Aut&#242;noma de Barcelona, Spain"
+    research "2-node sub graph, graph repository, explicit graph"
   ]
   node [
     id 14
-    label "Mark J. Bentum"
-    affiliation "University of Twente, Laboratory for Network Theory and VLSI Design, Enschede, The Netherlands"
-    research "OLFAR cluster, power dissipation, real-time volume"
+    label "Christiane Guinot"
+    affiliation "CE.R.I.E.S., NeuillysurSeine, France 92521"
+    research "data set, new bio-inspired algorithm, isolated data"
   ]
   node [
     id 15
-    label "Jan J. Gerbrands"
-    affiliation "Delft Univ. of Technology, Delft, The Netherlands"
-    research "closed minimal cost path, location system, Multiresolutional cluster segmentation"
+    label "M. Slimane"
+    affiliation "Universit&#38;#233/ Fran&#38;#231/ois Rabelais Tours, Laboratoire d'Informatique, 64, Avenue Jean Portalis, 37200 Tours France. Emails: {gueret,monmarche,slimane}@univtours.fr"
+    research "artificial ant, web site, ant colony"
   ]
   node [
     id 16
-    label "George-Othon Glentis"
-    affiliation "Dept. of Electron., TEI of Heraklion, Chinia"
-    research "proposed algorithm, efficient algorithm, TD-LMS algorithm"
+    label "T. Brouard"
+    affiliation "Universit&#233; Fran&#231;oisRabelais de Tours, Laboratoire Informatique, 64 avenue Jean Portalis, 37200 Tours, France"
+    research "2-node sub graph, graph repository, feature vector"
   ]
   node [
     id 17
-    label "Kexin Zhao"
-    affiliation "Department of Business Information Systems and Operations Management, Belk College of Business, University of North Carolina at Charlotte, 9201 University City Boulevard, Charlotte, NC 28223, USA"
-    research "continuance intention, passive adopter, piracy risk cost"
+    label "Pierre Gaucher"
+    affiliation "Laboratoire d'Informatique de l'Universit&#233; de Tours, Tours, France"
+    research "artificial ant, artificial insect, artificial ants meta-heuristic"
   ]
   node [
     id 18
-    label "C. H. Slump"
-    affiliation "Department of Applied Physics, Rijksuniversiteit Groningen, Nijenborgh 18, 9747 AG Groningen, The Netherlands"
-    research "power consumption, demon registration, Fountain code"
+    label "Jean-Yves Ramel"
+    affiliation "Nan"
+    research "graphical document, query signature, background blob"
   ]
   node [
     id 19
-    label "F. W. Hoeksema"
-    affiliation "The Signals and Systems Group, Department of Electrical Engineering, Faculty of EEMCS, University of Twente, AE Enschede, The Netherlands"
-    research "physical layer, M cycle, baseband software-defined radio"
+    label "Jean Pierre Asselin de Beauville"
+    affiliation "Nan"
+    research "Genetic AlgorithmContour-Detection, Learning Control, Multilayer Perception"
   ]
   edge [
     source 0
-    target 3
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 0
+    source 1
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 6
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 16
+    source 2
+    target 17
     relation "collaborate"
   ]
   edge [
     source 2
-    target 18
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 9
+    source 2
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 2
     target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 16
     relation "collaborate"
   ]
   edge [
@@ -166,22 +176,32 @@ graph [
   ]
   edge [
     source 3
-    target 6
+    target 4
     relation "collaborate"
   ]
   edge [
     source 3
-    target 11
+    target 18
     relation "collaborate"
   ]
   edge [
     source 3
-    target 17
+    target 16
     relation "collaborate"
   ]
   edge [
     source 4
-    target 7
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 16
     relation "collaborate"
   ]
   edge [
@@ -191,12 +211,22 @@ graph [
   ]
   edge [
     source 6
-    target 11
+    target 16
     relation "collaborate"
   ]
   edge [
     source 6
-    target 12
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -205,18 +235,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 18
     relation "collaborate"
   ]
   edge [
-    source 8
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 10
     target 14
     relation "collaborate"
   ]
   edge [
-    source 8
-    target 18
+    source 10
+    target 15
     relation "collaborate"
   ]
   edge [
@@ -225,8 +265,23 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 10
+    target 19
+    relation "collaborate"
+  ]
+  edge [
     source 11
-    target 13
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 11
+    target 14
     relation "collaborate"
   ]
   edge [
@@ -235,48 +290,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 13
-    target 17
+    source 12
+    target 15
     relation "collaborate"
   ]
   edge [
     source 13
     target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 18
     relation "collaborate"
   ]
   edge [
     source 14
-    target 18
+    target 15
     relation "collaborate"
   ]
   edge [
     source 15
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 16
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 16
     target 17
     relation "collaborate"
   ]
   edge [
-    source 18
+    source 15
     target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 15
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 18
     relation "collaborate"
   ]
 ]

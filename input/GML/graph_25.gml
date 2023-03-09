@@ -1,332 +1,252 @@
 graph [
   node [
     id 0
-    label "Yuko Murayama"
-    affiliation "Iwate Prefectural University, Takizawa, Iwate, Japan"
-    research "security threat, user security knowledge level, high security knowledge level"
+    label "Lieven De Lathauwer"
+    affiliation "Lieven.DeLathauwer@kuleuvenkortrijk.be"
+    research "singular value decomposition, canonical decomposition, cosine-sine decomposition"
   ]
   node [
     id 1
-    label "Hisao Koizumi"
-    affiliation "Tokyo Denki University"
-    research "sensor network system, cooperative problem, proposed method"
+    label "J. Vanthienen"
+    affiliation "Department of Applied Economic Sciences, K.U.Leuven, Naamsestraat 69, B3000 Leuven, Belgium"
+    research "decision table, process mining, process model"
   ]
   node [
     id 2
-    label "Naohisa Sakamoto"
-    affiliation "Kyoto University"
-    research "volume rendering, omni-directional display system, proposed technique"
+    label "P. Sas"
+    affiliation "Nan"
+    research "reference signal, extensive original reference set, extensive set"
   ]
   node [
     id 3
-    label "Hiroshi Yajima"
-    affiliation "RISTEX of the Japan Science and Technology Agency"
-    research "risk communication, consultation system, information acquisition"
+    label "Joris Vertommen"
+    affiliation "Centre for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A bus 2422, 3001 Heverlee, Belgium"
+    research "dissimilarity measure, Pairwise-adaptive dissimilarity measure, measure dynamically"
   ]
   node [
     id 4
-    label "Yasuo Ebara"
-    affiliation "Information and Communications Technology Services Planning Office, Osaka University, Ibaraki, Japan 5670047"
-    research "tiled display wall, video image, wide-area display"
+    label "Joost R. Duflou"
+    affiliation "Faculty of Engineering, Katholieke Universiteit Leuven, Belgium"
+    research "sheet metal, automated process planning, automatic process planning"
   ]
   node [
     id 5
-    label "Norihisa Segawa"
-    affiliation "Iwate Prefectural University"
-    research "Area Mail, sensor network, long distance communication sensor"
+    label "Bert Lauwers"
+    affiliation "Nan"
+    research "tool path, tool path track, error prediction tool"
   ]
   node [
     id 6
-    label "Basabi Chakraborty"
-    affiliation "Faculty of Software and Information Science, Iwate Prefectural University, 15252 Aza Sugo, Takizawamura, Iwate 0200193, Japan"
-    research "MTS data set, facial feature, feature selection"
+    label "L. Vandenberghe"
+    affiliation "Dept. of Electr. Eng., Californica Univ., Los Angeles, CA, USA"
+    research "interior-point method, convex optimization problem, sizing problem"
   ]
   node [
     id 7
-    label "Xuping Huang"
-    affiliation "Nan"
-    research "acoustic data, secret data, secret bit stream"
+    label "B. Willems"
+    affiliation "Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium"
+    research "US electronics, joint US EPA, active disassembly"
   ]
   node [
     id 8
-    label "Tomoki Yoshihisa"
-    affiliation "Academic Center for Computing and Media Studies, Kyoto University, Japan"
-    research "continuous media data, proposed method, sensor data"
+    label "W. Dewulf"
+    affiliation "Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium"
+    research "windshield wiper, Bosch windshield wiper, different environmental category"
   ]
   node [
     id 9
-    label "Takeshi Yatsuo"
-    affiliation "Kikyu.org"
-    research "long-distance communication, long-distance radio propagation experiment, low-power long-distance communication"
+    label "Bart De Moor"
+    affiliation "ESAT, SCDSISTA, K.U.Leuven, Kasteelpark Arenberg 10, B3001 LeuvenHeverlee, Belgium"
+    research "exact balanced representation, input-output data, finite time"
   ]
   node [
     id 10
-    label "Takashi Katoh"
-    affiliation "Fujitsu Laboratories Ltd., Kawasaki, Japan"
-    research "ubiquitous databases, DoS attack, single database"
+    label "P Van Dooren"
+    affiliation "paul.vandooren@uclouvain.be and absil@ inma.ucl.ac.be"
+    research "new algorithm, fellow matrix, generalized Schur algorithm"
   ]
   node [
     id 11
-    label "Carl Howard Hauser"
-    affiliation "Washington State University, Pullman, Washington"
-    research "real-time system, multicast graph, garbage collection"
+    label "Hendrik Van Brussel"
+    affiliation "Mechanical Engineering Department, Division PMA, Celestijnenlaan 300B, B3001 Heverlee, Belgium"
+    research "PAM hysteresis, Non-local memory hysteresis, hysteresis behavior"
   ]
   node [
     id 12
-    label "Takuya Sasaki"
-    affiliation "Faculty of Software and Information Science, Iwate Prefectural University, Japan"
-    research "P2P content retrieval system, content access, content access history"
+    label "Ruben Verlinden"
+    affiliation "Semantics Technology and Applications Research Laboratory, Vrije Universiteit Brussel"
+    research "competency model, information source, meaningful competency"
   ]
   node [
     id 13
-    label "Koji Koyamada"
-    affiliation "Nan"
-    research "Asian Simulation Conference, Systems Modeling"
+    label "A. M. Habraken"
+    affiliation "ArGEnCo, Universit&#233; de Li&#232;ge, Li&#232;ge, Belgium 4000"
+    research "finite element, constitutive law, finite element simulation"
   ]
   node [
     id 14
-    label "Hiroyasu Mitsui"
-    affiliation "Tokyo Denki University"
-    research "remote experiment, sensor network system, embedded system"
+    label "P. Van Houtte"
+    affiliation "MTM, Katholieke Universiteit Leuven, Heverlee, Belgium 3001"
+    research "Finite Element Simulation, finite element, constitutive law"
   ]
   node [
     id 15
-    label "Jun Sawamoto"
-    affiliation "Iwate Prefectural University, Japan"
-    research "ubiquitous databases, cooperative problem, proposed method"
+    label "H. Sol"
+    affiliation "Nan"
+    research "global financial transaction, global transaction, national market"
   ]
   node [
     id 16
-    label "Natsuko Hikage"
-    affiliation "Iwate Prefectural University"
-    research "security system, security technology, secure memo submission system"
+    label "Vincent J. Carey"
+    affiliation "Channing Laboratory, Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115, USA"
+    research "gene expression, microarray experiment, BioConductorThe microarray gene expression"
   ]
   node [
     id 17
-    label "Masatoshi Miyazaki"
-    affiliation "The author is with Argo Solutions Co., Ltd., Sendaishi, 9800811 Japan."
-    research "various communication, communication system, message board"
+    label "Dirk Cattrysse"
+    affiliation "Center for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A, B3001 Heverlee, Belgium"
+    research "truck scheduling problem, optimal site, compact patch"
   ]
   node [
     id 18
-    label "Ryota Kawashima"
-    affiliation "Nan"
-    research "virtual machine, Virtual Networking Function Container, OpenFlow-compatible vNFC configuration protocol"
+    label "Maja Hadzic"
+    affiliation "DEBII, Curtin University, Western Australia"
+    research "semantic web, semantic web application, web ontology"
   ]
   node [
     id 19
-    label "Yuji Wada"
-    affiliation "Department of Information Environment, Tokyo Denki University"
-    research "ubiquitous databases, single database, database management"
+    label "J. V&#225;ncza"
+    affiliation "Computer and Automation Research Institute, Hungarian Academy of Sciences, Hungary,Department of Manufacturing Science and Technology, Budapest University of Technology and Economics, Hungary"
+    research "sheet metal, process planning, automated process planning"
   ]
   edge [
     source 0
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 5
     target 9
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 10
+    source 1
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 5
+    source 2
     target 8
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 5
+    source 2
     target 11
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 12
+    source 3
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 5
+    source 3
     target 17
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 19
+    source 3
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 16
+    source 4
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 11
+    source 4
+    target 7
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 4
     target 13
     relation "collaborate"
   ]
   edge [
-    source 9
+    source 4
     target 15
     relation "collaborate"
   ]
   edge [
-    source 10
-    target 15
+    source 4
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 4
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 4
     target 19
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 12
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 9
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 9
     target 16
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 19
+    source 9
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 12
+    source 13
     target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 13
+    target 14
     relation "collaborate"
   ]
   edge [
     source 14
     target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 15
-    target 19
     relation "collaborate"
   ]
 ]

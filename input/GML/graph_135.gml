@@ -1,197 +1,222 @@
 graph [
   node [
     id 0
-    label "Caron Dzermajko"
-    affiliation "Department of Computer Sciences, University of North of Texas, Denton, TX 76203, U.S.A."
-    research "DDM method, DDM scheme, DDM implementation"
+    label "Rafael A. Perez"
+    affiliation "Dept. of Computer Science &#38; Engineering, University of South Florida, 4202 East Fowler Ave., ENB 118, Tampa, FL"
+    research "FC pilot, genetic algorithm, search technique"
   ]
   node [
     id 1
-    label "Alejandro C. Frery"
-    affiliation "CPMAT &#38; LCCV, Instituto de Computa&#231;&#231;&#227;o, Universidade Federal de Alagoas, BR 104 Norte km 97, Macei&#243; AL 57072970, Brazil"
-    research "edge detection, Nonparametric edge detection, alternative method"
+    label "Sam Chung"
+    affiliation "Nan"
+    research "Access Control, access control technique, risk-aware task-based access control"
   ]
   node [
     id 2
-    label "Alba Cristina Magalhaes Alves de Melo"
-    affiliation "Department of Computer Science, University of Brasilia (UnB), Brasilia, Brazil"
-    research "heterogeneous multicore cluster, appropriate fault tolerance technique, fault tolerance technique"
+    label "Anna Maria Radzikowska"
+    affiliation "Faculty of Mathematics and Information Science, Warsaw University of Technology, Plac Politechniki 1, Warsaw, Poland"
+    research "fuzzy rough set, rough set, binary fuzzy relation"
   ]
   node [
     id 3
-    label "A. Hossain"
-    affiliation "University of Ottawa, Ottawa, Canada"
-    research "haptic virtual object, current network delay, local user"
+    label "Barbara Endicott-Popovsky"
+    affiliation "University of Washington, Tacoma, WA"
+    research "low layer network device, threat modeling, digital forensics"
   ]
   node [
     id 4
-    label "Graciela Rom&#225;n-Alonso"
-    affiliation "Departamento de Ing. El&#233;ctrica, Universidad Aut&#243;noma Metropolitana, Izt., D.F., M&#233;xico"
-    research "porous network, data item, parallel application"
+    label "Young Choh"
+    affiliation "University of Washington  Tacoma, Tacoma, WA"
+    research "cloud computing, modern web application, KSAs support DevOps"
   ]
   node [
     id 5
-    label "Hammurabi C. Mendes"
-    affiliation "Brown University, Providence, USA"
-    research "multiple task allocation policy, memory consistency model, Byzantine process"
+    label "Chris Cornelis"
+    affiliation "Applied Math &#38; CS, UGent, 9000 Gent, Belgium. Emails: {Patricia.Victor, Chris.Cornelis, Martine.DeCock}@UGent.be"
+    research "triangle algebra, fuzzy set, fuzzy rough set"
   ]
   node [
     id 6
-    label "Ke Liu"
-    affiliation "Nan"
-    research "medium-sized city, Beijing city logistics, city logistics city logistics"
+    label "Don McLane"
+    affiliation "Computing &#38; Software Systems, Institute of Technology, University of Washington, Tacoma Box 358426, 1900 Commerce Street, Dougan 306 Tacoma, WA"
+    research "Internet applications course, open source software, programming language"
   ]
   node [
     id 7
-    label "Azzedine Boukerche"
-    affiliation "Wireless and Mobile Networking Research Laboratory"
-    research "Emergency Preparedness, emergency incident, emergency responder"
+    label "Davy Van Nieuwenborgh"
+    affiliation "Department of Computer Science, Vrije Universiteit Brussel, Pleinlaan 2, B1050 Brussel, Belgium (email: dvnieuwe@vub.ac.be, dvermeir@vub.ac.be)"
+    research "logic program, answer set semantics, open answer set semantics"
   ]
   node [
     id 8
-    label "Ednaldo B. Pizzolato"
-    affiliation "Federal University of S. Carlos, SP, Brazil"
-    research "multimodal interaction, social interaction, Multimodal Interface"
+    label "Yan Bai"
+    affiliation "lnstitute of Technology, University of Washington Tacoma, Tacoma, WA"
+    research "software product line architecture, nonfunctional requirement tradeoff analysis, nonfunctional requirement"
   ]
   node [
     id 9
-    label "Diego Daniel Duarte"
-    affiliation "Federal University of Minas Gerais, Belo Horizonte  Minas Gerais, Brazil"
-    research "seller profile, fixed-price online negotiation, online commercial activity"
+    label "Martine De Cock"
+    affiliation "Dept. of Applied Math., Comp. Sc. and Stat., UGent, Gent, Belgium"
+    research "fuzzy logic, fuzzy answer set programming, answer set"
   ]
   node [
     id 10
-    label "Yanjun Hu"
-    affiliation "Nan"
-    research "bottom ash, MSWI ash, fly ash"
+    label "Radha Poovendran"
+    affiliation "Unversity of Washington , Seattle, WA"
+    research "sensor network, wireless sensor network, wireless network"
   ]
   node [
     id 11
-    label "Kaiyuan Lu"
-    affiliation "School of Computer Science, Carleton University, Ottawa, Ontario, Canada"
-    research "context aware system, aggregates context information, context aggregation"
+    label "Jeroen Janssen"
+    affiliation "Department of computer science, vrije universiteit brussel pleinlaan 2, 1050 brussels, belgium (email: jeroen.janssen@vub.ac.be, dirk.vermeir@vub.ac.be)"
+    research "answer set, fuzzy answer set programming, fuzzy equilibrium logic"
   ]
   node [
     id 12
-    label "A K Datta"
-    affiliation "School of Computer Science, University of Nevada, Las Vegas,"
-    research "proposed algorithm, self-stabilizing algorithm, connected network"
+    label "C. Cornelis"
+    affiliation "Ghent University and University of Granada, Granada, Spain"
+    research "formal fuzzy logic, fuzzy set, interval-valued fuzzy logic"
   ]
   node [
     id 13
-    label "C. F. Chiasserini"
-    affiliation "CERCOMDipartimento di Elettronica, Politecnico di Torino Corso Duca degli Abruzzi, Torino, Italy"
-    research "sensor network, mobile network, network node"
+    label "E. Kerre"
+    affiliation "Fuzziness and Uncertainty Modelling Research Unit, Department of Applied Mathematics and Computer Science"
+    research "fuzzy set theory, fuzzy set, fuzzy morphological operation"
   ]
   node [
     id 14
-    label "J.-R. Sack"
-    affiliation "MaxPlanckInstitute for Informatics, Stuhlsatzenhausweg 85, 66123 Saarbr&#252;cken, Germany"
-    research "shortest path, time O, earliest arrival time"
+    label "Zac Bylin"
+    affiliation "Boeing Company"
+    research "asurveillance system, biometric attendance system, sale system"
   ]
   node [
     id 15
-    label "D. Nussbaum"
-    affiliation "Carleton University"
-    research "P touch, larger treatment area, radiotherapy treatment"
+    label "Paulo Pinheiro Da Silva"
+    affiliation "Knowledge Systems Laboratory, Stanford University, Stanford, CA 94305, USA"
+    research "Inference Web, information source, unstructured information"
   ]
   node [
     id 16
-    label "Samer Samarah"
-    affiliation "Department of Computer Information Systems, Yarmouk University, Irbed 21163, Jordan."
-    research "sensor node, behavioral pattern, service provider"
+    label "Jack Nelson"
+    affiliation "Univ. of WA Tacoma"
+    research "web service, legacy software system, software reengineering"
   ]
   node [
     id 17
-    label "Sotiris Nikoletseas"
-    affiliation "Computer Technology Institute, P.O. Box 1122, 26110 Patras, Greece, Department of Computer Engineering &#38; Informatics, University of Patras, 26500 Patras, Greece"
-    research "wireless sensor network, sensor network, wireless network"
+    label "Yun-Sik Lee"
+    affiliation "Nan"
+    research "web application, data language, language dependency"
   ]
   node [
     id 18
-    label "A. Corradi"
-    affiliation "Nan"
-    research ""
+    label "Lirong Dai"
+    affiliation "Department of Computer Science and Software Engineering, Seattle University, Seattle, WA"
+    research "non-functional requirement, Formal Design Analysis Framework, aspect-oriented approach"
   ]
   node [
     id 19
-    label "Alba C.  M.  A. Melo"
-    affiliation "University of Brasilia (UnB), Department of Computer Science, Campus UNB  ICCNorte  subsolo, 70910900 BrasiliaDF, Brazil and University of Ottawa (SITE), PARADISE Research Laboratory, 800 Ki ..."
-    research "grid environment, multiple task allocation policy, adaptive task allocation framework"
+    label "Meeta Sharma"
+    affiliation "Nan"
+    research "promising application, social healthcare network, edge technology"
   ]
   edge [
     source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 7
+    target 1
     relation "collaborate"
   ]
   edge [
     source 1
-    target 7
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 2
-    target 7
+    source 1
+    target 4
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 7
+    source 1
+    target 10
     relation "collaborate"
   ]
   edge [
-    source 4
-    target 7
+    source 1
+    target 8
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 7
+    source 1
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 5
-    target 19
+    source 1
+    target 3
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 7
+    source 1
     target 17
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 13
+    source 1
+    target 18
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 11
+    source 1
+    target 19
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 1
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 11
     relation "collaborate"
   ]
   edge [
@@ -200,38 +225,48 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 7
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 7
+    source 8
     target 18
     relation "collaborate"
   ]
   edge [
-    source 7
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 8
     target 10
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 9
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 14
+    source 9
+    target 11
     relation "collaborate"
   ]
   edge [
-    source 13
-    target 17
+    source 9
+    target 13
     relation "collaborate"
   ]
   edge [
-    source 14
-    target 15
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 12
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 18
+    target 19
     relation "collaborate"
   ]
 ]

@@ -1,55 +1,56 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bb3d6be0-b645-4ffb-8045-8e46b5e8f2aa.json
-# GMT Tue Mar  7 12:23:05 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
+# GMT Wed Mar  8 14:12:09 2023
 # 
-Young Gu Lee	2
-Moon-seog Jun	{'relation': 'collaborate'}
-Hoon Ko	{'relation': 'collaborate'}
-Hyun-Joo Moon	2
-Hoon Ko	{'relation': 'collaborate'}
-Jongchan Lee	{'relation': 'collaborate'}
-Kwang-Hyung Lee	2
-Hoon Ko	{'relation': 'collaborate'}
-Moon-seog Jun	{'relation': 'collaborate'}
-Intae Ryoo	1
-Hoon Ko	{'relation': 'collaborate'}
-Hoon Ko	15
-Zita A. Vale	{'relation': 'collaborate'}
-Hae-Seok Oh	{'relation': 'collaborate'}
-Hanmin Jung	{'relation': 'collaborate'}
-Yongtae Shin	{'relation': 'collaborate'}
-Carlos Freitas	{'relation': 'collaborate'}
-Carlos Ramos	{'relation': 'collaborate'}
-Jongchan Lee	{'relation': 'collaborate'}
-Myunggwon Hwang	{'relation': 'collaborate'}
-Hayoung Park	{'relation': 'collaborate'}
-Tai-hoon Kim	{'relation': 'collaborate'}
-Marek R. Ogiela	{'relation': 'collaborate'}
-Yongjun Lee	{'relation': 'collaborate'}
-Ilsun You	{'relation': 'collaborate'}
-Moon-seog Jun	{'relation': 'collaborate'}
-Seonho Kim	{'relation': 'collaborate'}
-Yongtae Shin	2
-Hayoung Park	{'relation': 'collaborate'}
-Hae-Seok Oh	{'relation': 'collaborate'}
-Jongchan Lee	0
-Hayoung Park	0
-Moon-seog Jun	0
-Carlos Ramos	3
-Carlos Freitas	{'relation': 'collaborate'}
-Tai-hoon Kim	{'relation': 'collaborate'}
-Zita A. Vale	{'relation': 'collaborate'}
-Carlos Freitas	0
-Hanmin Jung	2
-Myunggwon Hwang	{'relation': 'collaborate'}
-Tai-hoon Kim	{'relation': 'collaborate'}
-Yongjun Lee	0
-Marek R. Ogiela	1
-Ilsun You	{'relation': 'collaborate'}
-Zita A. Vale	2
-Tai-hoon Kim	{'relation': 'collaborate'}
-Myunggwon Hwang	{'relation': 'collaborate'}
-Seonho Kim	0
-Ilsun You	0
-Tai-hoon Kim	0
-Hae-Seok Oh	0
-Myunggwon Hwang	0
+A G Barto	4
+Toby Dragon	{'relation': 'collaborate'}
+Beverly P. Woolf	{'relation': 'collaborate'}
+Jeff Johns	{'relation': 'collaborate'}
+Sridhar Mahadevan	{'relation': 'collaborate'}
+Jeff Johns	3
+Sridhar Mahadevan	{'relation': 'collaborate'}
+Beverly P. Woolf	{'relation': 'collaborate'}
+Toby Dragon	{'relation': 'collaborate'}
+Hava Tova Siegelmann	1
+Beverly P. Woolf	{'relation': 'collaborate'}
+Robert Maloy	2
+Beverly P. Woolf	{'relation': 'collaborate'}
+Leena Razzaq	{'relation': 'collaborate'}
+Rana El Kaliouby	3
+Beverly P. Woolf	{'relation': 'collaborate'}
+Rosalind Wright Picard	{'relation': 'collaborate'}
+Toby Dragon	{'relation': 'collaborate'}
+Dan Suthers	2
+Beverly P. Woolf	{'relation': 'collaborate'}
+Elliot Soloway	{'relation': 'collaborate'}
+J. Brooks	1
+Beverly P. Woolf	{'relation': 'collaborate'}
+Klaus Schultz	2
+Beverly P. Woolf	{'relation': 'collaborate'}
+Carole R. Beal	{'relation': 'collaborate'}
+Beverly P. Woolf	11
+Scott D. Anderson	{'relation': 'collaborate'}
+Rosalind Wright Picard	{'relation': 'collaborate'}
+Toby Dragon	{'relation': 'collaborate'}
+Dan Murray	{'relation': 'collaborate'}
+Leena Razzaq	{'relation': 'collaborate'}
+Sridhar Mahadevan	{'relation': 'collaborate'}
+Kasia Muldner	{'relation': 'collaborate'}
+Esma Aimeur	{'relation': 'collaborate'}
+Elliot Soloway	{'relation': 'collaborate'}
+Carole R. Beal	{'relation': 'collaborate'}
+Ted Slovin	{'relation': 'collaborate'}
+Kasia Muldner	1
+Toby Dragon	{'relation': 'collaborate'}
+Dan Murray	1
+Toby Dragon	{'relation': 'collaborate'}
+Toby Dragon	2
+Rosalind Wright Picard	{'relation': 'collaborate'}
+Sridhar Mahadevan	{'relation': 'collaborate'}
+Rosalind Wright Picard	0
+Scott D. Anderson	0
+Ted Slovin	0
+Carole R. Beal	0
+Sridhar Mahadevan	0
+Leena Razzaq	0
+Elliot Soloway	0
+Esma Aimeur	0
