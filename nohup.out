@@ -167,3 +167,4 @@ IndexError: list index out of range
 0it [00:00, ?it/s][A2023-03-14 14:46:18,595 - wandb.wandb_agent - INFO - Running runs: ['5qdjpn1g']
 
 1it [00:47, 47.89s/it][A
+2it [01:22, 39.89s/it][A
