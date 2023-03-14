@@ -154,6 +154,7 @@ def main(config, seed=0):
                     response   = GPT(data)
                     # print(response)
                     # print(json.loads(response.text))
+                    # print(data["prompt"])
                     answer     = json.loads(response.text)["choices"][0]["text"].strip()
                     print(answer)
                     pred       = answer_cleasing(config, answer)

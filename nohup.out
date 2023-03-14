@@ -1618,3 +1618,253 @@ The clustering coefficient of Bo Yang is 0.
   warnings.warn('resource_tracker: There appear to be %d '
 /opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
   warnings.warn('resource_tracker: There appear to be %d '
+wandb: Starting wandb agent 🕵️
+2023-03-14 15:39:33,441 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 15:39:34,018 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 15:39:34,019 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 15:39:34,022 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 15:39:39,037 - wandb.wandb_agent - INFO - Running runs: ['5e040lun']
+wandb: Starting wandb agent 🕵️
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_153936-5e040lun
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run wise-sweep-1
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/gdny62yo
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/5e040lun
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A2023-03-14 15:39:49,136 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 15:39:49,731 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 15:39:49,732 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: one_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 15:39:49,735 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=one_shot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 15:39:54,746 - wandb.wandb_agent - INFO - Running runs: ['41atx14r']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_153954-41atx14r
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fine-sweep-2
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/gdny62yo
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/41atx14r
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A
+1it [01:04, 64.63s/it][A
+1it [01:04, 64.49s/it][A
+2it [01:35, 44.80s/it][A
+2it [01:42, 48.90s/it][A
+3it [02:05, 38.21s/it][AThe clustering coefficient of C. C. Goodyear is 0 since it has no neighbors.
+The clustering coefficient of D. Wei is 0.5. This is because D. Wei has 6 neighbors (C. C. Goodyear, C. S. Burrus, Robert B. France, H. Guo, M. Lang, and S. Guo) and 5 of them are connected (C. C. Goodyear, C. S. Burrus, Robert B. France, H. Guo, and M. Lang). Thus, the clustering coefficient of D. Wei is 5/6 = 0.5.
+The clustering coefficient of C. S. Burrus is 0.67. This is calculated by counting the number of edges between the three neighbors of C. S. Burrus (Burrus, Guo, and Wei) and dividing by the total number of possible edges between the three neighbors (3).
+The clustering coefficient of M. Lang is 0.33.
+The clustering coefficient of H. Guo is 0.5. This is because H. Guo has three neighbors (C. S. Burrus, M. Lang, and D. Wei) and all three of them are connected.
+The clustering coefficient of Robert B. France is 0.47.
+The clustering coefficient of E. B. Fernandez is 0.5. This is because E. B. Fernandez has 6 neighbors (C. C. Goodyear, Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, and D. Wei) and 5 of these neighbors are connected (C. C. Goodyear, Robert B. France, James M. Bieman, Behzad Bordbar, and D. Wei). Thus, the clustering coefficient is 5/6 = 0.5.
+The clustering coefficient of James M. Bieman is 0.33.
+The clustering coefficient of Behzad Bordbar is 0.33.
+The clustering coefficient of Cris Kobryn is 0.33.
+The clustering coefficient of Jennifer Horkoff is 0.0 since she has no neighbors in the graph.
+The clustering coefficient of Prabhakar M. Koushik is 0.5. This is because Prabhakar M. Koushik has 6 neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, and Sean Thorpe) and 5 of the 6 neighbors are connected (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, and Jennifer Horkoff). Thus, the clustering coefficient is 5/6 = 0.5.
+The clustering coefficient of Steffen Zschaler is 0.5. This is because Steffen Zschaler has 8 neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, Prabhakar M. Koushik, Philippe Collet, and Stuart Kent) and 6 of them are connected (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Prabhakar M. Koushik, and Philippe Collet). Therefore, the clustering coefficient of Steffen Zschaler is 6/8 = 0.5.
+The clustering coefficient of Philippe Collet is 0.5, since he has 6 neighbors and 3 of them are connected.
+The clustering coefficient of Stuart Kent is 0.33.
+The clustering coefficient of Frank Hernandez is 0.5. This is because he has 6 neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, and Prabhakar M. Koushik) and 5 of the 6 neighbors are connected (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, and Jennifer Horkoff). Thus, the clustering coefficient of Frank Hernandez is 5/6 = 0.5.
+The clustering coefficient of Y. Raghu Reddy is 0.5. This is because Y. Raghu Reddy has 12 neighbors and 6 of them are connected. Thus, 6/12 = 0.5.
+The clustering coefficient of C. Atkinson is 0.0, since none of his neighbors are connected.
+The clustering coefficient of Sean Thorpe is 0.0, since he has no neighbors in this graph.
+The clustering coefficient of S. Guo is 0.0, since S. Guo has 3 neighbors (D. Wei, M. Lang, and H. Guo) but none of them are connected.
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.19', '1.0', '1.0', '1.0', '0.01', '1.0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Dajun Du is 0.67. This is because Dajun Du has 3 neighbors (Kang Li, Jing Deng, and G. W. Irwin) and all 3 of them are connected.
+The clustering coefficient of Kang Li is 0.67.
+The clustering coefficient of Jing Deng is 0.75.
+The clustering coefficient of G. W. Irwin is 0.5. G. W. Irwin has 4 neighbors (Dajun Du, Kang Li, Jing Deng, Wei Wu) and 3 of them are connected (Dajun Du, Kang Li, Jing Deng). Thus, the clustering coefficient of G. W. Irwin is 3/4 = 0.5.
+The clustering coefficient of Wei Wu is 0.67.
+0.5
+The clustering coefficient of Thomas Fang Zheng is 0.5. This is because Thomas Fang Zheng has 6 neighbors (Wei Wu, Jian Wu, Lei He, Jian Liu, Zhanjiang Song, and Lihong Zhang) and 3 of them (Wei Wu, Jian Wu, and Lihong Zhang) are connected. Therefore, the clustering coefficient of Thomas Fang Zheng is 3/6 = 0.5.
+The clustering coefficient of Jian Liu is 0.67.
+The clustering coefficient of Lihong Zhang is 0.67.
+The clustering coefficient of Qixiu Hu is 0.5. This is because Qixiu Hu has two neighbors (Wenhu Wu and Yue Pan) and both of them are connected. Therefore, the clustering coefficient of Qixiu Hu is 2/4 = 0.5.
+The clustering coefficient of Wenhu Wu is 0.5. This is because Wenhu Wu has 8 neighbors and 6 of them are connected. Therefore, the clustering coefficient of Wenhu Wu is 6/8 = 0.5.
+The clustering coefficient of Yue Pan is 0.5. This is because Yue Pan has two neighbors (Qixiu Hu and Wenhu Wu) and both of them are connected.
+The clustering coefficient of Jian Wu is 0.5. This is because Jian Wu has 4 neighbors (Lei He, Wenhu Wu, Thomas Fang Zheng and Jian Liu) and 3 of them are connected (Lei He, Wenhu Wu and Thomas Fang Zheng). Therefore, the clustering coefficient of Jian Wu is 3/4 = 0.5.
+Lei He has three neighbors (Wei Wu, Jian Wu, and Wenhu Wu). Two of these neighbors are connected (Wei Wu and Wenhu Wu). Therefore, the clustering coefficient of Lei He is 0.33.
+The clustering coefficient of Lixin Fu is 0.33.
+The clustering coefficient of Honggang Li is 0.33.
+The clustering coefficient of Jingwei Miao is 0.5. Jingwei Miao has 4 neighbors (Dajun Du, Kangbin Yim, Chi Lin, and Jing Deng). Of those 4 neighbors, 3 of them are connected (Dajun Du, Kangbin Yim, and Chi Lin). Therefore, the clustering coefficient of Jingwei Miao is 3/4 = 0.5.
+The clustering coefficient of Kangbin Yim is 0.5. This is because Kangbin Yim has three neighbors (Jing Deng, Chi Lin, and Jingwei Miao) and all three of them are connected.
+The clustering coefficient of Chi Lin is 0.33.
+The clustering coefficient of Yunghsiang S. Han is 0.33.
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['1.0', '1.0', '0.14', '1.0', '0.7', '1.0', '0.6', '0.67', '1.0', '1.0', '0.19', '1.0', '1.0', '1.0', '0', '0', '1.0', '1.0', '1.0', '0']
+The clustering coefficient of Yuyong Cui is 0.5. This is because Yuyong Cui has 4 neighbors (Zhiyuan Zeng, Xiaojun Tan, Liu Liu, and Mu Zhou) and 3 of them are connected (Zhiyuan Zeng, Xiaojun Tan, and Mu Zhou). Thus, the clustering coefficient of Yuyong Cui is 3/4 = 0.5.
+The clustering coefficient of Zhiyuan Zeng is 0.5.
+The clustering coefficient of Xiaojun Tan is 0.5. This is calculated by counting the number of connections between Xiaojun Tan's neighbors (Yuyong Cui, Zhiyuan Zeng, Liu Liu, and Mu Zhou) and dividing that number by the total number of possible connections (6).
+The clustering coefficient of Liu Liu is 0.33.
+The clustering coefficient of Mu Zhou is 0.5. This is because Mu Zhou has 4 neighbors (Yuyong Cui, Jianzhong Zhou, Xiaojun Tan, and Bo Li) and 3 of them are connected (Yuyong Cui, Jianzhong Zhou, and Xiaojun Tan). Therefore, the clustering coefficient of Mu Zhou is 3/4 = 0.5.
+The clustering coefficient of Lin Li is 0.6.
+The clustering coefficient of Xia Hu is 0.33.
+The clustering coefficient of Jiang Tao is 0.00 since he has no neighbors connected to each other.
+The clustering coefficient of Stephen D. Scott is 0.0, since he has no neighbors.
+The clustering coefficient of Jinzhong Chen is 0.0 since he has no neighbors and is not connected to any other nodes.
+The clustering coefficient of Man Lan is 0.33.
+The clustering coefficient of Dongsheng Yu is 0.5. This is because Dongsheng Yu has 3 neighbors (Wei Zheng, Zhenlong Zhang, and Zhiyuan Zeng) and all 3 of them are connected.
+The clustering coefficient of Zhenlong Zhang is 0.5.
+The clustering coefficient of Wei Zheng is 0.67.
+
+3it [02:34, 50.34s/it][A
+4it [02:54, 42.36s/it][A0
+The clustering coefficient of D. Wei is 0.5. This is calculated by counting the number of edges between the neighbors of D. Wei (in this case, C. S. Burrus, H. Guo, M. Lang, E. B. Fernandez, and S. Guo) and dividing it by the maximum number of edges that could exist between them (in this case, 10).
+The clustering coefficient of C. S. Burrus is 0.5. This is calculated by taking the number of edges between the neighbors of C. S. Burrus (6) and dividing it by the maximum number of edges possible between those neighbors (12).
+The clustering coefficient of M. Lang is 0.5. This is calculated by counting the number of edges between the neighbors of M. Lang (in this case, H. Guo and D. Wei) and dividing it by the maximum number of edges that could exist between them (in this case, 2).
+The clustering coefficient of H. Guo is 0.5. This is calculated by counting the number of edges between the neighbors of H. Guo (C. S. Burrus, M. Lang, and D. Wei) and dividing by the maximum number of edges possible between them (3).
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of Cris Kobryn is 0.5. This is calculated by counting the number of edges between the neighbors of Cris Kobryn (Robert B. France, James M. Bieman, Behzad Bordbar, Jennifer Horkoff, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the maximum number of edges that could exist between them (15).
+The clustering coefficient of Jennifer Horkoff is 0.2. This is calculated by counting the number of connections between her and her neighbors (Robert B. France, Behzad Bordbar, Cris Kobryn, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the total number of possible connections between her and her neighbors (15).
+The clustering coefficient of Prabhakar M. Koushik is 0.2. This is calculated by counting the number of connections between Prabhakar M. Koushik's neighbors and dividing it by the maximum number of connections possible. In this case, Prabhakar M. Koushik has two neighbors (Robert B. France and Jennifer Horkoff) and there is one connection between them, so the clustering coefficient is 1/5 = 0.2.
+0.5
+The clustering coefficient of Philippe Collet is 0.5. This is calculated by counting the number of edges between Philippe Collet's neighbors (Robert B. France, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing by the total number of possible edges between them (7).
+The clustering coefficient of Stuart Kent is 0.333. This is calculated by counting the number of connections between the nodes connected to Stuart Kent (in this case, Robert B. France and C. Atkinson) and dividing it by the total number of possible connections between them (in this case, 3).
+0.14285714285714285
+The clustering coefficient of Y. Raghu Reddy is 0.5. This is calculated by counting the number of edges between the neighbors of Y. Raghu Reddy (in this case, Robert B. France, C. Atkinson, Sean Thorpe, and D. Wei) and dividing by the maximum number of edges that could exist between them (in this case, 6).
+0.0
+0.2
+0.0
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.19', '1.0', '1.0', '1.0', '0.01', '1.0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+0.33
+0.6
+0.375
+0.5
+0.5
+0.5
+0.25
+2/7 = 0.2857
+0.25
+0.6
+0.25
+0.4
+Lei He is connected to Jian Wu and Wenhu Wu, so the clustering coefficient of Lei He is 2/3 = 0.667.
+0.25
+0.2
+0.5
+0.5
+0.25
+0.2
+['0', '0', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0'] ['1.0', '1.0', '0.14', '1.0', '0.7', '1.0', '0.6', '0.67', '1.0', '1.0', '0.19', '1.0', '1.0', '1.0', '0', '0', '1.0', '1.0', '1.0', '0']
+The clustering coefficient of Yuyong Cui is 0.4. This is calculated by counting the number of edges between Yuyong Cui's neighbors (4) and dividing it by the total number of possible edges between them (10).
+0.5
+2/7 = 0.2857
+0.25
+0.4
+The clustering coefficient of Lin Li is 0.769.
+0.25
+0.0
+0
+0.2
+0.0
+0.4
+0.5
+0.2
+0.5
+0.5
+0.5
+0.2
+0.0
+0.2
+['0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0.83', '0.21', '0.6', '1.0', '0.6', '0.17', '0', '0', '0', '0', '0', '1.0', '1.0', '1.0', '0.6', '0.67', '0.83', '1.0', '0', '0.67']
+Since J. Widmer is only connected to one node (Martin Mauve), the clustering coefficient of J. Widmer is 0.
+0.5
+The clustering coefficient of Holger Füβler is 0.5.
+The clustering coefficient of Björn Scheuermann is 0.4.
+The clustering coefficient of Marcel Busse is 0.5. This is calculated by counting the number of edges between the neighbors of Marcel Busse (Holger Füßler, Martin Mauve, and Björn Scheuermann) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Thomas Lang is 0.5. This is calculated by counting the number of connections between Thomas Lang's neighbors (Holger Füßler, Martin Mauve) and dividing it by the total number of possible connections between them (3).
+The clustering coefficient of Holger Füßler is 0.5.
+The clustering coefficient of Erzen Hyko is 0.0, since Erzen Hyko is not connected to any other nodes in the network.
+The clustering coefficient of Jürgen Vogel is 0.5. This is calculated by counting the number of edges between the neighbors of Jürgen Vogel (in this case, Holger Füßler, Marcel Busse, Martin Mauve, and Dirk Farin) and dividing it by the total number of possible edges between them (in this case, 6).
+0.4
+The clustering coefficient of Dirk Farin is 0.333. This is calculated by counting the number of connections that Dirk Farin has with other nodes in the network (6) and dividing it by the total number of possible connections (18).
+0.25
+The clustering coefficient of Daniel Jiang is 0.5. This is calculated by counting the number of connections between his neighbors (Holger Füßler, Martin Mauve, and Rajeev Shorey) and dividing by the total number of possible connections between them (3).
+The clustering coefficient of Rajeev Shorey is 0.33.
+The clustering coefficient of Bernd Lamparter is 0.5. This is calculated by counting the number of edges between the neighbors of Bernd Lamparter (Marcel Busse and Martin Mauve) and dividing it by the maximum number of edges that could exist between them (2).
+The clustering coefficient of Varsha Sadekar is 0.33. This is calculated by counting the number of edges between the neighbors of Varsha Sadekar (in this case, Martin Mauve) and dividing it by the maximum number of edges that could exist between them (which is 6).
+The clustering coefficient of Magnus Roos is 0.5. This is calculated by counting the number of edges between the neighbors of Magnus Roos (in this case, Martin Mauve and Björn Scheuermann) and dividing it by the total number of possible edges between them (in this case, 3).
+The clustering coefficient of Stefan Fischer is 0.4. This is calculated by counting the number of connections between Stefan Fischer's neighbors (6) and dividing it by the total number of possible connections between them (15).
+0.2
+The clustering coefficient of Frank Fitzek is 0.25. This is calculated by counting the number of edges between the nodes connected to Frank Fitzek (4 edges) and dividing it by the total number of possible edges between those nodes (16 edges).
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.06', '1.0', '0.67', '0.67', '1.0', '0.67', '0', '0.67', '1.0', '1.0', '1.0', '1.0', '1.0', '1.0', '0', '1.0', '0', '0', '0']
+The clustering coefficient of J. Appelman is 0.4. This is calculated by taking the number of connections between J. Appelman's direct connections (5) and dividing it by the total number of possible connections between those direct connections (10).
+The clustering coefficient of Mariëlle den Hengst is 0.6.
+The clustering coefficient of Vlatka Hlupic is 0.5.
+0.5
+The clustering coefficient of Gert-Jan de Vreede is 0.5.
+0.5
+0.4
+0.2
+
+4it [03:19, 48.13s/it][A
+5it [03:33, 41.12s/it][A
+6it [04:07, 38.76s/it][AThe clustering coefficient of Jianzhong Zhou is 0.5. This is because Jianzhong Zhou has 5 neighbors (Yuyong Cui, Lin Li, Xiaojun Tan, Bo Li, and Han Zhou) and 3 of them (Lin Li, Bo Li, and Han Zhou) are connected. Therefore, the clustering coefficient is 3/5 = 0.5.
+The clustering coefficient of Cheng Wang is 0.5. This is because Cheng Wang has two neighbors (Weihua Lin and Zhiyuan Zeng) and both of them are connected. Therefore, the clustering coefficient of Cheng Wang is 2/4 = 0.5.
+The clustering coefficient of Bo Li is 0.5. This is because Bo Li has 3 neighbors (Mu Zhou, Cheng Wang, and Zhiyuan Zeng) and all 3 of them are connected.
+The clustering coefficient of Han Zhou is 0.33.
+The clustering coefficient of Wenli Yang is 0.0, since he only has one neighbor (Zhiyuan Zeng) and they are not connected.
+The clustering coefficient of Weihua Lin is 0.5. This is because Weihua Lin has 4 neighbors (Yuyong Cui, Xiaojun Tan, Zhiyuan Zeng, and Cheng Wang) and 3 of the 4 neighbors are connected (Yuyong Cui, Xiaojun Tan, and Cheng Wang). Therefore, the clustering coefficient of Weihua Lin is 3/4 = 0.5.
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0.83', '0.21', '0.6', '1.0', '0.6', '0.17', '0', '0', '0', '0', '0', '1.0', '1.0', '1.0', '0.6', '0.67', '0.83', '1.0', '0', '0.67']
+The clustering coefficient of J. Widmer is 0.0 since he has no neighbors.
+The clustering coefficient of Martin Mauve is 0.75.
+The clustering coefficient of Holger Füβler is 0.5. This is because Holger Füβler has 4 neighbors (J. Widmer, Björn Scheuermann, Marcel Busse, and Martin Mauve) and 3 of them are connected (Björn Scheuermann, Marcel Busse, and Martin Mauve). Therefore, the clustering coefficient of Holger Füβler is 3/4 = 0.5.
+The clustering coefficient of Björn Scheuermann is 0.5. This is because Björn Scheuermann has 4 neighbors (Holger Füßler, Marcel Busse, Magnus Roos, and Martin Mauve) and 3 of them are connected (Holger Füßler, Marcel Busse, and Magnus Roos). Therefore, the clustering coefficient of Björn Scheuermann is 3/4 = 0.5.
+The clustering coefficient of Marcel Busse is 0.5. This is because Marcel Busse has 3 neighbors (Holger Füßler, Martin Mauve, and Björn Scheuermann) and all 3 of them are connected. Therefore, the clustering coefficient of Marcel Busse is 3/6 = 0.5.
+The clustering coefficient of Thomas Lang is 0.5. This is because Thomas Lang has two neighbors (Holger Füßler and Martin Mauve) and both of them are connected to each other.
+The clustering coefficient of Holger Füßler is 0.5. This is calculated by counting the number of edges between his neighbors (3 edges) and dividing it by the maximum number of edges possible between his neighbors (6 edges).
+The clustering coefficient of Erzen Hyko is 0.33.
+The clustering coefficient of Jürgen Vogel is 0.67. This is because he has 4 neighbors and 3 of them are connected.
+The clustering coefficient of Volker Hilt is 0.5. This is because Volker Hilt has 4 neighbors (Jürgen Vogel, Martin Mauve, Frank Fitzek, and Dirk Farin) and 3 of them are connected (Jürgen Vogel, Martin Mauve, and Dirk Farin). Thus, the clustering coefficient is 3/4 = 0.5.
+The clustering coefficient of Dirk Farin is 0.5. This is because Dirk Farin has 4 neighbors (Holger Füßler, Jürgen Vogel, Martin Mauve, and Marcel Busse) and 3 of them are connected (Holger Füßler, Jürgen Vogel, and Martin Mauve). Therefore, the clustering coefficient of Dirk Farin is 3/4 = 0.5.
+The clustering coefficient of Dieter Vollmer is 0.5. This is because Dieter Vollmer has 4 neighbors (Holger Füßler, Martin Mauve, Jürgen Vogel, and Dieter Vollmer himself) and 3 of them are connected (Holger Füßler, Martin Mauve, and Jürgen Vogel). Therefore, the clustering coefficient of Dieter Vollmer is 3/4 = 0.5.
+The clustering coefficient of Daniel Jiang is 0.5. This is because Daniel Jiang has two neighbors (Rajeev Shorey and Martin Mauve) and both of them are connected.
+The clustering coefficient of Rajeev Shorey is 0.5. There are four neighbors of Rajeev Shorey (Martin Mauve, Daniel Jiang, Björn Scheuermann, and Magnus Roos). Three of those neighbors are connected (Martin Mauve, Daniel Jiang, and Björn Scheuermann), so the clustering coefficient of Rajeev Shorey is 3/4 = 0.5.
+The clustering coefficient of Bernd Lamparter is 0.5. This is because Bernd Lamparter has two neighbors (Martin Mauve and Marcel Busse) and both of them are connected to each other. Therefore, the clustering coefficient of Bernd Lamparter is 2/3 = 0.5.
+The clustering coefficient of Varsha Sadekar is 0.5. This is because Varsha Sadekar has 4 neighbors (J. Widmer, Holger Füßler, Thomas Lang, and Erzen Hyko) and 3 of them are connected (Holger Füßler, Thomas Lang, and Erzen Hyko). Therefore, the clustering coefficient of Varsha Sadekar is 3/4 = 0.5.
+The clustering coefficient of Magnus Roos is 0.5. This is because he has two neighbors (Martin Mauve and Björn Scheuermann) and both of them are connected.
+The clustering coefficient of Stefan Fischer is 0.5. This is because he has four neighbors (J. Widmer, Holger Füßler, Thomas Lang, and Martin Mauve) and three of them are connected (Holger Füßler, Thomas Lang, and Martin Mauve). Thus, the clustering coefficient of Stefan Fischer is 3/4 = 0.5.
+The clustering coefficient of Andreas Barthels is 0.33.
+The clustering coefficient of Frank Fitzek is 0.33.
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.06', '1.0', '0.67', '0.67', '1.0', '0.67', '0', '0.67', '1.0', '1.0', '1.0', '1.0', '1.0', '1.0', '0', '1.0', '0', '0', '0']
+The clustering coefficient of J. Appelman is 0.75. This is calculated by counting the number of edges between the neighbors of J. Appelman (4 edges) and dividing it by the maximum number of edges that could exist between the neighbors (6 edges).
+The clustering coefficient of Mariëlle den Hengst is 0.75.
+The clustering coefficient of Vlatka Hlupic is 0.5. This is because Vlatka Hlupic has three neighbors (J. Appelman, Alan Serrano, and Wendy Currie) and all three of them are connected (J. Appelman and Alan Serrano are connected, and Wendy Currie and Alan Serrano are connected). Therefore, the clustering coefficient of Vlatka Hlupic is 3/6 = 0.5.
+The clustering coefficient of Alan Serrano is 0.5. This is because Alan Serrano has 3 neighbors (J. Appelman, Vlatka Hlupic, and Mariëlle den Hengst) and all 3 of them are connected.
+The clustering coefficient of Gert-Jan de Vreede is 0.75. This is because Gert-Jan de Vreede has 6 neighbors (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, H. Sol, Vlatka Hlupic, and Alan Serrano) and 5 of the 6 neighbors are connected (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, Vlatka Hlupic, and Alan Serrano). The clustering coefficient is calculated by dividing the number of connected neighbors (5) by the total number of neighbors (6) and multiplying by 100, resulting in a clustering coefficient of 0.75.
+The clustering coefficient of Gwendolyn Kolfschoten is 0.5. This is calculated by counting the number of edges between her neighbors (3 edges) and dividing it by the total number of possible edges between her neighbors (6 edges).
+The clustering coefficient of Jay F Nunamaker is 0.6.
+The clustering coefficient of Doug Dean is 0.75. This is calculated by counting the number of connections between his neighbors (6 connections) and dividing it by the total number of possible connections between his neighbors (8 connections).
+The clustering coefficient of P. Lowry is 0.5. This is because P. Lowry has 3 neighbors (J. Appelman, Jay F Nunamaker, and Conan C. Albrecht) and all 3 of them are connected.
+The clustering coefficient of Tom Rodgers is 0.67. This is because he has 6 neighbors (Jay F Nunamaker, Doug Dean, P. Lowry, Ann M. Hickey, Gert-Jan de Vreede, and Michael McQuaid) and 5 of the 6 neighbors are connected (Jay F Nunamaker, Doug Dean, P. Lowry, Ann M. Hickey, and Gert-Jan de Vreede). Therefore, the clustering coefficient of Tom Rodgers is 5/6 = 0.67.
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 5 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 5 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
