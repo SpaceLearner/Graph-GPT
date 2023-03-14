@@ -255,4 +255,19 @@ IndexError: list index out of range
 0it [00:00, ?it/s][A2023-03-14 14:48:22,913 - wandb.wandb_agent - INFO - Running runs: ['apptwq12']
 
 1it [00:36, 36.42s/it][A
-2it [01:31, 47.14s/it][A
+2it [01:31, 47.14s/it][A/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+wandb: Starting wandb agent 🕵️
+2023-03-14 14:51:05,661 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 14:51:07,338 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 14:51:07,338 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 14:51:07,342 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot --self_augument=0 --task=clustering
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A2023-03-14 14:51:12,354 - wandb.wandb_agent - INFO - Running runs: ['t1bwl9gw']

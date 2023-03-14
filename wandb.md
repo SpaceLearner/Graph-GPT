@@ -1,0 +1,1 @@
+nohup wandb agent gjyspliter/GraphBench/sbl7d1c8
