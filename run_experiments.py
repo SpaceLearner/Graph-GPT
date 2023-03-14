@@ -11,7 +11,7 @@ from time import sleep
 import os
 from utils import task_handler, answer_cleasing, evaluate
 from functools import partial
-
+import time
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -38,7 +38,7 @@ class MyThread(Thread):
     def getResult(self):
         return self.result
 
-@retry(wait=wait_random_exponential(min=3, max=60), stop=stop_after_attempt(10))
+@retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
 def GPT(data):
 
     url     = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
@@ -129,8 +129,7 @@ def main(config, seed=0):
                         data["prompt"] = instructer + graph + example + question + tail
                 
                     response   = GPT(data)
-                    # print(response)
-                    # print(json.loads(response.text))
+                    print(json.loads(response.text))
                     answer     = json.loads(response.text)["choices"][0]["text"].strip()
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
@@ -152,10 +151,12 @@ def main(config, seed=0):
                         data["prompt"] = instructer + graph + example + question + tail
                 
                     response   = GPT(data)
+                    # print(json.loads(response.text))
                     answer     = json.loads(response.text)["choices"][0]["text"].strip()
                     print(answer)
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
+                    time.sleep(5)
                 print(predictions, true_answer)
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
