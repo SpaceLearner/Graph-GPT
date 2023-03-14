@@ -65,3 +65,105 @@ wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort
 wandb: 🚀 View run frosty-wood-2 at: https://wandb.ai/gjyspliter/GraphBench/runs/lfdw5cye
 wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
 wandb: Find logs at: ./wandb/run-20230309_125147-lfdw5cye/logs
+wandb: Starting wandb agent 🕵️
+2023-03-14 14:44:19,285 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 14:44:19,914 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 14:44:19,914 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 14:44:19,918 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot --self_augument=0 --task=clustering
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A2023-03-14 14:44:24,928 - wandb.wandb_agent - INFO - Running runs: ['kdgo2l0g']
+
+1it [00:48, 48.53s/it][A
+2it [01:18, 37.61s/it][A
+3it [01:46, 33.09s/it][A3it [01:48, 36.27s/it]
+  0%|          | 0/1 [01:48<?, ?it/s]
+0
+The clustering coefficient of D. Wei is 0.5. This is calculated by counting the number of connections between D. Wei's neighbors and dividing it by the total number of possible connections between them. In this case, D. Wei has 4 neighbors (C. S. Burrus, H. Guo, M. Lang, and E. B. Fernandez) and there are 6 possible connections between them. Since 3 of those connections exist, the clustering coefficient of D. Wei is 3/6 = 0.5.
+0.5
+The clustering coefficient of M. Lang is 0.5. This is calculated by counting the number of connections between the neighbors of M. Lang (C. S. Burrus, H. Guo, and D. Wei) and dividing it by the maximum number of connections that could exist between them (3).
+The clustering coefficient of H. Guo is 0.5. This is calculated by counting the number of edges between the neighbors of H. Guo (C. S. Burrus, M. Lang, and D. Wei) and dividing it by the maximum number of edges that could exist between them (3).
+0.8571
+The clustering coefficient of E. B. Fernandez is 0.5. This is calculated by counting the number of edges between the neighbors of E. B. Fernandez (Robert B. France, D. Wei, and James M. Bieman) and dividing it by the maximum number of edges that could exist between them (3).
+0.5
+0.5
+The clustering coefficient of Cris Kobryn is 0.5. This is calculated by counting the number of edges between Cris Kobryn's neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Jennifer Horkoff, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the maximum number of edges possible between them (15).
+The clustering coefficient of Jennifer Horkoff is 0.0 since she is not connected to any other nodes in the graph.
+The clustering coefficient of Prabhakar M. Koushik is 0.333. This is calculated by counting the number of connections between the nodes connected to Prabhakar M. Koushik (Robert B. France, Jennifer Horkoff, Cris Kobryn, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the total number of possible connections between those nodes (45).
+0.4
+0.2
+The clustering coefficient of Stuart Kent is 0.5. This is calculated by counting the number of connections between Stuart Kent's neighbors (Robert B. France, Philippe Collet, and Frank Hernandez) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of Frank Hernandez is 0.5. This is calculated by counting the number of edges between Frank Hernandez's neighbors (Robert B. France, Philippe Collet, Stuart Kent, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing by the maximum number of edges that could exist between them (6).
+0.14285714285714285
+The clustering coefficient of C. Atkinson is 0.0, since he is not connected to any other nodes in the graph.
+0.2
+0
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.19', '1.0', '1.0', '1.0', '0.01', '1.0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Dajun Du is 2/3 = 0.667.
+0.5
+0.6
+0.5
+0.5
+0.5
+0.4
+0.4
+0.5
+0.33
+0.5
+0.25
+The clustering coefficient of Jian Wu is 0.5. This can be calculated by counting the number of edges between Jian Wu's neighbors (Lei He, Thomas Fang Zheng, and Jing Deng) and dividing by the maximum number of edges possible (3).
+Lei He is connected to Jian Wu and Wenhu Wu. The clustering coefficient of Lei He is 2/3, or 0.667.
+0.25
+0.25
+0.33
+0.25
+0.2
+0.2
+['2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0'] ['1.0', '1.0', '0.14', '1.0', '0.7', '1.0', '0.6', '0.67', '1.0', '1.0', '0.19', '1.0', '1.0', '1.0', '0', '0', '1.0', '1.0', '1.0', '0']
+0.25
+0.5
+0.4
+0.25
+0.5
+The clustering coefficient of Lin Li is 0.6.
+0.167
+0.167
+0.0
+0.25
+0.0
+0.25
+0.5
+0.5
+0.5
+0.4
+0.4
+0.333
+0.0
+0.5
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0.83', '0.21', '0.6', '1.0', '0.6', '0.17', '0', '0', '0', '0', '0', '1.0', '1.0', '1.0', '0.6', '0.67', '0.83', '1.0', '0', '0.67']
+The clustering coefficient of J. Widmer cannot be calculated from the given information. The clustering coefficient of a node is calculated by looking at the number of connections between the node's neighbors. Since there is no information about J. Widmer's neighbors, the clustering coefficient cannot be calculated.
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 184, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 159, in main
+    pred       = answer_cleasing(config, answer)
+  File "/Users/goojy/Documents/Project/Graph-GPT/utils.py", line 28, in answer_cleasing
+    pred = re.findall("\d+", answer)[0]
+IndexError: list index out of range
+2023-03-14 14:46:12,828 - wandb.wandb_agent - INFO - Cleaning up finished run: kdgo2l0g
+2023-03-14 14:46:13,578 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 14:46:13,579 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot_cot
+	self_augument: 0
+	task: clustering
+2023-03-14 14:46:13,582 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot_cot --self_augument=0 --task=clustering
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A2023-03-14 14:46:18,595 - wandb.wandb_agent - INFO - Running runs: ['5qdjpn1g']
+
+1it [00:47, 47.89s/it][A
