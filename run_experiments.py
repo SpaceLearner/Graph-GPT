@@ -161,7 +161,7 @@ def main(config, seed=0):
                 print(predictions, true_answer)
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
-                # wandb.log({"epoch_acc": acc})
+                wandb.log({"epoch_acc": acc})
                     
     accs = np.array(accs)
     print(np.mean(accs), np.std(accs))
