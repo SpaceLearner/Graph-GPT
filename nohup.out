@@ -363,3 +363,1258 @@ IndexError: list index out of range
 1it [00:45, 45.37s/it][A
 2it [01:41, 51.59s/it][A
 3it [02:30, 50.40s/it][A
+4it [03:12, 47.19s/it][A0.5
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the neighbors of node 1 (in this case, there are three edges between the neighbors of node 1) and dividing it by the maximum number of edges that could exist between the neighbors of node 1 (in this case, six).
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.0.
+0.75
+The clustering coefficient of 3 is 0.5.
+0.0
+0.5
+0.7857
+The clustering coefficient of 14 is 0.0.
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.5
+0.0
+0.0
+0.0
+0
+0.5
+The clustering coefficient of 0 is 0.
+0.0
+['0', '1', '0', '0', '0', '3', '0', '0', '0', '14', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 3 is 0.5. This is calculated by taking the number of connections between 3's neighbors (3) and dividing it by the maximum number of connections possible (6).
+The clustering coefficient of Kang Li is 0.5. This is calculated by counting the number of edges between the neighbors of Kang Li (3) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of {'relation': 'collaborate'} is 0.5.
+The clustering coefficient of Jing Deng is 0.5. This is calculated by taking the number of connections that Jing Deng has with other nodes (12) and dividing it by the total number of possible connections that Jing Deng could have (24).
+The clustering coefficient of G. W. Irwin is 0.5. This is calculated by taking the number of edges between G. W. Irwin's neighbors (3) and dividing it by the maximum number of edges that could exist between G. W. Irwin's neighbors (6).
+0.5
+The clustering coefficient of node 5 is 0.5. This can be calculated by counting the number of edges between the neighbors of node 5 (3 edges) and dividing it by the maximum number of edges that could exist between the neighbors of node 5 (6 edges).
+0.5
+The clustering coefficient of Thomas Fang Zheng is 0.5. This is calculated by counting the number of connections between his direct neighbors (Jian Liu, Zhanjiang Song, and Lihong Zhang) and dividing it by the total number of possible connections between them (3).
+The clustering coefficient of Jian Liu is 0.5. This is calculated by taking the number of connections between Jian Liu and his neighbors (2) and dividing it by the total number of possible connections between Jian Liu and his neighbors (4).
+0.5
+The clustering coefficient of Qixiu Hu is 0.5. This is calculated by counting the number of connections between Qixiu Hu's neighbors (Wenhu Wu and Yue Pan) and dividing it by the maximum number of connections possible (2).
+The clustering coefficient of 2 is 0.5.
+0.5
+0.0
+The clustering coefficient of 6 is 0.5.
+0.5
+0.0
+0.0
+The clustering coefficient of 1 is 0.0, since there are no other nodes connected to node 1.
+0.0
+The clustering coefficient of Jingwei Miao is 0.5.
+The clustering coefficient of Kangbin Yim is 0.33. This is calculated by taking the number of connections between Kangbin Yim's neighbors (3) and dividing it by the maximum number of connections possible (6).
+The clustering coefficient of Chi Lin is 0.33. This is calculated by taking the number of connections Chi Lin has (1) and dividing it by the maximum number of connections he could have (3).
+0.0
+The clustering coefficient of 0 is 0.
+['0', '3', '0', '0', '0', '0', '0', '5', '0', '0', '0', '0', '0', '2', '0', '0', '6', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Yuyong Cui is 0.5. This is calculated by taking the number of edges between Yuyong Cui's neighbors (4) and dividing it by the total number of possible edges between those neighbors (6).
+The clustering coefficient of Yuyong Cui is 0.5.
+The clustering coefficient of Zhiyuan Zeng is 0.5.
+The clustering coefficient of the network is 0.25.
+0.5
+0.25
+0.4
+The clustering coefficient of Lin Li is 0.6.
+The clustering coefficient of 9 is 0.333.
+0.0
+0
+0
+0
+0
+The clustering coefficient of Dongsheng Yu is 0.5. This is calculated by dividing the number of connections between Dongsheng Yu's neighbors (2) by the total number of possible connections between them (4).
+0.0
+The clustering coefficient of Wei Zheng is 0.33. This is calculated by counting the number of connections between Wei Zheng and the other nodes in the network (in this case, three connections) and dividing it by the maximum number of connections that Wei Zheng could have (in this case, nine).
+The clustering coefficient of Jianzhong Zhou is 0.6.
+The clustering coefficient of 5 is 0.4.
+0.33
+0.5
+0.0
+0.0
+The clustering coefficient of node 1 is 0.0.
+0.25
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 7 is 0.167.
+The clustering coefficient of 2 is 0.0.
+['0', '0', '0', '0', '0', '0', '0', '0', '9', '0', '0', '0', '0', '0', '0', '0', '0', '0', '5', '0', '0', '0', '0', '1', '0', '3', '0', '7', '2'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.0
+The clustering coefficient of 1 is 0.5.
+0.8
+The clustering coefficient for the given graph is 0.2.
+0.5
+The clustering coefficient of 3 is 0.5.
+0.5
+0.5
+0.5
+The clustering coefficient of 2 is 0.4.
+0.5
+0.5
+0.5
+0.5
+0
+0.0
+0.25
+0.5
+0.25
+0.5
+0.0
+0.5
+0.0
+0.0
+The clustering coefficient of 5 is 0.5.
+The clustering coefficient of Frank Fitzek is 0.4. This is calculated by taking the number of connections between Frank Fitzek and his neighbors (4) and dividing it by the maximum number of connections possible (5).
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '3', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '5', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of J. Appelman is 0.5. This is calculated by taking the number of connections between the nodes connected to J. Appelman (5) and dividing it by the total number of possible connections (5*4/2 = 10).
+The clustering coefficient of 5 is 0.2.
+The clustering coefficient of Mariëlle den Hengst is 0.5. This is calculated by taking the number of edges between her neighbors (7) and dividing it by the maximum number of edges that could exist between her neighbors (12).
+The clustering coefficient of the network is 0.25. This is calculated by taking the number of edges in the network (in this case, 24) and dividing it by the total number of possible edges (in this case, 36).
+The clustering coefficient of Vlatka Hlupic is 0.5. This is calculated by taking the number of connections between Vlatka Hlupic's neighbors (4) and dividing it by the total number of possible connections between Vlatka Hlupic's neighbors (6).
+The clustering coefficient of Alan Serrano is 0.5. This is calculated by taking the number of connections between Alan Serrano and his direct neighbors (2) and dividing it by the maximum number of connections possible (4).
+The clustering coefficient of Gert-Jan de Vreede is 0.5. This is calculated by counting the number of edges between Gert-Jan de Vreede's neighbors (5) and dividing it by the maximum number of edges possible between them (10).
+The clustering coefficient of Gwendolyn Kolfschoten is 3/5 = 0.6.
+The clustering coefficient of Jay F Nunamaker is 0.5.
+The clustering coefficient of 7 is 0.43.
+The clustering coefficient of Doug Dean is 0.5. This is calculated by counting the number of connections between Doug Dean and his neighbors (in this case, Mariëlle den Hengst, Vlatka Hlupic, Alan Serrano, Gert-Jan de Vreede, Gwendolyn Kolfschoten, Ann M. Hickey, and Tom Rodgers) and dividing it by the maximum number of connections possible (which is 6).
+
+5it [04:18, 53.97s/it][A
+6it [05:02, 50.63s/it][A
+7it [05:58, 52.36s/it][A
+8it [06:41, 49.29s/it][AThe clustering coefficient of P. Lowry is 0.5. This is calculated by counting the number of connections between P. Lowry and his neighbors (Doug Dean, J V Hansen) and dividing it by the maximum number of connections possible (3).
+0.0
+0.0
+The clustering coefficient of Michael McQuaid is 0.33. This is calculated by taking the number of connections between Michael McQuaid's neighbors (3) and dividing it by the total number of possible connections between them (9).
+0.0
+The clustering coefficient of Conan C. Albrecht is 0.75. This is calculated by taking the number of edges (4) connecting Conan C. Albrecht to other nodes, and dividing it by the maximum number of edges possible (6).
+The clustering coefficient of 4 is 0.25.
+0.0
+The clustering coefficient of Jiang Zhu is 0.5. This is calculated by counting the number of connections between his neighbors (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of 2 is 0.5. This is calculated by counting the number of edges between the nodes connected to node 2, and dividing by the maximum number of edges that could exist between those nodes. In this case, there are 3 edges between the nodes connected to 2, so the clustering coefficient is 3/6 = 0.5.
+0.5
+0.0
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the neighbors of node 1 and dividing it by the total number of possible edges between them. In this case, there are 5 edges between the neighbors of node 1, so the clustering coefficient is 5/10 = 0.5.
+0.0
+The clustering coefficient of H. Sol is 0.5. This is calculated by counting the number of edges between the nodes connected to H. Sol (in this case, two) and dividing it by the total number of possible edges (four).
+The clustering coefficient of 3 is 0.33.
+The clustering coefficient of 0 is 0.
+['0', '5', '0', '0', '0', '0', '0', '3', '0', '7', '0', '0', '0', '0', '0', '0', '0', '4', '0', '0', '2', '0', '0', '1', '0', '0', '3', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 2 is 0.25.
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+The clustering coefficient of C.-F. Chien is 0.0, since he has no connections to any other nodes in the graph.
+0.0
+0.5
+The clustering coefficient of Wen-Cheng Kuo is 0.0, since he does not have any connections to other nodes in the graph.
+The clustering coefficient of Chih-Yung Wen is 0.667.
+The clustering coefficient of 3 is 0.5.
+The clustering coefficient of C. H. Cheng is 0.5. This is calculated by counting the number of edges between his neighbors (3) and dividing it by the maximum number of edges that could exist between his neighbors (6).
+The clustering coefficient of Hsien-Tsung Chang is 0.5.
+0.0
+The clustering coefficient of 1 is 0.0. This is because there are no other nodes connected to node 1, so there is no way to form a triangle.
+The clustering coefficient of Y. C. Lin is 0.33. This is calculated by counting the number of connections between Y. C. Lin's neighbors (S. C. Chen, C. H. Cheng, and J. C. Wu) and dividing it by the total number of possible connections between them (3).
+0
+The clustering coefficient of J. C. Wu is 0.33. This is calculated by counting the number of connections between J. C. Wu's neighbors (S. C. Chen, C. H. Cheng, and J. C. Wu) and dividing it by the total number of possible connections between them (3).
+0.0
+0.5
+0.0
+0.0
+The clustering coefficient of 4 is 0.333. This is calculated by taking the number of connections between 4 and its neighbors (6) and dividing it by the maximum number of connections that 4 could have with its neighbors (9).
+The clustering coefficient of 0 is 0.
+0
+0.0
+['0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '4', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of K. J. R. Liu is 0.5. This is calculated by dividing the number of edges between the neighbors of K. J. R. Liu (2) by the maximum number of edges that could exist between them (4).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of A. Raghupathy is 0.0.
+The clustering coefficient of {'relation': 'collaborate'} is 0.2.
+0.6
+0.5
+The clustering coefficient of 1 is 0.5.
+0.5
+0.5
+0.5
+The clustering coefficient of Tsung-Han Tsai is 0.5. This is calculated by counting the number of edges between Tsung-Han Tsai's neighbors (3) and dividing it by the total number of possible edges between them (6).
+The clustering coefficient of 3 is 0.4.
+The clustering coefficient of Cheng-Hung Lin is 0.5. This is calculated by counting the number of connections between Cheng-Hung Lin and his neighbors (An-Yeu Wu, Chun-Yu Chen, and Hui-Shun Hung) and dividing by the maximum number of connections possible (3).
+The clustering coefficient of Chun-Yu Chen is 0.5. This is calculated by counting the number of edges between Chun-Yu Chen's neighbors (An-Yeu Wu and Cheng-Hung Lin) and dividing it by the total number of possible edges between them (2).
+The clustering coefficient of An-Yeu Wu is 0.5.
+The clustering coefficient of Hui-Shun Hung is 0.5. This is calculated by taking the number of edges between Hui-Shun Hung's neighbors (2) and dividing it by the maximum number of edges that could exist between them (4).
+The clustering coefficient of W. Shih is 0.5. This is calculated by taking the number of connections between W. Shih and his neighbors (2) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of Shu-Yen Lin is 0.25. This is calculated by taking the number of connections Shu-Yen Lin has (3) and dividing it by the maximum number of connections possible (6).
+0.5
+The clustering coefficient of Jen-Kuei Yang is 0.0, since he does not have any direct connections to other nodes in the network.
+0.0
+0.5
+0.5
+0.0
+0.5
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '1', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of J.C. Roh is 0.0. This is because J.C. Roh has only one neighbor (Bhaskar D. Rao) and no edges between them, so the clustering coefficient is 0.
+The clustering coefficient of 1 is 0.0.
+0.6
+The clustering coefficient of {'relation': 'collaborate'} is 0.2.
+0.5
+0.5
+The clustering coefficient of 2 is 0.2.
+0.5
+0.0
+0.5
+0.25
+0.2
+The clustering coefficient of R. Hegde is 0.0. This is because R. Hegde is only connected to Bhaskar D. Rao, and there are no other nodes connected to both Bhaskar D. Rao and R. Hegde.
+0.25
+The clustering coefficient of J. R. Zeidler is 0.5. This is calculated by counting the number of connections between J. R. Zeidler's neighbors (Tara Javidi and Bhaskar D. Rao) and dividing it by the total number of possible connections between them (2).
+0.25
+The clustering coefficient of 10 is 0.5.
+0.0
+0.25
+0.2
+0.0
+0
+0.5
+0.0
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '10', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Joe Kraynak is 0.5. This is calculated by counting the number of edges between Joe Kraynak's neighbors (2) and dividing it by the maximum number of edges that could exist between them (4).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Gordon McComb is 0.5. This is calculated by counting the number of connections between Gordon McComb and the other nodes in the graph (2) and dividing it by the maximum number of connections possible (4).
+The clustering coefficient of {'relation': 'collaborate'} is 0.22.
+wandb: Network error (ConnectionError), entering retry loop.
+
+9it [10:22, 102.95s/it][A
+10it [11:19, 88.89s/it][AThe clustering coefficient of Que Corporation is 0.5. This is calculated by counting the number of edges between the nodes connected to Que Corporation (in this case, 18 edges) and dividing it by the total number of possible edges (in this case, 36).
+The clustering coefficient of David G. Durand is 0.5. This is calculated by counting the number of connections between the nodes that are connected to him (2) and dividing it by the maximum number of connections that could exist between those nodes (4).
+The clustering coefficient of Elli Mylonas is 0.5. This is calculated by counting the number of connections between Elli Mylonas and her neighbors (2) and dividing it by the maximum number of connections that could exist between them (4).
+The clustering coefficient of Geoffrey W. McKim is 0.0. This is because Geoffrey W. McKim is only connected to one other node (Que Corporation) and there are no other nodes connected to both Geoffrey W. McKim and Que Corporation.
+The clustering coefficient for a node with degree 1 is 0. This means that there are no triangles in the network, and the node does not have any direct connections to other nodes.
+The clustering coefficient of Mark Schulman is 0.0. This is because Mark Schulman is only connected to one node (Que Corporation) and there are no other nodes connected to both Mark Schulman and Que Corporation.
+The clustering coefficient of Samantha Penrod is 0.0. This is because she is only connected to one node (Que Corporation), and there are no other nodes connected to both her and Que Corporation.
+The clustering coefficient of Suzanne Weixel is 0.0. This is because Suzanne Weixel has no connections to any other nodes in the network, so there is no way to calculate the clustering coefficient.
+The clustering coefficient of Bob Mullen is 0.5. This is calculated by taking the number of connections between Bob Mullen's neighbors (2) and dividing it by the total number of possible connections between Bob Mullen's neighbors (4).
+The clustering coefficient of Laura Acklen is 0.5. This is calculated by dividing the number of connections between her and her neighbors (2) by the total number of possible connections between her and her neighbors (4).
+The clustering coefficient of Tim Evans is 0.0. This is because Tim Evans is only connected to one node (Que Corporation) and there are no other nodes connected to that node. Therefore, the clustering coefficient of Tim Evans is 0.
+0.2
+The clustering coefficient of Eric P. Bloom is 0.5. This is calculated by counting the number of direct connections between Eric P. Bloom and the other nodes (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of Marilyn G. Kyd is 0.2. This is calculated by counting the number of connections between her neighbors (2) and dividing it by the total number of possible connections (5).
+The clustering coefficient of Julia A. Cardis is 0.5. This is because Julia A. Cardis has two neighbors (Gordon McComb and Laura Acklen) and one edge between them (the edge between Gordon McComb and Laura Acklen). Therefore, the clustering coefficient of Julia A. Cardis is 2/3 = 0.5.
+The clustering coefficient of George R. Beinhorn is 0.2. This is calculated by counting the number of connections between the nodes connected to George R. Beinhorn (in this case, 2) and dividing it by the total number of possible connections (in this case, 10).
+The clustering coefficient of Dan Post is 0.0. This is because Dan Post is only connected to one node (Que Corporation), and there are no other nodes connected to Que Corporation. Therefore, the clustering coefficient of Dan Post is 0.
+The clustering coefficient of Jerry Honeycutt is 0.2. This is calculated by counting the number of connections between Jerry Honeycutt and his neighbors (2) and dividing by the total number of possible connections (2 x (2 - 1)).
+The clustering coefficient of Steven B. Combs is 0.0. This is because there are no other nodes connected to Que Corporation that are also connected to Steven B. Combs.
+The clustering coefficient of 0 is 0.0.
+['0', '2', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.0
+The clustering coefficient of 1 is 0.0. This is because there are no other nodes connected to node 1, so the clustering coefficient is 0.
+The clustering coefficient of Kimberly Weaver is 0.5. This is calculated by taking the number of connections between her and her neighbors (6) and dividing it by the maximum number of connections that could exist between her and her neighbors (12).
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+The clustering coefficient of 6 is 0.33.
+The clustering coefficient of Thad Starner is 0.5. This is calculated by counting the number of connections between his collaborators (6) and dividing it by the total number of possible connections (12).
+0.5
+0.5
+0.5
+The clustering coefficient of Jeff Wilson is 0.0.
+0.5
+The clustering coefficient of Shumin Zhai is 0.333.
+The clustering coefficient of 3 is 0.5.
+0.5
+The clustering coefficient of Jeffrey S. Pierce is 0.5. This is calculated by taking the number of connections Jeffrey S. Pierce has with his neighbors (3) and dividing it by the maximum number of connections he could have (6).
+0.5
+0.5
+0.5
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Stephen Sinclair is 0.0.
+The clustering coefficient of Gregory D. Abowd is 0.4.
+0.5
+The clustering coefficient of 9 is 0.444.
+0.0
+The clustering coefficient of Amy Bruckman is 0.5. This is calculated by taking the number of connections between Amy Bruckman's neighbors (4) and dividing it by the total number of possible connections between her neighbors (8).
+The clustering coefficient of 4 is 0.25.
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '6', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '2', '0', '0', '0', '9', '0', '0', '4', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Gyana Parija is 0.0.
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of W E Wilhelm is 0.4. This is calculated by taking the number of connections between W E Wilhelm's neighbors (5) and dividing it by the total number of possible connections (12).
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+The clustering coefficient of Benjamin McClosky is 0.0.
+0.5
+The clustering coefficient of J. Ma is 0.5. This is calculated by taking the number of edges connected to J. Ma (2) and dividing it by the total number of possible edges (4).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of S. S. Margulies is 0.5. This is calculated by counting the number of edges between S. S. Margulies' neighbors (2 edges) and dividing it by the maximum number of possible edges (4).
+The clustering coefficient of Krishnaswami Srihari is 0.5.
+The clustering coefficient of node 4 is 0.5. This is calculated by counting the number of edges between the neighbors of node 4 (2 edges) and dividing by the maximum number of edges possible between the neighbors of node 4 (4 edges).
+The clustering coefficient of Patrick H. Madden is 0.5. This is calculated by taking the number of connections between his neighbors (2) and dividing it by the maximum number of possible connections between his neighbors (4).
+The clustering coefficient of Purushothaman Damodaran is 0.4.
+The clustering coefficient of Sarah S. Lam is 0.33. This is calculated by taking the number of connections between Sarah S. Lam's neighbors (3) and dividing it by the total number of possible connections between Sarah S. Lam's neighbors (9).
+The clustering coefficient of Ameya R. Agnihotri is 0.0.
+0.0
+
+11it [12:14, 78.47s/it][A
+12it [12:55, 67.07s/it][A
+13it [13:49, 63.13s/it][AThe clustering coefficient of Balabhaskar Balasundaram is 0.5. This is calculated by counting the number of edges between Balabhaskar Balasundaram's neighbors (S. Butenko and Illya V. Hicks) and dividing it by the maximum number of edges that could exist between them (2).
+0.5
+The clustering coefficient of 5 is 0.2.
+0.0
+0.0
+0.0
+0.5
+The clustering coefficient of 0 is 0.
+0.0
+0.0
+['0', '1', '0', '0', '0', '0', '0', '2', '0', '0', '4', '0', '0', '0', '0', '0', '0', '0', '5', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of W. Eric Wong is 0.0. This is because W. Eric Wong is only connected to one node (IEEE Region 7) and there are no other nodes connected to both W. Eric Wong and IEEE Region 7.
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of IEEE Region 7 is 0.5.
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.25
+The clustering coefficient of P Hajek is 0.0. This is because P Hajek is only connected to one other node (IEEE Region 7) and there are no other nodes connected to both P Hajek and IEEE Region 7.
+0.4
+The clustering coefficient of 5 is 0.2.
+0.14
+0.5
+0.5
+The clustering coefficient of Hans W. Nissen is 0.5. This is calculated by dividing the number of edges between the neighbors of Hans W. Nissen (3) by the maximum number of edges possible between them (6).
+0.5
+The clustering coefficient of 3 is 0.333.
+0.5
+0.5
+The clustering coefficient of 13 is 0.5.
+0.0
+0.0
+0
+The clustering coefficient of T. Horváth is 0.33. This is calculated by taking the number of connections between T. Horváth and his neighbors (1) divided by the maximum number of connections that could exist between T. Horváth and his neighbors (3).
+0.25
+0.25
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 2 is 0.2.
+['0', '1', '7', '0', '0', '0', '0', '5', '0', '0', '0', '0', '0', '3', '0', '0', '13', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of E.-G. Talbi is 0.5. This is because there are three nodes connected to E.-G. Talbi, and two of them (François Clautiaux and Saíd Hanafi) are connected to each other. Thus, the clustering coefficient is 2/3 = 0.5.
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of François Clautiaux is 0.5.
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.25
+0.5
+0.333
+0.25
+0.5
+0.0
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of Saoussen Krichen is 0.5.
+The clustering coefficient of 5 is 0.167.
+0.0
+0.5
+0.0
+The clustering coefficient of Nadia Dahmani is 0.2. This is calculated by taking the number of edges between her neighbors (3) and dividing it by the maximum number of edges that could exist between them (5).
+0.5
+0.0
+The clustering coefficient of Jürgen Rietz is 0.4. This is calculated by counting the number of edges between Jürgen Rietz's neighbors (3) and dividing it by the total number of possible edges between those neighbors (7).
+The clustering coefficient of Manuel Iori is 0.5. This is calculated by taking the number of connections between Manuel Iori's neighbors (2) and dividing it by the maximum number of connections that could exist between them (4).
+The clustering coefficient of 2 is 0.25. This is calculated by counting the number of edges between the node's neighbors (the nodes connected to 2) and dividing it by the maximum number of edges that could exist between the neighbors. In this case, there are 3 edges between the neighbors of 2, and the maximum number of edges that could exist between them is 12. Therefore, the clustering coefficient of 2 is 3/12 = 0.25.
+0.0
+The clustering coefficient of Stéphane Nègre is 0.5. This is calculated by taking the number of connections between Stéphane Nègre and his neighbors (2) and dividing it by the total number of possible connections between Stéphane Nègre and his neighbors (4).
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 7 is 0.286.
+The clustering coefficient of Christophe Wilbaut is 0.375. This is calculated by counting the number of connections between the nodes that are directly connected to Christophe Wilbaut (7) and dividing that by the total number of possible connections between those nodes (18).
+['0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '5', '0', '0', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '7', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of David C. Gibbon is 0.0.
+The clustering coefficient of 1 is 0.4.
+The clustering coefficient of Z. Liu is 0.4.
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+The clustering coefficient of Jian Li is 0.75. This is calculated by counting the number of edges between Jian Li's neighbors (4) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of 4 is 0.5.
+The clustering coefficient of Y. Zhang is 0.5. This is calculated by counting the number of edges between Y. Zhang's neighbors (Changle Li, Jian Li, and Z. Liu) and dividing it by the total number of possible edges between them (3).
+The clustering coefficient of Changle Li is 2/3, or 0.667.
+The clustering coefficient of S. McCormick is 0.33. This is calculated by counting the number of edges between the neighbors of S. McCormick (1 edge between Z. Liu and Jian Li, 1 edge between Z. Liu and Changle Li, and 1 edge between Jian Li and Changle Li) and dividing it by the total number of possible edges between the neighbors (3 edges).
+The clustering coefficient of G. Felic is 0.5.
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Y. Feng is 0.5. This is calculated by counting the number of edges between Y. Feng's neighbors (2 edges) and dividing it by the total number of possible edges between Y. Feng's neighbors (4 edges).
+The clustering coefficient of Q. Huang is 0.0.
+The clustering coefficient of D. Towsley is 0.5. This is calculated by taking the number of connections between the two nodes (2) and dividing it by the maximum number of connections possible between the two nodes (4).
+The clustering coefficient of James F. Kurose is 0.33. This is calculated by taking the number of connections between James F. Kurose and his neighbors (3) and dividing it by the maximum number of connections possible between him and his neighbors (9).
+0.5
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of Chun Ying is 0.33. This is calculated by counting the number of edges between the neighbors of Chun Ying (2 edges) and dividing it by the maximum number of edges possible between the neighbors (6 edges).
+The clustering coefficient of D. V. Sarwate is 0.33. This is calculated by counting the number of edges between the neighbors of D. V. Sarwate (in this case, Z. Liu) and dividing it by the maximum number of edges that could exist between them. In this case, there are two edges between Z. Liu and D. V. Sarwate's neighbors (Y. Zhang and Changle Li), and the maximum number of edges that could exist between them is 6, so the clustering coefficient is 2/6 = 0.33.
+The clustering coefficient of John M. Dennis is 0.33. This is calculated by dividing the number of connections between John M. Dennis and his neighbors (3) by the number of possible connections between them (9).
+The clustering coefficient of W. Yang is 0.5. This is calculated by counting the number of edges between W. Yang and his neighbors (3 edges) and dividing it by the maximum number of edges possible between W. Yang and his neighbors (6 edges).
+The clustering coefficient of Malathi Veeraraghavan is 0.33.
+The clustering coefficient of M. Rais-Rohani is 0.2.
+
+14it [14:47, 61.43s/it][A
+15it [15:33, 56.98s/it][A
+16it [16:13, 51.76s/it][A
+17it [17:03, 51.25s/it][A
+18it [18:02, 53.47s/it][AThe clustering coefficient of Guojun Li is 0.33, since he is connected to three other nodes (Z. Liu, Y. Zhang, and Chun Ying) and two of those nodes (Z. Liu and Y. Zhang) are connected to each other.
+The clustering coefficient of V. Choulakian is 0.0, since V. Choulakian has no connections to any other nodes in the network.
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '4', '0', '2', '0', '0', '2', '0', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Jing-Xin Wang is 0.0 since he has no edges connecting him to any other nodes.
+The clustering coefficient of node 1 is 0.0, since there are no edges between any of its neighbors.
+The clustering coefficient of Ren-Hong Wang is 0.2 (2/10).
+The clustering coefficient of {'relation': 'collaborate'} is 0.14.
+The clustering coefficient of 18 is 0.25. This is calculated by counting the number of edges between the nodes connected to 18 (6 edges) and dividing it by the total number of possible edges between those nodes (24 edges).
+0.5
+The clustering coefficient of Fengshan Liu is 0.5. This is calculated by counting the number of connections between the nodes that are directly connected to Fengshan Liu (in this case, there are two: Mian Li and Xiquan Shi) and dividing by the total number of possible connections between those nodes (in this case, four).
+0
+The clustering coefficient of Mian Li is 0.5. This is calculated by dividing the number of edges between Mian Li's neighbors (4) by the maximum number of edges that could exist between them (6).
+0.0
+0
+0.0
+0.0
+0
+0.0
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of Min Xu is 0.0.
+0.0
+0
+0
+The clustering coefficient of 3 is 0.5. This is calculated by counting the number of connections between 3's neighbors (Ming Zhang, Li-Hong Cui, and Xue-Zhang Liang) and dividing it by the total number of possible connections (3 x 2 = 6).
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 4 is 0.25.
+['0', '1', '0', '0', '18', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '4'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Chang-Ching Wu is 0.5.
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Chun-Yen Chang is 0.727.
+The clustering coefficient of {'relation': 'collaborate'} is 0.18.
+0.0
+0.5
+0.5
+The clustering coefficient of Yue Cui is 0.5.
+The clustering coefficient of 3 is 0.167.
+The clustering coefficient of Tsai-Yen Li is 0.5.
+The clustering coefficient of Rohit Kumar is 0.25.
+The clustering coefficient of Chin-Chung Tsai is 0.0, since he is only connected to one node (Chun-Yen Chang) and there are no other nodes connected to both of them.
+The clustering coefficient of 1 is 0.0.
+0.0
+0.5
+0.2
+0.0
+0.0
+The clustering coefficient of 11 is 0.5.
+0.0
+0
+0.2
+The clustering coefficient of Yi-Chun Chen is 0.0, since he is not connected to any other nodes in the network.
+0.0
+The clustering coefficient of E. Chang is 0.0.
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '1', '0', '0', '0', '0', '0', '11', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.333
+0.5
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.5.
+The clustering coefficient of A. Witvrouw is 0.5.
+0.5
+0.0
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the neighbors of node 1 (3 edges) and dividing it by the maximum number of edges that could exist between the neighbors of node 1 (6 edges).
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of 12 is 0.5.
+0.5
+0.5
+0.25
+0.5
+0.5
+0.5
+The clustering coefficient of 0 is 0.
+['0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '12', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of H. Nakajima is 0.0, since there are no other nodes connected to H. Nakajima.
+The clustering coefficient of 1 is 0.5.
+The clustering coefficient of T. Watanabe is 0.5.
+The clustering coefficient of {'relation': 'collaborate'} is 0.5.
+The clustering coefficient of K. Komatsu is 0.0. This is because K. Komatsu is only connected to one node (T. Watanabe) and there are no other nodes connected to both K. Komatsu and T. Watanabe.
+0.5
+0.5
+The clustering coefficient of 2 is 0.5.
+0.5
+2/3 = 0.666666
+0.5
+The clustering coefficient of H. Yamauchi is 0.5. This is calculated by dividing the number of edges between H. Yamauchi's neighbors (2) by the total number of possible edges between them (4).
+The clustering coefficient of T. Fukumura is 0.0, since he does not have any connections to other nodes in the graph.
+The clustering coefficient of S. Komatsu is 0.33. This is calculated by taking the number of connections S. Komatsu has (3) and dividing it by the maximum number of connections he could have (6).
+The clustering coefficient of 3 is 0.25.
+The clustering coefficient of T. Itoh is 0.0.
+0.5
+The clustering coefficient of Takamichi Tateoka is 0.5. This is calculated by taking the number of connections between Takamichi Tateoka's neighbors (2) and dividing it by the number of possible connections between them (4).
+0.5
+The clustering coefficient of Makoto Endo is 0.0. This is because Makoto Endo is only connected to one node (T. Watanabe), and there are no other nodes connected to both Makoto Endo and T. Watanabe.
+0.25
+The clustering coefficient of 4 is 0.5.
+The clustering coefficient of Jien Kato is 0.0. This is because Jien Kato has no edges connecting to any other nodes in the graph, so there is no way to measure the clustering coefficient.
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '0', '0', '2', '0', '2', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of Bin Ma is 0.5. This is calculated by counting the number of edges between Bin Ma's neighbors (3) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of {'relation': 'collaborate'} is 0.5.
+The clustering coefficient of Tan Lee is 0.5. This is calculated by dividing the number of connections between Tan Lee's neighbors (6) by the total number of possible connections between Tan Lee's neighbors (12).
+The clustering coefficient of Haizhou Li is 0.0.
+The clustering coefficient of Helen M. Meng is 0.33. This is calculated by taking the number of connections between her direct collaborators (3) and dividing it by the total number of possible connections (6).
+The clustering coefficient of P. C. Ching is 0.5.
+0.5
+The clustering coefficient of Yujia Li is 0.5. This is calculated by counting the number of edges between her neighbors (2 edges) and dividing it by the maximum number of edges that could exist between her neighbors (4 edges).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Yao-Jin Qian is 0.5. This is calculated by counting the number of edges between Yao-Jin Qian's neighbors (2) and dividing it by the number of possible edges between them (4).
+The clustering coefficient of Chen Yang is 0.5. This is because Chen Yang is connected to two other nodes (Tan Lee and Frank K. Soong) and both of these nodes are connected to each other. Therefore, the clustering coefficient of Chen Yang is 2/4 = 0.5.
+
+19it [19:00, 54.98s/it][A
+20it [19:47, 52.61s/it][AThe clustering coefficient of Frank K. Soong is 0.5. This is calculated by taking the number of connections between Frank K. Soong's neighbors (2) and dividing it by the maximum number of connections possible (4).
+The clustering coefficient of Ning Wang is 0.5. This is calculated by counting the number of edges between Ning Wang's neighbors (3) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of Nengheng Zheng is 0.33. This is calculated by counting the number of edges between the neighbors of Nengheng Zheng (3 edges) and dividing it by the maximum number of edges that could exist between them (9 edges).
+The clustering coefficient of Juan I. Godino-Llorente is 0.5. This is calculated by counting the number of edges between Juan I. Godino-Llorente's neighbors (in this case, Tan Lee) and dividing by the maximum number of edges that could exist between them (in this case, two).
+0.0
+The clustering coefficient of Y. W. Wong is 0.33. This is calculated by counting the number of edges between Y. W. Wong's neighbors (2) and dividing it by the maximum number of edges possible (6).
+The clustering coefficient of Feng Huang is 0.0, since he has no connections to any other nodes in the graph.
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of Shan Ouyang is 0.0.
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+['0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of C. J. Date is 0.33. This is calculated by taking the number of connections between C. J. Date's direct collaborators (1) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of 1 is 0.5. This is calculated by counting the number of edges between the neighbors of 1 (in this case, Colin J. White, Chris White, and David Wu) and dividing it by the total number of possible edges between them (in this case, 3).
+The clustering coefficient of Colin J. White is 0.33. This is calculated by counting the number of edges between his neighbors (1 edge between Colin J. White and Chris White) and dividing it by the maximum number of edges that could exist between them (3 edges).
+The clustering coefficient for the given network is 0.2.
+0.5
+The clustering coefficient of 2 is 0.5.
+0.25
+0.6
+The clustering coefficient of Fuzheng Yang is 0.5. This is calculated by counting the number of edges between the neighbors of Fuzheng Yang (2 edges) and dividing by the maximum number of edges that could exist between them (4 edges).
+0
+The clustering coefficient of Xinghuo Yu is 0.5.
+The clustering coefficient of 4 is 0.25.
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of Chris White is 0.5. This is calculated by counting the number of edges between Chris White's neighbors (2) and dividing by the maximum number of edges that could exist between them (4).
+0.5
+0.25
+The clustering coefficient of 3 is 0.25.
+0.5
+0.0
+The clustering coefficient of node 9 (Hong Ren Wu) is 0.444.
+0.0
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '2', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0', '9', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of A. Ohgai is 0.0 since he does not have any neighbors and is not connected to any other nodes in the network.
+The clustering coefficient of 1 is 0.5. This is because there are 8 edges connected to node 1, and 4 of them form a triangle. Therefore, the clustering coefficient is 4/8 = 0.5.
+The clustering coefficient of K. Watanabe is 0.625.
+The clustering coefficient of the network is 0.25.
+The clustering coefficient of T. Noguchi is 0.5. This is because T. Noguchi has 4 neighbors (K. Watanabe, Y. Ishii, S. Kameda, and Y. Yamamoto), and 2 of them (K. Watanabe and Y. Ishii) are connected to each other. Thus, the clustering coefficient of T. Noguchi is 2/4 = 0.5.
+The clustering coefficient of 4 is 0.5. This means that there are 4 nodes that are connected to each other and they form a fully connected subgraph.
+The clustering coefficient of Y. Ishii is 0.5. This is calculated by counting the number of connections between Y. Ishii's neighbors (K. Watanabe, Y. Yamamoto, S. Kameda) and dividing by the maximum number of connections possible (3).
+The clustering coefficient of S. Kameda is 0.5. This is because S. Kameda is connected to five other nodes (K. Watanabe, Y. Ishii, Y. Yamamoto, T. Takayama, and Y. Yagi) and two of those connections (K. Watanabe and Y. Ishii) are connected to each other. Therefore, the clustering coefficient of S. Kameda is 2/5 = 0.5.
+The clustering coefficient of Y. Yamamoto is 0.5. This is calculated by counting the number of connections between Y. Yamamoto's neighbors (Y. Ishii, K. Watanabe, and Y. Yamamoto) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of S G. Tzafestas is 0.0 since he does not have any connections to other nodes in the graph.
+The clustering coefficient of I. Keshi is 0.0, since I. Keshi is not connected to any other nodes in the graph.
+The clustering coefficient of S. Fukuyama is 0.5. This is calculated by taking the number of connections between S. Fukuyama and the other nodes (2) and dividing it by the maximum number of connections possible (4).
+The clustering coefficient of 2 is 0.25.
+The clustering coefficient of T. Suzuki is 0.5. This is calculated by counting the number of connections between T. Suzuki and the other nodes in the graph (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of T. Takayama is 0.5. This is because T. Takayama is connected to two other nodes (K. Watanabe and S. Ogata) and there is an edge between those two nodes, so the clustering coefficient is 2/4 = 0.5.
+The clustering coefficient of S. Ogata is 0.5. This is calculated by counting the number of connections between S. Ogata and the other nodes (K. Watanabe, Y. Iwai, T. Suzuki, N. Azuma) and dividing it by the total number of possible connections (6).
+The clustering coefficient of Y. Yagi is 0.5. This is because Y. Yagi has two neighbors (Y. Ishii and K. Watanabe) and there is an edge between Y. Ishii and K. Watanabe, so the clustering coefficient of Y. Yagi is 2/4 = 0.5.
+The clustering coefficient of Y. Iwai is 0.5. This is calculated by counting the number of connections between Y. Iwai's neighbors (Y. Kubota, K. Watanabe, and T. Suzuki) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of A. Hirabayashi is 0.5. This is because A. Hirabayashi is connected to two other nodes (K. Watanabe and Y. Yamamoto) and both of these nodes are connected to each other, forming a triangle. The clustering coefficient is calculated by the number of triangles formed by the node (2 in this case) divided by the total number of possible triangles (4 in this case). Thus, the clustering coefficient of A. Hirabayashi is 0.5.
+The clustering coefficient of Y. Kubota is 0.5. This is calculated by taking the number of edges that connect Y. Kubota to other nodes (2) and dividing it by the maximum number of edges that could connect Y. Kubota to other nodes (4).
+The clustering coefficient of S. Itoh is 0.5. This is because S. Itoh has two neighbors (K. Watanabe and N. Azuma) and there is an edge between them, so the clustering coefficient is 2/4 = 0.5.
+The clustering coefficient of N. Azuma is 0.5. This is calculated by counting the number of connections between N. Azuma and the other nodes (in this case, two: K. Watanabe and S. Itoh) and dividing it by the maximum number of connections possible (in this case, four).
+The clustering coefficient of K. Watanabe is 0.75.
+The clustering coefficient of Tsu-Tian Lee is 0.0, since he does not have any connections with other nodes in the graph.
+
+21it [20:57, 57.71s/it][A
+22it [21:46, 55.18s/it][A
+23it [22:34, 53.05s/it][A
+24it [23:28, 53.40s/it][AThe clustering coefficient of T. Ishihara is 0.0, since there are no other nodes connected to T. Ishihara.
+The clustering coefficient of 0 is 0.0.
+['0', '1', '0', '0', '0', '4', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Yichun Zhang is 0.25. This is calculated by counting the number of connections between Yichun Zhang's neighbors (1 connection between Yichun Zhang and Jianbo Liu, 1 connection between Jianbo Liu and Qin Zhang, 1 connection between Jianbo Liu and Yaqing Niu, and 1 connection between Qin Zhang and Yaqing Niu) and dividing it by the total number of possible connections between Yichun Zhang's neighbors (4 connections between Yichun Zhang and Jianbo Liu, Qin Zhang, Yaqing Niu, and Chuanzhen Li).
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the neighbors of node 1 (in this case, 4 edges) and dividing it by the maximum number of edges that could exist between those neighbors (in this case, 8 edges).
+The clustering coefficient of Jianbo Liu is 0.75.
+The clustering coefficient of {'relation': 'collaborate'} is 0.5.
+0.5
+The clustering coefficient of 4 is 0.5. This is calculated by counting the number of edges between the neighbors of node 4 (Yichun Zhang, Qin Zhang, Dong Liang, and Tao Shen) and dividing it by the number of possible edges between the neighbors (6).
+0.5
+The clustering coefficient of Chuanzhen Li is 0.5. This is calculated by dividing the number of connections between the neighbors of Chuanzhen Li (3) by the total number of possible connections between them (6).
+The clustering coefficient of S. Krishnan is 0.5. This is calculated by taking the number of connections between S. Krishnan's neighbors (4) and dividing it by the maximum number of connections possible (6).
+The clustering coefficient of Dong Liang is 0.5. This is calculated by counting the number of connections between Dong Liang's neighbors (3) and dividing it by the total number of possible connections between them (6).
+The clustering coefficient of 3 is 0.5. This is calculated by counting the number of triangles (3) formed by the three nodes connected to 3, and dividing it by the number of possible triangles (6).
+0.5
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of Jiancheng Wang is 0.5. This is calculated by counting the number of edges between his neighbors (in this case, two edges between Jianbo Liu and Pei Tian) and dividing it by the total number of possible edges between his neighbors (in this case, four edges).
+The clustering coefficient of 2 is 0.5. This is calculated by counting the number of edges between the two nodes (4) and dividing it by the number of possible edges between them (8).
+0.25
+The clustering coefficient of Sanxing Cao is 0.5. This is calculated by counting the number of edges between the nodes connected to Sanxing Cao (in this case, two) and dividing it by the maximum number of edges that could exist between those nodes (in this case, four).
+0.5
+0.5
+0.5
+The clustering coefficient of Tao Liu is 0.0, since Tao Liu has no connections to any other nodes in the network.
+The clustering coefficient of Jay Lee is 0.0, since Jay Lee has no connections to any other nodes in the network.
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '4', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 2 is 0.5.
+0.714
+The clustering coefficient of the network with the given adjacency list is 0.18.
+0.5
+The clustering coefficient of Ryota Kawashima is 0.5. This is calculated by dividing the number of edges that connect Ryota Kawashima's neighbors (2) by the total number of possible edges between them (4).
+0.0
+0.5
+The clustering coefficient of 4 is 0.5. This is calculated by counting the number of connections between the nodes connected to node 4 (in this case, there are 4 connections between Takeshi Yatsuo, Ryota Kawashima, Takashi Katoh, and Masatoshi Miyazaki) and dividing it by the total number of possible connections (in this case, there are 6 possible connections). Therefore, the clustering coefficient of 4 is 0.5.
+0.5
+0.5
+The clustering coefficient of 3 is 0.5.
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.0
+0.25
+0.5
+The clustering coefficient of Natsuko Hikage is 0.5.
+The clustering coefficient of 7 is 0.5. This is calculated by counting the number of edges between the neighbors of node 7 (Norihisa Segawa) and dividing it by the maximum number of edges that could exist between those neighbors. In this case, there are 7 neighbors of Norihisa Segawa, so the maximum number of edges is 21. The number of edges between the neighbors of Norihisa Segawa is 12, so the clustering coefficient is 12/21 = 0.5.
+0.0
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '0', '0', '4', '0', '0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '7', '0', '1', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.0
+The clustering coefficient of node 1 is 0.25. This is calculated by counting the number of edges between the node's neighbors (in this case, Amit Dhurandhar, Alin Dobra, Tamer Kahveci, Abhijit Pol, and S. Ranka) and dividing by the total number of possible edges between them (in this case, 10).
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.3125.
+0.4
+The clustering coefficient of node 5 is 0.5. This is calculated by counting the number of connections between the node's neighbors (in this case, Tamer Kahveci's neighbors are Amit Dhurandhar, Alin Dobra, Abhijit Pol, S. Ranka, and Christopher Jermaine) and dividing it by the maximum number of connections possible (in this case, 5).
+The clustering coefficient of Abhijit Pol is 0.5. This is calculated by counting the number of edges between Abhijit Pol's neighbors (3 edges) and dividing it by the maximum number of edges that could exist between them (6 edges).
+0.5
+The clustering coefficient of Christopher Jermaine is 0.67.
+0.5
+0.25
+The clustering coefficient of 4 is 0.5.
+0.5
+0.5
+0.5
+0.0
+0.25
+0.25
+The clustering coefficient of node 3 is 0.5. This is calculated by counting the number of edges between the neighbors of node 3 (in this case, 4 edges) and dividing it by the maximum number of edges that could exist between the neighbors of node 3 (in this case, 8 edges).
+0.5
+0.5
+0.5
+The clustering coefficient of 7 is 0.5.
+0.0
+0.25
+The clustering coefficient of 2 is 0.5. This is calculated by taking the number of edges (collaborations) between the neighbors of node 2, divided by the maximum number of edges that could exist between those neighbors. In this case, there are 5 edges between the neighbors of node 2, and the maximum number of edges that could exist between those neighbors is 10, so the clustering coefficient of node 2 is 0.5.
+The clustering coefficient of 8 is 0.5.
+0.375
+The clustering coefficient of 0 is 0.
+['0', '1', '0', '0', '0', '5', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '7', '0', '0', '2', '8', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Ted J. Wasserman is 0.333 (or 33.3%). This is calculated by taking the number of edges connected to Ted J. Wasserman (3) and dividing it by the maximum number of edges that could be connected to him (6).
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of David B Skillicorn is 0.5. This is calculated by counting the number of edges between the nodes connected to David B Skillicorn (3) and dividing by the maximum number of edges possible between those nodes (6).
+
+25it [24:36, 57.62s/it][A
+26it [25:24, 54.75s/it][AThe clustering coefficient of {'relation': 'collaborate'} is 0.25.
+The clustering coefficient of Haider Rizvi is 0.5. This is calculated by counting the number of edges between the neighbors of Haider Rizvi (12) and dividing it by the maximum number of edges possible between those neighbors (24).
+The clustering coefficient of P. Martin is 0.5. This is calculated by counting the number of connections P. Martin has with other nodes (4) and then dividing that by the total number of possible connections (6).
+The clustering coefficient of Andrew Dearden is 0.5. This is calculated by counting the number of edges between the nodes connected to Andrew Dearden (4) and then dividing by the number of possible edges between those nodes (8).
+The clustering coefficient of 4 is 0.33. This is calculated by counting the number of edges between the neighbors of 4, divided by the maximum number of edges that could exist between them. In this case, there are 3 edges between the neighbors of 4, and the maximum number of edges that could exist between them is 9, so the clustering coefficient is 3/9 = 0.33.
+The clustering coefficient of Rogerio DePaula is 0.
+The clustering coefficient of Cecilia Oyugi is 0.5. This is calculated by taking the number of connections between her direct neighbors (3) and dividing it by the maximum number of connections possible (6).
+The clustering coefficient of Heike Winschiers-Theophilus is 0.5. This can be calculated by counting the number of connections between Heike Winschiers-Theophilus and her neighbors (3) and dividing it by the total number of possible connections between Heike Winschiers-Theophilus and her neighbors (6).
+The clustering coefficient of Mu Sun is 0.5. This is calculated by counting the number of connections between the nodes connected to Mu Sun (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of 2 is 0.5.
+0.5
+The clustering coefficient of Lui Sha is 0.0. This is because Lui Sha only has one connection (to Darren Duane Cofer) and no other nodes connected to both Lui Sha and Darren Duane Cofer. Therefore, the clustering coefficient of Lui Sha is 0.
+The clustering coefficient of node 12 is 0.5. This is calculated by counting the number of edges between the neighbors of node 12 (3) and dividing by the total number of possible edges between the neighbors (6).
+0.0
+The clustering coefficient of Steve Pratt is 0.5. This is calculated by counting the number of edges connected to Steve Pratt (3) and dividing it by the maximum number of edges that could be connected to him (6).
+0.5
+The clustering coefficient of Peter Wai Yee Wong is 0.33. This is calculated by counting the number of connections between his direct neighbors (3) and dividing it by the maximum number of connections between them (9).
+The clustering coefficient of Sam Lightstone is 0.5. This is calculated by taking the number of connections between Sam's neighbors (3) and dividing it by the total number of possible connections between those neighbors (6).
+The clustering coefficient of A. Dearden is 0.0.
+The clustering coefficient of Subodh Gupta is 0.33. This is calculated by taking the number of connections Subodh Gupta has (1) and dividing it by the maximum number of connections he could have (3).
+The clustering coefficient of node 1 is 0.0.
+The clustering coefficient of Samar Dajani-Brown is 0.5. This is calculated by taking the number of connections Samar has with his neighbors (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of 0 is 0.
+0.0
+['0', '3', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0', '2', '0', '0', '12', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.25
+The clustering coefficient of 1 is 0.5. This is calculated by counting the number of edges connected to 1 (4 edges) and dividing it by the maximum number of edges that could be connected to 1 (6 edges).
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.0
+The clustering coefficient of P. Sas is 0.5. This is calculated by counting the number of edges between the nodes connected to P. Sas (2 edges) and dividing it by the maximum number of edges that could exist between those nodes (4 edges).
+The clustering coefficient of 2 is 0.33.
+0.5
+0.5
+The clustering coefficient of Joris Vertommen is 0.667.
+The clustering coefficient of 3 is 0.333.
+0.5
+0.6
+The clustering coefficient of 9 is 0.5. This is because 9 has four neighbors (Bart De Moor, W. Dewulf, Hendrik Van Brussel, and Ruben Verlinden), and two of them (Bart De Moor and W. Dewulf) are connected to each other. Thus, the clustering coefficient of 9 is 2/4 = 0.5.
+0.5
+The clustering coefficient of A. M. Habraken is 0.33. This is calculated by taking the number of connections between A. M. Habraken's neighbors (2) and dividing it by the total number of possible connections (6).
+0.25
+0.5
+0.0
+0.5
+The clustering coefficient of 0 is 0.0.
+The clustering coefficient of L. Vandenberghe is 0.5. This is calculated by counting the number of connections between the nodes connected to L. Vandenberghe (Bart De Moor, W. Dewulf, and Hendrik Van Brussel) and dividing it by the total number of possible connections between those nodes (3).
+The clustering coefficient of node 4 is 0.5. This is calculated by counting the number of edges between the neighbors of node 4 (3 edges) and dividing it by the maximum number of edges that could exist between them (6 edges).
+The clustering coefficient of Ruben Verlinden is 0.0.
+0.0
+0.0
+0.0
+['0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '3', '0', '0', '9', '0', '0', '0', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Thomas Mirlacher is 0.75. This is calculated by dividing the number of edges between his neighbors (4) by the maximum number of edges possible between his neighbors (4*3/2 = 6).
+The clustering coefficient of 4 is 0.5.
+The clustering coefficient of Regina Bernhaupt is 0.4.
+The clustering coefficient of {'relation': 'collaborate'} is 0.2.
+The clustering coefficient of Philipe Palanque is 0.0, since he has no connections to any other nodes in the graph.
+0.25
+The clustering coefficient of Manfred Tscheligi is 0.5. This is calculated by taking the number of connections between his neighbors (4) and dividing it by the maximum number of connections possible (6).
+0.0
+The clustering coefficient of 1 is 0.0.
+The clustering coefficient of Marianna Obrist is 0.5. This is calculated by taking the number of connections Marianna has (2) and dividing it by the total number of possible connections (4).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Ben A. M. Schouten is 0.5.
+The clustering coefficient of Florian Mueller is 0.5. This is calculated by counting the number of connections between Florian Mueller and the other nodes in the graph (4) and dividing it by the maximum number of connections possible (8).
+The clustering coefficient of Ronald L. Boring is 0.0. This is because he has only two connections (to Regina Bernhaupt and Sandra Basnyat), and none of those connections are connected to each other.
+The clustering coefficient of Sandra Basnyat is 0.0.
+The clustering coefficient of Jan Gulliksen is 0.5. This is calculated by taking the number of connections between Jan Gulliksen's neighbors (3) and dividing it by the total number of possible connections between them (6).
+The clustering coefficient of 3 is 0.333 (or 33.3%). This is calculated by counting the number of edges between the neighbors of node 3, divided by the maximum number of edges that could exist between them.
+0.0
+The clustering coefficient of Ebba Thora Hvannberg is 0.0, since she has no connections to any other nodes in the network.
+The clustering coefficient of Cédric Bach is 0.0, since he has no neighbors and thus no triangles.
+The clustering coefficient of Katherine Isbister is 0.75.
+0.5
+
+27it [26:11, 52.55s/it][A
+28it [26:48, 47.74s/it][A
+29it [27:42, 49.66s/it][A
+30it [28:23, 47.06s/it][A
+31it [29:02, 44.53s/it][A
+32it [29:59, 48.30s/it][AThe clustering coefficient of Daniel Cook is 0.33. This is calculated by counting the number of edges between Daniel Cook's neighbors (Regina Bernhaupt and Florian Mueller) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Dennis Wixon is 0.5. This is calculated by taking the number of connections between Dennis Wixon and his neighbors (3) and dividing it by the maximum number of connections possible (6).
+The clustering coefficient of Newton Lee is 0.25. This is calculated by counting the number of connections between Newton Lee and his neighbors (4) and dividing it by the maximum number of connections possible (4*(4-1)/2).
+The clustering coefficient of 0 is 0.
+['0', '4', '0', '0', '0', '0', '0', '0', '1', '0', '2', '0', '0', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.875
+The clustering coefficient of 14 is 0.5.
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+0.0
+0.5
+0.5
+0.5
+0.5
+The clustering coefficient of K. Shiv is 0.5. This is calculated by taking the number of connections between K. Shiv's neighbors (3) and dividing it by the maximum number of connections possible (6).
+0.0
+0.5
+0.5
+0.0
+0.0
+0.5
+The clustering coefficient of node 1 is 0.5, since it has three neighbors (Hongli Liu, Juan Jiang, and Hui Yang) and all three of them are connected to each other.
+The clustering coefficient of 0 is 0.
+0.5
+The clustering coefficient of 3 is 0.333.
+0.5
+0.5
+The clustering coefficient of 2 is 0.5.
+0.0
+0.0
+['0', '14', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '3', '0', '0', '2', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Zhaohui Wu is 0.625. This is calculated by counting the number of edges between his neighbors (8) and dividing it by the maximum number of edges possible (12).
+The clustering coefficient of the collaboration network is 0.25.
+0.0
+0.5
+0.5
+0.5
+0.5
+0.25
+0.5
+0.25
+0.5
+0
+0.0
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the neighbors of node 1 (in this case, there are 4 edges between the neighbors of node 1) and dividing it by the maximum number of edges that could exist between the neighbors of node 1 (in this case, the maximum number of edges is 8). Therefore, the clustering coefficient of node 1 is 0.5.
+0
+0.0
+0.0
+0.0
+The clustering coefficient of Zhaohui Wu is 0.625.
+0
+0
+0.0
+0
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Sunghyun Cho is 0.5. This is calculated by taking the number of edges between Sunghyun Cho's neighbors (2) and dividing it by the maximum number of edges possible between those neighbors (4).
+The clustering coefficient of 2 is 1.0. This means that all of the nodes connected to node 2 are also connected to each other.
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+The clustering coefficient of 19 is 0.5263.
+0.5
+0.5
+The clustering coefficient of Liang Ding is 0.0. This is because Liang Ding is not connected to any other nodes in the graph, so there are no triangles that can be formed with him as a vertex.
+0.5
+0.0
+0.0
+0.0
+0
+0.25
+0.5
+0.5
+0.2
+0.0
+0.5
+0.5
+0.5
+0.25
+The clustering coefficient of 1 is 0.5. This is calculated by counting the number of edges connected to 1 (which is 2 in this case) and then dividing it by the number of possible edges that could be connected to 1 (which is 4 in this case).
+The clustering coefficient of 0 is 0.0.
+['0', '2', '0', '0', '0', '19', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of node 1 is 0.5, since there are 5 edges connecting node 1 to its neighbors, and 3 of them form a triangle.
+0.5
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+The clustering coefficient of 3 is 0.5.
+0.5
+0
+0.5
+0.5
+0.33
+0.5
+The clustering coefficient of 10 is 0.2.
+0.5
+0.0
+0.2
+0.5
+0.25
+0.5
+0.25
+0
+0.0
+The clustering coefficient of 2 is 0.25.
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 5 is 0.167.
+0.0
+0
+['0', '1', '0', '0', '0', '3', '0', '0', '0', '0', '0', '0', '10', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2', '0', '5', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Jiri Cermak is 0.75. This is calculated by counting the number of edges between the four nodes connected to Jiri Cermak (Michal Pechoucek, Branislav Bosansky, Christopher Kiekintveld, and Viliam Lisy) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of 4 is 0.5. This is calculated by counting the number of edges between the nodes connected to 4 (3) and dividing it by the maximum number of edges possible between those nodes (6).
+The clustering coefficient of Michal Pechoucek is 0.5. This is calculated by dividing the number of edges between Michal Pechoucek's neighbors (2) by the total number of possible edges between Michal Pechoucek's neighbors (4).
+The clustering coefficient of {'relation': 'collaborate'} is 0.25. This is calculated by taking the number of edges between the nodes in the network (in this case, the number of collaborations) and dividing it by the total number of possible edges between the nodes.
+0.5
+The clustering coefficient of Christopher Kiekintveld is 0.5. This is calculated by counting the number of edges between Christopher Kiekintveld's neighbors (3 edges) and dividing it by the maximum number of edges that could exist between those neighbors (6 edges).
+0.5
+0.0
+The clustering coefficient of 1 is 0.0.
+0.5
+0.4
+The clustering coefficient of node 5 is 0.5. This is calculated by counting the number of edges between the neighbors of node 5 (4) and dividing it by the maximum number of edges that could exist between the neighbors of node 5 (8).
+0.25
+The clustering coefficient of Imrich Vrto is 0.33. This is calculated by counting the number of edges between Imrich Vrto's neighbors (3 edges) and dividing it by the maximum number of edges that could exist between Imrich Vrto's neighbors (9 edges).
+0.5
+0.0
+The clustering coefficient of Carlo H. Séquin is 2/3 = 0.667.
+The clustering coefficient of 2 is 0.5. This is calculated by counting the number of edges between the neighbors of node 2, and then dividing by the maximum number of edges that could exist between them. In this case, there are two edges between the neighbors of node 2, so the clustering coefficient is 2/4 = 0.5.
+The clustering coefficient of D. Lioupis is 0.5. This is calculated by counting the number of connections between D. Lioupis and his neighbors (2 connections) and dividing it by the maximum number of connections possible (4 connections).
+0.0
+The clustering coefficient of 0 is 0.0.
+0.0
+0.0
+The clustering coefficient of Josef Pieprzyk is 0.0 since he has no connections to any other nodes in the graph.
+0.0
+The clustering coefficient of C. Kaklamanis is 0.0, since he has no connections to any other node in the graph.
+['0', '4', '0', '0', '0', '0', '0', '0', '1', '0', '0', '5', '0', '0', '0', '0', '2', '2', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+
+33it [30:45, 47.68s/it][A
+34it [31:46, 51.66s/it][A
+35it [32:37, 51.59s/it][AThe clustering coefficient of Michael J. Gallivan is 0.333 (or 33.3%). This is calculated by taking the number of connections between his direct neighbors (3) and dividing it by the total number of possible connections between them (9).
+The clustering coefficient of 3 is 0.333 (or 33.3%).
+The clustering coefficient of Manju K. Ahuja is 0.75. This is calculated by dividing the number of edges connected to Manju K. Ahuja (12) by the total number of possible edges (16).
+The clustering coefficient of {'relation': 'collaborate'} is 0.25.
+0.5
+0.33
+The clustering coefficient of Mohan R Tanniru is 0.5. This is calculated by counting the number of edges that connect the neighbors of Mohan R Tanniru and dividing it by the total number of possible edges between those neighbors. In this case, there are 3 neighbors of Mohan R Tanniru, and there are 6 possible edges between them. Since there are 3 edges that connect the neighbors, the clustering coefficient is 0.5.
+The clustering coefficient of Kelly J. Fadel is 0.5.
+The clustering coefficient of Susan A. Brown is 0.33. This is calculated by counting the number of connections between her neighbors (3) and dividing it by the total number of possible connections between her neighbors (9).
+0.25
+The clustering coefficient of Dennis F. Galletta is 0.5.
+The clustering coefficient of 4 is 0.25.
+The clustering coefficient of Alexandra Durcikova is 0.75. This is calculated by counting the number of connections between her direct neighbors (Brian Butler, Hoon S. Cha, Susan A. Brown, and Suzanne P. Weisband) and dividing it by the maximum number of connections that could exist between them (6).
+Brian Butler has a degree of 0, so the clustering coefficient is 0.
+0.0
+The clustering coefficient of 1 is 0.0. This means that there is no connection between the node and any of its neighbors.
+The clustering coefficient of Thomas Meservy is 0.5. This is calculated by taking the number of connections Thomas Meservy has with other nodes (2) and dividing it by the maximum number of connections he could have (3).
+The clustering coefficient of 2 is 0.333 (or 33.3%).
+0.0
+0.0
+The clustering coefficient of 7 is 0.286.
+0.25
+0.0
+0.0
+The clustering coefficient of David E Pingry is 0.33 (or 33%). This is calculated by taking the number of connections between David E Pingry's neighbors (3) and dividing it by the maximum number of possible connections between those neighbors (9).
+0.33
+The clustering coefficient of 0 is 0.
+['0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '4', '0', '0', '0', '1', '0', '2', '0', '0', '7', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Guojun Dai is 0.8, since the number of connections between his neighbors is 5, and the maximum number of connections between his neighbors is 6.
+The clustering coefficient of 5 is 0.4. This is calculated by taking the number of edges between the nodes connected to 5 (3) and dividing it by the maximum number of edges possible between those nodes (5).
+The clustering coefficient of Shao-Jie Tang is 0.5. This is calculated by taking the number of edges between the neighbors of Shao-Jie Tang (3) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of the network with the given relation is 0.25.
+The clustering coefficient of CHENG BO is 0.5. This is calculated by counting the number of connections between CHENG BO's neighbors (5) and dividing it by the total number of possible connections between them (10).
+The clustering coefficient of Jianhui Zhang is 0.33. This is calculated by counting the number of edges between the nodes connected to Jianhui Zhang (3 edges) and dividing it by the maximum possible number of edges (9 edges).
+The clustering coefficient of Changping Lv is 2/3 = 0.66667.
+The clustering coefficient of Xiang-Yang Li is 0.0.
+The clustering coefficient of node 3 is 0.5. This is calculated by counting the number of edges between the node's neighbors and dividing it by the maximum number of edges that could exist between them. In this case, there are 3 edges between the neighbors of node 3, and the maximum number of edges that could exist between them is 6, so the clustering coefficient is 0.5.
+0.0
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Chen Junliang is 0.4.
+The clustering coefficient of Jing Yuan is 0.5. This is calculated by counting the number of edges between the nodes connected to Jing Yuan (4) and dividing it by the maximum number of edges possible between those nodes (8).
+The clustering coefficient of node 4 is 0.5. This is calculated by counting the number of edges between the node's neighbors (in this case, 3 edges) and dividing by the maximum number of edges that could exist between the node's neighbors (in this case, 6 edges).
+The clustering coefficient of Yunhao Li is 0.5. This is calculated by taking the number of edges between Yunhao Li's neighbors (2) and dividing it by the number of possible edges between them (4).
+0.0
+The clustering coefficient of node 1 is 0.5, since there are 5 nodes connected to node 1 and 3 of them are connected to each other.
+The clustering coefficient of 14 is 0.333 (or 33.3%). This is calculated by taking the number of edges between the nodes connected to 14 (5) and dividing it by the total number of possible edges (15).
+The clustering coefficient of Guo Jie is 0.0, since there are no edges connecting Guo Jie to any of his neighbors.
+0.33
+0.0
+0
+0.0
+0
+0.0
+0.0
+0.5
+The clustering coefficient of 0 is 0.
+['0', '5', '0', '0', '0', '0', '2', '0', '3', '0', '2', '0', '0', '4', '0', '0', '1', '14', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.5
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Liang Wang is 0.5. This is calculated by counting the number of connections between his collaborators (8) and dividing it by the total number of possible connections (16).
+The clustering coefficient for this network is 0.2.
+0.5
+0.0
+The clustering coefficient of 1 is 0.0.
+0.5
+The clustering coefficient of 4 is 0.5.
+0.5
+The clustering coefficient of and Jim Bezdek is 0.2. This is calculated by dividing the number of connections between and Jim Bezdek's neighbors (3) by the total number of possible connections between and Jim Bezdek's neighbors (15).
+The clustering coefficient of Christopher Leckie is 0.5. This is calculated by taking the number of connections between Christopher Leckie and his neighbors (2) and dividing it by the maximum number of connections he could have (3).
+0.0
+The clustering coefficient of Wenfeng Shen is 0.0.
+0.5
+0.5
+The clustering coefficient of Wen Gao is 0.5. This is calculated by counting the number of connections Wen Gao has with other nodes (2) and dividing it by the total number of possible connections he could have (4).
+The clustering coefficient of Zhongqiu Li is 0.5. This is calculated by taking the number of connections between Zhongqiu Li and his neighbors (2) and dividing it by the total number of possible connections between Zhongqiu Li and his neighbors (4).
+0.25
+0.5
+0.0
+0.25
+The clustering coefficient of 3 is 0.333.
+0.25
+0
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '1', '0', '4', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Jorge Parra is 0.333. This is calculated by taking the number of connections between Jorge Parra's neighbors (3) and dividing it by the total number of possible connections between those neighbors (9).
+The clustering coefficient of 3 is 0.5.
+The clustering coefficient of M. Anwar Hossain is 0.5. This is calculated by taking the number of connections between M. Anwar Hossain's neighbors (3) and dividing it by the maximum number of connections possible (6).
+
+36it [33:32, 52.48s/it][A
+37it [34:13, 49.09s/it][A
+38it [35:03, 49.44s/it][AThe clustering coefficient of {'relation': 'collaborate'} is 0.5.
+0.556
+The clustering coefficient of Abdulmotaleb El Saddik is 0.6.
+0.75
+The clustering coefficient of 4 is 0.6.
+0.5
+The clustering coefficient of N. D. Georganas is 0.5. This is calculated by counting the number of edges between the nodes connected to N. D. Georganas (4) and dividing it by the maximum number of edges that could exist between those nodes (8).
+The clustering coefficient of Yong Rui is 0.5. This is calculated by taking the number of connections between Yong Rui's neighbors (2) and dividing it by the total number of possible connections between Yong Rui's neighbors (4).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Peter Frykman is 0.0. This is because Peter Frykman has only two connections and no triangles, so the clustering coefficient is 0.
+The clustering coefficient of Bora Oz is 0.5. This is calculated by taking the number of connections between Bora Oz and his neighbors (2) and dividing it by the maximum possible number of connections (2 x (2-1)).
+0.5
+0.0
+The clustering coefficient of 1 is 0.0, since there are no other nodes connected to it.
+The clustering coefficient of 9 is 0.5.
+0.5
+The clustering coefficient of Reza GhasemAghaei is 2/3 = 0.66667.
+The clustering coefficient of Thomas T. Tran is 0.33. This is calculated by taking the number of connections between Thomas T. Tran's neighbors (2) and dividing it by the total number of possible connections between his neighbors (6).
+The clustering coefficient of W. Gueaieb is 2/3 = 0.667.
+0.5
+0.5
+The clustering coefficient of Mauricio Orozco is 0.5. This is calculated by counting the number of connections between Mauricio Orozco's neighbors (2 connections) and dividing it by the maximum possible number of connections between those neighbors (4 connections).
+0.0
+The clustering coefficient of 0 is 0.
+['0', '3', '0', '0', '0', '0', '0', '4', '0', '0', '0', '2', '0', '0', '0', '0', '1', '9', '0', '2', '0', '2', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Adrian Nistor is 0.33. This is calculated by taking the number of connections between Adrian Nistor's neighbors (2) and dividing it by the total number of possible connections between them (6).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Nicolae Tapus is 0.5. This is calculated by taking the number of connections between his direct connections (10) and dividing it by the total number of possible connections (15).
+The clustering coefficient of {'relation': 'collaborate'} is 0.3.
+0.33
+The clustering coefficient of Sven Zeisberg is 0.667 (2/3).
+The clustering coefficient of 3 is 0.5.
+The clustering coefficient of Laura Gheorghe is 2/3 = 0.66667.
+The clustering coefficient of Emil Slusanschi is 0.0.
+The clustering coefficient of Costin-Anton Boiangiu is 0.5.
+0.5
+0.25
+0.0
+0.0
+The clustering coefficient of 1 is 0.0.
+0.5
+0.0
+The clustering coefficient of Dragos Badea is 0.33. This is calculated by taking the number of connections between Dragos Badea's neighbors (2) and dividing it by the maximum number of possible connections between them (6).
+The clustering coefficient of 10 is 0.4.
+0.0
+0.0
+0.5
+The clustering coefficient of Johan Pouwelse is 0.33. This is calculated by taking the number of connections between his neighbors (2) and dividing it by the maximum number of connections possible (6).
+0.5
+0.0
+The clustering coefficient of node 4 is 0.33. This is calculated by counting the number of edges among the neighbors of node 4 (3 edges) and dividing it by the maximum number of edges that could exist among them (9 edges).
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '3', '2', '0', '0', '0', '0', '0', '0', '1', '0', '0', '0', '10', '0', '0', '0', '0', '0', '0', '4', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of E. Pesch is 0.75.
+The clustering coefficient of 4 is 0.5.
+The clustering coefficient of Günter Schmidt is 0.5.
+The clustering coefficient of the network is 0.25.
+The clustering coefficient of J Weglarz is 0.5. This is calculated by taking the number of connections J Weglarz has with other nodes (2) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of J Blazewicz is 0.5. This is calculated by taking the number of edges between J Blazewicz's neighbors (4) and dividing it by the maximum number of edges that could exist between those neighbors (6).
+The clustering coefficient of K. Ecker is 0.5.
+0.5
+The clustering coefficient of 3 is 0.333.
+The clustering coefficient of E. Ettelt is 0.5. This is calculated by counting the number of connections between E. Ettelt's neighbors (Günter Schmidt, C. Fischer, and E. Pesch) and dividing by the total number of possible connections between them (3).
+0.5
+The clustering coefficient of L. Nemes is 0.5. This is because L. Nemes is connected to two other nodes (P. Bernus and Günter Schmidt) and there is an edge between them, so the clustering coefficient is 2/3 = 0.5.
+The clustering coefficient of 2 is 0.25.
+The clustering coefficient of P. Bernus is 0.5.
+The clustering coefficient of node 6 is 0.33. This is calculated by counting the number of edges between the neighbors of node 6 (3 edges) and dividing it by the maximum number of edges that could exist between the neighbors of node 6 (9 edges).
+0.5
+The clustering coefficient of Michael J. Shaw is 0.5. This is calculated by counting the number of connections between his direct collaborators (Robert W. Blanning and Günter Schmidt) and dividing it by the maximum number of connections possible (2).
+The clustering coefficient of Troy Jefferson Strader is 0.5.
+The clustering coefficient of Andrew B. Whinston is 0.5.
+The clustering coefficient of Robert W. Blanning is 0.0.
+0.0
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of edges between the node's neighbors (4) and dividing it by the maximum number of edges that could exist between them (6).
+The clustering coefficient of M. Drozdowski is 0.4.
+The clustering coefficient of node 5 is 0.5. This is calculated by counting the number of edges between the neighbors of node 5 (4 edges) and dividing it by the maximum number of edges that could exist between the neighbors of node 5 (8 edges).
+The clustering coefficient of W. Kubiak is 0.33. This is calculated by taking the number of connections between W. Kubiak's neighbors (3) and dividing it by the total possible connections (9).
+The clustering coefficient of P. Formanowicz is 0.
+0.0
+The clustering coefficient of 0 is 0.
+['0', '4', '0', '0', '0', '0', '0', '0', '3', '0', '0', '0', '2', '0', '6', '0', '0', '0', '0', '0', '0', '1', '0', '5', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Walter Knödel is 0.5. This is calculated by taking the number of edges (2) divided by the number of possible edges (3).
+The clustering coefficient of 2 is 0.5.
+The clustering coefficient of Gerald Farin is 0.769231.
+The clustering coefficient for the given network is 0.22.
+The clustering coefficient of H. Noltemeier is 0.33. This is calculated by taking the number of edges connected to H. Noltemeier (2) and dividing it by the maximum number of edges that could be connected to H. Noltemeier (6).
+The clustering coefficient of Bernd Hamann is 0.5. This is calculated by dividing the number of edges between his neighbors (3) by the total number of possible edges between his neighbors (6).
+0.5
+The clustering coefficient of Issac J. Trotts is 0.0. This is because he has no direct connections to any other nodes in the network, so his clustering coefficient is 0.
+0.25
+
+39it [35:50, 48.58s/it][A
+40it [36:49, 51.82s/it][AThe clustering coefficient of Myungsoo Bae is 0.5. This is calculated by taking the number of connections between the nodes that are connected to Myungsoo Bae (3) and dividing it by the total number of possible connections (6).
+0.5
+The clustering coefficient of M. R. Henderson is 0.33. This is calculated by taking the number of connections between M. R. Henderson's neighbors (2) and dividing it by the maximum number of connections possible between them (6).
+The clustering coefficient of A. J. Worsey is 0.0, since he has no connections to any other nodes in the graph.
+The clustering coefficient of node 1 is 0.0. This is because node 1 does not have any neighbors that are connected to each other.
+The clustering coefficient of 13 is 0.5. This means that there are 6 edges connecting the nodes that are connected to node 13, out of a possible 9 edges.
+0
+0.0
+0.0
+The clustering coefficient of G. Wu is 0.0, since G. Wu has no connections to any other nodes in the graph.
+0.0
+0.0
+0.0
+The clustering coefficient of Adam Huang is 0.5. This is calculated by counting the number of connections between Adam Huang and his neighbors (Anshuman Razdan and Gregory Nielson) and dividing it by the maximum number of possible connections (3).
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+['0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1', '13', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Jianxin Chen is 0.0, since there are no other nodes connected to Jianxin Chen.
+The clustering coefficient of 1 is 0.5. This is calculated by counting the number of edges between the nodes connected to 1 and dividing it by the total number of possible edges between those nodes. In this case, there are two edges between the nodes connected to 1 (Jianxin Chen and T. Y. Lin), and there are four possible edges between them, so the clustering coefficient is 0.5.
+The clustering coefficient of Qing Liu is 0.75. This is calculated by counting the number of connections between Qing Liu's neighbors (8) and dividing it by the total number of possible connections between Qing Liu's neighbors (12).
+The clustering coefficient of {'relation': 'collaborate'} is 0.3125.
+The clustering coefficient of Minjie Zhang is 0.5. This is calculated by counting the number of connections between Minjie Zhang's neighbors (2) and dividing it by the maximum number of connections possible (4).
+The clustering coefficient of 2 is 1.0. This means that all of the nodes connected to node 2 are also connected to each other.
+The clustering coefficient of Yi Mu is 0.5. This is calculated by counting the number of edges between Yi Mu's neighbors (Minjie Zhang, Wei-Hua Wang, and Qing Li) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of T. Y. Lin is 0.5. This is calculated by counting the number of edges between T. Y. Lin's neighbors (Minjie Zhang, Wei Huang, Xiang Xu, Xiaoling Zhang, Wei-Hua Wang, Gang Yan, Qing Li, Yi Mu, Walid G. Aref, Alex Delis, Jeffrey Xu Yu, Huasheng Zhu, Baihua Zheng, G. Y. Wang, Min Zhang, and Jing Zhu) and dividing by the total possible number of edges between them (n(n-1)/2). In this case, there are 8 edges between T. Y. Lin's neighbors, so the clustering coefficient is 8/(15*14/2) = 0.5.
+The clustering coefficient of Wei Huang is 0.5. This is calculated by counting the number of edges between Wei Huang and his neighbors (Qing Liu, Jianxin Chen, and T. Y. Lin) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Xiang Xu is 0.5. This is calculated by counting the number of edges between Xiang Xu and his neighbors (Qing Liu, Wei Huang, Xiaoling Zhang, and Wei-Hua Wang) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Xiaoling Zhang is 0.5. This is calculated by counting the number of connections between Xiaoling Zhang and her neighbors (Qing Liu, Wei Huang, Xiang Xu, and Wei-Hua Wang) and dividing it by the total number of possible connections (6).
+0.5
+The clustering coefficient of Jeffrey Xu Yu is 0.5. This is calculated by counting the number of edges between Jeffrey Xu Yu and his neighbors (Qing Liu and Alex Delis) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Gang Yan is 0.5. This is calculated by counting the number of edges between Gang Yan and his neighbors (Qing Liu, Yi Mu, and Jeffrey Xu Yu) and dividing it by the maximum number of edges that could exist between them (3).
+The clustering coefficient of Qing Li is 0.5. This is calculated by taking the number of edges between the neighbors of Qing Li (2) and dividing it by the maximum number of edges possible between those neighbors (4).
+0.5
+The clustering coefficient of Walid G. Aref is 0.33. This is calculated by counting the number of edges between the neighbors of Walid G. Aref (2 edges) and dividing it by the total number of possible edges between his neighbors (6 edges).
+0.5
+0.5
+The clustering coefficient of G. Y. Wang is 0.2. This is calculated by counting the number of edges between G. Y. Wang's neighbors (Wei Huang, Xiang Xu, Xiaoling Zhang, Wei-Hua Wang, Gang Yan, Qing Li, Baihua Zheng, Walid G. Aref, Alex Delis, Jeffrey Xu Yu, Huasheng Zhu, and Min Zhang) and dividing it by the total number of possible edges between them (15).
+The clustering coefficient of Min Zhang is 0.5. This is because Min Zhang is connected to two other nodes (Qing Liu and Jing Zhu) that are also connected to each other. Therefore, the number of connections between Min Zhang's neighbors is 2, and the total number of possible connections between them is 3. The clustering coefficient is then calculated as 2/3 = 0.5.
+The clustering coefficient of Jing Zhu is 0.5. This is calculated by counting the number of edges between Jing Zhu's neighbors (Jian Fu and Qing Liu) divided by the total number of possible edges between them (2).
+0.0
+The clustering coefficient of 0 is 0.0.
+['0', '1', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.0
+The clustering coefficient of node 1 is 0.5. This is calculated by dividing the number of edges between the neighbors of node 1 (3) by the total number of possible edges between the neighbors (6).
+The clustering coefficient of Xin Wang is 0.5. This is calculated by counting the number of edges between Xin Wang's neighbors (6) and dividing it by the maximum number of edges possible between them (12).
+The clustering coefficient for the given network is 0.2.
+The clustering coefficient of Jaques Reifman is 0.0, since he is not connected to any other nodes in the graph.
+0.5
+The clustering coefficient of 2 is 0.33.
+0.5
+The clustering coefficient of Qingwen Liu is 0.5. This is calculated by counting the number of edges between Qingwen Liu's neighbors (Wenchao Huang, Xin Wang, and He Huang) and dividing by the maximum number of edges possible between those neighbors (3).
+The clustering coefficient of Shengli Zhou is 0.5. This is because Shengli Zhou is connected to two other nodes (G. B. Giannakis and Qingwen Liu) and both of these nodes are connected to each other, forming a triangle. Thus, the clustering coefficient of Shengli Zhou is 2/3 = 0.5.
+The clustering coefficient of G. B. Giannakis is 0.5. This is calculated by taking the number of edges between G. B. Giannakis' neighbors (2) and dividing it by the maximum number of edges that could exist between them (4).
+The clustering coefficient of E K Blum is 0.0. This is because E K Blum is only connected to one node (Xin Wang), and there are no other nodes connected to Xin Wang that are also connected to E K Blum.
+
+41it [38:00, 57.55s/it][A
+42it [38:36, 51.05s/it][A
+43it [39:33, 52.70s/it][AThe clustering coefficient of Yunlong Liu is 0.333. This is calculated by counting the number of connections between Yunlong Liu's neighbors (Xin Wang, Wenchao Huang, and Qingwen Liu) and dividing it by the maximum number of connections possible (3).
+The clustering coefficient of P. P. Jonker is 0.0 since he is only connected to one node (Xin Wang) and there are no edges between the other nodes connected to Xin Wang.
+The clustering coefficient of Weiming Zhang is 0.0. This is because Weiming Zhang is only connected to Xin Wang and no other nodes. Therefore, there are no triangles formed and the clustering coefficient is 0.
+The clustering coefficient of Min Li is 0.5. This is calculated by counting the number of edges between Min Li's neighbors (Xin Wang and Qingwen Liu) and dividing it by the total number of possible edges between them (2).
+The clustering coefficient of Zhiyong Shan is 0.0 since he has no connections to any other nodes in the network.
+The clustering coefficient of 6 is 0.5.
+The clustering coefficient of Peng Wei is 0.167. This is calculated by counting the number of edges between Peng Wei's neighbors (P. Kudumakis, Dan Li, Zhifang Sui, D. Tipper, and Qingwen Liu) and dividing it by the maximum number of edges that could exist between them (6).
+0.0
+0.0
+0.0
+0.0
+The clustering coefficient of 0 is 0.
+0.0
+['0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '6', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+0.667
+The clustering coefficient of 3 is 0.5.
+0.5
+The clustering coefficient of the given network is 0.25.
+0.0
+0.8
+0
+The clustering coefficient of 1 is 0.0.
+0.0
+0.0
+The clustering coefficient of 10 is 0.2.
+0
+0.5
+0.5
+0.0
+0.0
+0.0
+0.5
+0.5
+The clustering coefficient of 4 is 0.25. This is calculated by counting the number of edges among the four nodes connected to 4 (3 edges) and dividing it by the total number of possible edges among the four nodes (6 edges).
+0.5
+0.5
+0.5
+The clustering coefficient of 0 is 0.
+The clustering coefficient of 7 is 0.43.
+0.0
+0.0
+The clustering coefficient of 2 is 0.2.
+['0', '3', '0', '0', '0', '0', '0', '1', '0', '0', '10', '0', '0', '0', '0', '0', '0', '0', '0', '4', '0', '0', '0', '0', '7', '0', '0', '2'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Yourong Li is 1.0. This is because Yourong Li is connected to five other nodes, and all five of these nodes are connected to each other, forming a fully connected subgraph. Therefore, the clustering coefficient of Yourong Li is 1.0.
+The clustering coefficient of 5 is 0.4.
+The clustering coefficient of Gangbing Song is 0.5. This is calculated by counting the number of edges between Gangbing Song's neighbors (3 edges) and dividing it by the maximum number of edges that could exist between them (6 edges).
+The clustering coefficient of {'relation': 'collaborate'} is 0.4.
+The clustering coefficient of Zhigang Wang is 0.5.
+The clustering coefficient of Changming Liu is 0.5. This is calculated by counting the number of edges between Changming Liu's neighbors (3 edges) and dividing it by the maximum number of edges that could exist between them (6 edges).
+0.5
+The clustering coefficient of Xi Li is 1.0, since all of her neighbors are connected to each other.
+The clustering coefficient of node 4 (Jianyi Kong) is 1.0, since all of its neighbors (Yourong Li, Xi Li, Gongfa Li, Ying Wan, Jintang Yang, Wei Wang, Xinda Lu, Juanzi Li, Changming Liu, Zhichun Wang, Minglu Li, Hegen Xiong, Lixia Wang, and Yu Hou) are connected to each other.
+0.75
+The clustering coefficient of Jintang Yang is 0.5. This is calculated by counting the number of connections between his neighbors (3) and dividing it by the maximum number of connections that could exist between them (6).
+0.25
+The clustering coefficient of Hegen Xiong is 0.33. This is calculated by counting the number of connections between Hegen Xiong and his neighbors (2 connections) and dividing it by the maximum number of connections that could exist between Hegen Xiong and his neighbors (6 connections).
+0.0
+The clustering coefficient of node 1 is 0.75. This is calculated by counting the number of edges between the neighbors of node 1 (5) and dividing it by the total number of possible edges between the neighbors (6).
+The clustering coefficient of 2 is 0.5.
+0.5
+The clustering coefficient of 3 is 0.5. This is calculated by counting the number of edges between the neighbors of 3 and dividing it by the maximum number of edges that could exist between them. In this case, 3 has 5 neighbors, so the maximum number of edges is 10. Since 3 has 5 edges between its neighbors, the clustering coefficient is 5/10 = 0.5.
+0.5
+0.25
+0.0
+The clustering coefficient of Xinda Lu is 0.33. This is calculated by taking the number of connections Xinda Lu has (2) and dividing it by the total number of possible connections (6).
+The clustering coefficient of Juanzi Li is 0.5. This is calculated by counting the number of edges between Juanzi Li's neighbors (Zhigang Wang and Zhichun Wang) and dividing by the maximum number of edges that could exist between them (2).
+The clustering coefficient of Zhichun Wang is 0.0.
+The clustering coefficient of Lixia Wang is 0.0, since Lixia Wang has no neighbors.
+0
+The clustering coefficient of 0 is 0.
+['1', '5', '0', '0', '0', '0', '0', '1', '4', '0', '0', '0', '0', '0', '1', '2', '0', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Zhe Mao is 0.33. This is calculated by dividing the number of edges between his neighbors (2) by the maximum number of edges possible between them (6).
+The clustering coefficient of 2 is 0.5.
+0.5
+The clustering coefficient of the network is 0.25.
+The clustering coefficient of Kun Li is 0.0.
+0.75
+The clustering coefficient of 6 is 0.5.
+The clustering coefficient of Hui Zhang is 0.5.
+The clustering coefficient of Song Gao is 0.33 (or 33%). This is calculated by dividing the number of connections between Song Gao's neighbors (3) by the total number of possible connections between Song Gao's neighbors (9).
+0.5
+0.5
+The clustering coefficient of Jing Gong is 0.0.
+The clustering coefficient of Qi Peng is 0.33. This is calculated by counting the number of edges between Qi Peng's neighbors (Kun Li, Xinping Yan, and Zhiyong Lu) and dividing by the maximum number of edges possible between them (3).
+The clustering coefficient of Zhiyong Lu is 0.33 (or 33%). This is calculated by taking the number of connections between Zhiyong Lu's neighbors (3) and dividing it by the total number of possible connections between those neighbors (9).
+The clustering coefficient of Kun Xu is 0.5. This is calculated by counting the number of connections between Kun Xu's neighbors (Kun Li, Hui Zhang, Xinping Yan, and Fan Yang) and dividing it by the total number of possible connections between them (6).
+The clustering coefficient of node 4 is 0.5. This is calculated by counting the number of edges between the neighbors of node 4 (Hui Zhang, Xinping Yan, and Xianqiao Chen) and dividing it by the maximum number of edges possible between them (3).
+The clustering coefficient of Gang Liu is 0.
+0.5
+The clustering coefficient of Fan Yang is 0.5. This is calculated by counting the number of connections between Fan Yang and his neighbors (Song Gao, Xinping Yan, and Wei Xiong) and dividing it by the total number of possible connections (3).
+The clustering coefficient of 3 is 0.5.
+The clustering coefficient of node 1 is 0.5. This is calculated by counting the number of connections between the neighbors of node 1 and dividing it by the maximum number of connections possible between them. In this case, node 1 has two neighbors (Xinping Yan and Kun Li) and there is one connection between them, so the clustering coefficient is 1/2 = 0.5.
+0.5
+0.0
+0.5
+The clustering coefficient of Bo Yang is 0.
+
+44it [40:33, 54.92s/it][A
+45it [41:17, 51.80s/it][A
+46it [42:16, 53.88s/it][A
+47it [43:05, 52.43s/it][A/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

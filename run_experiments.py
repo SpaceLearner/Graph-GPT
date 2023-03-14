@@ -179,7 +179,7 @@ if __name__ == "__main__":
     parser.add_argument("--task",          type=str, default="degree",    help="The task to conduct. ")
     args = parser.parse_args()
     
-    # wandb.init(project="GraphBench", config=args)
+    wandb.init(project="GraphBench", config=args)
     
     main(args)
     # print("zero_shot: ")
