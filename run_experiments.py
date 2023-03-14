@@ -152,7 +152,7 @@ def main(config, seed=0):
                         data["prompt"] = instructer + graph + example + question + tail
                 
                     response   = GPT(data)
-                    
+                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
                     print(answer)
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)

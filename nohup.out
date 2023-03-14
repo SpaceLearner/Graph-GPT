@@ -3168,3 +3168,139 @@ wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort
 wandb: 🚀 View run sandy-sweep-10 at: https://wandb.ai/gjyspliter/GraphBench/runs/byo6rggm
 wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
 wandb: Find logs at: ./wandb/run-20230314_164850-byo6rggm/logs
+2023-03-14 16:49:03,363 - wandb.wandb_agent - INFO - Cleaning up finished run: byo6rggm
+2023-03-14 16:49:03,970 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:49:03,970 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: GraphML
+	method: one_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:49:03,972 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GraphML --method=one_shot --self_augument=0 --task=clustering
+wandb: 🚀 View run absurd-sweep-1 at: https://wandb.ai/gjyspliter/GraphBench/runs/o0aw3ehq
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164853-o0aw3ehq/logs
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 16:49:08,939 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:49:08,939 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: one_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:49:08,940 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=one_shot --self_augument=0 --task=clustering
+2023-03-14 16:49:08,980 - wandb.wandb_agent - INFO - Running runs: ['3pd6jiul']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164907-3pd6jiul
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run still-sweep-11
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/lqba5frx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/3pd6jiul
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][Awandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 16:49:13,944 - wandb.wandb_agent - INFO - Running runs: ['b8ihg6m3']
+0it [00:02, ?it/s]
+  0%|          | 0/1 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 156, in main
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164912-b8ihg6m3
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run rural-sweep-2
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/ezz48qwx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/b8ihg6m3
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][Awandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)0it [00:00, ?it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 156, in main
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: \ 0.001 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.004 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: 🚀 View run still-sweep-11 at: https://wandb.ai/gjyspliter/GraphBench/runs/3pd6jiul
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164907-3pd6jiul/logs
+wandb: \ 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run rural-sweep-2 at: https://wandb.ai/gjyspliter/GraphBench/runs/b8ihg6m3
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164912-b8ihg6m3/logs
+2023-03-14 16:49:24,769 - wandb.wandb_agent - INFO - Cleaning up finished run: b8ihg6m3
+2023-03-14 16:49:25,257 - wandb.wandb_agent - INFO - Cleaning up finished run: 3pd6jiul
+2023-03-14 16:49:25,381 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:49:25,382 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot_cot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:49:25,385 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot_cot --self_augument=0 --task=clustering
+2023-03-14 16:49:25,856 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:49:25,856 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 1
+	format: EdgeList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:49:25,861 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=1 --format=EdgeList --method=zero_shot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 16:49:30,396 - wandb.wandb_agent - INFO - Running runs: ['0gmtf01y']
+2023-03-14 16:49:30,871 - wandb.wandb_agent - INFO - Running runs: ['g2chhk8o']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164929-0gmtf01y
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run zany-sweep-3
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/ezz48qwx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/0gmtf01y
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][Awandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164930-g2chhk8o
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run olive-sweep-13
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/lqba5frx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/g2chhk8o
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A0it [00:00, ?it/s]
+  0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 156, in main
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+0it [00:01, ?it/s]
+  0%|          | 0/1 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 156, in main
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: - 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: \ 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: \ 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run zany-sweep-3 at: https://wandb.ai/gjyspliter/GraphBench/runs/0gmtf01y
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164929-0gmtf01y/logs
+wandb: 🚀 View run olive-sweep-13 at: https://wandb.ai/gjyspliter/GraphBench/runs/g2chhk8o
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164930-g2chhk8o/logs
+2023-03-14 16:49:41,222 - wandb.wandb_agent - ERROR - Detected 3 failed runs in the first 60 seconds, shutting down.
+2023-03-14 16:49:41,222 - wandb.wandb_agent - INFO - To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+wandb: Terminating and syncing runs. Press ctrl-c to kill.
+2023-03-14 16:49:41,693 - wandb.wandb_agent - ERROR - Detected 5 failed runs in a row, shutting down.
+2023-03-14 16:49:41,694 - wandb.wandb_agent - INFO - To change this value set WANDB_AGENT_MAX_INITIAL_FAILURES=val
+wandb: Terminating and syncing runs. Press ctrl-c to kill.
