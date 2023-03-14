@@ -1,0 +1,56 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.15",
+    "heartbeatAt": "2023-03-09T15:25:12.049956",
+    "startedAt": "2023-03-09T15:25:10.745780",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--change_order=1",
+        "--format=AdjList",
+        "--method=zero_shot",
+        "--self_augument=0",
+        "--task=degree"
+    ],
+    "state": "running",
+    "program": "D:\\Projects\\Graph-GPT\\run_experiments.py",
+    "codePath": "run_experiments.py",
+    "git": {
+        "remote": "git@github.com:SpaceLearner/Graph-GPT.git",
+        "commit": "72e23d2061a226705666a7a0984a383dfae91017"
+    },
+    "email": "guojy001@gmail.com",
+    "root": "D:/Projects/Graph-GPT",
+    "host": "DESKTOP-39M6C7L",
+    "username": "gjy",
+    "executable": "C:\\Users\\gjy\\anaconda3\\envs\\recbole\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3000.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 693.5878868103027,
+        "used": 208.33245468139648
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 63.77271270751953
+    }
+}

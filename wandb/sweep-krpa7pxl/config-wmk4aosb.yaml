@@ -1,0 +1,12 @@
+wandb_version: 1
+
+change_order:
+  value: 1
+format:
+  value: AdjList
+method:
+  value: zero_shot
+self_augument:
+  value: 0
+task:
+  value: degree
