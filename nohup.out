@@ -3011,3 +3011,72 @@ The clustering coefficient of 3 is 0.33.
   warnings.warn('resource_tracker: There appear to be %d '
 /opt/anaconda3/envs/chatgpt/lib/python3.10/multiprocessing/resource_tracker.py:224: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
   warnings.warn('resource_tracker: There appear to be %d '
+wandb: Starting wandb agent 🕵️
+2023-03-14 16:43:13,460 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 16:43:14,095 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:43:14,096 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: EdgeList
+	method: zero_shot_cot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:43:14,099 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=zero_shot_cot --self_augument=0 --task=clustering
+2023-03-14 16:43:19,112 - wandb.wandb_agent - INFO - Running runs: ['trqs1ka2']
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164319-trqs1ka2
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run devout-sweep-3
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/lqba5frx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/trqs1ka2
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A0it [02:34, ?it/s]
+  0%|          | 0/1 [02:34<?, ?it/s]
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/tenacity/__init__.py", line 382, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 48, in GPT
+    answer  = json.loads(response.text)["choices"][0]["text"].strip()
+KeyError: 'choices'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 181, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 154, in main
+    answer   = GPT(data)
+  File "/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/tenacity/__init__.py", line 289, in wrapped_f
+    return self(f, *args, **kw)
+  File "/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/tenacity/__init__.py", line 379, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/tenacity/__init__.py", line 326, in iter
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x136c80ca0 state=finished raised KeyError>]
+2023-03-14 16:46:07,527 - wandb.wandb_agent - INFO - Cleaning up finished run: trqs1ka2
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: - 0.001 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: \ 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: | 0.011 MB of 0.011 MB uploaded (0.000 MB deduped)wandb: 🚀 View run devout-sweep-3 at: https://wandb.ai/gjyspliter/GraphBench/runs/trqs1ka2
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_164319-trqs1ka2/logs
+2023-03-14 16:46:14,557 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 16:46:14,558 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: GML
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 16:46:14,559 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GML --method=zero_shot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 16:46:19,564 - wandb.wandb_agent - INFO - Running runs: ['duewvd90']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_164618-duewvd90
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run copper-sweep-7
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/lqba5frx
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/duewvd90
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A
