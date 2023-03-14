@@ -168,3 +168,91 @@ IndexError: list index out of range
 
 1it [00:47, 47.89s/it][A
 2it [01:22, 39.89s/it][A
+3it [01:57, 37.58s/it][A3it [02:00, 40.06s/it]
+  0%|          | 0/1 [02:00<?, ?it/s]
+0
+The clustering coefficient of D. Wei is 0.4. This is calculated by counting the number of edges between D. Wei's neighbors (6) and dividing it by the total number of possible edges between them (15).
+The clustering coefficient of C. S. Burrus is 0.5. This is calculated by counting the number of edges between the neighbors of C. S. Burrus (in this case, 3 edges) divided by the maximum number of edges that could exist between them (in this case, 6 edges).
+The clustering coefficient of M. Lang is 0.5. This is calculated by counting the number of edges between the neighbors of M. Lang (C. S. Burrus, H. Guo, and D. Wei) and dividing by the maximum number of edges that could exist between them (3).
+0.5
+0.5
+The clustering coefficient of E. B. Fernandez is 0.4. This is calculated by counting the number of edges between the neighbors of E. B. Fernandez (in this case, Robert B. France, D. Wei, and C. S. Burrus) and dividing it by the maximum number of edges that could exist between them (in this case, 3).
+0.14285714285714285
+The clustering coefficient of Behzad Bordbar is 0.167. This is calculated by counting the number of edges between Behzad Bordbar's neighbors (Robert B. France, James M. Bieman, Cris Kobryn, Jennifer Horkoff, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing by the maximum number of edges that could exist between them. In this case, there are two edges (Robert B. France and James M. Bieman, and Robert B. France and Cris Kobryn) out of a maximum of 12, so the clustering coefficient is 0.167.
+The clustering coefficient of Cris Kobryn is 0.167. This is calculated by counting the number of edges between the neighbors of Cris Kobryn (Robert B. France, James M. Bieman, Behzad Bordbar, Jennifer Horkoff, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the total number of possible edges between them (15).
+The clustering coefficient of Jennifer Horkoff is 0.0. This is because she is only connected to one node (Robert B. France), and none of the other nodes connected to Robert B. France are connected to each other.
+The clustering coefficient of Prabhakar M. Koushik is 0.2. This is calculated by counting the number of connections between the nodes connected to Prabhakar M. Koushik (Robert B. France, Jennifer Horkoff, Cris Kobryn, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and dividing that number by the total number of possible connections between those nodes (45).
+0.5
+0.25
+The clustering coefficient of Stuart Kent is 0.5. This is calculated by counting the number of edges between the nodes connected to Stuart Kent (in this case, Robert B. France) and dividing it by the maximum number of edges that could exist between those nodes. In this case, there are two edges between Robert B. France and the other nodes connected to him, so the clustering coefficient of Stuart Kent is 2/4 = 0.5.
+0.33
+The clustering coefficient of Y. Raghu Reddy is 0.5. This is calculated by counting the number of connections between Y. Raghu Reddy's neighbors (Robert B. France, Philippe Collet, Stuart Kent, Frank Hernandez, C. Atkinson, Sean Thorpe, and D. Wei) and dividing it by the total number of possible connections between them (21).
+0.125
+The clustering coefficient of Sean Thorpe is 0.0. This is because Sean Thorpe is only connected to one node (Robert B. France) and there are no other nodes connected to Robert B. France that are also connected to Sean Thorpe. Therefore, the clustering coefficient of Sean Thorpe is 0.0.
+0
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0', '0.19', '1.0', '1.0', '1.0', '0.01', '1.0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Dajun Du is 0.5.
+0.33
+0.5
+0.4
+0.5
+0.4
+0.5
+0.375
+0.4
+0.25
+0.4
+0.25
+The clustering coefficient of Jian Wu is 0.5.
+Lei He is connected to four other nodes (Wei Wu, Jian Wu, Wenhu Wu, and Thomas Fang Zheng). The number of possible connections between these four nodes is 6. Since there is only one connection between these four nodes (Wei Wu and Jian Wu), the clustering coefficient of Lei He is 1/6 or 0.1667.
+0.2
+0.25
+0.5
+0.5
+0.5
+0.5
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '6', '0', '0', '0', '0', '0', '0'] ['1.0', '1.0', '0.14', '1.0', '0.7', '1.0', '0.6', '0.67', '1.0', '1.0', '0.19', '1.0', '1.0', '1.0', '0', '0', '1.0', '1.0', '1.0', '0']
+The clustering coefficient of Yuyong Cui is 0.25. This is calculated by counting the number of edges between Yuyong Cui's neighbors (4) and dividing it by the maximum number of edges that could exist between them (6).
+0.5
+0.4
+0.25
+0.4
+The clustering coefficient of Lin Li is 0.769.
+0.25
+0.0
+0.0
+0.2
+0.0
+0.33
+0.25
+0.33
+The clustering coefficient of Jianzhong Zhou is 0.5.
+0.5
+The clustering coefficient of Bo Li is 0.4. This is calculated by counting the number of connections between Bo Li's neighbors (Cheng Wang, Mu Zhou, Zhiyuan Zeng) and dividing it by the maximum possible number of connections (3).
+0.167
+0.0
+0.25
+['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0'] ['0.83', '0.21', '0.6', '1.0', '0.6', '0.17', '0', '0', '0', '0', '0', '1.0', '1.0', '1.0', '0.6', '0.67', '0.83', '1.0', '0', '0.67']
+The clustering coefficient of J. Widmer cannot be calculated from the given information. The clustering coefficient is a measure of the degree to which nodes in a graph tend to cluster together. To calculate the clustering coefficient of a node, we need to know the number of connections between the node's neighbors. Since this information is not provided, we cannot calculate the clustering coefficient of J. Widmer.
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 184, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 159, in main
+    pred       = answer_cleasing(config, answer)
+  File "/Users/goojy/Documents/Project/Graph-GPT/utils.py", line 30, in answer_cleasing
+    pred = re.findall("\d+", answer)[0]
+IndexError: list index out of range
+2023-03-14 14:48:17,159 - wandb.wandb_agent - INFO - Cleaning up finished run: 5qdjpn1g
+2023-03-14 14:48:17,904 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 14:48:17,904 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: AdjList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 14:48:17,905 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=AdjList --method=zero_shot --self_augument=0 --task=clustering
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A2023-03-14 14:48:22,913 - wandb.wandb_agent - INFO - Running runs: ['apptwq12']
+
+1it [00:36, 36.42s/it][A
+2it [01:31, 47.14s/it][A
