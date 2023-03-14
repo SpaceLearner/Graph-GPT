@@ -11,4 +11,4 @@ parameters:
   self_augument:
     values: [0]
   task:
-    values: ["degree"]
+    values: ["clustering"]

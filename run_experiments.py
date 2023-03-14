@@ -58,7 +58,7 @@ def main(config, seed=0):
 
     # graphs = pickle.load(open(graph_file, "rb"))
         
-    instructer = "You are a brilliant network analyzer and knows every thing about academic collaboration network. You know every thing from the degree and the structure of the network. The following is an example subgraph with " + config.format + " \n"
+    instructer = "You are a brilliant network analyzer and knows every thing about academic collaboration network. You know every thing from the degree and the structure of the network. The following is an undirected graph with the format of " + config.format + " \n"
     
     if config.format == "GML":
         prefix  = "./input/GML"
@@ -84,8 +84,9 @@ def main(config, seed=0):
             example = "For example, a node has degree of x if there are x edges (or other nodes) connecting to it. \n"
         elif config.task == "size":
             example = "For example, the number of nodes is 16 and the number of edges is 32 if a graph have 16 nodes and 32 edges. \n"
-    elif config.method == "zero_shot_cot":
-        example = ""
+        elif config.task == "clustering":
+            example = "For example, the clustering coefficient of a node is 0.33 if the node has 3 neighbors and only 2 of the 3 neighbors are connected."
+    if config.method[:-3] == "cot":
         tail = "Please answer it step by step with all answers. \n"
 
     # print(example)
@@ -137,7 +138,31 @@ def main(config, seed=0):
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
-    
+                
+            elif config.task == "clustering":
+                
+                predictions = []
+                # print(graph_nx)
+                for node in graph_nx:
+                    question = question_head + str(node) + " is? \n"
+                    # print(question)
+                    if config.change_order:
+                        data["prompt"] = instructer + example + question + tail + graph 
+                    else:
+                        data["prompt"] = instructer + graph + example + question + tail
+                
+                    response   = GPT(data)
+                    # print(response)
+                    # print(json.loads(response.text))
+                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
+                    print(answer)
+                    pred       = answer_cleasing(config, answer)
+                    predictions.append(pred)
+                print(predictions, true_answer)
+                acc = evaluate(predictions, true_answer)
+                accs.append(acc)
+                # wandb.log({"epoch_acc": acc})
+                    
     accs = np.array(accs)
     print(np.mean(accs), np.std(accs))
     wandb.log({"acc": np.mean(accs), "std": np.std(accs)})
@@ -146,15 +171,15 @@ def main(config, seed=0):
 if __name__ == "__main__":
     
     parser = argparse.ArgumentParser()
-    parser.add_argument("--format",  type=str, default="GraphML",   help="Input format to use. ")
-    parser.add_argument("--dataset", type=str, default="Aminer",    help="The dataset to use. ")
-    parser.add_argument("--method",  type=str, default="zero_shot", help="The method to use. ")
-    parser.add_argument("--change_order", type=int, default=0,  help="whether use change order. ")
-    parser.add_argument("--self_augument", type=int, default=0,  help="whether use self-aug. ")
-    parser.add_argument("--task",    type=str, default="degree",    help="The task to conduct. ")
+    parser.add_argument("--format",        type=str, default="GraphML",   help="Input format to use. ")
+    parser.add_argument("--dataset",       type=str, default="Aminer",    help="The dataset to use. ")
+    parser.add_argument("--method",        type=str, default="zero_shot", help="The method to use. ")
+    parser.add_argument("--change_order",  type=int, default=0,           help="whether use change order. ")
+    parser.add_argument("--self_augument", type=int, default=0,           help="whether use self-aug. ")
+    parser.add_argument("--task",          type=str, default="degree",    help="The task to conduct. ")
     args = parser.parse_args()
     
-    wandb.init(project="GraphBench", config=args)
+    # wandb.init(project="GraphBench", config=args)
     
     main(args)
     # print("zero_shot: ")
