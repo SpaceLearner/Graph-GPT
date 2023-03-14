@@ -45,7 +45,9 @@ def GPT(data):
     headers = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
     response   = requests.post(url=url, headers=headers, data=json.dumps(data))
     
-    return response
+    answer  = json.loads(response.text)["choices"][0]["text"].strip()
+    
+    return answer
 
 def main(config, seed=0):
     
@@ -110,8 +112,7 @@ def main(config, seed=0):
                     data["prompt"] = instructer + graph + example + question + tail
                 print(example + question + tail)
                 
-                response   = GPT(data)
-                answer     = json.loads(response.text)["choices"][0]["text"].strip()
+                answer   = GPT(data)
                 pred       = answer_cleasing(config, answer)
                 # predictions.append(pred)
                 # print(pred)
@@ -128,10 +129,9 @@ def main(config, seed=0):
                     else:
                         data["prompt"] = instructer + graph + example + question + tail
                 
-                    response   = GPT(data)
+                    answer   = GPT(data)
                     # print(response)
                     # print(json.loads(response.text))
-                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
                 print(predictions, true_answer)
@@ -151,12 +151,8 @@ def main(config, seed=0):
                     else:
                         data["prompt"] = instructer + graph + example + question + tail
                 
-                    response   = GPT(data)
-                    # print(response)
-                    # print(json.loads(response.text))
-                    # print(data["prompt"])
-                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
-                    print(answer)
+                    answer   = GPT(data)
+                    
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
                 print(predictions, true_answer)

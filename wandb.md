@@ -1,1 +1,1 @@
-wandb agent gjyspliter/GraphBench/17zxi796
+wandb agent gjyspliter/GraphBench/lqba5frx
