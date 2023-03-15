@@ -1,100 +1,394 @@
 wandb: Starting wandb agent 🕵️
-2023-03-14 17:02:41,154 - wandb.wandb_agent - INFO - Running runs: []
-2023-03-14 17:02:41,737 - wandb.wandb_agent - INFO - Agent received command: run
-2023-03-14 17:02:41,737 - wandb.wandb_agent - INFO - Agent starting run with config:
+2023-03-14 17:11:15,173 - wandb.wandb_agent - INFO - Running runs: []
+2023-03-14 17:11:15,709 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 17:11:15,709 - wandb.wandb_agent - INFO - Agent starting run with config:
 	change_order: 0
-	format: GraphML
-	method: zero_shot
+	format: EdgeList
+	method: one_shot
 	self_augument: 0
 	task: clustering
-2023-03-14 17:02:41,740 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GraphML --method=zero_shot --self_augument=0 --task=clustering
+2023-03-14 17:11:15,713 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=EdgeList --method=one_shot --self_augument=0 --task=clustering
+2023-03-14 17:11:20,725 - wandb.wandb_agent - INFO - Running runs: ['olz41zjc']
 wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
 wandb: WARNING Ignored wandb.init() arg project when running a sweep.
-wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...2023-03-14 17:02:46,752 - wandb.wandb_agent - INFO - Running runs: ['tar48p2n']
 wandb: Tracking run with wandb version 0.13.11
-wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_170244-tar48p2n
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_171120-olz41zjc
 wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run sparkling-sweep-10
+wandb: Syncing run radiant-sweep-2
 wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
-wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/wbmqcds1
-wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/tar48p2n
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/mbsq9twp
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/olz41zjc
   0%|          | 0/1 [00:00<?, ?it/s]
-0it [00:00, ?it/s][A0it [00:01, ?it/s]
-  0%|          | 0/1 [00:01<?, ?it/s]
+0it [00:00, ?it/s][A
+1it [02:22, 142.11s/it][A
+2it [04:45, 142.84s/it][AThe clustering coefficient of C. C. Goodyear is 0, since there are no edges connecting any of his neighbors.
+The clustering coefficient of D. Wei is 0.5. This is calculated by counting the number of edges between D. Wei's neighbors (4 edges) and dividing it by the maximum number of edges possible between D. Wei's neighbors (8 edges).
+The clustering coefficient of C. S. Burrus is 0.67.
+The clustering coefficient of M. Lang is 0.5. This is because M. Lang has 3 neighbors (C. S. Burrus, H. Guo, and D. Wei) and all 3 of them are connected.
+The clustering coefficient of H. Guo is 0.5. This is because H. Guo has 3 neighbors (C. S. Burrus, M. Lang, and D. Wei) and all 3 of them are connected.
+The clustering coefficient of Robert B. France is 0.6.
+The clustering coefficient of E. B. Fernandez is 0.5. This is because E. B. Fernandez has 8 neighbors (C. C. Goodyear, C. S. Burrus, Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, and D. Wei) and 4 of them are connected (Robert B. France, D. Wei, C. S. Burrus, and C. C. Goodyear). Therefore, the clustering coefficient of E. B. Fernandez is 4/8 = 0.5.
+The clustering coefficient of James M. Bieman is 0.33.
+The clustering coefficient of Behzad Bordbar is 0.33.
+The clustering coefficient of Cris Kobryn is 0.5. This is because Cris Kobryn has 8 neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Jennifer Horkoff, Prabhakar M. Koushik, Steffen Zschaler, Philippe Collet, and Stuart Kent) and 4 of them are connected (Robert B. France, James M. Bieman, Behzad Bordbar, and Prabhakar M. Koushik). Therefore, the clustering coefficient of Cris Kobryn is 4/8 = 0.5.
+The clustering coefficient of Jennifer Horkoff is 0.0 since she has no neighbors.
+The clustering coefficient of Prabhakar M. Koushik is 0.5. This is because Prabhakar M. Koushik has 8 neighbors (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, Philippe Collet, Stuart Kent, and Frank Hernandez) and 6 of them are connected (Robert B. France, James M. Bieman, Behzad Bordbar, Cris Kobryn, Jennifer Horkoff, and Philippe Collet). Therefore, the clustering coefficient of Prabhakar M. Koushik is 6/8 = 0.5.
+The clustering coefficient of Steffen Zschaler is 0.5. This is because Steffen Zschaler has 8 neighbors (Robert B. France, Philippe Collet, Stuart Kent, Frank Hernandez, Y. Raghu Reddy, C. Atkinson, Sean Thorpe, and D. Wei) and 4 of them (Robert B. France, Philippe Collet, Stuart Kent, and D. Wei) are connected. Therefore, the clustering coefficient of Steffen Zschaler is 4/8 = 0.5.
+The clustering coefficient of Philippe Collet is 0.33.
+The clustering coefficient of Stuart Kent is 0.33.
+The clustering coefficient of Frank Hernandez is 0.5. This is because Frank Hernandez has 12 neighbors and 6 of them are connected. Therefore, the clustering coefficient of Frank Hernandez is 6/12 = 0.5.
+The clustering coefficient of Y. Raghu Reddy is 0.5. This is because Y. Raghu Reddy has 12 neighbors and 6 of them are connected. Therefore, the clustering coefficient of Y. Raghu Reddy is 6/12 = 0.5.
+The clustering coefficient of C. Atkinson is 0.33.
+The clustering coefficient of Sean Thorpe is 0.33.
+The clustering coefficient of S. Guo is 0 since S. Guo has 3 neighbors (M. Lang, D. Wei, and H. Guo) but none of them are connected.
+['0', '0.5', '0.67', '0.5', '0.5', '0.6', '0.5', '0.33', '0.33', '0.5', '0.0', '0.5', '0.5', '0.33', '0.33', '0.5', '0.5', '0.33', '0.33', '0'] ['0', '0.19', '1.0', '1.0', '1.0', '0.01', '1.0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Dajun Du is 0.67. This is because Dajun Du has 3 neighbors (Kang Li, Jing Deng, and G. W. Irwin) and all 3 of them are connected.
+The clustering coefficient of Kang Li is 0.5. This is because Kang Li has 3 neighbors (Dajun Du, G. W. Irwin, and Jing Deng) and all 3 of them are connected.
+The clustering coefficient of Jing Deng is 0.75.
+The clustering coefficient of G. W. Irwin is 0.5. G. W. Irwin has 4 neighbors (Dajun Du, Kang Li, Jing Deng, Wei Wu) and 3 of them are connected (Dajun Du, Kang Li, Jing Deng). Therefore, the clustering coefficient of G. W. Irwin is 3/4 = 0.5.
+The clustering coefficient of Wei Wu is 0.5. This is because Wei Wu has 7 neighbors and 6 of the 7 neighbors are connected. Therefore, the clustering coefficient of Wei Wu is 6/7 = 0.5.
+0.5
+0.5
+The clustering coefficient of Jian Liu is 0.5. This is because Jian Liu has 4 neighbors (Wei Wu, Wenhu Wu, Thomas Fang Zheng, and Jian Liu himself) and 3 of these neighbors are connected (Wei Wu, Wenhu Wu, and Thomas Fang Zheng). Thus, the clustering coefficient of Jian Liu is 3/4 = 0.5.
+The clustering coefficient of Lihong Zhang is 0.67.
+The clustering coefficient of Qixiu Hu is 0.5. This is because Qixiu Hu has two neighbors (Wenhu Wu and Yue Pan) and both of them are connected. Therefore, the clustering coefficient of Qixiu Hu is 2/4 = 0.5.
+The clustering coefficient of Wenhu Wu is 0.5. This is because Wenhu Wu has 8 neighbors and 6 of those neighbors are connected. 6/8 = 0.5.
+The clustering coefficient of Yue Pan is 0.33.
+The clustering coefficient of Jian Wu is 0.5.
+Lei He has three neighbors: Jian Wu, Wenhu Wu, and Jing Deng. Two of these neighbors are connected (Jian Wu and Wenhu Wu). Therefore, the clustering coefficient of Lei He is 0.33.
+The clustering coefficient of Lixin Fu is 0.33.
+The clustering coefficient of Honggang Li is 0.33.
+The clustering coefficient of Jingwei Miao is 0.5.
+The clustering coefficient of Kangbin Yim is 0.50. This is because Kangbin Yim has 3 neighbors (Jing Deng, Chi Lin, and Jingwei Miao) and all 3 of them are connected.
+The clustering coefficient of Chi Lin is 0.5. This is because Chi Lin has 4 neighbors (Jing Deng, Kangbin Yim, Dajun Du, and Wei Wu) and 3 of them are connected (Jing Deng, Kangbin Yim, and Wei Wu). Thus, the clustering coefficient of Chi Lin is 3/4 = 0.5.
+The clustering coefficient of Yunghsiang S. Han is 0.33.
+['0.67', '0.5', '0.75', '0.5', '0.5', '0.5', '0.5', '0.5', '0.67', '0.5', '0.5', '0.33', '0.5', '0.33', '0.33', '0.33', '0.5', '0.50', '0.5', '0.33'] ['1.0', '1.0', '0.14', '1.0', '0.7', '1.0', '0.6', '0.67', '1.0', '1.0', '0.19', '1.0', '1.0', '1.0', '0', '0', '1.0', '1.0', '1.0', '0']
+The clustering coefficient of Yuyong Cui is 0.75. This is because Yuyong Cui has 4 neighbors (Zhiyuan Zeng, Xiaojun Tan, Liu Liu, and Mu Zhou) and all 4 of them are connected. Therefore, the clustering coefficient of Yuyong Cui is 4/6 = 0.75.
+The clustering coefficient of Zhiyuan Zeng is 0.6.
+The clustering coefficient of Xiaojun Tan is 0.5. This is because Xiaojun Tan has 4 neighbors (Yuyong Cui, Zhiyuan Zeng, Liu Liu, and Mu Zhou) and 3 of them are connected (Yuyong Cui, Zhiyuan Zeng, and Mu Zhou). Therefore, the clustering coefficient of Xiaojun Tan is 3/4 = 0.5.
+The clustering coefficient of Liu Liu is 0.33.
+The clustering coefficient of Mu Zhou is 0.5. This is because Mu Zhou has 4 neighbors (Yuyong Cui, Jianzhong Zhou, Bo Li, and Zhiyuan Zeng) and 3 of them are connected (Yuyong Cui, Jianzhong Zhou, and Zhiyuan Zeng). Thus, the clustering coefficient of Mu Zhou is 3/4 = 0.5.
+The clustering coefficient of Lin Li is 0.857.
+The clustering coefficient of Xia Hu is 0.33.
+The clustering coefficient of Jiang Tao is 0.0, since none of his neighbors are connected.
+The clustering coefficient of Stephen D. Scott is 0.33.
+The clustering coefficient of Jinzhong Chen is 0.0, since he has no neighbors in the given graph.
+The clustering coefficient of Man Lan is 0.00, since Man Lan has 8 neighbors but none of them are connected.
+The clustering coefficient of Dongsheng Yu is 0.5. This is because Dongsheng Yu has 3 neighbors (Wei Zheng, Zhenlong Zhang, and Yuyong Cui) and 2 of the 3 neighbors (Wei Zheng and Zhenlong Zhang) are connected. Therefore, the clustering coefficient of Dongsheng Yu is 2/3 = 0.5.
+The clustering coefficient of Zhenlong Zhang is 0.5. This is because Zhenlong Zhang has three neighbors (Wei Zheng, Dongsheng Yu, and Zhiyuan Zeng), and all three of them are connected. Therefore, the clustering coefficient of Zhenlong Zhang is 3/6 = 0.5.
+
+3it [07:10, 144.00s/it][A
+4it [10:08, 157.21s/it][AThe clustering coefficient of Wei Zheng is 0.5. This is because Wei Zheng has 3 neighbors (Zhiyuan Zeng, Dongsheng Yu, and Zhenlong Zhang) and all 3 of them are connected.
+The clustering coefficient of Jianzhong Zhou is 0.67.
+The clustering coefficient of Cheng Wang is 0.5.
+The clustering coefficient of Bo Li is 0.5. This is because Bo Li has 3 neighbors (Mu Zhou, Cheng Wang, and Zhiyuan Zeng) and all 3 of them are connected.
+The clustering coefficient of Han Zhou is 0.33.
+The clustering coefficient of Wenli Yang is 0.0, since Wenli Yang only has one neighbor (Zhiyuan Zeng) and none of the neighbors are connected.
+The clustering coefficient of Weihua Lin is 0.5. This is because Weihua Lin has 4 neighbors (Yuyong Cui, Xiaojun Tan, Zhiyuan Zeng, and Cheng Wang) and 3 of them are connected (Yuyong Cui, Xiaojun Tan, and Cheng Wang). Therefore, the clustering coefficient of Weihua Lin is 3/4 = 0.5.
+['0.75', '0.6', '0.5', '0.33', '0.5', '0.857', '0.33', '0.0', '0.33', '0.0', '0.00', '0.5', '0.5', '0.5', '0.67', '0.5', '0.5', '0.33', '0.0', '0.5'] ['0.83', '0.21', '0.6', '1.0', '0.6', '0.17', '0', '0', '0', '0', '0', '1.0', '1.0', '1.0', '0.6', '0.67', '0.83', '1.0', '0', '0.67']
+The clustering coefficient of J. Widmer is 0 since there are no other nodes connected to J. Widmer.
+The clustering coefficient of Martin Mauve is 0.75.
+The clustering coefficient of Holger Füβler is 0.67. This is because Holger Füβler has 4 neighbors (J. Widmer, Marcel Busse, Martin Mauve, Thomas Lang) and 3 of them are connected (Marcel Busse, Martin Mauve, Thomas Lang). Therefore, the clustering coefficient of Holger Füβler is 3/4 = 0.67.
+The clustering coefficient of Björn Scheuermann is 0.67. This is because Björn Scheuermann has 4 neighbors (Holger Füßler, Marcel Busse, Magnus Roos, and Martin Mauve) and 3 of them are connected (Holger Füßler, Marcel Busse, and Magnus Roos). Therefore, the clustering coefficient of Björn Scheuermann is 3/4 = 0.67.
+The clustering coefficient of Marcel Busse is 0.5. There are 4 neighbors of Marcel Busse (Holger Füßler, Martin Mauve, Bernd Lamparter, and Björn Scheuermann) and 3 of them are connected (Holger Füßler, Martin Mauve, and Björn Scheuermann). Therefore, the clustering coefficient of Marcel Busse is 3/4 = 0.5.
+The clustering coefficient of Thomas Lang is 0.5. This is because Thomas Lang has 3 neighbors (J. Widmer, Holger Füßler, and Martin Mauve) and all 3 of them are connected. Therefore, the clustering coefficient is 3/6 = 0.5.
+The clustering coefficient of Holger Füßler is 0.5. This is because Holger Füßler has 4 neighbors (J. Widmer, Marcel Busse, Martin Mauve, and Thomas Lang) and 3 of them are connected (Marcel Busse, Martin Mauve, and Thomas Lang). Therefore, the clustering coefficient of Holger Füßler is 3/4 = 0.5.
+The clustering coefficient of Erzen Hyko is 0.33.
+The clustering coefficient of Jürgen Vogel is 0.5. This is because Jürgen Vogel has 4 neighbors (Holger Füßler, Marcel Busse, Martin Mauve, and Dirk Farin) and 3 of the 4 neighbors are connected (Holger Füßler, Martin Mauve, and Dirk Farin). Thus, the clustering coefficient of Jürgen Vogel is 3/4 = 0.5.
+The clustering coefficient of Volker Hilt is 0.5. This is because Volker Hilt has 3 neighbors (Martin Mauve, Jürgen Vogel, and Frank Fitzek) and all 3 of them are connected. Therefore, the clustering coefficient of Volker Hilt is 3/6 = 0.5.
+The clustering coefficient of Dirk Farin is 0.5. This is because he has 4 neighbors (Holger Füßler, Jürgen Vogel, Martin Mauve, and Marcel Busse) and 3 of them are connected (Holger Füßler, Jürgen Vogel, and Martin Mauve). Thus, the clustering coefficient of Dirk Farin is 3/4 = 0.5.
+The clustering coefficient of Dieter Vollmer is 0.5. This is because Dieter Vollmer has 3 neighbors (Holger Füßler, Martin Mauve, and Dieter Vollmer himself) and all 3 of them are connected. Therefore, the clustering coefficient of Dieter Vollmer is 3/6 = 0.5.
+The clustering coefficient of Daniel Jiang is 0.5. There are three neighbors of Daniel Jiang (Martin Mauve, Rajeev Shorey, and Marcel Busse) and two of them (Martin Mauve and Rajeev Shorey) are connected. Therefore, the clustering coefficient of Daniel Jiang is 2/3 = 0.5.
+The clustering coefficient of Rajeev Shorey is 0.5. This is because Rajeev Shorey has 4 neighbors (J. Widmer, Holger Füβler, Daniel Jiang, and Martin Mauve) and 3 of them are connected (Holger Füβler, Daniel Jiang, and Martin Mauve). Thus, the clustering coefficient is 3/4 = 0.5.
+The clustering coefficient of Bernd Lamparter is 0.5. This is because Bernd Lamparter has two neighbors (Martin Mauve and Marcel Busse) and both of them are connected to each other. Therefore, the clustering coefficient of Bernd Lamparter is 2/3 = 0.5.
+The clustering coefficient of Varsha Sadekar is 0.33.
+The clustering coefficient of Magnus Roos is 0.5. This is because Magnus Roos has two neighbors (Martin Mauve and Björn Scheuermann) and both of them are connected.
+The clustering coefficient of Stefan Fischer is 0.33.
+The clustering coefficient of Andreas Barthels is 0.33.
+The clustering coefficient of Frank Fitzek is 0.5. This is because Frank Fitzek has 4 neighbors (J. Widmer, Holger Füßler, Thomas Lang, and Erzen Hyko) and 3 of those neighbors (Holger Füßler, Thomas Lang, and Erzen Hyko) are connected. Therefore, the clustering coefficient of Frank Fitzek is 3/4 = 0.5.
+['0', '0.75', '0.67', '0.67', '0.5', '0.5', '0.5', '0.33', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.33', '0.5', '0.33', '0.33', '0.5'] ['0', '0.06', '1.0', '0.67', '0.67', '1.0', '0.67', '0', '0.67', '1.0', '1.0', '1.0', '1.0', '1.0', '1.0', '0', '1.0', '0', '0', '0']
+The clustering coefficient of J. Appelman is 0.6. This is calculated by counting the number of edges between the neighbors of J. Appelman (4 edges) and dividing it by the maximum number of edges that could exist between the neighbors of J. Appelman (6 edges).
+The clustering coefficient of Mariëlle den Hengst is 0.75.
+The clustering coefficient of Vlatka Hlupic is 0.5. This is because Vlatka Hlupic has 4 neighbors (J. Appelman, Alan Serrano, Wendy Currie, and Mariëlle den Hengst) and 3 of those neighbors are connected (J. Appelman, Alan Serrano, and Mariëlle den Hengst). Therefore, the clustering coefficient of Vlatka Hlupic is 3/4 = 0.5.
+The clustering coefficient of Alan Serrano is 0.5. This is because Alan Serrano has 3 neighbors (J. Appelman, Vlatka Hlupic, and Mariëlle den Hengst) and all 3 of them are connected.
+The clustering coefficient of Gert-Jan de Vreede is 0.67. This is because Gert-Jan de Vreede has 6 neighbors (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, H. Sol, Vlatka Hlupic, and Alan Serrano) and 4 of them are connected (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, and Alan Serrano). Therefore, the clustering coefficient of Gert-Jan de Vreede is 4/6 = 0.67.
+The clustering coefficient of Gwendolyn Kolfschoten is 0.5. This is calculated by counting the number of edges between her neighbors (4) divided by the total number of possible edges between her neighbors (6).
+The clustering coefficient of Jay F Nunamaker is 0.6.
+The clustering coefficient of Doug Dean is 0.5. This is because Doug Dean has 6 neighbors (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, J V Hansen, Gwendolyn Kolfschoten, and Mariëlle den Hengst) and 5 of the 6 neighbors are connected (J. Appelman, Jay F Nunamaker, Conan C. Albrecht, J V Hansen, and Gwendolyn Kolfschoten). Therefore, the clustering coefficient of Doug Dean is 5/6 = 0.5.
+The clustering coefficient of P. Lowry is 0.5. This is because P. Lowry has three neighbors (J. Appelman, Jay F Nunamaker, and Conan C. Albrecht) and two of them (Jay F Nunamaker and Conan C. Albrecht) are connected.
+Tom Rodgers has 3 neighbors (Jay F Nunamaker, Doug Dean, and Ann M. Hickey) and all 3 of them are connected, so the clustering coefficient of Tom Rodgers is 1.
+
+5it [12:53, 160.06s/it][A
+6it [15:41, 162.84s/it][AThe clustering coefficient of Ann M. Hickey is 0.5. This is because Ann M. Hickey has 5 neighbors (Doug Dean, Jay F Nunamaker, Gert-Jan de Vreede, Tom Rodgers, and P. Lowry) and 3 of them are connected (Doug Dean, Jay F Nunamaker, and Gert-Jan de Vreede). Therefore, the clustering coefficient of Ann M. Hickey is 3/5 = 0.5.
+The clustering coefficient of Michael McQuaid is 0.5. This is because Michael McQuaid has 4 neighbors (J. Appelman, Jay F Nunamaker, Jiang Zhu, and Mariëlle den Hengst) and 3 of them are connected (J. Appelman, Jay F Nunamaker, and Mariëlle den Hengst). Therefore, the clustering coefficient of Michael McQuaid is 3/4 = 0.5.
+The clustering coefficient of Mark Adkins is 0.5. This is because Mark Adkins has 4 neighbors (J. Appelman, Jay F Nunamaker, Michael McQuaid, and Mariëlle den Hengst) and 3 of them are connected (J. Appelman, Jay F Nunamaker, and Mariëlle den Hengst). Therefore, the clustering coefficient of Mark Adkins is 3/4 = 0.5.
+The clustering coefficient of Conan C. Albrecht is 0.5. This is because Conan C. Albrecht has 4 neighbors (Doug Dean, Gert-Jan de Vreede, J V Hansen, and Gwendolyn Kolfschoten) and 3 of them are connected (Doug Dean, Gert-Jan de Vreede, and Gwendolyn Kolfschoten). Therefore, the clustering coefficient of Conan C. Albrecht is 3/4 = 0.5.
+The clustering coefficient of J V Hansen is 0.5. This is because J V Hansen has 3 neighbors (Doug Dean, P. Lowry, and Gert-Jan de Vreede) and all 3 of them are connected.
+The clustering coefficient of Jiang Zhu is 0.5. This is because Jiang Zhu has two neighbors (Mariëlle den Hengst and Michael McQuaid) and both of them are connected.
+The clustering coefficient of Wendy Currie is 0.5. This is because she has two neighbors (Vlatka Hlupic and Mariëlle den Hengst) and both of them are connected to each other.
+The clustering coefficient of Lis Weimar is 0.0 since she has no neighbors.
+The clustering coefficient of Martijn Warnier is 0.0 since he has only one neighbor (Mariëlle den Hengst) and there are no edges between any of his neighbors.
+The clustering coefficient of H. Sol is 0.5. This is because H. Sol has two neighbors (Mariëlle den Hengst and Gert-Jan de Vreede) and both of them are connected to each other.
+['0.6', '0.75', '0.5', '0.5', '0.67', '0.5', '0.6', '0.5', '0.5', '3', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.0', '0.0', '0.5'] ['0.6', '0.14', '0.67', '1.0', '0.43', '0.7', '0.19', '0.31', '0.67', '1.0', '1.0', '0.33', '0', '0.67', '0.67', '1.0', '1.0', '0', '0', '1.0']
+The clustering coefficient of Li-Wen Chen is 0.5. This is because Li-Wen Chen has two neighbors (Lung-Ming Fu and Chia-Yen Lee) and both of them are connected.
+The clustering coefficient of Lung-Ming Fu is 0.5. This is because Lung-Ming Fu has 4 neighbors (Li-Wen Chen, Chia-Yen Lee, Yu-Hsiang Wang, and Lung-Ming Fu himself) and 3 of them are connected (Li-Wen Chen, Chia-Yen Lee, and Yu-Hsiang Wang). Therefore, the clustering coefficient of Lung-Ming Fu is 3/4 = 0.5.
+The clustering coefficient of Chia-Yen Lee is 0.5. This is because Chia-Yen Lee has 6 neighbors (Li-Wen Chen, C.-F. Chien, Shih-Chuan Chen, Chih-Yung Wen, Shih-Ting Huang, and Wen-Cheng Kuo) and 5 of the 6 neighbors are connected (Li-Wen Chen, C.-F. Chien, Shih-Chuan Chen, Chih-Yung Wen, and Wen-Cheng Kuo). Therefore, the clustering coefficient of Chia-Yen Lee is 5/6 = 0.5.
+The clustering coefficient of C.-F. Chien is 0.5. This is because C.-F. Chien has two neighbors (Chia-Yen Lee and Yi-Chao Huang) and both of them are connected to each other. Therefore, the clustering coefficient of C.-F. Chien is 2/3 = 0.5.
+The clustering coefficient of Yi-Chao Huang is 0.33.
+The clustering coefficient of Shih-Chuan Chen is 0.5. This is because Shih-Chuan Chen has 3 neighbors (Li-Wen Chen, Chia-Yen Lee, and Wen-Cheng Kuo) and all 3 of them are connected.
+The clustering coefficient of Wen-Cheng Kuo is 0.5. This is because Wen-Cheng Kuo has 3 neighbors (Li-Wen Chen, Chia-Yen Lee, and Shih-Chuan Chen) and all 3 of them are connected.
+The clustering coefficient of Chih-Yung Wen is 0.67. There are 3 neighbors of Chih-Yung Wen (Li-Wen Chen, Chia-Yen Lee, and C. H. Cheng), and all 3 of them are connected. Therefore, the clustering coefficient of Chih-Yung Wen is 3/3 = 1 = 0.67.
+The clustering coefficient of C. H. Cheng is 0.5. This is because C. H. Cheng has 6 neighbors and 5 of the 6 neighbors are connected. Therefore, the clustering coefficient of C. H. Cheng is 5/6 = 0.5.
+The clustering coefficient of Hsien-Tsung Chang is 0.5. This is because Hsien-Tsung Chang has 5 neighbors (Li-Wen Chen, Chia-Yen Lee, Shih-Chuan Chen, Chih-Yung Wen, and Yi-Ting Wang) and 3 of them are connected (Chia-Yen Lee, Chih-Yung Wen, and Yi-Ting Wang). Therefore, the clustering coefficient of Hsien-Tsung Chang is 3/5 = 0.5.
+The clustering coefficient of Shih-Ting Huang is 0.33.
+The clustering coefficient of Y. C. Lin is 0.5. Y. C. Lin has 4 neighbors (Li-Wen Chen, C.-F. Chien, S. C. Chen, and J. C. Wu), and 3 of them are connected (Li-Wen Chen, S. C. Chen, and J. C. Wu). Therefore, the clustering coefficient of Y. C. Lin is 3/4 = 0.5.
+The clustering coefficient of S. C. Chen is 0.5. This is because S. C. Chen has 4 neighbors (Li-Wen Chen, C.-F. Chien, Y. C. Lin, and J. C. Wu) and 3 of them are connected (Li-Wen Chen, C.-F. Chien, and Y. C. Lin). Therefore, the clustering coefficient of S. C. Chen is 3/4 = 0.5.
+The clustering coefficient of J. C. Wu is 0.5. This is because J. C. Wu has three neighbors (S. C. Chen, C. H. Cheng, and Y. C. Lin) and two of them (S. C. Chen and C. H. Cheng) are connected. Therefore, the clustering coefficient of J. C. Wu is 2/3 = 0.5.
+The clustering coefficient of Yi-Ting Wang is 0.5. This is because Yi-Ting Wang has three neighbors (Hsien-Tsung Chang, Chia-Yen Lee, and Yi-Lun Ho) and all three of them are connected. Therefore, the clustering coefficient is 3/6 = 0.5.
+The clustering coefficient of Yi-Lun Ho is 0.5. This is because Yi-Lun Ho has two neighbors (Hsien-Tsung Chang and Yu-Wen Li) and both of them are connected. Therefore, the clustering coefficient of Yi-Lun Ho is 2/4 = 0.5.
+The clustering coefficient of Yu-Wen Li is 0.5. This is because Yu-Wen Li has two neighbors (Hsien-Tsung Chang and Yi-Lun Ho) and both of them are connected. Therefore, the clustering coefficient of Yu-Wen Li is 2/4 = 0.5.
+The clustering coefficient of Yu-Hsiang Wang is 0.5. This is because Yu-Hsiang Wang has 3 neighbors (Li-Wen Chen, Chia-Yen Lee, and Lung-Ming Fu) and all 3 of them are connected. Therefore, the clustering coefficient of Yu-Hsiang Wang is 3/6 = 0.5.
+The clustering coefficient of Ada Fu is 0.0 since she has only one neighbor (C. H. Cheng) and they are not connected.
+The clustering coefficient of Yi-Ming Chang is 0.5. This is because Yi-Ming Chang has two neighbors (Hsien-Tsung Chang and Yu-Wen Li) and both of them are connected. Thus, the clustering coefficient of Yi-Ming Chang is 2/3 = 0.5.
+['0.5', '0.5', '0.5', '0.5', '0.33', '0.5', '0.5', '0.67', '0.5', '0.5', '0.33', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.0', '0.5'] ['1.0', '0.67', '0.13', '1.0', '1.0', '1.0', '1.0', '0.67', '0.27', '0.1', '0', '1.0', '1.0', '1.0', '0', '1.0', '1.0', '1.0', '0', '0']
+The clustering coefficient of K. J. R. Liu is 0.5. This is because K. J. R. Liu has four neighbors (A. Raghupathy, An-Yeu Wu, Wei Wang, and You-Gang Chen) and three of them are connected (A. Raghupathy, An-Yeu Wu, and You-Gang Chen). Therefore, the clustering coefficient of K. J. R. Liu is 3/4 = 0.5.
+The clustering coefficient of A. Raghupathy is 0.5.
+The clustering coefficient of An-Yeu Wu is 0.5.
+The clustering coefficient of Wei Wang is 0.0, since he has only one neighbor (An-Yeu Wu) and there is no connection between them.
+The clustering coefficient of You-Gang Chen is 0.5. This is because You-Gang Chen has two neighbors (An-Yeu Wu and I-Chyn Wey) and both of them are connected.
+The clustering coefficient of I-Chyn Wey is 0.5.
+The clustering coefficient of K. J. Liu is 0.5. This is because K. J. Liu has two neighbors (An-Yeu Wu and A. Raghupathy) and both of them are connected to each other.
+The clustering coefficient of Tsung-Han Tsai is 0.5.
+
+7it [18:11, 158.63s/it][A7it [18:42, 160.31s/it]
+  0%|          | 0/1 [18:42<?, ?it/s]
+The clustering coefficient of Cheng-Hung Lin is 0.5.
+The clustering coefficient of Chun-Yu Chen is 0.5. This is because Chun-Yu Chen has three neighbors (An-Yeu Wu, Tsung-Han Tsai, and Cheng-Hung Lin) and all three of them are connected. Therefore, the clustering coefficient of Chun-Yu Chen is 3/6 = 0.5.
+The clustering coefficient of Hui-Shun Hung is 0.5.
+The clustering coefficient of W. Shih is 0.5.
+The clustering coefficient of Shu-Yen Lin is 0.5. This is because Shu-Yen Lin has 4 neighbors (An-Yeu Wu, Hui-Shun Hung, Chun-Hsiang Huang, and Yuan-Hua Chu) and 3 of the 4 neighbors are connected (An-Yeu Wu, Hui-Shun Hung, and Chun-Hsiang Huang). Therefore, the clustering coefficient of Shu-Yen Lin is 3/4 = 0.5.
+The clustering coefficient of Yuan-Hua Chu is 0.5.
+The clustering coefficient of Jen-Kuei Yang is 0.5.
+The clustering coefficient of Chung-Ju Wu is 0.5. This is because Chung-Ju Wu has two neighbors (An-Yeu Wu and Yuan-Hua Chu) and both of them are connected (An-Yeu Wu and Yuan-Hua Chu are connected). Therefore, the clustering coefficient of Chung-Ju Wu is 2/4 = 0.5.
+The clustering coefficient of Yu-Hao Chen is 0.5.
+The clustering coefficient of Cheng-Zhou Zhan is 0.75.
+The clustering coefficient of Chun-Hsiang Huang is 0.5.
+The clustering coefficient of Yen-Liang Chen is 0.5.
+['0.5', '0.5', '0.5', '0.0', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.5', '0.75', '0.5', '0.5'] ['1.0', '1.0', '0.07', '0', '1.0', '1.0', '0', '1.0', '0.67', '1.0', '1.0', '1.0', '0.67', '1.0', '1.0', '1.0', '1.0', '0.5', '1.0', '1.0']
+The clustering coefficient of J.C. Roh is 0 since J.C. Roh has no neighbors.
+The clustering coefficient of Bhaskar D. Rao is 0.75.
+The clustering coefficient of M. Murthi is 0.5. This is because M. Murthi has two neighbors (Bhaskar D. Rao and Jianxia Ning) and both of them are connected (Jianxia Ning and Bhaskar D. Rao are connected). Therefore, the clustering coefficient of M. Murthi is 2/3 = 0.5.
+The clustering coefficient of Jianxia Ning is 0.5. This is because Jianxia Ning has two neighbors (Bhaskar D. Rao and Srikanth V. Krishnamurthy) and both of them are connected. Therefore, the clustering coefficient of Jianxia Ning is 2/3 = 0.5.
 Traceback (most recent call last):
-  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 183, in <module>
     main(args)
   File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
     answer     = json.loads(response.text)["choices"][0]["text"].strip()
 KeyError: 'choices'
-2023-03-14 17:02:52,286 - wandb.wandb_agent - INFO - Cleaning up finished run: tar48p2n
+2023-03-14 17:30:11,414 - wandb.wandb_agent - INFO - Cleaning up finished run: olz41zjc
 wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
-wandb: - 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: \ 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run sparkling-sweep-10 at: https://wandb.ai/gjyspliter/GraphBench/runs/tar48p2n
+wandb: 
+wandb: Run history:
+wandb: epoch_acc ▆▁█▅▆▅▃
+wandb: 
+wandb: Run summary:
+wandb: epoch_acc 0.05
+wandb: 
+wandb: 🚀 View run radiant-sweep-2 at: https://wandb.ai/gjyspliter/GraphBench/runs/olz41zjc
 wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20230314_170244-tar48p2n/logs
-2023-03-14 17:02:58,902 - wandb.wandb_agent - INFO - Agent received command: run
-2023-03-14 17:02:58,902 - wandb.wandb_agent - INFO - Agent starting run with config:
+wandb: Find logs at: ./wandb/run-20230314_171120-olz41zjc/logs
+2023-03-14 17:31:00,480 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 17:31:00,480 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: AdjList
+	method: zero_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 17:31:00,486 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=AdjList --method=zero_shot --self_augument=0 --task=clustering
+2023-03-14 17:31:05,501 - wandb.wandb_agent - INFO - Running runs: ['5y9wekoj']
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_173114-5y9wekoj
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run different-sweep-4
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/mbsq9twp
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/5y9wekoj
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A0it [00:01, ?it/s]
+  0%|          | 0/1 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 183, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
+    answer     = json.loads(response.text)["choices"][0]["text"].strip()
+KeyError: 'choices'
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run different-sweep-4 at: https://wandb.ai/gjyspliter/GraphBench/runs/5y9wekoj
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_173114-5y9wekoj/logs
+2023-03-14 17:31:32,627 - wandb.wandb_agent - INFO - Cleaning up finished run: 5y9wekoj
+2023-03-14 17:31:33,327 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 17:31:33,327 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: AdjList
+	method: one_shot
+	self_augument: 0
+	task: clustering
+2023-03-14 17:31:33,332 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=AdjList --method=one_shot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 17:31:38,345 - wandb.wandb_agent - INFO - Running runs: ['32p2zots']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_173137-32p2zots
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run flowing-sweep-5
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/mbsq9twp
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/32p2zots
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A
+1it [03:05, 185.80s/it][Awandb: Network error (ConnectTimeout), entering retry loop.
+
+2it [11:43, 380.82s/it][A2it [11:45, 352.69s/it]
+  0%|          | 0/1 [11:45<?, ?it/s]
+The clustering coefficient of C. C. Goodyear is 0.0, since it has only one neighbor (D. Wei) and they are not connected.
+The clustering coefficient of node 1 is 0.67.
+The clustering coefficient of D. Wei is 0.67. This is because D. Wei has 3 neighbors (C. C. Goodyear, H. Guo, and M. Lang) and all 3 of them are connected. Therefore, the clustering coefficient of D. Wei is 2/3 = 0.67.
+The clustering coefficient of {'relation': 'collaborate'} is 0.
+The clustering coefficient of C. S. Burrus is 0.67. This is calculated by dividing the number of edges between the neighbors of C. S. Burrus (3) by the maximum number of edges that could exist between them (4).
+The clustering coefficient of 3 is 0.67.
+The clustering coefficient of M. Lang is 0.33.
+The clustering coefficient of H. Guo is 0.5. This is because H. Guo has two neighbors (M. Lang and D. Wei) and both of them are connected. Therefore, the clustering coefficient of H. Guo is 2/4 = 0.5.
+The clustering coefficient of Robert B. France is 0.875. This is calculated by taking the number of connections between his neighbors (14) and dividing it by the total number of possible connections between his neighbors (16).
+The clustering coefficient of node 14 is 0.5. This is because node 14 has 14 neighbors, and 7 of them are connected. Therefore, the clustering coefficient is 7/14 = 0.5.
+The clustering coefficient of E. B. Fernandez is 0.67. This is because E. B. Fernandez has 3 neighbors (D. Wei, M. Lang, and H. Guo) and all 3 of them are connected. Therefore, the clustering coefficient of E. B. Fernandez is 2/3 = 0.67.
+The clustering coefficient of James M. Bieman is 1.0. This is because all of his neighbors (D. Wei, M. Lang, and H. Guo) are connected to each other.
+The clustering coefficient of Behzad Bordbar is 0.0, since he has no neighbors and therefore no connections between them.
+The clustering coefficient of Cris Kobryn is 0.33.
+The clustering coefficient of Jennifer Horkoff is 0.0 since she has no neighbors.
+The clustering coefficient of Prabhakar M. Koushik is 0.0, since he has no neighbors that are connected.
+The clustering coefficient of Steffen Zschaler is 0.00 since he has 0 neighbors and none of them are connected.
+The clustering coefficient of Philippe Collet is 0.0 since none of his neighbors are connected.
+The clustering coefficient of Stuart Kent is 0.67.
+The clustering coefficient of Frank Hernandez is 0.00, since none of his neighbors are connected.
+The clustering coefficient of Y. Raghu Reddy is 0.0 since Y. Raghu Reddy has no neighbors connected to each other.
+The clustering coefficient of C. Atkinson is 0.0, since none of his neighbors are connected.
+The clustering coefficient of Sean Thorpe is 0.00, since he has no neighbors that are connected.
+The clustering coefficient of node 2 is 0.67.
+The clustering coefficient of 0 is 0.
+The clustering coefficient of S. Guo is 0.0, since S. Guo has no neighbors and thus no connections.
+['0.0', '1', '0.67', '0.', '0.67', '3', '0.33', '0.5', '0.875', '14', '0.67', '1.0', '0.0', '0.33', '0.0', '0.0', '0.00', '0.0', '0.67', '0.00', '0.0', '0.0', '0.00', '2', '0', '0.0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+The clustering coefficient of Dajun Du is 0.33.
+The clustering coefficient of 3 is 0.67.
+The clustering coefficient of Kang Li is 0.33.
+The clustering coefficient of {'relation': 'collaborate'} is 0.33.
+The clustering coefficient of Jing Deng is 0.67. This is because Jing Deng has 8 neighbors and 6 of the 8 neighbors are connected. Thus, the clustering coefficient of Jing Deng is 6/8 = 0.67.
+The clustering coefficient of G. W. Irwin is 0.5, since G. W. Irwin has two neighbors (Kang Li and Jing Deng) and both of them are connected.
+The clustering coefficient of Wei Wu is 0.6.
+The clustering coefficient of node 5 is 0.67.
+The clustering coefficient of Zhanjiang Song is 0.5. This is because Zhanjiang Song has two neighbors (Jing Deng and Thomas Fang Zheng) and both of them are connected. Therefore, the clustering coefficient of Zhanjiang Song is 2/3 = 0.5.
+The clustering coefficient of Thomas Fang Zheng is 0.67. This is because Thomas Fang Zheng has 3 neighbors (Jian Liu, Zhanjiang Song, and Lihong Zhang) and all 3 of them are connected to each other. Therefore, the clustering coefficient of Thomas Fang Zheng is (3/3) = 0.67.
+The clustering coefficient of Jian Liu is 0.33.
+The clustering coefficient of Lihong Zhang is 0.33.
+The clustering coefficient of Qixiu Hu is 0.5. This is because Qixiu Hu has two neighbors (Wenhu Wu and Yue Pan) and both of them are connected to each other. Therefore, the clustering coefficient of Qixiu Hu is 2/4 = 0.5.
+The clustering coefficient of a node is calculated as the number of edges between the node's neighbors divided by the number of possible edges between the node's neighbors. In this case, there are 2 edges between the node's neighbors, so the clustering coefficient is 2/3 = 0.67.
+The clustering coefficient of Wenhu Wu is 0.5. This is because Wenhu Wu has 6 neighbors and 5 of the 6 neighbors are connected. Therefore, the clustering coefficient of Wenhu Wu is 5/6 = 0.5.
+The clustering coefficient of Yue Pan is 0.
+The clustering coefficient of node 6 is 0.33.
+The clustering coefficient of Jian Wu is 0.33.
+0
+The clustering coefficient of Lixin Fu is 0.0 since he only has one neighbor (Jing Deng) and they are not connected.
+The clustering coefficient of a node with 3 neighbors and only 2 of the 3 neighbors connected is 0.67.
+The clustering coefficient of Honggang Li is 0.0 since he has only one neighbor (Jing Deng) and they are not connected.
+The clustering coefficient of Jingwei Miao is 0.67. This is because Jingwei Miao has 3 neighbors (Jing Deng, Kangbin Yim, and Chi Lin) and all 3 of them are connected. Therefore, the clustering coefficient of Jingwei Miao is 2/3 = 0.67.
+The clustering coefficient of Kangbin Yim is 0.5. This is because Kangbin Yim has two neighbors (Jing Deng and Chi Lin) and both of them are connected. Therefore, the clustering coefficient of Kangbin Yim is 2/4 = 0.5.
+The clustering coefficient of Chi Lin is 0.33.
+The clustering coefficient of Yunghsiang S. Han is 0 since he has only one neighbor and they are not connected.
+The clustering coefficient of a node with 0 neighbors is 0.
+['0.33', '3', '0.33', '0.33', '0.67', '0.5', '0.6', '5', '0.5', '0.67', '0.33', '0.33', '0.5', '2', '0.5', '0.', '6', '0.33', '0', '0.0', '3', '0.0', '0.67', '0.5', '0.33', '0', '0'] ['0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 183, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
+    answer     = json.loads(response.text)["choices"][0]["text"].strip()
+KeyError: 'choices'
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: 
+wandb: Run history:
+wandb: epoch_acc █▁
+wandb: 
+wandb: Run summary:
+wandb: epoch_acc 0.22222
+wandb: 
+wandb: 🚀 View run flowing-sweep-5 at: https://wandb.ai/gjyspliter/GraphBench/runs/32p2zots
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_173137-32p2zots/logs
+2023-03-14 17:43:36,767 - wandb.wandb_agent - INFO - Cleaning up finished run: 32p2zots
+2023-03-14 17:43:37,945 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 17:43:37,946 - wandb.wandb_agent - INFO - Agent starting run with config:
+	change_order: 0
+	format: GML
+	method: zero_shot_cot
+	self_augument: 0
+	task: clustering
+2023-03-14 17:43:37,949 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GML --method=zero_shot_cot --self_augument=0 --task=clustering
+wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
+wandb: WARNING Ignored wandb.init() arg project when running a sweep.
+2023-03-14 17:43:42,961 - wandb.wandb_agent - INFO - Running runs: ['ll9ey7gl']
+wandb: Tracking run with wandb version 0.13.11
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_174341-ll9ey7gl
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fluent-sweep-9
+wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/mbsq9twp
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/ll9ey7gl
+  0%|          | 0/1 [00:00<?, ?it/s]
+0it [00:00, ?it/s][A0it [00:01, ?it/s]
+  0%|          | 0/1 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 183, in <module>
+    main(args)
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
+    answer     = json.loads(response.text)["choices"][0]["text"].strip()
+KeyError: 'choices'
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: 🚀 View run fluent-sweep-9 at: https://wandb.ai/gjyspliter/GraphBench/runs/ll9ey7gl
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230314_174341-ll9ey7gl/logs
+2023-03-14 17:44:04,804 - wandb.wandb_agent - INFO - Cleaning up finished run: ll9ey7gl
+2023-03-14 17:44:07,982 - wandb.wandb_agent - INFO - Agent received command: run
+2023-03-14 17:44:07,983 - wandb.wandb_agent - INFO - Agent starting run with config:
 	change_order: 0
 	format: GraphML
 	method: one_shot
 	self_augument: 0
 	task: clustering
-2023-03-14 17:02:58,906 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GraphML --method=one_shot --self_augument=0 --task=clustering
+2023-03-14 17:44:07,985 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GraphML --method=one_shot --self_augument=0 --task=clustering
 wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
 wandb: WARNING Ignored wandb.init() arg project when running a sweep.
-2023-03-14 17:03:03,915 - wandb.wandb_agent - INFO - Running runs: ['pxp40510']
+2023-03-14 17:44:12,996 - wandb.wandb_agent - INFO - Running runs: ['wm6acmzw']
 wandb: Tracking run with wandb version 0.13.11
-wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_170302-pxp40510
+wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_174411-wm6acmzw
 wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run lucky-sweep-11
+wandb: Syncing run mild-sweep-11
 wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
-wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/wbmqcds1
-wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/pxp40510
+wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/mbsq9twp
+wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/wm6acmzw
   0%|          | 0/1 [00:00<?, ?it/s]
 0it [00:00, ?it/s][A0it [00:01, ?it/s]
   0%|          | 0/1 [00:01<?, ?it/s]
 Traceback (most recent call last):
-  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
+  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 183, in <module>
     main(args)
   File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
     answer     = json.loads(response.text)["choices"][0]["text"].strip()
 KeyError: 'choices'
 wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
-wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: \ 0.001 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run lucky-sweep-11 at: https://wandb.ai/gjyspliter/GraphBench/runs/pxp40510
+wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: \ 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run mild-sweep-11 at: https://wandb.ai/gjyspliter/GraphBench/runs/wm6acmzw
 wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20230314_170302-pxp40510/logs
-2023-03-14 17:03:14,703 - wandb.wandb_agent - INFO - Cleaning up finished run: pxp40510
-2023-03-14 17:03:15,261 - wandb.wandb_agent - INFO - Agent received command: run
-2023-03-14 17:03:15,261 - wandb.wandb_agent - INFO - Agent starting run with config:
-	change_order: 0
-	format: GraphML
-	method: zero_shot_cot
-	self_augument: 0
-	task: clustering
-2023-03-14 17:03:15,264 - wandb.wandb_agent - INFO - About to run command: /usr/bin/env python run_experiments.py --change_order=0 --format=GraphML --method=zero_shot_cot --self_augument=0 --task=clustering
-wandb: Currently logged in as: gjyspliter. Use `wandb login --relogin` to force relogin
-wandb: WARNING Ignored wandb.init() arg project when running a sweep.
-2023-03-14 17:03:20,276 - wandb.wandb_agent - INFO - Running runs: ['b2w554c4']
-wandb: Tracking run with wandb version 0.13.11
-wandb: Run data is saved locally in /Users/goojy/Documents/Project/Graph-GPT/wandb/run-20230314_170318-b2w554c4
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run ancient-sweep-12
-wandb: ⭐️ View project at https://wandb.ai/gjyspliter/GraphBench
-wandb: 🧹 View sweep at https://wandb.ai/gjyspliter/GraphBench/sweeps/wbmqcds1
-wandb: 🚀 View run at https://wandb.ai/gjyspliter/GraphBench/runs/b2w554c4
-  0%|          | 0/1 [00:00<?, ?it/s]
-0it [00:00, ?it/s][A0it [00:01, ?it/s]
-  0%|          | 0/1 [00:01<?, ?it/s]
-Traceback (most recent call last):
-  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 182, in <module>
-    main(args)
-  File "/Users/goojy/Documents/Project/Graph-GPT/run_experiments.py", line 155, in main
-    answer     = json.loads(response.text)["choices"][0]["text"].strip()
-KeyError: 'choices'
-wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
-wandb: - 0.001 MB of 0.001 MB uploaded (0.000 MB deduped)wandb: \ 0.004 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: | 0.010 MB of 0.010 MB uploaded (0.000 MB deduped)wandb: 🚀 View run ancient-sweep-12 at: https://wandb.ai/gjyspliter/GraphBench/runs/b2w554c4
-wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
-wandb: Find logs at: ./wandb/run-20230314_170318-b2w554c4/logs
-2023-03-14 17:03:31,007 - wandb.wandb_agent - ERROR - Detected 3 failed runs in the first 60 seconds, shutting down.
-2023-03-14 17:03:31,007 - wandb.wandb_agent - INFO - To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+wandb: Find logs at: ./wandb/run-20230314_174411-wm6acmzw/logs
+2023-03-14 17:44:24,086 - wandb.wandb_agent - ERROR - Detected 5 failed runs in a row, shutting down.
+2023-03-14 17:44:24,087 - wandb.wandb_agent - INFO - To change this value set WANDB_AGENT_MAX_INITIAL_FAILURES=val
 wandb: Terminating and syncing runs. Press ctrl-c to kill.

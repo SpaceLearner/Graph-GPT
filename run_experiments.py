@@ -41,11 +41,15 @@ class MyThread(Thread):
 @retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
 def GPT(data):
 
-    url     = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
-    response   = requests.post(url=url, headers=headers, data=json.dumps(data))
-    
-    return response
+    url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
+    headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
+    response  = requests.post(url=url, headers=headers, data=json.dumps(data))
+    response  = json.loads(response.text)
+    if "choices" not in response:
+        raise Exception("Response Exception. ")
+    answer    = response["choices"][0]["text"].strip()
+    print(answer)
+    return answer
 
 def main(config, seed=0):
     
@@ -150,13 +154,11 @@ def main(config, seed=0):
                     else:
                         data["prompt"] = instructer + graph + example + question + tail
                 
-                    response   = GPT(data)
+                    answer   = GPT(data)
                     # print(json.loads(response.text))
-                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
-                    print(answer)
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
-                    time.sleep(5)
+                    # time.sleep(5)
                 print(predictions, true_answer)
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
