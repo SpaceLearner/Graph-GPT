@@ -26,9 +26,11 @@ def answer_cleasing(config, answer):
     elif config.task == "clustering":
         # print(answer)
         if config.method == "zero_shot" or config.method == "one_shot":
-            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)[0]
+            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
+            pred = pred[0]
         elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
-            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)[0]
+            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
+            pred = pred[-1]
         # print("pred:", pred)
     elif config.task == "size":
         if config.method == "zero_shot" or config.method == "one_shot":
