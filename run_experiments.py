@@ -71,7 +71,7 @@ def main(config, seed=0):
         postfix = ".gml"
     elif config.format == "GraphML":
         prefix  = "./input/GraphML"
-        reader  = partial(nx.read_graphml, encoding="utf-8")
+        reader  = partial(nx.read_graphml)
         postfix = ".graphml"
     elif config.format == "EdgeList":
         prefix  = "./input/EdgeList"
@@ -168,6 +168,8 @@ def main(config, seed=0):
                 wandb.log({"epoch_acc": acc})
                 
             elif config.task == "diameter":
+                
+                print("idx:", idx)
                 
                 question = question_head
                 # print(question)
