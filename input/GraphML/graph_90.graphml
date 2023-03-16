@@ -4,17 +4,9 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Zhiping Lin">
-      <data key="affiliation">Nan</data>
-      <data key="research">good solution, Wavelet Packet Multi-layer Perceptron, Mackey-Glass benchmark time series</data>
-    </node>
     <node id="N. P. Karampetakis">
       <data key="affiliation">Department of Mathematics, Faculty of Sciences, Aristotle University of Thessaloniki, 54006 Thessaloniki, Greece</data>
       <data key="research">Drazin inverse, rational matrix, two-variable polynomial matrix</data>
-    </node>
-    <node id="Shengyuan Xu">
-      <data key="affiliation">Nan</data>
-      <data key="research">Model Reduction, coupling nonconvex rank constraint, explicit parametrization</data>
     </node>
     <node id="Zhonglun Cai">
       <data key="affiliation">School of Electronics and Computer Science, University of Southampton, Southampton, UK</data>
@@ -84,25 +76,7 @@
       <data key="affiliation">Nan</data>
       <data key="research">discrete-time Markovian jump singular, sufficient condition, Fault Detection Filter Design</data>
     </node>
-    <edge source="Zhiping Lin" target="Anton Kummert">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zhiping Lin" target="Krzysztof Gałkowski">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zhiping Lin" target="Shengyuan Xu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zhiping Lin" target="James Lam">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="N. P. Karampetakis" target="Krzysztof Gałkowski">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Shengyuan Xu" target="James Lam">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Shengyuan Xu" target="Krzysztof Gałkowski">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Zhonglun Cai" target="Paul L. Lewin">
