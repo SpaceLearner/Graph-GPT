@@ -71,7 +71,7 @@ def main(config, seed=0):
         postfix = ".gml"
     elif config.format == "GraphML":
         prefix  = "./input/GraphML"
-        reader  = nx.read_graphml
+        reader  = partial(nx.read_graphml, encoding="utf-8")
         postfix = ".graphml"
     elif config.format == "EdgeList":
         prefix  = "./input/EdgeList"
