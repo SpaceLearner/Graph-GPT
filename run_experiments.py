@@ -84,13 +84,15 @@ def main(config, seed=0):
     
     example = ""
     tail    = ""
-    if config.method == "one_shot":
+    if "one_shot" in config.method:
         if config.task == "degree":
             example = "For example, a node has degree of x if there are x edges (or other nodes) connecting to it. \n"
         elif config.task == "size":
             example = "For example, the number of nodes is 16 and the number of edges is 32 if a graph have 16 nodes and 32 edges. \n"
         elif config.task == "clustering":
             example = "For example, the clustering coefficient of a node is 0.33 if the node has 3 neighbors and only 2 of the 3 neighbors are connected."
+        elif config.task == "diameter":
+            example = "For example, the diameter of a graph is 3 if the maximum distance between any node pairs in this graph is 3. "
     if config.method[:-3] == "cot":
         tail = "Please answer it step by step with all answers. \n"
 
