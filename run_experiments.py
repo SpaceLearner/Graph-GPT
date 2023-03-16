@@ -45,6 +45,7 @@ def GPT(data):
     headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
     response  = requests.post(url=url, headers=headers, data=json.dumps(data))
     response  = json.loads(response.text)
+    print(response)
     if "choices" not in response:
         raise Exception("Response Exception. ")
     answer    = response["choices"][0]["text"].strip()
@@ -96,7 +97,7 @@ def main(config, seed=0):
     # print(example)
     accs = []
     for _ in tqdm(range(1)):
-        for idx, seed in tqdm(enumerate(range(50))):
+        for idx, seed in tqdm(enumerate(range(139))):
             graph_file = os.path.join(prefix, "graph_"+str(seed)+postfix)
             with open(graph_file, "r") as fp:
                 graph = fp.read()
@@ -159,6 +160,25 @@ def main(config, seed=0):
                     pred       = answer_cleasing(config, answer)
                     predictions.append(pred)
                     # time.sleep(5)
+                print(predictions, true_answer)
+                acc = evaluate(predictions, true_answer)
+                accs.append(acc)
+                wandb.log({"epoch_acc": acc})
+                
+            elif config.task == "diameter":
+                
+                question = question_head
+                # print(question)
+                if config.change_order:
+                    data["prompt"] = instructer + example + question + tail + graph 
+                else:
+                    data["prompt"] = instructer + graph + example + question + tail
+            
+                answer   = GPT(data)
+                # print(json.loads(response.text))
+                pred       = answer_cleasing(config, answer)
+                predictions = [pred]
+                
                 print(predictions, true_answer)
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)

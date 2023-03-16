@@ -15,6 +15,11 @@ def task_handler(task, graph):
         answers = [str(round(v, 2)) for e, v in nx.clustering(graph).items()]
         question  = "The clustering coefficient (in dicimal) of "
         
+    elif task == "diameter":
+        
+        answers  = [str(nx.diameter(graph))]
+        question = "The diameter of the graph is ?"
+        
     return  question, answers
 
 def answer_cleasing(config, answer):
@@ -25,6 +30,19 @@ def answer_cleasing(config, answer):
             pred = re.findall("\d+", answer)[-1]
     elif config.task == "clustering":
         # print(answer)
+        if config.method == "zero_shot" or config.method == "one_shot":
+            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
+            if len(pred) == 0:
+                pred = "-1"
+            else:
+                pred = pred[0]
+        elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
+            pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
+            if len(pred) == 0:
+                pred = "-1"
+            else:
+                pred = pred[-1]
+    elif config.task == "diameter":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
             if len(pred) == 0:
