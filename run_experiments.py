@@ -88,7 +88,7 @@ def main(config, seed=0):
         if config.task == "degree":
             example = "For example, a node has degree of x if there are x edges (or other nodes) connecting to it. \n"
         elif config.task == "hasedge":
-            example = "For example, node A and node B are connected if there is an edge between them in this graph. \n"
+            example = "For example, node A and node B are connected if there is an edge between them in this graph. However, node A and node B is not connected if there is  no edge between them in this graph. \n"
         elif config.task == "size":
             example = "For example, the number of nodes is 16 and the number of edges is 32 if a graph have 16 nodes and 32 edges. \n"
         elif config.task == "clustering":
