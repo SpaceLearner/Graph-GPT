@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Mark Last">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., Univ. of South Florida, Tampa, FL</data>
+      <data key="research">knowledge discovery, Web Intelligence, web document</data>
+    </node>
+    <node id="Peretz Shoval">
+      <data key="affiliation">University of Pittsburgh, PA</data>
+      <data key="research">user profile, data item, information system</data>
+    </node>
+    <node id="Yaron Klein">
+      <data key="affiliation">Nan</data>
+      <data key="research">knowledge discovery, time series, ATM congestion control</data>
+    </node>
+    <node id="Chee Siang Ang">
+      <data key="affiliation">University of Kent, Canterbury, United Kingdom</data>
+      <data key="research">older people, social network, virtual world</data>
+    </node>
+    <node id="Halasya Siva Subramania">
+      <data key="affiliation">Department of Physics, University of Alberta, Edmonton, Canada</data>
+      <data key="research">Ontology-driven data collection, data accuracy precision, data collection</data>
+    </node>
+    <node id="Zeev Volkovich">
+      <data key="affiliation">Software Engineering Department, ORT Braude College of Engineering, Karmiel 21982, Israel</data>
+      <data key="research">true number, clustering algorithm, cluster stability</data>
+    </node>
+    <node id="Tamir Tassa">
+      <data key="affiliation">,Dept. of Computer Science, BenGurion University, Beer Sheva, Israel</data>
+      <data key="research">access structure, weighted threshold access structure, hierarchical threshold access structure</data>
+    </node>
+    <node id="Yuval Elovici">
+      <data key="affiliation">Nan</data>
+      <data key="research">multiple interfaces message, transputer network</data>
+    </node>
+    <node id="Dotan Barak">
+      <data key="affiliation">Nan</data>
+      <data key="research">asthma drug utilization, drugs utilization, extensive multi-year drug utilization</data>
+    </node>
+    <node id="Erez Shmueli">
+      <data key="affiliation">MIT Media Lab</data>
+      <data key="research">production data, anonymized data, deficient data</data>
+    </node>
+    <node id="A Kandel">
+      <data key="affiliation">4202 E. Fowler Ave., ENB 118, Tampa, FL 33620</data>
+      <data key="research">complex fuzzy set, complex fuzzy logic, fuzzy correlation term</data>
+    </node>
+    <node id="Moti Schneider">
+      <data key="affiliation">School of Computer Science Netanya Academic College, 1 University st. Netanya, Israel</data>
+      <data key="research">detection mode, typical interest, Web page</data>
+    </node>
+    <node id="Abraham Kandel">
+      <data key="affiliation">Nan</data>
+      <data key="research">Link Analysis, Web Behavior, information science</data>
+    </node>
+    <node id="Mark Sh. Levin">
+      <data key="affiliation">Inst. for Inform. Transmission Problems, Russian Academy of Sciences, 19 Bolshoj Karetny lane, Moscow 127994, Russia</data>
+      <data key="research">system component, design alternative, atomic system function</data>
+    </node>
+    <node id="Avner Engel">
+      <data key="affiliation">Advanced Systems &amp; Software Engineering Technology (ASSET), Israel Aerospace Industries, BenGurion International Airport, Israel</data>
+      <data key="research">quality cost, project duration, development cost</data>
+    </node>
+    <node id="Slava Kisilevich">
+      <data key="affiliation">Department of Information Systems Engineering, BenGurion University of the Negev, BeerSheva, Israel</data>
+      <data key="research">data mining, data set, information revelation</data>
+    </node>
+    <node id="Horst Bunke">
+      <data key="affiliation">Nan</data>
+      <data key="research">sub graph, Convex Region Adjacency Graph, graphical document</data>
+    </node>
+    <node id="Oscar Kipersztok">
+      <data key="affiliation">Boeing Research &amp; Technology</data>
+      <data key="research">fuzzy controller, fuzzy logic, continuous-FTPN model</data>
+    </node>
+    <node id="Rafael S. Carel">
+      <data key="affiliation">Nan</data>
+      <data key="research">asthma drug utilization, drugs utilization, extensive multi-year drug utilization</data>
+    </node>
+    <node id="A. Markov">
+      <data key="affiliation">Department of Information Systems Engineering, BenGurion University of the Negev, BeerSheva 84105, Israel</data>
+      <data key="research">Web document, information retrieval, traditional vector representation</data>
+    </node>
+    <edge source="Mark Last" target="Slava Kisilevich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Oscar Kipersztok">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Moti Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Peretz Shoval">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Zeev Volkovich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Chee Siang Ang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Yaron Klein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Horst Bunke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Mark Sh. Levin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Tamir Tassa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Yuval Elovici">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Avner Engel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Dotan Barak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Halasya Siva Subramania">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Erez Shmueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="A. Markov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Rafael S. Carel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaron Klein" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaron Klein" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chee Siang Ang" target="Slava Kisilevich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zeev Volkovich" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zeev Volkovich" target="Yuval Elovici">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tamir Tassa" target="Erez Shmueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuval Elovici" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuval Elovici" target="Erez Shmueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuval Elovici" target="Slava Kisilevich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuval Elovici" target="Moti Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dotan Barak" target="Rafael S. Carel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A Kandel" target="Horst Bunke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A Kandel" target="A. Markov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Moti Schneider" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abraham Kandel" target="Oscar Kipersztok">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abraham Kandel" target="Horst Bunke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abraham Kandel" target="A. Markov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Horst Bunke" target="Oscar Kipersztok">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

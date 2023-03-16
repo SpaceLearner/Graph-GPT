@@ -1,0 +1,36 @@
+Daniel Yeager	S. Rai	{'relation': 'collaborate'}
+Daniel Yeager	Y. Su	{'relation': 'collaborate'}
+Daniel Yeager	Brian Otis	{'relation': 'collaborate'}
+Daniel Yeager	Jagdish Nayayan Pandey	{'relation': 'collaborate'}
+Daniel Yeager	Jeremy H. Holleman	{'relation': 'collaborate'}
+Girish N. Patel	Stephen P. DeWeerth	{'relation': 'collaborate'}
+Girish N. Patel	Jeremy H. Holleman	{'relation': 'collaborate'}
+Mohammed Shahriar Jahan	Samia Nawar Rahman	{'relation': 'collaborate'}
+Mohammed Shahriar Jahan	Hafiz Imtiaz	{'relation': 'collaborate'}
+Mohammed Shahriar Jahan	Jeremy H. Holleman	{'relation': 'collaborate'}
+Mohammad Rafiqul Haider	Kai Zhu	{'relation': 'collaborate'}
+Mohammad Rafiqul Haider	Jeremy H. Holleman	{'relation': 'collaborate'}
+Mohammad Rafiqul Haider	Syed K. Islam	{'relation': 'collaborate'}
+Fan Zhang	Brian Otis	{'relation': 'collaborate'}
+Fan Zhang	Jeremy H. Holleman	{'relation': 'collaborate'}
+Jeremy H. Holleman	Kai Zhu	{'relation': 'collaborate'}
+Jeremy H. Holleman	Brian Otis	{'relation': 'collaborate'}
+Jeremy H. Holleman	Syed K. Islam	{'relation': 'collaborate'}
+Jeremy H. Holleman	Y. Su	{'relation': 'collaborate'}
+Jeremy H. Holleman	Stephen P. DeWeerth	{'relation': 'collaborate'}
+Jeremy H. Holleman	S. Rai	{'relation': 'collaborate'}
+Jeremy H. Holleman	Jagdish Nayayan Pandey	{'relation': 'collaborate'}
+Brian Otis	Y. Su	{'relation': 'collaborate'}
+Brian Otis	S. Rai	{'relation': 'collaborate'}
+Brian Otis	Jagdish Nayayan Pandey	{'relation': 'collaborate'}
+Didar Islam	Md. Atiqur Rahman Ahad	{'relation': 'collaborate'}
+S. Rai	Jagdish Nayayan Pandey	{'relation': 'collaborate'}
+S. Rai	Y. Su	{'relation': 'collaborate'}
+Y. Su	Jagdish Nayayan Pandey	{'relation': 'collaborate'}
+Shaikh Anowarul Fattah	Hafiz Imtiaz	{'relation': 'collaborate'}
+Syed K. Islam	Kai Zhu	{'relation': 'collaborate'}
+T. Ogata	Md. Atiqur Rahman Ahad	{'relation': 'collaborate'}
+Md. Atiqur Rahman Ahad	Hafiz Imtiaz	{'relation': 'collaborate'}
+Md. Atiqur Rahman Ahad	Tonmoy Guha Roy	{'relation': 'collaborate'}
+Samia Nawar Rahman	Hafiz Imtiaz	{'relation': 'collaborate'}
+Hafiz Imtiaz	Tonmoy Guha Roy	{'relation': 'collaborate'}

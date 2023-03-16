@@ -1,37 +1,37 @@
-Mon-Song Chen	A. Kershenbaum	{'relation': 'collaborate'}
-Mon-Song Chen	T. P. Barzilai	{'relation': 'collaborate'}
-Mon-Song Chen	Harrick M. Vin	{'relation': 'collaborate'}
 James P. Gray	D. Pozefsky	{'relation': 'collaborate'}
 James P. Gray	A E Baratz	{'relation': 'collaborate'}
 James P. Gray	J M Jaffe	{'relation': 'collaborate'}
 James P. Gray	Paul E. Green, Jr.	{'relation': 'collaborate'}
-Y. Ofek	T. P. Barzilai	{'relation': 'collaborate'}
-T. P. Barzilai	Erich M. Nahum	{'relation': 'collaborate'}
-T. P. Barzilai	Ashish Mehra	{'relation': 'collaborate'}
-T. P. Barzilai	Harrick M. Vin	{'relation': 'collaborate'}
-T. P. Barzilai	Z.-Y. Shae	{'relation': 'collaborate'}
-T. P. Barzilai	Adrain Segall	{'relation': 'collaborate'}
-T. P. Barzilai	P. Kermani	{'relation': 'collaborate'}
-T. P. Barzilai	Debanjan Saha	{'relation': 'collaborate'}
-T. P. Barzilai	R. A. Sultan	{'relation': 'collaborate'}
-T. P. Barzilai	A E Baratz	{'relation': 'collaborate'}
-A. Kershenbaum	P. Kermani	{'relation': 'collaborate'}
-Z.-Y. Shae	Debanjan Saha	{'relation': 'collaborate'}
 Baruch Awerbuch	I S Gopal	{'relation': 'collaborate'}
 Baruch Awerbuch	David Peleg	{'relation': 'collaborate'}
 Baruch Awerbuch	A E Baratz	{'relation': 'collaborate'}
+J M Jaffe	Adrain Segall	{'relation': 'collaborate'}
+J M Jaffe	A E Baratz	{'relation': 'collaborate'}
+J M Jaffe	Paul E. Green, Jr.	{'relation': 'collaborate'}
+J M Jaffe	D. Pozefsky	{'relation': 'collaborate'}
+Adrain Segall	T. P. Barzilai	{'relation': 'collaborate'}
+Adrain Segall	I S Gopal	{'relation': 'collaborate'}
+Adrain Segall	A E Baratz	{'relation': 'collaborate'}
+Paul E. Green, Jr.	D. Pozefsky	{'relation': 'collaborate'}
+Paul E. Green, Jr.	A E Baratz	{'relation': 'collaborate'}
+Ashish Mehra	Debanjan Saha	{'relation': 'collaborate'}
+Ashish Mehra	T. P. Barzilai	{'relation': 'collaborate'}
+Y. Ofek	T. P. Barzilai	{'relation': 'collaborate'}
 A E Baratz	D. Pozefsky	{'relation': 'collaborate'}
 A E Baratz	P. Kermani	{'relation': 'collaborate'}
 A E Baratz	David Peleg	{'relation': 'collaborate'}
-A E Baratz	J M Jaffe	{'relation': 'collaborate'}
-A E Baratz	Adrain Segall	{'relation': 'collaborate'}
+A E Baratz	T. P. Barzilai	{'relation': 'collaborate'}
 A E Baratz	I S Gopal	{'relation': 'collaborate'}
 A E Baratz	R. A. Sultan	{'relation': 'collaborate'}
-A E Baratz	Paul E. Green, Jr.	{'relation': 'collaborate'}
-P. Kermani	R. A. Sultan	{'relation': 'collaborate'}
-Ashish Mehra	Debanjan Saha	{'relation': 'collaborate'}
-I S Gopal	Adrain Segall	{'relation': 'collaborate'}
-J M Jaffe	Adrain Segall	{'relation': 'collaborate'}
-J M Jaffe	Paul E. Green, Jr.	{'relation': 'collaborate'}
-J M Jaffe	D. Pozefsky	{'relation': 'collaborate'}
-D. Pozefsky	Paul E. Green, Jr.	{'relation': 'collaborate'}
+R. A. Sultan	T. P. Barzilai	{'relation': 'collaborate'}
+R. A. Sultan	P. Kermani	{'relation': 'collaborate'}
+Mon-Song Chen	A. Kershenbaum	{'relation': 'collaborate'}
+Mon-Song Chen	T. P. Barzilai	{'relation': 'collaborate'}
+Mon-Song Chen	Harrick M. Vin	{'relation': 'collaborate'}
+T. P. Barzilai	Erich M. Nahum	{'relation': 'collaborate'}
+T. P. Barzilai	Harrick M. Vin	{'relation': 'collaborate'}
+T. P. Barzilai	Z.-Y. Shae	{'relation': 'collaborate'}
+T. P. Barzilai	P. Kermani	{'relation': 'collaborate'}
+T. P. Barzilai	Debanjan Saha	{'relation': 'collaborate'}
+P. Kermani	A. Kershenbaum	{'relation': 'collaborate'}
+Debanjan Saha	Z.-Y. Shae	{'relation': 'collaborate'}

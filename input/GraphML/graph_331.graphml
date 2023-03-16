@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="T. Raptis">
+      <data key="affiliation">Nan</data>
+      <data key="research">MPEG-4 Authoring Tool, MPEG-4 Tool, MPEG-4 standard</data>
+    </node>
+    <node id="Moi Hoon Yap">
+      <data key="affiliation">Loughborough University, UK</data>
+      <data key="research">ultrasound image, proposed method, Face Detection</data>
+    </node>
+    <node id="A. Sourin">
+      <data key="affiliation">School of Computer Engineering, Nanyang Technological University, Singapore 639798, Singapore</data>
+      <data key="research">function-based extension, haptic interaction, haptic rendering</data>
+    </node>
+    <node id="Akshai K. Aggarwal">
+      <data key="affiliation">Nan</data>
+      <data key="research">Image ProcessingImage processing application, image processing, image processing application</data>
+    </node>
+    <node id="Reyer Zwiggelaar">
+      <data key="affiliation">Department of Computer Science, University of Wales, Wales, UK</data>
+      <data key="research">mammographic image, breast cancer, classification accuracy</data>
+    </node>
+    <node id="Hassan Ugail">
+      <data key="affiliation">Department of Electronic Imaging and Media Communications, School of Informatics, University of Bradford, Bradford BD7 1DP, United Kingdom</data>
+      <data key="research">PDE method, PDE surface, zier surface</data>
+    </node>
+    <node id="Athanasios Drigas">
+      <data key="affiliation">N.C.S.R. Demokritos, Telecoms and Net Media Lab</data>
+      <data key="research">e-learning system, assessment system, public organization</data>
+    </node>
+    <node id="Efthimios Kotsialos">
+      <data key="affiliation">University of Macedonia, Dept. of Applied Informatics, 156 Engatia Str., GR 54006,Thessaloniki, Greece, email: amarg@uom.gr, sourstav@uom.gr, ekots@uom.gr, manos@uom.gr</data>
+      <data key="research">artificial neural network, counterpropagation network, network structure</data>
+    </node>
+    <node id="V. Loumos">
+      <data key="affiliation">Division of Computer Science, Department of Electrical and Computer Engineering, National Technical University of Athens, 9 Heroon Polytechneiou Str., GR15773 Athens, Greece</data>
+      <data key="research">CI system, e-learning course, LPR system</data>
+    </node>
+    <node id="Konstantinos Koutroumbas">
+      <data key="affiliation">Dept. of Inf., Athens Univ.</data>
+      <data key="research">pattern recognition, MATLAB code, feedforward neural network</data>
+    </node>
+    <node id="Yiannis Doxaras">
+      <data key="affiliation">Division of Applied Technologies, Demokritos, Athens, Greece</data>
+      <data key="research">online store, Ubercart Create, advanced technique</data>
+    </node>
+    <node id="Stelios Kotsios">
+      <data key="affiliation">Nan</data>
+      <data key="research">Divider Set, formal definition, 3-dimensional geometry</data>
+    </node>
+    <node id="Jian J. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Non-linear deformation, deformation engine, deformation example</data>
+    </node>
+    <node id="S. Kouremenos">
+      <data key="affiliation">Institut National De Recherche En Informatique Et En Automatique, France</data>
+      <data key="research">H.263 traffic, H.263 traffic modeling, multipoint videoconference session</data>
+    </node>
+    <node id="Michael Athanasopoulos">
+      <data key="affiliation">National Technical University of Athens</data>
+      <data key="research">Web Technologies, partial differential equation, accessing service</data>
+    </node>
+    <node id="Razvan A. Satnoianu">
+      <data key="affiliation">Faculty of Actuarial Science, Cass Business School, City University, London EC1Y 8TZ, UK</data>
+      <data key="research">flow rate, vesicle membrane, numerical simulation</data>
+    </node>
+    <node id="Y. Bakopoulos">
+      <data key="affiliation">Computational Application Group, Division of Applied Technologies, NCSR Demokritos, Athens, Greece</data>
+      <data key="research">Divider Set, hard limiter node, H.263 traffic</data>
+    </node>
+    <node id="Olga Sourina">
+      <data key="affiliation">Nanyang Technological University, Singapore</data>
+      <data key="research">virtual environment, spatio-temporal data, geometric object</data>
+    </node>
+    <node id="Mingyong Pang">
+      <data key="affiliation">Department of Computer Science and Technology, Nanjing University, Nanjing, P. R. China</data>
+      <data key="research">implicit surface, efficient algorithm, triangular mesh</data>
+    </node>
+    <node id="M. I. G. Bloor">
+      <data key="affiliation">The Univ. of Leeds, Leeds, UK</data>
+      <data key="research">partial differential equation, boundary condition, eigenfunction solution</data>
+    </node>
+    <edge source="T. Raptis" target="Efthimios Kotsialos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Raptis" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Raptis" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Raptis" target="Yiannis Doxaras">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Raptis" target="Akshai K. Aggarwal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Moi Hoon Yap" target="Hassan Ugail">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Moi Hoon Yap" target="Reyer Zwiggelaar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sourin" target="Mingyong Pang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sourin" target="Hassan Ugail">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sourin" target="Olga Sourina">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="Yiannis Doxaras">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="Hassan Ugail">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="Efthimios Kotsialos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akshai K. Aggarwal" target="Stelios Kotsios">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Reyer Zwiggelaar" target="Hassan Ugail">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Olga Sourina">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="M. I. G. Bloor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Stelios Kotsios">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Mingyong Pang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Razvan A. Satnoianu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Michael Athanasopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Ugail" target="Jian J. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Athanasios Drigas" target="V. Loumos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Athanasios Drigas" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Athanasios Drigas" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Efthimios Kotsialos" target="Yiannis Doxaras">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Efthimios Kotsialos" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Efthimios Kotsialos" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Loumos" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Loumos" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Konstantinos Koutroumbas" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yiannis Doxaras" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yiannis Doxaras" target="S. Kouremenos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stelios Kotsios" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Kouremenos" target="Y. Bakopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

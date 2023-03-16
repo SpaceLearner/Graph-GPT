@@ -1,50 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:50 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:56 2023
 # 
-Chang-Ching Wu	2
-Chun-Yen Chang	{'relation': 'collaborate'}
-Kuei-Ann Wen	{'relation': 'collaborate'}
-Li-Der Chou	2
-Chun-Yen Chang	{'relation': 'collaborate'}
-Ming-Yu Lee	{'relation': 'collaborate'}
-Yue Cui	3
-Chun-Yen Chang	{'relation': 'collaborate'}
-Tsai-Yen Li	{'relation': 'collaborate'}
-Rohit Kumar	{'relation': 'collaborate'}
-Chin-Chung Tsai	1
-Chun-Yen Chang	{'relation': 'collaborate'}
-Chien-Hua Hsiao	1
-Chun-Yen Chang	{'relation': 'collaborate'}
-Yung-Chun Wu	2
-Chun-Yen Chang	{'relation': 'collaborate'}
-Ting-Chang Chang	{'relation': 'collaborate'}
-Chien-Chao Huang	1
-Chun-Yen Chang	{'relation': 'collaborate'}
-Yi-Hung Wu	1
-Chun-Yen Chang	{'relation': 'collaborate'}
-Chun-Yen Chang	11
-Rohit Kumar	{'relation': 'collaborate'}
-Kuei-Ann Wen	{'relation': 'collaborate'}
-Ting-Chang Chang	{'relation': 'collaborate'}
-Jau-Yien Lee	{'relation': 'collaborate'}
-Chien-Liang Liu	{'relation': 'collaborate'}
-Ming-Yu Lee	{'relation': 'collaborate'}
-Tsai-Yen Li	{'relation': 'collaborate'}
-Yeong-Lin Lai	{'relation': 'collaborate'}
-Yi-Chun Chen	{'relation': 'collaborate'}
-Wei-Ren Chen	{'relation': 'collaborate'}
-E. Chang	{'relation': 'collaborate'}
-Yeong-Lin Lai	1
-E. Chang	{'relation': 'collaborate'}
-E. Chang	0
-Tsai-Yen Li	1
-Rohit Kumar	{'relation': 'collaborate'}
-Ting-Chang Chang	1
-Wei-Ren Chen	{'relation': 'collaborate'}
-Kuei-Ann Wen	0
-Wei-Ren Chen	0
-Rohit Kumar	0
-Chien-Liang Liu	0
-Ming-Yu Lee	0
-Yi-Chun Chen	0
-Jau-Yien Lee	0
+Chin-Chung Tsai	Chun-Yen Chang
+Yi-Chun Chen	Chun-Yen Chang
+Yue Cui	Chun-Yen Chang	Tsai-Yen Li	Rohit Kumar
+Chang-Ching Wu	Chun-Yen Chang	Kuei-Ann Wen
+Chien-Hua Hsiao	Chun-Yen Chang
+Tsai-Yen Li	Chun-Yen Chang	Rohit Kumar
+Ming-Yu Lee	Chun-Yen Chang	Li-Der Chou
+Yi-Hung Wu	Chun-Yen Chang
+Yung-Chun Wu	Chun-Yen Chang	Ting-Chang Chang
+Chien-Liang Liu	Chun-Yen Chang
+Chun-Yen Chang	Rohit Kumar	Kuei-Ann Wen	Li-Der Chou	Ting-Chang Chang	Jau-Yien Lee	Chien-Chao Huang	Yeong-Lin Lai	Wei-Ren Chen	E. Chang
+Yeong-Lin Lai	E. Chang
+Kuei-Ann Wen
+E. Chang
+Li-Der Chou
+Chien-Chao Huang
+Rohit Kumar
+Ting-Chang Chang	Wei-Ren Chen
+Wei-Ren Chen
+Jau-Yien Lee

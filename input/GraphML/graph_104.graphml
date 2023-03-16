@@ -4,6 +4,62 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
+    <node id="Robert E. Frederking">
+      <data key="affiliation">Language Technologies Institute, Pittsburgh, PA</data>
+      <data key="research">speech translation, machine translation system, medical speech translation</data>
+    </node>
+    <node id="Mounim A. El-Yacoubi">
+      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
+      <data key="research">Street Name, street line, street line image</data>
+    </node>
+    <node id="Éric Anquetil">
+      <data key="affiliation">INSA de Rennes, France</data>
+      <data key="research">recognition system, handwritten character recognition system, recognition process</data>
+    </node>
+    <node id="K. Marukawa">
+      <data key="affiliation">Nan</data>
+      <data key="research">expression pattern, street number, class symbol lattice</data>
+    </node>
+    <node id="M. Cheriet">
+      <data key="affiliation">Ecole de Technologie Superieure (Canada)</data>
+      <data key="research">interventional image, computational model, biological structures result</data>
+    </node>
+    <node id="Yusuke Matsunaga">
+      <data key="affiliation">Guest Editor</data>
+      <data key="research">experimental result, proposed method, prefix graph</data>
+    </node>
+    <node id="Cheng-Lin Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">recognition performance, Chinese Handwriting Recognition, delta feature</data>
+    </node>
+    <node id="Seong-Whan Lee">
+      <data key="affiliation">Dept. of Brain and Cognitive Eng. Korea Univ., Seoul, Korea</data>
+      <data key="research">sub-interaction model, dynamic probabilistic model, human interaction</data>
+    </node>
+    <node id="H. Ikeda">
+      <data key="affiliation">Hiroshima Univ., Hiroshima City, Japan</data>
+      <data key="research">statistical data, generalized Hiroshima University, balanced filing scheme</data>
+    </node>
+    <node id="M. Ohki">
+      <data key="affiliation">Nippon Institute of Technology</data>
+      <data key="research">program comprehension, program visualization tool</data>
+    </node>
+    <node id="Jairo Rocha">
+      <data key="affiliation">Department of Mathematics and Computer Science, Research Institute of Health Science (IUNICS), University of the Balearic Islands, 07122 Palma de Mallorca, Spain</data>
+      <data key="research">regular region, Maximal Trapezoid Set, polygonal approximation</data>
+    </node>
+    <node id="Guy Lorette">
+      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
+      <data key="research">Lexical Analyzer, new modeling method, whole dictionary</data>
+    </node>
+    <node id="Kazuki Nakashima">
+      <data key="affiliation">Nan</data>
+      <data key="research">junction pattern, frame line, form documentsForm document structure</data>
+    </node>
+    <node id="R. Mine">
+      <data key="affiliation">Hitachi Ltd., Central Research Laboratory, Tokyo, 1858601 Japan</data>
+      <data key="research">character string, character classification, character classifier</data>
+    </node>
     <node id="Yoshihiro Okada">
       <data key="affiliation">Nan</data>
       <data key="research">Intelligent Box, medical training system, collaborative environment</data>
@@ -12,88 +68,56 @@
       <data key="affiliation">Nan</data>
       <data key="research">iD PHOTO disk, magneto-optical disk, small re-writable optical disk</data>
     </node>
-    <node id="Cheng-Lin Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">recognition performance, Chinese Handwriting Recognition, delta feature</data>
-    </node>
-    <node id="R. Mine">
-      <data key="affiliation">Hitachi Ltd., Central Research Laboratory, Tokyo, 1858601 Japan</data>
-      <data key="research">character string, character classification, character classifier</data>
-    </node>
-    <node id="Éric Anquetil">
-      <data key="affiliation">INSA de Rennes, France</data>
-      <data key="research">recognition system, handwritten character recognition system, recognition process</data>
-    </node>
-    <node id="Guy Lorette">
-      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
-      <data key="research">Lexical Analyzer, new modeling method, whole dictionary</data>
-    </node>
-    <node id="M. Cheriet">
-      <data key="affiliation">Ecole de Technologie Superieure (Canada)</data>
-      <data key="research">interventional image, computational model, biological structures result</data>
-    </node>
-    <node id="H. Ikeda">
-      <data key="affiliation">Hiroshima Univ., Hiroshima City, Japan</data>
-      <data key="research">statistical data, generalized Hiroshima University, balanced filing scheme</data>
-    </node>
-    <node id="Kazuki Nakashima">
-      <data key="affiliation">Nan</data>
-      <data key="research">junction pattern, frame line, form documentsForm document structure</data>
-    </node>
-    <node id="Mounim A. El-Yacoubi">
-      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
-      <data key="research">Street Name, street line, street line image</data>
-    </node>
-    <node id="H. Fujisawa">
-      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
-      <data key="research">character recognition, recognition accuracy, document recognition</data>
-    </node>
-    <node id="Yusuke Matsunaga">
-      <data key="affiliation">Guest Editor</data>
-      <data key="research">experimental result, proposed method, prefix graph</data>
-    </node>
-    <node id="Robert E. Frederking">
-      <data key="affiliation">Language Technologies Institute, Pittsburgh, PA</data>
-      <data key="research">speech translation, machine translation system, medical speech translation</data>
-    </node>
     <node id="L Kerschberg">
       <data key="affiliation">ECenter for EBusiness and Department of Information and Software Engineering, George Mason University Drive, Fairfax, VA 220304444 USA. &lt;rfc822&gt;kersch@gmu.edu&lt;/rfc822&gt;</data>
       <data key="research">data analysis, data inheritance, data integration</data>
-    </node>
-    <node id="George Nagy">
-      <data key="affiliation">Nan</data>
-      <data key="research">relational table, web table, CSV table</data>
-    </node>
-    <node id="Jairo Rocha">
-      <data key="affiliation">Department of Mathematics and Computer Science, Research Institute of Health Science (IUNICS), University of the Balearic Islands, 07122 Palma de Mallorca, Spain</data>
-      <data key="research">regular region, Maximal Trapezoid Set, polygonal approximation</data>
-    </node>
-    <node id="Seong-Whan Lee">
-      <data key="affiliation">Dept. of Brain and Cognitive Eng. Korea Univ., Seoul, Korea</data>
-      <data key="research">sub-interaction model, dynamic probabilistic model, human interaction</data>
     </node>
     <node id="Sriharsha Veeramachaneni">
       <data key="affiliation">Utah State Univ., Logan</data>
       <data key="research">assertion-based debugger, real-time system</data>
     </node>
-    <node id="K. Marukawa">
+    <node id="H. Fujisawa">
+      <data key="affiliation">Synchromedia Lab, ETS, 1100, Notre Dame West Street, Montreal, Canada H3C 1K3</data>
+      <data key="research">character recognition, recognition accuracy, document recognition</data>
+    </node>
+    <node id="George Nagy">
       <data key="affiliation">Nan</data>
-      <data key="research">expression pattern, street number, class symbol lattice</data>
+      <data key="research">relational table, web table, CSV table</data>
     </node>
-    <node id="M. Ohki">
-      <data key="affiliation">Nippon Institute of Technology</data>
-      <data key="research">program comprehension, program visualization tool</data>
-    </node>
-    <edge source="Yoshihiro Okada" target="H. Fujisawa">
+    <edge source="Robert E. Frederking" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yoshihiro Okada" target="Seong-Whan Lee">
+    <edge source="Mounim A. El-Yacoubi" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="T. Hisamitsu" target="H. Fujisawa">
+    <edge source="Mounim A. El-Yacoubi" target="Guy Lorette">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="T. Hisamitsu" target="K. Marukawa">
+    <edge source="Mounim A. El-Yacoubi" target="M. Cheriet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Éric Anquetil" target="M. Cheriet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Éric Anquetil" target="Guy Lorette">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Marukawa" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Marukawa" target="T. Hisamitsu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cheriet" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cheriet" target="Cheng-Lin Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cheriet" target="Guy Lorette">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yusuke Matsunaga" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Cheng-Lin Liu" target="Sriharsha Veeramachaneni">
@@ -108,31 +132,10 @@
     <edge source="Cheng-Lin Liu" target="Kazuki Nakashima">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Cheng-Lin Liu" target="M. Cheriet">
+    <edge source="Seong-Whan Lee" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="R. Mine" target="H. Fujisawa">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Éric Anquetil" target="M. Cheriet">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Éric Anquetil" target="Guy Lorette">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Guy Lorette" target="H. Fujisawa">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Guy Lorette" target="Mounim A. El-Yacoubi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Guy Lorette" target="M. Cheriet">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="M. Cheriet" target="H. Fujisawa">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="M. Cheriet" target="Mounim A. El-Yacoubi">
+    <edge source="Seong-Whan Lee" target="Yoshihiro Okada">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="H. Ikeda" target="H. Fujisawa">
@@ -141,40 +144,37 @@
     <edge source="H. Ikeda" target="M. Ohki">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="M. Ohki" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jairo Rocha" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guy Lorette" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Kazuki Nakashima" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Mounim A. El-Yacoubi" target="H. Fujisawa">
+    <edge source="R. Mine" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="H. Fujisawa" target="Yusuke Matsunaga">
+    <edge source="Yoshihiro Okada" target="H. Fujisawa">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="H. Fujisawa" target="K. Marukawa">
+    <edge source="T. Hisamitsu" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L Kerschberg" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sriharsha Veeramachaneni" target="H. Fujisawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sriharsha Veeramachaneni" target="George Nagy">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="H. Fujisawa" target="George Nagy">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="Robert E. Frederking">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="Seong-Whan Lee">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="M. Ohki">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="Jairo Rocha">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="Sriharsha Veeramachaneni">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="H. Fujisawa" target="L Kerschberg">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="George Nagy" target="Sriharsha Veeramachaneni">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="D. Popescu">
+      <data key="affiliation">Nan</data>
+      <data key="research">gradient system</data>
+    </node>
+    <node id="L. Mandache">
+      <data key="affiliation">Electrical Engineering Dept., University of Craiova, Romania</data>
+      <data key="research">analysis accuracy, accurate analysis method, numerical analysis</data>
+    </node>
+    <node id="Catalin Vasilescu">
+      <data key="affiliation">UMF Carol Davila, Bucharest, Fundeni Clinical Institute, Bucharest, Romania</data>
+      <data key="research">endotoxin tolerance, endotoxin tolerance phenomenon, typical endotoxin tolerance phenomenon</data>
+    </node>
+    <node id="Daniel Popescu">
+      <data key="affiliation">Electrical Department, Technical University of Civil Engineering Bucharest, Bucharest, Romania</data>
+      <data key="research">DEB system, software system, heating system</data>
+    </node>
+    <node id="Virginia Ecaterina Oltean">
+      <data key="affiliation">Department of Control and Computers, POLITEHNICA University of Bucharest, Bucharest, Romania</data>
+      <data key="research">Rigid RobotsHybrid control, adequate control algorithm, continuous control</data>
+    </node>
+    <node id="Stefano Buzzi">
+      <data key="affiliation">Laboratory of Metal Physics and Technology, Department of Materials, ETH Zurich, WolfgangPauliStreet 10, 8093 Zurich, Switzerland</data>
+      <data key="research">optical device, silicon nitride, silicon oxide</data>
+    </node>
+    <node id="M. Despont">
+      <data key="affiliation">IBM Research, Zurich Research Laboratory, 8803 Rüschlikon, Switzerland</data>
+      <data key="research">high data rate, cantilever device, data rate</data>
+    </node>
+    <node id="Gheorghe Florea">
+      <data key="affiliation">Systems Engineering Society, SIS SA, Bucharest, Romania</data>
+      <data key="research">control room, real process, Emerging technology</data>
+    </node>
+    <node id="L. Dascalescu">
+      <data key="affiliation">Universite de Poitiers, France</data>
+      <data key="research">low-frequency active load-pull system, low-frequency drain termination, nonlinear amplifier performance</data>
+    </node>
+    <node id="M. Renaudin">
+      <data key="affiliation">Nan</data>
+      <data key="research">scalable microcontroller library element</data>
+    </node>
+    <node id="Stefan Mocanu">
+      <data key="affiliation">Politehnica  University of Bucharest, Faculty of Control and Computers, Bucharest, Romania</data>
+      <data key="research">median filter, better performance, burst loss performance</data>
+    </node>
+    <node id="Henri George Coanda">
+      <data key="affiliation">Department of Electronic,  VALAHIA  University of Targoviste, Romania</data>
+      <data key="research">temperature field, Lagrange interpolation, approximation method</data>
+    </node>
+    <node id="C. Duvanaud">
+      <data key="affiliation">LAII–ESIP (UPRES EA 1219) IUT, 4 Av de Varsovie, 16021 Angoulême, France</data>
+      <data key="research">digital filter, digital filter simulation, digital transmitter</data>
+    </node>
+    <node id="O. Homan">
+      <data key="affiliation">Nan</data>
+      <data key="research">search space, SD algorithm, electron-beam lithography</data>
+    </node>
+    <node id="Matei Dobrescu">
+      <data key="affiliation">Politehnica University of Bucharest, Romania, Faculty of Control &amp; Computers</data>
+      <data key="research">fractal dimension, digital image, image processing researcher</data>
+    </node>
+    <node id="Mihai Iordache">
+      <data key="affiliation">“Politehnica” University of Bucharest, Electrical Engineering Department, Spl. Independentei 313, Cod 77 206, Bucharest Romania. &lt;rfc822&gt;iordache@hertz.pub.ro&lt;/rfc822&gt;</data>
+      <data key="research">circuit function, behavioral model generation, RF-IC circuit</data>
+    </node>
+    <node id="F. Robin">
+      <data key="affiliation">Laboratory of Electromagnetic Fields and Microwave Electronics, Swiss Federal Institute of Technology (ETHZ), 8092 Zurich, Switzerland</data>
+      <data key="research">fitness function, SD algorithm, genetic algorithm</data>
+    </node>
+    <node id="Radu Dobrescu">
+      <data key="affiliation">Politehnica  University of Bucharest, Faculty of Control and Computers, Bucharest, Romania</data>
+      <data key="research">fractal dimension, mobile sensor network, experimental result</data>
+    </node>
+    <node id="Nicoleta Angelescu">
+      <data key="affiliation">Valahia University, Târgoviste, Romania</data>
+      <data key="research">DVB-T signal, zonal noise, textural image</data>
+    </node>
+    <node id="P. Vivet">
+      <data key="affiliation">CEA, LETI, Grenoble, France</data>
+      <data key="research">asynchronous logic, asynchronous circuit, asynchronous Network-on-Chip architecture</data>
+    </node>
+    <edge source="D. Popescu" target="Matei Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Popescu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Mandache" target="Mihai Iordache">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Catalin Vasilescu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Stefan Mocanu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Virginia Ecaterina Oltean">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Henri George Coanda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Nicoleta Angelescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Gheorghe Florea">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Popescu" target="Matei Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Virginia Ecaterina Oltean" target="Matei Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Virginia Ecaterina Oltean" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Buzzi" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Despont" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gheorghe Florea" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Dascalescu" target="Mihai Iordache">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Dascalescu" target="C. Duvanaud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Dascalescu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Dascalescu" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Renaudin" target="P. Vivet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Renaudin" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Mocanu" target="Matei Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Mocanu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Henri George Coanda" target="Matei Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Henri George Coanda" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Duvanaud" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="O. Homan" target="F. Robin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matei Dobrescu" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mihai Iordache" target="Radu Dobrescu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Robin" target="P. Vivet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radu Dobrescu" target="Nicoleta Angelescu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

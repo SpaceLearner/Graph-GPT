@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Adrian V. Sannier, II">
+      <data key="affiliation">Iowa State University</data>
+      <data key="research">design review, CAD software, Tangible Interface</data>
+    </node>
+    <node id="William Eric Marsh">
+      <data key="affiliation">Iowa State University, Ames, IA, USA</data>
+      <data key="research">ongoing spatial task, spatial memory task, DV homeless survivor</data>
+    </node>
+    <node id="Ronald Sidharta">
+      <data key="affiliation">RCAST, The University of Tokyo, Tokyo, Japan</data>
+      <data key="research">virtual object, design review, information technology</data>
+    </node>
+    <node id="Lihong Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Foreground Detection, background learning, estimated background model</data>
+    </node>
+    <node id="Erik D. Goodman">
+      <data key="affiliation">Nan</data>
+      <data key="research">Design Laminated Composite StructuresBy, Genetic Algorithms, genetic algorithm</data>
+    </node>
+    <node id="Guoliang Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Top-k query, Top-k Queries, classic algorithm</data>
+    </node>
+    <node id="Javier Echauz">
+      <data key="affiliation">Sch. of Electr. Eng., Georgia Inst. of Technol., Atlanta, GA</data>
+      <data key="research">epileptic seizure, artificial featuresIn, performance measure</data>
+    </node>
+    <node id="J. H. Oliver">
+      <data key="affiliation">Iowa Center for Emerging Manufacturing Technology, Department of Mechanical Engineering, Iowa State University, Ames, IA and 2078 Black Engineering Building, Ames, Iowa</data>
+      <data key="research">design review, virtual assembly, assembly process</data>
+    </node>
+    <node id="J. M. Vance">
+      <data key="affiliation">Iowa State Univ., Ames</data>
+      <data key="research">virtual environment, virtual assembly, virtual reality</data>
+    </node>
+    <node id="F. Merienne">
+      <data key="affiliation">Arts et Metiers ParisTech, CNRS, Le2i, Institut Image, ChalonsurSaône, France</data>
+      <data key="research">human motion capture data, virtual cockpit, reversal error</data>
+    </node>
+    <node id="Eliot Winer">
+      <data key="affiliation">Department of Mechanical Engineering, Virtual Reality Applications Center, Iowa State University, Ames, IA 50011, USA</data>
+      <data key="research">test case, digital pheromones, healthy tissue</data>
+    </node>
+    <node id="Yong Huang">
+      <data key="affiliation">Dept. of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong</data>
+      <data key="research">Bluetooth module application, Bluetooth system module application, integrated module</data>
+    </node>
+    <node id="Veronica J. Dark">
+      <data key="affiliation">Iowa State University</data>
+      <data key="research">perceptual affordances, Conceptualizing design affordances, memory load</data>
+    </node>
+    <node id="Kisung Seo">
+      <data key="affiliation">Dept. of Electronic Engineering, Seokyeong University, Seoul, Korea</data>
+      <data key="research">vertex-based encoding, quadruped robot, joint trajectory</data>
+    </node>
+    <node id="Sofiane Achiche">
+      <data key="affiliation">Department of mechanical engineering, École polytechnique de montréal, university of montreal, montreal, quebec, canada</data>
+      <data key="research">fuzzy knowledge base, fuzzy model, Type-2 fuzzy tool condition</data>
+    </node>
+    <node id="Ping Wu">
+      <data key="affiliation">University of California, Santa Barbara</data>
+      <data key="research">skyline query, structured data, aggregated data</data>
+    </node>
+    <node id="Samir Garbaya">
+      <data key="affiliation">Arts et Metiers ParisTech, CNRS, Le2i, Institut Image, ChalonsurSaône, France</data>
+      <data key="research">contact force sensation, reversal error, assembly task</data>
+    </node>
+    <node id="Brian Gilmore">
+      <data key="affiliation">Advanced Systems Engineering, John Deere Moline Technology Innovation Center, One John Deere Place, Moline, IL 61265, USA</data>
+      <data key="research">assessment tool, early assessment, immersive VR assessment tool</data>
+    </node>
+    <node id="Jonathan W. Kelly">
+      <data key="affiliation">Iowa State University</data>
+      <data key="research">reference frame, virtual environment, long-term spatial memory</data>
+    </node>
+    <node id="Dawei Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">dependent platform, runtime adjusting, energy consumption</data>
+    </node>
+    <edge source="Adrian V. Sannier, II" target="J. H. Oliver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adrian V. Sannier, II" target="Erik D. Goodman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adrian V. Sannier, II" target="Ronald Sidharta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Eric Marsh" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Eric Marsh" target="Veronica J. Dark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Eric Marsh" target="J. H. Oliver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald Sidharta" target="J. H. Oliver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Xu" target="Erik D. Goodman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihong Xu" target="Dawei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Javier Echauz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Ping Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Kisung Seo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Dawei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Yong Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Sofiane Achiche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="Guoliang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Goodman" target="J. H. Oliver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="Veronica J. Dark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="J. M. Vance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="Eliot Winer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="Samir Garbaya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="Brian Gilmore">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="F. Merienne">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. H. Oliver" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Merienne" target="Samir Garbaya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Merienne" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eliot Winer" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eliot Winer" target="Brian Gilmore">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Veronica J. Dark" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samir Garbaya" target="Jonathan W. Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

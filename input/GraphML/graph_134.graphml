@@ -4,33 +4,33 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Larry Travis">
-      <data key="affiliation">University of Wisconsin, Fladison, Wisconsin</data>
-      <data key="research">proof plan, general statement, artificial intelligence</data>
-    </node>
-    <node id="Douglas B. Lenat">
-      <data key="affiliation">Cycorp</data>
-      <data key="research">knowledge base, new heuristics, common sense knowledge</data>
-    </node>
-    <node id="William S. Faught">
-      <data key="affiliation">Stanford Artificial Intelligence Laboratory, Stanford, California</data>
-      <data key="research">natural language, natural language input, simulation model</data>
-    </node>
     <node id="Philip C. Jackson">
       <data key="affiliation">Giordano Associates Inc., Sparta, N.J.</data>
       <data key="research">measurement capability, MHz functional digital repetition, functional digital stimulus</data>
-    </node>
-    <node id="David J. McArthur">
-      <data key="affiliation">The Rand Corporation, Santa Monica, CA</data>
-      <data key="research">object-oriented language, First ROSS, multiple aircraft</data>
     </node>
     <node id="S J Rosenschein">
       <data key="affiliation">The Rand Corporation, Santa Monica, California</data>
       <data key="research">production system, abstract data structure, data structure</data>
     </node>
-    <node id="John W. Ellis">
+    <node id="Philip Klahr">
+      <data key="affiliation">System Development Corporation, Santa Monica, CA</data>
+      <data key="research">question-answering system, proof plan, DADM system display</data>
+    </node>
+    <node id="Antoine Abche">
       <data key="affiliation">Nan</data>
-      <data key="research">enemy force, associated training cost, better environmental data</data>
+      <data key="research">expert system, real-time expert system, system condition</data>
+    </node>
+    <node id="Bhashyam Ramesh">
+      <data key="affiliation">Nan</data>
+      <data key="research">expert system, real-time expert system, system condition</data>
+    </node>
+    <node id="Charles Kellogg">
+      <data key="affiliation">Intellectronics Laboratories, Canoga Park, California</data>
+      <data key="research">proof plan, data management system, structured data</data>
+    </node>
+    <node id="A. Carlisle Scott">
+      <data key="affiliation">Nan</data>
+      <data key="research">Innovative Applications, Innovative application, Artificial IntelligenceProceedings</data>
     </node>
     <node id="L. D. Erman">
       <data key="affiliation">Department of Computer and Information Science, University of Mass., Amherst, Mass. and Department of Computer Science, CarnegieMellon University, Pittsburgh, PA</data>
@@ -40,84 +40,57 @@
       <data key="affiliation">Naval Postgraduate School, Monterey, California</data>
       <data key="research">information superiority, Radical Simplicity, Me-Centric computing</data>
     </node>
-    <node id="Charles Kellogg">
-      <data key="affiliation">Intellectronics Laboratories, Canoga Park, California</data>
-      <data key="research">proof plan, data management system, structured data</data>
-    </node>
-    <node id="Robert E. Veres">
+    <node id="John W. Ellis">
       <data key="affiliation">Nan</data>
-      <data key="research">cross-functional product-process design team, design application, design tool</data>
+      <data key="research">enemy force, associated training cost, better environmental data</data>
     </node>
-    <node id="A. Carlisle Scott">
-      <data key="affiliation">Nan</data>
-      <data key="research">Innovative Applications, Innovative application, Artificial IntelligenceProceedings</data>
-    </node>
-    <node id="J. Davidson">
-      <data key="affiliation">ORI, Inc., Rockville, MD</data>
-      <data key="research">Spectrum Orbit Utilization Program, direct broadcast satellite service, direct broadcast service</data>
-    </node>
-    <node id="Donald A. Waterman">
-      <data key="affiliation">The Rand Corp., Santa Monica, CA</data>
-      <data key="research">EP agent, Exemplary Programming, expert system</data>
-    </node>
-    <node id="Bhashyam Ramesh">
-      <data key="affiliation">Nan</data>
-      <data key="research">expert system, real-time expert system, system condition</data>
-    </node>
-    <node id="Antoine Abche">
-      <data key="affiliation">Nan</data>
-      <data key="research">expert system, real-time expert system, system condition</data>
-    </node>
-    <node id="Philip Klahr">
-      <data key="affiliation">System Development Corporation, Santa Monica, CA</data>
-      <data key="research">question-answering system, proof plan, DADM system display</data>
-    </node>
-    <node id="Sanjai Narian">
-      <data key="affiliation">Telcordia</data>
-      <data key="research">configuration parameter, configuration error, configuration error diagnosis</data>
+    <node id="David J. McArthur">
+      <data key="affiliation">The Rand Corporation, Santa Monica, CA</data>
+      <data key="research">object-oriented language, First ROSS, multiple aircraft</data>
     </node>
     <node id="D. Raj Reddy">
       <data key="affiliation">CarnegieMellon University, Pittsburgh, Pennsylvania</data>
       <data key="research">independent process, Hearsay system, system organization</data>
     </node>
+    <node id="Donald A. Waterman">
+      <data key="affiliation">The Rand Corp., Santa Monica, CA</data>
+      <data key="research">EP agent, Exemplary Programming, expert system</data>
+    </node>
+    <node id="Robert E. Veres">
+      <data key="affiliation">Nan</data>
+      <data key="research">cross-functional product-process design team, design application, design tool</data>
+    </node>
+    <node id="Douglas B. Lenat">
+      <data key="affiliation">Cycorp</data>
+      <data key="research">knowledge base, new heuristics, common sense knowledge</data>
+    </node>
+    <node id="J. Davidson">
+      <data key="affiliation">ORI, Inc., Rockville, MD</data>
+      <data key="research">Spectrum Orbit Utilization Program, direct broadcast satellite service, direct broadcast service</data>
+    </node>
+    <node id="Larry Travis">
+      <data key="affiliation">University of Wisconsin, Fladison, Wisconsin</data>
+      <data key="research">proof plan, general statement, artificial intelligence</data>
+    </node>
     <node id="David J. Mostow">
       <data key="affiliation">CarnegieMellon University, Pittsburgh, PA</data>
       <data key="research">compilable recognition network, recognition network, Hearsay-II speech understanding system</data>
     </node>
-    <edge source="Larry Travis" target="Charles Kellogg">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Larry Travis" target="Philip Klahr">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Douglas B. Lenat" target="Philip Klahr">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Douglas B. Lenat" target="Donald A. Waterman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Douglas B. Lenat" target="Frederick Hayes-Roth">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="William S. Faught" target="S J Rosenschein">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="William S. Faught" target="Donald A. Waterman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="William S. Faught" target="Philip Klahr">
-      <data key="relation">collaborate</data>
-    </edge>
+    <node id="William S. Faught">
+      <data key="affiliation">Stanford Artificial Intelligence Laboratory, Stanford, California</data>
+      <data key="research">natural language, natural language input, simulation model</data>
+    </node>
+    <node id="Sanjai Narian">
+      <data key="affiliation">Telcordia</data>
+      <data key="research">configuration parameter, configuration error, configuration error diagnosis</data>
+    </node>
     <edge source="Philip C. Jackson" target="Robert E. Veres">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Philip C. Jackson" target="Philip Klahr">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="David J. McArthur" target="Sanjai Narian">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="David J. McArthur" target="Philip Klahr">
+    <edge source="S J Rosenschein" target="William S. Faught">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S J Rosenschein" target="Donald A. Waterman">
@@ -129,25 +102,64 @@
     <edge source="S J Rosenschein" target="Frederick Hayes-Roth">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="John W. Ellis" target="Philip Klahr">
+    <edge source="Philip Klahr" target="Frederick Hayes-Roth">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="John W. Ellis" target="Sanjai Narian">
+    <edge source="Philip Klahr" target="John W. Ellis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Antoine Abche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Larry Travis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="David J. Mostow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Sanjai Narian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Charles Kellogg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Douglas B. Lenat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Robert E. Veres">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="A. Carlisle Scott">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="William S. Faught">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Donald A. Waterman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="David J. McArthur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philip Klahr" target="Bhashyam Ramesh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antoine Abche" target="Bhashyam Ramesh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Charles Kellogg" target="Larry Travis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Carlisle Scott" target="L. D. Erman">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="L. D. Erman" target="Frederick Hayes-Roth">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="L. D. Erman" target="A. Carlisle Scott">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="L. D. Erman" target="D. Raj Reddy">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="L. D. Erman" target="J. Davidson">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Frederick Hayes-Roth" target="Philip Klahr">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Frederick Hayes-Roth" target="D. Raj Reddy">
@@ -162,31 +174,19 @@
     <edge source="Frederick Hayes-Roth" target="David J. Mostow">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Charles Kellogg" target="Philip Klahr">
+    <edge source="Frederick Hayes-Roth" target="Douglas B. Lenat">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Robert E. Veres" target="Philip Klahr">
+    <edge source="John W. Ellis" target="Sanjai Narian">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="A. Carlisle Scott" target="Philip Klahr">
+    <edge source="David J. McArthur" target="Sanjai Narian">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Donald A. Waterman" target="Philip Klahr">
+    <edge source="Donald A. Waterman" target="William S. Faught">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bhashyam Ramesh" target="Antoine Abche">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Bhashyam Ramesh" target="Philip Klahr">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Antoine Abche" target="Philip Klahr">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Philip Klahr" target="David J. Mostow">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Philip Klahr" target="Sanjai Narian">
+    <edge source="Donald A. Waterman" target="Douglas B. Lenat">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

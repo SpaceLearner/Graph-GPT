@@ -1,56 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-Satoshi Kobayashi	4
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Etsuji Tomita	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kengo Sato	{'relation': 'collaborate'}
-Kensei Tsuchida	3
-Tetsuro Nishino	{'relation': 'collaborate'}
-Takeo Yaku	{'relation': 'collaborate'}
-Hiroshi Unno	{'relation': 'collaborate'}
-Kengo Sato	3
-Tetsuro Nishino	{'relation': 'collaborate'}
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Etsuji Tomita	{'relation': 'collaborate'}
-Takashi Mihara	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Etsuji Tomita	2
-Tetsuro Nishino	{'relation': 'collaborate'}
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Tadashi Yamazaki	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kazutoshi Sasahara	3
-Tetsuro Nishino	{'relation': 'collaborate'}
-Miki Takahasi	{'relation': 'collaborate'}
-Kazuo Okanoya	{'relation': 'collaborate'}
-Miki Takahasi	2
-Kazuo Okanoya	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Emiko Suzuki	2
-Tetsunosuke Fujisaki	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kazuo Ohta	2
-Noboru Kunihiro	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Kazuo Okanoya	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Takeo Yaku	2
-Hiroshi Unno	{'relation': 'collaborate'}
-Tetsuro Nishino	{'relation': 'collaborate'}
-Junji Nishino	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsunosuke Fujisaki	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Hiroshi Unno	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Noboru Kunihiro	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Robert Beals	1
-Tetsuro Nishino	{'relation': 'collaborate'}
-Tetsuro Nishino	2
-Setsuo Yamada	{'relation': 'collaborate'}
-Yasubumi Sakakibara	{'relation': 'collaborate'}
-Setsuo Yamada	0
-Yasubumi Sakakibara	0
+Junji Nishino	Tetsuro Nishino
+Etsuji Tomita	Tetsuro Nishino	Satoshi Kobayashi	Yasubumi Sakakibara	Kengo Sato
+Noboru Kunihiro	Kazuo Ohta	Tetsuro Nishino
+Tetsuro Nishino	Kengo Sato	Kensei Tsuchida	Tadashi Yamazaki	Takashi Mihara	Takeo Yaku	Hiroshi Unno	Setsuo Yamada	Satoshi Kobayashi	Kazutoshi Sasahara	Emiko Suzuki	Tetsunosuke Fujisaki	Miki Takahasi	Yasubumi Sakakibara	Kazuo Ohta	Robert Beals	Kazuo Okanoya
+Emiko Suzuki	Tetsunosuke Fujisaki
+Tadashi Yamazaki
+Kensei Tsuchida	Takeo Yaku	Hiroshi Unno
+Robert Beals
+Satoshi Kobayashi	Yasubumi Sakakibara	Kengo Sato
+Yasubumi Sakakibara	Kengo Sato
+Takashi Mihara
+Kazuo Okanoya	Miki Takahasi	Kazutoshi Sasahara
+Kazuo Ohta
+Miki Takahasi	Kazutoshi Sasahara
+Takeo Yaku	Hiroshi Unno
+Setsuo Yamada
+Hiroshi Unno
+Tetsunosuke Fujisaki
+Kengo Sato
+Kazutoshi Sasahara

@@ -1,60 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Mon-Song Chen	3
-A. Kershenbaum	{'relation': 'collaborate'}
-T. P. Barzilai	{'relation': 'collaborate'}
-Harrick M. Vin	{'relation': 'collaborate'}
-James P. Gray	4
-D. Pozefsky	{'relation': 'collaborate'}
-A E Baratz	{'relation': 'collaborate'}
-J M Jaffe	{'relation': 'collaborate'}
-Paul E. Green, Jr.	{'relation': 'collaborate'}
-Y. Ofek	1
-T. P. Barzilai	{'relation': 'collaborate'}
-T. P. Barzilai	9
-Erich M. Nahum	{'relation': 'collaborate'}
-Ashish Mehra	{'relation': 'collaborate'}
-Harrick M. Vin	{'relation': 'collaborate'}
-Z.-Y. Shae	{'relation': 'collaborate'}
-Adrain Segall	{'relation': 'collaborate'}
-P. Kermani	{'relation': 'collaborate'}
-Debanjan Saha	{'relation': 'collaborate'}
-R. A. Sultan	{'relation': 'collaborate'}
-A E Baratz	{'relation': 'collaborate'}
-A. Kershenbaum	1
-P. Kermani	{'relation': 'collaborate'}
-Z.-Y. Shae	1
-Debanjan Saha	{'relation': 'collaborate'}
-Baruch Awerbuch	3
-I S Gopal	{'relation': 'collaborate'}
-David Peleg	{'relation': 'collaborate'}
-A E Baratz	{'relation': 'collaborate'}
-A E Baratz	8
-D. Pozefsky	{'relation': 'collaborate'}
-P. Kermani	{'relation': 'collaborate'}
-David Peleg	{'relation': 'collaborate'}
-J M Jaffe	{'relation': 'collaborate'}
-Adrain Segall	{'relation': 'collaborate'}
-I S Gopal	{'relation': 'collaborate'}
-R. A. Sultan	{'relation': 'collaborate'}
-Paul E. Green, Jr.	{'relation': 'collaborate'}
-P. Kermani	1
-R. A. Sultan	{'relation': 'collaborate'}
-Harrick M. Vin	0
-David Peleg	0
-Ashish Mehra	1
-Debanjan Saha	{'relation': 'collaborate'}
-Erich M. Nahum	0
-I S Gopal	1
-Adrain Segall	{'relation': 'collaborate'}
-J M Jaffe	3
-Adrain Segall	{'relation': 'collaborate'}
-Paul E. Green, Jr.	{'relation': 'collaborate'}
-D. Pozefsky	{'relation': 'collaborate'}
-Debanjan Saha	0
-Adrain Segall	0
-D. Pozefsky	1
-Paul E. Green, Jr.	{'relation': 'collaborate'}
-Paul E. Green, Jr.	0
-R. A. Sultan	0
+James P. Gray	D. Pozefsky	A E Baratz	J M Jaffe	Paul E. Green, Jr.
+Baruch Awerbuch	I S Gopal	David Peleg	A E Baratz
+J M Jaffe	Adrain Segall	A E Baratz	Paul E. Green, Jr.	D. Pozefsky
+Adrain Segall	T. P. Barzilai	I S Gopal	A E Baratz
+Paul E. Green, Jr.	D. Pozefsky	A E Baratz
+Ashish Mehra	Debanjan Saha	T. P. Barzilai
+Y. Ofek	T. P. Barzilai
+A E Baratz	D. Pozefsky	P. Kermani	David Peleg	T. P. Barzilai	I S Gopal	R. A. Sultan
+R. A. Sultan	T. P. Barzilai	P. Kermani
+Mon-Song Chen	A. Kershenbaum	T. P. Barzilai	Harrick M. Vin
+David Peleg
+T. P. Barzilai	Erich M. Nahum	Harrick M. Vin	Z.-Y. Shae	P. Kermani	Debanjan Saha
+P. Kermani	A. Kershenbaum
+I S Gopal
+Debanjan Saha	Z.-Y. Shae
+A. Kershenbaum
+Harrick M. Vin
+Erich M. Nahum
+D. Pozefsky
+Z.-Y. Shae

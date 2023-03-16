@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:13 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-Larry Travis	2
-Charles Kellogg	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-Douglas B. Lenat	3
-Philip Klahr	{'relation': 'collaborate'}
-Donald A. Waterman	{'relation': 'collaborate'}
-Frederick Hayes-Roth	{'relation': 'collaborate'}
-William S. Faught	3
-S J Rosenschein	{'relation': 'collaborate'}
-Donald A. Waterman	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-Philip C. Jackson	2
-Robert E. Veres	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-David J. McArthur	2
-Sanjai Narian	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-S J Rosenschein	3
-Donald A. Waterman	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-Frederick Hayes-Roth	{'relation': 'collaborate'}
-John W. Ellis	2
-Philip Klahr	{'relation': 'collaborate'}
-Sanjai Narian	{'relation': 'collaborate'}
-L. D. Erman	4
-Frederick Hayes-Roth	{'relation': 'collaborate'}
-A. Carlisle Scott	{'relation': 'collaborate'}
-D. Raj Reddy	{'relation': 'collaborate'}
-J. Davidson	{'relation': 'collaborate'}
-Frederick Hayes-Roth	5
-Philip Klahr	{'relation': 'collaborate'}
-D. Raj Reddy	{'relation': 'collaborate'}
-J. Davidson	{'relation': 'collaborate'}
-Donald A. Waterman	{'relation': 'collaborate'}
-David J. Mostow	{'relation': 'collaborate'}
-Charles Kellogg	1
-Philip Klahr	{'relation': 'collaborate'}
-Robert E. Veres	1
-Philip Klahr	{'relation': 'collaborate'}
-A. Carlisle Scott	1
-Philip Klahr	{'relation': 'collaborate'}
-J. Davidson	0
-Donald A. Waterman	1
-Philip Klahr	{'relation': 'collaborate'}
-Bhashyam Ramesh	2
-Antoine Abche	{'relation': 'collaborate'}
-Philip Klahr	{'relation': 'collaborate'}
-Antoine Abche	1
-Philip Klahr	{'relation': 'collaborate'}
-Philip Klahr	2
-David J. Mostow	{'relation': 'collaborate'}
-Sanjai Narian	{'relation': 'collaborate'}
-Sanjai Narian	0
-D. Raj Reddy	0
-David J. Mostow	0
+Philip C. Jackson	Robert E. Veres	Philip Klahr
+S J Rosenschein	William S. Faught	Donald A. Waterman	Philip Klahr	Frederick Hayes-Roth
+Philip Klahr	Frederick Hayes-Roth	John W. Ellis	Antoine Abche	Larry Travis	David J. Mostow	Sanjai Narian	Charles Kellogg	Douglas B. Lenat	Robert E. Veres	A. Carlisle Scott	William S. Faught	Donald A. Waterman	David J. McArthur	Bhashyam Ramesh
+Antoine Abche	Bhashyam Ramesh
+Bhashyam Ramesh
+Charles Kellogg	Larry Travis
+A. Carlisle Scott	L. D. Erman
+L. D. Erman	Frederick Hayes-Roth	D. Raj Reddy	J. Davidson
+Frederick Hayes-Roth	D. Raj Reddy	J. Davidson	Donald A. Waterman	David J. Mostow	Douglas B. Lenat
+John W. Ellis	Sanjai Narian
+David J. McArthur	Sanjai Narian
+D. Raj Reddy
+Donald A. Waterman	William S. Faught	Douglas B. Lenat
+Robert E. Veres
+Douglas B. Lenat
+J. Davidson
+Larry Travis
+David J. Mostow
+William S. Faught
+Sanjai Narian

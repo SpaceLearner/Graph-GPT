@@ -1,46 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:05 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-Heping Ding	1
-Lin Wang	{'relation': 'collaborate'}
-Guowei Gu	1
-Lin Wang	{'relation': 'collaborate'}
-Xin Min	1
-Lin Wang	{'relation': 'collaborate'}
-Xiuling Zhou	1
-Lin Wang	{'relation': 'collaborate'}
-Yinghua Lu	2
-Lin Wang	{'relation': 'collaborate'}
-Chengqing Zong	{'relation': 'collaborate'}
-Yuan Fang	1
-Lin Wang	{'relation': 'collaborate'}
-Chengqing Zong	1
-Lin Wang	{'relation': 'collaborate'}
-Lin Wang	12
-Minping Qian	{'relation': 'collaborate'}
-Ajith Abraham	{'relation': 'collaborate'}
-Lindsay J. Groves	{'relation': 'collaborate'}
-Lizhi Peng	{'relation': 'collaborate'}
-Hitomi Sato	{'relation': 'collaborate'}
-Shaohua Teng	{'relation': 'collaborate'}
-Yingying Tan	{'relation': 'collaborate'}
-Vanessa Evers	{'relation': 'collaborate'}
-Qi Yin	{'relation': 'collaborate'}
-Wei-Chang Yeh	{'relation': 'collaborate'}
-Guohua Geng	{'relation': 'collaborate'}
-Xiaona Yan	{'relation': 'collaborate'}
-Vanessa Evers	0
-Ajith Abraham	2
-Lizhi Peng	{'relation': 'collaborate'}
-Ajith Abraham	{'relation': 'collaborate'}
-Wei-Chang Yeh	0
-Hitomi Sato	0
-Minping Qian	0
-Guohua Geng	0
-Lindsay J. Groves	0
-Xiaona Yan	1
-Yingying Tan	{'relation': 'collaborate'}
-Shaohua Teng	0
-Lizhi Peng	0
-Yingying Tan	0
-Qi Yin	0
+Xiaona Yan	Lin Wang	Yingying Tan
+Vanessa Evers	Lin Wang
+Minping Qian	Lin Wang
+Yingying Tan	Lin Wang
+Guowei Gu	Lin Wang
+Guohua Geng	Lin Wang
+Wei-Chang Yeh	Lin Wang
+Lizhi Peng	Ajith Abraham	Lin Wang
+Shaohua Teng	Lin Wang
+Lin Wang	Heping Ding	Yinghua Lu	Xiuling Zhou	Ajith Abraham	Lindsay J. Groves	Hitomi Sato	Qi Yin	Xin Min	Chengqing Zong	Yuan Fang
+Lindsay J. Groves
+Xin Min
+Chengqing Zong	Yinghua Lu
+Ajith Abraham	Ajith Abraham
+Qi Yin
+Hitomi Sato
+Yuan Fang
+Yinghua Lu
+Heping Ding
+Xiuling Zhou

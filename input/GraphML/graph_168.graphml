@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Shi-Jinn Horng">
+      <data key="affiliation">Nan</data>
+      <data key="research">hardware resource, Hardware Resource Manager, resource index</data>
+    </node>
+    <node id="Takashi Ishikawa">
+      <data key="affiliation">Nan</data>
+      <data key="research">Cone-Beam CT, accurate registration, higher accuracy</data>
+    </node>
+    <node id="Isao Ono">
+      <data key="affiliation">Interdisciplinary Graduate School of Science and Engineering, Tokyo Institute of Technology, Japan</data>
+      <data key="research">population diversity, entropy-based diversity measure, proposed entropy-based diversity measure</data>
+    </node>
+    <node id="Koichi Hori">
+      <data key="affiliation">National Institute of Japanese Literature, Tokyo, Japan</data>
+      <data key="research">support system, information system, personal information storage system</data>
+    </node>
+    <node id="Satoru Takahashi">
+      <data key="affiliation">Department of Intelligent Mechanical Systems Engineering, Kagawa University, TakamatsuCity, Japan</data>
+      <data key="research">mobile robot, range sensor, obstacle information</data>
+    </node>
+    <node id="Akira Namatame">
+      <data key="affiliation">Dept. of Comput. Sci., Nat. Defense Acad., Yokosuka, Japan</data>
+      <data key="research">complex network, knowledge transaction, symmetric network</data>
+    </node>
+    <node id="Takashi Yamada">
+      <data key="affiliation">Department of Electrical Engineering, Hokkaido University, Kita 13, Nishi 8, Sapporo 0608628, Japan yamada@sapiensei.eng.hokudai.ac.jp</data>
+      <data key="research">single-electron circuit, Analog Computation, combinatorial problem</data>
+    </node>
+    <node id="Toyoaki Nishida">
+      <data key="affiliation">Nan</data>
+      <data key="research">SocietyObtaining new information, Towards Informatics Education, direct observation</data>
+    </node>
+    <node id="Atsushi Yoshikawa">
+      <data key="affiliation">Tokyo Institute of Technology, Japan Interdisciplinary Graduate School of Engineering Sciences</data>
+      <data key="research">sales pattern, blog information, book sales data</data>
+    </node>
+    <node id="Shigenori Inagaki">
+      <data key="affiliation">Tama Art University, Hachioji, Tokyo 1920394, Japan.</data>
+      <data key="research">AR system, edutainment system, next-generation audio-guide system</data>
+    </node>
+    <node id="Setsuya Kurahashi">
+      <data key="affiliation">Nan</data>
+      <data key="research">personal video, conventional image retrieval method, degraded image</data>
+    </node>
+    <node id="Yuan-Hsin Chen">
+      <data key="affiliation">Dept. of Electronic Engineering, National United University, MiaoLi 36003, Taiwan</data>
+      <data key="research">secret image, experimental result, share image</data>
+    </node>
+    <node id="Satoshi Takahashi">
+      <data key="affiliation">Nan</data>
+      <data key="research">AR system, AR display, Hands-On Display</data>
+    </node>
+    <node id="Masakazu Takahashi">
+      <data key="affiliation">Faculty of Education, Gunma University, Gunma, Japan</data>
+      <data key="research">requirement specification, proposed method, keyword information</data>
+    </node>
+    <node id="Rong-Jian Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">automatic test system, Op-based potentiostat, improved OP-based three-electrode potentiostat</data>
+    </node>
+    <node id="Hiroshi Takahashi">
+      <data key="affiliation">Nan</data>
+      <data key="research">potential solution set, solution space, multiple open-interconnects</data>
+    </node>
+    <node id="Yi Pan">
+      <data key="affiliation">Nan</data>
+      <data key="research">previous ACCs, Anti-Collusion Codes, collusion attack</data>
+    </node>
+    <node id="Hiroshi Hatakama">
+      <data key="affiliation">Hiroshi Hatakama, Fujitsu Limited</data>
+      <data key="research">organizational learning, intellectual activity, multi-agent model</data>
+    </node>
+    <node id="Huan Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computational Methods, Crc Data Mining, Feature Selection</data>
+    </node>
+    <node id="Takao Terano">
+      <data key="affiliation">Nan</data>
+      <data key="research">intelligent agent, intelligent problem solver agent, intelligent system</data>
+    </node>
+    <edge source="Shi-Jinn Horng" target="Rong-Jian Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shi-Jinn Horng" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shi-Jinn Horng" target="Yi Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shi-Jinn Horng" target="Yuan-Hsin Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takashi Ishikawa" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Isao Ono" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Isao Ono" target="Setsuya Kurahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Koichi Hori" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoru Takahashi" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoru Takahashi" target="Masakazu Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoru Takahashi" target="Hiroshi Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akira Namatame" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akira Namatame" target="Toyoaki Nishida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takashi Yamada" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takashi Yamada" target="Masakazu Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takashi Yamada" target="Atsushi Yoshikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toyoaki Nishida" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Atsushi Yoshikawa" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Atsushi Yoshikawa" target="Shigenori Inagaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Atsushi Yoshikawa" target="Satoshi Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigenori Inagaki" target="Satoshi Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigenori Inagaki" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Setsuya Kurahashi" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan-Hsin Chen" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan-Hsin Chen" target="Rong-Jian Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Takahashi" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masakazu Takahashi" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masakazu Takahashi" target="Hiroshi Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong-Jian Chen" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Takahashi" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Pan" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Hatakama" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huan Liu" target="Takao Terano">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

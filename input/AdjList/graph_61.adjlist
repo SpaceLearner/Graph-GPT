@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-Hideki Shima	11
-Adam Lally	{'relation': 'collaborate'}
-Takahiro Nishino	{'relation': 'collaborate'}
-Hiroshi Kanayama	{'relation': 'collaborate'}
-Mengqiu Wang	{'relation': 'collaborate'}
-B. K. Boguraev	{'relation': 'collaborate'}
-Teruko Mitamura	{'relation': 'collaborate'}
-Frank Lin	{'relation': 'collaborate'}
-James Fan	{'relation': 'collaborate'}
-J. William Murdock	{'relation': 'collaborate'}
-Satoshi Tanaka	{'relation': 'collaborate'}
-Yusuke Miyao	{'relation': 'collaborate'}
-Frank Lin	2
-Mengqiu Wang	{'relation': 'collaborate'}
-Teruko Mitamura	{'relation': 'collaborate'}
-Wang Sheng	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Keiji Yano	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Hironori Kasahara	1
-Satoshi Tanaka	{'relation': 'collaborate'}
-Satoshi Tanaka	6
-Shinji Doi	{'relation': 'collaborate'}
-Tsutomu Terada	{'relation': 'collaborate'}
-Tadanori Mizuno	{'relation': 'collaborate'}
-T. Suda	{'relation': 'collaborate'}
-Jorji Nonaka	{'relation': 'collaborate'}
-Takahiro Nishino	{'relation': 'collaborate'}
-T. Suda	0
-J. William Murdock	3
-James Fan	{'relation': 'collaborate'}
-Adam Lally	{'relation': 'collaborate'}
-B. K. Boguraev	{'relation': 'collaborate'}
-Jorji Nonaka	0
-Takahiro Nishino	0
-Adam Lally	2
-B. K. Boguraev	{'relation': 'collaborate'}
-James Fan	{'relation': 'collaborate'}
-Tsutomu Terada	0
-James Fan	1
-B. K. Boguraev	{'relation': 'collaborate'}
-Shinji Doi	0
-Tadanori Mizuno	0
-Hiroshi Kanayama	2
-Yusuke Miyao	{'relation': 'collaborate'}
-Teruko Mitamura	{'relation': 'collaborate'}
-Mengqiu Wang	1
-Teruko Mitamura	{'relation': 'collaborate'}
-Teruko Mitamura	1
-Yusuke Miyao	{'relation': 'collaborate'}
-B. K. Boguraev	0
-Yusuke Miyao	0
+Hironori Kasahara	Satoshi Tanaka
+Yusuke Miyao	Teruko Mitamura	Hiroshi Kanayama	Hideki Shima
+B. K. Boguraev	Hideki Shima	James Fan	J. William Murdock	Adam Lally
+Shinji Doi	Satoshi Tanaka
+Wang Sheng	Satoshi Tanaka
+James Fan	J. William Murdock	Hideki Shima	Adam Lally
+Adam Lally	Hideki Shima	J. William Murdock
+Teruko Mitamura	Frank Lin	Hideki Shima	Mengqiu Wang	Hiroshi Kanayama
+Takahiro Nishino	Hideki Shima	Satoshi Tanaka
+Tsutomu Terada	Satoshi Tanaka
+Mengqiu Wang	Frank Lin	Hideki Shima
+T. Suda	Satoshi Tanaka
+Keiji Yano	Satoshi Tanaka
+Tadanori Mizuno	Satoshi Tanaka
+Satoshi Tanaka	Jorji Nonaka	Hideki Shima
+Hideki Shima	Hiroshi Kanayama	Frank Lin	J. William Murdock
+J. William Murdock
+Frank Lin
+Hiroshi Kanayama
+Jorji Nonaka

@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hao Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">machine olfaction, New Processing Technique, Chinese Herbal Medicine</data>
+    </node>
+    <node id="Mau-Chung Frank Chang">
+      <data key="affiliation">University of California, Los Angels, CA</data>
+      <data key="research">stream arbitration, delay variation, representative token arbitration scheme</data>
+    </node>
+    <node id="Gaolin Fang">
+      <data key="affiliation">Fujitsu Research and Development Center, Co., LTD., Beijing, China</data>
+      <data key="research">proposed method, experimental result, large vocabulary sign language</data>
+    </node>
+    <node id="Satoshi Naoi">
+      <data key="affiliation">Fujitsu Laboratories Ltd., Japan/ Tokyo Institute of Technology, Japan</data>
+      <data key="research">experimental result, proposed method, recognition rate</data>
+    </node>
+    <node id="Wei Fei">
+      <data key="affiliation">Nan</data>
+      <data key="research">Digital Audio, Video Media Resource Management, SystemThis paper</data>
+    </node>
+    <node id="Jun Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">Single-Step KOMP, OMP algorithm, proposed Kernel OMP</data>
+    </node>
+    <node id="Lei Fu">
+      <data key="affiliation">Nan</data>
+      <data key="research">soft outage, Radio Resource Allocation, Hard QoS</data>
+    </node>
+    <node id="Haoliang Qi">
+      <data key="affiliation">Nan</data>
+      <data key="research">Sina Microblog, Mining Parallel Corpus, challenging task</data>
+    </node>
+    <node id="Yutaka Katsuyama">
+      <data key="affiliation">Osaka Prefecture University, Japan</data>
+      <data key="research">experimental result, drop multiplexers, experimental network</data>
+    </node>
+    <node id="Bingru Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Chinese natural language model, immediate-head language model, language complexity</data>
+    </node>
+    <node id="Yiwen Fu">
+      <data key="affiliation">Beijing University of Posts and Telecommunications, Beijing, China, 100876, beijing, China</data>
+      <data key="research">video game, predator game genre, Game Opponent</data>
+    </node>
+    <node id="Yao Meng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Polarity Analysis, polarity class association, relation polarity analysis</data>
+    </node>
+    <node id="Lei He">
+      <data key="affiliation">Library of Congress, Washington, D.C.</data>
+      <data key="research">linear programming technique, linear form, linear programming formulation</data>
+    </node>
+    <node id="Sheng Li">
+      <data key="affiliation">Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China</data>
+      <data key="research">visual synthesis method, Phoneme-level articulatory animation, articulatory animation</data>
+    </node>
+    <node id="Peng Xu">
+      <data key="affiliation">College of Computer Science and Technology, Beijing University of Technology, Beijing, China 100124</data>
+      <data key="research">B92 protocol, quantum image, B92-based QPQ protocol</data>
+    </node>
+    <node id="Youzheng Wu">
+      <data key="affiliation">Institute of Automation, Beijing, China</data>
+      <data key="research">Entity Recognition, statistical model, question classification</data>
+    </node>
+    <node id="Kai Zhang">
+      <data key="affiliation">School of Electric Engineering and Automation, Tianjin University, Tianjin, China</data>
+      <data key="research">clustering outcome, clustering evaluation, validity index</data>
+    </node>
+    <node id="Fumihito Nishino">
+      <data key="affiliation">Fujitsu R&amp;D Center Co., Ltd., Beijing P. R. China</data>
+      <data key="research">proposed method, new word, effective Web page</data>
+    </node>
+    <node id="Jianmin Yao">
+      <data key="affiliation">School of Information Science and Technology, Laboratory of Photoelectric Imaging and Information Engineering, Beijing Institute of Technology, Beijing, China</data>
+      <data key="research">gabor wavelet neural network, neural network, image target recognition</data>
+    </node>
+    <node id="Terunobu Kume">
+      <data key="affiliation">FUJITSU LABORATORIES LTD, Kawasaki, Japan 2118588</data>
+      <data key="research">web application, Web API, Web APIs</data>
+    </node>
+    <edge source="Hao Yu" target="Bingru Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Yao Meng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Youzheng Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Lei He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Kai Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Jun Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Yiwen Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Haoliang Qi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Mau-Chung Frank Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Sheng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Jianmin Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Wei Fei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Gaolin Fang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Peng Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Yutaka Katsuyama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Satoshi Naoi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Yu" target="Lei Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mau-Chung Frank Chang" target="Lei He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaolin Fang" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Naoi" target="Jun Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Naoi" target="Yutaka Katsuyama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Naoi" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sun" target="Yutaka Katsuyama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sun" target="Jianmin Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sun" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Fu" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Fu" target="Terunobu Kume">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Fu" target="Yao Meng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haoliang Qi" target="Sheng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yutaka Katsuyama" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yiwen Fu" target="Yao Meng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Meng" target="Fumihito Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng Li" target="Jianmin Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumihito Nishino" target="Terunobu Kume">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

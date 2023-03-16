@@ -1,59 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:15 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:22 2023
 # 
-Hsu-Jung Liu	1
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Haneul Ko	1
-Jong-Hyouk Lee	{'relation': 'collaborate'}
-Wei-Shuo Li	5
-Chun-Wei Tsai	{'relation': 'collaborate'}
-Jong-Hyouk Lee	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Min Chen	{'relation': 'collaborate'}
-Chu-Sing Yang	{'relation': 'collaborate'}
-Sing-Liang Chen	2
-Yu-Chang Chen	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Chun-Wei Tsai	4
-Jong-Hyouk Lee	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Min Chen	{'relation': 'collaborate'}
-Chu-Sing Yang	{'relation': 'collaborate'}
-Min Chen	2
-Chu-Sing Yang	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Chu-Sing Yang	2
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Yu-Chang Chen	{'relation': 'collaborate'}
-Joong-Hee Lee	1
-Jong-Hyouk Lee	{'relation': 'collaborate'}
-Chih-Hung Lin	1
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-T. C. Cheng	4
-T. K. Truong	{'relation': 'collaborate'}
-L. J. Wang	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-I. S. Reed	{'relation': 'collaborate'}
-L. J. Wang	3
-T. K. Truong	{'relation': 'collaborate'}
-I. S. Reed	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	{'relation': 'collaborate'}
-Wen-Shyong Hsieh	5
-Jong-Hyouk Lee	{'relation': 'collaborate'}
-Yu-Chang Chen	{'relation': 'collaborate'}
-Chuan-Fu Wu	{'relation': 'collaborate'}
-I. S. Reed	{'relation': 'collaborate'}
-T. K. Truong	{'relation': 'collaborate'}
-Jong-Hyouk Lee	3
-Hun-Jung Lim	{'relation': 'collaborate'}
-Jung-Chan Na	{'relation': 'collaborate'}
-Byungchul Park	{'relation': 'collaborate'}
-Chuan-Fu Wu	0
-Hun-Jung Lim	0
-T. K. Truong	1
-I. S. Reed	{'relation': 'collaborate'}
-Yu-Chang Chen	1
-Yu-Chang Chen	{'relation': 'collaborate'}
-Byungchul Park	0
-I. S. Reed	0
-Jung-Chan Na	0
+Wen-Shyong Hsieh	Jong-Hyouk Lee	Chun-Wei Tsai	Wei-Shuo Li	Chu-Sing Yang	Hsu-Jung Liu	Yu-Chang Chen	Sing-Liang Chen	Chih-Hung Lin	T. C. Cheng	Chuan-Fu Wu	I. S. Reed	T. K. Truong	Min Chen	L. J. Wang
+Chu-Sing Yang	Chun-Wei Tsai	Min Chen	Yu-Chang Chen	Wei-Shuo Li
+Haneul Ko	Jong-Hyouk Lee
+Wei-Shuo Li	Chun-Wei Tsai	Jong-Hyouk Lee	Min Chen
+Jong-Hyouk Lee	Hun-Jung Lim	Jung-Chan Na	Chun-Wei Tsai	Joong-Hee Lee	Byungchul Park
+T. C. Cheng	T. K. Truong	L. J. Wang	I. S. Reed
+Yu-Chang Chen	Sing-Liang Chen	Yu-Chang Chen
+T. K. Truong	I. S. Reed	L. J. Wang
+Chun-Wei Tsai	Min Chen
+Joong-Hee Lee
+Hsu-Jung Liu
+I. S. Reed	L. J. Wang
+Jung-Chan Na
+Chuan-Fu Wu
+Byungchul Park
+Sing-Liang Chen
+Min Chen
+Chih-Hung Lin
+Hun-Jung Lim
+L. J. Wang

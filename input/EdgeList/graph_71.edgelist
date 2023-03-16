@@ -1,4 +1,14 @@
-E. P. Mariatos	Costas E. Goutis	{'relation': 'collaborate'}
+Costas E. Goutis	K. Masselos	{'relation': 'collaborate'}
+Costas E. Goutis	E. P. Mariatos	{'relation': 'collaborate'}
+Costas E. Goutis	G. Anagnostopoulos	{'relation': 'collaborate'}
+Costas E. Goutis	Michael K. Birbas	{'relation': 'collaborate'}
+Costas E. Goutis	A. Milidonis	{'relation': 'collaborate'}
+Costas E. Goutis	J. Cornelis	{'relation': 'collaborate'}
+Costas E. Goutis	D. E. Metafas	{'relation': 'collaborate'}
+Costas E. Goutis	P. Merakos	{'relation': 'collaborate'}
+Costas E. Goutis	Dimitrios J. Soudris	{'relation': 'collaborate'}
+Costas E. Goutis	S. S. Nikolaidis	{'relation': 'collaborate'}
+Costas E. Goutis	G.-P. Economou	{'relation': 'collaborate'}
 E. P. Mariatos	Michael K. Birbas	{'relation': 'collaborate'}
 E. P. Mariatos	S. S. Nikolaidis	{'relation': 'collaborate'}
 E. P. Mariatos	G.-P. Economou	{'relation': 'collaborate'}
@@ -8,40 +18,30 @@ E. P. Mariatos	N. C. Petrellis	{'relation': 'collaborate'}
 E. P. Mariatos	D. E. Metafas	{'relation': 'collaborate'}
 E. P. Mariatos	P. Merakos	{'relation': 'collaborate'}
 E. P. Mariatos	N. S Voros	{'relation': 'collaborate'}
-Spyrogiannis Batistatos	Michael K. Birbas	{'relation': 'collaborate'}
-Spyrogiannis Batistatos	V. Mariatos	{'relation': 'collaborate'}
-Spyrogiannis Batistatos	N. C. Petrellis	{'relation': 'collaborate'}
-A. Milidonis	Costas E. Goutis	{'relation': 'collaborate'}
-A. Milidonis	Dimitrios J. Soudris	{'relation': 'collaborate'}
-P. Merakos	K. Masselos	{'relation': 'collaborate'}
-P. Merakos	Michael K. Birbas	{'relation': 'collaborate'}
-P. Merakos	Costas E. Goutis	{'relation': 'collaborate'}
-D. E. Metafas	Costas E. Goutis	{'relation': 'collaborate'}
 D. E. Metafas	K. Masselos	{'relation': 'collaborate'}
 D. E. Metafas	S. S. Nikolaidis	{'relation': 'collaborate'}
 D. E. Metafas	G.-P. Economou	{'relation': 'collaborate'}
+P. Merakos	K. Masselos	{'relation': 'collaborate'}
+P. Merakos	Michael K. Birbas	{'relation': 'collaborate'}
 V. Mariatos	Michael K. Birbas	{'relation': 'collaborate'}
 V. Mariatos	N. C. Petrellis	{'relation': 'collaborate'}
-G. Anagnostopoulos	Costas E. Goutis	{'relation': 'collaborate'}
-Michael K. Birbas	Costas E. Goutis	{'relation': 'collaborate'}
+V. Mariatos	Spyrogiannis Batistatos	{'relation': 'collaborate'}
+N. S Voros	Dimitrios J. Soudris	{'relation': 'collaborate'}
+N. S Voros	Michael K. Birbas	{'relation': 'collaborate'}
+N. S Voros	S. K. Tsasakou	{'relation': 'collaborate'}
+N. S Voros	K. Masselos	{'relation': 'collaborate'}
+S. K. Tsasakou	Michael K. Birbas	{'relation': 'collaborate'}
+K. Masselos	Dimitrios J. Soudris	{'relation': 'collaborate'}
+K. Masselos	J. Cornelis	{'relation': 'collaborate'}
+A. Milidonis	Dimitrios J. Soudris	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	Michael K. Birbas	{'relation': 'collaborate'}
+Spyrogiannis Batistatos	N. C. Petrellis	{'relation': 'collaborate'}
+G.-P. Economou	S. S. Nikolaidis	{'relation': 'collaborate'}
+N. C. Petrellis	Michael K. Birbas	{'relation': 'collaborate'}
+N. C. Petrellis	G. D. Papadopoulos	{'relation': 'collaborate'}
 Michael K. Birbas	F. Plessas	{'relation': 'collaborate'}
 Michael K. Birbas	Dimitrios J. Soudris	{'relation': 'collaborate'}
 Michael K. Birbas	G. D. Papadopoulos	{'relation': 'collaborate'}
-Michael K. Birbas	N. C. Petrellis	{'relation': 'collaborate'}
-Michael K. Birbas	S. K. Tsasakou	{'relation': 'collaborate'}
 Michael K. Birbas	Grigorios Kalivas	{'relation': 'collaborate'}
-Michael K. Birbas	N. S Voros	{'relation': 'collaborate'}
-Costas E. Goutis	K. Masselos	{'relation': 'collaborate'}
-Costas E. Goutis	J. Cornelis	{'relation': 'collaborate'}
-Costas E. Goutis	Dimitrios J. Soudris	{'relation': 'collaborate'}
-Costas E. Goutis	S. S. Nikolaidis	{'relation': 'collaborate'}
-Costas E. Goutis	G.-P. Economou	{'relation': 'collaborate'}
-Dimitrios J. Soudris	K. Masselos	{'relation': 'collaborate'}
-Dimitrios J. Soudris	N. S Voros	{'relation': 'collaborate'}
-Dimitrios J. Soudris	S. S. Nikolaidis	{'relation': 'collaborate'}
 Grigorios Kalivas	F. Plessas	{'relation': 'collaborate'}
-S. K. Tsasakou	N. S Voros	{'relation': 'collaborate'}
-G. D. Papadopoulos	N. C. Petrellis	{'relation': 'collaborate'}
-S. S. Nikolaidis	G.-P. Economou	{'relation': 'collaborate'}
-N. S Voros	K. Masselos	{'relation': 'collaborate'}
-K. Masselos	J. Cornelis	{'relation': 'collaborate'}
+S. S. Nikolaidis	Dimitrios J. Soudris	{'relation': 'collaborate'}

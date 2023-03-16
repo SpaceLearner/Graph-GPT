@@ -1,60 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:05 2023
 # 
-Yourong Li	5
-Gangbing Song	{'relation': 'collaborate'}
-Zhigang Wang	{'relation': 'collaborate'}
-Changming Liu	{'relation': 'collaborate'}
-Jianyi Kong	{'relation': 'collaborate'}
-Xi Li	{'relation': 'collaborate'}
-Xi Li	4
-Zhigang Wang	{'relation': 'collaborate'}
-Changming Liu	{'relation': 'collaborate'}
-Gangbing Song	{'relation': 'collaborate'}
-Jianyi Kong	{'relation': 'collaborate'}
-Gongfa Li	4
-Jianyi Kong	{'relation': 'collaborate'}
-Jintang Yang	{'relation': 'collaborate'}
-Yaping Zhao	{'relation': 'collaborate'}
-Hegen Xiong	{'relation': 'collaborate'}
-Ying Wan	1
-Zhigang Wang	{'relation': 'collaborate'}
-Jintang Yang	2
-Jianyi Kong	{'relation': 'collaborate'}
-Hegen Xiong	{'relation': 'collaborate'}
-Wei Wang	3
-Zhigang Wang	{'relation': 'collaborate'}
-Minglu Li	{'relation': 'collaborate'}
-Yong Zeng	{'relation': 'collaborate'}
-Yaping Zhao	1
-Jianyi Kong	{'relation': 'collaborate'}
-Yuelin Chen	1
-Jianyi Kong	{'relation': 'collaborate'}
-Xinda Lu	2
-Zhigang Wang	{'relation': 'collaborate'}
-Minglu Li	{'relation': 'collaborate'}
-Hegen Xiong	1
-Jianyi Kong	{'relation': 'collaborate'}
-Yong Zeng	1
-Zhigang Wang	{'relation': 'collaborate'}
-Juanzi Li	2
-Zhigang Wang	{'relation': 'collaborate'}
-Zhichun Wang	{'relation': 'collaborate'}
-Minglu Li	1
-Zhigang Wang	{'relation': 'collaborate'}
-Changming Liu	3
-Zhigang Wang	{'relation': 'collaborate'}
-Jianyi Kong	{'relation': 'collaborate'}
-Gangbing Song	{'relation': 'collaborate'}
-Zhichun Wang	1
-Zhigang Wang	{'relation': 'collaborate'}
-Gangbing Song	2
-Jianyi Kong	{'relation': 'collaborate'}
-Zhigang Wang	{'relation': 'collaborate'}
-Lixia Wang	1
-Zhigang Wang	{'relation': 'collaborate'}
-Yu Hou	1
-Jianyi Kong	{'relation': 'collaborate'}
-Zhigang Wang	1
-Jianyi Kong	{'relation': 'collaborate'}
-Jianyi Kong	0
+Yaping Zhao	Gongfa Li	Jianyi Kong
+Hegen Xiong	Jianyi Kong	Jintang Yang	Gongfa Li
+Zhigang Wang	Jianyi Kong	Yong Zeng	Juanzi Li	Ying Wan	Changming Liu	Xinda Lu	Zhichun Wang	Minglu Li	Yourong Li	Wei Wang	Lixia Wang	Xi Li	Gangbing Song
+Minglu Li	Wei Wang	Xinda Lu
+Zhichun Wang	Juanzi Li
+Xi Li	Changming Liu	Gangbing Song	Yourong Li	Jianyi Kong
+Jianyi Kong	Jintang Yang	Changming Liu	Gongfa Li	Gangbing Song	Yu Hou	Yourong Li	Yuelin Chen
+Changming Liu	Gangbing Song	Yourong Li
+Ying Wan
+Gangbing Song	Yourong Li
+Lixia Wang
+Juanzi Li
+Yuelin Chen
+Wei Wang	Yong Zeng
+Jintang Yang	Gongfa Li
+Yourong Li
+Yu Hou
+Yong Zeng
+Xinda Lu
+Gongfa Li

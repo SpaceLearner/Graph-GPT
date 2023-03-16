@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="J. Banks">
+      <data key="affiliation">Med. Imaging &amp; Cognitive Comput. Dept., Fraunhofer Inst. for Comput. Graphics, Darmstadt</data>
+      <data key="research">rank constraint, correct match, matching reliability</data>
+    </node>
+    <node id="Chris McCool">
+      <data key="affiliation">Idiap Research Institute</data>
+      <data key="research">face data, face verification, face verification system</data>
+    </node>
+    <node id="R. Owens">
+      <data key="affiliation">Nan</data>
+      <data key="research">Elementary Logic</data>
+    </node>
+    <node id="Sridha Sridharan">
+      <data key="affiliation">Nan</data>
+      <data key="research">synthesis model, object image, unseen object image</data>
+    </node>
+    <node id="Clinton Fookes">
+      <data key="affiliation">Queensland University of Technology, Australia</data>
+      <data key="research">object tracking, novel approach, proposed algorithm</data>
+    </node>
+    <node id="Suman Sedai">
+      <data key="affiliation">Dept. of Computer Science &amp; Engineering, Inha University, Incheon, Korea</data>
+      <data key="research">environmental context, context knowledge, multiple context</data>
+    </node>
+    <node id="G. J. Mamic">
+      <data key="affiliation">Sch. of Electr. &amp; Electron. Syst. Eng., Queensland Univ., Brisbane, Qld., Australia</data>
+      <data key="research">generic face mesh, generic face model, face surface</data>
+    </node>
+    <node id="Hongchuan Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">image segmentation, level set method, solution existence</data>
+    </node>
+    <node id="Wilson Wong">
+      <data key="affiliation">Altera Corporation, San Jose, CA, USA</data>
+      <data key="research">On-die instrumentation, ODI technique, analog design</data>
+    </node>
+    <node id="Wei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">enterprise information, financial information, global information environment</data>
+    </node>
+    <node id="M. Bennamoun">
+      <data key="affiliation">Queensland Univ. of Technology, Queensland, Australia</data>
+      <data key="research">computer vision, jacquard textile, large variety</data>
+    </node>
+    <node id="D. Chen">
+      <data key="affiliation">Center for Integrated Syst., Stanford Univ., CA</data>
+      <data key="research">charge balance condition, floating gate, FG region</data>
+    </node>
+    <node id="S. Mahadevan">
+      <data key="affiliation">Dept. of Aerospace Engineering and Engineering Mechanics, The University of Texas at Austin, Austin, TX 78712, USA</data>
+      <data key="research">Joule heating term, cell center, heavy species</data>
+    </node>
+    <node id="D. Q. Huynh">
+      <data key="affiliation">Nan</data>
+      <data key="research">localized decision level fusion, individual feature type, decision level fusion model</data>
+    </node>
+    <node id="L. L. Raja">
+      <data key="affiliation">Dept. of Aerospace Engineering and Engineering Mechanics, The University of Texas at Austin, Austin, TX 78712, USA</data>
+      <data key="research">Joule heating term, cell center, explicit method</data>
+    </node>
+    <node id="Ajmal S. Mian">
+      <data key="affiliation">The University of Western Australia, Crawley</data>
+      <data key="research">image sample, image set, nearest point</data>
+    </node>
+    <node id="P. Corke">
+      <data key="affiliation">Nan</data>
+      <data key="research">correct match, matching problem, matching reliability</data>
+    </node>
+    <node id="B. Chen">
+      <data key="affiliation">Research Institute of Innovative Technology for the Earth, 92 Kizugawadai, Sorakugun, Kyoto 6190292, Japan. email: b.chen@aist.go.jp</data>
+      <data key="research">stratified ambient plume, CO_2 Solution Density, stratification ambient fluid</data>
+    </node>
+    <node id="B. Boashash">
+      <data key="affiliation">Nan</data>
+      <data key="research">FM signal, instantaneous frequency, consistent estimator</data>
+    </node>
+    <node id="L. Williams">
+      <data key="affiliation">Nan</data>
+      <data key="research">curved shadow, curved surface</data>
+    </node>
+    <edge source="J. Banks" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Banks" target="P. Corke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris McCool" target="Sridha Sridharan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris McCool" target="G. J. Mamic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris McCool" target="Clinton Fookes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Owens" target="Ajmal S. Mian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Owens" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sridha Sridharan" target="G. J. Mamic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sridha Sridharan" target="B. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sridha Sridharan" target="D. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sridha Sridharan" target="Clinton Fookes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clinton Fookes" target="B. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clinton Fookes" target="D. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clinton Fookes" target="G. J. Mamic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Suman Sedai" target="D. Q. Huynh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Suman Sedai" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. J. Mamic" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. J. Mamic" target="B. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. J. Mamic" target="D. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongchuan Yu" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wilson Wong" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wilson Wong" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="M. Bennamoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="L. Williams">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="Ajmal S. Mian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="D. Q. Huynh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="B. Boashash">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="S. Mahadevan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bennamoun" target="P. Corke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Chen" target="B. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Mahadevan" target="L. Williams">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Mahadevan" target="L. L. Raja">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -4,177 +4,177 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Dariusz Dereniowski">
-      <data key="affiliation">Department of Algorithms and System Modeling, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80952 Gdańsk, Poland. Emai ...</data>
-      <data key="research">experimental result, approximation ratio, edge ranking</data>
-    </node>
-    <node id="Denis Hanson">
-      <data key="affiliation">Department of Mathematics and Statistics, University of Regina, Regina, Sk., Canada</data>
-      <data key="research">minimum number, search number, bipartite graph</data>
-    </node>
-    <node id="Gary MacGillivray">
-      <data key="affiliation">Department of Mathematics and Statistics, University of Victoria, PO Box 3045 STN CSC, Victoria, BC, Canada</data>
-      <data key="research">near-unanimity function, weak near-unanimity function, H-colouring problem</data>
-    </node>
-    <node id="Mirka Miller">
-      <data key="affiliation">The university of newcastle newcastle, Australia and University of west bohemia pilsen, Czech Republic and Kings college, London, United Kingdom and Itb bandung, Indonesia</data>
-      <data key="research">maximum degree, regular graph, diameter D</data>
-    </node>
-    <node id="Dale Youngs">
-      <data key="affiliation">Imperial College, London, UK</data>
-      <data key="research">K4-free graph4-chromatic projective graph, constructionThe size, cycle length</data>
-    </node>
-    <node id="Leif K. Jørgensen">
-      <data key="affiliation">Department of Mathematical Sciences, Aalborg University, F. Bajers Vej 7, DK9220 Aalborg Ø, Denmark</data>
-      <data key="research">bipartite graph, rooted K3, regular graph</data>
-    </node>
-    <node id="Guillermo Pineda-Villavicencio">
-      <data key="affiliation">School of Information Technology and Mathematical Sciences, University of Ballarat, Ballarat, Victoria, Australia/ Department of Computer Science, University of Oriente, Santiago de Cuba, Cuba</data>
-      <data key="research">bipartite graph, maximum degree, diameter D</data>
+    <node id="B. Alspach">
+      <data key="affiliation">Department of Mathematics and Statistics, University of Regina, Regina, Saskatchewan, Canada S4S 0A2</data>
+      <data key="research">Cayley graph, search number, circulant graph</data>
     </node>
     <node id="Ken-ichi Kawarabayashi">
       <data key="affiliation">National Institute of Informatics</data>
       <data key="research">graph G, planar graph, k-connected graph</data>
     </node>
-    <node id="David A. Pike">
-      <data key="affiliation">Department of Mathematics and Statistics, Memorial University of Newfoundland, St. John's, NL, Canada</data>
-      <data key="research">decycling number, smallest number, large BIBD</data>
-    </node>
-    <node id="David Orden">
-      <data key="affiliation">Departamento de Matemáticas, Universidad de Alcaá de Henares, 28871 Alcalá de Henares, Spain</data>
-      <data key="research">planar minimally rigid graph, Speculative Parallelization, dependence violation</data>
-    </node>
-    <node id="Bo-Ting Yang">
-      <data key="affiliation">Nan</data>
-      <data key="research">Constrained Multicast Routing</data>
-    </node>
-    <node id="J. W. Moon">
-      <data key="affiliation">Nan</data>
-      <data key="research">random tree, random treesAddendum</data>
-    </node>
-    <node id="Sarah-Marie Belcastro">
-      <data key="affiliation">Department of Mathematics and Statistics, Smith College, Northampton, MA 01063, USA and Department of Mathematics and Statistics, Mt. Holyoke College, South Hadley, MA 01075, USA</data>
-      <data key="research">1-factor cover, Petersen graph, infinite family</data>
-    </node>
-    <node id="Ruth Haas">
-      <data key="affiliation">Department of Mathematics, Smith College, Northampton, MA</data>
-      <data key="research">planar minimally rigid graph, bipartite graph, graph embeddings</data>
+    <node id="Dariusz Dereniowski">
+      <data key="affiliation">Department of Algorithms and System Modeling, Faculty of Electronics, Telecommunications and Informatics, Gdańsk University of Technology, Narutowicza 11/12, 80952 Gdańsk, Poland. Emai ...</data>
+      <data key="research">experimental result, approximation ratio, edge ranking</data>
     </node>
     <node id="F. Santos">
       <data key="affiliation">santosf@unican.es</data>
       <data key="research">planar minimally rigid graph, graph embeddings, marked graph</data>
     </node>
+    <node id="Guillermo Pineda-Villavicencio">
+      <data key="affiliation">School of Information Technology and Mathematical Sciences, University of Ballarat, Ballarat, Victoria, Australia/ Department of Computer Science, University of Oriente, Santiago de Cuba, Cuba</data>
+      <data key="research">bipartite graph, maximum degree, diameter D</data>
+    </node>
+    <node id="Ruth Haas">
+      <data key="affiliation">Department of Mathematics, Smith College, Northampton, MA</data>
+      <data key="research">planar minimally rigid graph, bipartite graph, graph embeddings</data>
+    </node>
+    <node id="Leif K. Jørgensen">
+      <data key="affiliation">Department of Mathematical Sciences, Aalborg University, F. Bajers Vej 7, DK9220 Aalborg Ø, Denmark</data>
+      <data key="research">bipartite graph, rooted K3, regular graph</data>
+    </node>
+    <node id="J. W. Moon">
+      <data key="affiliation">Nan</data>
+      <data key="research">random tree, random treesAddendum</data>
+    </node>
+    <node id="Dale Youngs">
+      <data key="affiliation">Imperial College, London, UK</data>
+      <data key="research">K4-free graph4-chromatic projective graph, constructionThe size, cycle length</data>
+    </node>
+    <node id="Denis Hanson">
+      <data key="affiliation">Department of Mathematics and Statistics, University of Regina, Regina, Sk., Canada</data>
+      <data key="research">minimum number, search number, bipartite graph</data>
+    </node>
     <node id="Danny Dyer">
       <data key="affiliation">Department of Mathematics, Simon Fraser University</data>
       <data key="research">minimum number, search number, search strategy</data>
-    </node>
-    <node id="Ping Wang">
-      <data key="affiliation">Institute of Information Management, National Chiao Tung University, Taiwan</data>
-      <data key="research">web service, proposed approach, mobile service</data>
-    </node>
-    <node id="Michael O. Albertson">
-      <data key="affiliation">Smith College, Northampton, MA</data>
-      <data key="research">geometric automorphism, geometric graph, colorable graph</data>
     </node>
     <node id="C. Delorme">
       <data key="affiliation">Nan</data>
       <data key="research">d-D Grid Graphs, d-D grid graph, Communication Delays</data>
     </node>
-    <node id="B. Alspach">
-      <data key="affiliation">Department of Mathematics and Statistics, University of Regina, Regina, Saskatchewan, Canada S4S 0A2</data>
-      <data key="research">Cayley graph, search number, circulant graph</data>
+    <node id="Michael O. Albertson">
+      <data key="affiliation">Smith College, Northampton, MA</data>
+      <data key="research">geometric automorphism, geometric graph, colorable graph</data>
     </node>
+    <node id="Sarah-Marie Belcastro">
+      <data key="affiliation">Department of Mathematics and Statistics, Smith College, Northampton, MA 01063, USA and Department of Mathematics and Statistics, Mt. Holyoke College, South Hadley, MA 01075, USA</data>
+      <data key="research">1-factor cover, Petersen graph, infinite family</data>
+    </node>
+    <node id="Bo-Ting Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Constrained Multicast Routing</data>
+    </node>
+    <node id="Mirka Miller">
+      <data key="affiliation">The university of newcastle newcastle, Australia and University of west bohemia pilsen, Czech Republic and Kings college, London, United Kingdom and Itb bandung, Indonesia</data>
+      <data key="research">maximum degree, regular graph, diameter D</data>
+    </node>
+    <node id="Gary MacGillivray">
+      <data key="affiliation">Department of Mathematics and Statistics, University of Victoria, PO Box 3045 STN CSC, Victoria, BC, Canada</data>
+      <data key="research">near-unanimity function, weak near-unanimity function, H-colouring problem</data>
+    </node>
+    <node id="David A. Pike">
+      <data key="affiliation">Department of Mathematics and Statistics, Memorial University of Newfoundland, St. John's, NL, Canada</data>
+      <data key="research">decycling number, smallest number, large BIBD</data>
+    </node>
+    <node id="Ping Wang">
+      <data key="affiliation">Institute of Information Management, National Chiao Tung University, Taiwan</data>
+      <data key="research">web service, proposed approach, mobile service</data>
+    </node>
+    <node id="David Orden">
+      <data key="affiliation">Departamento de Matemáticas, Universidad de Alcaá de Henares, 28871 Alcalá de Henares, Spain</data>
+      <data key="research">planar minimally rigid graph, Speculative Parallelization, dependence violation</data>
+    </node>
+    <edge source="B. Alspach" target="Bo-Ting Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Alspach" target="Danny Dyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Alspach" target="Denis Hanson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ken-ichi Kawarabayashi" target="Leif K. Jørgensen">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Dariusz Dereniowski" target="Danny Dyer">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Denis Hanson" target="Danny Dyer">
+    <edge source="F. Santos" target="David Orden">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Denis Hanson" target="Leif K. Jørgensen">
+    <edge source="F. Santos" target="Ruth Haas">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Denis Hanson" target="Ruth Haas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="Gary MacGillivray">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="Dale Youngs">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="Bo-Ting Yang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="J. W. Moon">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="Ping Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Denis Hanson" target="B. Alspach">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gary MacGillivray" target="Ruth Haas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gary MacGillivray" target="Ping Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gary MacGillivray" target="Dale Youngs">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mirka Miller" target="Guillermo Pineda-Villavicencio">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mirka Miller" target="Leif K. Jørgensen">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mirka Miller" target="C. Delorme">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Leif K. Jørgensen" target="C. Delorme">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Leif K. Jørgensen" target="Ken-ichi Kawarabayashi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Leif K. Jørgensen" target="Ping Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Leif K. Jørgensen" target="Guillermo Pineda-Villavicencio">
+    <edge source="Guillermo Pineda-Villavicencio" target="Mirka Miller">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Guillermo Pineda-Villavicencio" target="C. Delorme">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="David A. Pike" target="Danny Dyer">
+    <edge source="Guillermo Pineda-Villavicencio" target="Leif K. Jørgensen">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="David Orden" target="F. Santos">
+    <edge source="Ruth Haas" target="Gary MacGillivray">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="David Orden" target="Ruth Haas">
+    <edge source="Ruth Haas" target="David Orden">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bo-Ting Yang" target="B. Alspach">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Bo-Ting Yang" target="Danny Dyer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Sarah-Marie Belcastro" target="Ruth Haas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Sarah-Marie Belcastro" target="Michael O. Albertson">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ruth Haas" target="F. Santos">
+    <edge source="Ruth Haas" target="Denis Hanson">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Ruth Haas" target="Michael O. Albertson">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Danny Dyer" target="B. Alspach">
+    <edge source="Ruth Haas" target="Sarah-Marie Belcastro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leif K. Jørgensen" target="Denis Hanson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leif K. Jørgensen" target="C. Delorme">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leif K. Jørgensen" target="Ping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leif K. Jørgensen" target="Mirka Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. W. Moon" target="Denis Hanson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dale Youngs" target="Denis Hanson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dale Youngs" target="Gary MacGillivray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denis Hanson" target="Danny Dyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denis Hanson" target="Gary MacGillivray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denis Hanson" target="Bo-Ting Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denis Hanson" target="Ping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Danny Dyer" target="David A. Pike">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Danny Dyer" target="Bo-Ting Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Delorme" target="Mirka Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael O. Albertson" target="Sarah-Marie Belcastro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary MacGillivray" target="Ping Wang">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

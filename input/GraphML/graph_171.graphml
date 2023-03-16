@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Kwang Mong Sim">
+      <data key="affiliation">Nan</data>
+      <data key="research">data center, proposed model, test bed</data>
+    </node>
+    <node id="Jun Yan">
+      <data key="affiliation">Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</data>
+      <data key="research">optimization problem, classical optimization procedure, generalized optimization problem</data>
+    </node>
+    <node id="Qing Liu">
+      <data key="affiliation">Department of Physical Education, Zhejiang Forestry College, Linan, China</data>
+      <data key="research">directional movement, virtual reality, physical education</data>
+    </node>
+    <node id="Jianying Zhou">
+      <data key="affiliation">Institute for Infocomm Research</data>
+      <data key="research">security weakness, systematic security analysis, Google Drive</data>
+    </node>
+    <node id="Willy Susilo">
+      <data key="affiliation">Nan</data>
+      <data key="research">formal proof, nominative signature, SSO scheme</data>
+    </node>
+    <node id="Man Ho Au">
+      <data key="affiliation">Department of Information Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong</data>
+      <data key="research">standard model, signature scheme, new model</data>
+    </node>
+    <node id="Yang Xiang">
+      <data key="affiliation">Department of Computer Science and Technology, Tsinghua University, and Tsinghua National Laboratory for Information Science and Technology (TNList),</data>
+      <data key="research">SIP Robustness Testing, testing tool, test suite</data>
+    </node>
+    <node id="IbrahimF. Elashry">
+      <data key="affiliation">Department of Electrical Communications, Faculty of Engineering, Kafrelsheikh University, Kafrelsheikh, Egypt</data>
+      <data key="research">division intractable hash function, key generation function, RC6 block cipher</data>
+    </node>
+    <node id="JiGuo Li">
+      <data key="affiliation">Hohai University, China</data>
+      <data key="research">certificate-based signature scheme, CBE scheme, random oracle model</data>
+    </node>
+    <node id="Yi Mu">
+      <data key="affiliation">Nan</data>
+      <data key="research">required attribute, attribute-based mechanism, attribute-based oblivious access control</data>
+    </node>
+    <node id="Khanh Quoc Nguyen">
+      <data key="affiliation">Gemplus R&amp;D, Singapore</data>
+      <data key="research">concurrent signature, ring signature, proposed scheme</data>
+    </node>
+    <node id="Wei Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">motif occurrence, aglobal motif distribution model, denovo motif detection</data>
+    </node>
+    <node id="Li Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Natural Image DeblurringWe show, blur removal method, motion deblurring</data>
+    </node>
+    <node id="Chun Ruan">
+      <data key="affiliation">School of Computing and IT University of Western Sydney, Australia</data>
+      <data key="research">access right, authorization delegation, authorization program</data>
+    </node>
+    <node id="Fuchun Guo">
+      <data key="affiliation">Centre for Computer and Information Security Research School of Computer Science and Software Engineering, University of Wollongong, Wollongong, Australia NSW2522</data>
+      <data key="research">online phase, offline signature, signature scheme</data>
+    </node>
+    <node id="Xinyi Huang">
+      <data key="affiliation">Inst. for Infocomm Res. (I2R), Singapore, Singapore</data>
+      <data key="research">OFE protocol, Digital SignaturesOptimistic fair exchange, accountability coexist</data>
+    </node>
+    <node id="Hui Cui">
+      <data key="affiliation">Nan</data>
+      <data key="research">privileged user, Anonymous Encryption, incoming information</data>
+    </node>
+    <node id="Lei Ye">
+      <data key="affiliation">Nan</data>
+      <data key="research">image classification, hidden class, content-based image retrieval</data>
+    </node>
+    <node id="Chang Xu">
+      <data key="affiliation">Nanyang Technological University, Singapore, Singapore</data>
+      <data key="research">collusive spammers, experimental result, Chinese review</data>
+    </node>
+    <node id="Tianjie Cao">
+      <data key="affiliation">Nan</data>
+      <data key="research">special image, camera calibration, camera result</data>
+    </node>
+    <edge source="Kwang Mong Sim" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Willy Susilo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Liu" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Man Ho Au">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Willy Susilo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianying Zhou" target="Yang Xiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="JiGuo Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="IbrahimF. Elashry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Fuchun Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Man Ho Au">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Chun Ruan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Yang Xiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Ho Au" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Ho Au" target="Yang Xiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Ho Au" target="Hui Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Ho Au" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xiang" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xiang" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xiang" target="Lei Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xiang" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xiang" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="IbrahimF. Elashry" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="JiGuo Li" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="JiGuo Li" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="JiGuo Li" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Chun Ruan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Wei Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Khanh Quoc Nguyen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Chang Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Lei Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Fuchun Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Mu" target="Hui Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Wu" target="Li Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Wu" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Wu" target="Lei Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Xu" target="Xinyi Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Xu" target="Fuchun Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fuchun Guo" target="Hui Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Cui" target="Tianjie Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

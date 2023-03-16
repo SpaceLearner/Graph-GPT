@@ -1,52 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Masumi Ishikawa	14
-Hong Zhang	{'relation': 'collaborate'}
-Alireza Ahrary	{'relation': 'collaborate'}
-Tetsuo Furukawa	{'relation': 'collaborate'}
-Helge Ritter	{'relation': 'collaborate'}
-Seiichiro Kamata	{'relation': 'collaborate'}
-K. Doya	{'relation': 'collaborate'}
-Kazuhiko Nishino	{'relation': 'collaborate'}
-Hiroyuki Miyamoto	{'relation': 'collaborate'}
-Risto Miikkulainen	{'relation': 'collaborate'}
-Takeshi Yamakawa	{'relation': 'collaborate'}
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Li Tian	{'relation': 'collaborate'}
-Jiro Katto	{'relation': 'collaborate'}
-Kyota Higa	{'relation': 'collaborate'}
-Seiichiro Kamata	2
-Alireza Ahrary	{'relation': 'collaborate'}
-Li Tian	{'relation': 'collaborate'}
-Kazuhiko Nishino	0
-Bin Guo	1
-Hong Zhang	{'relation': 'collaborate'}
-Hiroyuki Miyamoto	2
-K. Doya	{'relation': 'collaborate'}
-Takeshi Yamakawa	{'relation': 'collaborate'}
-Li Tian	1
-Alireza Ahrary	{'relation': 'collaborate'}
-Helge Ritter	1
-Risto Miikkulainen	{'relation': 'collaborate'}
-Takeshi Yamakawa	1
-K. Doya	{'relation': 'collaborate'}
-Risto Miikkulainen	0
-Lin Yang	1
-Hong Zhang	{'relation': 'collaborate'}
-Kyota Higa	2
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Jiro Katto	{'relation': 'collaborate'}
-Jiro Katto	1
-Toshiyuki Nomura	{'relation': 'collaborate'}
-Hong Zhang	3
-Ding Feng	{'relation': 'collaborate'}
-Xiaolong Liu	{'relation': 'collaborate'}
-Jiulun Fan	{'relation': 'collaborate'}
-Xiaolong Liu	0
-Toshiyuki Nomura	0
-Jiulun Fan	0
-Alireza Ahrary	0
-K. Doya	0
-Tetsuo Furukawa	0
-Ding Feng	0
+Takeshi Yamakawa	K. Doya	Hiroyuki Miyamoto	Masumi Ishikawa
+Hiroyuki Miyamoto	K. Doya	Masumi Ishikawa
+Risto Miikkulainen	Helge Ritter	Masumi Ishikawa
+Tetsuo Furukawa	Masumi Ishikawa
+Lin Yang	Hong Zhang
+Toshiyuki Nomura	Jiro Katto	Kyota Higa	Masumi Ishikawa
+Ding Feng	Hong Zhang
+Masumi Ishikawa	Hong Zhang	Alireza Ahrary	Helge Ritter	Seiichiro Kamata	K. Doya	Kazuhiko Nishino	Li Tian	Jiro Katto	Kyota Higa
+Kyota Higa	Jiro Katto
+Jiulun Fan	Hong Zhang
+Kazuhiko Nishino
+Hong Zhang	Bin Guo	Xiaolong Liu
+Xiaolong Liu
+Jiro Katto
+Alireza Ahrary	Li Tian	Seiichiro Kamata
+Li Tian	Seiichiro Kamata
+K. Doya
+Seiichiro Kamata
+Bin Guo
+Helge Ritter

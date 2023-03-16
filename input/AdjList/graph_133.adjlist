@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-M. Pratt	5
-Daniel Stevenson	{'relation': 'collaborate'}
-A. Bragg	{'relation': 'collaborate'}
-Hans Grabowski	{'relation': 'collaborate'}
-R. Anderl	{'relation': 'collaborate'}
-Ilia Baldine	{'relation': 'collaborate'}
-S. Vettermann	1
-R. Anderl	{'relation': 'collaborate'}
-D. Liu	1
-Horst Nowacki	{'relation': 'collaborate'}
-Geir Westgaard	1
-Horst Nowacki	{'relation': 'collaborate'}
-Youdong Liang	2
-Xiuzi Ye	{'relation': 'collaborate'}
-Horst Nowacki	{'relation': 'collaborate'}
-Xiuzi Ye	1
-Horst Nowacki	{'relation': 'collaborate'}
-Ilia Baldine	2
-A. Bragg	{'relation': 'collaborate'}
-Daniel Stevenson	{'relation': 'collaborate'}
-R. Anderl	8
-Horst Nowacki	{'relation': 'collaborate'}
-X. Li	{'relation': 'collaborate'}
-K. Geiger	{'relation': 'collaborate'}
-M. Schmitt	{'relation': 'collaborate'}
-Michael Stupperich	{'relation': 'collaborate'}
-Hans Grabowski	{'relation': 'collaborate'}
-Johannes Bumiller	{'relation': 'collaborate'}
-Bernhard Malle	{'relation': 'collaborate'}
-Michael Stupperich	1
-Johannes Bumiller	{'relation': 'collaborate'}
-Johannes Bumiller	0
-U. Langbecker	1
-Horst Nowacki	{'relation': 'collaborate'}
-M. Schmitt	3
-X. Li	{'relation': 'collaborate'}
-Hans Grabowski	{'relation': 'collaborate'}
-K. Geiger	{'relation': 'collaborate'}
-Daniel Stevenson	1
-A. Bragg	{'relation': 'collaborate'}
-Hans Grabowski	3
-Bernhard Malle	{'relation': 'collaborate'}
-X. Li	{'relation': 'collaborate'}
-K. Geiger	{'relation': 'collaborate'}
-A. Bragg	0
-Bernhard Malle	0
-X. Li	0
-Horst Nowacki	1
-R Gnatz	{'relation': 'collaborate'}
-R Gnatz	0
-K. Geiger	0
+M. Schmitt	X. Li	Hans Grabowski	R. Anderl	K. Geiger
+D. Liu	Horst Nowacki
+A. Bragg	M. Pratt	Ilia Baldine	Daniel Stevenson
+Hans Grabowski	M. Pratt	Bernhard Malle	X. Li	K. Geiger	R. Anderl
+Bernhard Malle	R. Anderl
+K. Geiger	R. Anderl
+Xiuzi Ye	Youdong Liang	Horst Nowacki
+Horst Nowacki	U. Langbecker	R Gnatz	R. Anderl	Geir Westgaard	Youdong Liang
+Michael Stupperich	R. Anderl	Johannes Bumiller
+Daniel Stevenson	M. Pratt	Ilia Baldine
+Youdong Liang
+R Gnatz
+S. Vettermann	R. Anderl
+M. Pratt	R. Anderl	Ilia Baldine
+Johannes Bumiller	R. Anderl
+Geir Westgaard
+R. Anderl	X. Li
+U. Langbecker
+X. Li
+Ilia Baldine

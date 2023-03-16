@@ -4,37 +4,25 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="D. B. Skalak">
-      <data key="affiliation">Highgate Predictions, LLC, Ithaca, NY 14850, USA</data>
-      <data key="research">nearest neighbor classifier, small number, legal argument</data>
+    <node id="M. Friedman">
+      <data key="affiliation">Nuclear Research Center  Negev, BeerSheva, Israel</data>
+      <data key="research">detection mode, typical interest, execution data</data>
     </node>
-    <node id="Bracha Shapira">
-      <data key="affiliation">Deutsche Telekom Laboratories at BenGurion University</data>
-      <data key="research">user profile, recommender system, users incentive</data>
+    <node id="Mark Last">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., Univ. of South Florida, Tampa, FL</data>
+      <data key="research">knowledge discovery, Web Intelligence, web document</data>
     </node>
-    <node id="Moti Schneider">
-      <data key="affiliation">School of Computer Science Netanya Academic College, 1 University st. Netanya, Israel</data>
-      <data key="research">detection mode, typical interest, Web page</data>
-    </node>
-    <node id="A Kandel">
-      <data key="affiliation">4202 E. Fowler Ave., ENB 118, Tampa, FL 33620</data>
-      <data key="research">complex fuzzy set, complex fuzzy logic, fuzzy correlation term</data>
-    </node>
-    <node id="A. P. Rotshtein">
-      <data key="affiliation">Jerusalem College of Technology, Machon Lev, Israel</data>
-      <data key="research">fuzzy relation, membership function, algorithmic algebra</data>
+    <node id="H.-N. L. Teodorescu">
+      <data key="affiliation"> Gh. Asachi  Technical University, Iasi, Romania</data>
+      <data key="research">speech analysis, Romanian language, emotional speech</data>
     </node>
     <node id="Jyh-Shyan Lin">
       <data key="affiliation">Nan</data>
       <data key="research">color image, digital watermarking, neural network</data>
     </node>
-    <node id="Abraham Kandel">
-      <data key="affiliation">Nan</data>
-      <data key="research">Link Analysis, Web Behavior, information science</data>
-    </node>
-    <node id="H.-N. L. Teodorescu">
-      <data key="affiliation"> Gh. Asachi  Technical University, Iasi, Romania</data>
-      <data key="research">speech analysis, Romanian language, emotional speech</data>
+    <node id="Bracha Shapira">
+      <data key="affiliation">Deutsche Telekom Laboratories at BenGurion University</data>
+      <data key="research">user profile, recommender system, users incentive</data>
     </node>
     <node id="Eran Ferri">
       <data key="affiliation">Nan</data>
@@ -44,47 +32,113 @@
       <data key="affiliation">Florida State University, Tallahassee, Florida</data>
       <data key="research">computer science, virtual memory, n variable</data>
     </node>
-    <node id="Yuval Elovici">
-      <data key="affiliation">Nan</data>
-      <data key="research">multiple interfaces message, transputer network</data>
-    </node>
-    <node id="Michael Margaliot">
-      <data key="affiliation">michaelm@eng.tau.ac.il</data>
-      <data key="research">fuzzy modeling, artificial neural network, mathematical model</data>
-    </node>
-    <node id="Mark Last">
-      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., Univ. of South Florida, Tampa, FL</data>
-      <data key="research">knowledge discovery, Web Intelligence, web document</data>
-    </node>
-    <node id="Gideon Langholz">
-      <data key="affiliation">TelAviv Univ., Israel</data>
-      <data key="research">complex fuzzy logic, complex fuzzy set, fuzzy controller</data>
-    </node>
-    <node id="Chlotia Posey">
-      <data key="affiliation">Nan</data>
-      <data key="research">fuzzy hybrid systemsApplications, intelligent tutoring systemsNeural network, knowledge acquisition</data>
-    </node>
-    <node id="A. Rabinovitch">
-      <data key="affiliation">BenGurion Univ., BeerSheva, Israel</data>
-      <data key="research">spiral pair source, atrial fibrillation, different stage</data>
-    </node>
-    <node id="M. Friedman">
-      <data key="affiliation">Nuclear Research Center  Negev, BeerSheva, Israel</data>
-      <data key="research">detection mode, typical interest, execution data</data>
-    </node>
-    <node id="Yan-Qing Zhang">
-      <data key="affiliation">Nan</data>
-      <data key="research">BioinformaticsMachine Learning, Computational Biology, Computational Intelligence Approaches</data>
-    </node>
-    <node id="Ming Ma">
-      <data key="affiliation">Nan</data>
-      <data key="research">bounded semantics model checking, model checker, ternary boolean diagram-based model</data>
+    <node id="D. B. Skalak">
+      <data key="affiliation">Highgate Predictions, LLC, Ithaca, NY 14850, USA</data>
+      <data key="research">nearest neighbor classifier, small number, legal argument</data>
     </node>
     <node id="R. Milo">
       <data key="affiliation">Nan</data>
       <data key="research">complex fuzzy set, fuzzy correlation term, fuzzy measurement</data>
     </node>
-    <edge source="D. B. Skalak" target="M. Friedman">
+    <node id="Yan-Qing Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">BioinformaticsMachine Learning, Computational Biology, Computational Intelligence Approaches</data>
+    </node>
+    <node id="Yuval Elovici">
+      <data key="affiliation">Nan</data>
+      <data key="research">multiple interfaces message, transputer network</data>
+    </node>
+    <node id="Gideon Langholz">
+      <data key="affiliation">TelAviv Univ., Israel</data>
+      <data key="research">complex fuzzy logic, complex fuzzy set, fuzzy controller</data>
+    </node>
+    <node id="A Kandel">
+      <data key="affiliation">4202 E. Fowler Ave., ENB 118, Tampa, FL 33620</data>
+      <data key="research">complex fuzzy set, complex fuzzy logic, fuzzy correlation term</data>
+    </node>
+    <node id="Moti Schneider">
+      <data key="affiliation">School of Computer Science Netanya Academic College, 1 University st. Netanya, Israel</data>
+      <data key="research">detection mode, typical interest, Web page</data>
+    </node>
+    <node id="Abraham Kandel">
+      <data key="affiliation">Nan</data>
+      <data key="research">Link Analysis, Web Behavior, information science</data>
+    </node>
+    <node id="Ming Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">bounded semantics model checking, model checker, ternary boolean diagram-based model</data>
+    </node>
+    <node id="Chlotia Posey">
+      <data key="affiliation">Nan</data>
+      <data key="research">fuzzy hybrid systemsApplications, intelligent tutoring systemsNeural network, knowledge acquisition</data>
+    </node>
+    <node id="Michael Margaliot">
+      <data key="affiliation">michaelm@eng.tau.ac.il</data>
+      <data key="research">fuzzy modeling, artificial neural network, mathematical model</data>
+    </node>
+    <node id="A. P. Rotshtein">
+      <data key="affiliation">Jerusalem College of Technology, Machon Lev, Israel</data>
+      <data key="research">fuzzy relation, membership function, algorithmic algebra</data>
+    </node>
+    <node id="A. Rabinovitch">
+      <data key="affiliation">BenGurion Univ., BeerSheva, Israel</data>
+      <data key="research">spiral pair source, atrial fibrillation, different stage</data>
+    </node>
+    <edge source="M. Friedman" target="Jyh-Shyan Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="A. Rabinovitch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Ming Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Moti Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="R. Milo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="D. B. Skalak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Gideon Langholz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Yuval Elovici">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Bracha Shapira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Friedman" target="Mark Last">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Moti Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Yuval Elovici">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Last" target="Bracha Shapira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H.-N. L. Teodorescu" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H.-N. L. Teodorescu" target="Moti Schneider">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Bracha Shapira" target="Moti Schneider">
@@ -96,124 +150,70 @@
     <edge source="Bracha Shapira" target="Abraham Kandel">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bracha Shapira" target="M. Friedman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Bracha Shapira" target="Mark Last">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="Abraham Kandel">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="M. Friedman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="Mark Last">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="Gideon Langholz">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="A. P. Rotshtein">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="Yuval Elovici">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Moti Schneider" target="H.-N. L. Teodorescu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="Joan Francioni">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="R. Milo">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="M. Friedman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="Ming Ma">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="Mark Last">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A Kandel" target="Gideon Langholz">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="A. P. Rotshtein" target="Abraham Kandel">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jyh-Shyan Lin" target="M. Friedman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Yuval Elovici">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Joan Francioni">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="H.-N. L. Teodorescu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Ming Ma">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Mark Last">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Gideon Langholz">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Chlotia Posey">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="M. Friedman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Abraham Kandel" target="Yan-Qing Zhang">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Eran Ferri" target="Gideon Langholz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joan Francioni" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joan Francioni" target="Abraham Kandel">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Joan Francioni" target="Gideon Langholz">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yuval Elovici" target="M. Friedman">
+    <edge source="R. Milo" target="A Kandel">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yuval Elovici" target="Mark Last">
+    <edge source="Yan-Qing Zhang" target="Ming Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Michael Margaliot" target="Gideon Langholz">
+    <edge source="Yan-Qing Zhang" target="Abraham Kandel">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Mark Last" target="M. Friedman">
+    <edge source="Yan-Qing Zhang" target="Gideon Langholz">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Gideon Langholz" target="M. Friedman">
+    <edge source="Yuval Elovici" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuval Elovici" target="Moti Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gideon Langholz" target="Moti Schneider">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Gideon Langholz" target="Chlotia Posey">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Gideon Langholz" target="Abraham Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gideon Langholz" target="A Kandel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gideon Langholz" target="Michael Margaliot">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Gideon Langholz" target="Ming Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Gideon Langholz" target="Yan-Qing Zhang">
+    <edge source="A Kandel" target="Ming Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="A. Rabinovitch" target="M. Friedman">
+    <edge source="Moti Schneider" target="Abraham Kandel">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="M. Friedman" target="Ming Ma">
+    <edge source="Moti Schneider" target="A. P. Rotshtein">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="M. Friedman" target="R. Milo">
+    <edge source="Abraham Kandel" target="Ming Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yan-Qing Zhang" target="Ming Ma">
+    <edge source="Abraham Kandel" target="Chlotia Posey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abraham Kandel" target="A. P. Rotshtein">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

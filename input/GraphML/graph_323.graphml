@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Alessandro Vinciarelli">
+      <data key="affiliation">IEEE</data>
+      <data key="research">social signal processing, social signal, social intelligence</data>
+    </node>
+    <node id="Peter J. Schüffler">
+      <data key="affiliation">Department of Computer Science, ETH Zurich, Switzerland</data>
+      <data key="research">renal cell carcinoma, nuclei classification, cell nucleus classification</data>
+    </node>
+    <node id="Vittorio Murino">
+      <data key="affiliation">Nan</data>
+      <data key="research">control group, inter-group difference, multivariate method</data>
+    </node>
+    <node id="M. Cristani">
+      <data key="affiliation">IIT, Istituto Italiano di Tecnologia, Genova, Italy</data>
+      <data key="research">generative model, proposed approach, video sequence</data>
+    </node>
+    <node id="M. Farenzena">
+      <data key="affiliation">LASMEA, UMR6602 CNRS, Université Blaise Pascal, Clermont, France</data>
+      <data key="research">Riemannian manifold, experimental result, Interval Analysis</data>
+    </node>
+    <node id="E. Alpaydin">
+      <data key="affiliation">Nan</data>
+      <data key="research">S-Fuzzy ART, Fuzzy ART, Gaussian ART</data>
+    </node>
+    <node id="Benjamin Bustos">
+      <data key="affiliation">KDW+PRISMA, Department of Computer Science, University of Chile, Chile</data>
+      <data key="research">snake table, query object, k-NN search</data>
+    </node>
+    <node id="Maks Ovsjanikov">
+      <data key="affiliation">LIX, École Polytechnique</data>
+      <data key="research">shape difference, shape collection, robust shape retrieval benchmark</data>
+    </node>
+    <node id="Samuel Kaski">
+      <data key="affiliation">University of Helsinki, Finland</data>
+      <data key="research">auxiliary data, data set, primary data</data>
+    </node>
+    <node id="Marco Crocco">
+      <data key="affiliation">Italian Inst. of Technol. (IIT), Genoa, Italy</data>
+      <data key="research">beam pattern, linear array, cost function</data>
+    </node>
+    <node id="Mehmet Gönen">
+      <data key="affiliation">Aalto University School of Science, Department of Information and Computer Science, Helsinki Institute for Information Technology, Espoo, Finland</data>
+      <data key="research">multiple kernel, multiple kernel learning, different kernel</data>
+    </node>
+    <node id="Umberto Castellani">
+      <data key="affiliation">University of Verona, Department of Computer Science, Verona, Italy and Istituto Italiano di Tecnologia, Genova, Italy</data>
+      <data key="research">generative model, generative embeddings, proposed method</data>
+    </node>
+    <node id="F. S. Gurgen">
+      <data key="affiliation">Department of Computer Engineering, Boǧaziçi University, Istanbul 34342, Turkey</data>
+      <data key="research">support vector machine, SVM classifier, training data</data>
+    </node>
+    <node id="Pietro Lovato">
+      <data key="affiliation">University of Verona, Verona, Italy</data>
+      <data key="research">topic model, microarray experiment, score space</data>
+    </node>
+    <node id="J. Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">manual segmentation, segmented boundary, user editing</data>
+    </node>
+    <node id="M. Kandemir">
+      <data key="affiliation">Helsinki University of Technology</data>
+      <data key="research">data management problem, training data, data augmentation</data>
+    </node>
+    <node id="Alexander M. Bronstein">
+      <data key="affiliation">Department of Electrical Engineering</data>
+      <data key="research">non-rigid shape, shape analysis, facial surface</data>
+    </node>
+    <node id="Anna Carli">
+      <data key="affiliation">Nan</data>
+      <data key="research">generative embeddings, generative model, different sequence classification problem</data>
+    </node>
+    <node id="Andrea Torsello">
+      <data key="affiliation">Dipartimento di Scienze Ambientali, Informatica e Statistica  Universití Ca' Foscari Venezia, Italy</data>
+      <data key="research">proposed approach, game-theoretic approach, EM-like approach</data>
+    </node>
+    <node id="Andrea Fusiello">
+      <data key="affiliation">Dipartimento di Ingegneria Elettrica, Gestionale e Meccanica (DIEGM), Università degli Studi di Udine, Via delle Scienze, 208, Udine, Italy</data>
+      <data key="research">experimental result, effective method, interval branch-and-bound method</data>
+    </node>
+    <edge source="Alessandro Vinciarelli" target="Vittorio Murino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alessandro Vinciarelli" target="M. Cristani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter J. Schüffler" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter J. Schüffler" target="Mehmet Gönen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter J. Schüffler" target="Vittorio Murino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="J. Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Anna Carli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="M. Farenzena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Pietro Lovato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="M. Cristani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Marco Crocco">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Alexander M. Bronstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Maks Ovsjanikov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Benjamin Bustos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Andrea Torsello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Mehmet Gönen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Murino" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cristani" target="M. Farenzena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cristani" target="Pietro Lovato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cristani" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cristani" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Cristani" target="Marco Crocco">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Farenzena" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Alpaydin" target="F. S. Gurgen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Alpaydin" target="Mehmet Gönen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Bustos" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Bustos" target="Maks Ovsjanikov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Bustos" target="J. Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Bustos" target="Alexander M. Bronstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maks Ovsjanikov" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maks Ovsjanikov" target="J. Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maks Ovsjanikov" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maks Ovsjanikov" target="Alexander M. Bronstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samuel Kaski" target="M. Kandemir">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samuel Kaski" target="Mehmet Gönen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mehmet Gönen" target="F. S. Gurgen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mehmet Gönen" target="Umberto Castellani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mehmet Gönen" target="M. Kandemir">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Umberto Castellani" target="J. Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Umberto Castellani" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Umberto Castellani" target="Alexander M. Bronstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Sun" target="Alexander M. Bronstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander M. Bronstein" target="Andrea Fusiello">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

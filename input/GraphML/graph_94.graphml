@@ -4,17 +4,9 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Carine Hue">
-      <data key="affiliation">IRISA, Rennes I Univ.</data>
-      <data key="research">particle filter, multiple object, multiple target</data>
-    </node>
-    <node id="O. Trémois">
-      <data key="affiliation">CNRS, IRISA, Rennes, France</data>
-      <data key="research">optimality principle, source motion parameter, Phase-only multidimensional spatio-temporal analysis</data>
-    </node>
-    <node id="Emmanuel Veneau">
-      <data key="affiliation">Nan</data>
-      <data key="research">image analysis function, video analysis, Image Feature Extraction</data>
+    <node id="A. Chessel">
+      <data key="affiliation">INRIA Centre Rennes  Bretagne Atlantique, Rennes and  Cell and Tissue Imaging Facility   IBISA, Institut Curie, Paris</data>
+      <data key="research">biological structure, additive image, coherent scalar image interpolation</data>
     </node>
     <node id="Nicolas Papadakis">
       <data key="affiliation">Image Group, Barcelona Media, Barcelona, Spain</data>
@@ -24,25 +16,25 @@
       <data key="affiliation">INSA de Rennes, France</data>
       <data key="research">recognition system, handwritten character recognition system, recognition process</data>
     </node>
-    <node id="Aurélie Bugeau">
-      <data key="affiliation">Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain</data>
-      <data key="research">stereo image, tracked object, energy function</data>
+    <node id="P Bouthemy">
+      <data key="affiliation">IRISA / INRIA Rennes Campus Universitaire de Beaulieu, Rennes, France 35042</data>
+      <data key="research">motion model, camera motion, motion detection</data>
     </node>
-    <node id="Rémi Ronfard">
-      <data key="affiliation">INRIA/LJK, Grenoble, France</data>
-      <data key="research">extremal contour, kinematic model, model people</data>
+    <node id="Marc Boulle">
+      <data key="affiliation">Orange Labs, Lannion, France</data>
+      <data key="research">data preparation, discrete data, functional data</data>
     </node>
-    <node id="A. Chessel">
-      <data key="affiliation">INRIA Centre Rennes  Bretagne Atlantique, Rennes and  Cell and Tissue Imaging Facility   IBISA, Institut Curie, Paris</data>
-      <data key="research">biological structure, additive image, coherent scalar image interpolation</data>
+    <node id="O. Trémois">
+      <data key="affiliation">CNRS, IRISA, Rennes, France</data>
+      <data key="research">optimality principle, source motion parameter, Phase-only multidimensional spatio-temporal analysis</data>
     </node>
-    <node id="Roger Mohr">
-      <data key="affiliation">Unite d'Enseignement et de Recherche Sciences Mathematiques, Université de Nancy, Nancy, France.</data>
-      <data key="research">arbitrary shaped volume, intrinsic volume property, Packing Volumes</data>
+    <node id="Alain Lehmann">
+      <data key="affiliation">IRISA, INRIA, Rennes Cedex, France</data>
+      <data key="research">video segment, real video sequence, computed local feature</data>
     </node>
-    <node id="P. Perez">
-      <data key="affiliation">Patrick.Perez@thomson.net</data>
-      <data key="research">digital image, geometric sketch, efficient algorithm</data>
+    <node id="Carine Hue">
+      <data key="affiliation">IRISA, Rennes I Univ.</data>
+      <data key="research">particle filter, multiple object, multiple target</data>
     </node>
     <node id="Jean-Pierre Le Cadre">
       <data key="affiliation">IRISA, Rennes, France</data>
@@ -52,54 +44,47 @@
       <data key="affiliation">Centre RennesBretagne Atlantique, Campus Univ. de Beaulieu, Rennes</data>
       <data key="research">stereo image, temporal causality, novel method</data>
     </node>
-    <node id="Pau Gargallo">
-      <data key="affiliation">Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain</data>
-      <data key="research">depth map, input image, specular surface</data>
-    </node>
-    <node id="Bertrand Coüasnon">
-      <data key="affiliation">INSA, Rennes and UMR, IRISA, Rennes and Université Européenne de Bretagne, France</data>
-      <data key="research">structured document recognition, document structure recognition, recognition system</data>
-    </node>
-    <node id="Frédéric Dambreville">
-      <data key="affiliation">DGA, 16 bis avenue prieur de la Côte d'or, 94114 Arcueil, France</data>
-      <data key="research">bilevel search planning, multisensor multizone search, multizone multisensor search planning</data>
-    </node>
-    <node id="Alain Lehmann">
-      <data key="affiliation">IRISA, INRIA, Rennes Cedex, France</data>
-      <data key="research">video segment, real video sequence, computed local feature</data>
+    <node id="Rémi Ronfard">
+      <data key="affiliation">INRIA/LJK, Grenoble, France</data>
+      <data key="research">extremal contour, kinematic model, model people</data>
     </node>
     <node id="V. Caselles">
       <data key="affiliation">Nan</data>
       <data key="research">Hamilton-Jacobi equation, one-space variable, scalar conservation law</data>
     </node>
+    <node id="Roger Mohr">
+      <data key="affiliation">Unite d'Enseignement et de Recherche Sciences Mathematiques, Université de Nancy, Nancy, France.</data>
+      <data key="research">arbitrary shaped volume, intrinsic volume property, Packing Volumes</data>
+    </node>
+    <node id="P. Perez">
+      <data key="affiliation">Patrick.Perez@thomson.net</data>
+      <data key="research">digital image, geometric sketch, efficient algorithm</data>
+    </node>
+    <node id="Pau Gargallo">
+      <data key="affiliation">Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain</data>
+      <data key="research">depth map, input image, specular surface</data>
+    </node>
+    <node id="Aurélie Bugeau">
+      <data key="affiliation">Barcelona Media, Av. Diagonal, 08017 Barcelona, Spain</data>
+      <data key="research">stereo image, tracked object, energy function</data>
+    </node>
+    <node id="Frédéric Dambreville">
+      <data key="affiliation">DGA, 16 bis avenue prieur de la Côte d'or, 94114 Arcueil, France</data>
+      <data key="research">bilevel search planning, multisensor multizone search, multizone multisensor search planning</data>
+    </node>
     <node id="R. Venkatehs Babu">
       <data key="affiliation">Center for Quantifiable Quality of Service in Commun. Syst., Trondheim, Norway</data>
       <data key="research">MS tracker, visual tracking, partial occlusion</data>
     </node>
-    <node id="P Bouthemy">
-      <data key="affiliation">IRISA / INRIA Rennes Campus Universitaire de Beaulieu, Rennes, France 35042</data>
-      <data key="research">motion model, camera motion, motion detection</data>
+    <node id="Bertrand Coüasnon">
+      <data key="affiliation">INSA, Rennes and UMR, IRISA, Rennes and Université Européenne de Bretagne, France</data>
+      <data key="research">structured document recognition, document structure recognition, recognition system</data>
     </node>
-    <node id="Marc Boulle">
-      <data key="affiliation">Orange Labs, Lannion, France</data>
-      <data key="research">data preparation, discrete data, functional data</data>
+    <node id="Emmanuel Veneau">
+      <data key="affiliation">Nan</data>
+      <data key="research">image analysis function, video analysis, Image Feature Extraction</data>
     </node>
-    <edge source="Carine Hue" target="Jean-Pierre Le Cadre">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Carine Hue" target="P. Perez">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Carine Hue" target="Marc Boulle">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="O. Trémois" target="Jean-Pierre Le Cadre">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Emmanuel Veneau" target="P Bouthemy">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Emmanuel Veneau" target="Rémi Ronfard">
+    <edge source="A. Chessel" target="P Bouthemy">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Nicolas Papadakis" target="Alexandre Hervieu">
@@ -120,34 +105,40 @@
     <edge source="Éric Anquetil" target="Bertrand Coüasnon">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aurélie Bugeau" target="V. Caselles">
+    <edge source="P Bouthemy" target="Alain Lehmann">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aurélie Bugeau" target="Alexandre Hervieu">
+    <edge source="P Bouthemy" target="Emmanuel Veneau">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aurélie Bugeau" target="P. Perez">
+    <edge source="P Bouthemy" target="Rémi Ronfard">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aurélie Bugeau" target="Pau Gargallo">
+    <edge source="P Bouthemy" target="Roger Mohr">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Rémi Ronfard" target="P Bouthemy">
+    <edge source="P Bouthemy" target="R. Venkatehs Babu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="A. Chessel" target="P Bouthemy">
+    <edge source="P Bouthemy" target="P. Perez">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Roger Mohr" target="P Bouthemy">
+    <edge source="P Bouthemy" target="Jean-Pierre Le Cadre">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Perez" target="P Bouthemy">
+    <edge source="P Bouthemy" target="Alexandre Hervieu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Perez" target="Jean-Pierre Le Cadre">
+    <edge source="Marc Boulle" target="Carine Hue">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Perez" target="R. Venkatehs Babu">
+    <edge source="O. Trémois" target="Jean-Pierre Le Cadre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carine Hue" target="Jean-Pierre Le Cadre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carine Hue" target="P. Perez">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jean-Pierre Le Cadre" target="Frédéric Dambreville">
@@ -156,28 +147,37 @@
     <edge source="Jean-Pierre Le Cadre" target="Alexandre Hervieu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jean-Pierre Le Cadre" target="P Bouthemy">
+    <edge source="Jean-Pierre Le Cadre" target="P. Perez">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Alexandre Hervieu" target="Pau Gargallo">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Alexandre Hervieu" target="P Bouthemy">
+    <edge source="Alexandre Hervieu" target="Aurélie Bugeau">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Alexandre Hervieu" target="V. Caselles">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Pau Gargallo" target="V. Caselles">
+    <edge source="Rémi Ronfard" target="Emmanuel Veneau">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bertrand Coüasnon" target="Frédéric Dambreville">
+    <edge source="V. Caselles" target="Aurélie Bugeau">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Alain Lehmann" target="P Bouthemy">
+    <edge source="V. Caselles" target="Pau Gargallo">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="R. Venkatehs Babu" target="P Bouthemy">
+    <edge source="P. Perez" target="Aurélie Bugeau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Perez" target="R. Venkatehs Babu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pau Gargallo" target="Aurélie Bugeau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frédéric Dambreville" target="Bertrand Coüasnon">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

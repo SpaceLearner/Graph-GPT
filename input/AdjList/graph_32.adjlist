@@ -1,59 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:55 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:01 2023
 # 
-Michael J. Gallivan	3
-Manju K. Ahuja	{'relation': 'collaborate'}
-Monica Adya	{'relation': 'collaborate'}
-A. Woszczynski	{'relation': 'collaborate'}
-Mohan R Tanniru	3
-Kelly J. Fadel	{'relation': 'collaborate'}
-Susan A. Brown	{'relation': 'collaborate'}
-Suzanne P. Weisband	{'relation': 'collaborate'}
-Dennis F. Galletta	4
-Kelly J. Fadel	{'relation': 'collaborate'}
-Alexandra Durcikova	{'relation': 'collaborate'}
-Manju K. Ahuja	{'relation': 'collaborate'}
-Brian Butler	{'relation': 'collaborate'}
-Ayoung Suh	1
-Manju K. Ahuja	{'relation': 'collaborate'}
-Thomas Meservy	2
-Matthew L. Jensen	{'relation': 'collaborate'}
-Kelly J. Fadel	{'relation': 'collaborate'}
-Chris Ogan	1
-Manju K. Ahuja	{'relation': 'collaborate'}
-Kelly J. Fadel	7
-Brian Butler	{'relation': 'collaborate'}
-Hoon S. Cha	{'relation': 'collaborate'}
-Matthew L. Jensen	{'relation': 'collaborate'}
-Alexandra Durcikova	{'relation': 'collaborate'}
-Elisa Mattarelli	{'relation': 'collaborate'}
-Susan A. Brown	{'relation': 'collaborate'}
-Suzanne P. Weisband	{'relation': 'collaborate'}
-Ajit Kambil	1
-Manju K. Ahuja	{'relation': 'collaborate'}
-Monica Adya	2
-Manju K. Ahuja	{'relation': 'collaborate'}
-A. Woszczynski	{'relation': 'collaborate'}
-David E Pingry	3
-M. E. Thatcher	{'relation': 'collaborate'}
-Hoon S. Cha	{'relation': 'collaborate'}
-Manju K. Ahuja	{'relation': 'collaborate'}
-Manju K. Ahuja	3
-A. Woszczynski	{'relation': 'collaborate'}
-Hoon S. Cha	{'relation': 'collaborate'}
-M. E. Thatcher	{'relation': 'collaborate'}
-Alexandra Durcikova	4
-Susan A. Brown	{'relation': 'collaborate'}
-Hoon S. Cha	{'relation': 'collaborate'}
-Brian Butler	{'relation': 'collaborate'}
-Suzanne P. Weisband	{'relation': 'collaborate'}
-Hoon S. Cha	1
-M. E. Thatcher	{'relation': 'collaborate'}
-Matthew L. Jensen	0
-Brian Butler	0
-Elisa Mattarelli	1
-Suzanne P. Weisband	{'relation': 'collaborate'}
-A. Woszczynski	0
-M. E. Thatcher	0
-Susan A. Brown	0
-Suzanne P. Weisband	0
+Dennis F. Galletta	Kelly J. Fadel	Alexandra Durcikova	Manju K. Ahuja	Brian Butler
+Brian Butler	Kelly J. Fadel	Alexandra Durcikova
+Hoon S. Cha	Kelly J. Fadel	Manju K. Ahuja	M. E. Thatcher	Alexandra Durcikova	David E Pingry
+Kelly J. Fadel	Mohan R Tanniru	Matthew L. Jensen	Alexandra Durcikova	Elisa Mattarelli	Susan A. Brown	Thomas Meservy	Suzanne P. Weisband
+Mohan R Tanniru	Susan A. Brown	Suzanne P. Weisband
+Ajit Kambil	Manju K. Ahuja
+Michael J. Gallivan	Manju K. Ahuja	Monica Adya	A. Woszczynski
+Susan A. Brown	Alexandra Durcikova
+A. Woszczynski	Manju K. Ahuja	Monica Adya
+Monica Adya	Manju K. Ahuja
+M. E. Thatcher	David E Pingry	Manju K. Ahuja
+Manju K. Ahuja	Chris Ogan	Ayoung Suh	David E Pingry
+Elisa Mattarelli	Suzanne P. Weisband
+Suzanne P. Weisband	Alexandra Durcikova
+Matthew L. Jensen	Thomas Meservy
+Chris Ogan
+Alexandra Durcikova
+Ayoung Suh
+David E Pingry
+Thomas Meservy

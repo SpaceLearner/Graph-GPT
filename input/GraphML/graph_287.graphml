@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Peter Keevash">
+      <data key="affiliation">p.keevash@qmul.ac.uk</data>
+      <data key="research">n vertex, n number, beta n</data>
+    </node>
+    <node id="A E Brouwer">
+      <data key="affiliation">&lt;i&gt;Eindhoven Univ. of Technology, Eindhoven, Netherlands&lt;/i&gt;</data>
+      <data key="research">distance-regular graph, regular graph, sporadic Suzuki graph</data>
+    </node>
+    <node id="Z Furedi">
+      <data key="affiliation">Dept. of Math., Illinois Univ., Urbana, IL</data>
+      <data key="research">log m, closure operation, m large enough</data>
+    </node>
+    <node id="J Demetrovics">
+      <data key="affiliation">Institut fu¨r Informatik, W. Germany</data>
+      <data key="research">Mathematical Fundamentals, individual data, functional dependency</data>
+    </node>
+    <node id="Attila Sali">
+      <data key="affiliation">Alfréd Rényi Institute of Mathematics, Hungarian Academy of Sciences, Budapest, Hungary 1364 and Department of Computer Science, Budapest University of Technology and Economics, Budapest ...</data>
+      <data key="research">functional dependency, minimal key, closed set</data>
+    </node>
+    <node id="Zoltan Furedi">
+      <data key="affiliation">zfuredi@illinois.edu</data>
+      <data key="research">n vertex, mathcal F, cal H</data>
+    </node>
+    <node id="L. A. Székely">
+      <data key="affiliation">Department of Mathematics, University of South Carolina, Columbia, SC</data>
+      <data key="research">evolutionary tree, minimum number, log n</data>
+    </node>
+    <node id="L. Caccetta">
+      <data key="affiliation">School of Mathematics and Statistics, Curtin University of Technology GPO Box U1987, Perth, WA 6845, Western Australia</data>
+      <data key="research">PCLS design, PCLS design problem, PCLS stopbands design problem</data>
+    </node>
+    <node id="Thomas Lukasiewicz">
+      <data key="affiliation">Institut für Informatik, Universität Gießen, Gießen, Germany</data>
+      <data key="research">semantic web, probabilistic uncertainty, probabilistic entailment</data>
+    </node>
+    <node id="G O Katona">
+      <data key="affiliation">Rényi institute, hungarian academy of sciences, budapest pf 127, 1364hungary (email: ohkatona@renyi.hu)</data>
+      <data key="research">maximum size, minimum number, functional dependency</data>
+    </node>
+    <node id="Miguel Raggi">
+      <data key="affiliation">Nan</data>
+      <data key="research">6-rowed configurations F, boundary casesA simple matrix, matrix F</data>
+    </node>
+    <node id="Martin Farber">
+      <data key="affiliation">Faculty of Mathematics, Department of Combinatorics and Optimization, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1</data>
+      <data key="research">chordal graph, chordal graphsA graph chordal, cop-win graphsBasis pair graph</data>
+    </node>
+    <node id="Anita Keszler">
+      <data key="affiliation">Distributed Events Analysis Research Group, MTA SZTAKI, Kende utca 1317, Budapest, Hungary.</data>
+      <data key="research">mixed graph model, bipartite graph, giant component</data>
+    </node>
+    <node id="Jerrold R Griggs">
+      <data key="affiliation">Univ. of Minnesota, Minneapolis</data>
+      <data key="research">minimum span, hexagonal lattice, intersecting family</data>
+    </node>
+    <node id="R. E. L. Aldred">
+      <data key="affiliation">Department of Mathematics and Statistics, The University of Otago, P.O. Box 56 Dunedin, New Zealand</data>
+      <data key="research">cal H, cal G, n-free graph</data>
+    </node>
+    <node id="A Blokhuis">
+      <data key="affiliation">Technische Universiteit Eindhoven, PO Box 513, 5600 MB Eindhoven, The Netherlands Vrije Universiteit Amsterdam, De Boelelaan 1081, Amsterdam, The Netherlands</data>
+      <data key="research">coding theory, finite geometry, order n</data>
+    </node>
+    <node id="Yunsun Nam">
+      <data key="affiliation">Center for Genome Science, National Institute of Health, Division of BioMedical Informatics, 194 TongIlLo, EunpyungGu, 122701, Seoul, Korea</data>
+      <data key="research">connected factor, connected factorsIn, degree restriction</data>
+    </node>
+    <node id="R P Anstee">
+      <data key="affiliation">anstee@math.ubc.ca and blackman@interchange.ubc.ca</data>
+      <data key="research">m k, O device, column permutation</data>
+    </node>
+    <node id="Gábor Simonyi">
+      <data key="affiliation">simonyi@renyi.hu</data>
+      <data key="research">local chromatic number, chromatic number, maximum number</data>
+    </node>
+    <node id="Klaus-Dieter Schewe">
+      <data key="affiliation">Software Competence Center, Hagenberg and JohannesKeplerUniversity, Linz, Austria</data>
+      <data key="research">data warehouse, Web information system, functional dependency</data>
+    </node>
+    <edge source="Peter Keevash" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A E Brouwer" target="Attila Sali">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A E Brouwer" target="A Blokhuis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z Furedi" target="G O Katona">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z Furedi" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Demetrovics" target="G O Katona">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Demetrovics" target="Attila Sali">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Demetrovics" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Gábor Simonyi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Klaus-Dieter Schewe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Zoltan Furedi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="A Blokhuis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Anita Keszler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Miguel Raggi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="G O Katona">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="Thomas Lukasiewicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="L. A. Székely">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Attila Sali" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zoltan Furedi" target="G O Katona">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zoltan Furedi" target="Gábor Simonyi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zoltan Furedi" target="Jerrold R Griggs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Caccetta" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G O Katona" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G O Katona" target="Jerrold R Griggs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G O Katona" target="Anita Keszler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G O Katona" target="Klaus-Dieter Schewe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Miguel Raggi" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Farber" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jerrold R Griggs" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. E. L. Aldred" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yunsun Nam" target="R P Anstee">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

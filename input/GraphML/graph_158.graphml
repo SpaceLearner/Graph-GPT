@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Bo Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">linear interpolation method, novel contour detection method, Boundary Similar RegionSalient object</data>
+    </node>
+    <node id="Jing Li">
+      <data key="affiliation">State Key Lab. of Integrated Service Networks, Xidian University, Xi'an, China</data>
+      <data key="research">detection performance, M-IWS interleavers, cooperation overhead</data>
+    </node>
+    <node id="Wei Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">Information Management Optimization, CAPP system, PDM system</data>
+    </node>
+    <node id="Bo Gao">
+      <data key="affiliation">Nan</data>
+      <data key="research">interactive grouping tool, OSN account, Online Social Networks</data>
+    </node>
+    <node id="Dina Bitton">
+      <data key="affiliation">SAP Labs, Palo Alto, CA</data>
+      <data key="research">expert tool, parallel algorithm, parallel sort utility</data>
+    </node>
+    <node id="Xiaorui Zhang">
+      <data key="affiliation">SINTEF, Oslo, Norway and Department of Informatics, University of Oslo, Oslo, Norway</data>
+      <data key="research">Common Variability Language, base model, product line model</data>
+    </node>
+    <node id="Yang Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">knowledge resource, supernetwork model, knowledge network</data>
+    </node>
+    <node id="Xuan Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">heterogeneous wireless network, different wireless network, mobile agent</data>
+    </node>
+    <node id="S. X. Yang">
+      <data key="affiliation">IBM T.J. Watson Research Center, China</data>
+      <data key="research">recommendation tool, software team</data>
+    </node>
+    <node id="Zhongwei He">
+      <data key="affiliation">School of Software, Sun Yatsen University, Guangzhou 510006, China</data>
+      <data key="research">approximate run length, digital image, image splicing</data>
+    </node>
+    <node id="Jie Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">China Beijing International Cultural, information collecting, Overall Satisfaction</data>
+    </node>
+    <node id="Zhaohui Ren">
+      <data key="affiliation">Nan</data>
+      <data key="research">high water, Experimental Analysis, Spray DryerSpray dryer</data>
+    </node>
+    <node id="Shu Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">EnterprisesRight outsourcer evaluation, outsourcer evaluation indicators system, reasonable evaluation index system</data>
+    </node>
+    <node id="Alma Riska">
+      <data key="affiliation">EMC Corporation, Cambridge, MA, USA</data>
+      <data key="research">storage system, disk drive, performance target</data>
+    </node>
+    <node id="Wei Lu">
+      <data key="affiliation">Microsoft, Redmond, WA</data>
+      <data key="research">smartphone application, data leak, moment data</data>
+    </node>
+    <node id="Qiuju Lan">
+      <data key="affiliation">Nan</data>
+      <data key="research">metadata distribution dynamically, metadata management, metadata server</data>
+    </node>
+    <node id="G. Ciardo">
+      <data key="affiliation">IEEE</data>
+      <data key="research">decision diagram, state space, Petri net</data>
+    </node>
+    <node id="Fei Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">trade credit, Institutional Environment, Audit Opinion</data>
+    </node>
+    <node id="Gongye Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">head-media spacing, high SNR, Pre-patterned-deposition Bit</data>
+    </node>
+    <node id="Junhui Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">fast performance evaluation, NoC delay estimation approach, NoC topology</data>
+    </node>
+    <edge source="Bo Hu" target="Wei Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Li" target="Wei Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Li" target="Jie Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Fei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="G. Ciardo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Alma Riska">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Yang Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Zhongwei He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Wei Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Xuan Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Junhui Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Zhaohui Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Gongye Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="S. X. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Bo Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Dina Bitton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Sun" target="Xiaorui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Yu" target="Yang Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongwei He" target="Wei Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Liu" target="Gongye Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Liu" target="Shu Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu Xu" target="Gongye Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alma Riska" target="G. Ciardo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiuju Lan" target="Gongye Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

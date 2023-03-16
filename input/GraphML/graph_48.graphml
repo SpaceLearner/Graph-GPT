@@ -4,22 +4,6 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Jinling Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">UAV image, unmanned aerial vehicle, automatic matching</data>
-    </node>
-    <node id="Hongxu Ma">
-      <data key="affiliation">Nan</data>
-      <data key="research">Fair Multi-priority MAC Protocol, MIMO channel, Wireless Sensor Networks-Aiming</data>
-    </node>
-    <node id="Shoucai Yuan">
-      <data key="affiliation">Nan</data>
-      <data key="research">standby switch, SPICE simulation, subthreshold leakage current</data>
-    </node>
-    <node id="SeungHwan Won">
-      <data key="affiliation">Samsung Electronics, Suwon, GyeongGi, Republic of Korea</data>
-      <data key="research">iterative code acquisition scheme, diversity order, search space reduction</data>
-    </node>
     <node id="Xi-shan Wen">
       <data key="affiliation">Nan</data>
       <data key="research">DC CurrentNA, Evaluation Method, Transmission Line Tower Grounding</data>
@@ -27,46 +11,6 @@
     <node id="Yanjun Wang">
       <data key="affiliation">Nan</data>
       <data key="research">delta operator, neutral system, robust stability</data>
-    </node>
-    <node id="Sang Bong Yoo">
-      <data key="affiliation">School of Computer Science, Inha University, Incheon, Korea</data>
-      <data key="research">Web Service, context information, design data</data>
-    </node>
-    <node id="Vasanth Ram Rajarathinam">
-      <data key="affiliation">AMD, Orlando, FL, USA</data>
-      <data key="research">resulting hardware, information flow policy, buggy hardware feature</data>
-    </node>
-    <node id="Ben Hardekopf">
-      <data key="affiliation">University of California, Santa Barbara</data>
-      <data key="research">flow-sensitive pointer analysis, pointer analysis, static analysis</data>
-    </node>
-    <node id="Woochul Shin">
-      <data key="affiliation">School of Computer Science, Inha University, Incheon, Korea</data>
-      <data key="research">Web Service, context information, mobile device</data>
-    </node>
-    <node id="Frederic T. Chong">
-      <data key="affiliation">Nan</data>
-      <data key="research">global data, big data, energy-aware security mechanism</data>
-    </node>
-    <node id="Li Li">
-      <data key="affiliation">Institute of VLSI Design, Nanjing University, Nanjing, China</data>
-      <data key="research">random error, Unified architecture, burst-error correction</data>
-    </node>
-    <node id="Diana Franklin">
-      <data key="affiliation">UCSB, Santa Barbara, USA</data>
-      <data key="research">computer science, power consumption, dynamic code generation</data>
-    </node>
-    <node id="Xun Li">
-      <data key="affiliation">Nan</data>
-      <data key="research">matching token, Model-Guided Grouping, matching strategy</data>
-    </node>
-    <node id="Yanbo Gao">
-      <data key="affiliation">Department of Computer Science, Shanghai Jiao Tong University, Shanghai, China</data>
-      <data key="research">World Wide Web, acquired attribute knowledge base, attribute information</data>
-    </node>
-    <node id="Radhika Santhanam">
-      <data key="affiliation">DSIS Area, School of Management, Gatton College of Business and Economics, University of Kentucky, Lexington, KY 40506, USA &lt;rfc822&gt;santhan@pop.uky.edu&lt;/rfc822&gt;</data>
-      <data key="research">knowledge-based system, collaborative application, implicit learning</data>
     </node>
     <node id="De Liu">
       <data key="affiliation">Gatton College of Business and Economics, University of Kentucky, Lexington, KY</data>
@@ -76,29 +20,70 @@
       <data key="affiliation">Inha University, 1103 Hightech Center, Yonghyundong 253, Namgu, Incheon, Republic of Korea</data>
       <data key="research">video clip, content-based video, heterogeneous video clip</data>
     </node>
+    <node id="Hongxu Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fair Multi-priority MAC Protocol, MIMO channel, Wireless Sensor Networks-Aiming</data>
+    </node>
+    <node id="Radhika Santhanam">
+      <data key="affiliation">DSIS Area, School of Management, Gatton College of Business and Economics, University of Kentucky, Lexington, KY 40506, USA &lt;rfc822&gt;santhan@pop.uky.edu&lt;/rfc822&gt;</data>
+      <data key="research">knowledge-based system, collaborative application, implicit learning</data>
+    </node>
+    <node id="Sang Bong Yoo">
+      <data key="affiliation">School of Computer Science, Inha University, Incheon, Korea</data>
+      <data key="research">Web Service, context information, design data</data>
+    </node>
     <node id="Clyde W. Holsapple">
       <data key="affiliation">University of Illinois, Champaign, Illinois</data>
       <data key="research">knowledge management, expert system, complex knowledge acquisition task</data>
+    </node>
+    <node id="Li Li">
+      <data key="affiliation">Institute of VLSI Design, Nanjing University, Nanjing, China</data>
+      <data key="research">random error, Unified architecture, burst-error correction</data>
+    </node>
+    <node id="Frederic T. Chong">
+      <data key="affiliation">Nan</data>
+      <data key="research">global data, big data, energy-aware security mechanism</data>
+    </node>
+    <node id="Xun Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">matching token, Model-Guided Grouping, matching strategy</data>
+    </node>
+    <node id="Shoucai Yuan">
+      <data key="affiliation">Nan</data>
+      <data key="research">standby switch, SPICE simulation, subthreshold leakage current</data>
+    </node>
+    <node id="Yanbo Gao">
+      <data key="affiliation">Department of Computer Science, Shanghai Jiao Tong University, Shanghai, China</data>
+      <data key="research">World Wide Web, acquired attribute knowledge base, attribute information</data>
+    </node>
+    <node id="SeungHwan Won">
+      <data key="affiliation">Samsung Electronics, Suwon, GyeongGi, Republic of Korea</data>
+      <data key="research">iterative code acquisition scheme, diversity order, search space reduction</data>
+    </node>
+    <node id="Jinling Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">UAV image, unmanned aerial vehicle, automatic matching</data>
+    </node>
+    <node id="Woochul Shin">
+      <data key="affiliation">School of Computer Science, Inha University, Incheon, Korea</data>
+      <data key="research">Web Service, context information, mobile device</data>
+    </node>
+    <node id="Vasanth Ram Rajarathinam">
+      <data key="affiliation">AMD, Orlando, FL, USA</data>
+      <data key="research">resulting hardware, information flow policy, buggy hardware feature</data>
     </node>
     <node id="Roland Geyer">
       <data key="affiliation">Donald Bren School of Environmental Science &amp; Management, University of California, Bren Hall 3426, Santa Barbara, California 93016</data>
       <data key="research">cell phone, educational application, high cost</data>
     </node>
-    <edge source="Jinling Wang" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hongxu Ma" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Shoucai Yuan" target="Ziyu Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Shoucai Yuan" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="SeungHwan Won" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
+    <node id="Ben Hardekopf">
+      <data key="affiliation">University of California, Santa Barbara</data>
+      <data key="research">flow-sensitive pointer analysis, pointer analysis, static analysis</data>
+    </node>
+    <node id="Diana Franklin">
+      <data key="affiliation">UCSB, Santa Barbara, USA</data>
+      <data key="research">computer science, power consumption, dynamic code generation</data>
+    </node>
     <edge source="Xi-shan Wen" target="Xun Li">
       <data key="relation">collaborate</data>
     </edge>
@@ -106,6 +91,27 @@
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yanjun Wang" target="Li Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="De Liu" target="Xun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="De Liu" target="Radhika Santhanam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziyu Wang" target="Shoucai Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziyu Wang" target="Xun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongxu Ma" target="Xun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radhika Santhanam" target="Xun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radhika Santhanam" target="Clyde W. Holsapple">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Sang Bong Yoo" target="Xun Li">
@@ -117,67 +123,61 @@
     <edge source="Sang Bong Yoo" target="Woochul Shin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Vasanth Ram Rajarathinam" target="Frederic T. Chong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Vasanth Ram Rajarathinam" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Vasanth Ram Rajarathinam" target="Ben Hardekopf">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ben Hardekopf" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ben Hardekopf" target="Frederic T. Chong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Woochul Shin" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Woochul Shin" target="Li Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Frederic T. Chong" target="Xun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Frederic T. Chong" target="Roland Geyer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Frederic T. Chong" target="Diana Franklin">
+    <edge source="Clyde W. Holsapple" target="Xun Li">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Li Li" target="Xun Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Diana Franklin" target="Xun Li">
+    <edge source="Li Li" target="Woochul Shin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Diana Franklin" target="Roland Geyer">
+    <edge source="Frederic T. Chong" target="Xun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frederic T. Chong" target="Vasanth Ram Rajarathinam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frederic T. Chong" target="Roland Geyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frederic T. Chong" target="Ben Hardekopf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frederic T. Chong" target="Diana Franklin">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Xun Li" target="Roland Geyer">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xun Li" target="Clyde W. Holsapple">
+    <edge source="Xun Li" target="Ben Hardekopf">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xun Li" target="Radhika Santhanam">
+    <edge source="Xun Li" target="Diana Franklin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xun Li" target="De Liu">
+    <edge source="Xun Li" target="Vasanth Ram Rajarathinam">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xun Li" target="Ziyu Wang">
+    <edge source="Xun Li" target="Shoucai Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xun Li" target="SeungHwan Won">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Xun Li" target="Yanbo Gao">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Radhika Santhanam" target="De Liu">
+    <edge source="Xun Li" target="Jinling Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Radhika Santhanam" target="Clyde W. Holsapple">
+    <edge source="Xun Li" target="Woochul Shin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vasanth Ram Rajarathinam" target="Ben Hardekopf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roland Geyer" target="Diana Franklin">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

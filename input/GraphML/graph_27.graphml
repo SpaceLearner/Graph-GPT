@@ -4,41 +4,73 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Yanping Wang">
-      <data key="affiliation">The National Key Laboratory of Microwave Imaging Technology, Beijing, China and Institute of Electronics, Chinese Academy of Sciences, Beijing, China</data>
-      <data key="research">nonlinear phase term, wavenumber domain, signal spectrum</data>
+    <node id="Chunxiang Cao">
+      <data key="affiliation">The State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing Applications, Chinese Academy of Sciences, and Beijing Normal University, Beijing, China</data>
+      <data key="research">avian influenza, forest GSV, Kriging method</data>
     </node>
-    <node id="Jerry L. Potter">
+    <node id="Lei Du">
       <data key="affiliation">Nan</data>
-      <data key="research">multimedia browser</data>
+      <data key="research">block bilinear form C, bilinear form, conjugate gradient</data>
     </node>
     <node id="Carey L. Williamson">
       <data key="affiliation">University of Calgary, Calgary, AB, Canada</data>
       <data key="research">simulation result, wireless sensor network, ATM network</data>
     </node>
+    <node id="Yirong Wu">
+      <data key="affiliation">The National Key Laboratory of Microwave Imaging Technology, Beijing, China and Institute of Electronics, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">proposed method, VBR MPEG video traffic, 2-SAR imaging</data>
+    </node>
+    <node id="Hongli Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">IT consulting company, IT Consulting CompanyEffective knowledge, IT consulting company knowledge</data>
+    </node>
+    <node id="Yanping Wang">
+      <data key="affiliation">The National Key Laboratory of Microwave Imaging Technology, Beijing, China and Institute of Electronics, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">nonlinear phase term, wavenumber domain, signal spectrum</data>
+    </node>
+    <node id="Hui Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">tidal beach, Vegetation Distribution, east beach</data>
+    </node>
+    <node id="Fanqi Meng">
+      <data key="affiliation">Nan</data>
+      <data key="research">accurate segmentation object, practical spatial region segmentation, video motion segmentation algorithm</data>
+    </node>
+    <node id="Qixin Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">magneto motive force, Novel Design, biomimetic robofish</data>
+    </node>
+    <node id="Feng Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">non-local phenomenon, dual space, geometric duality</data>
+    </node>
+    <node id="Jerry L. Potter">
+      <data key="affiliation">Nan</data>
+      <data key="research">multimedia browser</data>
+    </node>
     <node id="Xiao Luo">
       <data key="affiliation">Nan</data>
       <data key="research">local search engine, Local SearchRanking search result, Web search</data>
     </node>
-    <node id="Chunxiang Cao">
-      <data key="affiliation">The State Key Laboratory of Remote Sensing Science, Institute of Remote Sensing Applications, Chinese Academy of Sciences, and Beijing Normal University, Beijing, China</data>
-      <data key="research">avian influenza, forest GSV, Kriging method</data>
+    <node id="Robert A. Walker">
+      <data key="affiliation">University of Calgary, Calgary, AB, Canada</data>
+      <data key="research">design space, design representation, VLSI design</data>
+    </node>
+    <node id="Juan Jiang">
+      <data key="affiliation">School of Materials Science and Engineering, Hubei University, Wuhan 430062, PR China</data>
+      <data key="research">plasma-induced damage, etched film, thin film</data>
     </node>
     <node id="K. Shiv">
       <data key="affiliation">Intel Corporation,</data>
       <data key="research">Intel platform, Enterprise Java CMP, Enterprise Java server</data>
     </node>
-    <node id="Yirong Wu">
-      <data key="affiliation">The National Key Laboratory of Microwave Imaging Technology, Beijing, China and Institute of Electronics, Chinese Academy of Sciences, Beijing, China</data>
-      <data key="research">proposed method, VBR MPEG video traffic, 2-SAR imaging</data>
+    <node id="Yao Fu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Knowledge Transfer, team member, D TeamEffective knowledge transfer</data>
     </node>
     <node id="J. Guo">
       <data key="affiliation">Department of Environmental Health, University of Cincinnati  3223 Eden Avenue ML 56, Cincinnati OH 45267, USA</data>
       <data key="research">clustering gene expression profile, gene expression pattern, clustering procedure</data>
-    </node>
-    <node id="Lei Du">
-      <data key="affiliation">Nan</data>
-      <data key="research">block bilinear form C, bilinear form, conjugate gradient</data>
     </node>
     <node id="Kingsum Chow">
       <data key="affiliation">Intel Corporation,</data>
@@ -48,61 +80,62 @@
       <data key="affiliation">Nan</data>
       <data key="research">UML modeling support, component-based developmentConceptual modeling process, early reuse decision</data>
     </node>
-    <node id="Qixin Zhu">
-      <data key="affiliation">Nan</data>
-      <data key="research">magneto motive force, Novel Design, biomimetic robofish</data>
-    </node>
-    <node id="Juan Jiang">
-      <data key="affiliation">School of Materials Science and Engineering, Hubei University, Wuhan 430062, PR China</data>
-      <data key="research">plasma-induced damage, etched film, thin film</data>
-    </node>
-    <node id="Robert A. Walker">
-      <data key="affiliation">University of Calgary, Calgary, AB, Canada</data>
-      <data key="research">design space, design representation, VLSI design</data>
-    </node>
-    <node id="Fanqi Meng">
-      <data key="affiliation">Nan</data>
-      <data key="research">accurate segmentation object, practical spatial region segmentation, video motion segmentation algorithm</data>
-    </node>
-    <node id="Hongli Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">IT consulting company, IT Consulting CompanyEffective knowledge, IT consulting company knowledge</data>
-    </node>
-    <node id="Feng Zhao">
-      <data key="affiliation">Nan</data>
-      <data key="research">non-local phenomenon, dual space, geometric duality</data>
-    </node>
-    <node id="Yao Fu">
-      <data key="affiliation">Nan</data>
-      <data key="research">Knowledge Transfer, team member, D TeamEffective knowledge transfer</data>
-    </node>
     <node id="Yanjiang Wang">
       <data key="affiliation">Nan</data>
       <data key="research">scene change, background scene, algorithm-Intelligent GMM</data>
     </node>
-    <node id="Hui Yang">
-      <data key="affiliation">Nan</data>
-      <data key="research">tidal beach, Vegetation Distribution, east beach</data>
-    </node>
-    <edge source="Yanping Wang" target="Hongli Liu">
+    <edge source="Chunxiang Cao" target="Hongli Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiang Cao" target="P. Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiang Cao" target="J. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Du" target="Yirong Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Du" target="Yanping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carey L. Williamson" target="Yanping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yirong Wu" target="Yanping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Yanping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="P. Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Juan Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Yanjiang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Yao Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="J. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Hui Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongli Liu" target="Qixin Zhu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yanping Wang" target="Juan Jiang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yanping Wang" target="Carey L. Williamson">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yanping Wang" target="Hui Yang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yanping Wang" target="Fanqi Meng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yanping Wang" target="Yirong Wu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yanping Wang" target="Lei Du">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yanping Wang" target="K. Shiv">
@@ -126,55 +159,22 @@
     <edge source="Yanping Wang" target="Qixin Zhu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jerry L. Potter" target="Robert A. Walker">
+    <edge source="Hui Yang" target="Qixin Zhu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Chunxiang Cao" target="Hongli Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chunxiang Cao" target="P. Gupta">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chunxiang Cao" target="J. Guo">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="K. Shiv" target="Kingsum Chow">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yirong Wu" target="Lei Du">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="J. Guo" target="Hongli Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="J. Guo" target="P. Gupta">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="P. Gupta" target="Hongli Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qixin Zhu" target="Hui Yang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qixin Zhu" target="Hongli Liu">
+    <edge source="Hui Yang" target="Juan Jiang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Qixin Zhu" target="Juan Jiang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Juan Jiang" target="Hongli Liu">
+    <edge source="Jerry L. Potter" target="Robert A. Walker">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Juan Jiang" target="Hui Yang">
+    <edge source="K. Shiv" target="Kingsum Chow">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hongli Liu" target="Yanjiang Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hongli Liu" target="Yao Fu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hongli Liu" target="Hui Yang">
+    <edge source="J. Guo" target="P. Gupta">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

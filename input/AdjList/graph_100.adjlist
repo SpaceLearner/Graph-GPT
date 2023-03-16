@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-Artem Katasonov	2
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Sergiy Nikitin	{'relation': 'collaborate'}
-Igor Keleberda	5
-Michael Fleming	{'relation': 'collaborate'}
-Natalya Lesna	{'relation': 'collaborate'}
-Hamidreza Baghi	{'relation': 'collaborate'}
-Yevgen Biletskiy	{'relation': 'collaborate'}
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Mikko Kovalainen	2
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Seppo Puuronen	{'relation': 'collaborate'}
-Borys Omelayenko	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Jian Tang	2
-Jari Veijalainen	{'relation': 'collaborate'}
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Cheryl Bauman	1
-Michael Fleming	{'relation': 'collaborate'}
-Jari Veijalainen	3
-Henry Tirri	{'relation': 'collaborate'}
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Sergiy Nikitin	{'relation': 'collaborate'}
-Seppo Puuronen	3
-Vladimir Ryabov	{'relation': 'collaborate'}
-Alexey Tsymbal	{'relation': 'collaborate'}
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Hamidreza Baghi	2
-Michael Fleming	{'relation': 'collaborate'}
-Yevgen Biletskiy	{'relation': 'collaborate'}
-Yevgen Biletskiy	1
-Michael Fleming	{'relation': 'collaborate'}
-Michael Fleming	1
-Bruce Spencer	{'relation': 'collaborate'}
-Alexey Tsymbal	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-M A. Bramer	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Vladimir Ryabov	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Bruce Spencer	1
-Bruce Spencer	{'relation': 'collaborate'}
-Natalya Lesna	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Anton Naumenko	2
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Sergiy Nikitin	{'relation': 'collaborate'}
-Sergiy Nikitin	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Henry Tirri	1
-Vagan Y. Terziyan	{'relation': 'collaborate'}
-Vagan Y. Terziyan	0
+Seppo Puuronen	Vladimir Ryabov	Alexey Tsymbal	Mikko Kovalainen	Vagan Y. Terziyan
+Anton Naumenko	Vagan Y. Terziyan	Sergiy Nikitin
+Borys Omelayenko	Vagan Y. Terziyan
+Henry Tirri	Jari Veijalainen	Vagan Y. Terziyan
+Alexey Tsymbal	Vagan Y. Terziyan
+Igor Keleberda	Michael Fleming	Natalya Lesna	Hamidreza Baghi	Yevgen Biletskiy	Vagan Y. Terziyan
+Natalya Lesna	Vagan Y. Terziyan
+Michael Fleming	Cheryl Bauman	Bruce Spencer	Yevgen Biletskiy	Hamidreza Baghi
+Jian Tang	Jari Veijalainen	Vagan Y. Terziyan
+Bruce Spencer	Bruce Spencer
+Vagan Y. Terziyan	Vladimir Ryabov	Sergiy Nikitin	Mikko Kovalainen	Jari Veijalainen	Artem Katasonov	M A. Bramer
+Jari Veijalainen	Sergiy Nikitin
+Cheryl Bauman
+Yevgen Biletskiy	Hamidreza Baghi
+Mikko Kovalainen
+Vladimir Ryabov
+M A. Bramer
+Hamidreza Baghi
+Sergiy Nikitin	Artem Katasonov
+Artem Katasonov

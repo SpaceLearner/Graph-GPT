@@ -4,49 +4,41 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Lisa Neal">
-      <data key="affiliation">Tufts University School of Medicine, Lexington, MA</data>
-      <data key="research">online course, online health community, online learning</data>
+    <node id="Kyparisia A. Papanikolaou">
+      <data key="affiliation">Department of Education, School of Pedagogical and Technological Education, Athens, Greece</data>
+      <data key="research">knowledge level, empirical study, learner model</data>
     </node>
-    <node id="Diane Miller">
-      <data key="affiliation">Aptima, Inc., Woburn, MA</data>
-      <data key="research">online course, online learning, elusive concept</data>
-    </node>
-    <node id="L. Plowman">
-      <data key="affiliation">University of Stirling</data>
-      <data key="research">system design, narrative guidance, workplace study</data>
-    </node>
-    <node id="Mark Notess">
-      <data key="affiliation">Indiana University</data>
-      <data key="research">audio track, optional audio, VoiceMany online course</data>
-    </node>
-    <node id="Rosemary Luckin">
-      <data key="affiliation">London Knowledge Lab, Institute of Education</data>
-      <data key="research">interactive learning environment, collaborative learning, effective learning</data>
+    <node id="Saul Carliner">
+      <data key="affiliation">Concordia University</data>
+      <data key="research">design craft beginning, instructional design expertise, training design</data>
     </node>
     <node id="Maria Grigoriadou">
       <data key="affiliation">Department of Informatics and Telecommunications, University of Athens, Panepistimiopolis, GR15784 Athens, Greece. email: &lt;rfc822&gt;gregor@di.uoa.gr&lt;/rfc822&gt;</data>
       <data key="research">intelligent learning environment, activity-oriented learning environment, collaborative learning</data>
     </node>
-    <node id="Diana Laurillard">
-      <data key="affiliation">Institute of Education, London Knowledge Lab, UK</data>
-      <data key="research">narrative guidance, creative learning design, language learningDistance learning</data>
-    </node>
-    <node id="Patricia Charlton">
-      <data key="affiliation">Birkbeck College, London Knowledge Lab, UK</data>
-      <data key="research">multi-agent system, agent system, FIPA agent interoperability standard</data>
-    </node>
-    <node id="Gitte Lindgaard">
-      <data key="affiliation">Swinburne University of Technology, Australia and Carleton University, Canada</data>
-      <data key="research">User Needs Analysis, visual appeal, implicit alignment work</data>
-    </node>
-    <node id="George D. Magoulas">
-      <data key="affiliation">University of London, United Kingdom</data>
-      <data key="research">classification problem, Dimensionality Reduction, classification problemsThe k Nearest</data>
+    <node id="Lisa Neal">
+      <data key="affiliation">Tufts University School of Medicine, Lexington, MA</data>
+      <data key="research">online course, online health community, online learning</data>
     </node>
     <node id="Josie Taylor">
       <data key="affiliation">Nan</data>
       <data key="research">computational concept, year old child</data>
+    </node>
+    <node id="Derek L. Hansen">
+      <data key="affiliation">Brigham Young University, Provo, UT, USA</data>
+      <data key="research">social media, SNA tool, wiki repository</data>
+    </node>
+    <node id="Rosemary Luckin">
+      <data key="affiliation">London Knowledge Lab, Institute of Education</data>
+      <data key="research">interactive learning environment, collaborative learning, effective learning</data>
+    </node>
+    <node id="Jenny Preece">
+      <data key="affiliation">University of Maryland, College Park, MD</data>
+      <data key="research">online community, social media, content curation community</data>
+    </node>
+    <node id="Gitte Lindgaard">
+      <data key="affiliation">Swinburne University of Technology, Australia and Carleton University, Canada</data>
+      <data key="research">User Needs Analysis, visual appeal, implicit alignment work</data>
     </node>
     <node id="Clark N. Quinn">
       <data key="affiliation">University of CaliforniaSan Diego</data>
@@ -56,25 +48,9 @@
       <data key="affiliation">New York State Psychiatric Institute and Columbia University, New York, NY</data>
       <data key="research">Online health community, context-initiated information, electronic health record</data>
     </node>
-    <node id="Saul Carliner">
-      <data key="affiliation">Concordia University</data>
-      <data key="research">design craft beginning, instructional design expertise, training design</data>
-    </node>
-    <node id="Derek L. Hansen">
-      <data key="affiliation">Brigham Young University, Provo, UT, USA</data>
-      <data key="research">social media, SNA tool, wiki repository</data>
-    </node>
-    <node id="Kyparisia A. Papanikolaou">
-      <data key="affiliation">Department of Education, School of Pedagogical and Technological Education, Athens, Greece</data>
-      <data key="research">knowledge level, empirical study, learner model</data>
-    </node>
-    <node id="Jenny Preece">
-      <data key="affiliation">University of Maryland, College Park, MD</data>
-      <data key="research">online community, social media, content curation community</data>
-    </node>
-    <node id="Yvonne Waern">
-      <data key="affiliation">Dept. of Communication Studies, LinkGping University, Sweden</data>
-      <data key="research">collaborative process management, different expertise, different task</data>
+    <node id="Diana Laurillard">
+      <data key="affiliation">Institute of Education, London Knowledge Lab, UK</data>
+      <data key="research">narrative guidance, creative learning design, language learningDistance learning</data>
     </node>
     <node id="Ben Shneiderman">
       <data key="affiliation">HCIL, UMaryland, College Park, MD, USA</data>
@@ -84,6 +60,54 @@
       <data key="affiliation">Nan</data>
       <data key="research">Computer-based approach, language learning</data>
     </node>
+    <node id="Mark Notess">
+      <data key="affiliation">Indiana University</data>
+      <data key="research">audio track, optional audio, VoiceMany online course</data>
+    </node>
+    <node id="Yvonne Waern">
+      <data key="affiliation">Dept. of Communication Studies, LinkGping University, Sweden</data>
+      <data key="research">collaborative process management, different expertise, different task</data>
+    </node>
+    <node id="George D. Magoulas">
+      <data key="affiliation">University of London, United Kingdom</data>
+      <data key="research">classification problem, Dimensionality Reduction, classification problemsThe k Nearest</data>
+    </node>
+    <node id="L. Plowman">
+      <data key="affiliation">University of Stirling</data>
+      <data key="research">system design, narrative guidance, workplace study</data>
+    </node>
+    <node id="Diane Miller">
+      <data key="affiliation">Aptima, Inc., Woburn, MA</data>
+      <data key="research">online course, online learning, elusive concept</data>
+    </node>
+    <node id="Patricia Charlton">
+      <data key="affiliation">Birkbeck College, London Knowledge Lab, UK</data>
+      <data key="research">multi-agent system, agent system, FIPA agent interoperability standard</data>
+    </node>
+    <edge source="Kyparisia A. Papanikolaou" target="Maria Grigoriadou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyparisia A. Papanikolaou" target="Patricia Charlton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyparisia A. Papanikolaou" target="George D. Magoulas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyparisia A. Papanikolaou" target="Diana Laurillard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saul Carliner" target="Lisa Neal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maria Grigoriadou" target="George D. Magoulas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maria Grigoriadou" target="Patricia Charlton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maria Grigoriadou" target="Diana Laurillard">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Lisa Neal" target="David R. Kaufman">
       <data key="relation">collaborate</data>
     </edge>
@@ -102,9 +126,6 @@
     <edge source="Lisa Neal" target="Gitte Lindgaard">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Lisa Neal" target="Saul Carliner">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Lisa Neal" target="Mark Notess">
       <data key="relation">collaborate</data>
     </edge>
@@ -117,31 +138,40 @@
     <edge source="Lisa Neal" target="Yvonne Waern">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Plowman" target="Rosemary Luckin">
+    <edge source="Josie Taylor" target="Rosemary Luckin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Plowman" target="Diana Laurillard">
+    <edge source="Josie Taylor" target="L. Plowman">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Plowman" target="Josie Taylor">
+    <edge source="Josie Taylor" target="Diana Laurillard">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Rosemary Luckin" target="Josie Taylor">
+    <edge source="Derek L. Hansen" target="Gitte Lindgaard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derek L. Hansen" target="Jenny Preece">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derek L. Hansen" target="Ben Shneiderman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rosemary Luckin" target="L. Plowman">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Rosemary Luckin" target="Diana Laurillard">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Maria Grigoriadou" target="Kyparisia A. Papanikolaou">
+    <edge source="Jenny Preece" target="Diana Laurillard">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Maria Grigoriadou" target="George D. Magoulas">
+    <edge source="Jenny Preece" target="Ben Shneiderman">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Maria Grigoriadou" target="Patricia Charlton">
+    <edge source="Jenny Preece" target="Yvonne Waern">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Maria Grigoriadou" target="Diana Laurillard">
+    <edge source="Gitte Lindgaard" target="David R. Kaufman">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Diana Laurillard" target="George D. Magoulas">
@@ -153,52 +183,22 @@
     <edge source="Diana Laurillard" target="Yvonne Waern">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Diana Laurillard" target="Giorgio Marullo">
+    <edge source="Diana Laurillard" target="L. Plowman">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Diana Laurillard" target="Jenny Preece">
+    <edge source="Diana Laurillard" target="Giorgio Marullo">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Diana Laurillard" target="Ben Shneiderman">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Diana Laurillard" target="Kyparisia A. Papanikolaou">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Diana Laurillard" target="Josie Taylor">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Patricia Charlton" target="Kyparisia A. Papanikolaou">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Patricia Charlton" target="George D. Magoulas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gitte Lindgaard" target="Derek L. Hansen">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gitte Lindgaard" target="David R. Kaufman">
+    <edge source="Ben Shneiderman" target="Yvonne Waern">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="George D. Magoulas" target="George D. Magoulas">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="George D. Magoulas" target="Kyparisia A. Papanikolaou">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Derek L. Hansen" target="Jenny Preece">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Derek L. Hansen" target="Ben Shneiderman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jenny Preece" target="Ben Shneiderman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jenny Preece" target="Yvonne Waern">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yvonne Waern" target="Ben Shneiderman">
+    <edge source="George D. Magoulas" target="Patricia Charlton">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

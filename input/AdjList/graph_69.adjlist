@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:03 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-Yoshihiro Okada	4
-Kouichi Utsumiya	{'relation': 'collaborate'}
-Hiroaki Nishino	{'relation': 'collaborate'}
-Shigeru Takano	{'relation': 'collaborate'}
-Yong-Moo Kwon	{'relation': 'collaborate'}
-Kazuyuki Yoshida	4
-Kazuyoshi Korida	{'relation': 'collaborate'}
-Kouichi Utsumiya	{'relation': 'collaborate'}
-Hiroaki Nishino	{'relation': 'collaborate'}
-Eiji Aoki	{'relation': 'collaborate'}
-James Newman	1
-Sung-Bae Cho	{'relation': 'collaborate'}
-Sung-Bae Cho	10
-Hiroaki Nishino	{'relation': 'collaborate'}
-Sang-Rok Oh	{'relation': 'collaborate'}
-Young-Chul Kim	{'relation': 'collaborate'}
-Jun-Ki Min	{'relation': 'collaborate'}
-Ashish Ghosh	{'relation': 'collaborate'}
-Frank Earl Pollick	{'relation': 'collaborate'}
-Jin H. Kim	{'relation': 'collaborate'}
-Alok Kumar	{'relation': 'collaborate'}
-Kouichi Utsumiya	{'relation': 'collaborate'}
-Hideyuki Takagi	{'relation': 'collaborate'}
-Alok Kumar	0
-Kouichi Utsumiya	7
-Hiroaki Nishino	{'relation': 'collaborate'}
-Yong-Moo Kwon	{'relation': 'collaborate'}
-Eiji Aoki	{'relation': 'collaborate'}
-Hideyuki Takagi	{'relation': 'collaborate'}
-Kazuyoshi Korida	{'relation': 'collaborate'}
-Akira Yamaguchi	{'relation': 'collaborate'}
-Masatoshi Nishimura	{'relation': 'collaborate'}
-Young-Chul Kim	1
-Sang-Rok Oh	{'relation': 'collaborate'}
-Yong-Moo Kwon	1
-Hiroaki Nishino	{'relation': 'collaborate'}
-Eiji Aoki	2
-Kazuyoshi Korida	{'relation': 'collaborate'}
-Hiroaki Nishino	{'relation': 'collaborate'}
-Jun-Ki Min	0
-Jin H. Kim	0
-Masatoshi Nishimura	1
-Hiroaki Nishino	{'relation': 'collaborate'}
-Hideyuki Takagi	1
-Hiroaki Nishino	{'relation': 'collaborate'}
-Hiroaki Nishino	3
-Kazuyoshi Korida	{'relation': 'collaborate'}
-Shigeru Takano	{'relation': 'collaborate'}
-Akira Yamaguchi	{'relation': 'collaborate'}
-Kazuyoshi Korida	0
-Akira Yamaguchi	0
-Frank Earl Pollick	0
-Ashish Ghosh	0
-Shigeru Takano	0
-Sang-Rok Oh	0
+Alok Kumar	Sung-Bae Cho
+Hiroaki Nishino	Sung-Bae Cho	Kazuyoshi Korida	Kouichi Utsumiya	Yoshihiro Okada	Hideyuki Takagi	Yong-Moo Kwon	Shigeru Takano	Kazuyuki Yoshida	Masatoshi Nishimura	Eiji Aoki	Akira Yamaguchi
+Akira Yamaguchi	Kouichi Utsumiya
+Ashish Ghosh	Sung-Bae Cho
+Kazuyoshi Korida	Kazuyuki Yoshida	Eiji Aoki	Kouichi Utsumiya
+Jun-Ki Min	Sung-Bae Cho
+Hideyuki Takagi	Kouichi Utsumiya	Sung-Bae Cho
+Young-Chul Kim	Sung-Bae Cho	Sang-Rok Oh
+Frank Earl Pollick	Sung-Bae Cho
+Eiji Aoki	Kouichi Utsumiya	Kazuyuki Yoshida
+Masatoshi Nishimura	Kouichi Utsumiya
+Sang-Rok Oh	Sung-Bae Cho
+Kouichi Utsumiya	Yoshihiro Okada	Sung-Bae Cho	Yong-Moo Kwon	Kazuyuki Yoshida
+Kazuyuki Yoshida
+James Newman	Sung-Bae Cho
+Shigeru Takano	Yoshihiro Okada
+Yoshihiro Okada	Yong-Moo Kwon
+Jin H. Kim	Sung-Bae Cho
+Sung-Bae Cho
+Yong-Moo Kwon

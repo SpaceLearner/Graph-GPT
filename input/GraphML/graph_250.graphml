@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Dawei Gong">
+      <data key="affiliation">Nan</data>
+      <data key="research">Natural Language Processing, Strong-Association Rule, Traversing Model Design</data>
+    </node>
+    <node id="Yuanwei Jing">
+      <data key="affiliation">Nan</data>
+      <data key="research">Parallel Kalman, proposed algorithm, NLOS Localization</data>
+    </node>
+    <node id="Jinhai Liu">
+      <data key="affiliation">Henan Institute of Education, Zhengzhou,China</data>
+      <data key="research">Factorial Face Code, additional method, additional user identity checking</data>
+    </node>
+    <node id="Rui Zhang">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Michigan State University, East Lansing, 48824, USA</data>
+      <data key="research">Drosophila embryo, Drosophila embryo research, different stage Drosophila embryo</data>
+    </node>
+    <node id="Gang Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Grid Resource Management, Resource Management, resource allocation model</data>
+    </node>
+    <node id="Dongsheng Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">new approach, accurate parametric yield prediction, chip-level parametric yield estimation</data>
+    </node>
+    <node id="Junyi Wang">
+      <data key="affiliation">National Institute of Information and Communications Technology, Yokosuka, Japan 2390847</data>
+      <data key="research">system throughput, effective throughput, throughput enhancement</data>
+    </node>
+    <node id="Ping Li">
+      <data key="affiliation">Department of Mathematics, Southeast University, Nanjing 210096, China</data>
+      <data key="research">global exponential stability, delayed neural network, identical connected neural network</data>
+    </node>
+    <node id="Wei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">enterprise information, financial information, global information environment</data>
+    </node>
+    <node id="Derong Liu">
+      <data key="affiliation">Shanghai Jiao Tong University, China</data>
+      <data key="research">finite state automaton, multiple document, suffix automaton</data>
+    </node>
+    <node id="Bin Jiang">
+      <data key="affiliation">College of Automation Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China</data>
+      <data key="research">control allocation, control command, proposed adaptive tracking control</data>
+    </node>
+    <node id="Chao Cai">
+      <data key="affiliation">School of Information Science and Engineering, Northeastern University, Liaoning, People's Republic of China</data>
+      <data key="research">coupling connection, adaptive control law, control method</data>
+    </node>
+    <node id="Cheng-De Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">leakage term, time delay, mixed recurrent neural network</data>
+    </node>
+    <node id="Youxi Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Thermal Analysis, Wavelet Filter, rate curve</data>
+    </node>
+    <node id="Jing Zhang">
+      <data key="affiliation">Beijing University of Posts and Telecommunications, Beijing, China</data>
+      <data key="research">Steady-state performance, adaptive differential constant modulus, analysis approach</data>
+    </node>
+    <node id="Zhanshan Wang">
+      <data key="affiliation">Sch. of Inf. Sci. &amp; Eng., Northeastern Univ., Shenyang, China</data>
+      <data key="research">neural network model, StructuresGlobal asymptotic stability problem, concerned network model</data>
+    </node>
+    <node id="Shuxian Lun">
+      <data key="affiliation">Nan</data>
+      <data key="research">emotional speech synthesis database, high speech, novel speech emotion recognition</data>
+    </node>
+    <node id="Mingming Ma">
+      <data key="affiliation">Department of Mathematics, Dalian Jiaotong University, 116028, China</data>
+      <data key="research">neuron state, state estimation, state estimation problem</data>
+    </node>
+    <node id="Jian Feng">
+      <data key="affiliation">Airforce Military Representative Office Resident in Shenyang Region, PR China</data>
+      <data key="research">different mode, optimal control method, lubrication condition</data>
+    </node>
+    <node id="Huaguang Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">performance index function, Multi-objective optimal control, general multi-objective performance index</data>
+    </node>
+    <edge source="Dawei Gong" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dawei Gong" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dawei Gong" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuanwei Jing" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuanwei Jing" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuanwei Jing" target="Rui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinhai Liu" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinhai Liu" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinhai Liu" target="Youxi Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinhai Liu" target="Jing Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rui Zhang" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rui Zhang" target="Gang Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rui Zhang" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Chen" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Chen" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongsheng Ma" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongsheng Ma" target="Shuxian Lun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junyi Wang" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junyi Wang" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junyi Wang" target="Chao Cai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping Li" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping Li" target="Jing Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping Li" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derong Liu" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derong Liu" target="Shuxian Lun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derong Liu" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Derong Liu" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jiang" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jiang" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chao Cai" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chao Cai" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheng-De Zheng" target="Zhanshan Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheng-De Zheng" target="Mingming Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheng-De Zheng" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanshan Wang" target="Jian Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanshan Wang" target="Mingming Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanshan Wang" target="Shuxian Lun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhanshan Wang" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuxian Lun" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Feng" target="Huaguang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

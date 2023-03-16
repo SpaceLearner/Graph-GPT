@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="B. Vermeire">
+      <data key="affiliation">Department of Electrical Engineering, Arizona State University, Tempe, AZ 85287, USA</data>
+      <data key="research">ECRS show, novel rinse recipe, typical rinse process</data>
+    </node>
+    <node id="Jun Yan">
+      <data key="affiliation">Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</data>
+      <data key="research">optimization problem, classical optimization procedure, generalized optimization problem</data>
+    </node>
+    <node id="A. R. Wilson">
+      <data key="affiliation">Nan</data>
+      <data key="research">US electronics, different environmental category, environmental rating system</data>
+    </node>
+    <node id="J. Katz">
+      <data key="affiliation">US Environ. Protection Agency, Washington, DC, USA</data>
+      <data key="research">EPEAT expansion, US electronics, different environmental category</data>
+    </node>
+    <node id="S. Cole">
+      <data key="affiliation">Dept. of Precision Instruments, Tsinghua Univ., Beijing, China</data>
+      <data key="research">Assessing base level, Seattle-Tacoma case, certain case</data>
+    </node>
+    <node id="Willy Susilo">
+      <data key="affiliation">Nan</data>
+      <data key="research">formal proof, nominative signature, SSO scheme</data>
+    </node>
+    <node id="W. Rifer">
+      <data key="affiliation">Green Electronics Council, USA</data>
+      <data key="research">electronic equipment, certain case, flammability standard</data>
+    </node>
+    <node id="Jian Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Generating Models, System Description</data>
+    </node>
+    <node id="M. A. Yao">
+      <data key="affiliation">Intel Corp., Santa Clara, CA, USA</data>
+      <data key="research">environmental sustainability, spl reg, environmental footprinting</data>
+    </node>
+    <node id="M. M. Heyns">
+      <data key="affiliation">IMEC, Kaperldreef 75, B3001 Leuven, Belgium and also at KU Leuven, ESAT Department, B3001, Leuven, Belgium</data>
+      <data key="research">high-k dielectric, Ge surface, MOS capacitor</data>
+    </node>
+    <node id="P. W. Mertens">
+      <data key="affiliation">IMEC, Leuven, Belgium</data>
+      <data key="research">cleaning liquid, cleaning process, cleaning result</data>
+    </node>
+    <node id="Yun Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Australian SMEsWith government help, Fostering E-Commerce, medium enterprise</data>
+    </node>
+    <node id="Yi Mu">
+      <data key="affiliation">Nan</data>
+      <data key="research">required attribute, attribute-based mechanism, attribute-based oblivious access control</data>
+    </node>
+    <node id="F. Shadman">
+      <data key="affiliation">Department of Chemical and Environmental Engineering, University of Arizona, Tucson, AZ 85721, USA</data>
+      <data key="research">spl reg, consumer use phase, use phase</data>
+    </node>
+    <node id="Kai Ma">
+      <data key="affiliation">University of Illinois at Chicago, Chicago, IL 60607</data>
+      <data key="research">input image, vector array, part-based image representation</data>
+    </node>
+    <node id="Reggie J. Caudill">
+      <data key="affiliation">New Jersey Institute of Technology</data>
+      <data key="research">environmental impact, sustainable development, Multi-lifecycle engineering</data>
+    </node>
+    <node id="M. Depas">
+      <data key="affiliation">Nan</data>
+      <data key="research">SiO2 structure, active defect, rapid thermal oxidationSimultaneous elimination</data>
+    </node>
+    <node id="Xiang Cheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Single-Tone Interference, proposed method, proposed scheme</data>
+    </node>
+    <node id="Jun Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">sparse representation, Sparse Dictionary Reconstruction, different fabric type</data>
+    </node>
+    <node id="Shari Jackson">
+      <data key="affiliation">Sch. of Natural Resources &amp; Environ., Michigan Univ., Ann Arbor, MI, USA</data>
+      <data key="research">learner-adaptable scaffolding, learner-centered design, scienceThe design</data>
+    </node>
+    <edge source="B. Vermeire" target="M. Depas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Vermeire" target="P. W. Mertens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Vermeire" target="F. Shadman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Vermeire" target="M. M. Heyns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Vermeire" target="Jun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Jian Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Xiang Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Kai Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Yun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="Willy Susilo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yan" target="F. Shadman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. R. Wilson" target="J. Katz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. R. Wilson" target="M. A. Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. R. Wilson" target="F. Shadman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. R. Wilson" target="W. Rifer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Katz" target="W. Rifer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Cole" target="Reggie J. Caudill">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Cole" target="Shari Jackson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Cole" target="W. Rifer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Willy Susilo" target="Yi Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rifer" target="Reggie J. Caudill">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rifer" target="Shari Jackson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Zhang" target="Kai Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yao" target="F. Shadman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Heyns" target="P. W. Mertens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Heyns" target="M. Depas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. W. Mertens" target="M. Depas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Reggie J. Caudill" target="Shari Jackson">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

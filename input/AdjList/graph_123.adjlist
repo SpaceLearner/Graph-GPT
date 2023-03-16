@@ -1,46 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Hammurabi C. Mendes	2
-Azzedine Boukerche	{'relation': 'collaborate'}
-Alba C.  M.  A. Melo	{'relation': 'collaborate'}
-Alba C.  M.  A. Melo	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-Samer Samarah	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-C. F. Chiasserini	2
-Azzedine Boukerche	{'relation': 'collaborate'}
-Sotiris Nikoletseas	{'relation': 'collaborate'}
-Graciela Román-Alonso	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-Alba Cristina Magalhaes Alves de Melo	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-Caron Dzermajko	2
-Kaiyuan Lu	{'relation': 'collaborate'}
-Azzedine Boukerche	{'relation': 'collaborate'}
-A. Corradi	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-J.-R. Sack	2
-Kaiyuan Lu	{'relation': 'collaborate'}
-D. Nussbaum	{'relation': 'collaborate'}
-Ke Liu	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-A K Datta	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-A. Hossain	1
-Azzedine Boukerche	{'relation': 'collaborate'}
-Azzedine Boukerche	6
-Sotiris Nikoletseas	{'relation': 'collaborate'}
-Kaiyuan Lu	{'relation': 'collaborate'}
-Ednaldo B. Pizzolato	{'relation': 'collaborate'}
-Alejandro C. Frery	{'relation': 'collaborate'}
-Diego Daniel Duarte	{'relation': 'collaborate'}
-Yanjun Hu	{'relation': 'collaborate'}
-Kaiyuan Lu	1
-D. Nussbaum	{'relation': 'collaborate'}
-Yanjun Hu	0
-Diego Daniel Duarte	0
-Sotiris Nikoletseas	0
-Ednaldo B. Pizzolato	0
-D. Nussbaum	0
-Alejandro C. Frery	0
+D. Nussbaum	Kaiyuan Lu	J.-R. Sack
+Graciela Román-Alonso	Azzedine Boukerche
+Caron Dzermajko	Kaiyuan Lu	Azzedine Boukerche
+Diego Daniel Duarte	Azzedine Boukerche
+Sotiris Nikoletseas	Azzedine Boukerche	C. F. Chiasserini
+Alejandro C. Frery	Azzedine Boukerche
+Samer Samarah	Azzedine Boukerche
+Alba C.  M.  A. Melo	Azzedine Boukerche	Hammurabi C. Mendes
+C. F. Chiasserini	Azzedine Boukerche
+A. Corradi	Azzedine Boukerche
+J.-R. Sack	Kaiyuan Lu
+Alba Cristina Magalhaes Alves de Melo	Azzedine Boukerche
+Kaiyuan Lu	Azzedine Boukerche
+Ke Liu	Azzedine Boukerche
+Hammurabi C. Mendes	Azzedine Boukerche
+Yanjun Hu	Azzedine Boukerche
+Ednaldo B. Pizzolato	Azzedine Boukerche
+A. Hossain	Azzedine Boukerche
+Azzedine Boukerche	A K Datta
+A K Datta

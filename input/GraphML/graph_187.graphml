@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jacob H. Scott">
+      <data key="affiliation">Massachusetts Institute of Technology, Cambridge, MA, USA</data>
+      <data key="research">precedence constraint, approximation algorithm, log log</data>
+    </node>
+    <node id="David R. Karger">
+      <data key="affiliation">AT&amp;TBell Labs., Murray Hill, NJ, USA</data>
+      <data key="research">information scrap, approximation algorithm, data structure</data>
+    </node>
+    <node id="Joel M. Wein">
+      <data key="affiliation">Polytechnic Institute of New York University</data>
+      <data key="research">approximation algorithm, lower bound, job scheduling</data>
+    </node>
+    <node id="Loren Gilbert Terveen">
+      <data key="affiliation">MCC Human Interface Laboratory, Austin, TX</data>
+      <data key="research">previous work, online community, information consumer</data>
+    </node>
+    <node id="Aaron Bernstein">
+      <data key="affiliation">Columbia University, New York, NY</data>
+      <data key="research">update time, shortest path, query time</data>
+    </node>
+    <node id="Magdalena Balazinska">
+      <data key="affiliation">University of Washington</data>
+      <data key="research">SkewTune mitigates skew, mitigates skew, mitigating skew</data>
+    </node>
+    <node id="A V Goldberg">
+      <data key="affiliation">Microsoft Research, Mountain View, CA</data>
+      <data key="research">push-relabel algorithm, new algorithm, maximum flow problem</data>
+    </node>
+    <node id="Krishnaprasad Thirunarayan">
+      <data key="affiliation">IEEE</data>
+      <data key="research">sensor data, heterogeneous sensor data, machine perception</data>
+    </node>
+    <node id="V. S. Mirrokni">
+      <data key="affiliation">Google Research</data>
+      <data key="research">approximation algorithm, approximation ratio, constant-factor approximation algorithm</data>
+    </node>
+    <node id="Vineet Sinha">
+      <data key="affiliation">Architexa, Inc., Cambridge, MA, USA</data>
+      <data key="research">interactive exploration, exploration suggestion, unfamiliar large codebases</data>
+    </node>
+    <node id="Lynn Andrea Stein">
+      <data key="affiliation">Olin College</data>
+      <data key="research">ideally skeptical inheritance, temporal reasoning, specialized learning</data>
+    </node>
+    <node id="Sarita Yardi">
+      <data key="affiliation">University of Michigan, Ann Arbor, Michigan, USA</data>
+      <data key="research">social behavior, social participation, social media</data>
+    </node>
+    <node id="A. Hogue">
+      <data key="affiliation">Google Inc., New York, NY, USA</data>
+      <data key="research">Future Play, GDC Canada, game development</data>
+    </node>
+    <node id="Sanjay Kairam">
+      <data key="affiliation">Stanford Unviersity, Stanford, CA, USA</data>
+      <data key="research">selective sharing, information sharing, selective sharing mechanism</data>
+    </node>
+    <node id="Nicholas J. A. Harvey">
+      <data key="affiliation">nickhar@cs.ubc.ca</data>
+      <data key="research">optimal semi-matching problem, efficient protocol, algebraic algorithm</data>
+    </node>
+    <node id="I. Stoica">
+      <data key="affiliation">Department of Computer Science, Old Dominion University, Norfolk, VA 235290162, USA</data>
+      <data key="research">overlay network, network protocol, declarative network</data>
+    </node>
+    <node id="Erik D. Demaine">
+      <data key="affiliation">MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, MA</data>
+      <data key="research">n nail, exponential complexity, exponential number</data>
+    </node>
+    <node id="Hari Balakrishnan">
+      <data key="affiliation">M.I.T.</data>
+      <data key="research">end-to-end delay, mobile application, variable delay</data>
+    </node>
+    <node id="Eugene Wu">
+      <data key="affiliation">MIT CSAIL</data>
+      <data key="research">environmental condition, hardware platform, micro-updatesSmart-phone application</data>
+    </node>
+    <node id="Jeremy T. Fineman">
+      <data key="affiliation">Georgetown University, Washington, D.C., USA</data>
+      <data key="research">data structure, logB N, log log</data>
+    </node>
+    <edge source="Jacob H. Scott" target="David R. Karger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob H. Scott" target="Jeremy T. Fineman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Eugene Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="I. Stoica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Sanjay Kairam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="A. Hogue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Loren Gilbert Terveen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Aaron Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Vineet Sinha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="V. S. Mirrokni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Lynn Andrea Stein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Joel M. Wein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="A V Goldberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Krishnaprasad Thirunarayan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Magdalena Balazinska">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Hari Balakrishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Erik D. Demaine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Sarita Yardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Nicholas J. A. Harvey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R. Karger" target="Jeremy T. Fineman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Loren Gilbert Terveen" target="Sanjay Kairam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Loren Gilbert Terveen" target="Sarita Yardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Magdalena Balazinska" target="Hari Balakrishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. S. Mirrokni" target="Nicholas J. A. Harvey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sarita Yardi" target="Sanjay Kairam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas J. A. Harvey" target="Erik D. Demaine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Stoica" target="Hari Balakrishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Demaine" target="Hari Balakrishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik D. Demaine" target="Jeremy T. Fineman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hari Balakrishnan" target="Eugene Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

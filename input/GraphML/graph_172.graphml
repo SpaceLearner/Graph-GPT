@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Árpád Huszák">
+      <data key="affiliation">Budapest University of Technology and Economics, Department of Telecommunications, Mobile Communications and Computing Laboratory, Magyar Tudósok krt. 2, H1117 Budapest, Hungary</data>
+      <data key="research">mobile environment, multiple interface, multimedia application</data>
+    </node>
+    <node id="David J. Coombs">
+      <data key="affiliation">The Univ. of Rochester, Rochester, NY</data>
+      <data key="research">Rochester robot, binocular robot visionReal-time, mobile robot applicationsReal-time obstacle</data>
+    </node>
+    <node id="Balazs Varadi">
+      <data key="affiliation">Budapest University of Technology and Economics</data>
+      <data key="research">Novel Authentication Algorithm, computer network security, security area</data>
+    </node>
+    <node id="Szabolcs Novaczki">
+      <data key="affiliation">Budapest University of Technology and Economics, Hungary</data>
+      <data key="research">Host Identity Protocol, HIP-based per-application mobility management, simulation framework</data>
+    </node>
+    <node id="M. Szalay">
+      <data key="affiliation">Department of Telecommunications, Budapest University of Technology and Economics, Pf. 91, H1521 Budapest, Hungary (Correspd. Tel.: +36 20 3187012/ Fax: +36 1 4633263/ szalaym@hit.bme.hu)</data>
+      <data key="research">Hierarchical Paging, mathematical model, new location management algorithm</data>
+    </node>
+    <node id="Jeremy A. Marvel">
+      <data key="affiliation">National Institute of Standards and Technology, Gaithersburg, MD</data>
+      <data key="research">collaborative robot, robot speed, Force-based assembly strategy</data>
+    </node>
+    <node id="Theodore Armand Camus">
+      <data key="affiliation">Sarnoff Corporation</data>
+      <data key="research">optical flow, threat vehicle, stereo camera</data>
+    </node>
+    <node id="S. Szabó">
+      <data key="affiliation">National Institute of Standards and Technology (NIST), Gaithersburg, MD</data>
+      <data key="research">cellular network, cellular wireless access network, network node</data>
+    </node>
+    <node id="Adam Mate Foldes">
+      <data key="affiliation">Department of Telecommunications, Budapest University of Technology and Economics, Budapest, Hungary</data>
+      <data key="research">client-side information storage, personal information, user activity</data>
+    </node>
+    <node id="László Bokor">
+      <data key="affiliation">Budapest University of Technology and Economics, Budapest, Hungary</data>
+      <data key="research">Host Identity Protocol, UMTS network, multiple network</data>
+    </node>
+    <node id="M Herman">
+      <data key="affiliation">National Bureau of Standards, Gaithersburg, MD</data>
+      <data key="research">optical flow, scene description, image sequence</data>
+    </node>
+    <node id="Csaba Szabo">
+      <data key="affiliation">Eötvös Loránd University, Department of Algebra and Number Theory, Kecskeméti u. 1012, H1051 Budapest, Hungary</data>
+      <data key="research">wireless community network, business model, design consideration</data>
+    </node>
+    <node id="Vilmos Simon">
+      <data key="affiliation">Budapest University, Hungary</data>
+      <data key="research">mobile device, information source, mobile communication</data>
+    </node>
+    <node id="Zoltan Faigl">
+      <data key="affiliation">Mobile Innovation Centre, Budapest University of Technology and Economics, H1111 Budapest, Bertalan Lajos u. 2., Z building 301, Hungary</data>
+      <data key="research">Ultra Flat Architecture, authentication scheme, transmission network</data>
+    </node>
+    <node id="William P. Shackleford">
+      <data key="affiliation">National Institute of Standards and Technology, Gaithersburg, MD</data>
+      <data key="research">color scheme, LAGR Program, color camera</data>
+    </node>
+    <node id="Robert Sugar">
+      <data key="affiliation">European Microsoft Innovation Center, Germany</data>
+      <data key="research">mobile agent, Programming sensor network, ad-hoc network</data>
+    </node>
+    <node id="Péter Fazekas">
+      <data key="affiliation">High Speed Networks Laboratory, Dept. of Telecommunications, Budapest University of Technology and Economics, Budapest, Hungary</data>
+      <data key="research">automatic base station placement, base station, base station placement</data>
+    </node>
+    <node id="B. Kovács">
+      <data key="affiliation">Budapest Univ. of Technology and Economics, Budapest, Hungary</data>
+      <data key="research">mobility management algorithm, client-driven mobility frame system, mobility approach</data>
+    </node>
+    <node id="Sándor Imre">
+      <data key="affiliation">Nan</data>
+      <data key="research">mobile agent, ad-hoc network, centralized network management station</data>
+    </node>
+    <node id="Rick Norcross">
+      <data key="affiliation">National Institute of Standards and Technology</data>
+      <data key="research">collaborative robot, robot speed, safety sensor</data>
+    </node>
+    <edge source="Árpád Huszák" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Árpád Huszák" target="László Bokor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David J. Coombs" target="Theodore Armand Camus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David J. Coombs" target="S. Szabó">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David J. Coombs" target="M Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Balazs Varadi" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Szabolcs Novaczki" target="László Bokor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Szabolcs Novaczki" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Szalay" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Szalay" target="B. Kovács">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy A. Marvel" target="S. Szabó">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy A. Marvel" target="William P. Shackleford">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeremy A. Marvel" target="Rick Norcross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Theodore Armand Camus" target="M Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Theodore Armand Camus" target="S. Szabó">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="Csaba Szabo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="M Herman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="László Bokor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="William P. Shackleford">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Szabó" target="Rick Norcross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Mate Foldes" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="László Bokor" target="Csaba Szabo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="László Bokor" target="Zoltan Faigl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="László Bokor" target="Vilmos Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="László Bokor" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vilmos Simon" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zoltan Faigl" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William P. Shackleford" target="Rick Norcross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Sugar" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Péter Fazekas" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Kovács" target="Sándor Imre">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

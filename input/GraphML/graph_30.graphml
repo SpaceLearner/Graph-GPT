@@ -4,153 +4,90 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Xian-Cheng Xu">
-      <data key="affiliation">South China University of Technology, China/ Guangdong University of Foreign Studies, China</data>
-      <data key="research">NP-based System, portscan module, Portscan Detection Module</data>
+    <node id="Ming Tao">
+      <data key="affiliation">Nan</data>
+      <data key="research">discrete global grid, multi-resolution expression, Geometrical Distortion</data>
     </node>
     <node id="Hewei Yu">
       <data key="affiliation">Nan</data>
       <data key="research">alternate path, Intermediate Node ForwardingThis paper, Intermediate Node forwarding mechanism</data>
     </node>
-    <node id="Li Zheng">
-      <data key="affiliation">Nan</data>
-      <data key="research">component-based software engineering, software industry, software technology development</data>
-    </node>
-    <node id="Pengfei Liu">
-      <data key="affiliation">School of Computer Science and Engineering, South China University of Technology, Guangzhou, China</data>
-      <data key="research">protein structure prediction, homology modeling, Rotamer Optimization</data>
-    </node>
-    <node id="Yicheng Cao">
-      <data key="affiliation">Nan</data>
-      <data key="research">background frequency, background noise, reduced background noise</data>
-    </node>
     <node id="Kun Li">
       <data key="affiliation">University of Florida</data>
       <data key="research">Greenplum parallel statistical text, automatic knowledge base construction, statistical algorithm</data>
-    </node>
-    <node id="Xinyuan Song">
-      <data key="affiliation">xysong@sta.cuhk.edu.hk</data>
-      <data key="research">model comparison, structural equation model, simulation study</data>
-    </node>
-    <node id="Liqun Tang">
-      <data key="affiliation">South China University of Technology, China</data>
-      <data key="research">porous media, General Service-Oriented Grid Computing, Grid platform</data>
-    </node>
-    <node id="Ming Tao">
-      <data key="affiliation">Nan</data>
-      <data key="research">discrete global grid, multi-resolution expression, Geometrical Distortion</data>
-    </node>
-    <node id="Yulin Zhang">
-      <data key="affiliation">Department of Mechanics and Astronautics, Changsha Institute of Technology, Changsha, Hunan, China</data>
-      <data key="research">dynamic equation, mobile robot, external load</data>
-    </node>
-    <node id="Ji Chen">
-      <data key="affiliation">College of Computer Science and Technology, University of Posts and Telecommunications, Chongqing, China</data>
-      <data key="research">text categorization, feature type, n feature type</data>
-    </node>
-    <node id="Shou Bin Dong">
-      <data key="affiliation">South China Univ. of Tech, China</data>
-      <data key="research">prediction runtime, protein structure prediction, multi-strategy collaborative prediction model</data>
-    </node>
-    <node id="Huaqiang Yuan">
-      <data key="affiliation">Engineering and Technology Institute, Dongguan University of Technology, Dongguan, People's Republic of China</data>
-      <data key="research">link rate, power control, active overload prevention</data>
-    </node>
-    <node id="Jialin Li">
-      <data key="affiliation">Nan</data>
-      <data key="research">Checked cable, circumference magnetic field, magnetic leakage field</data>
-    </node>
-    <node id="Tingting Sun">
-      <data key="affiliation">School of Life Science, Liaoning University, Shenyang 110036, China.</data>
-      <data key="research">NS1 protein, Non-structural protein, compounds candidate</data>
-    </node>
-    <node id="Yang Xu">
-      <data key="affiliation">Nan</data>
-      <data key="research">Nios II system, duty cycle, New Type PWM Peripherals</data>
-    </node>
-    <node id="Kejing He">
-      <data key="affiliation">Nan</data>
-      <data key="research">Inverted Document Frequency, Inverted Entropy, Naive Bayes</data>
     </node>
     <node id="Zhike Mao">
       <data key="affiliation">Nan</data>
       <data key="research">SOAReceptor-based virtual screening, virtual screening improvement, virtual screening platform</data>
     </node>
-    <node id="Jia Chun Li">
+    <node id="Yicheng Cao">
+      <data key="affiliation">Nan</data>
+      <data key="research">background frequency, background noise, reduced background noise</data>
+    </node>
+    <node id="Xian-Cheng Xu">
+      <data key="affiliation">South China University of Technology, China/ Guangdong University of Foreign Studies, China</data>
+      <data key="research">NP-based System, portscan module, Portscan Detection Module</data>
+    </node>
+    <node id="Shou Bin Dong">
       <data key="affiliation">South China Univ. of Tech, China</data>
-      <data key="research">automatic capability, high performance, CDMA system</data>
+      <data key="research">prediction runtime, protein structure prediction, multi-strategy collaborative prediction model</data>
+    </node>
+    <node id="Kejing He">
+      <data key="affiliation">Nan</data>
+      <data key="research">Inverted Document Frequency, Inverted Entropy, Naive Bayes</data>
+    </node>
+    <node id="Yulin Zhang">
+      <data key="affiliation">Department of Mechanics and Astronautics, Changsha Institute of Technology, Changsha, Hunan, China</data>
+      <data key="research">dynamic equation, mobile robot, external load</data>
+    </node>
+    <node id="Yang Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Nios II system, duty cycle, New Type PWM Peripherals</data>
+    </node>
+    <node id="Tingting Sun">
+      <data key="affiliation">School of Life Science, Liaoning University, Shenyang 110036, China.</data>
+      <data key="research">NS1 protein, Non-structural protein, compounds candidate</data>
+    </node>
+    <node id="Jialin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Checked cable, circumference magnetic field, magnetic leakage field</data>
     </node>
     <node id="Jiu-Qiang Han">
       <data key="affiliation">School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an 710049, China</data>
       <data key="research">reference trajectory, wavelet network, simulation result</data>
     </node>
-    <edge source="Xian-Cheng Xu" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hewei Yu" target="Ming Tao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hewei Yu" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hewei Yu" target="Huaqiang Yuan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Li Zheng" target="Liqun Tang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Li Zheng" target="Kejing He">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Li Zheng" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Yulin Zhang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Kun Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Zhike Mao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Yicheng Cao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Yang Xu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Xinyuan Song">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Tingting Sun">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Jiu-Qiang Han">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Pengfei Liu" target="Ji Chen">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yicheng Cao" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yicheng Cao" target="Zhike Mao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Xinyuan Song" target="Ji Chen">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Liqun Tang" target="Shou Bin Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Liqun Tang" target="Kejing He">
-      <data key="relation">collaborate</data>
-    </edge>
+    <node id="Huaqiang Yuan">
+      <data key="affiliation">Engineering and Technology Institute, Dongguan University of Technology, Dongguan, People's Republic of China</data>
+      <data key="research">link rate, power control, active overload prevention</data>
+    </node>
+    <node id="Xinyuan Song">
+      <data key="affiliation">xysong@sta.cuhk.edu.hk</data>
+      <data key="research">model comparison, structural equation model, simulation study</data>
+    </node>
+    <node id="Jia Chun Li">
+      <data key="affiliation">South China Univ. of Tech, China</data>
+      <data key="research">automatic capability, high performance, CDMA system</data>
+    </node>
+    <node id="Pengfei Liu">
+      <data key="affiliation">School of Computer Science and Engineering, South China University of Technology, Guangzhou, China</data>
+      <data key="research">protein structure prediction, homology modeling, Rotamer Optimization</data>
+    </node>
+    <node id="Ji Chen">
+      <data key="affiliation">College of Computer Science and Technology, University of Posts and Telecommunications, Chongqing, China</data>
+      <data key="research">text categorization, feature type, n feature type</data>
+    </node>
+    <node id="Liqun Tang">
+      <data key="affiliation">South China University of Technology, China</data>
+      <data key="research">porous media, General Service-Oriented Grid Computing, Grid platform</data>
+    </node>
+    <node id="Li Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">component-based software engineering, software industry, software technology development</data>
+    </node>
     <edge source="Ming Tao" target="Huaqiang Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Tao" target="Hewei Yu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Ming Tao" target="Kejing He">
@@ -159,13 +96,37 @@
     <edge source="Ming Tao" target="Shou Bin Dong">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yulin Zhang" target="Tingting Sun">
+    <edge source="Hewei Yu" target="Shou Bin Dong">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Yulin Zhang" target="Yang Xu">
+    <edge source="Hewei Yu" target="Huaqiang Yuan">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Shou Bin Dong" target="Zhike Mao">
+    <edge source="Kun Li" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhike Mao" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhike Mao" target="Shou Bin Dong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhike Mao" target="Yicheng Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yicheng Cao" target="Shou Bin Dong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yicheng Cao" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xian-Cheng Xu" target="Shou Bin Dong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shou Bin Dong" target="Liqun Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shou Bin Dong" target="Pengfei Liu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Shou Bin Dong" target="Jialin Li">
@@ -180,7 +141,46 @@
     <edge source="Shou Bin Dong" target="Jia Chun Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Tingting Sun" target="Yang Xu">
+    <edge source="Shou Bin Dong" target="Li Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kejing He" target="Li Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kejing He" target="Liqun Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yulin Zhang" target="Tingting Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yulin Zhang" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yulin Zhang" target="Yang Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xu" target="Tingting Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Xu" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tingting Sun" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiu-Qiang Han" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xinyuan Song" target="Pengfei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xinyuan Song" target="Ji Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pengfei Liu" target="Ji Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liqun Tang" target="Li Zheng">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

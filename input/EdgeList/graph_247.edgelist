@@ -1,0 +1,29 @@
+Ana Bianco	Graciela Boente	{'relation': 'collaborate'}
+Ana Bianco	Elena Martínez	{'relation': 'collaborate'}
+Ana Bianco	Ana M. Pires	{'relation': 'collaborate'}
+Ana Bianco	W. González-Manteiga	{'relation': 'collaborate'}
+Daniel Rodriguez	Graciela Boente	{'relation': 'collaborate'}
+Ruben H. Zamar	Daniel Peña	{'relation': 'collaborate'}
+Ruben H. Zamar	Graciela Boente	{'relation': 'collaborate'}
+Ruben H. Zamar	G. Willems	{'relation': 'collaborate'}
+Ruben H. Zamar	Marcelo Ruiz	{'relation': 'collaborate'}
+Ruben H. Zamar	Roy E. Welsch	{'relation': 'collaborate'}
+Ruben H. Zamar	Andreas Scherer	{'relation': 'collaborate'}
+Ruben H. Zamar	Laks V. S. Lakshmanan	{'relation': 'collaborate'}
+Ruben H. Zamar	R. T. Ng	{'relation': 'collaborate'}
+Ruben H. Zamar	Rong Zhu	{'relation': 'collaborate'}
+Ruben H. Zamar	R. Douglas Martin	{'relation': 'collaborate'}
+Ruben H. Zamar	Stefan Van Aelst	{'relation': 'collaborate'}
+Ruben H. Zamar	Alan Wagner	{'relation': 'collaborate'}
+Ruben H. Zamar	Edwin M. Knorr	{'relation': 'collaborate'}
+Graciela Boente	Ana M. Pires	{'relation': 'collaborate'}
+Graciela Boente	W. González-Manteiga	{'relation': 'collaborate'}
+Graciela Boente	Ricardo Fraiman	{'relation': 'collaborate'}
+Graciela Boente	Marcelo Ruiz	{'relation': 'collaborate'}
+G. Willems	Stefan Van Aelst	{'relation': 'collaborate'}
+Roy E. Welsch	Stefan Van Aelst	{'relation': 'collaborate'}
+Alan Wagner	R. T. Ng	{'relation': 'collaborate'}
+R. T. Ng	Andreas Scherer	{'relation': 'collaborate'}
+R. T. Ng	Edwin M. Knorr	{'relation': 'collaborate'}
+R. T. Ng	Laks V. S. Lakshmanan	{'relation': 'collaborate'}
+Stefan Van Aelst	Rong Zhu	{'relation': 'collaborate'}

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. Sipser">
+      <data key="affiliation">Nan</data>
+      <data key="research">maximum matching, sparse random graph</data>
+    </node>
+    <node id="Richard M. Karp">
+      <data key="affiliation">Nan</data>
+      <data key="research">BSP model, LogP model, network-based model</data>
+    </node>
+    <node id="R. M. Karp">
+      <data key="affiliation">Nan</data>
+      <data key="research">bit vector intersection problem, fundamental problem, bit vector intersection problemThis</data>
+    </node>
+    <node id="I. A. Gerson">
+      <data key="affiliation">Motorola Inc., Schaumburg, IL, USA</data>
+      <data key="research">VSELP speech coder, processed speech, type speech coders</data>
+    </node>
+    <node id="Patrick Nguyen">
+      <data key="affiliation">Microsoft Corp., Redmond, WA</data>
+      <data key="research">speech recognition, flat direct model, indirect hidden Markov model</data>
+    </node>
+    <node id="U. Vazirani">
+      <data key="affiliation">Nan</data>
+      <data key="research">existing algorithm, exponential approximation algorithm, permanentAn approximation algorithm</data>
+    </node>
+    <node id="Yong Qin">
+      <data key="affiliation">Nan</data>
+      <data key="research">L2 Trigger, False Alarm, NS-2 platform</data>
+    </node>
+    <node id="Michael J. Carey">
+      <data key="affiliation">University of California, Irvine, Irvine, CA, USA</data>
+      <data key="research">data service, XML data, data contention</data>
+    </node>
+    <node id="Georg Heigold">
+      <data key="affiliation">RWTH Aachen University Chair of Computer Science, Aachen, Germany</data>
+      <data key="research">speech recognition, discriminative training, margin term</data>
+    </node>
+    <node id="Orli Waarts">
+      <data key="affiliation">Dept. of Comput. Sci., Weizmann Inst., Rehovot, Israel</data>
+      <data key="research">log n, competitive analysis, shared memory</data>
+    </node>
+    <node id="Frank Thomson Leighton">
+      <data key="affiliation">Nan</data>
+      <data key="research">content server, Delivering Content, broad audience</data>
+    </node>
+    <node id="Qiang Liu">
+      <data key="affiliation">Laboratory for Computational Neuroscience, Departments of Neurological Surgery and Electrical Engineering, University of Pittsburgh, Pittsburgh, PA</data>
+      <data key="research">appearance model, MoG model, video frame</data>
+    </node>
+    <node id="C. D. Thompson">
+      <data key="affiliation">Nan</data>
+      <data key="research">new technique, One-Bit Disclosures, global wire routing</data>
+    </node>
+    <node id="J P Roth">
+      <data key="affiliation">IBM Thomas J. Watson Research Center</data>
+      <data key="research">logic network, test generation, low-level design</data>
+    </node>
+    <node id="Geoffrey Zweig">
+      <data key="affiliation">Microsoft Corp., Redmond, WA</data>
+      <data key="research">speech recognition, speech recognition system, recognition performance</data>
+    </node>
+    <node id="S. J. Russell">
+      <data key="affiliation">The Turing Institute Limited, 36 North Hanover Street, Glasgow G1 2AD, Scotland, UK</data>
+      <data key="research">hierarchical reinforcement learning, inductive concept learning, powerful learning method</data>
+    </node>
+    <node id="D. E. Borth">
+      <data key="affiliation">Nan</data>
+      <data key="research">BTSC MTS standard, Multichannel TV sound standard, Multichannel Television Sound DecodingThe</data>
+    </node>
+    <node id="Stephen Chu">
+      <data key="affiliation">IBM T.J. Watson Research Center, Yorktown Heights, NY</data>
+      <data key="research">discriminative speaker subspace, generative model-based speaker, universal speaker</data>
+    </node>
+    <node id="Ronald L. Rivest">
+      <data key="affiliation">Nan</data>
+      <data key="research">previous search, search probability, sequential search</data>
+    </node>
+    <node id="Xiao Li">
+      <data key="affiliation">Facebook Inc., Palo Alto, CA, USA</data>
+      <data key="research">intent pattern, intent understanding, query intent</data>
+    </node>
+    <edge source="M. Sipser" target="R. M. Karp">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard M. Karp" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard M. Karp" target="Orli Waarts">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard M. Karp" target="S. J. Russell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard M. Karp" target="Ronald L. Rivest">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="C. D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="J P Roth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="Ronald L. Rivest">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="Orli Waarts">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="Frank Thomson Leighton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Karp" target="U. Vazirani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. A. Gerson" target="D. E. Borth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. A. Gerson" target="C. D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Patrick Nguyen" target="Xiao Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Patrick Nguyen" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Patrick Nguyen" target="Georg Heigold">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="U. Vazirani" target="Frank Thomson Leighton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="U. Vazirani" target="Ronald L. Rivest">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="U. Vazirani" target="C. D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Qin" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Qin" target="Stephen Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Carey" target="C. D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Georg Heigold" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Orli Waarts" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Thomson Leighton" target="Ronald L. Rivest">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Thomson Leighton" target="C. D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiang Liu" target="Geoffrey Zweig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. D. Thompson" target="Ronald L. Rivest">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. D. Thompson" target="D. E. Borth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geoffrey Zweig" target="Xiao Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geoffrey Zweig" target="S. J. Russell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geoffrey Zweig" target="Stephen Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

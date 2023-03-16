@@ -1,34 +1,34 @@
-W. Eric Wong	IEEE Region 7	{'relation': 'collaborate'}
-François R. Boyer	IEEE Region 7	{'relation': 'collaborate'}
-P Hajek	IEEE Region 7	{'relation': 'collaborate'}
-Michael Gebhardt	Germany	{'relation': 'collaborate'}
-Michael Gebhardt	Stephen Paul Jacobs	{'relation': 'collaborate'}
-Michael Gebhardt	IEEE Region 7	{'relation': 'collaborate'}
-Michael Gebhardt	Matthias Jarke	{'relation': 'collaborate'}
-Michael Gebhardt	Hans W. Nissen	{'relation': 'collaborate'}
-Judy Goldsmith	D S Weld	{'relation': 'collaborate'}
-Judy Goldsmith	Peng Dai	{'relation': 'collaborate'}
-Judy Goldsmith	IEEE Region 7	{'relation': 'collaborate'}
+Robert A. van de Geijn	Jack J. Dongarra	{'relation': 'collaborate'}
+Robert A. van de Geijn	IEEE Region 7	{'relation': 'collaborate'}
 IEEE Region 7	Akihiro Yamamoto	{'relation': 'collaborate'}
 IEEE Region 7	Hans W. Nissen	{'relation': 'collaborate'}
 IEEE Region 7	Germany	{'relation': 'collaborate'}
 IEEE Region 7	L A Rosenberg	{'relation': 'collaborate'}
 IEEE Region 7	Joyce L. Vedral	{'relation': 'collaborate'}
+IEEE Region 7	François R. Boyer	{'relation': 'collaborate'}
 IEEE Region 7	T. Horváth	{'relation': 'collaborate'}
-IEEE Region 7	Robert A. van de Geijn	{'relation': 'collaborate'}
+IEEE Region 7	P Hajek	{'relation': 'collaborate'}
+IEEE Region 7	W. Eric Wong	{'relation': 'collaborate'}
+IEEE Region 7	Michael Gebhardt	{'relation': 'collaborate'}
 IEEE Region 7	Stephen Paul Jacobs	{'relation': 'collaborate'}
 IEEE Region 7	Jack J. Dongarra	{'relation': 'collaborate'}
 IEEE Region 7	D S Weld	{'relation': 'collaborate'}
 IEEE Region 7	Matthias Jarke	{'relation': 'collaborate'}
 IEEE Region 7	Hai Zhuge	{'relation': 'collaborate'}
+IEEE Region 7	Judy Goldsmith	{'relation': 'collaborate'}
 IEEE Region 7	Peng Dai	{'relation': 'collaborate'}
-Susumu Hayashi	Akihiro Yamamoto	{'relation': 'collaborate'}
+Akihiro Yamamoto	Susumu Hayashi	{'relation': 'collaborate'}
+Akihiro Yamamoto	T. Horváth	{'relation': 'collaborate'}
+Peng Dai	Judy Goldsmith	{'relation': 'collaborate'}
+Peng Dai	D S Weld	{'relation': 'collaborate'}
+Michael Gebhardt	Germany	{'relation': 'collaborate'}
+Michael Gebhardt	Stephen Paul Jacobs	{'relation': 'collaborate'}
+Michael Gebhardt	Matthias Jarke	{'relation': 'collaborate'}
+Michael Gebhardt	Hans W. Nissen	{'relation': 'collaborate'}
+Germany	Matthias Jarke	{'relation': 'collaborate'}
+Germany	Stephen Paul Jacobs	{'relation': 'collaborate'}
+Germany	Hans W. Nissen	{'relation': 'collaborate'}
+Judy Goldsmith	D S Weld	{'relation': 'collaborate'}
 Hans W. Nissen	Stephen Paul Jacobs	{'relation': 'collaborate'}
 Hans W. Nissen	Matthias Jarke	{'relation': 'collaborate'}
-Hans W. Nissen	Germany	{'relation': 'collaborate'}
-T. Horváth	Akihiro Yamamoto	{'relation': 'collaborate'}
-Robert A. van de Geijn	Jack J. Dongarra	{'relation': 'collaborate'}
-D S Weld	Peng Dai	{'relation': 'collaborate'}
-Stephen Paul Jacobs	Matthias Jarke	{'relation': 'collaborate'}
-Stephen Paul Jacobs	Germany	{'relation': 'collaborate'}
-Germany	Matthias Jarke	{'relation': 'collaborate'}
+Matthias Jarke	Stephen Paul Jacobs	{'relation': 'collaborate'}

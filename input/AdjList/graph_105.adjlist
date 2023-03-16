@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:14 2023
 # 
-Zhiqiang Chen	2
-Jared Saia	{'relation': 'collaborate'}
-B. M. E. Moret	{'relation': 'collaborate'}
-Tanya Y. Berger-Wolf	2
-Yintao Yu	{'relation': 'collaborate'}
-Jared Saia	{'relation': 'collaborate'}
-Josh Karlin	1
-Jared Saia	{'relation': 'collaborate'}
-A. Karlin	2
-Eric J. Anderson	{'relation': 'collaborate'}
-Jared Saia	{'relation': 'collaborate'}
-Nicholas D. Pattengale	2
-Jared Saia	{'relation': 'collaborate'}
-B. M. E. Moret	{'relation': 'collaborate'}
-B. M. E. Moret	3
-C. Abdallah	{'relation': 'collaborate'}
-Jared Saia	{'relation': 'collaborate'}
-Michael J. Collins	{'relation': 'collaborate'}
-Piotr Sankowski	1
-Jared Saia	{'relation': 'collaborate'}
-Jared Saia	12
-Seth Gilbert	{'relation': 'collaborate'}
-Stephane Durocher	{'relation': 'collaborate'}
-Frank McSherry	{'relation': 'collaborate'}
-Michael J. Collins	{'relation': 'collaborate'}
-Steven D. Gribble	{'relation': 'collaborate'}
-Maxwell Young	{'relation': 'collaborate'}
-C. Abdallah	{'relation': 'collaborate'}
-Eric J. Anderson	{'relation': 'collaborate'}
-James Aspnes	{'relation': 'collaborate'}
-Stefan Saroiu	{'relation': 'collaborate'}
-Yintao Yu	{'relation': 'collaborate'}
-Olumuyiwa Oluwasanmi	{'relation': 'collaborate'}
-Frank McSherry	0
-Michael J. Collins	1
-Maxwell Young	{'relation': 'collaborate'}
-Maxwell Young	2
-Stephane Durocher	{'relation': 'collaborate'}
-Seth Gilbert	{'relation': 'collaborate'}
-Yintao Yu	0
-Eric J. Anderson	1
-Steven D. Gribble	{'relation': 'collaborate'}
-C. Abdallah	0
-Stefan Saroiu	1
-Steven D. Gribble	{'relation': 'collaborate'}
-Stephane Durocher	0
-Seth Gilbert	1
-James Aspnes	{'relation': 'collaborate'}
-Steven D. Gribble	0
-James Aspnes	0
-Olumuyiwa Oluwasanmi	0
+Josh Karlin	Jared Saia
+Eric J. Anderson	A. Karlin	Jared Saia	Steven D. Gribble
+C. Abdallah	B. M. E. Moret	Jared Saia
+Yintao Yu	Tanya Y. Berger-Wolf	Jared Saia
+Steven D. Gribble	Jared Saia	Stefan Saroiu
+B. M. E. Moret	Jared Saia	Nicholas D. Pattengale	Zhiqiang Chen	Michael J. Collins
+Michael J. Collins	Jared Saia	Maxwell Young
+James Aspnes	Seth Gilbert	Jared Saia
+Maxwell Young	Stephane Durocher	Jared Saia	Seth Gilbert
+Piotr Sankowski	Jared Saia
+Zhiqiang Chen	Jared Saia
+Tanya Y. Berger-Wolf	Jared Saia
+Nicholas D. Pattengale	Jared Saia
+Olumuyiwa Oluwasanmi	Jared Saia
+Stefan Saroiu	Jared Saia
+Seth Gilbert	Jared Saia
+Jared Saia	Stephane Durocher	A. Karlin	Frank McSherry
+Stephane Durocher
+A. Karlin
+Frank McSherry

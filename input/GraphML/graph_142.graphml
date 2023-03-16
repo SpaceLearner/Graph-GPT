@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Martin Holub">
+      <data key="affiliation">MFF UK, Praha, Czech Republic</data>
+      <data key="research">word sense, retrieval performance, corpus pattern analysis</data>
+    </node>
+    <node id="David Mareček">
+      <data key="affiliation">Institute of Formal and Applied Linguistics, Charles University in Prague,</data>
+      <data key="research">dependency tree, maximum entropy translation model, Unsupervised dependency</data>
+    </node>
+    <node id="Jiří Semecký">
+      <data key="affiliation">Institute of Formal and Applied Linguistics, Prague, Czech Republic</data>
+      <data key="research">Czech verb, large collection, virtual concept</data>
+    </node>
+    <node id="Jiří Mírovský">
+      <data key="affiliation">Institute of Formal and applied Linguistics</data>
+      <data key="research">annotation tool, coreference annotation, parallel annotation</data>
+    </node>
+    <node id="Markéta Lopatková">
+      <data key="affiliation">Institute of Formal and Applied Linguistics Faculty of Mathematics and Physics, Charles University, Prague</data>
+      <data key="research">Valency Lexicon, Czech verb, sentence structure</data>
+    </node>
+    <node id="Václav Novák">
+      <data key="affiliation">Charles University, Praha, Czech Republic</data>
+      <data key="research">annotation error, semantic network, annotation inconsistency</data>
+    </node>
+    <node id="Martin Popel">
+      <data key="affiliation">Charles University, Czech Republic</data>
+      <data key="research">dependency tree, maximum entropy translation model, dependency LMs</data>
+    </node>
+    <node id="Hana Skoumalová">
+      <data key="affiliation">Charles University</data>
+      <data key="research">deep case, deep casesIn, automatic identification</data>
+    </node>
+    <node id="Daniel Zeman">
+      <data key="affiliation">Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University in Prague, Czechia</data>
+      <data key="research">translation direction, semantic context sensitivity, present paper</data>
+    </node>
+    <node id="Nathan Green">
+      <data key="affiliation">North Carolina State University, Raleigh, NC</data>
+      <data key="research">standard keyboard, training data, lexicon-based disambiguation</data>
+    </node>
+    <node id="Jana Kravalova">
+      <data key="affiliation">Google Inc. and Charles University in Prague</data>
+      <data key="research">Czech sentence, Czech text, cross-lingual similarity</data>
+    </node>
+    <node id="Sowmya Vajjala">
+      <data key="affiliation">Universität Tübingen</data>
+      <data key="research">morph length, readability classification, morphological segmentation</data>
+    </node>
+    <node id="Zdenek Zabokrtský">
+      <data key="affiliation">Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University in Prague</data>
+      <data key="research">Prague Dependency Treebank, dependency tree, Czech sentence</data>
+    </node>
+    <node id="Tomás Holan">
+      <data key="affiliation">Faculty of Mathematics and Physics, Charles University, Prague, Czech Republic</data>
+      <data key="research">grammar checker, Czech language, segmentation chart</data>
+    </node>
+    <node id="Petr Pajas">
+      <data key="affiliation">Charles Univ. in Prague, Czech Rep.</data>
+      <data key="research">Prague Dependency Treebank annotation, annotation guideline, annotation process</data>
+    </node>
+    <node id="Markéta Lopatková-Lopatková">
+      <data key="affiliation">Nan</data>
+      <data key="research">valency frame, Czech verb, NounsValency lexicon</data>
+    </node>
+    <node id="Lucie Mladová">
+      <data key="affiliation">Institute of Formal and applied Linguistics</data>
+      <data key="research">parallel annotation, Annotation tool, semantic inter-sentential discourse relation</data>
+    </node>
+    <node id="Veronika Reznícková">
+      <data key="affiliation">Nan</data>
+      <data key="research">valency frame, now-available PDT version, Czech verb</data>
+    </node>
+    <node id="Ondřej Bojar">
+      <data key="affiliation">Institute of Formal and Applied Linguistics, Praha, Czech Republic</data>
+      <data key="research">translation quality, statistical machine translation, translation model</data>
+    </node>
+    <node id="Jan Ptáček">
+      <data key="affiliation">Charles University, Prague, Czech Republic</data>
+      <data key="research">czech sentence, Czech machine translation system, automatic dialogue system</data>
+    </node>
+    <edge source="Martin Holub" target="Veronika Reznícková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Holub" target="Jiří Semecký">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Holub" target="Petr Pajas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Václav Novák">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Martin Popel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Mareček" target="Nathan Green">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Semecký" target="Markéta Lopatková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Semecký" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Semecký" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Mírovský" target="Petr Pajas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Mírovský" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiří Mírovský" target="Lucie Mladová">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Markéta Lopatková" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Markéta Lopatková" target="Tomás Holan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Markéta Lopatková" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Václav Novák" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Václav Novák" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Václav Novák" target="Martin Popel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Václav Novák" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Popel" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Popel" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Popel" target="Nathan Green">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Popel" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hana Skoumalová" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Zeman" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Zeman" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nathan Green" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jana Kravalova" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sowmya Vajjala" target="Zdenek Zabokrtský">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Markéta Lopatková-Lopatková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Petr Pajas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Lucie Mladová">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Ondřej Bojar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Veronika Reznícková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zdenek Zabokrtský" target="Tomás Holan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Petr Pajas" target="Veronika Reznícková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Petr Pajas" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Markéta Lopatková-Lopatková" target="Veronika Reznícková">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ondřej Bojar" target="Jan Ptáček">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

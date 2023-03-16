@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Z. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">secrecy system, key equivocation rate, block encipherer C</data>
+    </node>
+    <node id="Y. Koga">
+      <data key="affiliation">Nan</data>
+      <data key="research">incorrect phase transition, guard time, single stuck-at fault</data>
+    </node>
+    <node id="H. Yamamoto">
+      <data key="affiliation">Visualization Research Center, Niigata University, 8050 Ikarashi2, Niigata, 9502181, Japan. Email: fujisawa@eng.niigatau.ac.jp</data>
+      <data key="research">Asymmetric Flow Pattern, Square Pipe</data>
+    </node>
+    <node id="F. Kishino">
+      <data key="affiliation">NTT Human Interface Lab., Kanagawa</data>
+      <data key="research">packet loss, video signal, picture quality</data>
+    </node>
+    <node id="T. Ito">
+      <data key="affiliation">Department of Information and Computer Sciences, Osaka University, Toyonaka, Osaka 560, Japan</data>
+      <data key="research">hierarchical file organization, similar-string matching, file search</data>
+    </node>
+    <node id="K. Fukuzawa">
+      <data key="affiliation">Department of Micro System Engineering, Graduate School of Engineering, Nagoya University, Nagoya 4648603, Furocho, Chikusaku, Japan</data>
+      <data key="research">solid surface, interference fringe pattern, glass disk</data>
+    </node>
+    <node id="Xi Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">ranking consistency, spatial verification, experimental result</data>
+    </node>
+    <node id="T. Matsubara">
+      <data key="affiliation">Nan</data>
+      <data key="research">incorrect phase transition, guard time, single stuck-at fault</data>
+    </node>
+    <node id="F. Tao">
+      <data key="affiliation">Institute of Geographic Science and Natural Resources Research, Chinese Academy of Sciences, Beijing 100101, PR China,National Institute for AgroEnvironmental Sciences, 313 Kannondai, Tsukuba,  ...</data>
+      <data key="research">land surface phenology, climate variation, land surface phenology dynamic</data>
+    </node>
+    <node id="Yasunaga Mitsuya">
+      <data key="affiliation">Graduate School of Engineering, Nagoya University, Furocho, Chikusaku, Nagoya, 4648601 (Japan).</data>
+      <data key="research">shearing force, normal force, conical feeler</data>
+    </node>
+    <node id="S. Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">substratesEpitaxial growth, oriented diamond film</data>
+    </node>
+    <node id="S. K. Mitra">
+      <data key="affiliation">DAIICT, Gujrat, India</data>
+      <data key="research">fractal image compression, image compression, image level</data>
+    </node>
+    <node id="K. Kaneko">
+      <data key="affiliation">Nan</data>
+      <data key="research">Self-organized hierarchical structure, chaotic unit, plastic network</data>
+    </node>
+    <node id="Y. Hayashi">
+      <data key="affiliation">National Institute for AgroEnvironmental Sciences, 313 Kannondai, Tsukuba, Ibaraki, Japan</data>
+      <data key="research">land surface phenology, climate variation, land surface phenology dynamic</data>
+    </node>
+    <node id="H. Yasuda">
+      <data key="affiliation">Nan</data>
+      <data key="research">special glass, full-color stereoscopic video display, large-size rear-projection stereoscopic display</data>
+    </node>
+    <node id="H. Fukinuki">
+      <data key="affiliation">NTT Public Corp., Yokosuka, Japan</data>
+      <data key="research">FS-4OOM submarine system, major system parameter, system design</data>
+    </node>
+    <node id="K. Goto">
+      <data key="affiliation">Nan</data>
+      <data key="research">dry-etched mesa, Improved selective growth, low growth temperatureSelective growth</data>
+    </node>
+    <node id="H. Zhang">
+      <data key="affiliation">Computer Sciences Dept. &amp; Electrical and Computer Engineering Dept., Purdue University</data>
+      <data key="research">adaptive simulation example, data-driven environment, data-driven precomputed solution synthesis</data>
+    </node>
+    <node id="S. Tomita">
+      <data key="affiliation">Nan</data>
+      <data key="research">concurrent object-oriented switching program, logical switching system model, object-oriented switching program system</data>
+    </node>
+    <node id="K. Shirai">
+      <data key="affiliation">Nan</data>
+      <data key="research">facial expression, Hop-field neural network, discrete type Hopield neural</data>
+    </node>
+    <edge source="Z. Zhang" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Zhang" target="F. Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Koga" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Koga" target="T. Matsubara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Yamamoto" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Kishino" target="H. Yasuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Kishino" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Ito" target="H. Fukinuki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Ito" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Fukuzawa" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Fukuzawa" target="K. Goto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Fukuzawa" target="Yasunaga Mitsuya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Fukuzawa" target="H. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xi Li" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xi Li" target="S. Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Matsubara" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Tao" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasunaga Mitsuya" target="H. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasunaga Mitsuya" target="K. Goto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasunaga Mitsuya" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Nishino" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. K. Mitra" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Kaneko" target="Y. Hayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="H. Fukinuki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="H. Yasuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="H. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="S. Tomita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="K. Shirai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Hayashi" target="K. Goto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Goto" target="H. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

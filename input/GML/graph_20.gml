@@ -1,87 +1,87 @@
 graph [
   node [
     id 0
-    label "A. Ohgai"
-    affiliation "Nan"
-    research "Green Urbanism, Dhaka City, GU model"
-  ]
-  node [
-    id 1
     label "T. Noguchi"
     affiliation "Humanoid Robotics Institute, Waseda University, 341 Okubo Shinjukuku, Tokyo 1698555, Japan"
     research "Waseda University, Humanoid Robotics Institute, Humanoid Robots"
   ]
   node [
-    id 2
+    id 1
     label "S G. Tzafestas"
     affiliation "National Technical, University of Athens, Athens, Greece"
     research "fuzzy logic, control scheme, fuzzy reasoning"
   ]
   node [
-    id 3
-    label "I. Keshi"
-    affiliation "Nan"
-    research "intelligent assistant system, knowledge-based framework"
-  ]
-  node [
-    id 4
-    label "S. Fukuyama"
-    affiliation "Fujitsu Microelectronics Ltd., 1500 Mizono, Tadocho, Kuwana, Mie 5110192, Japan"
-    research "fluorine contamination, barrier metal oxidation, Cu multilevel interconnects"
-  ]
-  node [
-    id 5
-    label "T. Takayama"
-    affiliation "Engineering Research Center, Toshiba Carrier Co. Ltd., Fujishi, Shizuoka, 4100395, Japan"
-    research "rtler vortex, Surfactant Solution, ppm surfactant solution"
-  ]
-  node [
-    id 6
-    label "Y. Yagi"
-    affiliation "Nan"
-    research "large field, catadioptric omnidirectional image sensor, image mosaic"
-  ]
-  node [
-    id 7
-    label "A. Hirabayashi"
-    affiliation "Nan"
-    research "memorization learning, noisy training example"
-  ]
-  node [
-    id 8
-    label "Y. Yamamoto"
-    affiliation "National Aerospace Laboratory, Tokyo, JAPAN"
-    research "target performance, NWT Fortran, NAL numerical wind tunnel"
-  ]
-  node [
-    id 9
-    label "Y. Ishii"
-    affiliation "Department of Information Systems Science, Faculty of Engineering, Soka University, 1236, Tangicho, Hachioji, Tokyo 1928577, Japan."
-    research "molten pool, UV radiation, Invisible Laser Beam"
-  ]
-  node [
-    id 10
-    label "S. Itoh"
-    affiliation "Shock Wave and Condensed Matter Research Center, Kumamoto University, 2391, Kurokami, Kumamoto, 8608555, Japan. Tel: +81963423299/ FAX: +81963423299/ Email: pdsm@mech.kumamotou.ac.jp"
-    research "stress wave, Numerical Analysis, blasting process"
-  ]
-  node [
-    id 11
+    id 2
     label "K. Watanabe"
     affiliation "Nan"
     research "control problem, discrete-time optimal control model, optimal control problem"
   ]
   node [
-    id 12
+    id 3
+    label "Y. Ishii"
+    affiliation "Department of Information Systems Science, Faculty of Engineering, Soka University, 1236, Tangicho, Hachioji, Tokyo 1928577, Japan."
+    research "molten pool, UV radiation, Invisible Laser Beam"
+  ]
+  node [
+    id 4
+    label "Y. Yagi"
+    affiliation "Nan"
+    research "large field, catadioptric omnidirectional image sensor, image mosaic"
+  ]
+  node [
+    id 5
+    label "S. Fukuyama"
+    affiliation "Fujitsu Microelectronics Ltd., 1500 Mizono, Tadocho, Kuwana, Mie 5110192, Japan"
+    research "fluorine contamination, barrier metal oxidation, Cu multilevel interconnects"
+  ]
+  node [
+    id 6
+    label "Y. Kubota"
+    affiliation "Sony Corp., Tokyo"
+    research "consumer digital VCRsA video, consumer use digital VCRs, consumer-use digital VCRWe"
+  ]
+  node [
+    id 7
     label "Tsu-Tian Lee"
     affiliation "Department of Electrical Engineering, Taipei University of Technology, Taipei, Taiwan"
     research "rule base, Research ArticlesThe consistency, consistency degree"
   ]
   node [
+    id 8
+    label "T. Takayama"
+    affiliation "Engineering Research Center, Toshiba Carrier Co. Ltd., Fujishi, Shizuoka, 4100395, Japan"
+    research "rtler vortex, Surfactant Solution, ppm surfactant solution"
+  ]
+  node [
+    id 9
+    label "A. Ohgai"
+    affiliation "Nan"
+    research "Green Urbanism, Dhaka City, GU model"
+  ]
+  node [
+    id 10
+    label "T. Suzuki"
+    affiliation "Nan"
+    research "monolithic ICs, repeater circuit, GaAs ICs"
+  ]
+  node [
+    id 11
+    label "A. Hirabayashi"
+    affiliation "Nan"
+    research "memorization learning, noisy training example"
+  ]
+  node [
+    id 12
+    label "Y. Yamamoto"
+    affiliation "National Aerospace Laboratory, Tokyo, JAPAN"
+    research "target performance, NWT Fortran, NAL numerical wind tunnel"
+  ]
+  node [
     id 13
-    label "Y. Kubota"
-    affiliation "Sony Corp., Tokyo"
-    research "consumer digital VCRsA video, consumer use digital VCRs, consumer-use digital VCRWe"
+    label "N. Azuma"
+    affiliation "Nan"
+    research "better picture quality, sound quality, Multi-Track PCM Audio Utilizing"
   ]
   node [
     id 14
@@ -91,57 +91,122 @@ graph [
   ]
   node [
     id 15
-    label "S. Kameda"
-    affiliation "Research Institute of Electrical Communication, Tohoku University"
-    research "reuse factor, frequency reuse factor, downlink throughput distribution"
+    label "Y. Iwai"
+    affiliation "Japan Federation of Medical Device Associations, Tokyo, Japan"
+    research "health indicator, physical health, health counseling"
   ]
   node [
     id 16
+    label "S. Itoh"
+    affiliation "Shock Wave and Condensed Matter Research Center, Kumamoto University, 2391, Kurokami, Kumamoto, 8608555, Japan. Tel: +81963423299/ FAX: +81963423299/ Email: pdsm@mech.kumamotou.ac.jp"
+    research "stress wave, Numerical Analysis, blasting process"
+  ]
+  node [
+    id 17
     label "S. Ogata"
     affiliation "Graduate School of Engineering, Tokyo Metropolitan University, Hachioojishi, Tokyo, 1920397, Japan"
     research "rtler vortex, Surfactant Solution, ppm surfactant solution"
   ]
   node [
-    id 17
-    label "N. Azuma"
-    affiliation "Nan"
-    research "better picture quality, sound quality, Multi-Track PCM Audio Utilizing"
-  ]
-  node [
     id 18
-    label "T. Suzuki"
-    affiliation "Nan"
-    research "monolithic ICs, repeater circuit, GaAs ICs"
+    label "S. Kameda"
+    affiliation "Research Institute of Electrical Communication, Tohoku University"
+    research "reuse factor, frequency reuse factor, downlink throughput distribution"
   ]
   node [
     id 19
-    label "Y. Iwai"
-    affiliation "Japan Federation of Medical Device Associations, Tokyo, Japan"
-    research "health indicator, physical health, health counseling"
+    label "I. Keshi"
+    affiliation "Nan"
+    research "intelligent assistant system, knowledge-based framework"
   ]
   edge [
     source 0
-    target 11
+    target 2
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 18
+    relation "collaborate"
+  ]
+  edge [
+    source 0
+    target 12
     relation "collaborate"
   ]
   edge [
     source 1
-    target 11
+    target 2
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 9
+    source 2
+    target 6
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 2
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 2
     target 15
     relation "collaborate"
   ]
   edge [
-    source 1
+    source 2
+    target 5
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 17
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 2
     target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 3
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 9
     relation "collaborate"
   ]
   edge [
@@ -150,98 +215,43 @@ graph [
     relation "collaborate"
   ]
   edge [
+    source 2
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 2
+    target 18
+    relation "collaborate"
+  ]
+  edge [
     source 3
-    target 11
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 6
     relation "collaborate"
   ]
   edge [
     source 4
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 18
+    target 15
     relation "collaborate"
   ]
   edge [
     source 5
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 5
-    target 16
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 8
+    target 10
     relation "collaborate"
   ]
   edge [
     source 8
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 9
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 10
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 10
     target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 18
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 16
     relation "collaborate"
   ]
   edge [
@@ -250,18 +260,8 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 11
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 11
-    target 15
+    source 13
+    target 16
     relation "collaborate"
   ]
 ]

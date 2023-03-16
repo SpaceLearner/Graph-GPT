@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Christopher J. O'Donnell">
+      <data key="affiliation">Nan</data>
+      <data key="research">genomic region, low association P-values, Pleiotropy Index</data>
+    </node>
+    <node id="E. S. Thian">
+      <data key="affiliation">Department of Mechanical Engineering, National University of Singapore, Singapore</data>
+      <data key="research">micro-dispensing system, proposed system, print head</data>
+    </node>
+    <node id="Zheng Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">Power Analysis, Block Cipher Circuit Design, Power AnalysisIn</data>
+    </node>
+    <node id="Lei Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">South Korea investment, Weihai Introducing South Korea, South Korea</data>
+    </node>
+    <node id="Jian Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">2-D data, data processing, gapped data</data>
+    </node>
+    <node id="Lu Liu">
+      <data key="affiliation">WalmartLabs</data>
+      <data key="research">fast data, big data, sensor data stream</data>
+    </node>
+    <node id="Shuxue Ding">
+      <data key="affiliation">Dalian University of Technology, China</data>
+      <data key="research">steering vector, proposed method, Efficient Method</data>
+    </node>
+    <node id="Xin Jin">
+      <data key="affiliation">Nan</data>
+      <data key="research">Local-Scale RMT, reconfigurable turn-milling machine tool, Vibration Testing</data>
+    </node>
+    <node id="Zhiyong Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">center pressure, foot sole region pressure, intensity pressure</data>
+    </node>
+    <node id="Yan Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">loan broker service, non-intrusive service recovery, overall service response time</data>
+    </node>
+    <node id="Tao Xie">
+      <data key="affiliation">Nan</data>
+      <data key="research">existing availability metrics, corresponding estimation approach, invocation record</data>
+    </node>
+    <node id="Yong Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Video conferencing system, construction site, actual construction site</data>
+    </node>
+    <node id="Jie Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">developed welding, practical welding project, welding torch</data>
+    </node>
+    <node id="Jonathan Walpole">
+      <data key="affiliation">Department of Computer Science, Portland State University, Portland, OR</data>
+      <data key="research">operating system, relativistic programming, time-sensitive application</data>
+    </node>
+    <node id="Wu-chi Feng">
+      <data key="affiliation">Software Systems Research Lab, Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI, USA</data>
+      <data key="research">sensor network, video data, video quality</data>
+    </node>
+    <node id="Charles Krasic">
+      <data key="affiliation">Google</data>
+      <data key="research">adaptation policy, priority-drop video, time-sensitive application</data>
+    </node>
+    <node id="Shengsheng Huang">
+      <data key="affiliation">Intel AsiaPacific Research and Development Ltd, Shanghai, P.R.China</data>
+      <data key="research">Hadoop log, Hadoop performance analysis, dataflow-based analysis</data>
+    </node>
+    <node id="Noboru Ohnishi">
+      <data key="affiliation">Graduate School of Information Science, Nagoya University, Chikusaku, Nagoya, Japan</data>
+      <data key="research">use-by date, Optical Character Recognition, Support Vector Machine</data>
+    </node>
+    <node id="Jun Cui">
+      <data key="affiliation">Nan</data>
+      <data key="research">shopping mall web, empirical study, technical factor</data>
+    </node>
+    <node id="Qunfei Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">rectangle signboard, array position, known position</data>
+    </node>
+    <edge source="Christopher J. O'Donnell" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. S. Thian" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zheng Guo" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zheng Guo" target="Jun Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Chen" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Li" target="Jian Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lu Liu" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lu Liu" target="Zhiyong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuxue Ding" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuxue Ding" target="Yong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xin Jin" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Chen" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Liu" target="Shengsheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Liu" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Liu" target="Yong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Xie" target="Shengsheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Xie" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Liu" target="Jie Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Wu-chi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Qunfei Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Jonathan Walpole">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Charles Krasic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Jun Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Shengsheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Huang" target="Noboru Ohnishi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan Walpole" target="Wu-chi Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan Walpole" target="Charles Krasic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wu-chi Feng" target="Charles Krasic">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

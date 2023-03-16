@@ -1,49 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-Lee Sael	1
-Bin Li	{'relation': 'collaborate'}
-Feng Sun	1
-Bin Li	{'relation': 'collaborate'}
-Bin Li	14
-S. Sheng	{'relation': 'collaborate'}
-David Zhang	{'relation': 'collaborate'}
-Yumei Wang	{'relation': 'collaborate'}
-Qiao Wang	{'relation': 'collaborate'}
-X. M. Chen	{'relation': 'collaborate'}
-MingXi Wan	{'relation': 'collaborate'}
-Dennis Shasha	{'relation': 'collaborate'}
-M. Espig	{'relation': 'collaborate'}
-Yuechao Wang	{'relation': 'collaborate'}
-Wei Liu	{'relation': 'collaborate'}
-Yuanyuan Zhang	{'relation': 'collaborate'}
-Xinqing Yan	{'relation': 'collaborate'}
-Yan Xu	{'relation': 'collaborate'}
-Juan Bai	{'relation': 'collaborate'}
-M. Espig	0
-Yumei Wang	0
-X. M. Chen	0
-Youlun Xiong	2
-Zhouping Yin	{'relation': 'collaborate'}
-Xinqing Yan	{'relation': 'collaborate'}
-Guiliang Zhu	1
-Xinqing Yan	{'relation': 'collaborate'}
-Juan Bai	2
-Yan Xu	{'relation': 'collaborate'}
-Xinqing Yan	{'relation': 'collaborate'}
-Dennis Shasha	0
-Wei Liu	2
-Yan Xu	{'relation': 'collaborate'}
-Wei Liu	{'relation': 'collaborate'}
-David Zhang	0
-Yan Xu	2
-Xinqing Yan	{'relation': 'collaborate'}
-Yan Xu	{'relation': 'collaborate'}
-Zhouping Yin	1
-Xinqing Yan	{'relation': 'collaborate'}
-Qiao Wang	0
-Xinqing Yan	0
-Yuechao Wang	0
-MingXi Wan	0
-S. Sheng	0
-Yuanyuan Zhang	0
+David Zhang	Bin Li
+Youlun Xiong	Zhouping Yin	Xinqing Yan
+S. Sheng	Bin Li
+X. M. Chen	Bin Li
+Guiliang Zhu	Xinqing Yan
+Qiao Wang	Bin Li
+Lee Sael	Bin Li
+Dennis Shasha	Bin Li
+Juan Bai	Yan Xu	Xinqing Yan	Bin Li
+Bin Li	Yumei Wang	MingXi Wan	M. Espig	Yuechao Wang	Wei Liu	Yuanyuan Zhang	Feng Sun	Xinqing Yan	Yan Xu
+Yuechao Wang
+Zhouping Yin	Xinqing Yan
+Feng Sun
+M. Espig
+Yan Xu	Xinqing Yan	Yan Xu	Wei Liu
+Wei Liu	Wei Liu
+Yumei Wang
+Xinqing Yan
+Yuanyuan Zhang
+MingXi Wan

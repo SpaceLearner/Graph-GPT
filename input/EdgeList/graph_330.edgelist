@@ -1,0 +1,49 @@
+Seiji Isotani	Richard E. Mayer	{'relation': 'collaborate'}
+Seiji Isotani	George Goguadze	{'relation': 'collaborate'}
+Seiji Isotani	Martin Van Velsen	{'relation': 'collaborate'}
+Seiji Isotani	Bruce M. McLaren	{'relation': 'collaborate'}
+Seiji Isotani	Sergey A. Sosnovsky	{'relation': 'collaborate'}
+Sergey A. Sosnovsky	Richard E. Mayer	{'relation': 'collaborate'}
+Sergey A. Sosnovsky	George Goguadze	{'relation': 'collaborate'}
+Sergey A. Sosnovsky	Bruce M. McLaren	{'relation': 'collaborate'}
+Sergey A. Sosnovsky	Martin Van Velsen	{'relation': 'collaborate'}
+Gregory H. Leazer	Leonard D'Avolio	{'relation': 'collaborate'}
+Gregory H. Leazer	Christine L. Borgman	{'relation': 'collaborate'}
+Gregory H. Leazer	Richard E. Mayer	{'relation': 'collaborate'}
+Gregory H. Leazer	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+Gregory H. Leazer	Kelli A. Millwood	{'relation': 'collaborate'}
+Gregory H. Leazer	Richard A. Johnson	{'relation': 'collaborate'}
+Kelli A. Millwood	Richard E. Mayer	{'relation': 'collaborate'}
+Kelli A. Millwood	Christine L. Borgman	{'relation': 'collaborate'}
+Kelli A. Millwood	Richard A. Johnson	{'relation': 'collaborate'}
+Kelli A. Millwood	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+Kelli A. Millwood	Leonard D'Avolio	{'relation': 'collaborate'}
+W. Lewis Johnson	Richard E. Mayer	{'relation': 'collaborate'}
+W. Lewis Johnson	Erin Shaw	{'relation': 'collaborate'}
+W. Lewis Johnson	Hyokyeong Lee	{'relation': 'collaborate'}
+Christine L. Borgman	Richard A. Johnson	{'relation': 'collaborate'}
+Christine L. Borgman	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+Christine L. Borgman	Richard E. Mayer	{'relation': 'collaborate'}
+Christine L. Borgman	Leonard D'Avolio	{'relation': 'collaborate'}
+Richard A. Johnson	Leonard D'Avolio	{'relation': 'collaborate'}
+Richard A. Johnson	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+Richard A. Johnson	Richard E. Mayer	{'relation': 'collaborate'}
+Martin Van Velsen	Richard E. Mayer	{'relation': 'collaborate'}
+Martin Van Velsen	George Goguadze	{'relation': 'collaborate'}
+Martin Van Velsen	Bruce M. McLaren	{'relation': 'collaborate'}
+Terry P. Vendlinski	Richard E. Mayer	{'relation': 'collaborate'}
+Terry P. Vendlinski	Gregory K. W. K. Chung	{'relation': 'collaborate'}
+Gregory K. W. K. Chung	Richard E. Mayer	{'relation': 'collaborate'}
+Hyokyeong Lee	Erin Shaw	{'relation': 'collaborate'}
+Hyokyeong Lee	Richard E. Mayer	{'relation': 'collaborate'}
+Roxana Moreno	Richard E. Mayer	{'relation': 'collaborate'}
+Richard E. Mayer	Bruce M. McLaren	{'relation': 'collaborate'}
+Richard E. Mayer	Cheryl I. Johnson	{'relation': 'collaborate'}
+Richard E. Mayer	Erin Shaw	{'relation': 'collaborate'}
+Richard E. Mayer	George Goguadze	{'relation': 'collaborate'}
+Richard E. Mayer	W. L. Johnson	{'relation': 'collaborate'}
+Richard E. Mayer	Leonard D'Avolio	{'relation': 'collaborate'}
+Richard E. Mayer	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+George Goguadze	Bruce M. McLaren	{'relation': 'collaborate'}
+Leonard D'Avolio	Anne J. Gilliland-Swetland	{'relation': 'collaborate'}
+Erin Shaw	W. L. Johnson	{'relation': 'collaborate'}

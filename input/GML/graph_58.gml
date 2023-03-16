@@ -1,39 +1,39 @@
 graph [
   node [
     id 0
-    label "Mehmet Sahinoglu"
-    affiliation "Auburn University, Montgomery"
-    research "Behavioral Model, different testing phase, software failure"
+    label "Sunil R Das"
+    affiliation "TechnionIsrael Institute of Technology, Faculty of Industrial Engineering and Management, Technion City, Haifa 32000, Israel"
+    research "mobile agent, black hole search problem, rendezvous problem"
   ]
   node [
     id 1
-    label "Yang Hong"
-    affiliation "School of Civil Engineering and Environmental Sciences, University of Oklahoma, Norman, OK, USA"
-    research "actual ET, daily ET bias, estimated ET"
-  ]
-  node [
-    id 2
-    label "Weihui Dai"
-    affiliation "Nan"
-    research "emergency supply, Emergency Rescue, emergency management"
-  ]
-  node [
-    id 3
-    label "L. Zhu"
-    affiliation "Nan"
-    research "smoke detection, Gaussian color model, Kalman Filter"
-  ]
-  node [
-    id 4
-    label "Ning Zhang"
-    affiliation "Nan"
-    research "universality class, CF method, novel method"
-  ]
-  node [
-    id 5
     label "Coskun Bayrak"
     affiliation "S. University Avenue, Little Rock, AR"
     research "data source, data administrator, data integration gap"
+  ]
+  node [
+    id 2
+    label "Weidong Zhao"
+    affiliation "Hebei University, Baoding, China"
+    research "D-S Evidence, detection efficiency, false negative rate"
+  ]
+  node [
+    id 3
+    label "L. Wang"
+    affiliation "Nan"
+    research "fast implementation, spectral nested dissection"
+  ]
+  node [
+    id 4
+    label "J. Li"
+    affiliation "Nan"
+    research "estimation step, frequency estimator, high-order Yule-Walker"
+  ]
+  node [
+    id 5
+    label "Lu Liu"
+    affiliation "WalmartLabs"
+    research "fast data, big data, sensor data stream"
   ]
   node [
     id 6
@@ -43,9 +43,9 @@ graph [
   ]
   node [
     id 7
-    label "Lu Liu"
-    affiliation "WalmartLabs"
-    research "fast data, big data, sensor data stream"
+    label "Mansour H. Assaf"
+    affiliation "School of Information Technology and Engineering, Faculty of Engineering, University of Ottawa, Ottawa, ON, Canada"
+    research "built-in self-testing, subject paper, architectural design"
   ]
   node [
     id 8
@@ -55,69 +55,74 @@ graph [
   ]
   node [
     id 9
-    label "E. Chow"
-    affiliation "Nan"
-    research "object-oriented database management system, object-oriented database management systemIRIS, IRIS DBMSIRIS"
-  ]
-  node [
-    id 10
-    label "Altaf Hossain"
-    affiliation "University of Ottawa, Ottawa, ON, Canada"
-    research "single stuck-line fault, embedded cores-based system-on-chips, combinational benchmark circuit"
-  ]
-  node [
-    id 11
-    label "Chuan Jin"
-    affiliation "Nan"
-    research "Extended XinpaiIn order, Multi-agent Process Coordination, region segmentation operator"
-  ]
-  node [
-    id 12
-    label "Sunil R Das"
-    affiliation "TechnionIsrael Institute of Technology, Faculty of Industrial Engineering and Management, Technion City, Haifa 32000, Israel"
-    research "mobile agent, black hole search problem, rendezvous problem"
-  ]
-  node [
-    id 13
-    label "Weidong Zhao"
-    affiliation "Hebei University, Baoding, China"
-    research "D-S Evidence, detection efficiency, false negative rate"
-  ]
-  node [
-    id 14
     label "Timothy Kusky"
     affiliation "China University of Geosciences, Wuhan, 430074, Hubei Province, China"
     research "groundwater occurrence, high groundwater potential zone, SFZ aquifers"
   ]
   node [
-    id 15
-    label "Voicu Groza"
-    affiliation "University of Ottowa"
-    research "pulse rate variability, short duration oscillometric blood, SIMD intrinsics"
-  ]
-  node [
-    id 16
-    label "Mansour H. Assaf"
-    affiliation "School of Information Technology and Engineering, Faculty of Engineering, University of Ottawa, Ottawa, ON, Canada"
-    research "built-in self-testing, subject paper, architectural design"
-  ]
-  node [
-    id 17
-    label "L. Wang"
+    id 10
+    label "Ning Zhang"
     affiliation "Nan"
-    research "fast implementation, spectral nested dissection"
+    research "universality class, CF method, novel method"
   ]
   node [
-    id 18
+    id 11
     label "Zhao-Liang Li"
     affiliation "LSIIT, UdS, CNRS, 67412, Illkirch, France"
     research "AIRS data, AIRS L2 LST product, AIRS-estimated LST"
   ]
   node [
-    id 19
-    label "J. Li"
+    id 12
+    label "Chuan Jin"
     affiliation "Nan"
-    research "estimation step, frequency estimator, high-order Yule-Walker"
+    research "Extended XinpaiIn order, Multi-agent Process Coordination, region segmentation operator"
+  ]
+  node [
+    id 13
+    label "Voicu Groza"
+    affiliation "University of Ottowa"
+    research "pulse rate variability, short duration oscillometric blood, SIMD intrinsics"
+  ]
+  node [
+    id 14
+    label "Altaf Hossain"
+    affiliation "University of Ottawa, Ottawa, ON, Canada"
+    research "single stuck-line fault, embedded cores-based system-on-chips, combinational benchmark circuit"
+  ]
+  node [
+    id 15
+    label "L. Zhu"
+    affiliation "Nan"
+    research "smoke detection, Gaussian color model, Kalman Filter"
+  ]
+  node [
+    id 16
+    label "Mehmet Sahinoglu"
+    affiliation "Auburn University, Montgomery"
+    research "Behavioral Model, different testing phase, software failure"
+  ]
+  node [
+    id 17
+    label "E. Chow"
+    affiliation "Nan"
+    research "object-oriented database management system, object-oriented database management systemIRIS, IRIS DBMSIRIS"
+  ]
+  node [
+    id 18
+    label "Weihui Dai"
+    affiliation "Nan"
+    research "emergency supply, Emergency Rescue, emergency management"
+  ]
+  node [
+    id 19
+    label "Yang Hong"
+    affiliation "School of Civil Engineering and Environmental Sciences, University of Oklahoma, Norman, OK, USA"
+    research "actual ET, daily ET bias, estimated ET"
+  ]
+  edge [
+    source 0
+    target 7
+    relation "collaborate"
   ]
   edge [
     source 0
@@ -130,153 +135,143 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 0
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 9
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 0
-    target 12
-    relation "collaborate"
-  ]
-  edge [
     source 1
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 13
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 6
     target 16
     relation "collaborate"
   ]
   edge [
-    source 6
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 6
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 7
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 19
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 17
-    relation "collaborate"
-  ]
-  edge [
-    source 8
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 8
+    source 2
     target 18
     relation "collaborate"
   ]
   edge [
-    source 10
+    source 2
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 4
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 3
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 3
     target 15
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 4
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 4
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 5
+    target 8
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 16
     relation "collaborate"
   ]
   edge [
-    source 11
+    source 6
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 7
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 6
     target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 13
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 19
     relation "collaborate"
   ]
   edge [
@@ -285,23 +280,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 14
+    source 12
     target 18
     relation "collaborate"
   ]
   edge [
-    source 15
+    source 13
     target 16
     relation "collaborate"
   ]
   edge [
-    source 17
-    target 19
+    source 13
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 17
-    target 18
+    source 14
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 16
+    target 17
     relation "collaborate"
   ]
 ]

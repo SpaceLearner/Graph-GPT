@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hsiang-Cheh Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">marked image, original image, secret information</data>
+    </node>
+    <node id="Feng-Cheng Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">interactive whiteboards, service discovery, network-enabled software development</data>
+    </node>
+    <node id="Wai-chi Fang">
+      <data key="affiliation">Department of Electronics Engineering, National Chiao Tung University, Taiwan</data>
+      <data key="research">International Conference, Future Generation Information Technology, Information Science</data>
+    </node>
+    <node id="Wai-Chi Fang">
+      <data key="affiliation">Department of Electrical Engineering, University of Southern California, Signal and Image Processing Institute, Los Angeles, CA</data>
+      <data key="research">vector quantization, image compression, difference-codebook binary tree-searched vector</data>
+    </node>
+    <node id="Shih-Sian Cheng">
+      <data key="affiliation">Institute of Information Science, Academia Sinica, Taipei, Taiwan</data>
+      <data key="research">consensus foreground object template, foreground object, foreground region</data>
+    </node>
+    <node id="Lei Sun">
+      <data key="affiliation">Research Institute for Information Technology, Tsinghua University, Beijing, China</data>
+      <data key="research">copyright protection technology, copyright protection, ChinaThis paper survey</data>
+    </node>
+    <node id="Chun-Sheng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">arithmetic operation, important arithmetic operation, Efficienthardware implementation</data>
+    </node>
+    <node id="Chun-Yen Huang">
+      <data key="affiliation">National Kaohsiung University of Applied Sciences, 415 ChienKung Rd., Kaohsiung 807, Taiwan, ROC</data>
+      <data key="research">watermarked media, Tabu search, error-resilient transmission</data>
+    </node>
+    <node id="Guan-Yu Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">second-priced auction mechanism, Dynamic Auction Mechanism, allocation problem</data>
+    </node>
+    <node id="Yueh-Hong Chen">
+      <data key="affiliation">National ChiaoTung University</data>
+      <data key="research">original image, Reversible Data Hiding, experimental result</data>
+    </node>
+    <node id="H.-M. Hang">
+      <data key="affiliation">Nan</data>
+      <data key="research">image sequence compression, motion estimation</data>
+    </node>
+    <node id="Shao-Yen Tseng">
+      <data key="affiliation">Department of Electronics Engineering, National Chiao Tung University, Hsinchu 300, Taiwan, ROC</data>
+      <data key="research">HRV processor, ECG data, proposed system</data>
+    </node>
+    <node id="Shun-Chin Chuang">
+      <data key="affiliation">Headquarters Administration of Cultural Heritage, Council for Cultural Affairs, TaiChung, 40247, Taiwan</data>
+      <data key="research">exemplar image, favor image, experimental result</data>
+    </node>
+    <node id="Chun-Hsien Wu">
+      <data key="affiliation">Nat. Sun YatSen Univ., Kaohsiung</data>
+      <data key="research">cascaded equalizer, block transmission system, block-based precoder</data>
+    </node>
+    <node id="Jeng-Shyang Pan">
+      <data key="affiliation">Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen Graduate School, Guangdong, China</data>
+      <data key="research">conventional random generator, evolutionary random interval fingerprint, fake random interval</data>
+    </node>
+    <node id="Tzu-Chieh Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">real datasets, Genetic Algorithm, current cluster validity index</data>
+    </node>
+    <node id="Bin-Yih Liao">
+      <data key="affiliation">Nan</data>
+      <data key="research">general group, general overview, general purpose procedure</data>
+    </node>
+    <node id="Wei Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">batch arrival, N queue, queue length distribution</data>
+    </node>
+    <node id="Sheng-he Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">luminance matching, digital patching method, global-best patching scheme</data>
+    </node>
+    <node id="L. C. Jain">
+      <data key="affiliation">University of Science Malaysia, School of Electrical and Electronic Engineering, 14300 Nibong Tebal, Penang, Malaysia</data>
+      <data key="research">function approximation, FAM network, pattern classification</data>
+    </node>
+    <edge source="Hsiang-Cheh Huang" target="Chun-Sheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Shih-Sian Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Bin-Yih Liao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Guan-Yu Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Chun-Hsien Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Chun-Yen Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Tzu-Chieh Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Wai-Chi Fang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Lei Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Feng-Cheng Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Yueh-Hong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Sheng-he Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Shun-Chin Chuang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="L. C. Jain">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Shao-Yen Tseng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="H.-M. Hang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Wai-chi Fang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng-Cheng Chang" target="Chun-Hsien Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng-Cheng Chang" target="H.-M. Hang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wai-chi Fang" target="Shao-Yen Tseng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wai-Chi Fang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shih-Sian Cheng" target="Yueh-Hong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shih-Sian Cheng" target="Shun-Chin Chuang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Sun" target="Bin-Yih Liao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Sun" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Sun" target="Tzu-Chieh Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Sheng Yang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Sheng Yang" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Huang" target="Bin-Yih Liao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Yen Huang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guan-Yu Lin" target="Yueh-Hong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yueh-Hong Chen" target="Shun-Chin Chuang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H.-M. Hang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H.-M. Hang" target="Sheng-he Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="L. C. Jain">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Tzu-Chieh Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Bin-Yih Liao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Sheng-he Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tzu-Chieh Lin" target="Bin-Yih Liao">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

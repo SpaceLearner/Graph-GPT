@@ -1,0 +1,38 @@
+C. L. Chiu	C. S. Wu	{'relation': 'collaborate'}
+C. L. Chiu	D. L. Young	{'relation': 'collaborate'}
+D. T. Lee	C. C. Lee	{'relation': 'collaborate'}
+D. T. Lee	C. D. Yang	{'relation': 'collaborate'}
+D. T. Lee	T. H. Chen	{'relation': 'collaborate'}
+F. H. Pollak	M. S. Goorsky	{'relation': 'collaborate'}
+F. H. Pollak	Mike Wojtowicz	{'relation': 'collaborate'}
+F. H. Pollak	T. H. Chen	{'relation': 'collaborate'}
+F. H. Pollak	Ying-Sheng Huang	{'relation': 'collaborate'}
+R. H. Chen	C. S. Wu	{'relation': 'collaborate'}
+Norman J. M. Horing	T. H. Chen	{'relation': 'collaborate'}
+Mike Wojtowicz	T. H. Chen	{'relation': 'collaborate'}
+Mike Wojtowicz	Ying-Sheng Huang	{'relation': 'collaborate'}
+Mike Wojtowicz	M. S. Goorsky	{'relation': 'collaborate'}
+K. H. Chen	J. T. Chen	{'relation': 'collaborate'}
+K. H. Chen	C. S. Wu	{'relation': 'collaborate'}
+K. H. Chen	Y. T. Lee	{'relation': 'collaborate'}
+D. L. Young	C. S. Wu	{'relation': 'collaborate'}
+M. Hu	C. S. Wu	{'relation': 'collaborate'}
+M. Hu	H. Kanber	{'relation': 'collaborate'}
+Y. T. Lee	J. T. Chen	{'relation': 'collaborate'}
+Y. T. Lee	C. S. Wu	{'relation': 'collaborate'}
+C. S. Wu	C. C. Lee	{'relation': 'collaborate'}
+C. S. Wu	Ren-Chin Cheng	{'relation': 'collaborate'}
+C. S. Wu	H. Kanber	{'relation': 'collaborate'}
+C. S. Wu	J. T. Chen	{'relation': 'collaborate'}
+C. S. Wu	K. S. Kao	{'relation': 'collaborate'}
+C. S. Wu	T. H. Chen	{'relation': 'collaborate'}
+M. S. Goorsky	Ying-Sheng Huang	{'relation': 'collaborate'}
+M. S. Goorsky	T. H. Chen	{'relation': 'collaborate'}
+C. C. Lee	T. H. Chen	{'relation': 'collaborate'}
+C. C. Lee	K. S. Kao	{'relation': 'collaborate'}
+C. C. Lee	Ren-Chin Cheng	{'relation': 'collaborate'}
+K. S. Kao	Ren-Chin Cheng	{'relation': 'collaborate'}
+K. S. Kao	T. H. Chen	{'relation': 'collaborate'}
+C. D. Yang	T. H. Chen	{'relation': 'collaborate'}
+T. H. Chen	Ren-Chin Cheng	{'relation': 'collaborate'}
+T. H. Chen	Ying-Sheng Huang	{'relation': 'collaborate'}

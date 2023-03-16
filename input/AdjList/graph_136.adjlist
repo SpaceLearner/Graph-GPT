@@ -1,50 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:13 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-Nivedita Sahasrabudhe	4
-J. Mark Janus	{'relation': 'collaborate'}
-Mark Janus	{'relation': 'collaborate'}
-Jonathan West	{'relation': 'collaborate'}
-R. K. Machiraju	{'relation': 'collaborate'}
-Bernhard Preim	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Ming Jiang	1
-R. K. Machiraju	{'relation': 'collaborate'}
-J. Mark Janus	2
-R. K. Machiraju	{'relation': 'collaborate'}
-Jonathan West	{'relation': 'collaborate'}
-Jonathan West	2
-Mark Janus	{'relation': 'collaborate'}
-R. K. Machiraju	{'relation': 'collaborate'}
-Klaus Mueller	3
-R. K. Machiraju	{'relation': 'collaborate'}
-Gerik Scheuermann	{'relation': 'collaborate'}
-Torsten Möller	{'relation': 'collaborate'}
-Ruoming Jin	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Enrico Caserta	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Torsten Möller	2
-R. K. Machiraju	{'relation': 'collaborate'}
-Gerik Scheuermann	{'relation': 'collaborate'}
-Mark Janus	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Gerik Scheuermann	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Jay H. Lee	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Matthew Lewis	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Stephen T. C. Wong	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Kenneth M. Martin	1
-R. K. Machiraju	{'relation': 'collaborate'}
-David H. Laidlaw	1
-R. K. Machiraju	{'relation': 'collaborate'}
-J. W. Wilkins	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Michael Knopp	1
-R. K. Machiraju	{'relation': 'collaborate'}
-Nikolaus Obholzer	1
-R. K. Machiraju	{'relation': 'collaborate'}
-R. K. Machiraju	0
+Kenneth M. Martin	R. K. Machiraju
+David H. Laidlaw	R. K. Machiraju
+Torsten Möller	R. K. Machiraju	Gerik Scheuermann	Klaus Mueller
+Jonathan West	Nivedita Sahasrabudhe	J. Mark Janus	Mark Janus	R. K. Machiraju
+Mark Janus	Nivedita Sahasrabudhe	R. K. Machiraju
+Nikolaus Obholzer	R. K. Machiraju
+R. K. Machiraju	J. W. Wilkins	Stephen T. C. Wong	Klaus Mueller	Ruoming Jin	Bernhard Preim	Enrico Caserta	Jay H. Lee	Ming Jiang	Gerik Scheuermann	Michael Knopp	Matthew Lewis	J. Mark Janus	Nivedita Sahasrabudhe
+Enrico Caserta
+Klaus Mueller	Gerik Scheuermann
+Ming Jiang
+Stephen T. C. Wong
+Gerik Scheuermann
+Nivedita Sahasrabudhe	J. Mark Janus
+J. Mark Janus
+Michael Knopp
+Jay H. Lee
+Ruoming Jin
+J. W. Wilkins
+Matthew Lewis
+Bernhard Preim

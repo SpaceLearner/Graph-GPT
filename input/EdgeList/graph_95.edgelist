@@ -2,15 +2,15 @@ E. Tirapegui	C. Elphick	{'relation': 'collaborate'}
 E. Tirapegui	G. Iooss	{'relation': 'collaborate'}
 E. Tirapegui	M. E. Brachet	{'relation': 'collaborate'}
 E. Tirapegui	P. Coullet	{'relation': 'collaborate'}
-G. Iooss	C. Elphick	{'relation': 'collaborate'}
-G. Iooss	M. E. Brachet	{'relation': 'collaborate'}
-G. Iooss	P. Coullet	{'relation': 'collaborate'}
-C. Nore	M. E. Brachet	{'relation': 'collaborate'}
-C. Nore	S. Fauve	{'relation': 'collaborate'}
-Andreas Knopfel	P. Tabeling	{'relation': 'collaborate'}
-P. Tabeling	M. E. Brachet	{'relation': 'collaborate'}
-Cristán Huepe	M. E. Brachet	{'relation': 'collaborate'}
-P. Coullet	C. Elphick	{'relation': 'collaborate'}
-P. Coullet	M. E. Brachet	{'relation': 'collaborate'}
 S. Fauve	M. E. Brachet	{'relation': 'collaborate'}
-C. Elphick	M. E. Brachet	{'relation': 'collaborate'}
+S. Fauve	C. Nore	{'relation': 'collaborate'}
+M. E. Brachet	P. Tabeling	{'relation': 'collaborate'}
+M. E. Brachet	C. Elphick	{'relation': 'collaborate'}
+M. E. Brachet	Cristán Huepe	{'relation': 'collaborate'}
+M. E. Brachet	G. Iooss	{'relation': 'collaborate'}
+M. E. Brachet	P. Coullet	{'relation': 'collaborate'}
+M. E. Brachet	C. Nore	{'relation': 'collaborate'}
+G. Iooss	C. Elphick	{'relation': 'collaborate'}
+G. Iooss	P. Coullet	{'relation': 'collaborate'}
+Andreas Knopfel	P. Tabeling	{'relation': 'collaborate'}
+P. Coullet	C. Elphick	{'relation': 'collaborate'}

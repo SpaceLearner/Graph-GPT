@@ -1,52 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:51 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-A. Ohgai	1
-K. Watanabe	{'relation': 'collaborate'}
-T. Noguchi	4
-K. Watanabe	{'relation': 'collaborate'}
-Y. Ishii	{'relation': 'collaborate'}
-S. Kameda	{'relation': 'collaborate'}
-Y. Yamamoto	{'relation': 'collaborate'}
-S G. Tzafestas	1
-K. Watanabe	{'relation': 'collaborate'}
-I. Keshi	1
-K. Watanabe	{'relation': 'collaborate'}
-S. Fukuyama	2
-K. Watanabe	{'relation': 'collaborate'}
-T. Suzuki	{'relation': 'collaborate'}
-T. Takayama	2
-K. Watanabe	{'relation': 'collaborate'}
-S. Ogata	{'relation': 'collaborate'}
-Y. Yagi	2
-Y. Iwai	{'relation': 'collaborate'}
-K. Watanabe	{'relation': 'collaborate'}
-A. Hirabayashi	2
-K. Watanabe	{'relation': 'collaborate'}
-Y. Yamamoto	{'relation': 'collaborate'}
-Y. Yamamoto	2
-Y. Ishii	{'relation': 'collaborate'}
-K. Watanabe	{'relation': 'collaborate'}
-Y. Ishii	2
-K. Watanabe	{'relation': 'collaborate'}
-Y. Kubota	{'relation': 'collaborate'}
-S. Itoh	2
-K. Watanabe	{'relation': 'collaborate'}
-N. Azuma	{'relation': 'collaborate'}
-K. Watanabe	8
-Y. Kubota	{'relation': 'collaborate'}
-T. Suzuki	{'relation': 'collaborate'}
-Y. Iwai	{'relation': 'collaborate'}
-S. Ogata	{'relation': 'collaborate'}
-Tsu-Tian Lee	{'relation': 'collaborate'}
-T. Ishihara	{'relation': 'collaborate'}
-N. Azuma	{'relation': 'collaborate'}
-S. Kameda	{'relation': 'collaborate'}
-Tsu-Tian Lee	0
-Y. Kubota	0
-T. Ishihara	0
-S. Kameda	0
-S. Ogata	0
-N. Azuma	0
-T. Suzuki	0
-Y. Iwai	0
+T. Noguchi	K. Watanabe	Y. Ishii	S. Kameda	Y. Yamamoto
+S G. Tzafestas	K. Watanabe
+K. Watanabe	Y. Kubota	T. Suzuki	Y. Iwai	S. Fukuyama	S. Itoh	S. Ogata	Tsu-Tian Lee	T. Takayama	T. Ishihara	N. Azuma	Y. Ishii	I. Keshi	A. Ohgai	A. Hirabayashi	Y. Yamamoto	Y. Yagi	S. Kameda
+Y. Ishii	Y. Yamamoto	Y. Kubota
+Y. Yagi	Y. Iwai
+S. Fukuyama	T. Suzuki
+Y. Kubota
+Tsu-Tian Lee
+T. Takayama	S. Ogata
+A. Ohgai
+T. Suzuki
+A. Hirabayashi	Y. Yamamoto
+Y. Yamamoto
+N. Azuma	S. Itoh
+T. Ishihara
+Y. Iwai
+S. Itoh
+S. Ogata
+S. Kameda
+I. Keshi

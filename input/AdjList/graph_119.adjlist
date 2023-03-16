@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:11 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:19 2023
 # 
-M. P. Mullen	2
-S. M. German	{'relation': 'collaborate'}
-D. G. Bair	{'relation': 'collaborate'}
-James H. Morris	1
-Ben Wegbreit	{'relation': 'collaborate'}
-Daphne Koller	4
-Sebastian B. Thrun	{'relation': 'collaborate'}
-Joseph Y. Halpern	{'relation': 'collaborate'}
-Michael Montemerlo	{'relation': 'collaborate'}
-Ben Wegbreit	{'relation': 'collaborate'}
-Sebastian B. Thrun	3
-Michael Montemerlo	{'relation': 'collaborate'}
-Ben Wegbreit	{'relation': 'collaborate'}
-Daphne Roller	{'relation': 'collaborate'}
-Joseph Y. Halpern	2
-S. M. German	{'relation': 'collaborate'}
-Daphne Roller	{'relation': 'collaborate'}
-Greg Hager	1
-Ben Wegbreit	{'relation': 'collaborate'}
-Ronald V. Book	3
-Sheila A. Greibach	{'relation': 'collaborate'}
-Oscar H. Ibarra	{'relation': 'collaborate'}
-Ben Wegbreit	{'relation': 'collaborate'}
-Oscar H. Ibarra	2
-Ben Wegbreit	{'relation': 'collaborate'}
-Sheila A. Greibach	{'relation': 'collaborate'}
-Jay M. Spitzen	2
-Charles J. Prenner	{'relation': 'collaborate'}
-Ben Wegbreit	{'relation': 'collaborate'}
-Michael Montemerlo	2
-Daphne Roller	{'relation': 'collaborate'}
-Ben Wegbreit	{'relation': 'collaborate'}
-Tom Cheatham	2
-Ben Wegbreit	{'relation': 'collaborate'}
-Daniel G. Bobrow	{'relation': 'collaborate'}
-Daniel G. Bobrow	1
-Ben Wegbreit	{'relation': 'collaborate'}
-Yuan Lu	1
-S. M. German	{'relation': 'collaborate'}
-J. Mitchell	1
-Ben Wegbreit	{'relation': 'collaborate'}
-D. G. Bair	1
-S. M. German	{'relation': 'collaborate'}
-Charles J. Prenner	1
-Ben Wegbreit	{'relation': 'collaborate'}
-Sheila A. Greibach	1
-Ben Wegbreit	{'relation': 'collaborate'}
-Ben Wegbreit	2
-S. M. German	{'relation': 'collaborate'}
-Daphne Roller	{'relation': 'collaborate'}
-S. M. German	0
-Daphne Roller	0
+Tom Cheatham	Ben Wegbreit	Daniel G. Bobrow
+D. G. Bair	S. M. German	M. P. Mullen
+Sebastian B. Thrun	Michael Montemerlo	Daphne Koller	Ben Wegbreit	Daphne Roller
+Sheila A. Greibach	Ronald V. Book	Ben Wegbreit	Oscar H. Ibarra
+Daphne Koller	Joseph Y. Halpern	Michael Montemerlo	Ben Wegbreit
+Yuan Lu	S. M. German
+M. P. Mullen	S. M. German
+Ronald V. Book	Oscar H. Ibarra	Ben Wegbreit
+S. M. German	Ben Wegbreit	Joseph Y. Halpern
+Daphne Roller	Ben Wegbreit	Joseph Y. Halpern	Michael Montemerlo
+James H. Morris	Ben Wegbreit
+Oscar H. Ibarra	Ben Wegbreit
+Joseph Y. Halpern
+Jay M. Spitzen	Charles J. Prenner	Ben Wegbreit
+J. Mitchell	Ben Wegbreit
+Charles J. Prenner	Ben Wegbreit
+Daniel G. Bobrow	Ben Wegbreit
+Greg Hager	Ben Wegbreit
+Michael Montemerlo	Ben Wegbreit
+Ben Wegbreit

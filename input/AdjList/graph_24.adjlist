@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-Ted J. Wasserman	3
-David B Skillicorn	{'relation': 'collaborate'}
-Haider Rizvi	{'relation': 'collaborate'}
-P. Martin	{'relation': 'collaborate'}
-Andrew Dearden	4
-Rogerio DePaula	{'relation': 'collaborate'}
-Haider Rizvi	{'relation': 'collaborate'}
-Cecilia Oyugi	{'relation': 'collaborate'}
-Heike Winschiers-Theophilus	{'relation': 'collaborate'}
-Mu Sun	2
-Darren Duane Cofer	{'relation': 'collaborate'}
-Lui Sha	{'relation': 'collaborate'}
-Haider Rizvi	12
-Joyce Coleman	{'relation': 'collaborate'}
-Steve Pratt	{'relation': 'collaborate'}
-Cecilia Oyugi	{'relation': 'collaborate'}
-David B Skillicorn	{'relation': 'collaborate'}
-Paul Matthews	{'relation': 'collaborate'}
-Heike Winschiers-Theophilus	{'relation': 'collaborate'}
-Rogerio DePaula	{'relation': 'collaborate'}
-Peter Wai Yee Wong	{'relation': 'collaborate'}
-Sam Lightstone	{'relation': 'collaborate'}
-A. Dearden	{'relation': 'collaborate'}
-P. Martin	{'relation': 'collaborate'}
-Subodh Gupta	{'relation': 'collaborate'}
-Cecilia Oyugi	2
-Rogerio DePaula	{'relation': 'collaborate'}
-Heike Winschiers-Theophilus	{'relation': 'collaborate'}
-Lui Sha	1
-Darren Duane Cofer	{'relation': 'collaborate'}
-Sam Lightstone	2
-P. Martin	{'relation': 'collaborate'}
-Joyce Coleman	{'relation': 'collaborate'}
-Subodh Gupta	1
-A. Dearden	{'relation': 'collaborate'}
-Paul Matthews	1
-A. Dearden	{'relation': 'collaborate'}
-Heike Winschiers-Theophilus	1
-Rogerio DePaula	{'relation': 'collaborate'}
-Samar Dajani-Brown	2
-Steve Pratt	{'relation': 'collaborate'}
-Darren Duane Cofer	{'relation': 'collaborate'}
-P. Martin	1
-David B Skillicorn	{'relation': 'collaborate'}
-Rogerio DePaula	0
-Bruno Dutertre	1
-Darren Duane Cofer	{'relation': 'collaborate'}
-Peter Wai Yee Wong	1
-Steve Pratt	{'relation': 'collaborate'}
-Steve Pratt	1
-Darren Duane Cofer	{'relation': 'collaborate'}
-Joyce Coleman	0
-Darren Duane Cofer	0
-David B Skillicorn	0
-A. Dearden	0
+Samar Dajani-Brown	Steve Pratt	Darren Duane Cofer
+Mu Sun	Darren Duane Cofer	Lui Sha
+Ted J. Wasserman	David B Skillicorn	Haider Rizvi	P. Martin
+Cecilia Oyugi	Rogerio DePaula	Haider Rizvi	Andrew Dearden	Heike Winschiers-Theophilus
+Andrew Dearden	Rogerio DePaula	Haider Rizvi	Heike Winschiers-Theophilus
+Paul Matthews	A. Dearden	Haider Rizvi
+Steve Pratt	Darren Duane Cofer	Haider Rizvi	Peter Wai Yee Wong
+David B Skillicorn	Haider Rizvi	P. Martin
+P. Martin	Sam Lightstone	Haider Rizvi
+Rogerio DePaula	Haider Rizvi	Heike Winschiers-Theophilus
+Heike Winschiers-Theophilus	Haider Rizvi
+Subodh Gupta	A. Dearden	Haider Rizvi
+Joyce Coleman	Haider Rizvi	Sam Lightstone
+Lui Sha	Darren Duane Cofer
+Darren Duane Cofer	Bruno Dutertre
+Bruno Dutertre
+Peter Wai Yee Wong	Haider Rizvi
+A. Dearden	Haider Rizvi
+Sam Lightstone	Haider Rizvi
+Haider Rizvi

@@ -1,56 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:07 2023
 # 
-Raimond L. Winslow	4
-Daniel Q. Naiman	{'relation': 'collaborate'}
-Lei Xu	{'relation': 'collaborate'}
-Aik Choon Tan	{'relation': 'collaborate'}
-D. Geman	{'relation': 'collaborate'}
-Daniel Q. Naiman	15
-Giovanni Parmigiani	{'relation': 'collaborate'}
-R E Stone	{'relation': 'collaborate'}
-J. C. Spall	{'relation': 'collaborate'}
-Xiaoling Wu	{'relation': 'collaborate'}
-Henry P. Wynn	{'relation': 'collaborate'}
-Donald German	{'relation': 'collaborate'}
-Bahman Afsari	{'relation': 'collaborate'}
-Lei Xu	{'relation': 'collaborate'}
-Onn Chan	{'relation': 'collaborate'}
-Nathan L. Kleinman	{'relation': 'collaborate'}
-Carey E. Priebe	{'relation': 'collaborate'}
-D. Geman	{'relation': 'collaborate'}
-Aik Choon Tan	{'relation': 'collaborate'}
-Leslie M. Cope	{'relation': 'collaborate'}
-Jian Feng	{'relation': 'collaborate'}
-Henry P. Wynn	0
-David Gilbert	1
-Aik Choon Tan	{'relation': 'collaborate'}
-J. C. Spall	1
-Nathan L. Kleinman	{'relation': 'collaborate'}
-Nathan L. Kleinman	0
-Aik Choon Tan	4
-Donald German	{'relation': 'collaborate'}
-Lei Xu	{'relation': 'collaborate'}
-D. Geman	{'relation': 'collaborate'}
-Bahman Afsari	{'relation': 'collaborate'}
-Lei Xu	1
-D. Geman	{'relation': 'collaborate'}
-Jian Feng	0
-Bahman Afsari	1
-Donald German	{'relation': 'collaborate'}
-Giovanni Parmigiani	3
-Michael F. Ochs	{'relation': 'collaborate'}
-Rafael A. Irizarry	{'relation': 'collaborate'}
-Leslie M. Cope	{'relation': 'collaborate'}
-R E Stone	0
-Michael F. Ochs	1
-D. Geman	{'relation': 'collaborate'}
-Carey E. Priebe	1
-Leslie M. Cope	{'relation': 'collaborate'}
-Xiaoling Wu	0
-Onn Chan	0
-Leslie M. Cope	1
-Rafael A. Irizarry	{'relation': 'collaborate'}
-D. Geman	0
-Donald German	0
-Rafael A. Irizarry	0
+D. Geman	Aik Choon Tan	Lei Xu	Raimond L. Winslow	Michael F. Ochs	Daniel Q. Naiman
+J. C. Spall	Daniel Q. Naiman	Nathan L. Kleinman
+Michael F. Ochs	Giovanni Parmigiani
+Donald German	Bahman Afsari	Aik Choon Tan	Daniel Q. Naiman
+Giovanni Parmigiani	Daniel Q. Naiman	Rafael A. Irizarry	Leslie M. Cope
+Xiaoling Wu	Daniel Q. Naiman
+Daniel Q. Naiman	Raimond L. Winslow	R E Stone	Henry P. Wynn	Bahman Afsari	Lei Xu	Onn Chan	Nathan L. Kleinman	Carey E. Priebe	Aik Choon Tan	Leslie M. Cope	Jian Feng
+Lei Xu	Aik Choon Tan	Raimond L. Winslow
+Henry P. Wynn
+R E Stone
+Nathan L. Kleinman
+Raimond L. Winslow	Aik Choon Tan
+Aik Choon Tan	David Gilbert	Bahman Afsari
+Rafael A. Irizarry	Leslie M. Cope
+Onn Chan
+Leslie M. Cope	Carey E. Priebe
+David Gilbert
+Jian Feng
+Bahman Afsari
+Carey E. Priebe

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Xian Cheng">
+      <data key="affiliation">Department of Computer Science, Guangxi Normal University, Guilin 541004, PR China</data>
+      <data key="research">block width, current block, problemA heuristic recursive algorithm</data>
+    </node>
+    <node id="Ling Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Group Decision, 2-tuple linguistic, 2-tuple linguistic geometric averaging</data>
+    </node>
+    <node id="Yiping Lu">
+      <data key="affiliation">School of Mechanical, Electronic and Control Engineering, Beijing Jiaotong University, Beijing 100044, China</data>
+      <data key="research">rectangular two-dimensional cutting stock, heuristic algorithm, stock problem</data>
+    </node>
+    <node id="Fei Chen">
+      <data key="affiliation">Joint Research Center for Biomedical Engineering, Department of Electronic Engineering, The Chinese University of Hong Kong, Shatin, NT, Hong Kong</data>
+      <data key="research">DNA sequence, DNA sequence analysis, DNA sequence analysisDNA sequence</data>
+    </node>
+    <node id="Rui Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">electronic nose, benzene homologues, interference gas</data>
+    </node>
+    <node id="Xianquan Zhang">
+      <data key="affiliation">Guangxi Normal University, Guilin</data>
+      <data key="research">Ring Partition, efficient image, image hash resistant</data>
+    </node>
+    <node id="Yaodong Cui">
+      <data key="affiliation">School of Computer, Electronics and Information, Guangxi University, Nanning, 530004, China</data>
+      <data key="research">computational result, heuristic algorithm, knapsack algorithm</data>
+    </node>
+    <node id="Daoyun Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">clause set, Horn clause, Horn problem</data>
+    </node>
+    <node id="Wen Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">irrelevant image, relevance feedback, query vector</data>
+    </node>
+    <node id="Xiaoxia Song">
+      <data key="affiliation">Nan</data>
+      <data key="research">HR image, compressive measurement, proposed imaging method</data>
+    </node>
+    <node id="Yuli Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">workflow application, novel scheduling, proposed heuristic scheduling algorithm</data>
+    </node>
+    <node id="Yong Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Video conferencing system, construction site, actual construction site</data>
+    </node>
+    <node id="Zhenguo Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">regression accuracy, principal component analysis, generalized performance</data>
+    </node>
+    <node id="Tianlong Gu">
+      <data key="affiliation">Department of Computer Science, Guilin University of Electronic Technology, Guilin, Peoples Republic of China</data>
+      <data key="research">test frame, Prolog program, call patterns semantics</data>
+    </node>
+    <node id="Lei Yu">
+      <data key="affiliation">Ecole Centrale de Pekin, Beihang University, Beijing, China</data>
+      <data key="research">schedulability test, grid service, resource service</data>
+    </node>
+    <node id="Baixiong Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">pattern value, T-shape pattern, heuristic algorithm</data>
+    </node>
+    <node id="W. Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">new perfechting scheme, new perfecting scheme, normal scheme</data>
+    </node>
+    <node id="Liu Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Social Attribute, cooperative publication mechanism, effective service information publication</data>
+    </node>
+    <node id="Zhiyong Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">LC permutation, oblivious routing</data>
+    </node>
+    <node id="Wei Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">QIRA code, bit error ratio, excellent error</data>
+    </node>
+    <edge source="Xian Cheng" target="Yuli Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xian Cheng" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ling Huang" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yiping Lu" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Chen" target="Rui Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Chen" target="Yong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Chen" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rui Liu" target="Yong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rui Liu" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xianquan Zhang" target="Yaodong Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Zhiyong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Baixiong Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Yong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Yuli Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="W. Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Tianlong Gu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Liu Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Daoyun Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yaodong Cui" target="Xiaoxia Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Li" target="Zhiyong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenguo Zhang" target="Zhiyong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tianlong Gu" target="W. Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Yu" target="Zhiyong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Yu" target="Wei Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Yu" target="Lei Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Liu" target="Wei Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

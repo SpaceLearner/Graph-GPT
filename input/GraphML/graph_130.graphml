@@ -8,81 +8,81 @@
       <data key="affiliation">Chongqing Jiaotong University, School of Civil Engineering and Architecture, 400074, Chongqing, China</data>
       <data key="research">genetic regulatory network, stability condition, Stochastic Synchronization</data>
     </node>
-    <node id="Zezhong Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">Finite Element MethodNA, Geomagnetic Induced Problems, Telluric Current</data>
-    </node>
-    <node id="Wenting Wang">
-      <data key="affiliation">REINS Group, School of Software, Shanghai Jiao Tong University, Shanghai, P.R. China</data>
-      <data key="research">Web application, service provider, Availability-Aware Approach</data>
-    </node>
     <node id="Gang Li">
       <data key="affiliation">Pusan National University, Busan, Republic of Korea</data>
       <data key="research">Prediction Method, current energy, energy harvesting</data>
     </node>
-    <node id="Jian Zhang">
+    <node id="Zezhong Wang">
       <data key="affiliation">Nan</data>
-      <data key="research">Generating Models, System Description</data>
-    </node>
-    <node id="Weifeng Xu">
-      <data key="affiliation">Nan</data>
-      <data key="research">test input, test oracle, mining approach</data>
-    </node>
-    <node id="Xi Chen">
-      <data key="affiliation">Nan</data>
-      <data key="research">GIS application, Geographic Information System, application analysis</data>
-    </node>
-    <node id="Lin Deng">
-      <data key="affiliation">Hong Kong University of Science and Technology, Hong Kong, China</data>
-      <data key="research">clickthrough data, search engine, search result</data>
-    </node>
-    <node id="Chao Pan">
-      <data key="affiliation">School of Science, Dalian Fisheries University, China</data>
-      <data key="research">fish skin, Artifical fish, surface roughness</data>
-    </node>
-    <node id="Ramakrishnan Sundaram">
-      <data key="affiliation">Nan</data>
-      <data key="research">image processing, multiresolution approach, multistage neural network</data>
-    </node>
-    <node id="Zhihua Xie">
-      <data key="affiliation">College of Environmental Science and Engineering, Dalian Maritime University, Dalian, People's Republic of China</data>
-      <data key="research">proposed scheme, Robin boundary condition, ADE scheme</data>
+      <data key="research">Finite Element MethodNA, Geomagnetic Induced Problems, Telluric Current</data>
     </node>
     <node id="Min Li">
       <data key="affiliation">University of Wisconsin  Madison</data>
       <data key="research">custom on-chip sensor, individual design path, pre-silicon stage</data>
     </node>
-    <node id="Haopeng Chen">
+    <node id="Zhihua Xie">
+      <data key="affiliation">College of Environmental Science and Engineering, Dalian Maritime University, Dalian, People's Republic of China</data>
+      <data key="research">proposed scheme, Robin boundary condition, ADE scheme</data>
+    </node>
+    <node id="Jiangang Duan">
       <data key="affiliation">Nan</data>
-      <data key="research">ApproachWeb service, Web service composition, rule-based service composition framework</data>
+      <data key="research">Benchmark Tool, Cloud Object Storage Benchmark, Cloud Object Storage ServicesWith</data>
+    </node>
+    <node id="Xi Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">GIS application, Geographic Information System, application analysis</data>
+    </node>
+    <node id="Chao Pan">
+      <data key="affiliation">School of Science, Dalian Fisheries University, China</data>
+      <data key="research">fish skin, Artifical fish, surface roughness</data>
     </node>
     <node id="Bo Dong">
       <data key="affiliation">bdong@dam.brown.edu and Johnny_Guzman@brown.edu</data>
       <data key="research">original discontinuous Galerkin method, order k, Original DG Method</data>
     </node>
-    <node id="Jian-Xin Xu">
-      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Nat. Univ. of Singapore, Singapore, Singapore</data>
-      <data key="research">constructive function approximation network, fixed structure network, network structure</data>
-    </node>
-    <node id="Ying Guo">
+    <node id="Jian Zhang">
       <data key="affiliation">Nan</data>
-      <data key="research">proposed estimator, musical noise, noise suppressor</data>
+      <data key="research">Generating Models, System Description</data>
     </node>
     <node id="Xiaofeng Liao">
       <data key="affiliation">State Key Laboratory of Power Transmission Equipment &amp; System Security and New Technology, College of Computer Science, Chongqing University, Chongqing, PR China</data>
       <data key="research">smart card, power analysis attack, power analysis attacksIn</data>
     </node>
-    <node id="Zhiqiang Gao">
+    <node id="Ying Guo">
       <data key="affiliation">Nan</data>
-      <data key="research">SHA-1 IP core, Network Security Processor, ultra high throughput</data>
+      <data key="research">proposed estimator, musical noise, noise suppressor</data>
+    </node>
+    <node id="Ramakrishnan Sundaram">
+      <data key="affiliation">Nan</data>
+      <data key="research">image processing, multiresolution approach, multistage neural network</data>
+    </node>
+    <node id="Lin Deng">
+      <data key="affiliation">Hong Kong University of Science and Technology, Hong Kong, China</data>
+      <data key="research">clickthrough data, search engine, search result</data>
     </node>
     <node id="Qing Zheng">
       <data key="affiliation">Nan</data>
       <data key="research">Complex Domain Analysis Method, EM Waving, Transmission Line Transient FaultsNA</data>
     </node>
-    <node id="Jiangang Duan">
+    <node id="Haopeng Chen">
       <data key="affiliation">Nan</data>
-      <data key="research">Benchmark Tool, Cloud Object Storage Benchmark, Cloud Object Storage ServicesWith</data>
+      <data key="research">ApproachWeb service, Web service composition, rule-based service composition framework</data>
+    </node>
+    <node id="Zhiqiang Gao">
+      <data key="affiliation">Nan</data>
+      <data key="research">SHA-1 IP core, Network Security Processor, ultra high throughput</data>
+    </node>
+    <node id="Jian-Xin Xu">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Nat. Univ. of Singapore, Singapore, Singapore</data>
+      <data key="research">constructive function approximation network, fixed structure network, network structure</data>
+    </node>
+    <node id="Weifeng Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">test input, test oracle, mining approach</data>
+    </node>
+    <node id="Wenting Wang">
+      <data key="affiliation">REINS Group, School of Software, Shanghai Jiao Tong University, Shanghai, P.R. China</data>
+      <data key="research">Web application, service provider, Availability-Aware Approach</data>
     </node>
     <edge source="Guodong Liu" target="Zhihua Xie">
       <data key="relation">collaborate</data>
@@ -105,24 +105,6 @@
     <edge source="Guodong Liu" target="Xi Chen">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Zezhong Wang" target="Bo Dong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zezhong Wang" target="Chao Pan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zezhong Wang" target="Qing Zheng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wenting Wang" target="Qing Zheng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wenting Wang" target="Xi Chen">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wenting Wang" target="Haopeng Chen">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Gang Li" target="Ying Guo">
       <data key="relation">collaborate</data>
     </edge>
@@ -135,19 +117,25 @@
     <edge source="Gang Li" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jian Zhang" target="Jiangang Duan">
+    <edge source="Zezhong Wang" target="Bo Dong">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jian Zhang" target="Qing Zheng">
+    <edge source="Zezhong Wang" target="Chao Pan">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jian Zhang" target="Haopeng Chen">
+    <edge source="Zezhong Wang" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Weifeng Xu" target="Qing Zheng">
+    <edge source="Min Li" target="Min Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Weifeng Xu" target="Lin Deng">
+    <edge source="Jiangang Duan" target="Qing Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiangang Duan" target="Jian Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiangang Duan" target="Haopeng Chen">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Xi Chen" target="Haopeng Chen">
@@ -156,7 +144,7 @@
     <edge source="Xi Chen" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Lin Deng" target="Qing Zheng">
+    <edge source="Xi Chen" target="Wenting Wang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Chao Pan" target="Qing Zheng">
@@ -165,22 +153,13 @@
     <edge source="Chao Pan" target="Bo Dong">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Ramakrishnan Sundaram" target="Qing Zheng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Min Li" target="Min Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Haopeng Chen" target="Qing Zheng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Haopeng Chen" target="Jiangang Duan">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Bo Dong" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jian-Xin Xu" target="Qing Zheng">
+    <edge source="Jian Zhang" target="Qing Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Zhang" target="Haopeng Chen">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Ying Guo" target="Ying Guo">
@@ -189,10 +168,31 @@
     <edge source="Ying Guo" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Zhiqiang Gao" target="Qing Zheng">
+    <edge source="Ramakrishnan Sundaram" target="Qing Zheng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Qing Zheng" target="Jiangang Duan">
+    <edge source="Lin Deng" target="Weifeng Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Deng" target="Qing Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Zheng" target="Weifeng Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Zheng" target="Jian-Xin Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Zheng" target="Wenting Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Zheng" target="Haopeng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Zheng" target="Zhiqiang Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haopeng Chen" target="Wenting Wang">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

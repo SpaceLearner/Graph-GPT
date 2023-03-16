@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:11 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:19 2023
 # 
-Dan Grossman	2
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Richard Hudson	{'relation': 'collaborate'}
-Brian T. Lewis	3
-Neal Glew	{'relation': 'collaborate'}
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Deepak Majeti	{'relation': 'collaborate'}
-S. Jagannathan	1
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Richard Hudson	5
-Eric Sprangle	{'relation': 'collaborate'}
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Mauricio J. Serrano	{'relation': 'collaborate'}
-J. Elliot B. Moss	{'relation': 'collaborate'}
-Serguei Preis	2
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Ravi Narayanaswamy	{'relation': 'collaborate'}
-Aleksandar Dragojević	1
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Ravi Narayanaswamy	1
-Ali-Reza Adl-Tabatabai	{'relation': 'collaborate'}
-Mainak Chaudhuri	5
-Jayesh Gaur	{'relation': 'collaborate'}
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Joseph Nuzman	{'relation': 'collaborate'}
-Raghuram Srinivasan	{'relation': 'collaborate'}
-Deepak Majeti	{'relation': 'collaborate'}
-Ali-Reza Adl-Tabatabai	7
-Andrew McCreight	{'relation': 'collaborate'}
-Neal Glew	{'relation': 'collaborate'}
-Robert Wahbe	{'relation': 'collaborate'}
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Deepak Majeti	{'relation': 'collaborate'}
-Eric Sprangle	{'relation': 'collaborate'}
-Mauricio J. Serrano	{'relation': 'collaborate'}
-Joseph Nuzman	2
-Jayesh Gaur	{'relation': 'collaborate'}
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Eric Sprangle	0
-J. Elliot B. Moss	1
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Jayesh Gaur	2
-Raghuram Srinivasan	{'relation': 'collaborate'}
-Sreenivas Subramoney	{'relation': 'collaborate'}
-Deepak Majeti	0
-Sreenivas Subramoney	2
-Mauricio J. Serrano	{'relation': 'collaborate'}
-Raghuram Srinivasan	{'relation': 'collaborate'}
-Andrew McCreight	1
-Neal Glew	{'relation': 'collaborate'}
-Robert Wahbe	0
-Neal Glew	0
-Mauricio J. Serrano	0
-Raghuram Srinivasan	0
+S. Jagannathan	Ali-Reza Adl-Tabatabai
+Deepak Majeti	Ali-Reza Adl-Tabatabai	Brian T. Lewis	Mainak Chaudhuri
+Raghuram Srinivasan	Jayesh Gaur	Sreenivas Subramoney	Mainak Chaudhuri
+Neal Glew	Brian T. Lewis	Ali-Reza Adl-Tabatabai	Andrew McCreight
+Eric Sprangle	Ali-Reza Adl-Tabatabai	Richard Hudson
+Dan Grossman	Ali-Reza Adl-Tabatabai	Richard Hudson
+Aleksandar Dragojević	Ali-Reza Adl-Tabatabai
+Andrew McCreight	Ali-Reza Adl-Tabatabai
+Joseph Nuzman	Mainak Chaudhuri	Jayesh Gaur	Sreenivas Subramoney
+Ali-Reza Adl-Tabatabai	Robert Wahbe	Serguei Preis	Ravi Narayanaswamy	Sreenivas Subramoney	Brian T. Lewis	Richard Hudson	Mauricio J. Serrano
+Richard Hudson	Sreenivas Subramoney	Mauricio J. Serrano	J. Elliot B. Moss
+Sreenivas Subramoney	Mainak Chaudhuri	Mauricio J. Serrano	J. Elliot B. Moss	Jayesh Gaur
+Jayesh Gaur	Mainak Chaudhuri
+Brian T. Lewis
+Mauricio J. Serrano
+Robert Wahbe
+Serguei Preis	Ravi Narayanaswamy
+Ravi Narayanaswamy
+Mainak Chaudhuri
+J. Elliot B. Moss

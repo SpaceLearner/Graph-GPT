@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. M. Sanfacon">
+      <data key="affiliation">Nan</data>
+      <data key="research">area deposition, metalorganic chemical vapor deposition, metalorganic chemical vapor depositionLarge</data>
+    </node>
+    <node id="Y. Schektman">
+      <data key="affiliation">Nan</data>
+      <data key="research">association index, data analysis methodsInner product, management monitoringDissymmetrical association analysis</data>
+    </node>
+    <node id="D. Jung">
+      <data key="affiliation">Nan</data>
+      <data key="research">Contrast Material, Echocardiographic Image Sequences, Statistical Methods</data>
+    </node>
+    <node id="Eric Dubois">
+      <data key="affiliation">Nan</data>
+      <data key="research">stereo reconstruction, human face, point cloud</data>
+    </node>
+    <node id="Thang Le Dinh">
+      <data key="affiliation">Université du Québec à TroisRivières, Québec, Canada</data>
+      <data key="research">Conceptual Framework, business process, business rule</data>
+    </node>
+    <node id="A. L. Mastrovito">
+      <data key="affiliation">Nan</data>
+      <data key="research">MOCVD growth, AlxGa1-xAs Bragg reflector, LP-MOCVDLarge area deposition</data>
+    </node>
+    <node id="M. Junet">
+      <data key="affiliation">Nan</data>
+      <data key="research">Extended Entity-Relationship Data Base, Management System, Semantic Query Language</data>
+    </node>
+    <node id="S. M. Bedair">
+      <data key="affiliation">Nan</data>
+      <data key="research">MOCVD InxGa1-xNMOCVD growth, Si substrate, atomic layer epitaxyEpitaxy growth</data>
+    </node>
+    <node id="Sibabrata Ray">
+      <data key="affiliation">Google Inc.</data>
+      <data key="research">minimal sensor integrity, sensor network, mobility model</data>
+    </node>
+    <node id="S. Nakamura">
+      <data key="affiliation">Thayer School af Engineering, Dartmouth College</data>
+      <data key="research">interconnection network, general concentrators, general class</data>
+    </node>
+    <node id="Mark H. Linderman">
+      <data key="affiliation">Air Force Research Laboratory, AFRL/RIS, New York</data>
+      <data key="research">data access, data access efficiency, identity data</data>
+    </node>
+    <node id="R. Sudharsanan">
+      <data key="affiliation">Georgia Institute of Technology, Atlanta</data>
+      <data key="research">CdZnTe radiation detector, CdZnTe spectrometer, CdS film</data>
+    </node>
+    <node id="A. Ibrahim">
+      <data key="affiliation">Nan</data>
+      <data key="research">management monitoring, principal cluster</data>
+    </node>
+    <node id="A. Stauffer">
+      <data key="affiliation">RADC, Inc., USA</data>
+      <data key="research">speaker recognition, pitch normalization, training data</data>
+    </node>
+    <node id="João Falcão e Cunha">
+      <data key="affiliation">University of Porto, Department of Industrial Engineering and Management, School of Engineering, R. Roberto Frias, 4200465, Porto, Portugal</data>
+      <data key="research">logistic regression, multi-channel service, multi-channel service system</data>
+    </node>
+    <node id="Mehdi Azarmi">
+      <data key="affiliation">Nan</data>
+      <data key="research">Internet service, actual service invocation, expected service orchestration</data>
+    </node>
+    <node id="Jyh-Rong Gong">
+      <data key="affiliation">North Carolina State Univ., Raleigh</data>
+      <data key="research">CuLnSe2-MnSe crystalsLow temperature growth, Si substrate, atomic layer epitaxy</data>
+    </node>
+    <node id="F T Smith">
+      <data key="affiliation">Univ. College London, London, UK</data>
+      <data key="research">Rayleigh number, full solution, CdZnTe substratesTe-rich liquid phase</data>
+    </node>
+    <node id="N. A. El-Masry">
+      <data key="affiliation">North Carolina State University</data>
+      <data key="research">Incorporation Effect, InGaN system, AlInGaN system</data>
+    </node>
+    <node id="M. Leonard">
+      <data key="affiliation">Nan</data>
+      <data key="research">Si substrate, atomic layer epitaxyLarge area, atomic layer epitaxySelenium</data>
+    </node>
+    <edge source="M. M. Sanfacon" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Sanfacon" target="A. L. Mastrovito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Sanfacon" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Sanfacon" target="R. Sudharsanan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. M. Sanfacon" target="F T Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Schektman" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Schektman" target="A. Ibrahim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Schektman" target="M. Junet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Jung" target="S. M. Bedair">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Jung" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Jung" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Dubois" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Dubois" target="João Falcão e Cunha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thang Le Dinh" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. L. Mastrovito" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. L. Mastrovito" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. L. Mastrovito" target="R. Sudharsanan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. L. Mastrovito" target="F T Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Junet" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. M. Bedair" target="S. Nakamura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. M. Bedair" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. M. Bedair" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. M. Bedair" target="Jyh-Rong Gong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sibabrata Ray" target="Mark H. Linderman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Nakamura" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Nakamura" target="Jyh-Rong Gong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Nakamura" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark H. Linderman" target="Mehdi Azarmi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark H. Linderman" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark H. Linderman" target="A. Stauffer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Sudharsanan" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Sudharsanan" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Sudharsanan" target="F T Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Stauffer" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="João Falcão e Cunha" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jyh-Rong Gong" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jyh-Rong Gong" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F T Smith" target="N. A. El-Masry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F T Smith" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. A. El-Masry" target="M. Leonard">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

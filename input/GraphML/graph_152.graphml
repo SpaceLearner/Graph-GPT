@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Liu Juan">
+      <data key="affiliation">Nan</data>
+      <data key="research">enterprise brand, industrial cluster, Brand-Assemblage Strategy</data>
+    </node>
+    <node id="Dong Jun">
+      <data key="affiliation">Nan</data>
+      <data key="research">cold-end optimization model, thermal power unit cold-end, operating optimization software</data>
+    </node>
+    <node id="Wang Qing">
+      <data key="affiliation">Nan</data>
+      <data key="research">masonry building, Brain Surgery Route Planning, Risky Value</data>
+    </node>
+    <node id="Yang Jun">
+      <data key="affiliation">College of Astronautics, Northwestern Polytechnical University, Xi'an, China</data>
+      <data key="research">control parameter, missile control system parameter, RBF neural network</data>
+    </node>
+    <node id="Chen Jianguo">
+      <data key="affiliation">Nan</data>
+      <data key="research">construction project, key technology, decision process</data>
+    </node>
+    <node id="Li Peng">
+      <data key="affiliation">Nan</data>
+      <data key="research">LDPC code, IF-LDPC code, Low-Complexity Well-Structured LDPC</data>
+    </node>
+    <node id="Li Jin">
+      <data key="affiliation">Department of Computer Science and Technology, Tsinghua University, Beijing 100084, People's Republic of China</data>
+      <data key="research">proposed algorithm, sweepline algorithm, Voronoi diagram</data>
+    </node>
+    <node id="Yorick Wilks">
+      <data key="affiliation">Florida Institute of Human and Machine Cognition</data>
+      <data key="research">dialogue system, dialogue technology, advanced human language technology</data>
+    </node>
+    <node id="Zhang Ji">
+      <data key="affiliation">Nan</data>
+      <data key="research">dual-radio dual-channel WMNs, multi-radio multi-channel WMNs, Opportunistic Routing</data>
+    </node>
+    <node id="Wang Jin">
+      <data key="affiliation">Nan</data>
+      <data key="research">masonry building, Brain Surgery Route Planning, Risky Value</data>
+    </node>
+    <node id="Liu Xia">
+      <data key="affiliation">School of Automation Engineering, University of Electronic Science and Technology of China, Chengdu, Sichuan, China</data>
+      <data key="research">radar servo system, optimal controller, nonlinear mathematical model</data>
+    </node>
+    <node id="Wang Pan">
+      <data key="affiliation">Nan</data>
+      <data key="research">original DPS, value range, better diversity</data>
+    </node>
+    <node id="Bao Hong">
+      <data key="affiliation">Guangdong University of technology, Guangzhou, Guangdong, P.R. China</data>
+      <data key="research">control requirement, control strategy, high-performance electro-hydraulic proportional valve</data>
+    </node>
+    <node id="Rong Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Affective Computing, e-Learning System Model, Affective Computing Contents</data>
+    </node>
+    <node id="Zhu Hong-hai">
+      <data key="affiliation">Shanghai Embedded Systems Institute, China</data>
+      <data key="research">mobile wearable detector, wearable detector, wireless ECG transportation</data>
+    </node>
+    <node id="Takahiro Wakao">
+      <data key="affiliation">New Mexico State University</data>
+      <data key="research">information extraction system, overall system architecture, Brandeis University</data>
+    </node>
+    <node id="Du Bo">
+      <data key="affiliation">Nan</data>
+      <data key="research">training method, curriculum design, Operation Ability</data>
+    </node>
+    <node id="Zeng Ming">
+      <data key="affiliation">Nan</data>
+      <data key="research">direction sensor, optical fiber, novel two-dimensional wind speed</data>
+    </node>
+    <node id="Xiao Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">embed data, existing lossless data, hidden data</data>
+    </node>
+    <node id="Lin Rui">
+      <data key="affiliation">Nan</data>
+      <data key="research">virtual target, mobile robot, virtual targets-based method</data>
+    </node>
+    <edge source="Liu Juan" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liu Juan" target="Zhang Ji">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Liu Xia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Zeng Ming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Wang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Yang Jun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Zhu Hong-hai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Xiao Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Jun" target="Lin Rui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Qing" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Jun" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Jun" target="Wang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Jianguo" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Peng" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Jin" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yorick Wilks" target="Rong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yorick Wilks" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yorick Wilks" target="Takahiro Wakao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Ji" target="Wang Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Jin" target="Du Bo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Jin" target="Takahiro Wakao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Jin" target="Rong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Jin" target="Bao Hong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Jin" target="Wang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Wang" target="Takahiro Wakao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zeng Ming" target="Xiao Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

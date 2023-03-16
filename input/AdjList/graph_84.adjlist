@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-C. Mascolo	2
-P. Costa	{'relation': 'collaborate'}
-Mirco Musolesi	{'relation': 'collaborate'}
-Dolors Costal	4
-P. Costa	{'relation': 'collaborate'}
-A. Olivé	{'relation': 'collaborate'}
-C. Quer	{'relation': 'collaborate'}
-Maria Ribera Sancho	{'relation': 'collaborate'}
-H. Clergeot	2
-P. Larzabal	{'relation': 'collaborate'}
-P. Costa	{'relation': 'collaborate'}
-A. Olivé	3
-C. Quer	{'relation': 'collaborate'}
-P. Costa	{'relation': 'collaborate'}
-Maria Ribera Sancho	{'relation': 'collaborate'}
-C. Quer	2
-Maria Ribera Sancho	{'relation': 'collaborate'}
-P. Costa	{'relation': 'collaborate'}
-L. Catarinucci	1
-A. Esposito	{'relation': 'collaborate'}
-Giuseppe De Pietro	2
-A. Esposito	{'relation': 'collaborate'}
-G. Reitano	{'relation': 'collaborate'}
-A. Mazzeo	2
-A. Esposito	{'relation': 'collaborate'}
-P. Costa	{'relation': 'collaborate'}
-K. Sato	2
-P. Costa	{'relation': 'collaborate'}
-W. D. Richard	{'relation': 'collaborate'}
-P. Larzabal	1
-P. Costa	{'relation': 'collaborate'}
-Mauro Mongiardo	2
-A. Esposito	{'relation': 'collaborate'}
-Federico Malucelli	{'relation': 'collaborate'}
-W. D. Richard	1
-P. Costa	{'relation': 'collaborate'}
-A. Esposito	5
-P. Costa	{'relation': 'collaborate'}
-S. Scarpetta	{'relation': 'collaborate'}
-M. Marinaro	{'relation': 'collaborate'}
-Federico Malucelli	{'relation': 'collaborate'}
-G. Reitano	{'relation': 'collaborate'}
-G. Reitano	0
-P. Costa	2
-Mirco Musolesi	{'relation': 'collaborate'}
-Maria Ribera Sancho	{'relation': 'collaborate'}
-S. Scarpetta	1
-M. Marinaro	{'relation': 'collaborate'}
-Mirco Musolesi	0
-Maria Ribera Sancho	0
-M. Marinaro	0
-Federico Malucelli	0
+M. Marinaro	A. Esposito	S. Scarpetta
+P. Larzabal	H. Clergeot	P. Costa
+Mauro Mongiardo	A. Esposito	Federico Malucelli
+A. Esposito	Giuseppe De Pietro	P. Costa	A. Mazzeo	S. Scarpetta	L. Catarinucci	Federico Malucelli	G. Reitano
+Giuseppe De Pietro	G. Reitano
+P. Costa	Dolors Costal	K. Sato	Mirco Musolesi	Maria Ribera Sancho	H. Clergeot	A. Olivé	C. Mascolo	A. Mazzeo	C. Quer	W. D. Richard
+Mirco Musolesi	C. Mascolo
+A. Olivé	C. Quer	Dolors Costal	Maria Ribera Sancho
+A. Mazzeo
+S. Scarpetta
+Dolors Costal	C. Quer	Maria Ribera Sancho
+Federico Malucelli
+G. Reitano
+K. Sato	W. D. Richard
+C. Mascolo
+W. D. Richard
+C. Quer	Maria Ribera Sancho
+Maria Ribera Sancho
+H. Clergeot
+L. Catarinucci

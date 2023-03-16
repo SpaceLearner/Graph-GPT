@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:48 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:54 2023
 # 
-K. J. R. Liu	2
-A. Raghupathy	{'relation': 'collaborate'}
-An-Yeu Wu	{'relation': 'collaborate'}
-Wei Wang	1
-An-Yeu Wu	{'relation': 'collaborate'}
-You-Gang Chen	2
-An-Yeu Wu	{'relation': 'collaborate'}
-I-Chyn Wey	{'relation': 'collaborate'}
-K. J. Liu	1
-An-Yeu Wu	{'relation': 'collaborate'}
-Tsung-Han Tsai	3
-Cheng-Hung Lin	{'relation': 'collaborate'}
-Chun-Yu Chen	{'relation': 'collaborate'}
-An-Yeu Wu	{'relation': 'collaborate'}
-Chun-Yu Chen	2
-An-Yeu Wu	{'relation': 'collaborate'}
-Cheng-Hung Lin	{'relation': 'collaborate'}
-An-Yeu Wu	13
-Cheng-Hung Lin	{'relation': 'collaborate'}
-Hui-Shun Hung	{'relation': 'collaborate'}
-W. Shih	{'relation': 'collaborate'}
-Shu-Yen Lin	{'relation': 'collaborate'}
-Yuan-Hua Chu	{'relation': 'collaborate'}
-Jen-Kuei Yang	{'relation': 'collaborate'}
-Chung-Ju Wu	{'relation': 'collaborate'}
-Yu-Hao Chen	{'relation': 'collaborate'}
-Cheng-Zhou Zhan	{'relation': 'collaborate'}
-A. Raghupathy	{'relation': 'collaborate'}
-I-Chyn Wey	{'relation': 'collaborate'}
-Chun-Hsiang Huang	{'relation': 'collaborate'}
-Yen-Liang Chen	{'relation': 'collaborate'}
-A. Raghupathy	0
-Hui-Shun Hung	1
-Shu-Yen Lin	{'relation': 'collaborate'}
-Yuan-Hua Chu	1
-Chung-Ju Wu	{'relation': 'collaborate'}
-W. Shih	1
-Jen-Kuei Yang	{'relation': 'collaborate'}
-Yen-Liang Chen	1
-Cheng-Zhou Zhan	{'relation': 'collaborate'}
-Shu-Yen Lin	1
-Chun-Hsiang Huang	{'relation': 'collaborate'}
-I-Chyn Wey	0
-Chung-Ju Wu	0
-Cheng-Hung Lin	1
-Cheng-Zhou Zhan	{'relation': 'collaborate'}
-Chun-Hsiang Huang	0
-Yu-Hao Chen	1
-Cheng-Zhou Zhan	{'relation': 'collaborate'}
-Cheng-Zhou Zhan	0
-Jen-Kuei Yang	0
+I-Chyn Wey	An-Yeu Wu	You-Gang Chen
+Chung-Ju Wu	An-Yeu Wu	Yuan-Hua Chu
+Jen-Kuei Yang	W. Shih	An-Yeu Wu
+Hui-Shun Hung	An-Yeu Wu	Shu-Yen Lin
+Yu-Hao Chen	Cheng-Zhou Zhan	An-Yeu Wu
+Chun-Hsiang Huang	An-Yeu Wu	Shu-Yen Lin
+Yuan-Hua Chu	An-Yeu Wu
+Chun-Yu Chen	Tsung-Han Tsai	An-Yeu Wu	Cheng-Hung Lin
+Shu-Yen Lin	An-Yeu Wu
+You-Gang Chen	An-Yeu Wu
+Yen-Liang Chen	Cheng-Zhou Zhan	An-Yeu Wu
+Wei Wang	An-Yeu Wu
+K. J. R. Liu	A. Raghupathy	An-Yeu Wu
+Tsung-Han Tsai	Cheng-Hung Lin	An-Yeu Wu
+K. J. Liu	An-Yeu Wu
+A. Raghupathy	An-Yeu Wu
+W. Shih	An-Yeu Wu
+Cheng-Zhou Zhan	Cheng-Hung Lin	An-Yeu Wu
+An-Yeu Wu	Cheng-Hung Lin
+Cheng-Hung Lin

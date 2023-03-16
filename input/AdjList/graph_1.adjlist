@@ -1,59 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:48 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:52 2023
 # 
-Dajun Du	3
-Kang Li	{'relation': 'collaborate'}
-Jing Deng	{'relation': 'collaborate'}
-G. W. Irwin	{'relation': 'collaborate'}
-Wei Wu	5
-Jing Deng	{'relation': 'collaborate'}
-Zhanjiang Song	{'relation': 'collaborate'}
-Thomas Fang Zheng	{'relation': 'collaborate'}
-Jian Liu	{'relation': 'collaborate'}
-Lihong Zhang	{'relation': 'collaborate'}
-Qixiu Hu	2
-Wenhu Wu	{'relation': 'collaborate'}
-Yue Pan	{'relation': 'collaborate'}
-Wenhu Wu	6
-Jing Deng	{'relation': 'collaborate'}
-Jian Wu	{'relation': 'collaborate'}
-Lei He	{'relation': 'collaborate'}
-Thomas Fang Zheng	{'relation': 'collaborate'}
-Yue Pan	{'relation': 'collaborate'}
-Jian Liu	{'relation': 'collaborate'}
-Lixin Fu	1
-Jing Deng	{'relation': 'collaborate'}
-Honggang Li	1
-Jing Deng	{'relation': 'collaborate'}
-Jingwei Miao	3
-Jing Deng	{'relation': 'collaborate'}
-Kangbin Yim	{'relation': 'collaborate'}
-Chi Lin	{'relation': 'collaborate'}
-Jian Wu	1
-Lei He	{'relation': 'collaborate'}
-Kangbin Yim	2
-Jing Deng	{'relation': 'collaborate'}
-Chi Lin	{'relation': 'collaborate'}
-Yunghsiang S. Han	1
-Jing Deng	{'relation': 'collaborate'}
-G. W. Irwin	2
-Kang Li	{'relation': 'collaborate'}
-Jing Deng	{'relation': 'collaborate'}
-Kang Li	1
-Jing Deng	{'relation': 'collaborate'}
-Jian Liu	1
-Thomas Fang Zheng	{'relation': 'collaborate'}
-Thomas Fang Zheng	3
-Zhanjiang Song	{'relation': 'collaborate'}
-Lihong Zhang	{'relation': 'collaborate'}
-Jing Deng	{'relation': 'collaborate'}
-Chi Lin	1
-Jing Deng	{'relation': 'collaborate'}
-Zhanjiang Song	2
-Jing Deng	{'relation': 'collaborate'}
-Lihong Zhang	{'relation': 'collaborate'}
-Lei He	0
-Yue Pan	0
-Lihong Zhang	1
-Jing Deng	{'relation': 'collaborate'}
-Jing Deng	0
+Jian Liu	Thomas Fang Zheng	Wei Wu	Wenhu Wu
+Yue Pan	Qixiu Hu	Wenhu Wu
+Lixin Fu	Jing Deng
+G. W. Irwin	Kang Li	Jing Deng	Dajun Du
+Lihong Zhang	Zhanjiang Song	Jing Deng	Thomas Fang Zheng	Wei Wu
+Zhanjiang Song	Jing Deng	Wei Wu	Thomas Fang Zheng
+Dajun Du	Kang Li	Jing Deng
+Yunghsiang S. Han	Jing Deng
+Wenhu Wu	Jing Deng	Qixiu Hu	Jian Wu	Lei He	Thomas Fang Zheng
+Jing Deng	Jingwei Miao	Chi Lin	Kang Li	Wei Wu	Honggang Li	Kangbin Yim	Thomas Fang Zheng
+Wei Wu	Thomas Fang Zheng
+Lei He	Jian Wu
+Jian Wu
+Honggang Li
+Thomas Fang Zheng
+Kang Li
+Jingwei Miao	Kangbin Yim	Chi Lin
+Kangbin Yim	Chi Lin
+Qixiu Hu
+Chi Lin

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sheng-Li Xie">
+      <data key="affiliation">Faculty of Automation, Guangdong University of Technology, Guangzhou, 510006, China</data>
+      <data key="research">proposed algorithm, source signal, proposed method</data>
+    </node>
+    <node id="Xiaohong Wang">
+      <data key="affiliation">School of Electrical Engineering, Southwest Jiaotong University, Chengdu, P.R. China</data>
+      <data key="research">SVMV algorithm, novel algorithm, traditional visualization algorithm</data>
+    </node>
+    <node id="Yuli Fu">
+      <data key="affiliation">School of Electronics and Information Engineering, South China University of Technology, Guangzhou 510640, China</data>
+      <data key="research">frequency domain, novel approach, separation result</data>
+    </node>
+    <node id="Marek Chrobak">
+      <data key="affiliation">U.C. Riverside</data>
+      <data key="research">experimental result, combinatorial optimization problem, software package</data>
+    </node>
+    <node id="Y. P. Zhang">
+      <data key="affiliation">Simula Research, Oslo, Norway</data>
+      <data key="research">wireless network, wireless sensor network, wireless communication</data>
+    </node>
+    <node id="Rong Yu">
+      <data key="affiliation">School of Automation, Guangdong University of Technology and School of Electronic and Information Engineering, South China University of Technology, Guangzhou, China</data>
+      <data key="research">power allocation, energy consumption, CR network</data>
+    </node>
+    <node id="Zhaoshui He">
+      <data key="affiliation">Nan</data>
+      <data key="research">CP decomposition method, remaining factor, 3-way CP decomposition</data>
+    </node>
+    <node id="Yi Liu">
+      <data key="affiliation">College of Computer and Software, Taiyuan University of Technology, TYUT, Taiyuan, China</data>
+      <data key="research">agricultural output, ID3 algorithm, agricultural developmentIn</data>
+    </node>
+    <node id="Qi Fu">
+      <data key="affiliation">School of Electronics &amp; Information Engineering, South China University of Technology, Guangzhou, China</data>
+      <data key="research">mobile payment, high value payment, mobile communication</data>
+    </node>
+    <node id="Ming Xiao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Explicit Dynamic FEM Analysis, Hybrid Gauss Points Integration, Hydropower Underground CavernsNA</data>
+    </node>
+    <node id="Chao Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">real data, Case Study, complex network theory</data>
+    </node>
+    <node id="Jian Zou">
+      <data key="affiliation">National Institute of Statistical Sciences, Research Triangle Park, NC, USA</data>
+      <data key="research">syndromic surveillance system, Wiley Periodicals, temporal surveillance dataEarly</data>
+    </node>
+    <node id="Haifeng Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">HMM System, neural modelling, pattern class</data>
+    </node>
+    <node id="Allon G. Percus">
+      <data key="affiliation">University of California, Los Angeles</data>
+      <data key="research">extremal optimization, random constraint satisfaction problem, computational complexity</data>
+    </node>
+    <node id="Zuyuan Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">mode control, switch gain, PMSM Servo SystemTo</data>
+    </node>
+    <node id="Jun Cui">
+      <data key="affiliation">Nan</data>
+      <data key="research">shopping mall web, empirical study, technical factor</data>
+    </node>
+    <node id="Guoxu Zhou">
+      <data key="affiliation">Sch. of Electron. &amp; Inf. Eng., South China Univ. of Technol., Guangzhou, China</data>
+      <data key="research">proposed method, volume constraint, BSS algorithm</data>
+    </node>
+    <node id="Qiheng Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">classical myriad filter, proposed method, seismic signal</data>
+    </node>
+    <node id="Kun Cai">
+      <data key="affiliation">College of Computer and Information Engineering, Henan University, Kaifeng, China</data>
+      <data key="research">GVF snake model, contour edge, contour segmentation</data>
+    </node>
+    <node id="Michalis Faloutsos">
+      <data key="affiliation">Nan</data>
+      <data key="research">significant protein, groups protein, large-scale protein interaction network</data>
+    </node>
+    <edge source="Sheng-Li Xie" target="Kun Cai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Yuli Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Guoxu Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Y. P. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Yi Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Zhaoshui He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Rong Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Ming Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sheng-Li Xie" target="Zuyuan Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaohong Wang" target="Yuli Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Qiheng Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Yi Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Chao Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Zuyuan Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Rong Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Qi Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Guoxu Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Haifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Ming Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Y. P. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Jian Zou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuli Fu" target="Zhaoshui He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marek Chrobak" target="Jun Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marek Chrobak" target="Allon G. Percus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marek Chrobak" target="Qi Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marek Chrobak" target="Michalis Faloutsos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. P. Zhang" target="Yi Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. P. Zhang" target="Rong Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. P. Zhang" target="Chao Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Yu" target="Chao Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Yu" target="Yi Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaoshui He" target="Guoxu Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhaoshui He" target="Zuyuan Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Liu" target="Chao Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Zou" target="Qiheng Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Zou" target="Haifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haifeng Li" target="Qiheng Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haifeng Li" target="Haifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Allon G. Percus" target="Michalis Faloutsos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Allon G. Percus" target="Jun Cui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zuyuan Yang" target="Guoxu Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Cui" target="Michalis Faloutsos">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

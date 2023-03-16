@@ -1,46 +1,46 @@
-Stanislas Boissau	Alain Boucher	{'relation': 'collaborate'}
-Stanislas Boissau	François Sempé	{'relation': 'collaborate'}
+Alain Boucher	Stanislas Boissau	{'relation': 'collaborate'}
+Alain Boucher	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alain Boucher	Edouard Amouroux	{'relation': 'collaborate'}
+Alain Boucher	Alexis Drogoul	{'relation': 'collaborate'}
+Alain Boucher	François Sempé	{'relation': 'collaborate'}
+François Sempé	Hoang Nam Chu	{'relation': 'collaborate'}
+François Sempé	Olivier Simonin	{'relation': 'collaborate'}
+François Sempé	Stanislas Boissau	{'relation': 'collaborate'}
+François Sempé	Nicolas Sabouret	{'relation': 'collaborate'}
+François Sempé	Alexis Drogoul	{'relation': 'collaborate'}
+François Sempé	Geber Ramalho	{'relation': 'collaborate'}
+François Sempé	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+François Sempé	Yann Chevaleyre	{'relation': 'collaborate'}
+François Sempé	Minh Nguyen-Duc	{'relation': 'collaborate'}
+François Sempé	Edouard Amouroux	{'relation': 'collaborate'}
+François Sempé	François Charpillet	{'relation': 'collaborate'}
+François Sempé	Y. Haradji	{'relation': 'collaborate'}
+David Powell	Karama Kanoun	{'relation': 'collaborate'}
+David Powell	Marc-Olivier Killijian	{'relation': 'collaborate'}
+David Powell	Jean Arlat	{'relation': 'collaborate'}
+David Powell	Hoang Nam Chu	{'relation': 'collaborate'}
+David Powell	Felix Ingrand	{'relation': 'collaborate'}
+Z. Kalbarczyk	Jean Arlat	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Hoang Nam Chu	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Jean Arlat	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Felix Ingrand	{'relation': 'collaborate'}
+Olivier Simonin	François Charpillet	{'relation': 'collaborate'}
+Olivier Simonin	Hoang Nam Chu	{'relation': 'collaborate'}
+Olivier Simonin	Alexis Drogoul	{'relation': 'collaborate'}
 Stanislas Boissau	Minh Nguyen-Duc	{'relation': 'collaborate'}
 Stanislas Boissau	Alexis Drogoul	{'relation': 'collaborate'}
-Karama Kanoun	Jean Arlat	{'relation': 'collaborate'}
-Karama Kanoun	David Powell	{'relation': 'collaborate'}
+Jean Arlat	Karama Kanoun	{'relation': 'collaborate'}
+Jean Arlat	Felix Ingrand	{'relation': 'collaborate'}
+Jean Arlat	Hoang Nam Chu	{'relation': 'collaborate'}
+Yann Chevaleyre	Geber Ramalho	{'relation': 'collaborate'}
 Alexis Drogoul	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
 Alexis Drogoul	Minh Nguyen-Duc	{'relation': 'collaborate'}
 Alexis Drogoul	Edouard Amouroux	{'relation': 'collaborate'}
 Alexis Drogoul	François Charpillet	{'relation': 'collaborate'}
-Alexis Drogoul	François Sempé	{'relation': 'collaborate'}
-Alexis Drogoul	Alain Boucher	{'relation': 'collaborate'}
 Alexis Drogoul	Hoang Nam Chu	{'relation': 'collaborate'}
 Alexis Drogoul	Geber Ramalho	{'relation': 'collaborate'}
-Alexis Drogoul	Olivier Simonin	{'relation': 'collaborate'}
-Jean Arlat	Z. Kalbarczyk	{'relation': 'collaborate'}
-Jean Arlat	Felix Ingrand	{'relation': 'collaborate'}
-Jean Arlat	Hoang Nam Chu	{'relation': 'collaborate'}
-Jean Arlat	David Powell	{'relation': 'collaborate'}
-Jean Arlat	Marc-Olivier Killijian	{'relation': 'collaborate'}
-Felix Ingrand	David Powell	{'relation': 'collaborate'}
 Felix Ingrand	Hoang Nam Chu	{'relation': 'collaborate'}
-Felix Ingrand	Marc-Olivier Killijian	{'relation': 'collaborate'}
-Edouard Amouroux	Alain Boucher	{'relation': 'collaborate'}
-Edouard Amouroux	Nicolas Sabouret	{'relation': 'collaborate'}
-Edouard Amouroux	Y. Haradji	{'relation': 'collaborate'}
-Edouard Amouroux	François Sempé	{'relation': 'collaborate'}
-François Charpillet	Olivier Simonin	{'relation': 'collaborate'}
+Nicolas Sabouret	Y. Haradji	{'relation': 'collaborate'}
+Nicolas Sabouret	Edouard Amouroux	{'relation': 'collaborate'}
 François Charpillet	Hoang Nam Chu	{'relation': 'collaborate'}
-François Charpillet	François Sempé	{'relation': 'collaborate'}
-Marc-Olivier Killijian	David Powell	{'relation': 'collaborate'}
-Marc-Olivier Killijian	Hoang Nam Chu	{'relation': 'collaborate'}
-Y. Haradji	Nicolas Sabouret	{'relation': 'collaborate'}
-Y. Haradji	François Sempé	{'relation': 'collaborate'}
-Hoang Nam Chu	François Sempé	{'relation': 'collaborate'}
-Hoang Nam Chu	David Powell	{'relation': 'collaborate'}
-Hoang Nam Chu	Olivier Simonin	{'relation': 'collaborate'}
-Alain Boucher	Minh Nguyen-Duc	{'relation': 'collaborate'}
-Alain Boucher	François Sempé	{'relation': 'collaborate'}
-Minh Nguyen-Duc	François Sempé	{'relation': 'collaborate'}
-Geber Ramalho	Yann Chevaleyre	{'relation': 'collaborate'}
-Geber Ramalho	François Sempé	{'relation': 'collaborate'}
-Nicolas Sabouret	François Sempé	{'relation': 'collaborate'}
-Olivier Simonin	François Sempé	{'relation': 'collaborate'}
-François Sempé	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
-François Sempé	Yann Chevaleyre	{'relation': 'collaborate'}
+Y. Haradji	Edouard Amouroux	{'relation': 'collaborate'}

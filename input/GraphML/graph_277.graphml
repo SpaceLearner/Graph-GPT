@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sheryl Rose">
+      <data key="affiliation">Nan</data>
+      <data key="research">Data Structures, data structure, C background</data>
+    </node>
+    <node id="Martin Fowler">
+      <data key="affiliation">ThoughtWorks, Melrose, MA</data>
+      <data key="research">J2EE platform, J2EE technology, J2EE pattern catalog</data>
+    </node>
+    <node id="A. Bontozoglou">
+      <data key="affiliation">University of Essex, Wivenhoe Park, Colchester, UK</data>
+      <data key="research">new approach, Ethernet Passive Optical Networks, wireless network</data>
+    </node>
+    <node id="S. C. Schwartz">
+      <data key="affiliation">Nan</data>
+      <data key="research">Gaussian noise, stochastic signal, correlator-limiter detector</data>
+    </node>
+    <node id="Walter Ameling">
+      <data key="affiliation">Nan</data>
+      <data key="research">First European Simulation Congress</data>
+    </node>
+    <node id="A. Chambarel">
+      <data key="affiliation">UMR A Climate, Soil and Environment, Université d'Avignon et des Pays de Vaucluse, INRA, Avignon Cedex 9, France</data>
+      <data key="research">Finite Element Method, parallel computing, numerical study</data>
+    </node>
+    <node id="Dirk Riehle">
+      <data key="affiliation">SAP Research, Palo Alto</data>
+      <data key="research">international symposium, Wiki Creole, Open Collaboration</data>
+    </node>
+    <node id="M. Patel">
+      <data key="affiliation">School of Information Systems, Computing and Mathematics, Brunel University, UB8 3PH, UK</data>
+      <data key="research">context-aware functionality, context aware feedback, context-aware feedback</data>
+    </node>
+    <node id="I. Wittke">
+      <data key="affiliation">Nan</data>
+      <data key="research">packet loss, estimation algorithm, estimation method</data>
+    </node>
+    <node id="Grady Booch">
+      <data key="affiliation">Rational Software Corporation, Cupertino, CA</data>
+      <data key="research">software-intensive system, software engineering, J2EE platform</data>
+    </node>
+    <node id="C. Masreliez">
+      <data key="affiliation">Nan</data>
+      <data key="research">sequence estimator, robust estimation, SA-type estimator</data>
+    </node>
+    <node id="R. Gebhardt">
+      <data key="affiliation">Nan</data>
+      <data key="research">Heuristic Algorithms, general purpose parallel computing, large software systemsPOPSY</data>
+    </node>
+    <node id="Grigori Melnik">
+      <data key="affiliation">Microsoft</data>
+      <data key="research">agile method, Enterprise Library, Windows Azure</data>
+    </node>
+    <node id="L. Boi">
+      <data key="affiliation">Nan</data>
+      <data key="research">CII SIRIS, demand paging CII SIRIS, demand paging operating system</data>
+    </node>
+    <node id="R. Martin">
+      <data key="affiliation">Nan</data>
+      <data key="research">robust estimation, robust detection, Gaussian noise</data>
+    </node>
+    <node id="A. Ramos">
+      <data key="affiliation">Laboratório de Instrumentacão e Física de Partículas, Lisbon, Portugal</data>
+      <data key="research">substantial experience, CrossGrid Project, crossgrid projectThe</data>
+    </node>
+    <node id="James W. Newkirk">
+      <data key="affiliation"> </data>
+      <data key="research">Test-Driven Development, Testing Chapter, Agile Development Chapter</data>
+    </node>
+    <node id="Raul C. Almeida Jr.">
+      <data key="affiliation">University of Essex, Essex, UK CO4 3SQ</data>
+      <data key="research">dynamic network, Optical Delay Line, Optical QoS Requirements</data>
+    </node>
+    <node id="C. G. Puntonet">
+      <data key="affiliation">Dept. Signal Theory. Facultad de Ciencias, Universidad de Granada, Granada, Spain</data>
+      <data key="research">genetic algorithm, blind separation, blind source separation</data>
+    </node>
+    <node id="V. Callaghan">
+      <data key="affiliation">University of Essex, Colchester, UK. Email: {jschin,vic,graham}@essex.ac.uk</data>
+      <data key="research">intelligent environment, Intelligent Environments, International Conference</data>
+    </node>
+    <edge source="Sheryl Rose" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Fowler" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Fowler" target="Grady Booch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bontozoglou" target="M. Patel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bontozoglou" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bontozoglou" target="Raul C. Almeida Jr.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bontozoglou" target="V. Callaghan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. C. Schwartz" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walter Ameling" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walter Ameling" target="R. Gebhardt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Chambarel" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dirk Riehle" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Patel" target="V. Callaghan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Patel" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Patel" target="Raul C. Almeida Jr.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Wittke" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Grady Booch" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Masreliez" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Gebhardt" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Grigori Melnik" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Boi" target="R. Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Martin" target="A. Ramos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Martin" target="James W. Newkirk">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Martin" target="Raul C. Almeida Jr.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Martin" target="C. G. Puntonet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Martin" target="V. Callaghan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raul C. Almeida Jr." target="V. Callaghan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Callaghan" target="V. Callaghan">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

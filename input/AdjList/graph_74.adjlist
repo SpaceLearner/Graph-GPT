@@ -1,70 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-S. A. Abramov	2
-Keith O. Geddes	{'relation': 'collaborate'}
-Ha Le	{'relation': 'collaborate'}
-B. L. Leong	5
-Bruce W. Char	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-Stephen Michael Watt	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Gaston H. Gonnet	{'relation': 'collaborate'}
-K. M. Heal	3
-Michael B. Monagan	{'relation': 'collaborate'}
-George Labahn	{'relation': 'collaborate'}
-Keith O. Geddes	{'relation': 'collaborate'}
-Keith O. Geddes	16
-S. R. Czapor	{'relation': 'collaborate'}
-Stephen Michael Watt	{'relation': 'collaborate'}
-R. G. McLenaghan	{'relation': 'collaborate'}
-Ziming Li	{'relation': 'collaborate'}
-George Labahn	{'relation': 'collaborate'}
-Ha Le	{'relation': 'collaborate'}
-T. J. Smedley	{'relation': 'collaborate'}
-S. Dooley	{'relation': 'collaborate'}
-W. Morven Gentleman	{'relation': 'collaborate'}
-Bruce W. Char	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-L. Y. Stefanus	{'relation': 'collaborate'}
-Bruno Salvy	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-Gaston H. Gonnet	{'relation': 'collaborate'}
-T. C. Scott	{'relation': 'collaborate'}
-T. J. Smedley	1
-Gaston H. Gonnet	{'relation': 'collaborate'}
-Bruce W. Char	5
-W. Morven Gentleman	{'relation': 'collaborate'}
-Stephen Michael Watt	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-Gaston H. Gonnet	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-Bruno Salvy	2
-Ziming Li	{'relation': 'collaborate'}
-S. Dooley	{'relation': 'collaborate'}
-L. Y. Stefanus	0
-W. Morven Gentleman	1
-Gaston H. Gonnet	{'relation': 'collaborate'}
-Gaston H. Gonnet	3
-Stephen Michael Watt	{'relation': 'collaborate'}
-Gregory J. Fee	{'relation': 'collaborate'}
-Michael B. Monagan	{'relation': 'collaborate'}
-Gregory J. Fee	2
-Michael B. Monagan	{'relation': 'collaborate'}
-T. C. Scott	{'relation': 'collaborate'}
-T. C. Scott	1
-Michael B. Monagan	{'relation': 'collaborate'}
-S. Dooley	1
-Stephen Michael Watt	{'relation': 'collaborate'}
-S. R. Czapor	1
-George Labahn	{'relation': 'collaborate'}
-George Labahn	2
-Michael B. Monagan	{'relation': 'collaborate'}
-Ziming Li	{'relation': 'collaborate'}
-R. G. McLenaghan	0
-Ha Le	1
-Ziming Li	{'relation': 'collaborate'}
-Stephen Michael Watt	1
-Michael B. Monagan	{'relation': 'collaborate'}
-Ziming Li	0
-Michael B. Monagan	0
+R. G. McLenaghan	Keith O. Geddes
+George Labahn	Keith O. Geddes	Michael B. Monagan	K. M. Heal	Ziming Li	S. R. Czapor
+Ha Le	Ziming Li	Keith O. Geddes	S. A. Abramov
+Gregory J. Fee	Michael B. Monagan	Gaston H. Gonnet	Keith O. Geddes	T. C. Scott	Bruce W. Char
+S. A. Abramov	Keith O. Geddes
+S. Dooley	Stephen Michael Watt	Keith O. Geddes	Bruno Salvy
+Gaston H. Gonnet	Stephen Michael Watt	T. J. Smedley	Bruce W. Char	Michael B. Monagan	W. Morven Gentleman	Keith O. Geddes	B. L. Leong
+K. M. Heal	Michael B. Monagan	Keith O. Geddes
+Bruce W. Char	B. L. Leong	W. Morven Gentleman	Stephen Michael Watt	Michael B. Monagan	Keith O. Geddes
+W. Morven Gentleman	Keith O. Geddes
+T. J. Smedley	Keith O. Geddes
+Bruno Salvy	Ziming Li	Keith O. Geddes
+Stephen Michael Watt	Keith O. Geddes	Michael B. Monagan	B. L. Leong
+B. L. Leong	Michael B. Monagan	Keith O. Geddes
+S. R. Czapor	Keith O. Geddes
+L. Y. Stefanus	Keith O. Geddes
+Ziming Li	Keith O. Geddes
+Michael B. Monagan	T. C. Scott	Keith O. Geddes
+T. C. Scott	Keith O. Geddes
+Keith O. Geddes

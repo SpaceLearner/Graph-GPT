@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="R. H. Laskar">
+      <data key="affiliation">Department of Electrical Engineering, NIT Silchar, Silchar, Assam, India</data>
+      <data key="research">mapping function, target speaker, voice characteristic</data>
+    </node>
+    <node id="K. Sreenivasa Rao">
+      <data key="affiliation">Nan</data>
+      <data key="research">syllable level, utterance level, prosodic feature</data>
+    </node>
+    <node id="S. U. Hegde">
+      <data key="affiliation">Nan</data>
+      <data key="research">concurrent strategy, circuit design, concurrent placement</data>
+    </node>
+    <node id="A. Tripathy">
+      <data key="affiliation">Department of Electronics and Electrical Communication Engineering, Indian Institute of Technology, Kharagpur, India</data>
+      <data key="research">Turbo Equalizer, soft data bit estimate, soft output Viterbi algorithm</data>
+    </node>
+    <node id="Ramu Reddy Vempada">
+      <data key="affiliation">School of Information Technology, Indian Institute of Technology Kharagpur, Kharagpur, India 721302</data>
+      <data key="research">local prosodic feature, synthesized speech, global prosodic feature</data>
+    </node>
+    <node id="Ankur Choudhary">
+      <data key="affiliation">Graphic Era University, Dehradun, Uttrakhand, India</data>
+      <data key="research">voice conversion system, LP coefficient, linear prediction coefficient</data>
+    </node>
+    <node id="V. Ramu Reddy">
+      <data key="affiliation">TCS Innovation Labs, Kolkata, India 700091</data>
+      <data key="research">language specific information, proposed feature, temporal variation</data>
+    </node>
+    <node id="Shashidhar G. Koolagudi">
+      <data key="affiliation">Department of Computer Science and Engineering, National Institute of Technology Karnataka, Surathkal, India 575025</data>
+      <data key="research">target speaker, speech signal, emotion recognition</data>
+    </node>
+    <node id="S. Chakrabarti">
+      <data key="affiliation">Department of Applied Mathematics, Indian Institute of Science</data>
+      <data key="research">Negative BaseA divide-and-correct algorithm, initial quotient estimate, true quotient</data>
+    </node>
+    <node id="Krishnendu Ghosh">
+      <data key="affiliation">University of Cincinnati</data>
+      <data key="research">Formal Analysis, Model Checking, automated model abstraction</data>
+    </node>
+    <node id="Peri Bhaskararao">
+      <data key="affiliation">Language Technology Research Centre, International Institute of Information of TechnologyHyderabad, Hyderabad, India 500032</data>
+      <data key="research">loudness measure, proposed method, automatic detection</data>
+    </node>
+    <node id="B. Yegnanarayana">
+      <data key="affiliation">International Institute of Information Technology, Gachibowli, Hyderabad, India</data>
+      <data key="research">speech signal, significant excitation, proposed method</data>
+    </node>
+    <node id="Anil Kumar Vuppala">
+      <data key="affiliation">Language Technology Research Centre, International Institute of Information of TechnologyHyderabad, Hyderabad, India 500032</data>
+      <data key="research">proposed method, noisy speech, vowel onset point</data>
+    </node>
+    <node id="Sudhamay Maity">
+      <data key="affiliation">School of Information Technology, Indian Institute of Technology Kharagpur, Kharagpur, India 721302</data>
+      <data key="research">proposed feature, language specific information, Synthesized speech</data>
+    </node>
+    <node id="Junwei Hou">
+      <data key="affiliation">Department of Electrical Engineering, Princeton University, Princeton, NJ</data>
+      <data key="research">embedded system, heuristic algorithm, partitioning algorithm</data>
+    </node>
+    <node id="P. Krishnamoorthy">
+      <data key="affiliation">Nan</data>
+      <data key="research">modulation spectrum, spectral peak, speech production</data>
+    </node>
+    <node id="K. Banerjee">
+      <data key="affiliation">Nan</data>
+      <data key="research">IPMC Artificial Muscle, artificial muscle, human arm</data>
+    </node>
+    <node id="K. S. Rao">
+      <data key="affiliation">Nan</data>
+      <data key="research">knowledge system, Climate Change, Climate ChangeClimate change</data>
+    </node>
+    <node id="S. R. M. Prasanna">
+      <data key="affiliation">Department of Electronics and Communication Engineering, Indian Institute of Technology Guwahati, Guwahati781 039, India. prasanna@iitg.ernet.in</data>
+      <data key="research">spectral processing, speaker verification, reverberant speech</data>
+    </node>
+    <node id="M. A. Alam">
+      <data key="affiliation">Nan</data>
+      <data key="research">diameter distribution, array transistor, subthreshold slope</data>
+    </node>
+    <edge source="R. H. Laskar" target="Shashidhar G. Koolagudi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. H. Laskar" target="K. Banerjee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. H. Laskar" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="Sudhamay Maity">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="B. Yegnanarayana">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="S. R. M. Prasanna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="V. Ramu Reddy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="Shashidhar G. Koolagudi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Sreenivasa Rao" target="Ankur Choudhary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. U. Hegde" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Tripathy" target="S. Chakrabarti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramu Reddy Vempada" target="Shashidhar G. Koolagudi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramu Reddy Vempada" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramu Reddy Vempada" target="Krishnendu Ghosh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramu Reddy Vempada" target="Sudhamay Maity">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ankur Choudhary" target="Shashidhar G. Koolagudi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ankur Choudhary" target="M. A. Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Ramu Reddy" target="Sudhamay Maity">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Ramu Reddy" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shashidhar G. Koolagudi" target="Anil Kumar Vuppala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shashidhar G. Koolagudi" target="Sudhamay Maity">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shashidhar G. Koolagudi" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Chakrabarti" target="Junwei Hou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Chakrabarti" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Chakrabarti" target="P. Krishnamoorthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Chakrabarti" target="Anil Kumar Vuppala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Chakrabarti" target="S. R. M. Prasanna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krishnendu Ghosh" target="Sudhamay Maity">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krishnendu Ghosh" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peri Bhaskararao" target="Anil Kumar Vuppala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Yegnanarayana" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anil Kumar Vuppala" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anil Kumar Vuppala" target="P. Krishnamoorthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anil Kumar Vuppala" target="S. R. M. Prasanna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sudhamay Maity" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Krishnamoorthy" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Krishnamoorthy" target="S. R. M. Prasanna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Banerjee" target="K. S. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. S. Rao" target="S. R. M. Prasanna">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P. Chou">
+      <data key="affiliation">Nan</data>
+      <data key="research">II-A fluoride, In-Situ rapid isothermal processing, solid phase epitaxial growth</data>
+    </node>
+    <node id="Jiann-Der Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">low frequency AC coefficient, original AC coefficient, DC value</data>
+    </node>
+    <node id="Heri Prasetyo">
+      <data key="affiliation">Nan</data>
+      <data key="research">color image, content-based image retrieval system, corresponding bitmap image</data>
+    </node>
+    <node id="Jing-Ming Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">Error-Diffused Block Truncation Coding, Complementary Steganography, good image quality</data>
+    </node>
+    <node id="Che-Hung Lin">
+      <data key="affiliation">Department of Information Management, ChengShiu University, 840 Chengcing Road, Niaosong Township, Kaohsiung County 833, Taiwan, ROC.</data>
+      <data key="research">learning-theory foundation, game-based learning, mobile learning</data>
+    </node>
+    <node id="Ming-Feng Wu">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan, R.O.C.</data>
+      <data key="research">improved BTC algorithm, ODBTC result, better image quality</data>
+    </node>
+    <node id="Chia-Hao Chang">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan</data>
+      <data key="research">low frequency AC coefficient, proposed method, AC coefficient</data>
+    </node>
+    <node id="Soo-Chang Pei">
+      <data key="affiliation">Nan</data>
+      <data key="research">rightful ownership, good accuracy, good imperceptibility</data>
+    </node>
+    <node id="Hua Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">super Cayley graph, efficient robust algorithm, Super Cayley GraphsIn</data>
+    </node>
+    <node id="Emmanouel A. Varvarigos">
+      <data key="affiliation">Department of Computer Engineering and Informatics, University of Patras Research Academic Computer Technology Institute, Rio, Greece 26500</data>
+      <data key="research">super Cayley graph, layout area, average burst size</data>
+    </node>
+    <node id="Chih-Yu Lin">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan</data>
+      <data key="research">parallel advantage, Error-Diffused Block Truncation Coding, Interlaced Error-Diffused Block Truncation</data>
+    </node>
+    <node id="Yu-Cheng Lu">
+      <data key="affiliation">Institute of Industrial and Information Management, National Cheng Kung University, 1st University Road, Tainan 701, Taiwan</data>
+      <data key="research">organizational crisis, knowledge transfer channel, critical knowledge</data>
+    </node>
+    <node id="Zong-Jhe Wu">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan</data>
+      <data key="research">effective manner, effective operation, DAISY descriptorCopy-move</data>
+    </node>
+    <node id="Sheng-Luen Chung">
+      <data key="affiliation">Nan</data>
+      <data key="research">discrete event system, limited lookahead policy</data>
+    </node>
+    <node id="Jun Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">MMET Model, computational time, old MMET model</data>
+    </node>
+    <node id="Jyun-Hao Huang">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan</data>
+      <data key="research">halftone image, proposed scheme, adaptive SSDDF</data>
+    </node>
+    <node id="Thanh-Nam Le">
+      <data key="affiliation">INSA de Rennes, LGCGM/Structural Engineering Research Group, Université Européenne de Bretagne, Rennes Cedex 7, France 35708 and Department of Civil and Architectural Engineering, KTH, R ...</data>
+      <data key="research">numerical example, numerical accuracy, tangent inertia matrix</data>
+    </node>
+    <node id="Antonio Robles-Kelly">
+      <data key="affiliation">NICTA, Building 115, ANU, ACT 0200, Australia1</data>
+      <data key="research">cost function, new method, graph-spectral method</data>
+    </node>
+    <node id="Chih-Sheng Hsu">
+      <data key="affiliation">Nan</data>
+      <data key="research">block-based stage, pixel-based stage, False Positive</data>
+    </node>
+    <node id="Jen-Shiun Chiang">
+      <data key="affiliation">Department of Electrical Engineering, Tamkang University, Tamsui, Taipei, Taiwan</data>
+      <data key="research">32-b radix-4 divider, NST division, PrescalingA new floating-point division</data>
+    </node>
+    <edge source="P. Chou" target="Hua Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiann-Der Lee" target="Jing-Ming Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiann-Der Lee" target="Yu-Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heri Prasetyo" target="Jing-Ming Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Jyun-Hao Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Hua Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Che-Hung Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Sheng-Luen Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Chia-Hao Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Jen-Shiun Chiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Yu-Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Chih-Sheng Hsu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Chih-Yu Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Zong-Jhe Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Soo-Chang Pei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Ming-Feng Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing-Ming Guo" target="Thanh-Nam Le">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Che-Hung Lin" target="Sheng-Luen Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Soo-Chang Pei" target="Hua Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Lee" target="Emmanouel A. Varvarigos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Zhou" target="Antonio Robles-Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Zhou" target="Jyun-Hao Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jyun-Hao Huang" target="Antonio Robles-Kelly">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

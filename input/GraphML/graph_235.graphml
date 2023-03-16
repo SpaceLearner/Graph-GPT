@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ittai Balaban">
+      <data key="affiliation">WorldEvolved Services, New York</data>
+      <data key="research">predicate abstraction, Ranking Abstraction, shape analysis</data>
+    </node>
+    <node id="Michael Ernst">
+      <data key="affiliation">Nan</data>
+      <data key="research">traditional numerical solution, precise evaluation, PV cell</data>
+    </node>
+    <node id="Amy Williams">
+      <data key="affiliation">University of Utah</data>
+      <data key="research">ray intersection routine, ray tracer, robust ray-box intersection algorithmThe</data>
+    </node>
+    <node id="Robert Fuhrer">
+      <data key="affiliation">Nan</data>
+      <data key="research">multiple stage, transfer price, contract type</data>
+    </node>
+    <node id="Yi Fang">
+      <data key="affiliation">Microsoft Corp., Redmond WA, U.S.A</data>
+      <data key="research">translation validation, parameterized system, target code</data>
+    </node>
+    <node id="F. Tip">
+      <data key="affiliation">IBM, Yorktown Heights, NY, USA</data>
+      <data key="research">class hierarchy, atomic set, Java program</data>
+    </node>
+    <node id="Adam Kiezun">
+      <data key="affiliation">Brigham and Women's Hospital/Harvard Medical School</data>
+      <data key="research">Web application, Concolic testing, type constraint</data>
+    </node>
+    <node id="Reid Holmes">
+      <data key="affiliation">University of Waterloo, Waterloo, ON, Canada</data>
+      <data key="research">source code, pragmatic reuse task, reuse task</data>
+    </node>
+    <node id="Dan Grossman">
+      <data key="affiliation">Nan</data>
+      <data key="research">Summer School, Oregon programming languages summer, schoolThe Oregon Programming</data>
+    </node>
+    <node id="Ariel Cohen">
+      <data key="affiliation">Bell Labs, AlcatelLucent, Murray Hill, NJ</data>
+      <data key="research">local proof, local reasoning, global safety property</data>
+    </node>
+    <node id="Amir Pnueli">
+      <data key="affiliation">Nan</data>
+      <data key="research">International Symposium, Significant Difference</data>
+    </node>
+    <node id="Wei Huang">
+      <data key="affiliation">Rensselaer Polytechnic Institute</data>
+      <data key="research">type system, reference immutability, ownership type system</data>
+    </node>
+    <node id="D S Weld">
+      <data key="affiliation">MIT Artificial Intelligence Lab, Cambridge, MA</data>
+      <data key="research">information extraction, training data, source data</data>
+    </node>
+    <node id="Jake Cockrell">
+      <data key="affiliation">Macromedia, Inc., Redwood City, CA</data>
+      <data key="research">likely program invariants, explicit invariants, infer likely invariants</data>
+    </node>
+    <node id="Todd D. Millstein">
+      <data key="affiliation">University of California</data>
+      <data key="research">type system, programming language, predicate dispatch</data>
+    </node>
+    <node id="W. G. Griswold">
+      <data key="affiliation">IEEE</data>
+      <data key="research">mobile phone, C program, large program</data>
+    </node>
+    <node id="Bjorn De Sutter">
+      <data key="affiliation">Department of Electronics and Information Systems, Ghent University, Ghent, Belgium</data>
+      <data key="research">software piracy, software protection, software system</data>
+    </node>
+    <node id="E. James Whitehead, Jr.">
+      <data key="affiliation">Dept. of Info., and Computer Science, U.C. Irvine</data>
+      <data key="research">source code, bug fix, bug fix memory</data>
+    </node>
+    <node id="Lenore Zuck">
+      <data key="affiliation">Department of Computer Science, New York University, Courant Institute, 251 Mercer Street, New York, NY 10012, USA</data>
+      <data key="research">parameterized system, safety property, predicate abstraction</data>
+    </node>
+    <node id="William Thies">
+      <data key="affiliation">Nan</data>
+      <data key="research">code reuse, OSS community, OSS licenses</data>
+    </node>
+    <edge source="Ittai Balaban" target="Michael Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Ariel Cohen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="F. Tip">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Lenore Zuck">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Bjorn De Sutter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Adam Kiezun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Yi Fang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Robert Fuhrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ittai Balaban" target="Amir Pnueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="E. James Whitehead, Jr.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Dan Grossman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="W. G. Griswold">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Wei Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Jake Cockrell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Todd D. Millstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="William Thies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Amy Williams">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Reid Holmes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="D S Weld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Bjorn De Sutter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Robert Fuhrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="Adam Kiezun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Ernst" target="F. Tip">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amy Williams" target="William Thies">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Fuhrer" target="Todd D. Millstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Fuhrer" target="Bjorn De Sutter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Fuhrer" target="F. Tip">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Fuhrer" target="Adam Kiezun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Fang" target="Amir Pnueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Fang" target="Lenore Zuck">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Tip" target="Todd D. Millstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Tip" target="W. G. Griswold">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Tip" target="Bjorn De Sutter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Tip" target="Adam Kiezun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Kiezun" target="Bjorn De Sutter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ariel Cohen" target="Lenore Zuck">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ariel Cohen" target="Amir Pnueli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amir Pnueli" target="Lenore Zuck">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D S Weld" target="Todd D. Millstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jake Cockrell" target="W. G. Griswold">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

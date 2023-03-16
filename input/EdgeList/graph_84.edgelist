@@ -1,32 +1,32 @@
-C. Mascolo	P. Costa	{'relation': 'collaborate'}
-C. Mascolo	Mirco Musolesi	{'relation': 'collaborate'}
-Dolors Costal	P. Costa	{'relation': 'collaborate'}
-Dolors Costal	A. Olivé	{'relation': 'collaborate'}
-Dolors Costal	C. Quer	{'relation': 'collaborate'}
-Dolors Costal	Maria Ribera Sancho	{'relation': 'collaborate'}
-H. Clergeot	P. Larzabal	{'relation': 'collaborate'}
-H. Clergeot	P. Costa	{'relation': 'collaborate'}
-A. Olivé	C. Quer	{'relation': 'collaborate'}
-A. Olivé	P. Costa	{'relation': 'collaborate'}
-A. Olivé	Maria Ribera Sancho	{'relation': 'collaborate'}
-C. Quer	Maria Ribera Sancho	{'relation': 'collaborate'}
-C. Quer	P. Costa	{'relation': 'collaborate'}
-L. Catarinucci	A. Esposito	{'relation': 'collaborate'}
-Giuseppe De Pietro	A. Esposito	{'relation': 'collaborate'}
-Giuseppe De Pietro	G. Reitano	{'relation': 'collaborate'}
-A. Mazzeo	A. Esposito	{'relation': 'collaborate'}
-A. Mazzeo	P. Costa	{'relation': 'collaborate'}
-K. Sato	P. Costa	{'relation': 'collaborate'}
-K. Sato	W. D. Richard	{'relation': 'collaborate'}
+M. Marinaro	A. Esposito	{'relation': 'collaborate'}
+M. Marinaro	S. Scarpetta	{'relation': 'collaborate'}
+P. Larzabal	H. Clergeot	{'relation': 'collaborate'}
 P. Larzabal	P. Costa	{'relation': 'collaborate'}
 Mauro Mongiardo	A. Esposito	{'relation': 'collaborate'}
 Mauro Mongiardo	Federico Malucelli	{'relation': 'collaborate'}
-W. D. Richard	P. Costa	{'relation': 'collaborate'}
+A. Esposito	Giuseppe De Pietro	{'relation': 'collaborate'}
 A. Esposito	P. Costa	{'relation': 'collaborate'}
+A. Esposito	A. Mazzeo	{'relation': 'collaborate'}
 A. Esposito	S. Scarpetta	{'relation': 'collaborate'}
-A. Esposito	M. Marinaro	{'relation': 'collaborate'}
+A. Esposito	L. Catarinucci	{'relation': 'collaborate'}
 A. Esposito	Federico Malucelli	{'relation': 'collaborate'}
 A. Esposito	G. Reitano	{'relation': 'collaborate'}
+Giuseppe De Pietro	G. Reitano	{'relation': 'collaborate'}
+P. Costa	Dolors Costal	{'relation': 'collaborate'}
+P. Costa	K. Sato	{'relation': 'collaborate'}
 P. Costa	Mirco Musolesi	{'relation': 'collaborate'}
 P. Costa	Maria Ribera Sancho	{'relation': 'collaborate'}
-S. Scarpetta	M. Marinaro	{'relation': 'collaborate'}
+P. Costa	H. Clergeot	{'relation': 'collaborate'}
+P. Costa	A. Olivé	{'relation': 'collaborate'}
+P. Costa	C. Mascolo	{'relation': 'collaborate'}
+P. Costa	A. Mazzeo	{'relation': 'collaborate'}
+P. Costa	C. Quer	{'relation': 'collaborate'}
+P. Costa	W. D. Richard	{'relation': 'collaborate'}
+Mirco Musolesi	C. Mascolo	{'relation': 'collaborate'}
+A. Olivé	C. Quer	{'relation': 'collaborate'}
+A. Olivé	Dolors Costal	{'relation': 'collaborate'}
+A. Olivé	Maria Ribera Sancho	{'relation': 'collaborate'}
+Dolors Costal	C. Quer	{'relation': 'collaborate'}
+Dolors Costal	Maria Ribera Sancho	{'relation': 'collaborate'}
+K. Sato	W. D. Richard	{'relation': 'collaborate'}
+C. Quer	Maria Ribera Sancho	{'relation': 'collaborate'}

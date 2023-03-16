@@ -1,57 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:55 2023
 # 
-E.-G. Talbi	3
-François Clautiaux	{'relation': 'collaborate'}
-Saíd Hanafi	{'relation': 'collaborate'}
-Bilel Derbel	{'relation': 'collaborate'}
-Antoine Jouglet	3
-Aziz Moukrim	{'relation': 'collaborate'}
-J. Carlier	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-Marie-Emilie Voge	1
-François Clautiaux	{'relation': 'collaborate'}
-Saoussen Krichen	5
-Adel Guitouni	{'relation': 'collaborate'}
-El-Ghazali Talbi	{'relation': 'collaborate'}
-Fouad Ben Abdelaziz	{'relation': 'collaborate'}
-Nadia Dahmani	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-Cláudio Alves	3
-François Clautiaux	{'relation': 'collaborate'}
-José M. Valério de Carvalho	{'relation': 'collaborate'}
-Jürgen Rietz	{'relation': 'collaborate'}
-Manuel Iori	2
-Mauro Dell'Amico	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-El-Ghazali Talbi	3
-Bilel Derbel	{'relation': 'collaborate'}
-Nadia Dahmani	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-J. Carlier	3
-Aziz Moukrim	{'relation': 'collaborate'}
-Stéphane Nègre	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-Stéphane Nègre	2
-Aziz Moukrim	{'relation': 'collaborate'}
-François Clautiaux	{'relation': 'collaborate'}
-Bilel Derbel	0
-François Clautiaux	7
-Christophe Wilbaut	{'relation': 'collaborate'}
-Mauro Dell'Amico	{'relation': 'collaborate'}
-Nadia Dahmani	{'relation': 'collaborate'}
-Jürgen Rietz	{'relation': 'collaborate'}
-Aziz Moukrim	{'relation': 'collaborate'}
-José M. Valério de Carvalho	{'relation': 'collaborate'}
-Saíd Hanafi	{'relation': 'collaborate'}
-Mauro Dell'Amico	0
-Christophe Wilbaut	1
-Saíd Hanafi	{'relation': 'collaborate'}
-Adel Guitouni	0
-Jürgen Rietz	1
-José M. Valério de Carvalho	{'relation': 'collaborate'}
-Fouad Ben Abdelaziz	0
-José M. Valério de Carvalho	0
-Nadia Dahmani	0
-Aziz Moukrim	0
-Saíd Hanafi	0
+Saoussen Krichen	Adel Guitouni	El-Ghazali Talbi	Fouad Ben Abdelaziz	Nadia Dahmani	François Clautiaux
+Stéphane Nègre	J. Carlier	Aziz Moukrim	François Clautiaux
+Manuel Iori	Mauro Dell'Amico	François Clautiaux
+Adel Guitouni
+Marie-Emilie Voge	François Clautiaux
+Nadia Dahmani	François Clautiaux	El-Ghazali Talbi
+Mauro Dell'Amico	François Clautiaux
+El-Ghazali Talbi	Bilel Derbel	François Clautiaux
+Cláudio Alves	François Clautiaux	José M. Valério de Carvalho	Jürgen Rietz
+J. Carlier	Aziz Moukrim	Antoine Jouglet	François Clautiaux
+Saíd Hanafi	E.-G. Talbi	Christophe Wilbaut	François Clautiaux
+Jürgen Rietz	José M. Valério de Carvalho	François Clautiaux
+Antoine Jouglet	Aziz Moukrim	François Clautiaux
+Fouad Ben Abdelaziz
+François Clautiaux	Christophe Wilbaut	E.-G. Talbi	Aziz Moukrim	José M. Valério de Carvalho
+Bilel Derbel	E.-G. Talbi
+José M. Valério de Carvalho
+Christophe Wilbaut
+E.-G. Talbi
+Aziz Moukrim

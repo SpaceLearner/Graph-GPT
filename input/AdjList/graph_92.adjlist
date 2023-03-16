@@ -1,52 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-Alex Silbey	4
-Veljko Milutinovic	{'relation': 'collaborate'}
-Richard Zieger	{'relation': 'collaborate'}
-David Fura	{'relation': 'collaborate'}
-Walt Helbig	{'relation': 'collaborate'}
-N. H. Vaidya	1
-Arun K. Somani	{'relation': 'collaborate'}
-Phillip J. Windley	2
-David Fura	{'relation': 'collaborate'}
-Arun K. Somani	{'relation': 'collaborate'}
-Zhao Zhang	1
-Arun K. Somani	{'relation': 'collaborate'}
-M. Harrington	1
-Arun K. Somani	{'relation': 'collaborate'}
-Akhilesh Tyagi	1
-Arun K. Somani	{'relation': 'collaborate'}
-Veljko Milutinovic	4
-Walt Helbig	{'relation': 'collaborate'}
-David Fura	{'relation': 'collaborate'}
-Richard Zieger	{'relation': 'collaborate'}
-Joseph Linn	{'relation': 'collaborate'}
-James A. Ritcey	1
-Arun K. Somani	{'relation': 'collaborate'}
-Robert Johnson	2
-Arun K. Somani	{'relation': 'collaborate'}
-Kenneth Cooper	{'relation': 'collaborate'}
-David Fura	4
-Arun K. Somani	{'relation': 'collaborate'}
-Richard Zieger	{'relation': 'collaborate'}
-Joseph Linn	{'relation': 'collaborate'}
-Walt Helbig	{'relation': 'collaborate'}
-Arun K. Somani	6
-Srini Tridandapani	{'relation': 'collaborate'}
-Tao Wu	{'relation': 'collaborate'}
-Kenneth Cooper	{'relation': 'collaborate'}
-Mani Mina	{'relation': 'collaborate'}
-Hartmut Schmeck	{'relation': 'collaborate'}
-Shubha Kher	{'relation': 'collaborate'}
-Kenneth Cooper	0
-Tao Wu	0
-Srini Tridandapani	0
-Shubha Kher	0
-Mani Mina	0
-Walt Helbig	2
-Joseph Linn	{'relation': 'collaborate'}
-Richard Zieger	{'relation': 'collaborate'}
-Richard Zieger	0
-Joseph Linn	0
-Hartmut Schmeck	0
+Phillip J. Windley	David Fura	Arun K. Somani
+Kenneth Cooper	Arun K. Somani	Robert Johnson
+Robert Johnson	Arun K. Somani
+Akhilesh Tyagi	Arun K. Somani
+Shubha Kher	Arun K. Somani
+Tao Wu	Arun K. Somani
+Alex Silbey	Veljko Milutinovic	Richard Zieger	David Fura	Walt Helbig
+Arun K. Somani	M. Harrington	Srini Tridandapani	James A. Ritcey	Mani Mina	N. H. Vaidya	Zhao Zhang	Hartmut Schmeck	David Fura
+Walt Helbig	Veljko Milutinovic	Joseph Linn	Richard Zieger	David Fura
+N. H. Vaidya
+Zhao Zhang
+Mani Mina
+Srini Tridandapani
+Hartmut Schmeck
+Veljko Milutinovic	David Fura	Richard Zieger	Joseph Linn
+David Fura	Richard Zieger	Joseph Linn
+James A. Ritcey
+Richard Zieger
+M. Harrington
+Joseph Linn

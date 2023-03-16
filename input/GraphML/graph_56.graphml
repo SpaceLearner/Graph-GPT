@@ -4,65 +4,61 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Raimond L. Winslow">
-      <data key="affiliation">Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA</data>
-      <data key="research">vector field, SA node, deformation diffeomorphic metric mapping</data>
-    </node>
-    <node id="Daniel Q. Naiman">
-      <data key="affiliation">Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA</data>
-      <data key="research">multiple linkage test, Gaussian approximation, microarray data</data>
-    </node>
-    <node id="Henry P. Wynn">
-      <data key="affiliation">Department of Statistics, London School of Economics, B.P. 121, 2000 route des Lucioles, WC2A 2AE, London, UK</data>
-      <data key="research">Betti number, coherent system, algebraic analysis</data>
-    </node>
-    <node id="David Gilbert">
-      <data key="affiliation">Nan</data>
-      <data key="research">PARLOG Translator</data>
+    <node id="D. Geman">
+      <data key="affiliation">IMEDIA Project, INRIA Rocquencourt</data>
+      <data key="research">query image, image data, target image</data>
     </node>
     <node id="J. C. Spall">
       <data key="affiliation">The Johns Hopkins University</data>
       <data key="research">full system, stochastic approximation, complex system</data>
     </node>
-    <node id="Nathan L. Kleinman">
-      <data key="affiliation">Options and Choices, Inc. (OCI), Cheyenne, Wyoming</data>
-      <data key="research">Common Random Numbers method, efficient optimization algorithm, stochastic approximation algorithm</data>
+    <node id="Michael F. Ochs">
+      <data key="affiliation">The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD</data>
+      <data key="research">functional genomics data pipeline, microarray data, supplementary data</data>
     </node>
-    <node id="Aik Choon Tan">
-      <data key="affiliation">Bioinformatics Research Centre, Department of Computing Science, 12 Lilybank Gardens, University of Glasgow, Glasgow G12 8QQ, UK</data>
-      <data key="research">experimental data, different biological data set, individual learning system</data>
-    </node>
-    <node id="Lei Xu">
+    <node id="Donald German">
       <data key="affiliation">Nan</data>
-      <data key="research">User Relationships, URPC-Rec algorithm, clusters user</data>
-    </node>
-    <node id="Jian Feng">
-      <data key="affiliation">Airforce Military Representative Office Resident in Shenyang Region, PR China</data>
-      <data key="research">different mode, optimal control method, lubrication condition</data>
-    </node>
-    <node id="Bahman Afsari">
-      <data key="affiliation">Nan</data>
-      <data key="research">binary classifier, k disjoint pair, Automated Micro-Array Classification Challenge</data>
+      <data key="research">Bayesian restoration, Gibbs distribution, stochastic relaxation</data>
     </node>
     <node id="Giovanni Parmigiani">
       <data key="affiliation">Nan</data>
       <data key="research">biological process, open source, R package CoGAPS</data>
     </node>
+    <node id="Xiaoling Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">NO2 Pollution Index, air pollution, air pollution pattern</data>
+    </node>
+    <node id="Daniel Q. Naiman">
+      <data key="affiliation">Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA</data>
+      <data key="research">multiple linkage test, Gaussian approximation, microarray data</data>
+    </node>
+    <node id="Lei Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">User Relationships, URPC-Rec algorithm, clusters user</data>
+    </node>
+    <node id="Henry P. Wynn">
+      <data key="affiliation">Department of Statistics, London School of Economics, B.P. 121, 2000 route des Lucioles, WC2A 2AE, London, UK</data>
+      <data key="research">Betti number, coherent system, algebraic analysis</data>
+    </node>
     <node id="R E Stone">
       <data key="affiliation">AT&amp;T Bell Laboratories, Holmdel, NJ</data>
       <data key="research">linear complementarity problem, Homological Characterization, Q-MatricesA real square matrix</data>
     </node>
-    <node id="Michael F. Ochs">
-      <data key="affiliation">The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD</data>
-      <data key="research">functional genomics data pipeline, microarray data, supplementary data</data>
+    <node id="Nathan L. Kleinman">
+      <data key="affiliation">Options and Choices, Inc. (OCI), Cheyenne, Wyoming</data>
+      <data key="research">Common Random Numbers method, efficient optimization algorithm, stochastic approximation algorithm</data>
     </node>
-    <node id="Carey E. Priebe">
-      <data key="affiliation">Naval Ocean Systems Center, Code 421 San Diego, Ca. 92152 USA</data>
-      <data key="research">computer network data, data fusion, data point</data>
+    <node id="Raimond L. Winslow">
+      <data key="affiliation">Center for Cardiovascular Bioinformatics and Modeling, Whitaker Biomedical Engineering Institute  3400 N. Charles Street, Baltimore, MD 21218, USA</data>
+      <data key="research">vector field, SA node, deformation diffeomorphic metric mapping</data>
     </node>
-    <node id="Xiaoling Wu">
-      <data key="affiliation">Nan</data>
-      <data key="research">NO2 Pollution Index, air pollution, air pollution pattern</data>
+    <node id="Aik Choon Tan">
+      <data key="affiliation">Bioinformatics Research Centre, Department of Computing Science, 12 Lilybank Gardens, University of Glasgow, Glasgow G12 8QQ, UK</data>
+      <data key="research">experimental data, different biological data set, individual learning system</data>
+    </node>
+    <node id="Rafael A. Irizarry">
+      <data key="affiliation">Department of Biostatistics, Johns Hopkins University, 615 N. Wolfe St E3035, Baltimore, MD 21218, USA</data>
+      <data key="research">supplementary data, Supplementary information, ChIPx data</data>
     </node>
     <node id="Onn Chan">
       <data key="affiliation">Department of Mathematics, National University of Singapore, Kent Ridge, S119260, Republic of Singapore (email: onn.chan@ubs.com,taokai@yahoo.com)</data>
@@ -72,46 +68,74 @@
       <data key="affiliation">Department of Mathematical Sciences, Johns Hopkins University, 3400 N. Charles St, Baltimore, MD 21218, USA,</data>
       <data key="research">Affymetrix GeneChip data, expression measure, Affymetrix probe level data</data>
     </node>
-    <node id="D. Geman">
-      <data key="affiliation">IMEDIA Project, INRIA Rocquencourt</data>
-      <data key="research">query image, image data, target image</data>
-    </node>
-    <node id="Donald German">
+    <node id="David Gilbert">
       <data key="affiliation">Nan</data>
-      <data key="research">Bayesian restoration, Gibbs distribution, stochastic relaxation</data>
+      <data key="research">PARLOG Translator</data>
     </node>
-    <node id="Rafael A. Irizarry">
-      <data key="affiliation">Department of Biostatistics, Johns Hopkins University, 615 N. Wolfe St E3035, Baltimore, MD 21218, USA</data>
-      <data key="research">supplementary data, Supplementary information, ChIPx data</data>
+    <node id="Jian Feng">
+      <data key="affiliation">Airforce Military Representative Office Resident in Shenyang Region, PR China</data>
+      <data key="research">different mode, optimal control method, lubrication condition</data>
     </node>
-    <edge source="Raimond L. Winslow" target="Daniel Q. Naiman">
+    <node id="Bahman Afsari">
+      <data key="affiliation">Nan</data>
+      <data key="research">binary classifier, k disjoint pair, Automated Micro-Array Classification Challenge</data>
+    </node>
+    <node id="Carey E. Priebe">
+      <data key="affiliation">Naval Ocean Systems Center, Code 421 San Diego, Ca. 92152 USA</data>
+      <data key="research">computer network data, data fusion, data point</data>
+    </node>
+    <edge source="D. Geman" target="Aik Choon Tan">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Raimond L. Winslow" target="Lei Xu">
+    <edge source="D. Geman" target="Lei Xu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Raimond L. Winslow" target="Aik Choon Tan">
+    <edge source="D. Geman" target="Raimond L. Winslow">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Raimond L. Winslow" target="D. Geman">
+    <edge source="D. Geman" target="Michael F. Ochs">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Daniel Q. Naiman" target="Giovanni Parmigiani">
+    <edge source="D. Geman" target="Daniel Q. Naiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. C. Spall" target="Daniel Q. Naiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. C. Spall" target="Nathan L. Kleinman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael F. Ochs" target="Giovanni Parmigiani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald German" target="Bahman Afsari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald German" target="Aik Choon Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald German" target="Daniel Q. Naiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giovanni Parmigiani" target="Daniel Q. Naiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giovanni Parmigiani" target="Rafael A. Irizarry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giovanni Parmigiani" target="Leslie M. Cope">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoling Wu" target="Daniel Q. Naiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Q. Naiman" target="Raimond L. Winslow">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Daniel Q. Naiman" target="R E Stone">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Daniel Q. Naiman" target="J. C. Spall">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Daniel Q. Naiman" target="Xiaoling Wu">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Daniel Q. Naiman" target="Henry P. Wynn">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Daniel Q. Naiman" target="Donald German">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Daniel Q. Naiman" target="Bahman Afsari">
@@ -129,9 +153,6 @@
     <edge source="Daniel Q. Naiman" target="Carey E. Priebe">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Daniel Q. Naiman" target="D. Geman">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Daniel Q. Naiman" target="Aik Choon Tan">
       <data key="relation">collaborate</data>
     </edge>
@@ -141,46 +162,25 @@
     <edge source="Daniel Q. Naiman" target="Jian Feng">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="David Gilbert" target="Aik Choon Tan">
+    <edge source="Lei Xu" target="Aik Choon Tan">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="J. C. Spall" target="Nathan L. Kleinman">
+    <edge source="Lei Xu" target="Raimond L. Winslow">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aik Choon Tan" target="Donald German">
+    <edge source="Raimond L. Winslow" target="Aik Choon Tan">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Aik Choon Tan" target="Lei Xu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Aik Choon Tan" target="D. Geman">
+    <edge source="Aik Choon Tan" target="David Gilbert">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Aik Choon Tan" target="Bahman Afsari">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Lei Xu" target="D. Geman">
+    <edge source="Rafael A. Irizarry" target="Leslie M. Cope">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bahman Afsari" target="Donald German">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Giovanni Parmigiani" target="Michael F. Ochs">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Giovanni Parmigiani" target="Rafael A. Irizarry">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Giovanni Parmigiani" target="Leslie M. Cope">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michael F. Ochs" target="D. Geman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Carey E. Priebe" target="Leslie M. Cope">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Leslie M. Cope" target="Rafael A. Irizarry">
+    <edge source="Leslie M. Cope" target="Carey E. Priebe">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

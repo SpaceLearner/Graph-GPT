@@ -1,48 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:54 2023
 # 
-J.C. Roh	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-M. Murthi	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-Jianxia Ning	2
-Bhaskar D. Rao	{'relation': 'collaborate'}
-Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
-Elettra Venosa	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-Chandra R. Murthy	2
-Ramesh Annavajjala	{'relation': 'collaborate'}
-Bhaskar D. Rao	{'relation': 'collaborate'}
-M. Wengler	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-R. Hegde	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-K. V. S. Hari	1
-Bhaskar D. Rao	{'relation': 'collaborate'}
-J. R. Zeidler	2
-Tara Javidi	{'relation': 'collaborate'}
-Bhaskar D. Rao	{'relation': 'collaborate'}
-Bhaskar D. Rao	10
-Tara Javidi	{'relation': 'collaborate'}
-Scott Makeig	{'relation': 'collaborate'}
-Emanuele Coviello	{'relation': 'collaborate'}
-Michele Zorzi	{'relation': 'collaborate'}
-Ramesh Annavajjala	{'relation': 'collaborate'}
-Joseph F. Murray	{'relation': 'collaborate'}
-Mohan M. Trivedi	{'relation': 'collaborate'}
-Srikanth V. Krishnamurthy	{'relation': 'collaborate'}
-Kjersti Engan	{'relation': 'collaborate'}
-Umit Yapanel	{'relation': 'collaborate'}
-Scott Makeig	0
-Srikanth V. Krishnamurthy	1
-Michele Zorzi	{'relation': 'collaborate'}
-Michele Zorzi	1
-Emanuele Coviello	{'relation': 'collaborate'}
-Ramesh Annavajjala	0
-Kjersti Engan	1
-Joseph F. Murray	{'relation': 'collaborate'}
-Emanuele Coviello	0
-Tara Javidi	0
-Umit Yapanel	0
-Joseph F. Murray	0
-Mohan M. Trivedi	0
+J. R. Zeidler	Tara Javidi	Bhaskar D. Rao
+Chandra R. Murthy	Ramesh Annavajjala	Bhaskar D. Rao
+Srikanth V. Krishnamurthy	Michele Zorzi	Bhaskar D. Rao	Jianxia Ning
+Umit Yapanel	Bhaskar D. Rao
+Ramesh Annavajjala	Bhaskar D. Rao
+Kjersti Engan	Joseph F. Murray	Bhaskar D. Rao
+M. Murthi	Bhaskar D. Rao
+Elettra Venosa	Bhaskar D. Rao
+Bhaskar D. Rao	Jianxia Ning	R. Hegde	Tara Javidi	Scott Makeig	Emanuele Coviello	K. V. S. Hari	Michele Zorzi	Joseph F. Murray	Mohan M. Trivedi	J.C. Roh	M. Wengler
+M. Wengler
+K. V. S. Hari
+Michele Zorzi	Emanuele Coviello
+R. Hegde
+Jianxia Ning
+Tara Javidi
+J.C. Roh
+Joseph F. Murray
+Emanuele Coviello
+Mohan M. Trivedi
+Scott Makeig

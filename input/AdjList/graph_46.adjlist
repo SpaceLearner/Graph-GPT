@@ -1,51 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Marcel Worring	2
-Alejandro James	{'relation': 'collaborate'}
-Nicu Sebe	{'relation': 'collaborate'}
-Chahab Nastar	1
-Alejandro James	{'relation': 'collaborate'}
-M. Lalmas	2
-Alejandro James	{'relation': 'collaborate'}
-Y. Volkovich	{'relation': 'collaborate'}
-Alexander C. Loui	1
-Alejandro James	{'relation': 'collaborate'}
-Ilkka Kivimäki	1
-Alejandro James	{'relation': 'collaborate'}
-Eduardo Ruiz	1
-Alejandro James	{'relation': 'collaborate'}
-F. Bonchi	1
-Alejandro James	{'relation': 'collaborate'}
-Barbara Poblete	2
-Alejandro James	{'relation': 'collaborate'}
-M. Mendoza	{'relation': 'collaborate'}
-Jérôme Picault	1
-Alejandro James	{'relation': 'collaborate'}
-Hugo Ortega	3
-Alejandro James	{'relation': 'collaborate'}
-Mark Tribe	{'relation': 'collaborate'}
-Pamela Jennings	{'relation': 'collaborate'}
-M. Mendoza	1
-Alejandro James	{'relation': 'collaborate'}
-Alejandro James	8
-Y. Volkovich	{'relation': 'collaborate'}
-Frank Nack	{'relation': 'collaborate'}
-Nicu Sebe	{'relation': 'collaborate'}
-Michael George Christel	{'relation': 'collaborate'}
-A. Del Bimbo	{'relation': 'collaborate'}
-J Miyazaki	{'relation': 'collaborate'}
-Mark Tribe	{'relation': 'collaborate'}
-Pamela Jennings	{'relation': 'collaborate'}
-A. Del Bimbo	2
-Frank Nack	{'relation': 'collaborate'}
-Pamela Jennings	{'relation': 'collaborate'}
-Nicu Sebe	0
-J Miyazaki	0
-Frank Nack	1
-Pamela Jennings	{'relation': 'collaborate'}
-Pamela Jennings	1
-Mark Tribe	{'relation': 'collaborate'}
-Mark Tribe	0
-Y. Volkovich	0
-Michael George Christel	0
+M. Lalmas	Alejandro James	Y. Volkovich
+Marcel Worring	Alejandro James	Nicu Sebe
+Hugo Ortega	Alejandro James	Mark Tribe	Pamela Jennings
+J Miyazaki	Alejandro James
+F. Bonchi	Alejandro James
+M. Mendoza	Alejandro James	Barbara Poblete
+Alexander C. Loui	Alejandro James
+Ilkka Kivimäki	Alejandro James
+Nicu Sebe	Alejandro James
+Barbara Poblete	Alejandro James
+Michael George Christel	Alejandro James
+A. Del Bimbo	Alejandro James	Frank Nack	Pamela Jennings
+Eduardo Ruiz	Alejandro James
+Frank Nack	Alejandro James	Pamela Jennings
+Pamela Jennings	Mark Tribe	Alejandro James
+Alejandro James	Chahab Nastar	Y. Volkovich	Jérôme Picault	Mark Tribe
+Mark Tribe
+Chahab Nastar
+Jérôme Picault
+Y. Volkovich

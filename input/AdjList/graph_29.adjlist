@@ -1,49 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:55 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:01 2023
 # 
-Sunghyun Cho	2
-Jue Wang	{'relation': 'collaborate'}
-Adam Finkelstein	{'relation': 'collaborate'}
-Jue Wang	19
-Hang Li	{'relation': 'collaborate'}
-Adam Finkelstein	{'relation': 'collaborate'}
-Fei-Yue Wang	{'relation': 'collaborate'}
-Liang Ding	{'relation': 'collaborate'}
-Hua Huang	{'relation': 'collaborate'}
-Norman P. Jouppi	{'relation': 'collaborate'}
-Andrew Howard	{'relation': 'collaborate'}
-Hongyu Zhang	{'relation': 'collaborate'}
-Shancang Li	{'relation': 'collaborate'}
-Suqing Han	{'relation': 'collaborate'}
-Shuming Tang	{'relation': 'collaborate'}
-Chang Tian	{'relation': 'collaborate'}
-Bingheng Lu	{'relation': 'collaborate'}
-Jia Chen	{'relation': 'collaborate'}
-Hsiao-Wuen Hon	{'relation': 'collaborate'}
-Bin Liu	{'relation': 'collaborate'}
-Shi-Min Hu	{'relation': 'collaborate'}
-Xiao-Shan Gao	{'relation': 'collaborate'}
-Jue Wang	{'relation': 'collaborate'}
-Hua Huang	1
-Fei-Yue Wang	{'relation': 'collaborate'}
-Adam Finkelstein	0
-Norman P. Jouppi	0
-Liang Ding	0
-Suqing Han	0
-Xiao-Shan Gao	0
-Chang Tian	0
-Hang Li	1
-Hsiao-Wuen Hon	{'relation': 'collaborate'}
-Hongyu Zhang	0
-Shi-Min Hu	1
-Bin Liu	{'relation': 'collaborate'}
-Shuming Tang	1
-Fei-Yue Wang	{'relation': 'collaborate'}
-Jia Chen	0
-Bingheng Lu	0
-Hsiao-Wuen Hon	0
-Bin Liu	1
-Fei-Yue Wang	{'relation': 'collaborate'}
-Fei-Yue Wang	0
-Shancang Li	0
-Andrew Howard	0
+Adam Finkelstein	Jue Wang	Sunghyun Cho
+Hsiao-Wuen Hon	Jue Wang	Hang Li
+Bin Liu	Jue Wang	Fei-Yue Wang	Shi-Min Hu
+Hang Li	Jue Wang
+Andrew Howard	Jue Wang
+Bingheng Lu	Jue Wang
+Shuming Tang	Fei-Yue Wang	Jue Wang
+Shancang Li	Jue Wang
+Fei-Yue Wang	Jue Wang	Hua Huang
+Hongyu Zhang	Jue Wang
+Chang Tian	Jue Wang
+Liang Ding	Jue Wang
+Hua Huang	Jue Wang
+Jue Wang	Norman P. Jouppi	Sunghyun Cho	Suqing Han	Jia Chen	Shi-Min Hu	Xiao-Shan Gao	Jue Wang
+Sunghyun Cho
+Norman P. Jouppi
+Shi-Min Hu
+Jia Chen
+Xiao-Shan Gao
+Suqing Han

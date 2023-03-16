@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Jill M. Sundie	3
-A. Schwarz	{'relation': 'collaborate'}
-Iris A. Junglas	{'relation': 'collaborate'}
-Wynne W. Chin	{'relation': 'collaborate'}
-Ronald T. Cenfetelli	1
-A. Schwarz	{'relation': 'collaborate'}
-S. Cabrera	3
-B. Jayatilaka	{'relation': 'collaborate'}
-M. Babik	{'relation': 'collaborate'}
-D. Benjamin	{'relation': 'collaborate'}
-Jinyoul Lee	1
-B. Jayatilaka	{'relation': 'collaborate'}
-N L Johnson	2
-Wynne W. Chin	{'relation': 'collaborate'}
-A. Schwarz	{'relation': 'collaborate'}
-D. Benjamin	2
-M. Babik	{'relation': 'collaborate'}
-B. Jayatilaka	{'relation': 'collaborate'}
-B. Jayatilaka	4
-A. Schwarz	{'relation': 'collaborate'}
-M. Babik	{'relation': 'collaborate'}
-Ted E. Lee	{'relation': 'collaborate'}
-R. A. Hirschheim	{'relation': 'collaborate'}
-M. Pohst	2
-A. Schwarz	{'relation': 'collaborate'}
-F. Diaz y Diaz	{'relation': 'collaborate'}
-Helen Kelley	2
-Susan A. Brown	{'relation': 'collaborate'}
-A. Schwarz	{'relation': 'collaborate'}
-R. A. Hirschheim	2
-A. Schwarz	{'relation': 'collaborate'}
-Richard J. Welke	{'relation': 'collaborate'}
-F. Diaz y Diaz	1
-A. Schwarz	{'relation': 'collaborate'}
-Norman A. Johnson	3
-Wynne W. Chin	{'relation': 'collaborate'}
-Iris A. Junglas	{'relation': 'collaborate'}
-A. Schwarz	{'relation': 'collaborate'}
-A. Schwarz	5
-Iris A. Junglas	{'relation': 'collaborate'}
-Tracey Rizzuto	{'relation': 'collaborate'}
-Susan A. Brown	{'relation': 'collaborate'}
-Richard J. Welke	{'relation': 'collaborate'}
-Wynne W. Chin	{'relation': 'collaborate'}
-M. Babik	0
-Wynne W. Chin	1
-Iris A. Junglas	{'relation': 'collaborate'}
-Richard J. Welke	0
-Iris A. Junglas	0
-Ted E. Lee	0
-Tracey Rizzuto	0
-Susan A. Brown	0
+B. Jayatilaka	A. Schwarz	M. Babik	S. Cabrera	Jinyoul Lee	Ted E. Lee	D. Benjamin	R. A. Hirschheim
+S. Cabrera	M. Babik	D. Benjamin
+M. Pohst	A. Schwarz	F. Diaz y Diaz
+A. Schwarz	Iris A. Junglas	Tracey Rizzuto	Susan A. Brown	Richard J. Welke	Helen Kelley	R. A. Hirschheim	Jill M. Sundie	Ronald T. Cenfetelli	F. Diaz y Diaz	N L Johnson	Norman A. Johnson	Wynne W. Chin
+Wynne W. Chin	Norman A. Johnson	N L Johnson	Iris A. Junglas	Jill M. Sundie
+Jinyoul Lee
+Norman A. Johnson	Iris A. Junglas
+Susan A. Brown	Helen Kelley
+Jill M. Sundie	Iris A. Junglas
+F. Diaz y Diaz
+Helen Kelley
+Iris A. Junglas
+N L Johnson
+Ted E. Lee
+Richard J. Welke	R. A. Hirschheim
+D. Benjamin	M. Babik
+R. A. Hirschheim
+Tracey Rizzuto
+M. Babik
+Ronald T. Cenfetelli

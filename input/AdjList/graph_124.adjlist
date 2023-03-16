@@ -1,48 +1,21 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Woan Sun Chang	3
-Robert Simon	{'relation': 'collaborate'}
-Boris Jukic	{'relation': 'collaborate'}
-J. Mark Pullen	{'relation': 'collaborate'}
-Bo Zhang	2
-Robert Simon	{'relation': 'collaborate'}
-Hakan Aydin	{'relation': 'collaborate'}
-Taieb F. Znati	3
-Don Krieger	{'relation': 'collaborate'}
-Robert Simon	{'relation': 'collaborate'}
-Robert J. Sclabassi	{'relation': 'collaborate'}
-Hakan Aydin	1
-Robert Simon	{'relation': 'collaborate'}
-J. Mark Pullen	2
-Chatchai Khunboa	{'relation': 'collaborate'}
-Robert Simon	{'relation': 'collaborate'}
-Chatchai Khunboa	1
-Robert Simon	{'relation': 'collaborate'}
-Robert J. Sclabassi	2
-Don Krieger	{'relation': 'collaborate'}
-Robert Simon	{'relation': 'collaborate'}
-A. K. Sood	3
-Padmavathi Mundur	{'relation': 'collaborate'}
-P. Mundur	{'relation': 'collaborate'}
-Robert Simon	{'relation': 'collaborate'}
-P. Mundur	1
-Robert Simon	{'relation': 'collaborate'}
-Irina Gerasimov	2
-Robert Simon	{'relation': 'collaborate'}
-Alexey Zhuravlev	{'relation': 'collaborate'}
-Alexey Zhuravlev	0
-Don Krieger	1
-Robert Simon	{'relation': 'collaborate'}
-Boris Jukic	1
-Robert Simon	{'relation': 'collaborate'}
-Leijun Huang	2
-Sanjeev Setia	{'relation': 'collaborate'}
-Robert Simon	{'relation': 'collaborate'}
-Padmavathi Mundur	1
-Robert Simon	{'relation': 'collaborate'}
-M. F. Abdulla	1
-Robert Simon	{'relation': 'collaborate'}
-Robert Simon	1
-Sanjeev Setia	{'relation': 'collaborate'}
-Sanjeev Setia	0
+Robert J. Sclabassi	Don Krieger	Taieb F. Znati	Robert Simon
+J. Mark Pullen	Chatchai Khunboa	Woan Sun Chang	Robert Simon
+Hakan Aydin	Robert Simon	Bo Zhang
+Sanjeev Setia	Leijun Huang	Robert Simon
+Boris Jukic	Woan Sun Chang	Robert Simon
+Chatchai Khunboa	Robert Simon
+M. F. Abdulla	Robert Simon
+Don Krieger	Taieb F. Znati	Robert Simon
+A. K. Sood	Padmavathi Mundur	P. Mundur	Robert Simon
+Leijun Huang	Robert Simon
+Alexey Zhuravlev	Irina Gerasimov
+Bo Zhang	Robert Simon
+P. Mundur	Robert Simon
+Robert Simon	Woan Sun Chang	Taieb F. Znati	Padmavathi Mundur	Irina Gerasimov
+Taieb F. Znati
+Woan Sun Chang
+Padmavathi Mundur
+Irina Gerasimov

@@ -1,66 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-Charles L. A. Clarke	4
-John S. Whissell	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Michael Terry	{'relation': 'collaborate'}
-Aaron Spaulding	3
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Will Haines	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Xing Dong Yang	3
-Pourang Irani	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Carl A. Gutwin	{'relation': 'collaborate'}
-Jennifer Gluck	1
-Andrea Bunt	{'relation': 'collaborate'}
-Pourang Irani	3
-Andrea Bunt	{'relation': 'collaborate'}
-Carl A. Gutwin	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	{'relation': 'collaborate'}
-John S. Whissell	3
-Andrea Bunt	{'relation': 'collaborate'}
-Michael Terry	{'relation': 'collaborate'}
-Benjamin Lafreniere	{'relation': 'collaborate'}
-Roberta M. Melvin	1
-Andrea Bunt	{'relation': 'collaborate'}
-Mirette Marzouk	3
-Edward Lank	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-George Labahn	{'relation': 'collaborate'}
-Benjamin Lafreniere	3
-Michael Terry	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Cristina Conati	2
-Giuseppe Carenini	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-George Labahn	3
-Andrea Bunt	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Edward Lank	{'relation': 'collaborate'}
-Giuseppe Carenini	1
-Andrea Bunt	{'relation': 'collaborate'}
-Edward Lank	3
-Richard Mann	{'relation': 'collaborate'}
-Andrea Bunt	{'relation': 'collaborate'}
-Michael Terry	{'relation': 'collaborate'}
-Will Haines	2
-Andrea Bunt	{'relation': 'collaborate'}
-Per-Ola Kristensson	{'relation': 'collaborate'}
-Michael Terry	2
-Andrea Bunt	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Per-Ola Kristensson	2
-Andrea Bunt	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	{'relation': 'collaborate'}
-Carl A. Gutwin	2
-Andrea Bunt	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	{'relation': 'collaborate'}
-Andrea Bunt	2
-Andrew J. G. Cockburn	{'relation': 'collaborate'}
-Richard Mann	{'relation': 'collaborate'}
-Andrew J. G. Cockburn	0
-Richard Mann	0
+Pourang Irani	Andrea Bunt	Xing Dong Yang	Carl A. Gutwin	Andrew J. G. Cockburn
+George Labahn	Andrea Bunt	Richard Mann	Edward Lank	Mirette Marzouk
+Will Haines	Andrea Bunt	Aaron Spaulding	Per-Ola Kristensson
+Mirette Marzouk	Edward Lank	Andrea Bunt
+Charles L. A. Clarke	John S. Whissell	Andrea Bunt	Benjamin Lafreniere	Michael Terry
+Xing Dong Yang	Andrea Bunt	Carl A. Gutwin
+Andrea Bunt	Per-Ola Kristensson	Carl A. Gutwin	Jennifer Gluck	Andrew J. G. Cockburn	John S. Whissell	Edward Lank	Richard Mann	Giuseppe Carenini	Michael Terry	Benjamin Lafreniere	Aaron Spaulding	Roberta M. Melvin	Cristina Conati
+Jennifer Gluck
+Giuseppe Carenini	Cristina Conati
+Benjamin Lafreniere	Michael Terry	Richard Mann	John S. Whissell
+Roberta M. Melvin
+Aaron Spaulding	Per-Ola Kristensson
+John S. Whissell	Michael Terry
+Edward Lank	Richard Mann	Michael Terry
+Michael Terry	Richard Mann
+Richard Mann
+Cristina Conati
+Andrew J. G. Cockburn	Carl A. Gutwin	Per-Ola Kristensson
+Per-Ola Kristensson
+Carl A. Gutwin

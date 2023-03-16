@@ -1,67 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:02 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-David C. Gibbon	2
-Yih-Farn Chen	{'relation': 'collaborate'}
-Daniel Stern	{'relation': 'collaborate'}
-Raghavan Pratiwadi	8
-Richard Ferri	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Yih-Farn Chen	{'relation': 'collaborate'}
-Balachander Krishnamurthy	{'relation': 'collaborate'}
-Ambalavaner Logenthiran	{'relation': 'collaborate'}
-David W. Thomas	{'relation': 'collaborate'}
-K. P. Vo	{'relation': 'collaborate'}
-John Snyder	{'relation': 'collaborate'}
-Emiliano Miluzzo	1
-Yih-Farn Chen	{'relation': 'collaborate'}
-Yih-Farn Chen	14
-C V. Ramamoorthy	{'relation': 'collaborate'}
-Richard Ferri	{'relation': 'collaborate'}
-Jeffrey Korn	{'relation': 'collaborate'}
-Thomas Ball	{'relation': 'collaborate'}
-Tim Souder	{'relation': 'collaborate'}
-Yennun Huang	{'relation': 'collaborate'}
-Greg Thompson	{'relation': 'collaborate'}
-K. P. Vo	{'relation': 'collaborate'}
-Daniel Stern	{'relation': 'collaborate'}
-Matti A. Hiltunen	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Balachander Krishnamurthy	{'relation': 'collaborate'}
-David W. Thomas	{'relation': 'collaborate'}
-John Snyder	{'relation': 'collaborate'}
-Yennun Huang	1
-K. P. Vo	{'relation': 'collaborate'}
-Greg Thompson	0
-C V. Ramamoorthy	0
-Daniel Stern	0
-Thomas Ball	0
-John Snyder	5
-Richard Ferri	{'relation': 'collaborate'}
-David W. Thomas	{'relation': 'collaborate'}
-K. P. Vo	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Balachander Krishnamurthy	{'relation': 'collaborate'}
-K. P. Vo	4
-Balachander Krishnamurthy	{'relation': 'collaborate'}
-David W. Thomas	{'relation': 'collaborate'}
-Richard Ferri	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Balachander Krishnamurthy	3
-David W. Thomas	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Richard Ferri	{'relation': 'collaborate'}
-David W. Thomas	3
-Richard Ferri	{'relation': 'collaborate'}
-Glenn Fowler	{'relation': 'collaborate'}
-Ambalavaner Logenthiran	{'relation': 'collaborate'}
-Glen Otero	1
-Richard Ferri	{'relation': 'collaborate'}
-Richard Ferri	1
-Glenn Fowler	{'relation': 'collaborate'}
-Ambalavaner Logenthiran	0
-Glenn Fowler	0
-Jeffrey Korn	1
-Tim Souder	{'relation': 'collaborate'}
-Matti A. Hiltunen	0
-Tim Souder	0
+John Snyder	Richard Ferri	David W. Thomas	K. P. Vo	Glenn Fowler	Balachander Krishnamurthy	Raghavan Pratiwadi	Yih-Farn Chen
+Yennun Huang	Yih-Farn Chen	K. P. Vo
+Richard Ferri	Raghavan Pratiwadi	Yih-Farn Chen	K. P. Vo	David W. Thomas	Balachander Krishnamurthy	Glen Otero	Glenn Fowler
+C V. Ramamoorthy	Yih-Farn Chen
+David W. Thomas	Balachander Krishnamurthy	K. P. Vo	Glenn Fowler	Ambalavaner Logenthiran	Yih-Farn Chen	Raghavan Pratiwadi
+Jeffrey Korn	Yih-Farn Chen	Tim Souder
+K. P. Vo	Yih-Farn Chen	Balachander Krishnamurthy	Glenn Fowler	Raghavan Pratiwadi
+Balachander Krishnamurthy	Raghavan Pratiwadi	Glenn Fowler	Yih-Farn Chen
+Daniel Stern	Yih-Farn Chen	David C. Gibbon
+Raghavan Pratiwadi	Glenn Fowler	Yih-Farn Chen	Ambalavaner Logenthiran
+Matti A. Hiltunen	Yih-Farn Chen
+Greg Thompson	Yih-Farn Chen
+Glenn Fowler	Yih-Farn Chen
+Ambalavaner Logenthiran
+Emiliano Miluzzo	Yih-Farn Chen
+Glen Otero
+David C. Gibbon	Yih-Farn Chen
+Thomas Ball	Yih-Farn Chen
+Yih-Farn Chen	Tim Souder
+Tim Souder

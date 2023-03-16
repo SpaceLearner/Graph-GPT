@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Donatello Conte">
+      <data key="affiliation">Dipt. di Ing. Elettron. e Ing. Inf., Fisciano, Italy</data>
+      <data key="research">experimental evaluation, novel method, proposed method</data>
+    </node>
+    <node id="Luc Brun">
+      <data key="affiliation">GREYC UMR CNRS 6072, 6 Boulevard du Maréchal Juin, 14050 Caen, Cedex, France</data>
+      <data key="research">combinatorial map, combinatorial pyramid, graph kernel</data>
+    </node>
+    <node id="Sébastien Fourey">
+      <data key="affiliation">GREYC Image – ENSICAEN, Caen cedex, France</data>
+      <data key="research">digital surface, digital topology, intersection number</data>
+    </node>
+    <node id="Alessia Saggese">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed approach, proposed system, visual word</data>
+    </node>
+    <node id="Jacques-Olivier Lachaud">
+      <data key="affiliation">University of Savoie, Chambéry</data>
+      <data key="research">digital contour, digital convexity, digital shape</data>
+    </node>
+    <node id="Guillaume Damiand">
+      <data key="affiliation">SIC, Futuroscope Chasseneuil, France</data>
+      <data key="research">topological map, homology generator, generalized map</data>
+    </node>
+    <node id="Jean-Pierre Braquelaire">
+      <data key="affiliation">Nan</data>
+      <data key="research">regular tree, star height problem</data>
+    </node>
+    <node id="Stéphanie Jehan-Besson">
+      <data key="affiliation">LIMOS UMR CNRS 6158, Université Blaise Pascal, Aubiere, France 63177</data>
+      <data key="research">region-based active contour, experimental result, evolution equation</data>
+    </node>
+    <node id="Olivier Lezoray">
+      <data key="affiliation">GREYC Laboratory (CNRS UMR 6072), Caen/France</data>
+      <data key="research">color watershed, weighted graph, proposed approach</data>
+    </node>
+    <node id="E. R. Hancock">
+      <data key="affiliation">Nan</data>
+      <data key="research">boundary curvature, boundary evolution front, boundary noise</data>
+    </node>
+    <node id="A. Deruyver">
+      <data key="affiliation">Nan</data>
+      <data key="research">first-order logic, refutational theorem prover, Ground TRS</data>
+    </node>
+    <node id="Francisco Escolano">
+      <data key="affiliation">Universidad de Alicante,Spain</data>
+      <data key="research">non-attributed graph, prototypical graph, graph matching</data>
+    </node>
+    <node id="Abderrahim Elmoataz">
+      <data key="affiliation">GREYC  UMR CNRS 6972, UCBN, Caen, France</data>
+      <data key="research">weighted graph, discrete regularization, image processing</data>
+    </node>
+    <node id="David Tschumperlé">
+      <data key="affiliation">GREYC (CNRS UMR 6072), Caen Cedex, France 14050</data>
+      <data key="research">diffusion PDE, color image, multi-valued image</data>
+    </node>
+    <node id="Sebastien Bougleux">
+      <data key="affiliation">GREYC CNRS UMR 6072, Université de Caen BasseNormandie, France</data>
+      <data key="research">weighted graph, discrete regularization framework, classical regularization theory</data>
+    </node>
+    <node id="Makoto Hasegawa">
+      <data key="affiliation">SHARP Corporation</data>
+      <data key="research">Device-independent imaging system, device-dependent imaging system, high-fidelity colorsAn imaging system</data>
+    </node>
+    <node id="Anne Vialard">
+      <data key="affiliation">LaBRI, University of Bordeaux 1, 351 cours de la Libération, 33405 Talence Cedex, France</data>
+      <data key="research">document image, binarization algorithm, digital line recognition</data>
+    </node>
+    <node id="Marinette Revenu">
+      <data key="affiliation">Laboratoire GREYC, CNRS, UMR, Caen, France</data>
+      <data key="research">medical image, image feature, image processing</data>
+    </node>
+    <node id="M. Duranton">
+      <data key="affiliation">NXP Semiconductors, Eindhoven, The Netherlands</data>
+      <data key="research">time-consistent video segmentation algorithm, motion information, region segmentation</data>
+    </node>
+    <node id="Andrea Torsello">
+      <data key="affiliation">Dipartimento di Scienze Ambientali, Informatica e Statistica  Universití Ca' Foscari Venezia, Italy</data>
+      <data key="research">proposed approach, game-theoretic approach, EM-like approach</data>
+    </node>
+    <edge source="Donatello Conte" target="Luc Brun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donatello Conte" target="Alessia Saggese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Francisco Escolano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Jean-Pierre Braquelaire">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Makoto Hasegawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="M. Duranton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Alessia Saggese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Sebastien Bougleux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Sébastien Fourey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="David Tschumperlé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Olivier Lezoray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Stéphanie Jehan-Besson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Abderrahim Elmoataz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Anne Vialard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="E. R. Hancock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Guillaume Damiand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="A. Deruyver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Andrea Torsello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Jacques-Olivier Lachaud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Luc Brun" target="Marinette Revenu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Lachaud" target="Guillaume Damiand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Lachaud" target="Olivier Lezoray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Lachaud" target="Anne Vialard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Pierre Braquelaire" target="Anne Vialard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphanie Jehan-Besson" target="M. Duranton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphanie Jehan-Besson" target="David Tschumperlé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stéphanie Jehan-Besson" target="Marinette Revenu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Lezoray" target="Sebastien Bougleux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Lezoray" target="David Tschumperlé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier Lezoray" target="Abderrahim Elmoataz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. R. Hancock" target="Andrea Torsello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. R. Hancock" target="Francisco Escolano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Francisco Escolano" target="Andrea Torsello">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abderrahim Elmoataz" target="Sebastien Bougleux">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abderrahim Elmoataz" target="Marinette Revenu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Tschumperlé" target="M. Duranton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Tschumperlé" target="Marinette Revenu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marinette Revenu" target="M. Duranton">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

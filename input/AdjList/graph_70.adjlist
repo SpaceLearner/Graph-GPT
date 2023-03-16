@@ -1,64 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:03 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-M. Nagashima	7
-H. Nishino	{'relation': 'collaborate'}
-S. Murakami	{'relation': 'collaborate'}
-K. Matsushita	{'relation': 'collaborate'}
-H. Wada	{'relation': 'collaborate'}
-K. Maruyama	{'relation': 'collaborate'}
-T. Saito	{'relation': 'collaborate'}
-T. Okamoto	{'relation': 'collaborate'}
-M. Tanaka	3
-Yoshihiro Miyamoto	{'relation': 'collaborate'}
-H. Nishino	{'relation': 'collaborate'}
-K. Ozaki	{'relation': 'collaborate'}
-T. Okamoto	5
-S. Murakami	{'relation': 'collaborate'}
-T. Saito	{'relation': 'collaborate'}
-K. Maruyama	{'relation': 'collaborate'}
-H. Nishino	{'relation': 'collaborate'}
-H. Wada	{'relation': 'collaborate'}
-H. Wada	8
-Michihiro Hirai	{'relation': 'collaborate'}
-S. Ma	{'relation': 'collaborate'}
-H. Murayama	{'relation': 'collaborate'}
-H. Nishino	{'relation': 'collaborate'}
-T. Saito	{'relation': 'collaborate'}
-K. Matsushita	{'relation': 'collaborate'}
-K. Maruyama	{'relation': 'collaborate'}
-S. Murakami	{'relation': 'collaborate'}
-T. Saito	3
-K. Maruyama	{'relation': 'collaborate'}
-S. Murakami	{'relation': 'collaborate'}
-H. Nishino	{'relation': 'collaborate'}
-H. Murayama	0
-T. Maruyama	1
-T. Fujimura	{'relation': 'collaborate'}
-T. Nakagawa	3
-T. Fujimura	{'relation': 'collaborate'}
-S. Okuda	{'relation': 'collaborate'}
-H. Nishino	{'relation': 'collaborate'}
-H. Nishino	7
-T. Fujimura	{'relation': 'collaborate'}
-Yoshihiro Miyamoto	{'relation': 'collaborate'}
-S. Naka	{'relation': 'collaborate'}
-K. Maruyama	{'relation': 'collaborate'}
-S. Murakami	{'relation': 'collaborate'}
-S. Okuda	{'relation': 'collaborate'}
-K. Ozaki	{'relation': 'collaborate'}
-K. Matsushita	0
-S. Murakami	1
-K. Maruyama	{'relation': 'collaborate'}
-S. Ma	0
-K. Maruyama	0
-Yoshihiro Miyamoto	1
-K. Ozaki	{'relation': 'collaborate'}
-K. Ozaki	0
-M. Kamimura	1
-T. Fujimura	{'relation': 'collaborate'}
-S. Okuda	1
-T. Fujimura	{'relation': 'collaborate'}
-T. Fujimura	0
-Michihiro Hirai	0
-S. Naka	0
+S. Okuda	T. Nakagawa	T. Fujimura	H. Nishino
+M. Kamimura	T. Fujimura
+K. Ozaki	Yoshihiro Miyamoto	M. Tanaka	H. Nishino
+M. Tanaka	Yoshihiro Miyamoto	H. Nishino
+M. Nagashima	H. Nishino	S. Murakami	K. Matsushita	H. Wada	K. Maruyama	T. Saito	T. Okamoto
+K. Matsushita	H. Wada
+T. Okamoto	S. Murakami	T. Saito	K. Maruyama	H. Nishino	H. Wada
+T. Fujimura	T. Maruyama	H. Nishino	T. Nakagawa
+Yoshihiro Miyamoto	H. Nishino
+K. Maruyama	T. Saito	H. Nishino	S. Murakami	H. Wada
+S. Murakami	H. Nishino	T. Saito	H. Wada
+S. Ma	H. Wada
+T. Nakagawa	H. Nishino
+T. Maruyama
+H. Murayama	H. Wada
+S. Naka	H. Nishino
+H. Wada	Michihiro Hirai	H. Nishino	T. Saito
+Michihiro Hirai
+H. Nishino	T. Saito
+T. Saito

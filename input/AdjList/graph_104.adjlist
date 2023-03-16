@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:14 2023
 # 
-Yoshihiro Okada	2
-H. Fujisawa	{'relation': 'collaborate'}
-Seong-Whan Lee	{'relation': 'collaborate'}
-T. Hisamitsu	2
-H. Fujisawa	{'relation': 'collaborate'}
-K. Marukawa	{'relation': 'collaborate'}
-Cheng-Lin Liu	5
-Sriharsha Veeramachaneni	{'relation': 'collaborate'}
-H. Fujisawa	{'relation': 'collaborate'}
-George Nagy	{'relation': 'collaborate'}
-Kazuki Nakashima	{'relation': 'collaborate'}
-M. Cheriet	{'relation': 'collaborate'}
-R. Mine	1
-H. Fujisawa	{'relation': 'collaborate'}
-Éric Anquetil	2
-M. Cheriet	{'relation': 'collaborate'}
-Guy Lorette	{'relation': 'collaborate'}
-Guy Lorette	3
-H. Fujisawa	{'relation': 'collaborate'}
-Mounim A. El-Yacoubi	{'relation': 'collaborate'}
-M. Cheriet	{'relation': 'collaborate'}
-M. Cheriet	2
-H. Fujisawa	{'relation': 'collaborate'}
-Mounim A. El-Yacoubi	{'relation': 'collaborate'}
-H. Ikeda	2
-H. Fujisawa	{'relation': 'collaborate'}
-M. Ohki	{'relation': 'collaborate'}
-Kazuki Nakashima	1
-H. Fujisawa	{'relation': 'collaborate'}
-Mounim A. El-Yacoubi	1
-H. Fujisawa	{'relation': 'collaborate'}
-H. Fujisawa	9
-Yusuke Matsunaga	{'relation': 'collaborate'}
-K. Marukawa	{'relation': 'collaborate'}
-George Nagy	{'relation': 'collaborate'}
-Robert E. Frederking	{'relation': 'collaborate'}
-Seong-Whan Lee	{'relation': 'collaborate'}
-M. Ohki	{'relation': 'collaborate'}
-Jairo Rocha	{'relation': 'collaborate'}
-Sriharsha Veeramachaneni	{'relation': 'collaborate'}
-L Kerschberg	{'relation': 'collaborate'}
-Yusuke Matsunaga	0
-Robert E. Frederking	0
-L Kerschberg	0
-George Nagy	1
-Sriharsha Veeramachaneni	{'relation': 'collaborate'}
-Jairo Rocha	0
-Seong-Whan Lee	0
-Sriharsha Veeramachaneni	0
-K. Marukawa	0
-M. Ohki	0
+Robert E. Frederking	H. Fujisawa
+Mounim A. El-Yacoubi	H. Fujisawa	Guy Lorette	M. Cheriet
+Éric Anquetil	M. Cheriet	Guy Lorette
+K. Marukawa	H. Fujisawa	T. Hisamitsu
+M. Cheriet	H. Fujisawa	Cheng-Lin Liu	Guy Lorette
+Yusuke Matsunaga	H. Fujisawa
+Cheng-Lin Liu	Sriharsha Veeramachaneni	H. Fujisawa	George Nagy	Kazuki Nakashima
+Seong-Whan Lee	H. Fujisawa	Yoshihiro Okada
+H. Ikeda	H. Fujisawa	M. Ohki
+M. Ohki	H. Fujisawa
+Jairo Rocha	H. Fujisawa
+Guy Lorette	H. Fujisawa
+Kazuki Nakashima	H. Fujisawa
+R. Mine	H. Fujisawa
+Yoshihiro Okada	H. Fujisawa
+T. Hisamitsu	H. Fujisawa
+L Kerschberg	H. Fujisawa
+Sriharsha Veeramachaneni	H. Fujisawa	George Nagy
+H. Fujisawa	George Nagy
+George Nagy

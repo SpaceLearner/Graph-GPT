@@ -1,68 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-Amit Dhurandhar	1
-Alin Dobra	{'relation': 'collaborate'}
-Tamer Kahveci	5
-Abhijit Pol	{'relation': 'collaborate'}
-S. Ranka	{'relation': 'collaborate'}
-Alin Dobra	{'relation': 'collaborate'}
-Christopher Jermaine	{'relation': 'collaborate'}
-Haitham Gabr	{'relation': 'collaborate'}
-Florin Rusu	4
-Alin Dobra	{'relation': 'collaborate'}
-Mingxi Wu	{'relation': 'collaborate'}
-Christopher Jermaine	{'relation': 'collaborate'}
-Fei Xu	{'relation': 'collaborate'}
-Johannes E. Gehrke	4
-David Kempe	{'relation': 'collaborate'}
-Minos N. Garofalakis	{'relation': 'collaborate'}
-Alin Dobra	{'relation': 'collaborate'}
-Rajeev Rastogi	{'relation': 'collaborate'}
-Fei Xu	3
-Alin Dobra	{'relation': 'collaborate'}
-Mingxi Wu	{'relation': 'collaborate'}
-Christopher Jermaine	{'relation': 'collaborate'}
-S. Ranka	4
-Laukik Chitnis	{'relation': 'collaborate'}
-Alin Dobra	{'relation': 'collaborate'}
-Christopher Jermaine	{'relation': 'collaborate'}
-Mingxi Wu	{'relation': 'collaborate'}
-Shantanu H. Joshi	4
-Christopher Jermaine	{'relation': 'collaborate'}
-Subramanian Arumugam	{'relation': 'collaborate'}
-Abhijit Pol	{'relation': 'collaborate'}
-Alin Dobra	{'relation': 'collaborate'}
-Christopher Jermaine	7
-Alin Dobra	{'relation': 'collaborate'}
-Abhijit Pol	{'relation': 'collaborate'}
-Minos N. Garofalakis	{'relation': 'collaborate'}
-Subramanian Arumugam	{'relation': 'collaborate'}
-Supriya Nirkhiwale	{'relation': 'collaborate'}
-Niketan Pansare	{'relation': 'collaborate'}
-Mingxi Wu	{'relation': 'collaborate'}
-Supriya Nirkhiwale	1
-Alin Dobra	{'relation': 'collaborate'}
-Mingxi Wu	1
-Alin Dobra	{'relation': 'collaborate'}
-Subramanian Arumugam	2
-Alin Dobra	{'relation': 'collaborate'}
-Abhijit Pol	{'relation': 'collaborate'}
-Alin Dobra	8
-Lixia Chen	{'relation': 'collaborate'}
-David Kempe	{'relation': 'collaborate'}
-Rajeev Rastogi	{'relation': 'collaborate'}
-Abhijit Pol	{'relation': 'collaborate'}
-Minos N. Garofalakis	{'relation': 'collaborate'}
-Laukik Chitnis	{'relation': 'collaborate'}
-Haitham Gabr	{'relation': 'collaborate'}
-Niketan Pansare	{'relation': 'collaborate'}
-Rajeev Rastogi	1
-Minos N. Garofalakis	{'relation': 'collaborate'}
-David Kempe	0
-Lixia Chen	0
-Laukik Chitnis	0
-Abhijit Pol	0
-Minos N. Garofalakis	0
-Haitham Gabr	0
-Niketan Pansare	0
+Tamer Kahveci	Abhijit Pol	S. Ranka	Alin Dobra	Christopher Jermaine	Haitham Gabr
+Alin Dobra	Supriya Nirkhiwale	Christopher Jermaine	Florin Rusu	Lixia Chen	David Kempe	Rajeev Rastogi	Abhijit Pol	Fei Xu	Minos N. Garofalakis	Mingxi Wu	Subramanian Arumugam	Laukik Chitnis	Haitham Gabr	Niketan Pansare	S. Ranka	Johannes E. Gehrke	Shantanu H. Joshi	Amit Dhurandhar
+Laukik Chitnis	S. Ranka
+Subramanian Arumugam	Shantanu H. Joshi	Christopher Jermaine	Abhijit Pol
+David Kempe	Johannes E. Gehrke
+Johannes E. Gehrke	Minos N. Garofalakis	Rajeev Rastogi
+Mingxi Wu	Florin Rusu	Fei Xu	S. Ranka	Christopher Jermaine
+Rajeev Rastogi	Minos N. Garofalakis
+Haitham Gabr
+Florin Rusu	Christopher Jermaine	Fei Xu
+Niketan Pansare	Christopher Jermaine
+Christopher Jermaine	Abhijit Pol	Shantanu H. Joshi	Minos N. Garofalakis	Supriya Nirkhiwale	S. Ranka	Fei Xu
+Lixia Chen
+Fei Xu
+Minos N. Garofalakis
+S. Ranka
+Supriya Nirkhiwale
+Abhijit Pol	Shantanu H. Joshi
+Shantanu H. Joshi
+Amit Dhurandhar

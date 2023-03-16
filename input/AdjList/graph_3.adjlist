@@ -1,53 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:48 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:52 2023
 # 
-J. Widmer	1
-Martin Mauve	{'relation': 'collaborate'}
-Holger Füβler	3
-Björn Scheuermann	{'relation': 'collaborate'}
-Marcel Busse	{'relation': 'collaborate'}
-Martin Mauve	{'relation': 'collaborate'}
-Thomas Lang	2
-Martin Mauve	{'relation': 'collaborate'}
-Holger Füßler	{'relation': 'collaborate'}
-Erzen Hyko	1
-Martin Mauve	{'relation': 'collaborate'}
-Jürgen Vogel	4
-Volker Hilt	{'relation': 'collaborate'}
-Jürgen Vogel	{'relation': 'collaborate'}
-Martin Mauve	{'relation': 'collaborate'}
-Dirk Farin	{'relation': 'collaborate'}
-Holger Füßler	2
-Martin Mauve	{'relation': 'collaborate'}
-Dieter Vollmer	{'relation': 'collaborate'}
-Daniel Jiang	2
-Rajeev Shorey	{'relation': 'collaborate'}
-Martin Mauve	{'relation': 'collaborate'}
-Bernd Lamparter	2
-Martin Mauve	{'relation': 'collaborate'}
-Marcel Busse	{'relation': 'collaborate'}
-Varsha Sadekar	1
-Martin Mauve	{'relation': 'collaborate'}
-Magnus Roos	2
-Martin Mauve	{'relation': 'collaborate'}
-Björn Scheuermann	{'relation': 'collaborate'}
-Marcel Busse	2
-Martin Mauve	{'relation': 'collaborate'}
-Björn Scheuermann	{'relation': 'collaborate'}
-Stefan Fischer	1
-Martin Mauve	{'relation': 'collaborate'}
-Dieter Vollmer	1
-Martin Mauve	{'relation': 'collaborate'}
-Andreas Barthels	1
-Martin Mauve	{'relation': 'collaborate'}
-Martin Mauve	5
-Frank Fitzek	{'relation': 'collaborate'}
-Volker Hilt	{'relation': 'collaborate'}
-Dirk Farin	{'relation': 'collaborate'}
-Björn Scheuermann	{'relation': 'collaborate'}
-Rajeev Shorey	{'relation': 'collaborate'}
-Volker Hilt	0
-Dirk Farin	0
-Rajeev Shorey	0
-Frank Fitzek	0
-Björn Scheuermann	0
+Volker Hilt	Jürgen Vogel	Martin Mauve
+Thomas Lang	Martin Mauve	Holger Füßler
+Holger Füβler	Björn Scheuermann	Marcel Busse	Martin Mauve
+Dirk Farin	Martin Mauve	Jürgen Vogel
+Stefan Fischer	Martin Mauve
+Varsha Sadekar	Martin Mauve
+Erzen Hyko	Martin Mauve
+Bernd Lamparter	Martin Mauve	Marcel Busse
+Martin Mauve	Andreas Barthels	Frank Fitzek	J. Widmer	Dieter Vollmer	Magnus Roos	Holger Füßler	Björn Scheuermann	Marcel Busse	Rajeev Shorey	Daniel Jiang	Jürgen Vogel
+Björn Scheuermann	Magnus Roos	Marcel Busse
+Holger Füßler	Dieter Vollmer
+J. Widmer
+Marcel Busse
+Rajeev Shorey	Daniel Jiang
+Daniel Jiang
+Andreas Barthels
+Jürgen Vogel	Jürgen Vogel
+Frank Fitzek
+Magnus Roos
+Dieter Vollmer

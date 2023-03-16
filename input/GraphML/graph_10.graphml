@@ -4,13 +4,33 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Gyana Parija">
-      <data key="affiliation">IBM Research, India, New Delhi</data>
-      <data key="research">case study, business problem, decision problem</data>
+    <node id="S. S. Margulies">
+      <data key="affiliation">Department of Mathematics, Pennsylvania State University, State College, Pennsylvania 16802</data>
+      <data key="research">CG algorithm, postural change, healthy subject</data>
     </node>
-    <node id="Benjamin McClosky">
-      <data key="affiliation">Columbia University, New York, NY, USA</data>
-      <data key="research">stable set polytope, co-2-plex polynomial, cohesive subgraphs</data>
+    <node id="Xiaoyan Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">AP clustering, clustering algorithm, effective clustering algorithm</data>
+    </node>
+    <node id="Sarah S. Lam">
+      <data key="affiliation">State University of New York at Binghamton</data>
+      <data key="research">group intelligence, group size, indirect collaborative evolution</data>
+    </node>
+    <node id="S. Butenko">
+      <data key="affiliation">Department of Industrial Engineering, Texas A&amp;M University, USA 77843</data>
+      <data key="research">clique relaxation, maximum independent set problem, maximum independent set</data>
+    </node>
+    <node id="Chao Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Density Maximization, many-to-many object correspondence, Density MaximizationGraph matching</data>
+    </node>
+    <node id="Illya V. Hicks">
+      <data key="affiliation">Computational and Applied Mathematics, Rice University, Houston, Texas 770051892</data>
+      <data key="research">branch decomposition, optimal branch decomposition, NP-hard problem</data>
+    </node>
+    <node id="Mohan V. Kalkunte">
+      <data key="affiliation">Nan</data>
+      <data key="research">alternative design, robotic assembly cell</data>
     </node>
     <node id="J. Ma">
       <data key="affiliation">University of Waterloo, Waterloo, ON, Canada</data>
@@ -20,125 +40,69 @@
       <data key="affiliation">SUNY Binghamton SSIE</data>
       <data key="research">processing time, product failure, flow time</data>
     </node>
-    <node id="Mohan V. Kalkunte">
-      <data key="affiliation">Nan</data>
-      <data key="research">alternative design, robotic assembly cell</data>
+    <node id="Ameya R. Agnihotri">
+      <data key="affiliation">CSD</data>
+      <data key="research">placement problem, placement tool Feng Shui, mixed block placement</data>
     </node>
     <node id="Patrick H. Madden">
       <data key="affiliation">CSD</data>
       <data key="research">circuit placement, placement contest, placement problem</data>
     </node>
-    <node id="Sarah S. Lam">
-      <data key="affiliation">State University of New York at Binghamton</data>
-      <data key="research">group intelligence, group size, indirect collaborative evolution</data>
+    <node id="Donglin Liang">
+      <data key="affiliation">Department of Industrial and Systems Engineering, Texas A&amp;M University, TAMUS 3131, College Station, TX 778433131, USA</data>
+      <data key="research">data-flow analysis, memory location, equivalence analysis</data>
     </node>
-    <node id="Balabhaskar Balasundaram">
-      <data key="affiliation">School of Industrial Engineering and Management, Oklahoma State University, Stillwater, Oklahoma 74078</data>
-      <data key="research">maximum independent set problem, binary local maximum, combinatorial optimization problem</data>
-    </node>
-    <node id="W E Wilhelm">
-      <data key="affiliation">Department of Industrial Engineering, Texas A&amp;M University, TAMUS 3131, College Station, Texas 778433131</data>
-      <data key="research">column generation, three-stage approach, computational test</data>
-    </node>
-    <node id="Chao Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">Density Maximization, many-to-many object correspondence, Density MaximizationGraph matching</data>
-    </node>
-    <node id="S. Butenko">
-      <data key="affiliation">Department of Industrial Engineering, Texas A&amp;M University, USA 77843</data>
-      <data key="research">clique relaxation, maximum independent set problem, maximum independent set</data>
-    </node>
-    <node id="Charles R. Cash">
-      <data key="affiliation">ANSER Corporation, Arlington, VA</data>
-      <data key="research">cell design, variance reduction technique, Pre-determined cell performance measure</data>
-    </node>
-    <node id="S. S. Margulies">
-      <data key="affiliation">Department of Mathematics, Pennsylvania State University, State College, Pennsylvania 16802</data>
-      <data key="research">CG algorithm, postural change, healthy subject</data>
-    </node>
-    <node id="Mario Cesar Velez Gallego">
-      <data key="affiliation">Departamento de Ingeniería de Producción, Universidad EAFIT, Carrera 49, 7 sur 50, Medellín, Colombia</data>
-      <data key="research">batch processing time, batch ready time, identical batch processing machine</data>
-    </node>
-    <node id="Xiaoyan Zhu">
-      <data key="affiliation">Nan</data>
-      <data key="research">AP clustering, clustering algorithm, effective clustering algorithm</data>
-    </node>
-    <node id="Illya V. Hicks">
-      <data key="affiliation">Computational and Applied Mathematics, Rice University, Houston, Texas 770051892</data>
-      <data key="research">branch decomposition, optimal branch decomposition, NP-hard problem</data>
+    <node id="Gyana Parija">
+      <data key="affiliation">IBM Research, India, New Delhi</data>
+      <data key="research">case study, business problem, decision problem</data>
     </node>
     <node id="Purushothaman Damodaran">
       <data key="affiliation">Department of Industrial and Systems Engineering, Northern Illinois University, DeKalb, IL 60115, USA</data>
       <data key="research">processing time, longest processing time, batch processing machine</data>
     </node>
+    <node id="W E Wilhelm">
+      <data key="affiliation">Department of Industrial Engineering, Texas A&amp;M University, TAMUS 3131, College Station, Texas 778433131</data>
+      <data key="research">column generation, three-stage approach, computational test</data>
+    </node>
+    <node id="Charles R. Cash">
+      <data key="affiliation">ANSER Corporation, Arlington, VA</data>
+      <data key="research">cell design, variance reduction technique, Pre-determined cell performance measure</data>
+    </node>
+    <node id="Benjamin McClosky">
+      <data key="affiliation">Columbia University, New York, NY, USA</data>
+      <data key="research">stable set polytope, co-2-plex polynomial, cohesive subgraphs</data>
+    </node>
+    <node id="Balabhaskar Balasundaram">
+      <data key="affiliation">School of Industrial Engineering and Management, Oklahoma State University, Stillwater, Oklahoma 74078</data>
+      <data key="research">maximum independent set problem, binary local maximum, combinatorial optimization problem</data>
+    </node>
+    <node id="Mario Cesar Velez Gallego">
+      <data key="affiliation">Departamento de Ingeniería de Producción, Universidad EAFIT, Carrera 49, 7 sur 50, Medellín, Colombia</data>
+      <data key="research">batch processing time, batch ready time, identical batch processing machine</data>
+    </node>
     <node id="Jonathan C. Smith">
       <data key="affiliation">Department of Industrial and Systems Engineering, University of Florida, Gainesville, USA</data>
       <data key="research">edge-partition problem, filter placement problem, master problem</data>
     </node>
-    <node id="Ameya R. Agnihotri">
-      <data key="affiliation">CSD</data>
-      <data key="research">placement problem, placement tool Feng Shui, mixed block placement</data>
-    </node>
-    <node id="Donglin Liang">
-      <data key="affiliation">Department of Industrial and Systems Engineering, Texas A&amp;M University, TAMUS 3131, College Station, TX 778433131, USA</data>
-      <data key="research">data-flow analysis, memory location, equivalence analysis</data>
-    </node>
-    <edge source="Gyana Parija" target="W E Wilhelm">
+    <edge source="S. S. Margulies" target="Illya V. Hicks">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Benjamin McClosky" target="Illya V. Hicks">
+    <edge source="S. S. Margulies" target="J. Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="J. Ma" target="Illya V. Hicks">
+    <edge source="Xiaoyan Zhu" target="W E Wilhelm">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="J. Ma" target="S. S. Margulies">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Krishnaswami Srihari" target="Patrick H. Madden">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Krishnaswami Srihari" target="Purushothaman Damodaran">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Krishnaswami Srihari" target="Sarah S. Lam">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Krishnaswami Srihari" target="Ameya R. Agnihotri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mohan V. Kalkunte" target="W E Wilhelm">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Patrick H. Madden" target="Ameya R. Agnihotri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Patrick H. Madden" target="Purushothaman Damodaran">
+    <edge source="Sarah S. Lam" target="Krishnaswami Srihari">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Sarah S. Lam" target="Purushothaman Damodaran">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Balabhaskar Balasundaram" target="S. Butenko">
+    <edge source="S. Butenko" target="Balabhaskar Balasundaram">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Balabhaskar Balasundaram" target="Illya V. Hicks">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W E Wilhelm" target="Illya V. Hicks">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W E Wilhelm" target="Purushothaman Damodaran">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W E Wilhelm" target="Xiaoyan Zhu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W E Wilhelm" target="Donglin Liang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W E Wilhelm" target="Charles R. Cash">
+    <edge source="S. Butenko" target="Illya V. Hicks">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Chao Wang" target="Purushothaman Damodaran">
@@ -147,19 +111,55 @@
     <edge source="Chao Wang" target="Chao Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. Butenko" target="Illya V. Hicks">
+    <edge source="Illya V. Hicks" target="Benjamin McClosky">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. S. Margulies" target="Illya V. Hicks">
+    <edge source="Illya V. Hicks" target="J. Ma">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Mario Cesar Velez Gallego" target="Purushothaman Damodaran">
+    <edge source="Illya V. Hicks" target="W E Wilhelm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Illya V. Hicks" target="Balabhaskar Balasundaram">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Illya V. Hicks" target="Jonathan C. Smith">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Purushothaman Damodaran" target="Ameya R. Agnihotri">
+    <edge source="Mohan V. Kalkunte" target="W E Wilhelm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krishnaswami Srihari" target="Patrick H. Madden">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krishnaswami Srihari" target="Purushothaman Damodaran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Krishnaswami Srihari" target="Ameya R. Agnihotri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ameya R. Agnihotri" target="Purushothaman Damodaran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ameya R. Agnihotri" target="Patrick H. Madden">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Patrick H. Madden" target="Purushothaman Damodaran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donglin Liang" target="W E Wilhelm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gyana Parija" target="W E Wilhelm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Purushothaman Damodaran" target="W E Wilhelm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Purushothaman Damodaran" target="Mario Cesar Velez Gallego">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W E Wilhelm" target="Charles R. Cash">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

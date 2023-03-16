@@ -1,65 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:03 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-Rob Walstrom	6
-Carolina Cruz-Neira	{'relation': 'collaborate'}
-Feng Chen	{'relation': 'collaborate'}
-Jayme Hero	{'relation': 'collaborate'}
-Robert Weber	{'relation': 'collaborate'}
-Diane Rover	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Mats P. E. Heimdahl	1
-Robert Weber	{'relation': 'collaborate'}
-E. S. Wurtele	5
-Andy W. Fulmer	{'relation': 'collaborate'}
-Pan Du	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Carolina Cruz-Neira	{'relation': 'collaborate'}
-Ming Jia	{'relation': 'collaborate'}
-Carolina Cruz-Neira	5
-Feng Chen	{'relation': 'collaborate'}
-Robert Weber	{'relation': 'collaborate'}
-Diane Rover	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Jayme Hero	{'relation': 'collaborate'}
-Diane Rover	4
-Feng Chen	{'relation': 'collaborate'}
-Robert Weber	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Jayme Hero	{'relation': 'collaborate'}
-Jayme Hero	3
-Robert Weber	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Feng Chen	{'relation': 'collaborate'}
-Ming Jia	2
-Shaozhi Ye	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Thomas Rietz	2
-Robert Weber	{'relation': 'collaborate'}
-Robert Forsythe	{'relation': 'collaborate'}
-Shaozhi Ye	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Ruolin Liu	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Tian Xia	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Wengang Zhou	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Robert Forsythe	1
-Robert Weber	{'relation': 'collaborate'}
-Andy W. Fulmer	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-B Kosko	2
-Julie A. Dickerson	{'relation': 'collaborate'}
-Hyun Mun Kim	{'relation': 'collaborate'}
-Feng Chen	3
-Feng Chen	{'relation': 'collaborate'}
-Robert Weber	{'relation': 'collaborate'}
-Julie A. Dickerson	{'relation': 'collaborate'}
-Hyun Mun Kim	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Robert Weber	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Pan Du	1
-Julie A. Dickerson	{'relation': 'collaborate'}
-Julie A. Dickerson	0
+Shaozhi Ye	Ming Jia	Julie A. Dickerson
+Tian Xia	Julie A. Dickerson
+Carolina Cruz-Neira	Feng Chen	Rob Walstrom	E. S. Wurtele	Robert Weber	Diane Rover	Julie A. Dickerson	Jayme Hero
+E. S. Wurtele	Andy W. Fulmer	Pan Du	Julie A. Dickerson	Ming Jia
+Rob Walstrom	Feng Chen	Jayme Hero	Robert Weber	Diane Rover	Julie A. Dickerson
+Wengang Zhou	Julie A. Dickerson
+Diane Rover	Feng Chen	Robert Weber	Julie A. Dickerson	Jayme Hero
+Robert Weber	Jayme Hero	Julie A. Dickerson	Robert Forsythe	Feng Chen	Mats P. E. Heimdahl	Thomas Rietz
+B Kosko	Julie A. Dickerson	Hyun Mun Kim
+Jayme Hero	Julie A. Dickerson	Feng Chen
+Pan Du	Julie A. Dickerson
+Ming Jia	Julie A. Dickerson
+Hyun Mun Kim	Julie A. Dickerson
+Ruolin Liu	Julie A. Dickerson
+Feng Chen	Feng Chen	Julie A. Dickerson
+Robert Forsythe	Thomas Rietz
+Thomas Rietz
+Mats P. E. Heimdahl
+Andy W. Fulmer	Julie A. Dickerson
+Julie A. Dickerson

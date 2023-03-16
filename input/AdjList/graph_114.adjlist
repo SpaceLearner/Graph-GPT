@@ -1,45 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:17 2023
 # 
-T. Hoffmann	1
-Y. Zhang	{'relation': 'collaborate'}
-Yusheng Feng	1
-Y. Zhang	{'relation': 'collaborate'}
-Mike Cafarella	1
-Y. Zhang	{'relation': 'collaborate'}
-Z. Qiao	1
-Y. Zhang	{'relation': 'collaborate'}
-C. Sun	1
-Y. Zhang	{'relation': 'collaborate'}
-Mongi A. Abidi	1
-Y. Zhang	{'relation': 'collaborate'}
-R. A. Harris	5
-Y. Zhang	{'relation': 'collaborate'}
-O. Koudelka	{'relation': 'collaborate'}
-L. Erup	{'relation': 'collaborate'}
-L. Hao	{'relation': 'collaborate'}
-M. M. Savalani	{'relation': 'collaborate'}
-J. Poitevin	1
-Y. Zhang	{'relation': 'collaborate'}
-O. Koudelka	0
-L. Breslau	1
-Y. Zhang	{'relation': 'collaborate'}
-L. Hao	2
-Y. Zhang	{'relation': 'collaborate'}
-M. M. Savalani	{'relation': 'collaborate'}
-Ratul Mahajan	1
-Y. Zhang	{'relation': 'collaborate'}
-A. Stesmans	1
-Y. Zhang	{'relation': 'collaborate'}
-C. Hunt	1
-Y. Zhang	{'relation': 'collaborate'}
-M. M. Savalani	1
-Y. Zhang	{'relation': 'collaborate'}
-Y. Shen	1
-Y. Zhang	{'relation': 'collaborate'}
-Z. Wang	1
-Y. Zhang	{'relation': 'collaborate'}
-Haiyong Xie	1
-Y. Zhang	{'relation': 'collaborate'}
-Y. Zhang	0
-L. Erup	0
+C. Hunt	Y. Zhang
+C. Sun	Y. Zhang
+Ratul Mahajan	Y. Zhang
+O. Koudelka	R. A. Harris
+Z. Wang	Y. Zhang
+J. Poitevin	Y. Zhang
+Mongi A. Abidi	Y. Zhang
+Z. Qiao	Y. Zhang
+L. Breslau	Y. Zhang
+Y. Zhang	Mike Cafarella	Yusheng Feng	Haiyong Xie	Y. Shen	A. Stesmans	T. Hoffmann	R. A. Harris	L. Hao	M. M. Savalani
+Yusheng Feng
+L. Hao	M. M. Savalani	R. A. Harris
+Haiyong Xie
+T. Hoffmann
+A. Stesmans
+Mike Cafarella
+L. Erup	R. A. Harris
+M. M. Savalani	R. A. Harris
+Y. Shen
+R. A. Harris

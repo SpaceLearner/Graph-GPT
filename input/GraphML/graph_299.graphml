@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="C. L. Chiu">
+      <data key="affiliation">Department of Civil Engineering and Hydrotech Research Institute, National Taiwan University, No. 1, Sec. 4, Roosevelt Road, Taipei 106, Taiwan</data>
+      <data key="research">C3 element, C3 mini element, finite element method</data>
+    </node>
+    <node id="D. T. Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">group knowledge, concept map, map generator</data>
+    </node>
+    <node id="F. H. Pollak">
+      <data key="affiliation">Physics Department and New York State Center for Advanced Technology in Ultrafast Photonic Materials and Applications, Brooklyn College, City University of New York, Brooklyn, NY 11210 and Also at ...</data>
+      <data key="research">overgrown region, window region, n-dopant distribution</data>
+    </node>
+    <node id="R. H. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">injection molding, heat-generable mold insert, novel mold insert</data>
+    </node>
+    <node id="Norman J. M. Horing">
+      <data key="affiliation">Dept. of Phys. &amp; Eng. Phys., Stevens Inst. of Technol., Hoboken, NJ, USA</data>
+      <data key="research">dispersion relation, magnetic field, parallel magnetic fieldWe</data>
+    </node>
+    <node id="Mike Wojtowicz">
+      <data key="affiliation">Nan</data>
+      <data key="research">HEMT pseudomorphic channel material, InGaAs high electron mobility, pseudomorphic InGaAs</data>
+    </node>
+    <node id="K. H. Chen">
+      <data key="affiliation">Department of Information Management, Toko University, ChiaYi 631, Taiwan</data>
+      <data key="research">Trefftz method, biharmonic problem, fundamental solution</data>
+    </node>
+    <node id="D. L. Young">
+      <data key="affiliation">Department of Civil Engineering and Hydrotech Research Institute, National Taiwan University, Taipei 10617, Taiwan</data>
+      <data key="research">fundamental solution, numerical solution, numerical method</data>
+    </node>
+    <node id="M. Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">ohmic contact, reliable heterostructure GaAs material</data>
+    </node>
+    <node id="Y. T. Lee">
+      <data key="affiliation">Department of Harbour and River Engineering, National Taiwan Ocean University, Keelung 20224, Taiwan</data>
+      <data key="research">Trefftz method, biharmonic problem, fundamental solution</data>
+    </node>
+    <node id="C. S. Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">ohmic contact, reliable heterostructure GaAs material</data>
+    </node>
+    <node id="M. S. Goorsky">
+      <data key="affiliation">Nan</data>
+      <data key="research">InGaAs high electron mobility, Si epitaxial growth, Si selective epitaxial growth</data>
+    </node>
+    <node id="C. C. Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">Chemical Guide</data>
+    </node>
+    <node id="K. S. Kao">
+      <data key="affiliation">Assembly and Reliability Technology Department, Electronics and Optoelectronics Research Laboratories, Industrial Technology Research Institute, 195 Sec. 4, ChungHsing Road, Chutung, Hsinchu 3104 ...</data>
+      <data key="research">silicon chip, pure silicon interposer, silicon interposer</data>
+    </node>
+    <node id="C. D. Yang">
+      <data key="affiliation">Avant! Corp., Sunnyvale, CA</data>
+      <data key="research">Shortest rectilinear path, rectilinear obstacle, Rectilinear path</data>
+    </node>
+    <node id="T. H. Chen">
+      <data key="affiliation">Centre for Resource and Environmental Studies The Australian National University Canberra 0200, Australia</data>
+      <data key="research">Lagrangian modellingThe Australian monsoonal, cross-equatorial airflow, monsoonal cross-equatorial airflow</data>
+    </node>
+    <node id="Ying-Sheng Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">InGaAs high electron mobility, hotoreflectance characterization, room temperature</data>
+    </node>
+    <node id="Ren-Chin Cheng">
+      <data key="affiliation">Assembly and Reliability Technology Department, Electronics and Optoelectronics Research Laboratories, Industrial Technology Research Institute 195, Sec. 4, ChungHsing Road, Chutung, Hsinchu 3104 ...</data>
+      <data key="research">silicon chip, m-bump array, m-bump layout</data>
+    </node>
+    <node id="J. T. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Normalized quasi-static mass, multi-support motion problemsFinite element, new definition</data>
+    </node>
+    <node id="H. Kanber">
+      <data key="affiliation">Nan</data>
+      <data key="research">reliable heterostructure GaAs materialsOptimization, low pressure organometallic vapor, monolithic integrated circuit</data>
+    </node>
+    <edge source="C. L. Chiu" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. L. Chiu" target="D. L. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. T. Lee" target="C. C. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. T. Lee" target="C. D. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. T. Lee" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. H. Pollak" target="M. S. Goorsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. H. Pollak" target="Mike Wojtowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. H. Pollak" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. H. Pollak" target="Ying-Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. H. Chen" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norman J. M. Horing" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mike Wojtowicz" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mike Wojtowicz" target="Ying-Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mike Wojtowicz" target="M. S. Goorsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. H. Chen" target="J. T. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. H. Chen" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. H. Chen" target="Y. T. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. L. Young" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Hu" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Hu" target="H. Kanber">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. T. Lee" target="J. T. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. T. Lee" target="C. S. Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="C. C. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="Ren-Chin Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="H. Kanber">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="J. T. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="K. S. Kao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. S. Wu" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. S. Goorsky" target="Ying-Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. S. Goorsky" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. C. Lee" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. C. Lee" target="K. S. Kao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. C. Lee" target="Ren-Chin Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. S. Kao" target="Ren-Chin Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. S. Kao" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. D. Yang" target="T. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Chen" target="Ren-Chin Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Chen" target="Ying-Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

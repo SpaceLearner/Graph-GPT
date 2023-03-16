@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Angelos Stavrou">
+      <data key="affiliation">Nan</data>
+      <data key="research">cloud service, protection mechanism, MEERKATS Cloud Security ArchitectureMEERKATS</data>
+    </node>
+    <node id="A. Bell">
+      <data key="affiliation">Nan</data>
+      <data key="research">account word probability, content word, following word</data>
+    </node>
+    <node id="P. Muralt">
+      <data key="affiliation">Nan</data>
+      <data key="research">PZT thin film, ferroelectric thin film, thin film pyroelectric devicesIn-situ</data>
+    </node>
+    <node id="A. K. Sood">
+      <data key="affiliation">George Mason University, USA</data>
+      <data key="research">Computational Complexity, duplicate value, attribute column</data>
+    </node>
+    <node id="Keith Gallie">
+      <data key="affiliation">LSI Logic Corporation Milpitas, CA</data>
+      <data key="research">capture mode, clock treesScan, shift mode</data>
+    </node>
+    <node id="Y. L. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">interval multiobjective mixed integer, optimal planning, programming approach</data>
+    </node>
+    <node id="Y. Huang">
+      <data key="affiliation">Jiangsu Key Laboratory for NSLSCS, Institute of Mathematics, School of Mathematical Sciences, Nanjing Normal University, Nanjing, People's Republic of China 210097 and College of Math &amp; Statistics ...</data>
+      <data key="research">parallel block, SSOR multisplitting method, block H-matrix</data>
+    </node>
+    <node id="L K Dillon">
+      <data key="affiliation">Michigan State Univ., East Lansing</data>
+      <data key="research">concurrent system, graphical interval logic, Contract-based synchronization</data>
+    </node>
+    <node id="Randy Klingenberg">
+      <data key="affiliation">Mentor Graphics Corporation, Wilsonville, OR 97070, USA</data>
+      <data key="research">production test, nanometer design, diagnosis application</data>
+    </node>
+    <node id="Nagesh Tamarapalli">
+      <data key="affiliation">Mentor Graphics</data>
+      <data key="research">test view model, production test, test data volume</data>
+    </node>
+    <node id="David W. Walker">
+      <data key="affiliation">Department of Computer Science, Cardiff University, CF10 3XQ Cardiff, UK</data>
+      <data key="research">Grid service, Web service, optimal service</data>
+    </node>
+    <node id="R.J. J. Allan">
+      <data key="affiliation">CCLRC eScience Centre, UK</data>
+      <data key="research">Grid application, Grid system, grid portal</data>
+    </node>
+    <node id="P. Ryser">
+      <data key="affiliation">Nan</data>
+      <data key="research">thin film pyroelectric device</data>
+    </node>
+    <node id="P Zamperoni">
+      <data key="affiliation">Technische Univ. Braunschweig, Braunschweig, W. Germany</data>
+      <data key="research">Hilfe von dilatierten KernenHow, Performance AssessmentHierarchische Darstellung von, von Bin</data>
+    </node>
+    <node id="Sudhakar M. Reddy">
+      <data key="affiliation">Nan</data>
+      <data key="research">ATPG method, BIST Ready DesignsIn, BIST ready design</data>
+    </node>
+    <node id="S. Jajodia">
+      <data key="affiliation">George Mason University, Fairfax, VA</data>
+      <data key="research">Database Security, cyber security, data security</data>
+    </node>
+    <node id="G. Cao">
+      <data key="affiliation">Jiangsu Key Laboratory for NSLSCS, Institute of Mathematics, School of Mathematical Sciences, Nanjing Normal University, Nanjing, People's Republic of China 210097 and School of Economics and Mana ...</data>
+      <data key="research">parallel block, SSOR multisplitting method, block H-matrix</data>
+    </node>
+    <node id="Mohammed Tehranipoor">
+      <data key="affiliation">University of Connecticut</data>
+      <data key="research">test power, test vector, process variation</data>
+    </node>
+    <node id="Asif Akram">
+      <data key="affiliation">Nan</data>
+      <data key="research">product focus, actual practice, business practice</data>
+    </node>
+    <node id="Satish K. Tripathi">
+      <data key="affiliation">Indian Institute of Management, Lucknow, India</data>
+      <data key="research">maximal frequent set, maximal setsWe present MaxDomino, mining maximal set</data>
+    </node>
+    <edge source="Angelos Stavrou" target="S. Jajodia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Angelos Stavrou" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bell" target="P. Muralt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bell" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Bell" target="P. Ryser">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Muralt" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Muralt" target="P. Ryser">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. K. Sood" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keith Gallie" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. L. Chen" target="Y. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="L K Dillon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Asif Akram">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Sudhakar M. Reddy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Mohammed Tehranipoor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="G. Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="P. Ryser">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="David W. Walker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Nagesh Tamarapalli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Randy Klingenberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="Satish K. Tripathi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="P Zamperoni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="R.J. J. Allan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Huang" target="S. Jajodia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randy Klingenberg" target="Nagesh Tamarapalli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Walker" target="Asif Akram">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Walker" target="R.J. J. Allan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R.J. J. Allan" target="Asif Akram">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Jajodia" target="Satish K. Tripathi">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

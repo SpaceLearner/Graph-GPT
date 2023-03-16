@@ -1,72 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-Michele Rossi	5
-Qing Wei	{'relation': 'collaborate'}
-A. Zanella	{'relation': 'collaborate'}
-Christian Prehofer	{'relation': 'collaborate'}
-Jörg Widmer	{'relation': 'collaborate'}
-Michele Zorzi	{'relation': 'collaborate'}
-Chunhe Xia	2
-Qing Wei	{'relation': 'collaborate'}
-Jie Feng	{'relation': 'collaborate'}
-Chong Han	2
-Qing Wei	{'relation': 'collaborate'}
-Baoqing Jiang	{'relation': 'collaborate'}
-Qing Wei	16
-Paulo Mendes	{'relation': 'collaborate'}
-Yongqiang Zhang	{'relation': 'collaborate'}
-Jie Feng	{'relation': 'collaborate'}
-A. Zanella	{'relation': 'collaborate'}
-Mohsen Rais-Ghasem	{'relation': 'collaborate'}
-Martin Petitclerc	{'relation': 'collaborate'}
-Jörg Widmer	{'relation': 'collaborate'}
-Wolfgang Kellerer	{'relation': 'collaborate'}
-Norihiro Ishikawa	{'relation': 'collaborate'}
-Károly Farkas	{'relation': 'collaborate'}
-Michele Zorzi	{'relation': 'collaborate'}
-Christian Prehofer	{'relation': 'collaborate'}
-Baoqing Jiang	{'relation': 'collaborate'}
-Maximilian Michel	{'relation': 'collaborate'}
-Zoran Despotovic	{'relation': 'collaborate'}
-Bernhard Plattner	{'relation': 'collaborate'}
-Bernhard Plattner	3
-Károly Farkas	{'relation': 'collaborate'}
-Paulo Mendes	{'relation': 'collaborate'}
-Christian Prehofer	{'relation': 'collaborate'}
-Christian Prehofer	6
-Paulo Mendes	{'relation': 'collaborate'}
-Wolfgang Kellerer	{'relation': 'collaborate'}
-Michele Zorzi	{'relation': 'collaborate'}
-A. Zanella	{'relation': 'collaborate'}
-Károly Farkas	{'relation': 'collaborate'}
-Jörg Widmer	{'relation': 'collaborate'}
-Mohsen Rais-Ghasem	1
-Martin Petitclerc	{'relation': 'collaborate'}
-Jörg Widmer	6
-Zoran Despotovic	{'relation': 'collaborate'}
-Norihiro Ishikawa	{'relation': 'collaborate'}
-Maximilian Michel	{'relation': 'collaborate'}
-Wolfgang Kellerer	{'relation': 'collaborate'}
-Michele Zorzi	{'relation': 'collaborate'}
-A. Zanella	{'relation': 'collaborate'}
-Wolfgang Kellerer	3
-Zoran Despotovic	{'relation': 'collaborate'}
-Maximilian Michel	{'relation': 'collaborate'}
-Norihiro Ishikawa	{'relation': 'collaborate'}
-Maximilian Michel	2
-Norihiro Ishikawa	{'relation': 'collaborate'}
-Zoran Despotovic	{'relation': 'collaborate'}
-Michele Zorzi	1
-A. Zanella	{'relation': 'collaborate'}
-Norihiro Ishikawa	1
-Zoran Despotovic	{'relation': 'collaborate'}
-Martin Petitclerc	0
-Yongqiang Zhang	0
-Károly Farkas	1
-Paulo Mendes	{'relation': 'collaborate'}
-A. Zanella	0
-Zoran Despotovic	0
-Baoqing Jiang	0
-Paulo Mendes	0
-Jie Feng	0
+Bernhard Plattner	Károly Farkas	Paulo Mendes	Qing Wei	Christian Prehofer
+Jie Feng	Qing Wei	Chunhe Xia
+A. Zanella	Qing Wei	Michele Rossi	Christian Prehofer	Jörg Widmer	Michele Zorzi
+Wolfgang Kellerer	Qing Wei	Christian Prehofer	Zoran Despotovic	Maximilian Michel	Jörg Widmer	Norihiro Ishikawa
+Károly Farkas	Qing Wei	Christian Prehofer	Paulo Mendes
+Michele Zorzi	Christian Prehofer	Jörg Widmer	Qing Wei	Michele Rossi
+Maximilian Michel	Jörg Widmer	Norihiro Ishikawa	Qing Wei	Zoran Despotovic
+Mohsen Rais-Ghasem	Qing Wei	Martin Petitclerc
+Norihiro Ishikawa	Jörg Widmer	Qing Wei	Zoran Despotovic
+Zoran Despotovic	Jörg Widmer	Qing Wei
+Yongqiang Zhang	Qing Wei
+Baoqing Jiang	Qing Wei	Chong Han
+Martin Petitclerc	Qing Wei
+Jörg Widmer	Qing Wei	Christian Prehofer	Michele Rossi
+Michele Rossi	Qing Wei	Christian Prehofer
+Chunhe Xia	Qing Wei
+Christian Prehofer	Paulo Mendes	Qing Wei
+Qing Wei	Paulo Mendes	Chong Han
+Paulo Mendes
+Chong Han

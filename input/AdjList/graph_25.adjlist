@@ -1,49 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-Lieven De Lathauwer	1
-Bart De Moor	{'relation': 'collaborate'}
-J. Vanthienen	1
-Bart De Moor	{'relation': 'collaborate'}
-P. Sas	2
-W. Dewulf	{'relation': 'collaborate'}
-Hendrik Van Brussel	{'relation': 'collaborate'}
-Joris Vertommen	3
-Bart De Moor	{'relation': 'collaborate'}
-Dirk Cattrysse	{'relation': 'collaborate'}
-Joost R. Duflou	{'relation': 'collaborate'}
-Joost R. Duflou	9
-Bart De Moor	{'relation': 'collaborate'}
-B. Willems	{'relation': 'collaborate'}
-A. M. Habraken	{'relation': 'collaborate'}
-H. Sol	{'relation': 'collaborate'}
-Dirk Cattrysse	{'relation': 'collaborate'}
-P. Van Houtte	{'relation': 'collaborate'}
-J. Váncza	{'relation': 'collaborate'}
-W. Dewulf	{'relation': 'collaborate'}
-Bert Lauwers	{'relation': 'collaborate'}
-Bert Lauwers	0
-L. Vandenberghe	1
-Bart De Moor	{'relation': 'collaborate'}
-B. Willems	1
-W. Dewulf	{'relation': 'collaborate'}
-W. Dewulf	1
-Hendrik Van Brussel	{'relation': 'collaborate'}
-Bart De Moor	4
-Ruben Verlinden	{'relation': 'collaborate'}
-P Van Dooren	{'relation': 'collaborate'}
-Vincent J. Carey	{'relation': 'collaborate'}
-Maja Hadzic	{'relation': 'collaborate'}
-P Van Dooren	0
-Hendrik Van Brussel	0
-Ruben Verlinden	0
-A. M. Habraken	2
-H. Sol	{'relation': 'collaborate'}
-P. Van Houtte	{'relation': 'collaborate'}
-P. Van Houtte	1
-H. Sol	{'relation': 'collaborate'}
-H. Sol	0
-Vincent J. Carey	0
-Dirk Cattrysse	0
-Maja Hadzic	0
-J. Váncza	0
+Vincent J. Carey	Bart De Moor
+J. Váncza	Joost R. Duflou
+Maja Hadzic	Bart De Moor
+Hendrik Van Brussel	P. Sas	W. Dewulf
+P. Van Houtte	H. Sol	Joost R. Duflou	A. M. Habraken
+B. Willems	Joost R. Duflou	W. Dewulf
+Bart De Moor	Joost R. Duflou	Ruben Verlinden	J. Vanthienen	P Van Dooren	L. Vandenberghe	Lieven De Lathauwer	Joris Vertommen
+L. Vandenberghe
+Bert Lauwers	Joost R. Duflou
+H. Sol	Joost R. Duflou	A. M. Habraken
+Joris Vertommen	Dirk Cattrysse	Joost R. Duflou
+J. Vanthienen
+A. M. Habraken	Joost R. Duflou
+W. Dewulf	P. Sas	Joost R. Duflou
+Lieven De Lathauwer
+P. Sas
+Dirk Cattrysse	Joost R. Duflou
+P Van Dooren
+Ruben Verlinden
+Joost R. Duflou

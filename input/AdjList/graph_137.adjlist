@@ -1,46 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:15 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-X. D. Fang	1
-A. Basu	{'relation': 'collaborate'}
-Joshua R. Smith	1
-A. Basu	{'relation': 'collaborate'}
-Sandipan Dandapat	1
-A. Basu	{'relation': 'collaborate'}
-A. Basu	16
-T. Nayak	{'relation': 'collaborate'}
-Lijun Yin	{'relation': 'collaborate'}
-R. Mall	{'relation': 'collaborate'}
-M. H. Korayem	{'relation': 'collaborate'}
-N. D. Dutt	{'relation': 'collaborate'}
-P. Sreenivasa Kumar	{'relation': 'collaborate'}
-Ashraf Elnagar	{'relation': 'collaborate'}
-James Stanier	{'relation': 'collaborate'}
-S. Dey	{'relation': 'collaborate'}
-D. Saha	{'relation': 'collaborate'}
-Erik Asmussen	{'relation': 'collaborate'}
-Pabitra Mitra	{'relation': 'collaborate'}
-R. S. Mitra	{'relation': 'collaborate'}
-S. Mukherjee	{'relation': 'collaborate'}
-Vijay K. Gurbani	{'relation': 'collaborate'}
-Anirban Lahiri	{'relation': 'collaborate'}
-Erik Asmussen	0
-Pabitra Mitra	0
-R. S. Mitra	1
-D. Saha	{'relation': 'collaborate'}
-Lijun Yin	0
-P. Sreenivasa Kumar	0
-T. Nayak	1
-S. Mukherjee	{'relation': 'collaborate'}
-R. Mall	0
-D. Saha	1
-S. Mukherjee	{'relation': 'collaborate'}
-Vijay K. Gurbani	1
-James Stanier	{'relation': 'collaborate'}
-Ashraf Elnagar	0
-S. Dey	0
-M. H. Korayem	0
-S. Mukherjee	0
-N. D. Dutt	0
-Anirban Lahiri	0
-James Stanier	0
+T. Nayak	A. Basu	S. Mukherjee
+Sandipan Dandapat	A. Basu
+S. Dey	A. Basu
+R. Mall	A. Basu
+N. D. Dutt	A. Basu
+D. Saha	A. Basu	R. S. Mitra	S. Mukherjee
+S. Mukherjee	A. Basu
+Erik Asmussen	A. Basu
+Ashraf Elnagar	A. Basu
+Pabitra Mitra	A. Basu
+Joshua R. Smith	A. Basu
+R. S. Mitra	A. Basu
+Anirban Lahiri	A. Basu
+James Stanier	A. Basu	Vijay K. Gurbani
+Vijay K. Gurbani	A. Basu
+Lijun Yin	A. Basu
+A. Basu	X. D. Fang	M. H. Korayem	P. Sreenivasa Kumar
+M. H. Korayem
+X. D. Fang
+P. Sreenivasa Kumar

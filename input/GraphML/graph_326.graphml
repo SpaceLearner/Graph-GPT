@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hsin-Wei Wang">
+      <data key="affiliation">University of Connecticut Health Center</data>
+      <data key="research">microarray data, gene expression pattern, microarray experiment</data>
+    </node>
+    <node id="C. Y. Tang">
+      <data key="affiliation">Department of Industrial and Systems Engineering, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China</data>
+      <data key="research">GRNNFA model, product form, product form design</data>
+    </node>
+    <node id="You-Dong Huang">
+      <data key="affiliation">Department of Electrical Engineering, National University of Kaohsiung, 700, Kaohsiung University Road, NanTzu District, Kaohsiung 811, Taiwan</data>
+      <data key="research">GPS GDOP, GPS geometric dilution, GPS positioning accuracy</data>
+    </node>
+    <node id="Wen-Hao Wang">
+      <data key="affiliation">Advanced Technology Center, Information and Communications Research Laboratories, Industrial Technology Research Institute, Hsinchu, Taiwan</data>
+      <data key="research">hierarchical image kernel, hierarchical representation, hierarchical structure</data>
+    </node>
+    <node id="Hao-Teng Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed method, CODIS SSR marker, SSR marker</data>
+    </node>
+    <node id="Jia-Ming Chang">
+      <data key="affiliation">Department of Computer Science and Information Engineering, National Taiwan University of Science and Technology, No. 43, Section 4, Keelung Road, Taipei 10672, Taiwan, ROC</data>
+      <data key="research">proposed two-pass algorithm, better quality, experimental result</data>
+    </node>
+    <node id="Tsuhan Chen">
+      <data key="affiliation">Sch. of Electr. &amp; Comput. Eng., Cornell Univ., Ithaca, NY, USA</data>
+      <data key="research">spatial information, proposed cue, BoV method</data>
+    </node>
+    <node id="Yin-Te Tsai">
+      <data key="affiliation">Department of Computer Science and Information Management, Providence University, Taiwan, Republic of China</data>
+      <data key="research">trapezoid graph, minimum cardinality, log n</data>
+    </node>
+    <node id="Yu-Fong Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">EGFR Overexpression, interaction network, phage peptides</data>
+    </node>
+    <node id="Shang-Jen Hu">
+      <data key="affiliation">National Taiwan University of Science and Technology</data>
+      <data key="research">intricate object, intricate shape, reconstruction system</data>
+    </node>
+    <node id="Hsin-Yi Chen">
+      <data key="affiliation">Naval Academy, Taiwan</data>
+      <data key="research">emotional factor, personalized customer service, customer care</data>
+    </node>
+    <node id="Chien-Jung Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">higher primate, human RNase, super family</data>
+    </node>
+    <node id="Wen-Shyong Tzou">
+      <data key="affiliation">Nan</data>
+      <data key="research">reverse engineering, minor deviation, Data Deviation</data>
+    </node>
+    <node id="Tzung-Han Lin">
+      <data key="affiliation">National Taiwan University of Science and Technology</data>
+      <data key="research">intricate object, intricate shape, reconstruction system</data>
+    </node>
+    <node id="Chien-Ming Chen">
+      <data key="affiliation">Department of Computer Science and Engineering, National Taiwan Ocean University, Keelung, Taiwan, R.O.C. 20224</data>
+      <data key="research">significant SSR pattern, various species, Gene Ontology SSR Hierarchy</data>
+    </node>
+    <node id="Tun-Wen Pai">
+      <data key="affiliation">Nan</data>
+      <data key="research">intelligent Chinese official document, Chinese official document processing, document automation</data>
+    </node>
+    <node id="Kun-Mao Chao">
+      <data key="affiliation">Pennsylvania State Univ. University Park</data>
+      <data key="research">Space-saving strategy, sequence comparison</data>
+    </node>
+    <node id="Shu-Chuan Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">ligand-binding residue, primary sequence identity, query sequence</data>
+    </node>
+    <node id="Fu-Jen Hsiao">
+      <data key="affiliation">Industrial Technology Research Institute, Taiwan</data>
+      <data key="research">directional analysis, corner point, directional feature detection</data>
+    </node>
+    <node id="Chin Lung Lu">
+      <data key="affiliation">Department of Biological Science and Technology, National Chiao Tung University, Hsinchu 300, Taiwan, ROC</data>
+      <data key="research">Hamiltonian path completion problem, efficient minus, edge domination problem</data>
+    </node>
+    <edge source="Hsin-Wei Wang" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsin-Wei Wang" target="Hao-Teng Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Hao-Teng Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Kun-Mao Chao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Chien-Jung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Shu-Chuan Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Chin Lung Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Jia-Ming Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Y. Tang" target="Yin-Te Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="You-Dong Huang" target="Chien-Jung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Hao Wang" target="Tsuhan Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Hao Wang" target="Fu-Jen Hsiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Tzung-Han Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Chien-Jung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Wen-Shyong Tzou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Shu-Chuan Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Hsin-Yi Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Kun-Mao Chao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Shang-Jen Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Chien-Ming Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Jia-Ming Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Chin Lung Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Yin-Te Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Teng Chang" target="Yu-Fong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jia-Ming Chang" target="Kun-Mao Chao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jia-Ming Chang" target="Yin-Te Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jia-Ming Chang" target="Chin Lung Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tsuhan Chen" target="Fu-Jen Hsiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yin-Te Tsai" target="Chin Lung Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yin-Te Tsai" target="Kun-Mao Chao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Fong Lin" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shang-Jen Hu" target="Tzung-Han Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsin-Yi Chen" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chien-Jung Chen" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chien-Jung Chen" target="Shu-Chuan Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Tzou" target="Chien-Ming Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Shyong Tzou" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tzung-Han Lin" target="Fu-Jen Hsiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chien-Ming Chen" target="Tun-Wen Pai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tun-Wen Pai" target="Shu-Chuan Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kun-Mao Chao" target="Chin Lung Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

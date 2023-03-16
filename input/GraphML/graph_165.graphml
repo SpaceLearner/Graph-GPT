@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Carlos Segura">
+      <data key="affiliation">TALP Research center, Universitat Politècnica de Catalunya, Barcelona, Spain</data>
+      <data key="research">computational result, evolutionary algorithm, parallel island-based scheme</data>
+    </node>
+    <node id="C Nadeu">
+      <data key="affiliation">Speech Processing Group, TALP Research Center, Department of Signal Theory and Communication, Univesitat Politècnica de Catalunya, Spain</data>
+      <data key="research">feature selection, SAD system, Acoustic Event Detection</data>
+    </node>
+    <node id="José B. Mariño">
+      <data key="affiliation">Nan</data>
+      <data key="research">Integrates Neural Nets, Speech Recognition System</data>
+    </node>
+    <node id="W. P. Marnane">
+      <data key="affiliation">Dept. of Electr. &amp; Electron. Eng., Queen's Univ. of Belfast, UK</data>
+      <data key="research">FPGA implementation, elliptic curve processor, power consumption</data>
+    </node>
+    <node id="J. R. Casas">
+      <data key="affiliation">Universitat Politécnica de Catalunya, Barcelona, Spain</data>
+      <data key="research">proposed algorithm, proposed method, novel approach</data>
+    </node>
+    <node id="J. Cobo">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fuzzy Logic Controllers, High Level Synthesis, VHDL Models</data>
+    </node>
+    <node id="Dušan Macho">
+      <data key="affiliation">Signal Theory and Communications Department, UPCTechnical University of Catalonia, Barcelona, Spain 08034</data>
+      <data key="research">SAD system, different information source, single classifier</data>
+    </node>
+    <node id="Robert Malkin">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">transcribed speech, experimental result, smart mobile telephone</data>
+    </node>
+    <node id="B. H. Juang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Articulatory Speech Synthesis, Fluid Dynamics, Vocal Apparatus</data>
+    </node>
+    <node id="Martin Wolf">
+      <data key="affiliation">Nan</data>
+      <data key="research">cerebral hemoglobin, cerebral hemoglobin concentration, absolute cerebral hemoglobin concentration</data>
+    </node>
+    <node id="J. Hernando">
+      <data key="affiliation">Nan</data>
+      <data key="research">CDHMM Speech Recognition, Dynamic Speech Features, Maximum Likelihood Weighting</data>
+    </node>
+    <node id="Hui Yin">
+      <data key="affiliation">Nan</data>
+      <data key="research">Digital Watermarking Algorithm, vector map, experimental result</data>
+    </node>
+    <node id="Montse Pardàs">
+      <data key="affiliation">Dept. de Teoria del Senyal i Comunicacions, Univ. Politecnica de Catalunya, Barcelona, Spain</data>
+      <data key="research">foreground object, foreground segmentation, camera view</data>
+    </node>
+    <node id="M. Bertran">
+      <data key="affiliation">Nan</data>
+      <data key="research">flatness-based generalized optimization approach</data>
+    </node>
+    <node id="Volker Hohmann">
+      <data key="affiliation">TALP Research Center, Universitat Politècnica de Catalunya, Barcelona, Spain and Medizinische Physik, Universität Oldenburg, Oldenburg, Germany</data>
+      <data key="research">hearing aid, feedback stability, auditory model</data>
+    </node>
+    <node id="Geraldine Boylan">
+      <data key="affiliation">Dept. of Paediatrics &amp; Child Health, Univ. Coll. Cork, Cork, Ireland</data>
+      <data key="research">ASR feature, spectral derivative, EEG Signal Description</data>
+    </node>
+    <node id="Alberto Abad">
+      <data key="affiliation">INESCID Lisboa</data>
+      <data key="research">on-line system, Telephone Speech, TV speech recognition application</data>
+    </node>
+    <node id="Joan-Isaac Biel">
+      <data key="affiliation">Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland</data>
+      <data key="research">automatic analysis, conversational vlogs, nonverbal behavior</data>
+    </node>
+    <node id="M. Omologo">
+      <data key="affiliation">Fondazione Bruno Kessler  Irst, Trento, Italy</data>
+      <data key="research">multiple source, acoustic event detection, acoustic map</data>
+    </node>
+    <node id="Cristian Canton-Ferrer">
+      <data key="affiliation">Universitat Politecnica de Catalunya C/Jordi Girona, Barcelona, Spain</data>
+      <data key="research">proposed algorithm, camera view, head appearance</data>
+    </node>
+    <edge source="Carlos Segura" target="Dušan Macho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="Montse Pardàs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="J. R. Casas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="C Nadeu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Segura" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Dušan Macho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Geraldine Boylan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="W. P. Marnane">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Robert Malkin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="José B. Mariño">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="J. R. Casas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Montse Pardàs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="B. H. Juang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Hui Yin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Martin Wolf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="M. Omologo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="J. Cobo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Joan-Isaac Biel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="M. Bertran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Nadeu" target="Volker Hohmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="José B. Mariño" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. P. Marnane" target="Geraldine Boylan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Casas" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Casas" target="Dušan Macho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Casas" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Casas" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. R. Casas" target="Montse Pardàs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Cobo" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="M. Omologo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="J. Hernando">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="Robert Malkin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="Montse Pardàs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dušan Macho" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Malkin" target="M. Omologo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Hernando" target="Montse Pardàs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Hernando" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Hernando" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Yin" target="Volker Hohmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Montse Pardàs" target="Alberto Abad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Montse Pardàs" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alberto Abad" target="Cristian Canton-Ferrer">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

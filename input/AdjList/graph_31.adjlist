@@ -1,53 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:55 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:01 2023
 # 
-Jiri Cermak	4
-Michal Pechoucek	{'relation': 'collaborate'}
-Branislav Bosansky	{'relation': 'collaborate'}
-Christopher Kiekintveld	{'relation': 'collaborate'}
-Viliam Lisy	{'relation': 'collaborate'}
-Ram Somaraju	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Ondrej Sykora	5
-Jiri Isa	{'relation': 'collaborate'}
-Clark D. Thompson	{'relation': 'collaborate'}
-Imrich Vrto	{'relation': 'collaborate'}
-Pavol Duris	{'relation': 'collaborate'}
-Viliam Lisy	{'relation': 'collaborate'}
-B. W.-Y. Wei	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Carlo H. Séquin	2
-Clark D. Thompson	{'relation': 'collaborate'}
-D. Lioupis	{'relation': 'collaborate'}
-Viliam Lisy	4
-Michal Pechoucek	{'relation': 'collaborate'}
-Branislav Bosansky	{'relation': 'collaborate'}
-Jiri Isa	{'relation': 'collaborate'}
-Christopher Kiekintveld	{'relation': 'collaborate'}
-Christopher Kiekintveld	2
-Branislav Bosansky	{'relation': 'collaborate'}
-Michal Pechoucek	{'relation': 'collaborate'}
-Jianmin Wang	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Jiri Isa	0
-Branislav Bosansky	1
-Michal Pechoucek	{'relation': 'collaborate'}
-D. Lioupis	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Gary M. Shute	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Michal Pechoucek	0
-Mario Schkolnick	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Josef Pieprzyk	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Pavol Duris	2
-Clark D. Thompson	{'relation': 'collaborate'}
-Imrich Vrto	{'relation': 'collaborate'}
-Imrich Vrto	1
-Clark D. Thompson	{'relation': 'collaborate'}
-William Zhu	1
-Clark D. Thompson	{'relation': 'collaborate'}
-C. Kaklamanis	1
-Clark D. Thompson	{'relation': 'collaborate'}
-Clark D. Thompson	0
+Branislav Bosansky	Viliam Lisy	Michal Pechoucek	Christopher Kiekintveld	Jiri Cermak
+Gary M. Shute	Clark D. Thompson
+Jiri Isa	Ondrej Sykora	Viliam Lisy
+William Zhu	Clark D. Thompson
+Michal Pechoucek	Viliam Lisy	Jiri Cermak	Christopher Kiekintveld
+Josef Pieprzyk	Clark D. Thompson
+Pavol Duris	Clark D. Thompson	Imrich Vrto	Ondrej Sykora
+Ram Somaraju	Clark D. Thompson
+Christopher Kiekintveld	Jiri Cermak	Viliam Lisy
+Ondrej Sykora	Clark D. Thompson	Imrich Vrto	Viliam Lisy
+Mario Schkolnick	Clark D. Thompson
+C. Kaklamanis	Clark D. Thompson
+Imrich Vrto	Clark D. Thompson
+Jiri Cermak	Viliam Lisy
+Viliam Lisy
+Jianmin Wang	Clark D. Thompson
+Carlo H. Séquin	Clark D. Thompson	D. Lioupis
+D. Lioupis	Clark D. Thompson
+Clark D. Thompson	B. W.-Y. Wei
+B. W.-Y. Wei

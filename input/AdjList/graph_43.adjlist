@@ -1,60 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Zhe Mao	2
-Xinping Yan	{'relation': 'collaborate'}
-Kun Li	{'relation': 'collaborate'}
-Chaozhong Wu	6
-Hui Zhang	{'relation': 'collaborate'}
-Song Gao	{'relation': 'collaborate'}
-Hu Lei	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Xianqiao Chen	{'relation': 'collaborate'}
-Jing Gong	{'relation': 'collaborate'}
-Qi Peng	2
-Zhiyong Lu	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Kun Xu	4
-Gang Liu	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Yufen Sun	{'relation': 'collaborate'}
-Fan Yang	{'relation': 'collaborate'}
-Song Gao	3
-Hui Zhang	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Xianqiao Chen	{'relation': 'collaborate'}
-Yufen Sun	2
-Gang Liu	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Zhiyong Lu	1
-Xinping Yan	{'relation': 'collaborate'}
-Wangxin Xiao	2
-Xinping Yan	{'relation': 'collaborate'}
-Xue Zhang	{'relation': 'collaborate'}
-Wei Xiong	2
-Wei Xiong	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Fan Yang	2
-Bo Yang	{'relation': 'collaborate'}
-Xinping Yan	{'relation': 'collaborate'}
-Kun Li	1
-Xinping Yan	{'relation': 'collaborate'}
-Hu Lei	1
-Xinping Yan	{'relation': 'collaborate'}
-Xinping Yan	7
-Huabin Wang	{'relation': 'collaborate'}
-Xue Zhang	{'relation': 'collaborate'}
-Hui Zhang	{'relation': 'collaborate'}
-Jing Gong	{'relation': 'collaborate'}
-Gang Liu	{'relation': 'collaborate'}
-Bo Yang	{'relation': 'collaborate'}
-Xianqiao Chen	{'relation': 'collaborate'}
-Jing Gong	0
-Gang Liu	0
-Xianqiao Chen	1
-Hui Zhang	{'relation': 'collaborate'}
-Xue Zhang	0
-Hui Zhang	0
-Huabin Wang	1
-Bo Yang	{'relation': 'collaborate'}
-Bo Yang	0
+Yufen Sun	Gang Liu	Xinping Yan	Kun Xu
+Xue Zhang	Xinping Yan	Wangxin Xiao
+Zhe Mao	Xinping Yan	Kun Li
+Qi Peng	Zhiyong Lu	Xinping Yan
+Kun Li	Xinping Yan
+Xinping Yan	Wei Xiong	Huabin Wang	Chaozhong Wu	Zhiyong Lu	Kun Xu	Fan Yang	Hu Lei	Hui Zhang	Jing Gong	Gang Liu	Bo Yang	Song Gao	Xianqiao Chen	Wangxin Xiao
+Kun Xu	Gang Liu	Fan Yang
+Huabin Wang	Bo Yang
+Song Gao	Chaozhong Wu	Hui Zhang	Xianqiao Chen
+Gang Liu
+Wangxin Xiao
+Chaozhong Wu	Hui Zhang	Hu Lei	Xianqiao Chen	Jing Gong
+Xianqiao Chen	Hui Zhang
+Hu Lei
+Hui Zhang
+Wei Xiong	Wei Xiong
+Zhiyong Lu
+Jing Gong
+Fan Yang	Bo Yang
+Bo Yang

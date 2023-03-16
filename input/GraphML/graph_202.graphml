@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Yoshikazu Miyanaga">
+      <data key="affiliation">Nan</data>
+      <data key="research">Pulse Shape Modulation, bit rate, IR-UWB Pulse Position Modulation</data>
+    </node>
+    <node id="Yukihiro Itoh">
+      <data key="affiliation">Faculty of Informatics, Shizuoka University, Hamamatsu, 4328011 Japan</data>
+      <data key="research">proposed system, previous system, teacher support system</data>
+    </node>
+    <node id="Mikkel N. Schmidt">
+      <data key="affiliation">Department of Engineering, University of Cambridge,</data>
+      <data key="research">function factorization, Nonnegative matrix factorization, warped Gaussian</data>
+    </node>
+    <node id="N. Ishiura">
+      <data key="affiliation">Department of Information Systems Engineering, Graduate School of Engineering, Osaka University, Suita, Osaka, 5650871, Japan</data>
+      <data key="research">multiple fault, Time-symbolic simulation, fault simulation</data>
+    </node>
+    <node id="Xiao-Guang Zhang">
+      <data key="affiliation">Healthcare Informatics Engineering Research Center, Zhejiang University, Hangzhou, China</data>
+      <data key="research">medical professional, post-relational database, EMR system</data>
+    </node>
+    <node id="Michal Ptaszynski">
+      <data key="affiliation">HokkaiGakuen University, HighTech Research Center, Minami 26, Nishi 11, Chuoku, Sapporo 0640926, Japan</data>
+      <data key="research">affect analysis, five-billion-word corpus, Japanese blogs</data>
+    </node>
+    <node id="Satoshi Oyama">
+      <data key="affiliation">Hokkaido University, Graduate School of Information Science and Technology, Kitaku Kita 14 Nishi 9, 0600814 Sapporo, Japan</data>
+      <data key="research">affect analysis, text-based affect analysis, different character</data>
+    </node>
+    <node id="Jun Yoneyama">
+      <data key="affiliation">Department of Electrical Engineering and Electronics, Aoyama Gakuin University, 5101 Fuchinobe, Sagamihara, Kanagawa 2298558, Japan</data>
+      <data key="research">fuzzy system, uncertain fuzzy system, robust stability</data>
+    </node>
+    <node id="Koji Tochinai">
+      <data key="affiliation">Division of Business Administration, HokkaiGakuen University, Sapporo, 0628605 Japan</data>
+      <data key="research">translation rule, machine translation, proposed method</data>
+    </node>
+    <node id="Akihisa Yamada">
+      <data key="affiliation">Precision Technology Development Center, Sharp Corporation, 26131, Ichinomoto, Tenri, Nara 632, Japan</data>
+      <data key="research">C-based synthesis system, C-based system, LSI design system</data>
+    </node>
+    <node id="Michal Mazur">
+      <data key="affiliation">Graduate School of Information Science and Technology, Hokkaido University, Sapporo, Hokkaido, Japan</data>
+      <data key="research">artificial tutor, conversational agent, Computational Fronesis</data>
+    </node>
+    <node id="Rafal Rzepka">
+      <data key="affiliation">Graduate School of Information Science and Technology, Hokkaido University, Sapporo, Japan 0600814</data>
+      <data key="research">affect analysis, proposed method, conversational agent</data>
+    </node>
+    <node id="Zhongjian Wang">
+      <data key="affiliation">State Key Laboratory of Functional Materials for Informatics, Shanghai Institute of MicroSystem and Information Technology, Chinese Academy of Sciences, Changning Road 865, Shanghai 200050, PR Ch ...</data>
+      <data key="research">Simbond SOI wafer, SOI LDMOS, atomic layer deposition</data>
+    </node>
+    <node id="Masahito Kurihara">
+      <data key="affiliation">Graduate School of Information and Science, Hokkaido University,</data>
+      <data key="research">alternative solution, argumentation dialogically, logical contradiction</data>
+    </node>
+    <node id="Ken Kikuchi">
+      <data key="affiliation">Nan</data>
+      <data key="research">fuzzy relation equation, unattainable solution</data>
+    </node>
+    <node id="Kenji Araki">
+      <data key="affiliation">Medical Information Technology, University of Miyazaki Hospital, Japan</data>
+      <data key="research">medical service, medical professional, medical staff member</data>
+    </node>
+    <node id="Mizuki Takahashi">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multiagent system, pun generator, baseline agent</data>
+    </node>
+    <node id="Morten Mørup">
+      <data key="affiliation">Technical University of Denmark, 2800 Kongens Lyngby, Denmark. mm@imm.dtu.dk</data>
+      <data key="research">forward model, Infinite Relational Model, real EEG data</data>
+    </node>
+    <node id="Yoshinori Yamashita">
+      <data key="affiliation">Yoshinori Yamashita M.D., Medical Informatics, Fukui Medical University Hospital, 23 Shimoaizuki, Matsuoka, Yoshida, Fukui 9101193, Japan</data>
+      <data key="research">MML body, MML header, basic clinic information</data>
+    </node>
+    <node id="Takashi Kambe">
+      <data key="affiliation">SHARP Corporation, Nara 632 JAPAN</data>
+      <data key="research">layout approach, layout element, polycell LSI</data>
+    </node>
+    <edge source="Yoshikazu Miyanaga" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yoshikazu Miyanaga" target="Koji Tochinai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yukihiro Itoh" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mikkel N. Schmidt" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mikkel N. Schmidt" target="Morten Mørup">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mikkel N. Schmidt" target="Rafal Rzepka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Ishiura" target="Akihisa Yamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Ishiura" target="Takashi Kambe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Ishiura" target="Mizuki Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiao-Guang Zhang" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Mizuki Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Satoshi Oyama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Rafal Rzepka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Michal Mazur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Ptaszynski" target="Masahito Kurihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Oyama" target="Masahito Kurihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Oyama" target="Rafal Rzepka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Oyama" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Yoneyama" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Koji Tochinai" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Koji Tochinai" target="Zhongjian Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akihisa Yamada" target="Mizuki Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akihisa Yamada" target="Takashi Kambe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Mazur" target="Rafal Rzepka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Mazur" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafal Rzepka" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafal Rzepka" target="Morten Mørup">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafal Rzepka" target="Masahito Kurihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafal Rzepka" target="Mizuki Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongjian Wang" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masahito Kurihara" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ken Kikuchi" target="Kenji Araki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenji Araki" target="Morten Mørup">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenji Araki" target="Yoshinori Yamashita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenji Araki" target="Mizuki Takahashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mizuki Takahashi" target="Takashi Kambe">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

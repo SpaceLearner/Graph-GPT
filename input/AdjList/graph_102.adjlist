@@ -1,63 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-Robert S. Arnold	2
-Norman Wilde	{'relation': 'collaborate'}
-Malcolm Slovin	{'relation': 'collaborate'}
-Norman Wilde	18
-Vaclav Rajlich	{'relation': 'collaborate'}
-Malcolm C Munro	{'relation': 'collaborate'}
-W. Eric Wong	{'relation': 'collaborate'}
-Michael Jiang	{'relation': 'collaborate'}
-Joseph R. Horgan	{'relation': 'collaborate'}
-Jean-Pierre Queille	{'relation': 'collaborate'}
-Scott M. Brown	{'relation': 'collaborate'}
-J. Jenny Li	{'relation': 'collaborate'}
-Sharon Jeanette Simmons	{'relation': 'collaborate'}
-John Coffey	{'relation': 'collaborate'}
-S. London	{'relation': 'collaborate'}
-Paul Matthews	{'relation': 'collaborate'}
-Eman M. El-Sheikh	{'relation': 'collaborate'}
-Malcolm Slovin	{'relation': 'collaborate'}
-Michael Groble	{'relation': 'collaborate'}
-K. H. Bennett	{'relation': 'collaborate'}
-Benjamin Hartmann	{'relation': 'collaborate'}
-J. L. Alberi	{'relation': 'collaborate'}
-W. Eric Wong	4
-J. Jenny Li	{'relation': 'collaborate'}
-S. London	{'relation': 'collaborate'}
-J. L. Alberi	{'relation': 'collaborate'}
-Joseph R. Horgan	{'relation': 'collaborate'}
-Joseph R. Horgan	3
-S. London	{'relation': 'collaborate'}
-J. Jenny Li	{'relation': 'collaborate'}
-J. L. Alberi	{'relation': 'collaborate'}
-K. H. Bennett	2
-Malcolm C Munro	{'relation': 'collaborate'}
-Vaclav Rajlich	{'relation': 'collaborate'}
-Eman M. El-Sheikh	2
-John Coffey	{'relation': 'collaborate'}
-Benjamin Hartmann	{'relation': 'collaborate'}
-Michael Groble	2
-Michael Jiang	{'relation': 'collaborate'}
-Sharon Jeanette Simmons	{'relation': 'collaborate'}
-Vaclav Rajlich	1
-Malcolm C Munro	{'relation': 'collaborate'}
-Malcolm C Munro	1
-Jean-Pierre Queille	{'relation': 'collaborate'}
-Benjamin Hartmann	0
-Sharon Jeanette Simmons	2
-Michael Jiang	{'relation': 'collaborate'}
-John Coffey	{'relation': 'collaborate'}
-Paul Matthews	0
-S. London	2
-J. Jenny Li	{'relation': 'collaborate'}
-J. L. Alberi	{'relation': 'collaborate'}
-Scott M. Brown	0
-John Coffey	0
-Michael Jiang	0
-J. Jenny Li	1
-J. L. Alberi	{'relation': 'collaborate'}
-J. L. Alberi	0
-Malcolm Slovin	0
-Jean-Pierre Queille	0
+W. Eric Wong	Norman Wilde	J. Jenny Li	S. London	J. L. Alberi	Joseph R. Horgan
+Benjamin Hartmann	Norman Wilde	Eman M. El-Sheikh
+Jean-Pierre Queille	Norman Wilde	Malcolm C Munro
+Norman Wilde	Vaclav Rajlich	Malcolm C Munro	Michael Jiang	Joseph R. Horgan	Scott M. Brown	J. Jenny Li	Sharon Jeanette Simmons	John Coffey	S. London	Paul Matthews	Eman M. El-Sheikh	Malcolm Slovin	Michael Groble	K. H. Bennett	Robert S. Arnold	J. L. Alberi
+Joseph R. Horgan	S. London	J. Jenny Li	J. L. Alberi
+Paul Matthews
+Robert S. Arnold	Malcolm Slovin
+John Coffey	Eman M. El-Sheikh	Sharon Jeanette Simmons
+Vaclav Rajlich	K. H. Bennett	Malcolm C Munro
+Michael Groble	Michael Jiang	Sharon Jeanette Simmons
+Eman M. El-Sheikh
+J. L. Alberi	J. Jenny Li	S. London
+Malcolm Slovin
+Sharon Jeanette Simmons	Michael Jiang
+Michael Jiang
+Scott M. Brown
+S. London	J. Jenny Li
+J. Jenny Li
+Malcolm C Munro	K. H. Bennett
+K. H. Bennett

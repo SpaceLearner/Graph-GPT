@@ -1,51 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-G. J. Collins	2
-C. J. Budd	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-L A Peletier	2
-J L Vazquez	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-M. Kindelan	2
-Migual A. Herrero	{'relation': 'collaborate'}
-J. J. L. Velázquez	{'relation': 'collaborate'}
-J L Vazquez	2
-Migual A. Herrero	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-V. A. Frolov	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. L. Velázquez	2
-Migual A. Herrero	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-N. I. V'yukova	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-Kirill Garanzha	2
-Simon Premože	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-Edward A. Kopylov	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-J Bebernes	2
-V. A. Galaktionov	{'relation': 'collaborate'}
-Stephen Edward Bricher	{'relation': 'collaborate'}
-N. Bellomo	1
-Migual A. Herrero	{'relation': 'collaborate'}
-S. P. Kurdyumov	2
-A. A. Samarskii	{'relation': 'collaborate'}
-V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	2
-V. A. Galaktionov	{'relation': 'collaborate'}
-Migual A. Herrero	{'relation': 'collaborate'}
-Howard A. Levine	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-Simon Premože	1
-V. A. Galaktionov	{'relation': 'collaborate'}
-V. A. Galaktionov	4
-C. J. Budd	{'relation': 'collaborate'}
-Stephen Edward Bricher	{'relation': 'collaborate'}
-A. A. Samarskii	{'relation': 'collaborate'}
-Migual A. Herrero	{'relation': 'collaborate'}
-Stephen Edward Bricher	0
-A. A. Samarskii	0
-C. J. Budd	0
-Migual A. Herrero	0
+J L Vazquez	L A Peletier	Migual A. Herrero	V. A. Galaktionov
+J. J. L. Velázquez	M. Kindelan	Migual A. Herrero	V. A. Galaktionov
+S. P. Kurdyumov	A. A. Samarskii	V. A. Galaktionov
+Edward A. Kopylov	V. A. Galaktionov
+J Bebernes	V. A. Galaktionov	Stephen Edward Bricher
+N. I. V'yukova	V. A. Galaktionov
+Stephen Edward Bricher	V. A. Galaktionov
+A. A. Samarskii	V. A. Galaktionov
+Simon Premože	Kirill Garanzha	V. A. Galaktionov
+M. Kindelan	Migual A. Herrero
+G. J. Collins	C. J. Budd	V. A. Galaktionov
+Migual A. Herrero	N. Bellomo	V. A. Galaktionov	J. J. Velasquez
+V. A. Galaktionov	C. J. Budd	L A Peletier	V. A. Frolov	J. J. Velasquez	Kirill Garanzha	Howard A. Levine
+V. A. Frolov
+N. Bellomo
+J. J. Velasquez
+C. J. Budd
+Howard A. Levine
+L A Peletier
+Kirill Garanzha

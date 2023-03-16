@@ -4,65 +4,17 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Hammurabi C. Mendes">
-      <data key="affiliation">Brown University, Providence, USA</data>
-      <data key="research">multiple task allocation policy, memory consistency model, Byzantine process</data>
-    </node>
-    <node id="Alba C.  M.  A. Melo">
-      <data key="affiliation">University of Brasilia (UnB), Department of Computer Science, Campus UNB  ICCNorte  subsolo, 70910900 BrasiliaDF, Brazil and University of Ottawa (SITE), PARADISE Research Laboratory, 800 Ki ...</data>
-      <data key="research">grid environment, multiple task allocation policy, adaptive task allocation framework</data>
-    </node>
-    <node id="Samer Samarah">
-      <data key="affiliation">Department of Computer Information Systems, Yarmouk University, Irbed 21163, Jordan.</data>
-      <data key="research">sensor node, behavioral pattern, service provider</data>
-    </node>
-    <node id="C. F. Chiasserini">
-      <data key="affiliation">CERCOMDipartimento di Elettronica, Politecnico di Torino Corso Duca degli Abruzzi, Torino, Italy</data>
-      <data key="research">sensor network, mobile network, network node</data>
+    <node id="D. Nussbaum">
+      <data key="affiliation">Carleton University</data>
+      <data key="research">P touch, larger treatment area, radiotherapy treatment</data>
     </node>
     <node id="Graciela Román-Alonso">
       <data key="affiliation">Departamento de Ing. Eléctrica, Universidad Autónoma Metropolitana, Izt., D.F., México</data>
       <data key="research">porous network, data item, parallel application</data>
     </node>
-    <node id="Alba Cristina Magalhaes Alves de Melo">
-      <data key="affiliation">Department of Computer Science, University of Brasilia (UnB), Brasilia, Brazil</data>
-      <data key="research">heterogeneous multicore cluster, appropriate fault tolerance technique, fault tolerance technique</data>
-    </node>
     <node id="Caron Dzermajko">
       <data key="affiliation">Department of Computer Sciences, University of North of Texas, Denton, TX 76203, U.S.A.</data>
       <data key="research">DDM method, DDM scheme, DDM implementation</data>
-    </node>
-    <node id="A. Corradi">
-      <data key="affiliation">Nan</data>
-      <data key="research" />
-    </node>
-    <node id="J.-R. Sack">
-      <data key="affiliation">MaxPlanckInstitute for Informatics, Stuhlsatzenhausweg 85, 66123 Saarbrücken, Germany</data>
-      <data key="research">shortest path, time O, earliest arrival time</data>
-    </node>
-    <node id="Ke Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">medium-sized city, Beijing city logistics, city logistics city logistics</data>
-    </node>
-    <node id="A K Datta">
-      <data key="affiliation">School of Computer Science, University of Nevada, Las Vegas,</data>
-      <data key="research">proposed algorithm, self-stabilizing algorithm, connected network</data>
-    </node>
-    <node id="A. Hossain">
-      <data key="affiliation">University of Ottawa, Ottawa, Canada</data>
-      <data key="research">haptic virtual object, current network delay, local user</data>
-    </node>
-    <node id="Azzedine Boukerche">
-      <data key="affiliation">Wireless and Mobile Networking Research Laboratory</data>
-      <data key="research">Emergency Preparedness, emergency incident, emergency responder</data>
-    </node>
-    <node id="Kaiyuan Lu">
-      <data key="affiliation">School of Computer Science, Carleton University, Ottawa, Ontario, Canada</data>
-      <data key="research">context aware system, aggregates context information, context aggregation</data>
-    </node>
-    <node id="Yanjun Hu">
-      <data key="affiliation">Nan</data>
-      <data key="research">bottom ash, MSWI ash, fly ash</data>
     </node>
     <node id="Diego Daniel Duarte">
       <data key="affiliation">Federal University of Minas Gerais, Belo Horizonte  Minas Gerais, Brazil</data>
@@ -72,40 +24,73 @@
       <data key="affiliation">Computer Technology Institute, P.O. Box 1122, 26110 Patras, Greece, Department of Computer Engineering &amp; Informatics, University of Patras, 26500 Patras, Greece</data>
       <data key="research">wireless sensor network, sensor network, wireless network</data>
     </node>
-    <node id="Ednaldo B. Pizzolato">
-      <data key="affiliation">Federal University of S. Carlos, SP, Brazil</data>
-      <data key="research">multimodal interaction, social interaction, Multimodal Interface</data>
-    </node>
-    <node id="D. Nussbaum">
-      <data key="affiliation">Carleton University</data>
-      <data key="research">P touch, larger treatment area, radiotherapy treatment</data>
-    </node>
     <node id="Alejandro C. Frery">
       <data key="affiliation">CPMAT &amp; LCCV, Instituto de Computaçção, Universidade Federal de Alagoas, BR 104 Norte km 97, Maceió AL 57072970, Brazil</data>
       <data key="research">edge detection, Nonparametric edge detection, alternative method</data>
     </node>
-    <edge source="Hammurabi C. Mendes" target="Azzedine Boukerche">
+    <node id="Samer Samarah">
+      <data key="affiliation">Department of Computer Information Systems, Yarmouk University, Irbed 21163, Jordan.</data>
+      <data key="research">sensor node, behavioral pattern, service provider</data>
+    </node>
+    <node id="Alba C.  M.  A. Melo">
+      <data key="affiliation">University of Brasilia (UnB), Department of Computer Science, Campus UNB  ICCNorte  subsolo, 70910900 BrasiliaDF, Brazil and University of Ottawa (SITE), PARADISE Research Laboratory, 800 Ki ...</data>
+      <data key="research">grid environment, multiple task allocation policy, adaptive task allocation framework</data>
+    </node>
+    <node id="C. F. Chiasserini">
+      <data key="affiliation">CERCOMDipartimento di Elettronica, Politecnico di Torino Corso Duca degli Abruzzi, Torino, Italy</data>
+      <data key="research">sensor network, mobile network, network node</data>
+    </node>
+    <node id="A. Corradi">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="J.-R. Sack">
+      <data key="affiliation">MaxPlanckInstitute for Informatics, Stuhlsatzenhausweg 85, 66123 Saarbrücken, Germany</data>
+      <data key="research">shortest path, time O, earliest arrival time</data>
+    </node>
+    <node id="Alba Cristina Magalhaes Alves de Melo">
+      <data key="affiliation">Department of Computer Science, University of Brasilia (UnB), Brasilia, Brazil</data>
+      <data key="research">heterogeneous multicore cluster, appropriate fault tolerance technique, fault tolerance technique</data>
+    </node>
+    <node id="Kaiyuan Lu">
+      <data key="affiliation">School of Computer Science, Carleton University, Ottawa, Ontario, Canada</data>
+      <data key="research">context aware system, aggregates context information, context aggregation</data>
+    </node>
+    <node id="Ke Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">medium-sized city, Beijing city logistics, city logistics city logistics</data>
+    </node>
+    <node id="Hammurabi C. Mendes">
+      <data key="affiliation">Brown University, Providence, USA</data>
+      <data key="research">multiple task allocation policy, memory consistency model, Byzantine process</data>
+    </node>
+    <node id="Yanjun Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">bottom ash, MSWI ash, fly ash</data>
+    </node>
+    <node id="Ednaldo B. Pizzolato">
+      <data key="affiliation">Federal University of S. Carlos, SP, Brazil</data>
+      <data key="research">multimodal interaction, social interaction, Multimodal Interface</data>
+    </node>
+    <node id="A. Hossain">
+      <data key="affiliation">University of Ottawa, Ottawa, Canada</data>
+      <data key="research">haptic virtual object, current network delay, local user</data>
+    </node>
+    <node id="Azzedine Boukerche">
+      <data key="affiliation">Wireless and Mobile Networking Research Laboratory</data>
+      <data key="research">Emergency Preparedness, emergency incident, emergency responder</data>
+    </node>
+    <node id="A K Datta">
+      <data key="affiliation">School of Computer Science, University of Nevada, Las Vegas,</data>
+      <data key="research">proposed algorithm, self-stabilizing algorithm, connected network</data>
+    </node>
+    <edge source="D. Nussbaum" target="Kaiyuan Lu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hammurabi C. Mendes" target="Alba C.  M.  A. Melo">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Alba C.  M.  A. Melo" target="Azzedine Boukerche">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Samer Samarah" target="Azzedine Boukerche">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="C. F. Chiasserini" target="Azzedine Boukerche">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="C. F. Chiasserini" target="Sotiris Nikoletseas">
+    <edge source="D. Nussbaum" target="J.-R. Sack">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Graciela Román-Alonso" target="Azzedine Boukerche">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Alba Cristina Magalhaes Alves de Melo" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Caron Dzermajko" target="Kaiyuan Lu">
@@ -114,43 +99,58 @@
     <edge source="Caron Dzermajko" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Diego Daniel Duarte" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sotiris Nikoletseas" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sotiris Nikoletseas" target="C. F. Chiasserini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alejandro C. Frery" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samer Samarah" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alba C.  M.  A. Melo" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alba C.  M.  A. Melo" target="Hammurabi C. Mendes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. F. Chiasserini" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="A. Corradi" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="J.-R. Sack" target="Kaiyuan Lu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="J.-R. Sack" target="D. Nussbaum">
+    <edge source="Alba Cristina Magalhaes Alves de Melo" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kaiyuan Lu" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Ke Liu" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="A K Datta" target="Azzedine Boukerche">
+    <edge source="Hammurabi C. Mendes" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yanjun Hu" target="Azzedine Boukerche">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ednaldo B. Pizzolato" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="A. Hossain" target="Azzedine Boukerche">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Azzedine Boukerche" target="Sotiris Nikoletseas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Azzedine Boukerche" target="Kaiyuan Lu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Azzedine Boukerche" target="Ednaldo B. Pizzolato">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Azzedine Boukerche" target="Alejandro C. Frery">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Azzedine Boukerche" target="Diego Daniel Duarte">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Azzedine Boukerche" target="Yanjun Hu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Kaiyuan Lu" target="D. Nussbaum">
+    <edge source="Azzedine Boukerche" target="A K Datta">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

@@ -1,56 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:09 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:15 2023
 # 
-A G Barto	4
-Toby Dragon	{'relation': 'collaborate'}
-Beverly P. Woolf	{'relation': 'collaborate'}
-Jeff Johns	{'relation': 'collaborate'}
-Sridhar Mahadevan	{'relation': 'collaborate'}
-Jeff Johns	3
-Sridhar Mahadevan	{'relation': 'collaborate'}
-Beverly P. Woolf	{'relation': 'collaborate'}
-Toby Dragon	{'relation': 'collaborate'}
-Hava Tova Siegelmann	1
-Beverly P. Woolf	{'relation': 'collaborate'}
-Robert Maloy	2
-Beverly P. Woolf	{'relation': 'collaborate'}
-Leena Razzaq	{'relation': 'collaborate'}
-Rana El Kaliouby	3
-Beverly P. Woolf	{'relation': 'collaborate'}
-Rosalind Wright Picard	{'relation': 'collaborate'}
-Toby Dragon	{'relation': 'collaborate'}
-Dan Suthers	2
-Beverly P. Woolf	{'relation': 'collaborate'}
-Elliot Soloway	{'relation': 'collaborate'}
-J. Brooks	1
-Beverly P. Woolf	{'relation': 'collaborate'}
-Klaus Schultz	2
-Beverly P. Woolf	{'relation': 'collaborate'}
-Carole R. Beal	{'relation': 'collaborate'}
-Beverly P. Woolf	11
-Scott D. Anderson	{'relation': 'collaborate'}
-Rosalind Wright Picard	{'relation': 'collaborate'}
-Toby Dragon	{'relation': 'collaborate'}
-Dan Murray	{'relation': 'collaborate'}
-Leena Razzaq	{'relation': 'collaborate'}
-Sridhar Mahadevan	{'relation': 'collaborate'}
-Kasia Muldner	{'relation': 'collaborate'}
-Esma Aimeur	{'relation': 'collaborate'}
-Elliot Soloway	{'relation': 'collaborate'}
-Carole R. Beal	{'relation': 'collaborate'}
-Ted Slovin	{'relation': 'collaborate'}
-Kasia Muldner	1
-Toby Dragon	{'relation': 'collaborate'}
-Dan Murray	1
-Toby Dragon	{'relation': 'collaborate'}
-Toby Dragon	2
-Rosalind Wright Picard	{'relation': 'collaborate'}
-Sridhar Mahadevan	{'relation': 'collaborate'}
-Rosalind Wright Picard	0
-Scott D. Anderson	0
-Ted Slovin	0
-Carole R. Beal	0
-Sridhar Mahadevan	0
-Leena Razzaq	0
-Elliot Soloway	0
-Esma Aimeur	0
+Hava Tova Siegelmann	Beverly P. Woolf
+Esma Aimeur	Beverly P. Woolf
+Kasia Muldner	Beverly P. Woolf	Toby Dragon
+Toby Dragon	A G Barto	Rosalind Wright Picard	Beverly P. Woolf	Jeff Johns	Rana El Kaliouby	Sridhar Mahadevan	Dan Murray
+Jeff Johns	Sridhar Mahadevan	Beverly P. Woolf	A G Barto
+A G Barto	Beverly P. Woolf	Sridhar Mahadevan
+J. Brooks	Beverly P. Woolf
+Scott D. Anderson	Beverly P. Woolf
+Ted Slovin	Beverly P. Woolf
+Elliot Soloway	Beverly P. Woolf	Dan Suthers
+Dan Suthers	Beverly P. Woolf
+Sridhar Mahadevan	Beverly P. Woolf
+Robert Maloy	Beverly P. Woolf	Leena Razzaq
+Rosalind Wright Picard	Beverly P. Woolf	Rana El Kaliouby
+Dan Murray	Beverly P. Woolf
+Beverly P. Woolf	Rana El Kaliouby	Klaus Schultz	Leena Razzaq	Carole R. Beal
+Carole R. Beal	Klaus Schultz
+Klaus Schultz
+Rana El Kaliouby
+Leena Razzaq

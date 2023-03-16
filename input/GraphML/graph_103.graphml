@@ -4,49 +4,41 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Xiaofei Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">service composition, temporal constraint, temporal constraint satisfiability</data>
+    <node id="Mathini Sellathurai">
+      <data key="affiliation">BellLabs., Holmdel, NJ, USA</data>
+      <data key="research">diversity product, superior performance, turbo-MIMO system</data>
     </node>
-    <node id="Qiang Wang">
-      <data key="affiliation">Department of Control Science and Engineering, Harbin Institute of Technology, No. 92, West DaZhi, Harbin, 150001, PR China</data>
-      <data key="research">image fusion technique, fusion result, initial fusion result</data>
+    <node id="Jian Liu">
+      <data key="affiliation">School of Information Science and Engineering, Shandong University, Jinan, Shandong 250100, PR China</data>
+      <data key="research">energy efficiency, proposed scheme, Nonlinear optimization</data>
     </node>
     <node id="Mario Baldi">
       <data key="affiliation">Narus Inc., Sunnyvale, CA, USA</data>
       <data key="research">Re-Org task, event log file, common datasets</data>
     </node>
-    <node id="Lei Zhang">
-      <data key="affiliation">Institute of Microelectronics, Tsinghua University, Beijing, China</data>
-      <data key="research">current gain, proposed ULCA, proposed circuit</data>
+    <node id="Jian Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">multiple knapsack problem, rough sets theory, New Particle Swarm Optimization</data>
+    </node>
+    <node id="Hua Wang">
+      <data key="affiliation">Huazhong University of Science &amp; Technology</data>
+      <data key="research">SSD FTL metadata change, SSD interact, SSD storage state</data>
+    </node>
+    <node id="E. Gambi">
+      <data key="affiliation">D.I.B.E.T. Università Politecnica delle Marche, Via Brecce Bianche 12, I60131 Ancona, ITALY</data>
+      <data key="research">technological approach, medical operator, older adult</data>
     </node>
     <node id="Ji-Bo Wei">
       <data key="affiliation">National University of Defense Technology, China</data>
       <data key="research">channel error, perfect channel state information, proposed receiver</data>
     </node>
-    <node id="Haifeng Li">
-      <data key="affiliation">Nan</data>
-      <data key="research">HMM System, neural modelling, pattern class</data>
+    <node id="Chun-lin Xiong">
+      <data key="affiliation">School of Electronic Science and Engineering, National University of Defense Technology, Changsha, China</data>
+      <data key="research">iterative receiver, perfect channel state information, proposed receiver</data>
     </node>
-    <node id="Chaojing Tang">
-      <data key="affiliation">College of Electronic Science and Engineering, National University of Defense Technology, P. R. of China</data>
-      <data key="research">space channel, civil space mission, space agency</data>
-    </node>
-    <node id="P. Pierleoni">
-      <data key="affiliation">Nan</data>
-      <data key="research">turbo code, serially concatenated code, new Consultative Committee</data>
-    </node>
-    <node id="R. Antonicelli">
-      <data key="affiliation">Cardiology Operational Unit, INRCA Scientific Institute, Ancona, Italy</data>
-      <data key="research">technological approach, medical operator, older adult</data>
-    </node>
-    <node id="Wei Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">enterprise information, financial information, global information environment</data>
-    </node>
-    <node id="E. Gambi">
-      <data key="affiliation">D.I.B.E.T. Università Politecnica delle Marche, Via Brecce Bianche 12, I60131 Ancona, ITALY</data>
-      <data key="research">technological approach, medical operator, older adult</data>
+    <node id="Qiang Wang">
+      <data key="affiliation">Department of Control Science and Engineering, Harbin Institute of Technology, No. 92, West DaZhi, Harbin, 150001, PR China</data>
+      <data key="research">image fusion technique, fusion result, initial fusion result</data>
     </node>
     <node id="Pei Xiao">
       <data key="affiliation">Institute of Electronics, Communications, and Information Technology (ECIT), Queen's University of Belfast, BT3 9DT, U.K.</data>
@@ -56,44 +48,64 @@
       <data key="affiliation">Nan</data>
       <data key="research">Transmission Lines, human visual attention, saLiency-based visual attention system</data>
     </node>
-    <node id="Jian Liu">
-      <data key="affiliation">School of Information Science and Engineering, Shandong University, Jinan, Shandong 250100, PR China</data>
-      <data key="research">energy efficiency, proposed scheme, Nonlinear optimization</data>
+    <node id="Lei Zhang">
+      <data key="affiliation">Institute of Microelectronics, Tsinghua University, Beijing, China</data>
+      <data key="research">current gain, proposed ULCA, proposed circuit</data>
+    </node>
+    <node id="Chaojing Tang">
+      <data key="affiliation">College of Electronic Science and Engineering, National University of Defense Technology, P. R. of China</data>
+      <data key="research">space channel, civil space mission, space agency</data>
+    </node>
+    <node id="Wei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">enterprise information, financial information, global information environment</data>
+    </node>
+    <node id="R. Antonicelli">
+      <data key="affiliation">Cardiology Operational Unit, INRCA Scientific Institute, Ancona, Italy</data>
+      <data key="research">technological approach, medical operator, older adult</data>
     </node>
     <node id="F. Chiaraluce">
       <data key="affiliation">Dipartimento di Elettronica, Intelligenza Artificiale e Telecomunicazioni, Università Politecnica delle Marche, Via Brecce Bianche, I60131 Ancona, Italy</data>
       <data key="research">better performance, new class, Low Density Parity Check</data>
     </node>
-    <node id="Hua Wang">
-      <data key="affiliation">Huazhong University of Science &amp; Technology</data>
-      <data key="research">SSD FTL metadata change, SSD interact, SSD storage state</data>
-    </node>
-    <node id="Jian Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">multiple knapsack problem, rough sets theory, New Particle Swarm Optimization</data>
-    </node>
-    <node id="Chun-lin Xiong">
-      <data key="affiliation">School of Electronic Science and Engineering, National University of Defense Technology, Changsha, China</data>
-      <data key="research">iterative receiver, perfect channel state information, proposed receiver</data>
-    </node>
     <node id="Quan Zhang">
       <data key="affiliation">Nan</data>
       <data key="research">RAID10 system, energy efficiency, storage system</data>
     </node>
-    <node id="Mathini Sellathurai">
-      <data key="affiliation">BellLabs., Holmdel, NJ, USA</data>
-      <data key="research">diversity product, superior performance, turbo-MIMO system</data>
+    <node id="Haifeng Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">HMM System, neural modelling, pattern class</data>
     </node>
-    <edge source="Xiaofei Wang" target="Quan Zhang">
+    <node id="Xiaofei Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">service composition, temporal constraint, temporal constraint satisfiability</data>
+    </node>
+    <node id="P. Pierleoni">
+      <data key="affiliation">Nan</data>
+      <data key="research">turbo code, serially concatenated code, new Consultative Committee</data>
+    </node>
+    <edge source="Mathini Sellathurai" target="Ji-Bo Wei">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xiaofei Wang" target="Chaojing Tang">
+    <edge source="Mathini Sellathurai" target="Chaojing Tang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Qiang Wang" target="Chaojing Tang">
+    <edge source="Mathini Sellathurai" target="Pei Xiao">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Qiang Wang" target="Quan Zhang">
+    <edge source="Mathini Sellathurai" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Quan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Jian Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Liu" target="Jingjing Zhao">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Mario Baldi" target="E. Gambi">
@@ -102,10 +114,76 @@
     <edge source="Mario Baldi" target="F. Chiaraluce">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Lei Zhang" target="Lei Zhang">
+    <edge source="Jian Wang" target="Jian Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Lei Zhang" target="E. Gambi">
+    <edge source="Jian Wang" target="Jingjing Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Wang" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Wang" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Wang" target="Ji-Bo Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Wang" target="Chun-lin Xiong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Wang" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Gambi" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Gambi" target="Lei Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Gambi" target="P. Pierleoni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Gambi" target="F. Chiaraluce">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Gambi" target="R. Antonicelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ji-Bo Wei" target="Chun-lin Xiong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ji-Bo Wei" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ji-Bo Wei" target="Pei Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ji-Bo Wei" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-lin Xiong" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiang Wang" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiang Wang" target="Quan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pei Xiao" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pei Xiao" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jingjing Zhao" target="Quan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jingjing Zhao" target="Chaojing Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Zhang" target="Lei Zhang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Lei Zhang" target="Chaojing Tang">
@@ -117,109 +195,31 @@
     <edge source="Lei Zhang" target="Wei Liu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Ji-Bo Wei" target="Chun-lin Xiong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ji-Bo Wei" target="Mathini Sellathurai">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ji-Bo Wei" target="Wei Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ji-Bo Wei" target="Pei Xiao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ji-Bo Wei" target="Hua Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ji-Bo Wei" target="Chaojing Tang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Haifeng Li" target="Chaojing Tang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Haifeng Li" target="Haifeng Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Haifeng Li" target="Quan Zhang">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Chaojing Tang" target="Wei Liu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Chaojing Tang" target="Quan Zhang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Chaojing Tang" target="Mathini Sellathurai">
+    <edge source="Chaojing Tang" target="Haifeng Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Chaojing Tang" target="E. Gambi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Jian Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Jingjing Zhao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Chun-lin Xiong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Hua Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Pei Xiao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chaojing Tang" target="Jian Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="P. Pierleoni" target="F. Chiaraluce">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="P. Pierleoni" target="E. Gambi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="R. Antonicelli" target="E. Gambi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wei Liu" target="Pei Xiao">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wei Liu" target="Mathini Sellathurai">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wei Liu" target="Jian Wang">
+    <edge source="Chaojing Tang" target="Xiaofei Wang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Wei Liu" target="Wei Liu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="E. Gambi" target="F. Chiaraluce">
+    <edge source="F. Chiaraluce" target="P. Pierleoni">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Pei Xiao" target="Mathini Sellathurai">
+    <edge source="Quan Zhang" target="Xiaofei Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jingjing Zhao" target="Quan Zhang">
+    <edge source="Quan Zhang" target="Haifeng Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jingjing Zhao" target="Jian Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jingjing Zhao" target="Jian Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jian Liu" target="Quan Zhang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jian Liu" target="Jian Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hua Wang" target="Chun-lin Xiong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jian Wang" target="Jian Wang">
+    <edge source="Haifeng Li" target="Haifeng Li">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

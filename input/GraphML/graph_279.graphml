@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sophie Pinchinat">
+      <data key="affiliation">IRISA/INRIA Rennes Bretagne Atlantique, Campus Universitaire de Beaulieu, 35042 Rennes Cedex, France</data>
+      <data key="research">modal specification, sffamily RML, sffamily ML</data>
+    </node>
+    <node id="Paolo Ballarini">
+      <data key="affiliation">Ecole Centrale de Paris, ChatenayMalabry, France</data>
+      <data key="research">stochastic model, PRISM model checker, Hybrid Automata Stochastic Logic</data>
+    </node>
+    <node id="Sven Schewe">
+      <data key="affiliation">Universität des Saarlandes and University of Liverpool,</data>
+      <data key="research">chi automaton, model checking, parity game</data>
+    </node>
+    <node id="A. Rabinovich">
+      <data key="affiliation">TelAviv Univ., Tel Aviv, Israel</data>
+      <data key="research">temporal logic, monadic logic, monadic second-order logic</data>
+    </node>
+    <node id="Axel Legay">
+      <data key="affiliation">University of Liège, Belgium</data>
+      <data key="research">SPL dedicated verification method, SPL model checking, automata-based incremental approach</data>
+    </node>
+    <node id="Enrico Vicario">
+      <data key="affiliation">E.Vicario</data>
+      <data key="research">state space, quantitative evaluation, stochastic state class</data>
+    </node>
+    <node id="Marco Paolieri">
+      <data key="affiliation">Barcelona Supercomputing Center, Universitat Politècnica de Catalunya</data>
+      <data key="research">WCET estimation, transient analysis, hard real-time embedded system</data>
+    </node>
+    <node id="Marcus Größer">
+      <data key="affiliation">Technische Universitat Dresden, Germany</data>
+      <data key="research">model checking problem, probabilistic automaton, probabilistic computation tree logic</data>
+    </node>
+    <node id="Christel Baier">
+      <data key="affiliation">(Correspd.) Fakultät für Mathematik and Informatik, Universität Mannheim, 68131 Mannheim, Germany. baier@informatik.unimannheim.de</data>
+      <data key="research">natural topology, syntactic characterization, abstract domain</data>
+    </node>
+    <node id="Parosh Aziz Abdulla">
+      <data key="affiliation">Uppsala University, Sweden</data>
+      <data key="research">Markov chain, Markov Chains, discrete infinite-state Markov chain</data>
+    </node>
+    <node id="Thomas Brihaye">
+      <data key="affiliation">University of MonsUMONS, Mons, Belgium 7000</data>
+      <data key="research">hybrid system, hybrid automaton, o-minimal hybrid system</data>
+    </node>
+    <node id="Amélie Stainer">
+      <data key="affiliation">University of Rennes 1, Rennes, France</data>
+      <data key="research">test case, test purpose, dense time</data>
+    </node>
+    <node id="Blaise Genest">
+      <data key="affiliation">CNRS, IPAL UMI, Singapore</data>
+      <data key="research">local-choice HMSCs, global state, finite-state machine</data>
+    </node>
+    <node id="N. Bertrand">
+      <data key="affiliation">Inria Rennes Bretagne Atlantique, France,University of Liverpool, UK</data>
+      <data key="research">steady-state control problem, probabilistic system, infinite word</data>
+    </node>
+    <node id="Loïc Hélouët">
+      <data key="affiliation">INRIA Rennes, Rennes Cedex, France</data>
+      <data key="research">closure operation, covert channel, general HMSCs</data>
+    </node>
+    <node id="András Horváth">
+      <data key="affiliation">Department of Telecommunications, Technical University of Budapest, Budapest 1521, Hungary</data>
+      <data key="research">transient analysis, stochastic state class, Scale Factor</data>
+    </node>
+    <node id="Nicolas Markey">
+      <data key="affiliation">LSV  CNRS &amp; ENS Cachan, France</data>
+      <data key="research">model checking, robust model-checking, Nash equilibrium</data>
+    </node>
+    <node id="Moez Krichen">
+      <data key="affiliation">Research Unit of Development and Control of Distributed Applications, Higher Institute of Computer Science and Multimedia of Sfax, University of Sfax, Technopole de Sfax BP 242, 3021, Sfax, Tunisi ...</data>
+      <data key="research">conformance testing, black-box conformance testing, real-time system</data>
+    </node>
+    <node id="S. Haddad">
+      <data key="affiliation">Nan</data>
+      <data key="research">coloured net, reduction theory</data>
+    </node>
+    <node id="Patricia Bouyer">
+      <data key="affiliation">Lab. Spécification &amp; Vérification, CNRS &amp; ENS de Cachan, France</data>
+      <data key="research">automata implementable, automata model, automata updatable</data>
+    </node>
+    <edge source="Sophie Pinchinat" target="Axel Legay">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sophie Pinchinat" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ballarini" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ballarini" target="András Horváth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ballarini" target="S. Haddad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ballarini" target="Marco Paolieri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ballarini" target="Enrico Vicario">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Schewe" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Rabinovich" target="Parosh Aziz Abdulla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Rabinovich" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Axel Legay" target="Amélie Stainer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Axel Legay" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Axel Legay" target="Parosh Aziz Abdulla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Enrico Vicario" target="András Horváth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Enrico Vicario" target="Marco Paolieri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Enrico Vicario" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marco Paolieri" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marco Paolieri" target="András Horváth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcus Größer" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcus Größer" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcus Größer" target="Christel Baier">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcus Größer" target="Thomas Brihaye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christel Baier" target="Parosh Aziz Abdulla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christel Baier" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christel Baier" target="Thomas Brihaye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christel Baier" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Parosh Aziz Abdulla" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Brihaye" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Brihaye" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Brihaye" target="Nicolas Markey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Brihaye" target="Amélie Stainer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amélie Stainer" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amélie Stainer" target="Moez Krichen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amélie Stainer" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Blaise Genest" target="Loïc Hélouët">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Blaise Genest" target="N. Bertrand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="András Horváth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="Nicolas Markey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="Loïc Hélouët">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="S. Haddad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Bertrand" target="Moez Krichen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Loïc Hélouët" target="S. Haddad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicolas Markey" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Haddad" target="Patricia Bouyer">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

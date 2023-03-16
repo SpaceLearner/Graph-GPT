@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M Li">
+      <data key="affiliation">Utah State University, Logan, UT, USA</data>
+      <data key="research">unlabeled data, proposed method, data quality requirement</data>
+    </node>
+    <node id="Baruch Awerbuch">
+      <data key="affiliation">baruch@blaze.cs.jhu.edu</data>
+      <data key="research">online algorithm, dynamic network, competitive randomized algorithm</data>
+    </node>
+    <node id="Shlomit S. Pinter">
+      <data key="affiliation">IBM Haifa Research Lab, Haifa University, Haifa, Israel</data>
+      <data key="research">dynamic memory extension, test suite, Linux guest</data>
+    </node>
+    <node id="R. Bar-Yehuda">
+      <data key="affiliation">IBM Israel Sci. Center, Haifa</data>
+      <data key="research">approximation algorithm, 2-approximation algorithm, set-cover problem</data>
+    </node>
+    <node id="Oran Sharon">
+      <data key="affiliation">Department of Computer Science, Netanya Academic College, Netanya, Israel</data>
+      <data key="research">slot reuse, FEC block, broadcast network</data>
+    </node>
+    <node id="Benny Chor">
+      <data key="affiliation">AT&amp;T Bell Lab., Murray Hill, NJ</data>
+      <data key="research">access structure, analytic solution, time n</data>
+    </node>
+    <node id="Andrea Vattani">
+      <data key="affiliation">Department of Computer Science and Engineering, UC, San Diego</data>
+      <data key="research">greedy algorithm, optimal list colorings, total list chromatic number</data>
+    </node>
+    <node id="Evangelos Kranakis">
+      <data key="affiliation">Univ. of Ottawa, Ottawa, ON, Canada</data>
+      <data key="research">unit disk graph, expected number, local algorithm</data>
+    </node>
+    <node id="Dror Rawitz">
+      <data key="affiliation">rawitz@eng.tau.ac.il</data>
+      <data key="research">approximation algorithm, optimization problem, 2-approximation algorithm</data>
+    </node>
+    <node id="Shlomi Dolev">
+      <data key="affiliation">IEEE</data>
+      <data key="research">self-stabilizing operating system, operating system, arbitrary state</data>
+    </node>
+    <node id="Shlomo Moran">
+      <data key="affiliation">Department of Computer Science, Technion, Haifa 32000, Israel and AT&amp;T Bell Labs at Murray Hill and CWI, Amsterdam</data>
+      <data key="research">convex coloring, convex recoloring, admissible run</data>
+    </node>
+    <node id="N Santoro">
+      <data key="affiliation">University of Ottawa (Canada)</data>
+      <data key="research">black hole, mobile agent, black hole search problem</data>
+    </node>
+    <node id="A Gibbons">
+      <data key="affiliation">Synopsys Inc., Reading, United Kingdom</data>
+      <data key="research">hybrid base, complete binary tree, parallel computation</data>
+    </node>
+    <node id="Lihu Rappoport">
+      <data key="affiliation">Intel Corporation, Intel Israel (74) Ltd., Haifa 31015, Israel</data>
+      <data key="research">Context-based prediction, Load-address prediction technique, correct prediction rate</data>
+    </node>
+    <node id="A. Itai">
+      <data key="affiliation">Department of Computer Science, Technion, Haifa, Israel and Department of Computer Science, The Univesity of Chicago</data>
+      <data key="research">time unit, minimum circuit, access graph</data>
+    </node>
+    <node id="Ramamohan Paturi">
+      <data key="affiliation">Nan</data>
+      <data key="research">time O, exact exponential time algorithm, non-trivial exponential time algorithm</data>
+    </node>
+    <node id="Mathew D. McCubbins">
+      <data key="affiliation">University of Southern California</data>
+      <data key="research">game theory, strategic error, human behavior</data>
+    </node>
+    <node id="Amos Israel">
+      <data key="affiliation">School of Computer Science and Mathematics, Netanya Academic College, P.O.B. 120, Netanya 42100, Israel</data>
+      <data key="research">space complexity, physical register, time complexity</data>
+    </node>
+    <node id="Y. Shiloach">
+      <data key="affiliation">Weizmann Institute of Science, Rehovot, Israel and Computer Science Department, Stanford University, Stanford, CA</data>
+      <data key="research">linear inequality, constructive algorithm, polynomial time algorithm</data>
+    </node>
+    <node id="D. Krizanc">
+      <data key="affiliation">Department of Mathematics and Computer Science, Wesleyan Universiry, Middletown, CT</data>
+      <data key="research">expected number, rendezvous problem, cost O</data>
+    </node>
+    <edge source="M Li" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M Li" target="Benny Chor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baruch Awerbuch" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baruch Awerbuch" target="Evangelos Kranakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baruch Awerbuch" target="Y. Shiloach">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baruch Awerbuch" target="Shlomi Dolev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomit S. Pinter" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bar-Yehuda" target="Benny Chor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bar-Yehuda" target="Dror Rawitz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bar-Yehuda" target="A. Itai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bar-Yehuda" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Oran Sharon" target="Dror Rawitz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Oran Sharon" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benny Chor" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrea Vattani" target="Mathew D. McCubbins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrea Vattani" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrea Vattani" target="Ramamohan Paturi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evangelos Kranakis" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evangelos Kranakis" target="Shlomi Dolev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evangelos Kranakis" target="N Santoro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evangelos Kranakis" target="D. Krizanc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dror Rawitz" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomi Dolev" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomi Dolev" target="Shlomo Moran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomi Dolev" target="D. Krizanc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomo Moran" target="A. Itai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomo Moran" target="Lihu Rappoport">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shlomo Moran" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N Santoro" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N Santoro" target="D. Krizanc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A Gibbons" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lihu Rappoport" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Itai" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramamohan Paturi" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramamohan Paturi" target="Mathew D. McCubbins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mathew D. McCubbins" target="Amos Israel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amos Israel" target="Y. Shiloach">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amos Israel" target="D. Krizanc">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

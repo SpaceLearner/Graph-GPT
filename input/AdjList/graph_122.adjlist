@@ -1,66 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:19 2023
 # 
-M. C. Mraghni	1
-Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-Dominique Burger	2
-M. Slimane	{'relation': 'collaborate'}
-Nicole Vincent	{'relation': 'collaborate'}
-N. Monmarchè	7
-Pierre Gaucher	{'relation': 'collaborate'}
-Christiane Guinot	{'relation': 'collaborate'}
-C. Gu&#233/ret	{'relation': 'collaborate'}
-Gilles Venturini	{'relation': 'collaborate'}
-S. Aupetit	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-Pierre Liardet	{'relation': 'collaborate'}
-Mathieu Delalandre	4
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-Josep Lladós	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Josep Lladós	3
-Jean-Yves Ramel	{'relation': 'collaborate'}
-Muhammad Muzzamil Luqman	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Manuel Barbosa	1
-T. Brouard	{'relation': 'collaborate'}
-Nicole Vincent	4
-T. Brouard	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-M. Arif	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-M. Arif	1
-T. Brouard	{'relation': 'collaborate'}
-C. Gu&#233/ret	1
-M. Slimane	{'relation': 'collaborate'}
-Hubert Cardot	2
-Jean-Yves Ramel	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Gilles Venturini	4
-Christiane Guinot	{'relation': 'collaborate'}
-M. Slimane	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-S. Aupetit	4
-M. Slimane	{'relation': 'collaborate'}
-Pierre Liardet	{'relation': 'collaborate'}
-Christiane Guinot	{'relation': 'collaborate'}
-Pierre Gaucher	{'relation': 'collaborate'}
-Pierre Liardet	1
-M. Slimane	{'relation': 'collaborate'}
-Muhammad Muzzamil Luqman	2
-T. Brouard	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-Christiane Guinot	1
-M. Slimane	{'relation': 'collaborate'}
-M. Slimane	3
-Pierre Gaucher	{'relation': 'collaborate'}
-Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-T. Brouard	{'relation': 'collaborate'}
-T. Brouard	2
-Jean Pierre Asselin de Beauville	{'relation': 'collaborate'}
-Jean-Yves Ramel	{'relation': 'collaborate'}
-Pierre Gaucher	0
-Jean-Yves Ramel	0
-Jean Pierre Asselin de Beauville	0
+Jean Pierre Asselin de Beauville	T. Brouard	M. Slimane	M. C. Mraghni	Gilles Venturini
+Josep Lladós	Jean-Yves Ramel	Mathieu Delalandre	Muhammad Muzzamil Luqman	T. Brouard
+S. Aupetit	M. Slimane	Pierre Liardet	Christiane Guinot	N. Monmarchè	Pierre Gaucher
+M. Slimane	C. Gu&#233/ret	Pierre Gaucher	Nicole Vincent	Gilles Venturini	Christiane Guinot	Dominique Burger	T. Brouard	N. Monmarchè	Pierre Liardet
+Gilles Venturini	Christiane Guinot	N. Monmarchè	T. Brouard
+C. Gu&#233/ret	N. Monmarchè
+M. Arif	Nicole Vincent	T. Brouard
+Christiane Guinot	N. Monmarchè
+Pierre Liardet	N. Monmarchè
+N. Monmarchè	Pierre Gaucher
+Muhammad Muzzamil Luqman	Mathieu Delalandre	T. Brouard	Jean-Yves Ramel
+Dominique Burger	Nicole Vincent
+Jean-Yves Ramel	Hubert Cardot	Mathieu Delalandre	Nicole Vincent	T. Brouard
+M. C. Mraghni
+Manuel Barbosa	T. Brouard
+Pierre Gaucher
+Mathieu Delalandre	T. Brouard
+Hubert Cardot	T. Brouard
+T. Brouard	Nicole Vincent
+Nicole Vincent

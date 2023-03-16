@@ -1,0 +1,49 @@
+Carol Friedman	Yonghui Wu	{'relation': 'collaborate'}
+Carol Friedman	Noemie Elhadad	{'relation': 'collaborate'}
+Carol Friedman	Peter Stetson	{'relation': 'collaborate'}
+Carol Friedman	Hua Xu	{'relation': 'collaborate'}
+Noemie Elhadad	Yonghui Wu	{'relation': 'collaborate'}
+Noemie Elhadad	Hua Xu	{'relation': 'collaborate'}
+Noemie Elhadad	Peter Stetson	{'relation': 'collaborate'}
+Min Jiang	Hua Xu	{'relation': 'collaborate'}
+Min Jiang	Yonghui Wu	{'relation': 'collaborate'}
+Min Jiang	Joshua C. Denny	{'relation': 'collaborate'}
+Peter Stetson	Hua Xu	{'relation': 'collaborate'}
+Peter Stetson	Yonghui Wu	{'relation': 'collaborate'}
+Yang Li	Yonghui Wu	{'relation': 'collaborate'}
+Yang Li	Mu Mu	{'relation': 'collaborate'}
+Hua Xu	Joshua C. Denny	{'relation': 'collaborate'}
+Hua Xu	Yonghui Wu	{'relation': 'collaborate'}
+Hua Xu	Min Song	{'relation': 'collaborate'}
+Hua Xu	Dario A. Giuse	{'relation': 'collaborate'}
+Hua Xu	Michael E. Matheny	{'relation': 'collaborate'}
+Hua Xu	S. Trent Rosenbloom	{'relation': 'collaborate'}
+Hua Xu	Randolph A. Miller	{'relation': 'collaborate'}
+Mu Mu	Yonghui Wu	{'relation': 'collaborate'}
+Hong Yan	Yonghui Wu	{'relation': 'collaborate'}
+Joshua C. Denny	Min Song	{'relation': 'collaborate'}
+Joshua C. Denny	Michael E. Matheny	{'relation': 'collaborate'}
+Joshua C. Denny	Yonghui Wu	{'relation': 'collaborate'}
+Joshua C. Denny	Dario A. Giuse	{'relation': 'collaborate'}
+Joshua C. Denny	Randolph A. Miller	{'relation': 'collaborate'}
+Joshua C. Denny	S. Trent Rosenbloom	{'relation': 'collaborate'}
+Stefano Leonardi	Yonghui Wu	{'relation': 'collaborate'}
+Stefano Leonardi	Timothy J. Close	{'relation': 'collaborate'}
+Stefano Leonardi	F. Vahid	{'relation': 'collaborate'}
+Jun Xu	Xiaolong Wang	{'relation': 'collaborate'}
+Jun Xu	Yonghui Wu	{'relation': 'collaborate'}
+Timothy J. Close	Yonghui Wu	{'relation': 'collaborate'}
+F. Vahid	Yonghui Wu	{'relation': 'collaborate'}
+S. Trent Rosenbloom	Randolph A. Miller	{'relation': 'collaborate'}
+S. Trent Rosenbloom	Min Song	{'relation': 'collaborate'}
+S. Trent Rosenbloom	Yonghui Wu	{'relation': 'collaborate'}
+S. Trent Rosenbloom	Dario A. Giuse	{'relation': 'collaborate'}
+Randolph A. Miller	Min Song	{'relation': 'collaborate'}
+Randolph A. Miller	Dario A. Giuse	{'relation': 'collaborate'}
+Randolph A. Miller	Michael E. Matheny	{'relation': 'collaborate'}
+Randolph A. Miller	Yonghui Wu	{'relation': 'collaborate'}
+Min Song	Yonghui Wu	{'relation': 'collaborate'}
+Min Song	Dario A. Giuse	{'relation': 'collaborate'}
+Yonghui Wu	Michael E. Matheny	{'relation': 'collaborate'}
+Yonghui Wu	Dario A. Giuse	{'relation': 'collaborate'}
+Yonghui Wu	Xiaolong Wang	{'relation': 'collaborate'}

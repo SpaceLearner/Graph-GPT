@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-D. A. Torigian	2
-Xinjian Chen	{'relation': 'collaborate'}
-J K Udupa	{'relation': 'collaborate'}
-J K Udupa	16
-R. Reynolds	{'relation': 'collaborate'}
-Celina Zofia Imielinska	{'relation': 'collaborate'}
-Paulo A.  V. Miranda	{'relation': 'collaborate'}
-Gabor T Herman	{'relation': 'collaborate'}
-Xinjian Chen	{'relation': 'collaborate'}
-G. Frieder	{'relation': 'collaborate'}
-K. D. Toennies	{'relation': 'collaborate'}
-Alexandre X. Falcão	{'relation': 'collaborate'}
-Lih-Shyang Chen	{'relation': 'collaborate'}
-Ting Chen	{'relation': 'collaborate'}
-Krzysztof Chris Ciesielski	{'relation': 'collaborate'}
-C. Meyer	{'relation': 'collaborate'}
-Dimitri Metaxas	{'relation': 'collaborate'}
-Li Bai	{'relation': 'collaborate'}
-S N Srihari	{'relation': 'collaborate'}
-Venkatramana G. Ajjanagadde	{'relation': 'collaborate'}
-K. Walker	1
-R. Reynolds	{'relation': 'collaborate'}
-Xinjian Chen	1
-Krzysztof Chris Ciesielski	{'relation': 'collaborate'}
-Li Bai	0
-S N Srihari	1
-Gabor T Herman	{'relation': 'collaborate'}
-G. Frieder	2
-C. Meyer	{'relation': 'collaborate'}
-Gabor T Herman	{'relation': 'collaborate'}
-Lih-Shyang Chen	0
-G. Loeffler	1
-R. Reynolds	{'relation': 'collaborate'}
-Paulo A.  V. Miranda	1
-Alexandre X. Falcão	{'relation': 'collaborate'}
-Gabor T Herman	3
-R. Reynolds	{'relation': 'collaborate'}
-C. Meyer	{'relation': 'collaborate'}
-K. D. Toennies	{'relation': 'collaborate'}
-Krzysztof Chris Ciesielski	0
-Venkatramana G. Ajjanagadde	0
-Ting Chen	2
-Dimitri Metaxas	{'relation': 'collaborate'}
-Celina Zofia Imielinska	{'relation': 'collaborate'}
-Alexandre X. Falcão	0
-C. Meyer	0
-Celina Zofia Imielinska	1
-Dimitri Metaxas	{'relation': 'collaborate'}
-Dimitri Metaxas	0
-R. Reynolds	0
-K. D. Toennies	0
+K. D. Toennies	J K Udupa	Gabor T Herman
+Celina Zofia Imielinska	J K Udupa	Ting Chen	Dimitri Metaxas
+G. Frieder	J K Udupa	C. Meyer	Gabor T Herman
+J K Udupa	R. Reynolds	Paulo A.  V. Miranda	Gabor T Herman	Xinjian Chen	Alexandre X. Falcão	Lih-Shyang Chen	Ting Chen	Krzysztof Chris Ciesielski	C. Meyer	Dimitri Metaxas	Li Bai	D. A. Torigian	S N Srihari	Venkatramana G. Ajjanagadde
+Xinjian Chen	D. A. Torigian	Krzysztof Chris Ciesielski
+R. Reynolds	K. Walker	Gabor T Herman	G. Loeffler
+Li Bai
+Gabor T Herman	S N Srihari	C. Meyer
+Lih-Shyang Chen
+K. Walker
+Krzysztof Chris Ciesielski
+C. Meyer
+S N Srihari
+G. Loeffler
+Alexandre X. Falcão	Paulo A.  V. Miranda
+Venkatramana G. Ajjanagadde
+Paulo A.  V. Miranda
+Ting Chen	Dimitri Metaxas
+Dimitri Metaxas
+D. A. Torigian

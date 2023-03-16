@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Michael Littlefield">
+      <data key="affiliation">Nan</data>
+      <data key="research">Prima Official Game Guide, Official Strategy GuideFrom, Tekken Tag Tournament</data>
+    </node>
+    <node id="Prima Temp Authors">
+      <data key="affiliation">Nan</data>
+      <data key="research">Wwf Smackdown, awesome WWF game, spanking new WWF show</data>
+    </node>
+    <node id="Debra McBride">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide, Official Strategy GuideFrom, Official Strategy GuideFear Effect</data>
+    </node>
+    <node id="Michael Knight">
+      <data key="affiliation">Nan</data>
+      <data key="research">Prima Official Game Guide, Official Strategy Guide, Official Strategy GuideFrom</data>
+    </node>
+    <node id="David Hodgson">
+      <data key="affiliation">Nan</data>
+      <data key="research">new model, DNA ComputationError-resistant Implementation, DNA ComputationsThis paper</data>
+    </node>
+    <node id="Temp Authors Prima">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy GuideFrom, Official Strategy Guide, Official Strategy GuideArmored Core</data>
+    </node>
+    <node id="Michael Searle">
+      <data key="affiliation">Nan</data>
+      <data key="research">Prima Official Game Guide, Official Strategy Guide, Journey Prima Official Game</data>
+    </node>
+    <node id="Mark Cohen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide</data>
+    </node>
+    <node id="Stephen Stratton">
+      <data key="affiliation">Nan</data>
+      <data key="research">Prima Official Game Guide, Official Strategy Guide, II Prima Official Game</data>
+    </node>
+    <node id="David Jon Winding">
+      <data key="affiliation">Nan</data>
+      <data key="research">Tomb Raider, Official Strategy Guide, Last Revelation</data>
+    </node>
+    <node id="Donato Tica">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide, Official Strategy GuideFrom, Perfect Dark</data>
+    </node>
+    <node id="Prima Development">
+      <data key="affiliation">Nan</data>
+      <data key="research">MAC OS X Fast, new OS, complex feature</data>
+    </node>
+    <node id="Bryan Stratton">
+      <data key="affiliation">Nan</data>
+      <data key="research">Prima Official Game Guide, Official Strategy Guide, Official Strategy GuideSuper Mario</data>
+    </node>
+    <node id="David Cassady">
+      <data key="affiliation">Nan</data>
+      <data key="research">Digimon World IIFrom, DNA digivolvingLists, Digi-Beetle ItemsBattle tactic</data>
+    </node>
+    <node id="Gregory Kramer">
+      <data key="affiliation">Wright State University</data>
+      <data key="research">Prima Official Game Guide, OFFICIAL STRATEGY GUIDE, neutral drift</data>
+    </node>
+    <node id="Elizabeth M. Hollinger">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide, Official Strategy GuideFrom, Colosseum Official Strategy GuidePokemon</data>
+    </node>
+    <node id="Mario De Govia">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide, Official Strategy GuideFrom, Unauthorized Strategy GuideFrom</data>
+    </node>
+    <node id="Jon Robinson">
+      <data key="affiliation">University of Sussex</data>
+      <data key="research">service composition, pervasive computing environment, adaptable service</data>
+    </node>
+    <node id="Joe Grant Bell">
+      <data key="affiliation">Nan</data>
+      <data key="research">Red Alert Retaliation Guide, Red Alert RetaliationFrom, new Red Alert mission</data>
+    </node>
+    <node id="Steve Honeywell">
+      <data key="affiliation">Nan</data>
+      <data key="research">Official Strategy Guide, Official Strategy GuideFrom, Official Strategy Guide feature</data>
+    </node>
+    <edge source="Michael Littlefield" target="Temp Authors Prima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Littlefield" target="Donato Tica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Debra McBride">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Steve Honeywell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Donato Tica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="David Jon Winding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="David Hodgson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Michael Knight">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Mark Cohen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Gregory Kramer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Temp Authors Prima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Bryan Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Stephen Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Elizabeth M. Hollinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Temp Authors" target="Mario De Govia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Debra McBride" target="Temp Authors Prima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Debra McBride" target="David Cassady">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Knight" target="Gregory Kramer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Knight" target="Mark Cohen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Knight" target="Temp Authors Prima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Knight" target="Prima Development">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Hodgson" target="Stephen Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Hodgson" target="Temp Authors Prima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Hodgson" target="Bryan Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="David Jon Winding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="David Cassady">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Stephen Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Steve Honeywell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Bryan Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Elizabeth M. Hollinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Mario De Govia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Mark Cohen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Jon Robinson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Donato Tica">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Michael Searle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Gregory Kramer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Temp Authors Prima" target="Prima Development">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark Cohen" target="Gregory Kramer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen Stratton" target="Bryan Stratton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Jon Winding" target="Joe Grant Bell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donato Tica" target="Mario De Govia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donato Tica" target="Prima Development">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Development" target="Mario De Govia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Development" target="Elizabeth M. Hollinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Prima Development" target="Steve Honeywell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bryan Stratton" target="Joe Grant Bell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joe Grant Bell" target="Steve Honeywell">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

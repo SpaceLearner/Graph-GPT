@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Jinling Wang	1
-Xun Li	{'relation': 'collaborate'}
-Hongxu Ma	1
-Xun Li	{'relation': 'collaborate'}
-Shoucai Yuan	2
-Ziyu Wang	{'relation': 'collaborate'}
-Xun Li	{'relation': 'collaborate'}
-SeungHwan Won	1
-Xun Li	{'relation': 'collaborate'}
-Xi-shan Wen	1
-Xun Li	{'relation': 'collaborate'}
-Yanjun Wang	2
-Xun Li	{'relation': 'collaborate'}
-Li Li	{'relation': 'collaborate'}
-Sang Bong Yoo	3
-Xun Li	{'relation': 'collaborate'}
-Li Li	{'relation': 'collaborate'}
-Woochul Shin	{'relation': 'collaborate'}
-Vasanth Ram Rajarathinam	3
-Frederic T. Chong	{'relation': 'collaborate'}
-Xun Li	{'relation': 'collaborate'}
-Ben Hardekopf	{'relation': 'collaborate'}
-Ben Hardekopf	2
-Xun Li	{'relation': 'collaborate'}
-Frederic T. Chong	{'relation': 'collaborate'}
-Woochul Shin	2
-Xun Li	{'relation': 'collaborate'}
-Li Li	{'relation': 'collaborate'}
-Frederic T. Chong	3
-Xun Li	{'relation': 'collaborate'}
-Roland Geyer	{'relation': 'collaborate'}
-Diana Franklin	{'relation': 'collaborate'}
-Li Li	1
-Xun Li	{'relation': 'collaborate'}
-Diana Franklin	2
-Xun Li	{'relation': 'collaborate'}
-Roland Geyer	{'relation': 'collaborate'}
-Xun Li	6
-Roland Geyer	{'relation': 'collaborate'}
-Clyde W. Holsapple	{'relation': 'collaborate'}
-Radhika Santhanam	{'relation': 'collaborate'}
-De Liu	{'relation': 'collaborate'}
-Ziyu Wang	{'relation': 'collaborate'}
-Yanbo Gao	{'relation': 'collaborate'}
-Yanbo Gao	0
-Radhika Santhanam	2
-De Liu	{'relation': 'collaborate'}
-Clyde W. Holsapple	{'relation': 'collaborate'}
-De Liu	0
-Ziyu Wang	0
-Clyde W. Holsapple	0
-Roland Geyer	0
+Xi-shan Wen	Xun Li
+Yanjun Wang	Xun Li	Li Li
+De Liu	Xun Li	Radhika Santhanam
+Ziyu Wang	Shoucai Yuan	Xun Li
+Hongxu Ma	Xun Li
+Radhika Santhanam	Xun Li	Clyde W. Holsapple
+Sang Bong Yoo	Xun Li	Li Li	Woochul Shin
+Clyde W. Holsapple	Xun Li
+Li Li	Xun Li	Woochul Shin
+Frederic T. Chong	Xun Li	Vasanth Ram Rajarathinam	Roland Geyer	Ben Hardekopf	Diana Franklin
+Xun Li	Roland Geyer	Ben Hardekopf	Diana Franklin	Vasanth Ram Rajarathinam	Shoucai Yuan	SeungHwan Won	Yanbo Gao	Jinling Wang	Woochul Shin
+Shoucai Yuan
+Yanbo Gao
+SeungHwan Won
+Jinling Wang
+Woochul Shin
+Vasanth Ram Rajarathinam	Ben Hardekopf
+Roland Geyer	Diana Franklin
+Ben Hardekopf
+Diana Franklin

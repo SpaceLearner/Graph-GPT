@@ -1,47 +1,47 @@
+R. G. McLenaghan	Keith O. Geddes	{'relation': 'collaborate'}
+George Labahn	Keith O. Geddes	{'relation': 'collaborate'}
+George Labahn	Michael B. Monagan	{'relation': 'collaborate'}
+George Labahn	K. M. Heal	{'relation': 'collaborate'}
+George Labahn	Ziming Li	{'relation': 'collaborate'}
+George Labahn	S. R. Czapor	{'relation': 'collaborate'}
+Ha Le	Ziming Li	{'relation': 'collaborate'}
+Ha Le	Keith O. Geddes	{'relation': 'collaborate'}
+Ha Le	S. A. Abramov	{'relation': 'collaborate'}
+Gregory J. Fee	Michael B. Monagan	{'relation': 'collaborate'}
+Gregory J. Fee	Gaston H. Gonnet	{'relation': 'collaborate'}
+Gregory J. Fee	Keith O. Geddes	{'relation': 'collaborate'}
+Gregory J. Fee	T. C. Scott	{'relation': 'collaborate'}
+Gregory J. Fee	Bruce W. Char	{'relation': 'collaborate'}
 S. A. Abramov	Keith O. Geddes	{'relation': 'collaborate'}
-S. A. Abramov	Ha Le	{'relation': 'collaborate'}
-B. L. Leong	Bruce W. Char	{'relation': 'collaborate'}
-B. L. Leong	Michael B. Monagan	{'relation': 'collaborate'}
-B. L. Leong	Stephen Michael Watt	{'relation': 'collaborate'}
-B. L. Leong	Keith O. Geddes	{'relation': 'collaborate'}
-B. L. Leong	Gaston H. Gonnet	{'relation': 'collaborate'}
+S. Dooley	Stephen Michael Watt	{'relation': 'collaborate'}
+S. Dooley	Keith O. Geddes	{'relation': 'collaborate'}
+S. Dooley	Bruno Salvy	{'relation': 'collaborate'}
+Gaston H. Gonnet	Stephen Michael Watt	{'relation': 'collaborate'}
+Gaston H. Gonnet	T. J. Smedley	{'relation': 'collaborate'}
+Gaston H. Gonnet	Bruce W. Char	{'relation': 'collaborate'}
+Gaston H. Gonnet	Michael B. Monagan	{'relation': 'collaborate'}
+Gaston H. Gonnet	W. Morven Gentleman	{'relation': 'collaborate'}
+Gaston H. Gonnet	Keith O. Geddes	{'relation': 'collaborate'}
+Gaston H. Gonnet	B. L. Leong	{'relation': 'collaborate'}
 K. M. Heal	Michael B. Monagan	{'relation': 'collaborate'}
-K. M. Heal	George Labahn	{'relation': 'collaborate'}
 K. M. Heal	Keith O. Geddes	{'relation': 'collaborate'}
-Keith O. Geddes	S. R. Czapor	{'relation': 'collaborate'}
-Keith O. Geddes	Stephen Michael Watt	{'relation': 'collaborate'}
-Keith O. Geddes	R. G. McLenaghan	{'relation': 'collaborate'}
-Keith O. Geddes	Ziming Li	{'relation': 'collaborate'}
-Keith O. Geddes	George Labahn	{'relation': 'collaborate'}
-Keith O. Geddes	Ha Le	{'relation': 'collaborate'}
-Keith O. Geddes	T. J. Smedley	{'relation': 'collaborate'}
-Keith O. Geddes	S. Dooley	{'relation': 'collaborate'}
-Keith O. Geddes	W. Morven Gentleman	{'relation': 'collaborate'}
-Keith O. Geddes	Bruce W. Char	{'relation': 'collaborate'}
-Keith O. Geddes	Michael B. Monagan	{'relation': 'collaborate'}
-Keith O. Geddes	L. Y. Stefanus	{'relation': 'collaborate'}
-Keith O. Geddes	Bruno Salvy	{'relation': 'collaborate'}
-Keith O. Geddes	Gregory J. Fee	{'relation': 'collaborate'}
-Keith O. Geddes	Gaston H. Gonnet	{'relation': 'collaborate'}
-Keith O. Geddes	T. C. Scott	{'relation': 'collaborate'}
-T. J. Smedley	Gaston H. Gonnet	{'relation': 'collaborate'}
+Bruce W. Char	B. L. Leong	{'relation': 'collaborate'}
 Bruce W. Char	W. Morven Gentleman	{'relation': 'collaborate'}
 Bruce W. Char	Stephen Michael Watt	{'relation': 'collaborate'}
 Bruce W. Char	Michael B. Monagan	{'relation': 'collaborate'}
-Bruce W. Char	Gaston H. Gonnet	{'relation': 'collaborate'}
-Bruce W. Char	Gregory J. Fee	{'relation': 'collaborate'}
+Bruce W. Char	Keith O. Geddes	{'relation': 'collaborate'}
+W. Morven Gentleman	Keith O. Geddes	{'relation': 'collaborate'}
+T. J. Smedley	Keith O. Geddes	{'relation': 'collaborate'}
 Bruno Salvy	Ziming Li	{'relation': 'collaborate'}
-Bruno Salvy	S. Dooley	{'relation': 'collaborate'}
-W. Morven Gentleman	Gaston H. Gonnet	{'relation': 'collaborate'}
-Gaston H. Gonnet	Stephen Michael Watt	{'relation': 'collaborate'}
-Gaston H. Gonnet	Gregory J. Fee	{'relation': 'collaborate'}
-Gaston H. Gonnet	Michael B. Monagan	{'relation': 'collaborate'}
-Gregory J. Fee	Michael B. Monagan	{'relation': 'collaborate'}
-Gregory J. Fee	T. C. Scott	{'relation': 'collaborate'}
-T. C. Scott	Michael B. Monagan	{'relation': 'collaborate'}
-S. Dooley	Stephen Michael Watt	{'relation': 'collaborate'}
-S. R. Czapor	George Labahn	{'relation': 'collaborate'}
-George Labahn	Michael B. Monagan	{'relation': 'collaborate'}
-George Labahn	Ziming Li	{'relation': 'collaborate'}
-Ha Le	Ziming Li	{'relation': 'collaborate'}
+Bruno Salvy	Keith O. Geddes	{'relation': 'collaborate'}
+Stephen Michael Watt	Keith O. Geddes	{'relation': 'collaborate'}
 Stephen Michael Watt	Michael B. Monagan	{'relation': 'collaborate'}
+Stephen Michael Watt	B. L. Leong	{'relation': 'collaborate'}
+B. L. Leong	Michael B. Monagan	{'relation': 'collaborate'}
+B. L. Leong	Keith O. Geddes	{'relation': 'collaborate'}
+S. R. Czapor	Keith O. Geddes	{'relation': 'collaborate'}
+L. Y. Stefanus	Keith O. Geddes	{'relation': 'collaborate'}
+Ziming Li	Keith O. Geddes	{'relation': 'collaborate'}
+Michael B. Monagan	T. C. Scott	{'relation': 'collaborate'}
+Michael B. Monagan	Keith O. Geddes	{'relation': 'collaborate'}
+T. C. Scott	Keith O. Geddes	{'relation': 'collaborate'}

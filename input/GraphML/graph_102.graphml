@@ -4,73 +4,49 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Robert S. Arnold">
-      <data key="affiliation">MITRE Corporation</data>
-      <data key="research">software reeingineering, software maintenance, existing software</data>
-    </node>
-    <node id="Norman Wilde">
-      <data key="affiliation">Dept of Computer Science, University of West Florida, Pensacola, FL</data>
-      <data key="research">software maintenance, software engineer, case study</data>
-    </node>
     <node id="W. Eric Wong">
       <data key="affiliation">Department of Computer Science, University of Texas at Dallas, TX 75083, USA</data>
       <data key="research">suspicious code, failed test case, program fault</data>
-    </node>
-    <node id="Joseph R. Horgan">
-      <data key="affiliation">Bell Laboratories, Murray Hill, New Jersey</data>
-      <data key="research">software system, software architecture, software testing</data>
-    </node>
-    <node id="K. H. Bennett">
-      <data key="affiliation">Univ. of Keele, Staffs, UK</data>
-      <data key="research">computer system, processesIn conventional operating system, system call</data>
-    </node>
-    <node id="Eman M. El-Sheikh">
-      <data key="affiliation">Department of Computer Science, University of West Florida, 11000 University Parkway, Pensacola, FL 32514, USA.</data>
-      <data key="research">intelligent tutoring system, different domain, SOA maintainers</data>
-    </node>
-    <node id="Michael Groble">
-      <data key="affiliation">Motorola Inc.</data>
-      <data key="research">feature location, feature location problem, large system</data>
-    </node>
-    <node id="Vaclav Rajlich">
-      <data key="affiliation">IEEE Computer Society</data>
-      <data key="research">software evolution, case study, software change</data>
-    </node>
-    <node id="Malcolm C Munro">
-      <data key="affiliation">Researching Evolutionary Development Group, Department of Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire LE11 3TU</data>
-      <data key="research">software maintenance, software reuse, software change</data>
     </node>
     <node id="Benjamin Hartmann">
       <data key="affiliation">Department of Mechanical Engineering, University Siegen, Siegen, Germany D57068</data>
       <data key="research">local model, local model network, SOA maintainers</data>
     </node>
-    <node id="Sharon Jeanette Simmons">
-      <data key="affiliation">University of West Florida</data>
-      <data key="research">feature location, feature location problem, large system</data>
+    <node id="Jean-Pierre Queille">
+      <data key="affiliation">Laboratoire IMAG, , Grenoble Cedex, France 38041</data>
+      <data key="research">automatic propagation, propagation engine, software system</data>
+    </node>
+    <node id="Norman Wilde">
+      <data key="affiliation">Dept of Computer Science, University of West Florida, Pensacola, FL</data>
+      <data key="research">software maintenance, software engineer, case study</data>
+    </node>
+    <node id="Joseph R. Horgan">
+      <data key="affiliation">Bell Laboratories, Murray Hill, New Jersey</data>
+      <data key="research">software system, software architecture, software testing</data>
     </node>
     <node id="Paul Matthews">
       <data key="affiliation">Department of Information Science and Digital Media, Bristol Institute of Technology University of the West of England, Bristol, UK BS16 1QY</data>
       <data key="research">agricultural knowledge, Kheti system, multimedia communication system</data>
     </node>
-    <node id="S. London">
-      <data key="affiliation">Nan</data>
-      <data key="research">POPCORN Project</data>
-    </node>
-    <node id="Scott M. Brown">
-      <data key="affiliation">Department of Electrical and Computer Engineering Air Force Institute of Technology WrightPatterson AFB, OH</data>
-      <data key="research">Intelligent Information QueriesIdentifying, Intelligent Interface AgentsA decision, Probabilistic Knowledge-BasesUtility Theory-Based User</data>
+    <node id="Robert S. Arnold">
+      <data key="affiliation">MITRE Corporation</data>
+      <data key="research">software reeingineering, software maintenance, existing software</data>
     </node>
     <node id="John Coffey">
       <data key="affiliation">The University of West Florida, Pensacola, FL</data>
       <data key="research">meta-cognitive tool, course design, course designer</data>
     </node>
-    <node id="Michael Jiang">
-      <data key="affiliation">Nan</data>
-      <data key="research">autonomic capability, Case Study, Model-Based Approach</data>
+    <node id="Vaclav Rajlich">
+      <data key="affiliation">IEEE Computer Society</data>
+      <data key="research">software evolution, case study, software change</data>
     </node>
-    <node id="J. Jenny Li">
-      <data key="affiliation">Nan</data>
-      <data key="research">Refactoring TestsMachine, software engineering, software testing</data>
+    <node id="Michael Groble">
+      <data key="affiliation">Motorola Inc.</data>
+      <data key="research">feature location, feature location problem, large system</data>
+    </node>
+    <node id="Eman M. El-Sheikh">
+      <data key="affiliation">Department of Computer Science, University of West Florida, 11000 University Parkway, Pensacola, FL 32514, USA.</data>
+      <data key="research">intelligent tutoring system, different domain, SOA maintainers</data>
     </node>
     <node id="J. L. Alberi">
       <data key="affiliation">Bellcore, 445 South Street, Morristown, NJ</data>
@@ -80,14 +56,59 @@
       <data key="affiliation">Nan</data>
       <data key="research">Benefit Software Malntenance, Design Records, quality systemsSoftware Maintenance Standards</data>
     </node>
-    <node id="Jean-Pierre Queille">
-      <data key="affiliation">Laboratoire IMAG, , Grenoble Cedex, France 38041</data>
-      <data key="research">automatic propagation, propagation engine, software system</data>
+    <node id="Sharon Jeanette Simmons">
+      <data key="affiliation">University of West Florida</data>
+      <data key="research">feature location, feature location problem, large system</data>
     </node>
-    <edge source="Robert S. Arnold" target="Norman Wilde">
+    <node id="Michael Jiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">autonomic capability, Case Study, Model-Based Approach</data>
+    </node>
+    <node id="Scott M. Brown">
+      <data key="affiliation">Department of Electrical and Computer Engineering Air Force Institute of Technology WrightPatterson AFB, OH</data>
+      <data key="research">Intelligent Information QueriesIdentifying, Intelligent Interface AgentsA decision, Probabilistic Knowledge-BasesUtility Theory-Based User</data>
+    </node>
+    <node id="S. London">
+      <data key="affiliation">Nan</data>
+      <data key="research">POPCORN Project</data>
+    </node>
+    <node id="J. Jenny Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Refactoring TestsMachine, software engineering, software testing</data>
+    </node>
+    <node id="Malcolm C Munro">
+      <data key="affiliation">Researching Evolutionary Development Group, Department of Manufacturing Engineering, Loughborough University, Loughborough, Leicestershire LE11 3TU</data>
+      <data key="research">software maintenance, software reuse, software change</data>
+    </node>
+    <node id="K. H. Bennett">
+      <data key="affiliation">Univ. of Keele, Staffs, UK</data>
+      <data key="research">computer system, processesIn conventional operating system, system call</data>
+    </node>
+    <edge source="W. Eric Wong" target="Norman Wilde">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Robert S. Arnold" target="Malcolm Slovin">
+    <edge source="W. Eric Wong" target="J. Jenny Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Eric Wong" target="S. London">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Eric Wong" target="J. L. Alberi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Eric Wong" target="Joseph R. Horgan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Hartmann" target="Norman Wilde">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin Hartmann" target="Eman M. El-Sheikh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Pierre Queille" target="Norman Wilde">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Pierre Queille" target="Malcolm C Munro">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Norman Wilde" target="Vaclav Rajlich">
@@ -96,16 +117,10 @@
     <edge source="Norman Wilde" target="Malcolm C Munro">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Norman Wilde" target="W. Eric Wong">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Norman Wilde" target="Michael Jiang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Norman Wilde" target="Joseph R. Horgan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Norman Wilde" target="Jean-Pierre Queille">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Norman Wilde" target="Scott M. Brown">
@@ -138,22 +153,10 @@
     <edge source="Norman Wilde" target="K. H. Bennett">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Norman Wilde" target="Benjamin Hartmann">
+    <edge source="Norman Wilde" target="Robert S. Arnold">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Norman Wilde" target="J. L. Alberi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W. Eric Wong" target="J. Jenny Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W. Eric Wong" target="S. London">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W. Eric Wong" target="J. L. Alberi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="W. Eric Wong" target="Joseph R. Horgan">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Joseph R. Horgan" target="S. London">
@@ -165,16 +168,19 @@
     <edge source="Joseph R. Horgan" target="J. L. Alberi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="K. H. Bennett" target="Malcolm C Munro">
+    <edge source="Robert S. Arnold" target="Malcolm Slovin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="K. H. Bennett" target="Vaclav Rajlich">
+    <edge source="John Coffey" target="Eman M. El-Sheikh">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Eman M. El-Sheikh" target="John Coffey">
+    <edge source="John Coffey" target="Sharon Jeanette Simmons">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Eman M. El-Sheikh" target="Benjamin Hartmann">
+    <edge source="Vaclav Rajlich" target="K. H. Bennett">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vaclav Rajlich" target="Malcolm C Munro">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Michael Groble" target="Michael Jiang">
@@ -183,25 +189,19 @@
     <edge source="Michael Groble" target="Sharon Jeanette Simmons">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Vaclav Rajlich" target="Malcolm C Munro">
+    <edge source="J. L. Alberi" target="J. Jenny Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Malcolm C Munro" target="Jean-Pierre Queille">
+    <edge source="J. L. Alberi" target="S. London">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Sharon Jeanette Simmons" target="Michael Jiang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Sharon Jeanette Simmons" target="John Coffey">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="S. London" target="J. Jenny Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. London" target="J. L. Alberi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="J. Jenny Li" target="J. L. Alberi">
+    <edge source="Malcolm C Munro" target="K. H. Bennett">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

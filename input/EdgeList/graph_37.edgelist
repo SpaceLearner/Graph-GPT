@@ -1,47 +1,47 @@
-E. Pesch	Günter Schmidt	{'relation': 'collaborate'}
-E. Pesch	J Weglarz	{'relation': 'collaborate'}
-E. Pesch	J Blazewicz	{'relation': 'collaborate'}
-E. Pesch	K. Ecker	{'relation': 'collaborate'}
-Franz Freyberger	Günter Schmidt	{'relation': 'collaborate'}
-Franz Freyberger	E. Ettelt	{'relation': 'collaborate'}
-Franz Freyberger	C. Fischer	{'relation': 'collaborate'}
-L. Nemes	P. Bernus	{'relation': 'collaborate'}
-L. Nemes	Günter Schmidt	{'relation': 'collaborate'}
-P. Bernus	Günter Schmidt	{'relation': 'collaborate'}
-P. Bernus	K. Mertins	{'relation': 'collaborate'}
-P. Bernus	Michael J. Shaw	{'relation': 'collaborate'}
-P. Bernus	Troy Jefferson Strader	{'relation': 'collaborate'}
-P. Bernus	Andrew B. Whinston	{'relation': 'collaborate'}
-P. Bernus	Robert W. Blanning	{'relation': 'collaborate'}
-Susanne Albers	Günter Schmidt	{'relation': 'collaborate'}
-M. Drozdowski	Günter Schmidt	{'relation': 'collaborate'}
-M. Drozdowski	J Blazewicz	{'relation': 'collaborate'}
-M. Drozdowski	J Weglarz	{'relation': 'collaborate'}
-M. Drozdowski	W. Kubiak	{'relation': 'collaborate'}
-M. Drozdowski	P. Formanowicz	{'relation': 'collaborate'}
-K. Mertins	Günter Schmidt	{'relation': 'collaborate'}
 W. Kubiak	J Blazewicz	{'relation': 'collaborate'}
 W. Kubiak	Günter Schmidt	{'relation': 'collaborate'}
 W. Kubiak	P. Formanowicz	{'relation': 'collaborate'}
+W. Kubiak	M. Drozdowski	{'relation': 'collaborate'}
+Robert W. Blanning	Michael J. Shaw	{'relation': 'collaborate'}
+Robert W. Blanning	Andrew B. Whinston	{'relation': 'collaborate'}
+Robert W. Blanning	Günter Schmidt	{'relation': 'collaborate'}
+Robert W. Blanning	Troy Jefferson Strader	{'relation': 'collaborate'}
+Robert W. Blanning	P. Bernus	{'relation': 'collaborate'}
 Troy Jefferson Strader	Andrew B. Whinston	{'relation': 'collaborate'}
 Troy Jefferson Strader	Günter Schmidt	{'relation': 'collaborate'}
 Troy Jefferson Strader	Michael J. Shaw	{'relation': 'collaborate'}
-Troy Jefferson Strader	Robert W. Blanning	{'relation': 'collaborate'}
-Andrew B. Whinston	Robert W. Blanning	{'relation': 'collaborate'}
-Andrew B. Whinston	Michael J. Shaw	{'relation': 'collaborate'}
-Andrew B. Whinston	Günter Schmidt	{'relation': 'collaborate'}
-Michael J. Shaw	Robert W. Blanning	{'relation': 'collaborate'}
-Michael J. Shaw	Günter Schmidt	{'relation': 'collaborate'}
+Troy Jefferson Strader	P. Bernus	{'relation': 'collaborate'}
 J Blazewicz	P. Formanowicz	{'relation': 'collaborate'}
 J Blazewicz	K. Ecker	{'relation': 'collaborate'}
 J Blazewicz	J Weglarz	{'relation': 'collaborate'}
+J Blazewicz	M. Drozdowski	{'relation': 'collaborate'}
 J Blazewicz	Günter Schmidt	{'relation': 'collaborate'}
-Bernd Lahl	Günter Schmidt	{'relation': 'collaborate'}
-J Weglarz	K. Ecker	{'relation': 'collaborate'}
-J Weglarz	Günter Schmidt	{'relation': 'collaborate'}
+J Blazewicz	E. Pesch	{'relation': 'collaborate'}
+Franz Freyberger	Günter Schmidt	{'relation': 'collaborate'}
+Franz Freyberger	E. Ettelt	{'relation': 'collaborate'}
+Franz Freyberger	C. Fischer	{'relation': 'collaborate'}
+P. Bernus	Günter Schmidt	{'relation': 'collaborate'}
+P. Bernus	K. Mertins	{'relation': 'collaborate'}
+P. Bernus	Michael J. Shaw	{'relation': 'collaborate'}
+P. Bernus	L. Nemes	{'relation': 'collaborate'}
+P. Bernus	Andrew B. Whinston	{'relation': 'collaborate'}
+Andrew B. Whinston	Michael J. Shaw	{'relation': 'collaborate'}
+Andrew B. Whinston	Günter Schmidt	{'relation': 'collaborate'}
+C. Fischer	E. Ettelt	{'relation': 'collaborate'}
+C. Fischer	Günter Schmidt	{'relation': 'collaborate'}
+K. Mertins	Günter Schmidt	{'relation': 'collaborate'}
+Susanne Albers	Günter Schmidt	{'relation': 'collaborate'}
 E. Ettelt	Günter Schmidt	{'relation': 'collaborate'}
-E. Ettelt	C. Fischer	{'relation': 'collaborate'}
+M. Drozdowski	Günter Schmidt	{'relation': 'collaborate'}
+M. Drozdowski	J Weglarz	{'relation': 'collaborate'}
+M. Drozdowski	P. Formanowicz	{'relation': 'collaborate'}
+P. Formanowicz	Günter Schmidt	{'relation': 'collaborate'}
+K. Ecker	J Weglarz	{'relation': 'collaborate'}
 K. Ecker	Günter Schmidt	{'relation': 'collaborate'}
-Günter Schmidt	C. Fischer	{'relation': 'collaborate'}
-Günter Schmidt	P. Formanowicz	{'relation': 'collaborate'}
-Günter Schmidt	Robert W. Blanning	{'relation': 'collaborate'}
+K. Ecker	E. Pesch	{'relation': 'collaborate'}
+E. Pesch	Günter Schmidt	{'relation': 'collaborate'}
+E. Pesch	J Weglarz	{'relation': 'collaborate'}
+L. Nemes	Günter Schmidt	{'relation': 'collaborate'}
+Michael J. Shaw	Günter Schmidt	{'relation': 'collaborate'}
+Bernd Lahl	Günter Schmidt	{'relation': 'collaborate'}
+J Weglarz	Günter Schmidt	{'relation': 'collaborate'}

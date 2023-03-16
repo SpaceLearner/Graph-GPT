@@ -1,43 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:09 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:15 2023
 # 
-Yingwei Cui	1
-Jun Yang	{'relation': 'collaborate'}
-M. H. Er	1
-Jun Yang	{'relation': 'collaborate'}
-Bo He	1
-Jun Yang	{'relation': 'collaborate'}
-Yu-feng Du	1
-Jun Yang	{'relation': 'collaborate'}
-Getian Ye	1
-Jun Yang	{'relation': 'collaborate'}
-Jin Yang	2
-Jun Yang	{'relation': 'collaborate'}
-Jin Yang	{'relation': 'collaborate'}
-Amiya K. Basu	1
-Jun Yang	{'relation': 'collaborate'}
-Jun Yang	12
-Zonghua Gu	{'relation': 'collaborate'}
-Yu-Gang Jiang	{'relation': 'collaborate'}
-Chengkai Li	{'relation': 'collaborate'}
-Wei-hao Lin	{'relation': 'collaborate'}
-Wengang Zhou	{'relation': 'collaborate'}
-Xiangliang Jin	{'relation': 'collaborate'}
-Patricio A. Vela	{'relation': 'collaborate'}
-Zhen-Dong Wu	{'relation': 'collaborate'}
-Xi Chen	{'relation': 'collaborate'}
-Jianhui Wu	{'relation': 'collaborate'}
-Jian Zhai	{'relation': 'collaborate'}
-Wenqiang Xiao	{'relation': 'collaborate'}
-Xi Chen	0
-Wei-hao Lin	0
-Yu-Gang Jiang	0
-Wengang Zhou	0
-Jianhui Wu	0
-Chengkai Li	0
-Wenqiang Xiao	0
-Xiangliang Jin	0
-Zhen-Dong Wu	0
-Zonghua Gu	0
-Patricio A. Vela	0
-Jian Zhai	0
+Zonghua Gu	Jun Yang
+Xi Chen	Jun Yang
+Bo He	Jun Yang
+Chengkai Li	Jun Yang
+Wenqiang Xiao	Jun Yang
+Yingwei Cui	Jun Yang
+Wengang Zhou	Jun Yang
+Xiangliang Jin	Jun Yang
+Jian Zhai	Jun Yang
+Patricio A. Vela	Jun Yang
+Yu-feng Du	Jun Yang
+M. H. Er	Jun Yang
+Jun Yang	Jin Yang	Yu-Gang Jiang	Getian Ye	Wei-hao Lin	Zhen-Dong Wu	Amiya K. Basu	Jianhui Wu
+Yu-Gang Jiang
+Jianhui Wu
+Zhen-Dong Wu
+Jin Yang	Jin Yang
+Amiya K. Basu
+Getian Ye
+Wei-hao Lin

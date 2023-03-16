@@ -1,0 +1,41 @@
+Ronald W. Schafer	James H. McClellan	{'relation': 'collaborate'}
+Ronald W. Schafer	J. B. Schodorf	{'relation': 'collaborate'}
+Ronald W. Schafer	M. A. Yoder	{'relation': 'collaborate'}
+S. Douglas	M. A. Yoder	{'relation': 'collaborate'}
+S. Douglas	Geoffrey C. Orsak	{'relation': 'collaborate'}
+S. Douglas	John R. Treichler	{'relation': 'collaborate'}
+S. Douglas	D. Munson	{'relation': 'collaborate'}
+S. Douglas	Sally L. Wood	{'relation': 'collaborate'}
+Brendan J. Frey	Kannan Achan	{'relation': 'collaborate'}
+Brendan J. Frey	Ralf Koetter	{'relation': 'collaborate'}
+Brendan J. Frey	D. Munson	{'relation': 'collaborate'}
+James H. McClellan	M. A. Yoder	{'relation': 'collaborate'}
+James H. McClellan	J. B. Schodorf	{'relation': 'collaborate'}
+I. Fijalkow	John R. Treichler	{'relation': 'collaborate'}
+I. Fijalkow	T. J. Endres	{'relation': 'collaborate'}
+I. Fijalkow	H. J. Lee	{'relation': 'collaborate'}
+L. H. Jamieson	M. A. Yoder	{'relation': 'collaborate'}
+M. A. Yoder	Geoffrey C. Orsak	{'relation': 'collaborate'}
+M. A. Yoder	J. B. Schodorf	{'relation': 'collaborate'}
+M. A. Yoder	J.H. McClellan	{'relation': 'collaborate'}
+M. A. Yoder	Sally L. Wood	{'relation': 'collaborate'}
+M. A. Yoder	John R. Treichler	{'relation': 'collaborate'}
+M. A. Yoder	R.W. Schafer	{'relation': 'collaborate'}
+M. A. Yoder	D. Munson	{'relation': 'collaborate'}
+R.W. Schafer	J. B. Schodorf	{'relation': 'collaborate'}
+R.W. Schafer	J.H. McClellan	{'relation': 'collaborate'}
+Sally L. Wood	Luke S. L. Hsieh	{'relation': 'collaborate'}
+Sally L. Wood	D. Munson	{'relation': 'collaborate'}
+Sally L. Wood	John R. Treichler	{'relation': 'collaborate'}
+Sally L. Wood	Geoffrey C. Orsak	{'relation': 'collaborate'}
+Ralf Koetter	Kannan Achan	{'relation': 'collaborate'}
+Ralf Koetter	D. Munson	{'relation': 'collaborate'}
+Kannan Achan	D. Munson	{'relation': 'collaborate'}
+H. J. Lee	John R. Treichler	{'relation': 'collaborate'}
+H. J. Lee	T. J. Endres	{'relation': 'collaborate'}
+D. Munson	John R. Treichler	{'relation': 'collaborate'}
+D. Munson	Geoffrey C. Orsak	{'relation': 'collaborate'}
+T. J. Endres	John R. Treichler	{'relation': 'collaborate'}
+John R. Treichler	H. Musmann	{'relation': 'collaborate'}
+John R. Treichler	Geoffrey C. Orsak	{'relation': 'collaborate'}
+J.H. McClellan	J. B. Schodorf	{'relation': 'collaborate'}

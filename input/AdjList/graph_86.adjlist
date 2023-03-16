@@ -1,63 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:05 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:12 2023
 # 
-Yoseph Bar-Cohen	1
-David R. Hanson	{'relation': 'collaborate'}
-R E. Griswold	7
-Paulo J. Santos	{'relation': 'collaborate'}
-James F Gimpel	{'relation': 'collaborate'}
-G. David Ripley	{'relation': 'collaborate'}
-David R. Hanson	{'relation': 'collaborate'}
-R. B. Dewar	{'relation': 'collaborate'}
-J T Korb	{'relation': 'collaborate'}
-Fredrick C. Druseikis	{'relation': 'collaborate'}
-Mukund Raghavachari	1
-David R. Hanson	{'relation': 'collaborate'}
-Alvaro E. Campos	1
-David R. Hanson	{'relation': 'collaborate'}
-J T Korb	1
-David R. Hanson	{'relation': 'collaborate'}
-Norman Ramsey	2
-Mary F. Fernandez	{'relation': 'collaborate'}
-David R. Hanson	{'relation': 'collaborate'}
-Gary Lindstrom	5
-Howard J. Larsen	{'relation': 'collaborate'}
-G. David Ripley	{'relation': 'collaborate'}
-Keith R. Merkel	{'relation': 'collaborate'}
-Fredrick C. Druseikis	{'relation': 'collaborate'}
-David R. Hanson	{'relation': 'collaborate'}
-Howard J. Larsen	4
-G. David Ripley	{'relation': 'collaborate'}
-Keith R. Merkel	{'relation': 'collaborate'}
-David R. Hanson	{'relation': 'collaborate'}
-Fredrick C. Druseikis	{'relation': 'collaborate'}
-James F Gimpel	3
-R. B. Dewar	{'relation': 'collaborate'}
-David R. Hanson	{'relation': 'collaborate'}
-Paulo J. Santos	{'relation': 'collaborate'}
-G. David Ripley	3
-David R. Hanson	{'relation': 'collaborate'}
-Keith R. Merkel	{'relation': 'collaborate'}
-Fredrick C. Druseikis	{'relation': 'collaborate'}
-David R. Hanson	9
-Mary F. Fernandez	{'relation': 'collaborate'}
-R. B. Dewar	{'relation': 'collaborate'}
-Brian K. Reid	{'relation': 'collaborate'}
-Paulo J. Santos	{'relation': 'collaborate'}
-Keith R. Merkel	{'relation': 'collaborate'}
-Jeffrey Korn	{'relation': 'collaborate'}
-Christopher W. Fraser	{'relation': 'collaborate'}
-Fredrick C. Druseikis	{'relation': 'collaborate'}
-Todd A. Proebsting	{'relation': 'collaborate'}
-Fredrick C. Druseikis	1
-Keith R. Merkel	{'relation': 'collaborate'}
-Paulo J. Santos	1
-R. B. Dewar	{'relation': 'collaborate'}
-Keith R. Merkel	0
-Mary F. Fernandez	0
-R. B. Dewar	0
-Brian K. Reid	0
-Christopher W. Fraser	1
-Todd A. Proebsting	{'relation': 'collaborate'}
-Jeffrey Korn	0
-Todd A. Proebsting	0
+R E. Griswold	Paulo J. Santos	James F Gimpel	G. David Ripley	David R. Hanson	R. B. Dewar	J T Korb	Fredrick C. Druseikis
+J T Korb	David R. Hanson
+James F Gimpel	R. B. Dewar	David R. Hanson	Paulo J. Santos
+Todd A. Proebsting	Christopher W. Fraser	David R. Hanson
+Norman Ramsey	Mary F. Fernandez	David R. Hanson
+Howard J. Larsen	G. David Ripley	Gary Lindstrom	Keith R. Merkel	David R. Hanson	Fredrick C. Druseikis
+Jeffrey Korn	David R. Hanson
+Gary Lindstrom	G. David Ripley	Keith R. Merkel	Fredrick C. Druseikis	David R. Hanson
+David R. Hanson	Mary F. Fernandez	Yoseph Bar-Cohen	R. B. Dewar	G. David Ripley	Brian K. Reid	Paulo J. Santos	Keith R. Merkel	Mukund Raghavachari	Alvaro E. Campos	Christopher W. Fraser	Fredrick C. Druseikis
+G. David Ripley	Keith R. Merkel	Fredrick C. Druseikis
+Mary F. Fernandez
+Brian K. Reid
+Mukund Raghavachari
+Keith R. Merkel	Fredrick C. Druseikis
+Fredrick C. Druseikis
+Christopher W. Fraser
+R. B. Dewar	Paulo J. Santos
+Paulo J. Santos
+Yoseph Bar-Cohen
+Alvaro E. Campos

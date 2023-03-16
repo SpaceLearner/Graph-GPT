@@ -4,17 +4,77 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Hayoung Park">
-      <data key="affiliation">Department of Computer Science, Soongsil University, Seoul, Korea</data>
-      <data key="research">authentication method, ubiquitous environment, Kerberos authentication method</data>
+    <node id="Kwang-Hyung Lee">
+      <data key="affiliation">KAIST, Daejeon, South Korea</data>
+      <data key="research">AD patient, AD progression, healthy subject</data>
+    </node>
+    <node id="Ilsun You">
+      <data key="affiliation">Dongilro, Nowongu, Seoul, Korea</data>
+      <data key="research">intelligent home network, experimental result, home network security</data>
+    </node>
+    <node id="Hae-Seok Oh">
+      <data key="affiliation">Nan</data>
+      <data key="research">delay time, actual data, multimedia data</data>
     </node>
     <node id="Jongchan Lee">
       <data key="affiliation">Dept. of Kunsan Natl., Univ. Korea,</data>
       <data key="research">mobile node, mobile device, mobile terminal</data>
     </node>
+    <node id="Marek R. Ogiela">
+      <data key="affiliation">Nan</data>
+      <data key="research">cognitive system, cognitive systems name, cognitive analysis</data>
+    </node>
+    <node id="Carlos Ramos">
+      <data key="affiliation">ITAM, San Angel Tizapán, México DF, CP 0100,</data>
+      <data key="research">robots new form, action response, human-robot interaction</data>
+    </node>
+    <node id="Young Gu Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">home network, electronic appliance, sensor network</data>
+    </node>
     <node id="Tai-hoon Kim">
       <data key="affiliation">Nan</data>
       <data key="research">sensor node, wireless sensor network, Ad-hoc routing protocol</data>
+    </node>
+    <node id="Zita A. Vale">
+      <data key="affiliation">GECAD Knowledge Engineering and Decision Support Research Centre Polytechnic of Porto, Rua Dr. Ant'{o}nio Bernardino de Almeida, Porto, Portugal</data>
+      <data key="research">electricity market, expert system, market condition</data>
+    </node>
+    <node id="Myunggwon Hwang">
+      <data key="affiliation">Nan</data>
+      <data key="research">descriptive analytics, role model researcher, Prescriptive Analytics System</data>
+    </node>
+    <node id="Seonho Kim">
+      <data key="affiliation">Data Mining Research Laboratory, Sogang University, Seoul, Korea</data>
+      <data key="research">entity recognition, lexical knowledge, training data</data>
+    </node>
+    <node id="Moon-seog Jun">
+      <data key="affiliation">Soongsil University, Korea</data>
+      <data key="research">sensor network, RFID system, proposed system</data>
+    </node>
+    <node id="Hyun-Joo Moon">
+      <data key="affiliation">Information &amp; Media Technique Institute, Soongsil University, Seoul, Korea</data>
+      <data key="research">similarity detection method, web data, history data</data>
+    </node>
+    <node id="Yongtae Shin">
+      <data key="affiliation">Department af IT Policy and Management Soongsil University, Seoul</data>
+      <data key="research">secure zone, Network Partition Scheme, malicious code</data>
+    </node>
+    <node id="Carlos Freitas">
+      <data key="affiliation">Nan</data>
+      <data key="research">Group Decision, Ambient Intelligence, Secure Group Decision</data>
+    </node>
+    <node id="Hayoung Park">
+      <data key="affiliation">Department of Computer Science, Soongsil University, Seoul, Korea</data>
+      <data key="research">authentication method, ubiquitous environment, Kerberos authentication method</data>
+    </node>
+    <node id="Yongjun Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">RFID Tag, RFID TagBecause, bits SEED Algorithm</data>
+    </node>
+    <node id="Intae Ryoo">
+      <data key="affiliation">SAITO/AIDA Laboratory, Department of Electronic Engineering, University of Tokyo, 731 Hongo, Bunkyoku, 113 Tokyo, Japan</data>
+      <data key="research">proposed scheme, video source, VBR traffic</data>
     </node>
     <node id="Hoon Ko">
       <data key="affiliation">Nan</data>
@@ -24,70 +84,22 @@
       <data key="affiliation">, Daejeon, Republic of Korea 305806</data>
       <data key="research">semantic web technology, information analysis, Web service</data>
     </node>
-    <node id="Young Gu Lee">
-      <data key="affiliation">Nan</data>
-      <data key="research">home network, electronic appliance, sensor network</data>
-    </node>
-    <node id="Myunggwon Hwang">
-      <data key="affiliation">Nan</data>
-      <data key="research">descriptive analytics, role model researcher, Prescriptive Analytics System</data>
-    </node>
-    <node id="Intae Ryoo">
-      <data key="affiliation">SAITO/AIDA Laboratory, Department of Electronic Engineering, University of Tokyo, 731 Hongo, Bunkyoku, 113 Tokyo, Japan</data>
-      <data key="research">proposed scheme, video source, VBR traffic</data>
-    </node>
-    <node id="Kwang-Hyung Lee">
-      <data key="affiliation">KAIST, Daejeon, South Korea</data>
-      <data key="research">AD patient, AD progression, healthy subject</data>
-    </node>
-    <node id="Carlos Freitas">
-      <data key="affiliation">Nan</data>
-      <data key="research">Group Decision, Ambient Intelligence, Secure Group Decision</data>
-    </node>
-    <node id="Hyun-Joo Moon">
-      <data key="affiliation">Information &amp; Media Technique Institute, Soongsil University, Seoul, Korea</data>
-      <data key="research">similarity detection method, web data, history data</data>
-    </node>
-    <node id="Ilsun You">
-      <data key="affiliation">Dongilro, Nowongu, Seoul, Korea</data>
-      <data key="research">intelligent home network, experimental result, home network security</data>
-    </node>
-    <node id="Carlos Ramos">
-      <data key="affiliation">ITAM, San Angel Tizapán, México DF, CP 0100,</data>
-      <data key="research">robots new form, action response, human-robot interaction</data>
-    </node>
-    <node id="Zita A. Vale">
-      <data key="affiliation">GECAD Knowledge Engineering and Decision Support Research Centre Polytechnic of Porto, Rua Dr. Ant'{o}nio Bernardino de Almeida, Porto, Portugal</data>
-      <data key="research">electricity market, expert system, market condition</data>
-    </node>
-    <node id="Moon-seog Jun">
-      <data key="affiliation">Soongsil University, Korea</data>
-      <data key="research">sensor network, RFID system, proposed system</data>
-    </node>
-    <node id="Marek R. Ogiela">
-      <data key="affiliation">Nan</data>
-      <data key="research">cognitive system, cognitive systems name, cognitive analysis</data>
-    </node>
-    <node id="Seonho Kim">
-      <data key="affiliation">Data Mining Research Laboratory, Sogang University, Seoul, Korea</data>
-      <data key="research">entity recognition, lexical knowledge, training data</data>
-    </node>
-    <node id="Hae-Seok Oh">
-      <data key="affiliation">Nan</data>
-      <data key="research">delay time, actual data, multimedia data</data>
-    </node>
-    <node id="Yongtae Shin">
-      <data key="affiliation">Department af IT Policy and Management Soongsil University, Seoul</data>
-      <data key="research">secure zone, Network Partition Scheme, malicious code</data>
-    </node>
-    <node id="Yongjun Lee">
-      <data key="affiliation">Nan</data>
-      <data key="research">RFID Tag, RFID TagBecause, bits SEED Algorithm</data>
-    </node>
-    <edge source="Hayoung Park" target="Yongtae Shin">
+    <edge source="Kwang-Hyung Lee" target="Hoon Ko">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hayoung Park" target="Hoon Ko">
+    <edge source="Kwang-Hyung Lee" target="Moon-seog Jun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ilsun You" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ilsun You" target="Marek R. Ogiela">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hae-Seok Oh" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hae-Seok Oh" target="Yongtae Shin">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jongchan Lee" target="Hoon Ko">
@@ -96,7 +108,25 @@
     <edge source="Jongchan Lee" target="Hyun-Joo Moon">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Tai-hoon Kim" target="Carlos Ramos">
+    <edge source="Marek R. Ogiela" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Ramos" target="Carlos Freitas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Ramos" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Ramos" target="Tai-hoon Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Ramos" target="Zita A. Vale">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Gu Lee" target="Moon-seog Jun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Gu Lee" target="Hoon Ko">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Tai-hoon Kim" target="Zita A. Vale">
@@ -108,76 +138,46 @@
     <edge source="Tai-hoon Kim" target="Hanmin Jung">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hoon Ko" target="Zita A. Vale">
+    <edge source="Zita A. Vale" target="Hoon Ko">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hoon Ko" target="Kwang-Hyung Lee">
+    <edge source="Zita A. Vale" target="Myunggwon Hwang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hoon Ko" target="Hae-Seok Oh">
+    <edge source="Myunggwon Hwang" target="Hanmin Jung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myunggwon Hwang" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seonho Kim" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Moon-seog Jun" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Joo Moon" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongtae Shin" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongtae Shin" target="Hayoung Park">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlos Freitas" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hayoung Park" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongjun Lee" target="Hoon Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Intae Ryoo" target="Hoon Ko">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Hoon Ko" target="Hanmin Jung">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Yongtae Shin">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Carlos Freitas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Carlos Ramos">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Hyun-Joo Moon">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Young Gu Lee">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Myunggwon Hwang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Marek R. Ogiela">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Yongjun Lee">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Intae Ryoo">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Ilsun You">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Moon-seog Jun">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hoon Ko" target="Seonho Kim">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hanmin Jung" target="Myunggwon Hwang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Young Gu Lee" target="Moon-seog Jun">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Myunggwon Hwang" target="Zita A. Vale">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Kwang-Hyung Lee" target="Moon-seog Jun">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Carlos Freitas" target="Carlos Ramos">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Ilsun You" target="Marek R. Ogiela">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Carlos Ramos" target="Zita A. Vale">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Hae-Seok Oh" target="Yongtae Shin">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

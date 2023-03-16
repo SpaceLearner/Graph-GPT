@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. Pietikäinen">
+      <data key="affiliation">IEEE</data>
+      <data key="research">local binary pattern, proposed method, dynamic texture</data>
+    </node>
+    <node id="A. Takanen">
+      <data key="affiliation">cofounder and CTO, Codenomicon</data>
+      <data key="research">VoIP network, VoIP security, complete security framework</data>
+    </node>
+    <node id="Jouni Kaartinen">
+      <data key="affiliation">VTT Electronics, P.O.Box 1100, FIN90571 Oulu, Finland</data>
+      <data key="research">family member, absolute positioning information, information channel</data>
+    </node>
+    <node id="Christian Wieser">
+      <data key="affiliation">University of Oulu, Oulu, Finland</data>
+      <data key="research">misuse pattern, information security, web page</data>
+    </node>
+    <node id="Susanna Pirttikangas">
+      <data key="affiliation">Intelligent Systems Group, Dept. Electrical and Information Engineering, University of Oulu, Finland</data>
+      <data key="research">data collection, data set, activity recognition</data>
+    </node>
+    <node id="Sampsa Hautaniemi">
+      <data key="affiliation">University of Helsinki, Helsinki</data>
+      <data key="research">supplementary data, Gene Expression, SNP-array data</data>
+    </node>
+    <node id="Pekka Ala-Siuru">
+      <data key="affiliation">Technical Research Centre of Finland (VTT), Electronics, PO Box 1100, FIN90571, Oulu, Finland</data>
+      <data key="research">hierarchical virtual environment, virtual environment, machine fault diagnostic application</data>
+    </node>
+    <node id="Marko Laakso">
+      <data key="affiliation">Nan</data>
+      <data key="research">SNP-array data, supplementary data, fi Supplementary information</data>
+    </node>
+    <node id="Kimmo Halunen">
+      <data key="affiliation">VTT Technical Research Center of Finland, Oulu, Finland</data>
+      <data key="research">original VSH, Preimage attack, hash function</data>
+    </node>
+    <node id="T. Pyssysalo">
+      <data key="affiliation">University of Oulu, Department of Electrical Engineering, Computer Engineering Laboratory, P.O.Box 4500, FIN90014 University of Oulu, Finland</data>
+      <data key="research">adaptive VOD, Adaptive Video, VOD system</data>
+    </node>
+    <node id="Juha Röning">
+      <data key="affiliation">University of Oulu, Department of Electrical Engineering, Computer Engineering Laboratory, P.O. BOX 4500, FIN90401 Oulu, Finland</data>
+      <data key="research">mobile service, embedded system, vision system</data>
+    </node>
+    <node id="Erno Kuusela">
+      <data key="affiliation">Intel and Nokia Joint Innovation Center, Center for Internet Excellence, Oulun Yliopisto</data>
+      <data key="research">mobile device, user interface, virtual environment</data>
+    </node>
+    <node id="Juha Kortelainen">
+      <data key="affiliation">Univ. of Oulu, Oulu, Finland</data>
+      <data key="research">long word, iterated hash function, multicollision attack</data>
+    </node>
+    <node id="Mika Seppänen">
+      <data key="affiliation">University of Oulu, Computer Engineering Laboratory</data>
+      <data key="research">model inference, archival software solution, model inference technique</data>
+    </node>
+    <node id="Pekka Pietikäinen">
+      <data key="affiliation">University of Oulu, Computer Engineering Laboratory</data>
+      <data key="research">model inference, combined data, data source</data>
+    </node>
+    <node id="Timo Ojala">
+      <data key="affiliation">University of Oulu, Finland</data>
+      <data key="research">interactive public display, public display, mobile device</data>
+    </node>
+    <node id="Toni Hakanen">
+      <data key="affiliation">MediaTeam Oulu, University of Oulu, Finland 90014</data>
+      <data key="research">large municipal wireless network, WLAN technology, end-user QoS</data>
+    </node>
+    <node id="Heli Helaakoski">
+      <data key="affiliation">Research Scientist vtt.fi</data>
+      <data key="research">mobile service, industrial mobile solution, personalized mobile service</data>
+    </node>
+    <node id="Mirko Sailio">
+      <data key="affiliation">VTT Technical Research Center of Finland, Oulu, Finland</data>
+      <data key="research">industrial control system network, anomaly detection, industrial control system</data>
+    </node>
+    <node id="Kaori Fujinami">
+      <data key="affiliation">Tokyo University of Agriculture and Technology, Japan</data>
+      <data key="research">context-aware application, end user, contextual information</data>
+    </node>
+    <edge source="M. Pietikäinen" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Pietikäinen" target="Timo Ojala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Takanen" target="Marko Laakso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Takanen" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jouni Kaartinen" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jouni Kaartinen" target="Pekka Ala-Siuru">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian Wieser" target="Marko Laakso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian Wieser" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanna Pirttikangas" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanna Pirttikangas" target="Kaori Fujinami">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sampsa Hautaniemi" target="Marko Laakso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pekka Ala-Siuru" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marko Laakso" target="Pekka Pietikäinen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marko Laakso" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marko Laakso" target="Kimmo Halunen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marko Laakso" target="Mika Seppänen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimmo Halunen" target="Juha Kortelainen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimmo Halunen" target="Mirko Sailio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimmo Halunen" target="Pekka Pietikäinen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimmo Halunen" target="Mika Seppänen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kimmo Halunen" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Pyssysalo" target="Juha Röning">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juha Röning" target="Heli Helaakoski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juha Röning" target="Kaori Fujinami">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juha Röning" target="Erno Kuusela">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juha Röning" target="Pekka Pietikäinen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juha Röning" target="Mika Seppänen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mika Seppänen" target="Pekka Pietikäinen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pekka Pietikäinen" target="Toni Hakanen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pekka Pietikäinen" target="Timo Ojala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timo Ojala" target="Toni Hakanen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,48 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-Jingyan Song	1
-Jie Zhou	{'relation': 'collaborate'}
-Jie Deng	1
-Jie Zhou	{'relation': 'collaborate'}
-Xinhai Xu	1
-Jie Zhou	{'relation': 'collaborate'}
-Jiannong Cao	1
-Jie Zhou	{'relation': 'collaborate'}
-Ji-Rong Wen	1
-Jie Zhou	{'relation': 'collaborate'}
-M. Liebsch	3
-Jie Zhou	{'relation': 'collaborate'}
-Hans Joachim Einsiedler	{'relation': 'collaborate'}
-R. Schmitz	{'relation': 'collaborate'}
-David Zhang	1
-Jie Zhou	{'relation': 'collaborate'}
-Can Gao	1
-Jie Zhou	{'relation': 'collaborate'}
-Hans Joachim Einsiedler	2
-Jie Zhou	{'relation': 'collaborate'}
-R. Schmitz	{'relation': 'collaborate'}
-R. Schmitz	1
-Jie Zhou	{'relation': 'collaborate'}
-Songzhu Mei	1
-Jie Zhou	{'relation': 'collaborate'}
-Deguang Cui	1
-Jie Zhou	{'relation': 'collaborate'}
-Xiaolong Ma	3
-Qiaoge Liu	{'relation': 'collaborate'}
-Jianyu Li	{'relation': 'collaborate'}
-Jie Zhou	{'relation': 'collaborate'}
-Fanglin Chen	1
-Jie Zhou	{'relation': 'collaborate'}
-Qiaoge Liu	2
-Jie Zhou	{'relation': 'collaborate'}
-Jianyu Li	{'relation': 'collaborate'}
-Jie Zhou	4
-Guiming Wu	{'relation': 'collaborate'}
-Shuang Wu	{'relation': 'collaborate'}
-Pu Cheng	{'relation': 'collaborate'}
-Jianyu Li	{'relation': 'collaborate'}
-Pu Cheng	0
-Jianyu Li	0
-Guiming Wu	0
-Shuang Wu	0
+Xiaolong Ma	Qiaoge Liu	Jianyu Li	Jie Zhou
+David Zhang	Jie Zhou
+Ji-Rong Wen	Jie Zhou
+Can Gao	Jie Zhou
+Songzhu Mei	Jie Zhou
+Jianyu Li	Qiaoge Liu	Jie Zhou
+Jiannong Cao	Jie Zhou
+Guiming Wu	Jie Zhou
+Jie Deng	Jie Zhou
+Xinhai Xu	Jie Zhou
+Fanglin Chen	Jie Zhou
+Qiaoge Liu	Jie Zhou
+Hans Joachim Einsiedler	Jie Zhou	M. Liebsch	R. Schmitz
+Deguang Cui	Jie Zhou
+Jie Zhou	R. Schmitz	M. Liebsch	Shuang Wu	Jingyan Song	Pu Cheng
+Shuang Wu
+M. Liebsch	R. Schmitz
+Jingyan Song
+Pu Cheng
+R. Schmitz

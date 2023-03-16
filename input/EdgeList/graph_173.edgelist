@@ -1,0 +1,32 @@
+J. Lee	H. Shin	{'relation': 'collaborate'}
+J. Lee	T. Kim	{'relation': 'collaborate'}
+Minsik Cho	H. Shin	{'relation': 'collaborate'}
+R. Raju	H. Shin	{'relation': 'collaborate'}
+T. Ambler	Byoungho Kim	{'relation': 'collaborate'}
+T. Ambler	Jacob A. Abraham	{'relation': 'collaborate'}
+Nash Khouzam	Jacob A. Abraham	{'relation': 'collaborate'}
+Nash Khouzam	Byoungho Kim	{'relation': 'collaborate'}
+H. Shin	Byoungho Kim	{'relation': 'collaborate'}
+H. Shin	M. J. Burns	{'relation': 'collaborate'}
+H. Shin	Yining Deng	{'relation': 'collaborate'}
+H. Shin	W. Brent Lindquist	{'relation': 'collaborate'}
+H. Shin	Chunghee Kim	{'relation': 'collaborate'}
+H. Shin	Marco Racanelli	{'relation': 'collaborate'}
+H. Shin	Toshitaka Tatsumi	{'relation': 'collaborate'}
+H. Shin	Alberto Sangiovanni-Vincentelli	{'relation': 'collaborate'}
+H. Shin	R. Iris Bahar	{'relation': 'collaborate'}
+H. Shin	Kenneth Steiglitz	{'relation': 'collaborate'}
+H. Shin	T. Kim	{'relation': 'collaborate'}
+H. Shin	F. Somenzi	{'relation': 'collaborate'}
+H. Shin	E. Macii	{'relation': 'collaborate'}
+H. Shin	H. Shin	{'relation': 'collaborate'}
+H. Shin	Jacob A. Abraham	{'relation': 'collaborate'}
+E. Macii	F. Somenzi	{'relation': 'collaborate'}
+E. Macii	R. Iris Bahar	{'relation': 'collaborate'}
+E. Macii	M. J. Burns	{'relation': 'collaborate'}
+M. J. Burns	F. Somenzi	{'relation': 'collaborate'}
+M. J. Burns	R. Iris Bahar	{'relation': 'collaborate'}
+Jacob A. Abraham	Byoungho Kim	{'relation': 'collaborate'}
+Alberto Sangiovanni-Vincentelli	Chunghee Kim	{'relation': 'collaborate'}
+Alberto Sangiovanni-Vincentelli	F. Somenzi	{'relation': 'collaborate'}
+F. Somenzi	R. Iris Bahar	{'relation': 'collaborate'}

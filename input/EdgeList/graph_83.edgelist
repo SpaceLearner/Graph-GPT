@@ -1,38 +1,38 @@
-Sebastian Provenzano	L. Vergara	{'relation': 'collaborate'}
-Sebastian Provenzano	F. J. Fuenmayor	{'relation': 'collaborate'}
-Sebastian Provenzano	Francklin Rivas	{'relation': 'collaborate'}
-Andres Camacho	Jorge Igual	{'relation': 'collaborate'}
-Andres Camacho	L. Vergara	{'relation': 'collaborate'}
-Andres Camacho	P. Bernabeu	{'relation': 'collaborate'}
-Andres Camacho	Raul Llinares	{'relation': 'collaborate'}
-L. Vergara	Jorge Moragues	{'relation': 'collaborate'}
-L. Vergara	Jorge Gosalbez	{'relation': 'collaborate'}
-L. Vergara	Antonio Soriano	{'relation': 'collaborate'}
-L. Vergara	J. Morales	{'relation': 'collaborate'}
-L. Vergara	Soledad Gomez	{'relation': 'collaborate'}
-L. Vergara	P. Bernabeu	{'relation': 'collaborate'}
-L. Vergara	Arturo Serrano	{'relation': 'collaborate'}
-L. Vergara	J. Sastre	{'relation': 'collaborate'}
-L. Vergara	V. Naranjo	{'relation': 'collaborate'}
-L. Vergara	Raul Llinares	{'relation': 'collaborate'}
-L. Vergara	Jorge Igual	{'relation': 'collaborate'}
-L. Vergara	Francklin Rivas	{'relation': 'collaborate'}
-L. Vergara	A. Rodríguez	{'relation': 'collaborate'}
+Raul Llinares	Jorge Igual	{'relation': 'collaborate'}
+Raul Llinares	Jorge Gosalbez	{'relation': 'collaborate'}
+Raul Llinares	Arturo Serrano	{'relation': 'collaborate'}
+Raul Llinares	Andres Camacho	{'relation': 'collaborate'}
+Raul Llinares	L. Vergara	{'relation': 'collaborate'}
+Arturo Serrano	Jorge Igual	{'relation': 'collaborate'}
+Arturo Serrano	L. Vergara	{'relation': 'collaborate'}
+Arturo Serrano	Jorge Gosalbez	{'relation': 'collaborate'}
+Antonio Soriano	Jorge Moragues	{'relation': 'collaborate'}
+Antonio Soriano	L. Vergara	{'relation': 'collaborate'}
+J. Morales	L. Vergara	{'relation': 'collaborate'}
+A. Rodríguez	L. Vergara	{'relation': 'collaborate'}
+F. J. Fuenmayor	Sebastian Provenzano	{'relation': 'collaborate'}
+F. J. Fuenmayor	Francklin Rivas	{'relation': 'collaborate'}
+Jorge Gosalbez	L. Vergara	{'relation': 'collaborate'}
+Jorge Gosalbez	Jorge Igual	{'relation': 'collaborate'}
+Jorge Gosalbez	Jorge Moragues	{'relation': 'collaborate'}
+J. Sastre	L. Vergara	{'relation': 'collaborate'}
+J. Sastre	V. Naranjo	{'relation': 'collaborate'}
+Soledad Gomez	L. Vergara	{'relation': 'collaborate'}
+Soledad Gomez	Jorge Moragues	{'relation': 'collaborate'}
+P. Bernabeu	Andres Camacho	{'relation': 'collaborate'}
+P. Bernabeu	L. Vergara	{'relation': 'collaborate'}
 P. Bernabeu	Jorge Igual	{'relation': 'collaborate'}
-Jorge Moragues	Antonio Soriano	{'relation': 'collaborate'}
-Jorge Moragues	Kiel M Gilleade	{'relation': 'collaborate'}
-Jorge Moragues	Ana Cabrera	{'relation': 'collaborate'}
-Jorge Moragues	Areti Damala	{'relation': 'collaborate'}
-Jorge Moragues	Soledad Gomez	{'relation': 'collaborate'}
-Jorge Moragues	Jorge Gosalbez	{'relation': 'collaborate'}
+Francklin Rivas	Sebastian Provenzano	{'relation': 'collaborate'}
+Francklin Rivas	L. Vergara	{'relation': 'collaborate'}
+Kiel M Gilleade	Jorge Moragues	{'relation': 'collaborate'}
 Kiel M Gilleade	Areti Damala	{'relation': 'collaborate'}
 Kiel M Gilleade	Ana Cabrera	{'relation': 'collaborate'}
-Arturo Serrano	Jorge Igual	{'relation': 'collaborate'}
-Arturo Serrano	Raul Llinares	{'relation': 'collaborate'}
-Arturo Serrano	Jorge Gosalbez	{'relation': 'collaborate'}
-F. J. Fuenmayor	Francklin Rivas	{'relation': 'collaborate'}
-Jorge Gosalbez	Raul Llinares	{'relation': 'collaborate'}
-Jorge Gosalbez	Jorge Igual	{'relation': 'collaborate'}
-J. Sastre	V. Naranjo	{'relation': 'collaborate'}
-Raul Llinares	Jorge Igual	{'relation': 'collaborate'}
+L. Vergara	Sebastian Provenzano	{'relation': 'collaborate'}
+L. Vergara	Jorge Moragues	{'relation': 'collaborate'}
+L. Vergara	Andres Camacho	{'relation': 'collaborate'}
+L. Vergara	V. Naranjo	{'relation': 'collaborate'}
+L. Vergara	Jorge Igual	{'relation': 'collaborate'}
+Areti Damala	Jorge Moragues	{'relation': 'collaborate'}
 Areti Damala	Ana Cabrera	{'relation': 'collaborate'}
+Jorge Igual	Andres Camacho	{'relation': 'collaborate'}
+Ana Cabrera	Jorge Moragues	{'relation': 'collaborate'}

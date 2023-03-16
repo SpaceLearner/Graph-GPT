@@ -4,111 +4,126 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Lee Sael">
-      <data key="affiliation">SUNY Korea &amp; Stony Brook University, Inchoen, South Korea</data>
-      <data key="research">neighbor algorithm, gene selection, animated protein rotation</data>
-    </node>
-    <node id="Feng Sun">
+    <node id="David Zhang">
       <data key="affiliation">Nan</data>
-      <data key="research">Normalized Cuts, accurate segmentation, global optimal segmentation</data>
-    </node>
-    <node id="Bin Li">
-      <data key="affiliation">Nan</data>
-      <data key="research">Double-Circuit Transmission LinesNA</data>
-    </node>
-    <node id="M. Espig">
-      <data key="affiliation">Intel Corporation, USA</data>
-      <data key="research">shared resource, mobile augmented reality, low power</data>
-    </node>
-    <node id="Yumei Wang">
-      <data key="affiliation">Key Lab of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications, China</data>
-      <data key="research">accurate SI, inter-view estimation, intra-view estimation</data>
-    </node>
-    <node id="X. M. Chen">
-      <data key="affiliation">Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing, China</data>
-      <data key="research">proposed method, face recognition, experimental result</data>
+      <data key="research">metric learning, point-to-set distance, set-to-set distance</data>
     </node>
     <node id="Youlun Xiong">
       <data key="affiliation">State Key Laboratory of Digital Manufacturing Equipment and Technology, Huazhong University of Science and Technology, Wuhan, China</data>
       <data key="research">end milling process parameter, machined surface topography, optimal combination</data>
     </node>
+    <node id="S. Sheng">
+      <data key="affiliation">Mentor Graphics Corporation, Wilsonville, OR</data>
+      <data key="research">experimental result, sequential circuit, new state</data>
+    </node>
+    <node id="X. M. Chen">
+      <data key="affiliation">Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">proposed method, face recognition, experimental result</data>
+    </node>
     <node id="Guiliang Zhu">
       <data key="affiliation">School of Information Engineering, North China University of Water Resources and Electric Power, Zhengzhou, 450011, China</data>
       <data key="research">collision resolution, Enhanced Binary Query Protocol, RFID tag collision resolution</data>
-    </node>
-    <node id="Juan Bai">
-      <data key="affiliation">Nan</data>
-      <data key="research">memory model</data>
-    </node>
-    <node id="Dennis Shasha">
-      <data key="affiliation">Nan</data>
-      <data key="research" />
-    </node>
-    <node id="Wei Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">enterprise information, financial information, global information environment</data>
-    </node>
-    <node id="David Zhang">
-      <data key="affiliation">Nan</data>
-      <data key="research">metric learning, point-to-set distance, set-to-set distance</data>
-    </node>
-    <node id="Yan Xu">
-      <data key="affiliation">Nan</data>
-      <data key="research">automatic service composition, coverability graph, coverability problem</data>
-    </node>
-    <node id="Zhouping Yin">
-      <data key="affiliation">Nan</data>
-      <data key="research">frame slot ALOHA protocol, RFID system, splitting tree</data>
     </node>
     <node id="Qiao Wang">
       <data key="affiliation">School of Information Science and Engineering, Southeast University, China</data>
       <data key="research">aggregate power constraint, optimal solution, optimal power allocation</data>
     </node>
-    <node id="Xinqing Yan">
-      <data key="affiliation">School of Information Engineering, North China University of Water Resources and Electric Power, Zhengzhou, 450011, China.</data>
-      <data key="research">collision resolution, Enhanced Binary Query Protocol, RFID tag collision resolution</data>
+    <node id="Lee Sael">
+      <data key="affiliation">SUNY Korea &amp; Stony Brook University, Inchoen, South Korea</data>
+      <data key="research">neighbor algorithm, gene selection, animated protein rotation</data>
+    </node>
+    <node id="Dennis Shasha">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Juan Bai">
+      <data key="affiliation">Nan</data>
+      <data key="research">memory model</data>
+    </node>
+    <node id="Bin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Double-Circuit Transmission LinesNA</data>
     </node>
     <node id="Yuechao Wang">
       <data key="affiliation">Nan</data>
       <data key="research">evaluation system, Pilot Study, recovery evaluation system</data>
     </node>
-    <node id="MingXi Wan">
+    <node id="Zhouping Yin">
       <data key="affiliation">Nan</data>
-      <data key="research">Super-Resolution Reconstruction, proposed approach, Deformable Tissue</data>
+      <data key="research">frame slot ALOHA protocol, RFID system, splitting tree</data>
     </node>
-    <node id="S. Sheng">
-      <data key="affiliation">Mentor Graphics Corporation, Wilsonville, OR</data>
-      <data key="research">experimental result, sequential circuit, new state</data>
+    <node id="Feng Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">Normalized Cuts, accurate segmentation, global optimal segmentation</data>
+    </node>
+    <node id="M. Espig">
+      <data key="affiliation">Intel Corporation, USA</data>
+      <data key="research">shared resource, mobile augmented reality, low power</data>
+    </node>
+    <node id="Yan Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">automatic service composition, coverability graph, coverability problem</data>
+    </node>
+    <node id="Wei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">enterprise information, financial information, global information environment</data>
+    </node>
+    <node id="Yumei Wang">
+      <data key="affiliation">Key Lab of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications, China</data>
+      <data key="research">accurate SI, inter-view estimation, intra-view estimation</data>
+    </node>
+    <node id="Xinqing Yan">
+      <data key="affiliation">School of Information Engineering, North China University of Water Resources and Electric Power, Zhengzhou, 450011, China.</data>
+      <data key="research">collision resolution, Enhanced Binary Query Protocol, RFID tag collision resolution</data>
     </node>
     <node id="Yuanyuan Zhang">
       <data key="affiliation">Nan</data>
       <data key="research">digital copyright protection, digital image copyright protection, digital watermarking algorithm</data>
     </node>
+    <node id="MingXi Wan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Super-Resolution Reconstruction, proposed approach, Deformable Tissue</data>
+    </node>
+    <edge source="David Zhang" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youlun Xiong" target="Zhouping Yin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youlun Xiong" target="Xinqing Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Sheng" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. M. Chen" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guiliang Zhu" target="Xinqing Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiao Wang" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Lee Sael" target="Bin Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Feng Sun" target="Bin Li">
+    <edge source="Dennis Shasha" target="Bin Li">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bin Li" target="S. Sheng">
+    <edge source="Juan Bai" target="Yan Xu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bin Li" target="David Zhang">
+    <edge source="Juan Bai" target="Xinqing Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juan Bai" target="Bin Li">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Bin Li" target="Yumei Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bin Li" target="Qiao Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Bin Li" target="X. M. Chen">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Bin Li" target="MingXi Wan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Bin Li" target="Dennis Shasha">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Bin Li" target="M. Espig">
@@ -123,34 +138,16 @@
     <edge source="Bin Li" target="Yuanyuan Zhang">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Bin Li" target="Feng Sun">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Bin Li" target="Xinqing Yan">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Bin Li" target="Yan Xu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Bin Li" target="Juan Bai">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Youlun Xiong" target="Zhouping Yin">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Youlun Xiong" target="Xinqing Yan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Guiliang Zhu" target="Xinqing Yan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Juan Bai" target="Yan Xu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Juan Bai" target="Xinqing Yan">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wei Liu" target="Yan Xu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Wei Liu" target="Wei Liu">
+    <edge source="Zhouping Yin" target="Xinqing Yan">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yan Xu" target="Xinqing Yan">
@@ -159,7 +156,10 @@
     <edge source="Yan Xu" target="Yan Xu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Zhouping Yin" target="Xinqing Yan">
+    <edge source="Yan Xu" target="Wei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Liu" target="Wei Liu">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

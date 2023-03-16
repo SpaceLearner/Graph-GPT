@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Matteo Rossi">
+      <data key="affiliation">Nan</data>
+      <data key="research">zero-time transition, Metric Temporal Logic, logic consistency</data>
+    </node>
+    <node id="Eckehard Doerry">
+      <data key="affiliation">Department of Computer and Information Science, University of Oregon, Eugene, Oregon</data>
+      <data key="research">communicative breakdownA model, communicative efficacyAn empirical comparison, composite system design</data>
+    </node>
+    <node id="Jeff Magee">
+      <data key="affiliation">No Affiliations,</data>
+      <data key="research">software engineering, software architecture, implied scenario</data>
+    </node>
+    <node id="James Allen">
+      <data key="affiliation">Department of Computer &amp; Information Science, University of Oregon, USA</data>
+      <data key="research">cell phone, Outdoor Activity, GPS-enabled cell phone</data>
+    </node>
+    <node id="Rogério de Lemos">
+      <data key="affiliation">Dept. of Informatics Engineering, University of Coimbra, Portugal</data>
+      <data key="research">software engineering, software architecture, software system</data>
+    </node>
+    <node id="Peter G Selfridge">
+      <data key="affiliation">Department of Computer Science, University of Rochester, Rochester, New York</data>
+      <data key="research">software engineering, data analysis, annual knowledge-based software engineering</data>
+    </node>
+    <node id="Betty H. C. Cheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">local area network, network application, network traffic</data>
+    </node>
+    <node id="A van Lamsweerde">
+      <data key="affiliation">IEEE</data>
+      <data key="research">requirements engineering, requirements model, Goal-oriented requirements engineering</data>
+    </node>
+    <node id="Marin Litoiu">
+      <data key="affiliation">York University, Canada</data>
+      <data key="research">Large-Scale Testing, conventional functional testing, Advanced Studies</data>
+    </node>
+    <node id="Fernando Gutierrez">
+      <data key="affiliation">Computer and Information Science Department, University of Oregon, Eugene, Oregon</data>
+      <data key="research">incorrect statement, student summary, naive Bayesian learning</data>
+    </node>
+    <node id="Mehdi Jazayeri">
+      <data key="affiliation">Dipartimento di Informatica, University of Lugano and Technical University of Vienna, L'Aquila</data>
+      <data key="research">software engineering, software development, software architecture</data>
+    </node>
+    <node id="Hausi A Muller">
+      <data key="affiliation">University of Victoria, Victoria</data>
+      <data key="research">software system, software engineering, software engineering community</data>
+    </node>
+    <node id="Xiangkui Yao">
+      <data key="affiliation">University of Oregon</data>
+      <data key="research">individual user, deep personalization, navigation skill</data>
+    </node>
+    <node id="Dejing Dou">
+      <data key="affiliation">Department of Computer and Information Science, Universityof Oregon, Eugene, OR, USA</data>
+      <data key="research">Ontology-based information extraction, information extraction, current approachesInformation extraction</data>
+    </node>
+    <node id="Stephen F. Fickas">
+      <data key="affiliation">Computing Services Support Solutions, 5777 West Century Blvd., Suite 1230, Los Angeles, CA</data>
+      <data key="research">self-adaptive system, software engineering, self-managing system</data>
+    </node>
+    <node id="Allen D. Malony">
+      <data key="affiliation">Topic Chairs</data>
+      <data key="research">performance data, performance analysis, TAU performance system</data>
+    </node>
+    <node id="Z Z Segall">
+      <data key="affiliation">Univ. of Oregon, Eugene</data>
+      <data key="research">wearable community, wearable computer, wearable system</data>
+    </node>
+    <node id="A G Sutcliffe">
+      <data key="affiliation">City University</data>
+      <data key="research">requirements engineering, requirements analysis, system design</data>
+    </node>
+    <node id="D. Cohen">
+      <data key="affiliation">Myricom Inc., USA</data>
+      <data key="research">future character, commercial interest, commercial television</data>
+    </node>
+    <node id="Carlo A. Furia">
+      <data key="affiliation">ETH Zurich</data>
+      <data key="research">metric temporal logic, discrete time, strong specification</data>
+    </node>
+    <edge source="Matteo Rossi" target="Mehdi Jazayeri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matteo Rossi" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matteo Rossi" target="Carlo A. Furia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eckehard Doerry" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Marin Litoiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Rogério de Lemos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Hausi A Muller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Allen" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rogério de Lemos" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rogério de Lemos" target="Marin Litoiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rogério de Lemos" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rogério de Lemos" target="Hausi A Muller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter G Selfridge" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Marin Litoiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Hausi A Muller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A van Lamsweerde" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marin Litoiu" target="Hausi A Muller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marin Litoiu" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marin Litoiu" target="Marin Litoiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando Gutierrez" target="Dejing Dou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando Gutierrez" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mehdi Jazayeri" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mehdi Jazayeri" target="Carlo A. Furia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hausi A Muller" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiangkui Yao" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dejing Dou" target="Stephen F. Fickas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dejing Dou" target="Allen D. Malony">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen F. Fickas" target="Carlo A. Furia">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen F. Fickas" target="A G Sutcliffe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen F. Fickas" target="Allen D. Malony">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen F. Fickas" target="Z Z Segall">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen F. Fickas" target="D. Cohen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

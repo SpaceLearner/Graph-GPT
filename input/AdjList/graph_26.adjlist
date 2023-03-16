@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-Thomas Mirlacher	4
-Regina Bernhaupt	{'relation': 'collaborate'}
-Philipe Palanque	{'relation': 'collaborate'}
-Andreas Boldt	{'relation': 'collaborate'}
-Manfred Tscheligi	{'relation': 'collaborate'}
-Manuel Will	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Marianna Obrist	2
-Manfred Tscheligi	{'relation': 'collaborate'}
-Regina Bernhaupt	{'relation': 'collaborate'}
-Ben A. M. Schouten	2
-Regina Bernhaupt	{'relation': 'collaborate'}
-Florian Mueller	{'relation': 'collaborate'}
-Ronald L. Boring	2
-Regina Bernhaupt	{'relation': 'collaborate'}
-Sandra Basnyat	{'relation': 'collaborate'}
-Jan Gulliksen	3
-Regina Bernhaupt	{'relation': 'collaborate'}
-J L Wesson	{'relation': 'collaborate'}
-Ebba Thora Hvannberg	{'relation': 'collaborate'}
-Cédric Bach	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Katherine Isbister	4
-Regina Bernhaupt	{'relation': 'collaborate'}
-Licia Calvi	{'relation': 'collaborate'}
-Florian Mueller	{'relation': 'collaborate'}
-Daniel Cook	{'relation': 'collaborate'}
-Dennis Wixon	3
-Regina Bernhaupt	{'relation': 'collaborate'}
-Manfred Tscheligi	{'relation': 'collaborate'}
-Florian Mueller	{'relation': 'collaborate'}
-Sandra Basnyat	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Manfred Tscheligi	4
-Newton Lee	{'relation': 'collaborate'}
-Regina Bernhaupt	{'relation': 'collaborate'}
-Andreas Boldt	{'relation': 'collaborate'}
-Florian Mueller	{'relation': 'collaborate'}
-Licia Calvi	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Newton Lee	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Andreas Boldt	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Ebba Thora Hvannberg	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Philipe Palanque	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Daniel Cook	1
-Regina Bernhaupt	{'relation': 'collaborate'}
-Regina Bernhaupt	2
-Florian Mueller	{'relation': 'collaborate'}
-J L Wesson	{'relation': 'collaborate'}
-J L Wesson	0
-Florian Mueller	0
+Manuel Will	Regina Bernhaupt
+Marianna Obrist	Manfred Tscheligi	Regina Bernhaupt
+Daniel Cook	Regina Bernhaupt	Katherine Isbister
+Ebba Thora Hvannberg	Regina Bernhaupt	Jan Gulliksen
+Katherine Isbister	Regina Bernhaupt	Licia Calvi	Florian Mueller
+Licia Calvi	Regina Bernhaupt
+Florian Mueller	Regina Bernhaupt	Ben A. M. Schouten	Dennis Wixon	Manfred Tscheligi
+Newton Lee	Manfred Tscheligi	Regina Bernhaupt
+Ben A. M. Schouten	Regina Bernhaupt
+Regina Bernhaupt	Cédric Bach	Philipe Palanque	Andreas Boldt	Ronald L. Boring	Sandra Basnyat	Thomas Mirlacher	Manfred Tscheligi	J L Wesson	Dennis Wixon	Jan Gulliksen
+J L Wesson	Jan Gulliksen
+Jan Gulliksen
+Andreas Boldt	Thomas Mirlacher	Manfred Tscheligi
+Ronald L. Boring	Sandra Basnyat
+Thomas Mirlacher	Philipe Palanque	Manfred Tscheligi
+Dennis Wixon	Manfred Tscheligi
+Philipe Palanque
+Manfred Tscheligi
+Cédric Bach
+Sandra Basnyat

@@ -1,43 +1,43 @@
-Scott Hahn	Vishal Gupta	{'relation': 'collaborate'}
-Scott Hahn	Ganapati Srinivasa	{'relation': 'collaborate'}
-Scott Hahn	Karsten Schwan	{'relation': 'collaborate'}
-Scott Hahn	Dheeraj Reddy	{'relation': 'collaborate'}
-Scott Hahn	Paul Brett	{'relation': 'collaborate'}
-Scott Hahn	D. A. Koufaty	{'relation': 'collaborate'}
-D. A. Koufaty	Karsten Schwan	{'relation': 'collaborate'}
-D. A. Koufaty	Vishal Gupta	{'relation': 'collaborate'}
-D. A. Koufaty	Ganapati Srinivasa	{'relation': 'collaborate'}
-D. A. Koufaty	Dheeraj Reddy	{'relation': 'collaborate'}
-D. A. Koufaty	Paul Brett	{'relation': 'collaborate'}
-Gennette Gill	Montek Singh	{'relation': 'collaborate'}
-Gennette Gill	Vishal Gupta	{'relation': 'collaborate'}
+Sitaram Ramachandrula	Pulkit Parikh	{'relation': 'collaborate'}
+Sitaram Ramachandrula	Gopal Datt Joshi	{'relation': 'collaborate'}
+Sitaram Ramachandrula	Vishal Gupta	{'relation': 'collaborate'}
+V. Kamakoti	K. Najeeb	{'relation': 'collaborate'}
+V. Kamakoti	Vishal Gupta	{'relation': 'collaborate'}
 Montek Singh	Vishal Gupta	{'relation': 'collaborate'}
-Gopal Datt Joshi	Vishal Gupta	{'relation': 'collaborate'}
-Gopal Datt Joshi	Pulkit Parikh	{'relation': 'collaborate'}
-Gopal Datt Joshi	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Montek Singh	Gennette Gill	{'relation': 'collaborate'}
+Ioannis Ch. Paschalidis	Vishal Gupta	{'relation': 'collaborate'}
+Ioannis Ch. Paschalidis	D. Bertsimas	{'relation': 'collaborate'}
 Karsten Schwan	Paul Brett	{'relation': 'collaborate'}
+Karsten Schwan	D. A. Koufaty	{'relation': 'collaborate'}
 Karsten Schwan	Ganapati Srinivasa	{'relation': 'collaborate'}
 Karsten Schwan	Dheeraj Reddy	{'relation': 'collaborate'}
 Karsten Schwan	Min Lee	{'relation': 'collaborate'}
 Karsten Schwan	Vishal Gupta	{'relation': 'collaborate'}
+Karsten Schwan	Scott Hahn	{'relation': 'collaborate'}
 Karsten Schwan	Ripal Nathuji	{'relation': 'collaborate'}
-Vishal Gupta	Ioannis Ch. Paschalidis	{'relation': 'collaborate'}
-Vishal Gupta	Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
-Vishal Gupta	Paul Brett	{'relation': 'collaborate'}
-Vishal Gupta	Pulkit Parikh	{'relation': 'collaborate'}
-Vishal Gupta	K. Najeeb	{'relation': 'collaborate'}
-Vishal Gupta	Dheeraj Reddy	{'relation': 'collaborate'}
-Vishal Gupta	S. C. Sharma	{'relation': 'collaborate'}
-Vishal Gupta	Min Lee	{'relation': 'collaborate'}
-Vishal Gupta	V. Kamakoti	{'relation': 'collaborate'}
-Vishal Gupta	D. Bertsimas	{'relation': 'collaborate'}
-Vishal Gupta	Ganapati Srinivasa	{'relation': 'collaborate'}
-Vishal Gupta	Ripal Nathuji	{'relation': 'collaborate'}
-Vishal Gupta	Sitaram Ramachandrula	{'relation': 'collaborate'}
+Dheeraj Reddy	Vishal Gupta	{'relation': 'collaborate'}
 Dheeraj Reddy	Ganapati Srinivasa	{'relation': 'collaborate'}
+Dheeraj Reddy	Scott Hahn	{'relation': 'collaborate'}
 Dheeraj Reddy	Paul Brett	{'relation': 'collaborate'}
-Ioannis Ch. Paschalidis	D. Bertsimas	{'relation': 'collaborate'}
-Ripal Nathuji	Min Lee	{'relation': 'collaborate'}
-V. Kamakoti	K. Najeeb	{'relation': 'collaborate'}
+Dheeraj Reddy	D. A. Koufaty	{'relation': 'collaborate'}
+Min Lee	Ripal Nathuji	{'relation': 'collaborate'}
+Min Lee	Vishal Gupta	{'relation': 'collaborate'}
+Paul Brett	Vishal Gupta	{'relation': 'collaborate'}
+Paul Brett	Scott Hahn	{'relation': 'collaborate'}
 Paul Brett	Ganapati Srinivasa	{'relation': 'collaborate'}
-Sitaram Ramachandrula	Pulkit Parikh	{'relation': 'collaborate'}
+Paul Brett	D. A. Koufaty	{'relation': 'collaborate'}
+K. Najeeb	Vishal Gupta	{'relation': 'collaborate'}
+Ganapati Srinivasa	Scott Hahn	{'relation': 'collaborate'}
+Ganapati Srinivasa	Vishal Gupta	{'relation': 'collaborate'}
+Ganapati Srinivasa	D. A. Koufaty	{'relation': 'collaborate'}
+Gennette Gill	Vishal Gupta	{'relation': 'collaborate'}
+Scott Hahn	Vishal Gupta	{'relation': 'collaborate'}
+Scott Hahn	D. A. Koufaty	{'relation': 'collaborate'}
+S. C. Sharma	Vishal Gupta	{'relation': 'collaborate'}
+Pulkit Parikh	Vishal Gupta	{'relation': 'collaborate'}
+Pulkit Parikh	Gopal Datt Joshi	{'relation': 'collaborate'}
+Gopal Datt Joshi	Vishal Gupta	{'relation': 'collaborate'}
+D. Bertsimas	Vishal Gupta	{'relation': 'collaborate'}
+Vishal Gupta	Gabriel A. Rincon-Mora	{'relation': 'collaborate'}
+Vishal Gupta	D. A. Koufaty	{'relation': 'collaborate'}
+Vishal Gupta	Ripal Nathuji	{'relation': 'collaborate'}

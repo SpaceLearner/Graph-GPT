@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="H. Wechsler">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fault-Tolerant Computation, associative memory, database information retrieval</data>
+    </node>
+    <node id="R. Jammy">
+      <data key="affiliation">SEMATECH 2706 Montopolis Drive, Austin, TX 78741, USA</data>
+      <data key="research">Si substrate, Si IPL, Si cap</data>
+    </node>
+    <node id="C. L. Hinkle">
+      <data key="affiliation">Department of Materials Science and Engineering, University of Texas at Dallas, 800 W. Campbell Road, RL 10, Richardson, TX 75080, USA</data>
+      <data key="research">chemical phase separation, gate dielectric, surface preparation</data>
+    </node>
+    <node id="W. Abramowicz">
+      <data key="affiliation">Nan</data>
+      <data key="research">educational technology, information systems development, repetition spacing</data>
+    </node>
+    <node id="A. Sonnet">
+      <data key="affiliation">Department of Electrical Engineering, University of Texas at Dallas, Dallas, TX 75080, USA</data>
+      <data key="research">gate dielectric, surface preparation, substrate temperature</data>
+    </node>
+    <node id="X. Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">multiscale technique, multiscale visualisation, multiscale data visualisation</data>
+    </node>
+    <node id="Y. Wang">
+      <data key="affiliation">State Key Laboratory of Organic Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China</data>
+      <data key="research">Landsat TM, land surface temperature, retrieving land surface temperature</data>
+    </node>
+    <node id="Hong-Bae Park">
+      <data key="affiliation">SEMATECH, Samsung, 2706 Montopolis Drive, Austin, TX 78741, USA</data>
+      <data key="research">EWF tuning, high EWF metal, HfSiON gate stack</data>
+    </node>
+    <node id="W. J. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">product data, special reference</data>
+    </node>
+    <node id="Fabrizio Lombardi">
+      <data key="affiliation">Nan</data>
+      <data key="research">human hand, human movement, natural human movement</data>
+    </node>
+    <node id="C. Metra">
+      <data key="affiliation">IEEE</data>
+      <data key="research">clock fault, clock distribution network, faults result</data>
+    </node>
+    <node id="R. M. Mersereau">
+      <data key="affiliation">School of Electrical Engineering, Georgia Institute of Technology, Atlanta, GA</data>
+      <data key="research">proposed algorithm, video sequence, video signal</data>
+    </node>
+    <node id="Kyung Ki Kim">
+      <data key="affiliation">SUN Microsystems, Santa Clara, CA</data>
+      <data key="research">leakage power, simulation result, leakage power analysis</data>
+    </node>
+    <node id="H. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Internet-based learning, adaptive online education system, current online education system</data>
+    </node>
+    <node id="J. Huang">
+      <data key="affiliation">Sun Microsystems</data>
+      <data key="research">QCA device, QCA cell, QCA defect</data>
+    </node>
+    <node id="Wilson J. Rugh">
+      <data key="affiliation">Johns Hopkins Univ., Baltimore, MD</data>
+      <data key="research">weak decoupling, analytic nonlinear system, discrete-time nonlinear systemsPaper</data>
+    </node>
+    <node id="F. Lombardi">
+      <data key="affiliation">ECE, Northeastern University, Boston (MA), USA</data>
+      <data key="research">DC-AC converter, PV array, PV array power efficiency</data>
+    </node>
+    <node id="Pong-chi Yuen">
+      <data key="affiliation">Hong Kong Baptist University</data>
+      <data key="research">face recognition, proposed method, face image</data>
+    </node>
+    <node id="Eloi Pereira">
+      <data key="affiliation">University of California, Berkeley</data>
+      <data key="research">operational semantics, real vehicle, Actor model</data>
+    </node>
+    <node id="N. Goel">
+      <data key="affiliation">SEMATECH, 2706 Montopolis Drive, Austin, TX 78741, USA</data>
+      <data key="research">gate dielectric, electron mobility, surface channel</data>
+    </node>
+    <edge source="H. Wechsler" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Jammy" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Jammy" target="Hong-Bae Park">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. L. Hinkle" target="A. Sonnet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. L. Hinkle" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. L. Hinkle" target="N. Goel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Abramowicz" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sonnet" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sonnet" target="N. Goel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Ma" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Ma" target="Fabrizio Lombardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Ma" target="C. Metra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Ma" target="F. Lombardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Ma" target="H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Wang" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Wang" target="W. J. Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong-Bae Park" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. J. Zhang" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fabrizio Lombardi" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fabrizio Lombardi" target="Kyung Ki Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fabrizio Lombardi" target="C. Metra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Metra" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Metra" target="F. Lombardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Mersereau" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyung Ki Kim" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Chen" target="J. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Chen" target="Eloi Pereira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Huang" target="Wilson J. Rugh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Huang" target="N. Goel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Huang" target="F. Lombardi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Huang" target="Eloi Pereira">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Huang" target="Pong-chi Yuen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

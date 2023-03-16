@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Curtis E. Dyreson">
+      <data key="affiliation">Department of Computer Science, Utah State University, Logan, UT 84321, USA</data>
+      <data key="research">XML data, XML data collection, data aspect</data>
+    </node>
+    <node id="Ping Chen">
+      <data key="affiliation">State Key Laboratory for Novel Software Technology, Department of Computer Science and Technology, Nanjing University, Nanjing 210093</data>
+      <data key="research">ROP malicious code, malicious code, Return-Oriented Programming</data>
+    </node>
+    <node id="Dan C. Marinescu">
+      <data key="affiliation">Transilvania University of Brasov, Department of Computer Science, Iuliu Maniu, Brasov, Romania</data>
+      <data key="research">Time-Parallel Simulation, guillotine restriction, wireless network</data>
+    </node>
+    <node id="Chunsheng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Power Steering System, optimization model, objective function</data>
+    </node>
+    <node id="Rahul Ramachandran">
+      <data key="affiliation">ITSC/University of Alabama  Huntsville, USA</data>
+      <data key="research">satellite imagery, data processing, data mining toolkit</data>
+    </node>
+    <node id="A Hac">
+      <data key="affiliation">Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI</data>
+      <data key="research">file system, wireless ATM network, wireless network</data>
+    </node>
+    <node id="Ongard Sirisaengtaksin">
+      <data key="affiliation">University of Houston, Houston, TX</data>
+      <data key="research">traffic light, class schedule, interval neural network</data>
+    </node>
+    <node id="Zhenyan Chu">
+      <data key="affiliation">The Research Institute of Nonlinear Information &amp; Technology, Dalian Nationalities University, Dalian 116600, P. R. China</data>
+      <data key="research">distributional chaos, continuous self-map, Ruelle-Takens chaos</data>
+    </node>
+    <node id="Zhiwu Gai">
+      <data key="affiliation">Nan</data>
+      <data key="research">mouse shell, traditional computer mouse, computer keyboard</data>
+    </node>
+    <node id="Lidong Wang">
+      <data key="affiliation">Department of Mathematics, Dalian Maritime University, Dalian 116026, PR China</data>
+      <data key="research">AFS algebra, AFS formal concept, concept lattice</data>
+    </node>
+    <node id="Evans Criswell">
+      <data key="affiliation">University of Alabama in Huntsville</data>
+      <data key="research">CBEA algorithm, Data Fusion Algorithm, Ensemble Algorithm</data>
+    </node>
+    <node id="Yongchang Ji">
+      <data key="affiliation">School of Electrical and Computer Engineering, University of Central Florida, Orlando, FL</data>
+      <data key="research">MAC layer protocol, structure determination, virus structure</data>
+    </node>
+    <node id="Timothy S. Baker">
+      <data key="affiliation">Nan</data>
+      <data key="research">Orientation Refinement, parallel algorithm, parallel computer</data>
+    </node>
+    <node id="William Schulze Evans">
+      <data key="affiliation">University of Arizona, Dept of Computer Science, Gould Simpson Building, Tucson, AZ</data>
+      <data key="research">Gabriel graph, log n, point set</data>
+    </node>
+    <node id="John Rushing">
+      <data key="affiliation">Intel Corp., Santa Clara, CA</data>
+      <data key="research">association rule, data mining toolkit, scientific data</data>
+    </node>
+    <node id="Richard Snodgrass">
+      <data key="affiliation">Nan</data>
+      <data key="research">double-blind reviewingAs, comprehensive analysis, ACM Transactions</data>
+    </node>
+    <node id="R. E. Lynch">
+      <data key="affiliation">Purdue Univ., West Lafayette, IN</data>
+      <data key="research">asymmetric object, reconstruction algorithm, parallel system</data>
+    </node>
+    <node id="Hong Lin">
+      <data key="affiliation">Department of Mathematics and Statistics, University of Ottawa, Ottawa, ON, Canada</data>
+      <data key="research">lock step, key aspect, ZigZag algorithm</data>
+    </node>
+    <node id="Li Sun">
+      <data key="affiliation">Department of Information and Communication Engineering, Xi'an Jiaotong University, Xi'an, P. R. China</data>
+      <data key="research">outage probability, outage probability expression, probability density function</data>
+    </node>
+    <node id="Sara Graves">
+      <data key="affiliation">Information Technology &amp; Systems Laboratory and  Computer Science Department,  University of Alabama in Huntsville, Huntsville, AL  35899, USA</data>
+      <data key="research">data mining toolkit, model data, scientific data</data>
+    </node>
+    <edge source="Curtis E. Dyreson" target="Richard Snodgrass">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Curtis E. Dyreson" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Curtis E. Dyreson" target="William Schulze Evans">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping Chen" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping Chen" target="Ongard Sirisaengtaksin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan C. Marinescu" target="R. E. Lynch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan C. Marinescu" target="Yongchang Ji">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan C. Marinescu" target="Timothy S. Baker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan C. Marinescu" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunsheng Yang" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rahul Ramachandran" target="Sara Graves">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rahul Ramachandran" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rahul Ramachandran" target="John Rushing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A Hac" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ongard Sirisaengtaksin" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyan Chu" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenyan Chu" target="Lidong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiwu Gai" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiwu Gai" target="Li Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lidong Wang" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evans Criswell" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evans Criswell" target="John Rushing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Evans Criswell" target="Sara Graves">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongchang Ji" target="Timothy S. Baker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongchang Ji" target="R. E. Lynch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongchang Ji" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy S. Baker" target="R. E. Lynch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy S. Baker" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Schulze Evans" target="Richard Snodgrass">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Schulze Evans" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rushing" target="Sara Graves">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rushing" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Snodgrass" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. E. Lynch" target="Hong Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Lin" target="Li Sun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Lin" target="Sara Graves">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

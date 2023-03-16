@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:17 2023
 # 
-Linda Brodo	4
-Alejandro F. Frangi	{'relation': 'collaborate'}
-Javier Galbally	{'relation': 'collaborate'}
-M. Tistarelli	{'relation': 'collaborate'}
-Julian Fierrez	{'relation': 'collaborate'}
-S. A. M. Baert	2
-Alejandro F. Frangi	{'relation': 'collaborate'}
-M. A. Viergever	{'relation': 'collaborate'}
-Julian Fierrez	3
-Alejandro F. Frangi	{'relation': 'collaborate'}
-Javier Galbally	{'relation': 'collaborate'}
-M. Tistarelli	{'relation': 'collaborate'}
-Alejandro F. Frangi	15
-B. K. Ersbøll	{'relation': 'collaborate'}
-M. A. Viergever	{'relation': 'collaborate'}
-Bob Moore	{'relation': 'collaborate'}
-Javier Galbally	{'relation': 'collaborate'}
-Bart M. ter Haar Romeny	{'relation': 'collaborate'}
-Michael Sass Hansen	{'relation': 'collaborate'}
-Ernesto Zacur	{'relation': 'collaborate'}
-Bram van Ginneken	{'relation': 'collaborate'}
-Jimison Iavindrasana	{'relation': 'collaborate'}
-Edward J. Vigmond	{'relation': 'collaborate'}
-A. Berruezo	{'relation': 'collaborate'}
-Avan Suinesiaputra	{'relation': 'collaborate'}
-M. Tistarelli	{'relation': 'collaborate'}
-U. Perego	{'relation': 'collaborate'}
-M. Cremonesi	{'relation': 'collaborate'}
-M. Cremonesi	2
-C. Ferri	{'relation': 'collaborate'}
-U. Perego	{'relation': 'collaborate'}
-Javier Galbally	1
-M. Tistarelli	{'relation': 'collaborate'}
-B. K. Ersbøll	1
-Michael Sass Hansen	{'relation': 'collaborate'}
-M. Tistarelli	0
-C. Ferri	0
-Bob Moore	1
-Jimison Iavindrasana	{'relation': 'collaborate'}
-Jimison Iavindrasana	0
-A. Berruezo	0
-Bram van Ginneken	2
-Bart M. ter Haar Romeny	{'relation': 'collaborate'}
-M. A. Viergever	{'relation': 'collaborate'}
-Avan Suinesiaputra	0
-Edward J. Vigmond	0
-U. Perego	0
-Bart M. ter Haar Romeny	1
-M. A. Viergever	{'relation': 'collaborate'}
-Michael Sass Hansen	0
-M. A. Viergever	0
-Ernesto Zacur	0
+Julian Fierrez	Alejandro F. Frangi	Javier Galbally	M. Tistarelli	Linda Brodo
+S. A. M. Baert	Alejandro F. Frangi	M. A. Viergever
+M. A. Viergever	Alejandro F. Frangi	Bart M. ter Haar Romeny	Bram van Ginneken
+Michael Sass Hansen	Alejandro F. Frangi	B. K. Ersbøll
+Bram van Ginneken	Alejandro F. Frangi	Bart M. ter Haar Romeny
+M. Cremonesi	C. Ferri	Alejandro F. Frangi	U. Perego
+Bob Moore	Alejandro F. Frangi	Jimison Iavindrasana
+M. Tistarelli	Alejandro F. Frangi	Javier Galbally	Linda Brodo
+A. Berruezo	Alejandro F. Frangi
+Alejandro F. Frangi	B. K. Ersbøll	Javier Galbally	Bart M. ter Haar Romeny	Ernesto Zacur	Linda Brodo	Jimison Iavindrasana	Edward J. Vigmond	Avan Suinesiaputra	U. Perego
+Linda Brodo	Javier Galbally
+Avan Suinesiaputra
+Javier Galbally
+C. Ferri
+Jimison Iavindrasana
+U. Perego
+B. K. Ersbøll
+Edward J. Vigmond
+Ernesto Zacur
+Bart M. ter Haar Romeny

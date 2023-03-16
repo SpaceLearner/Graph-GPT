@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="R C Brigham">
+      <data key="affiliation">University of Central Florida, Orlando</data>
+      <data key="research">defensive alliance, entire set, appropriate definition</data>
+    </node>
+    <node id="F. R. McMorris">
+      <data key="affiliation">Department of Applied Mathematics, Illinois Institute of Technology, Chicago, IL</data>
+      <data key="research">consensus function, median function, consensus result</data>
+    </node>
+    <node id="Rosa Enciso">
+      <data key="affiliation">School of Electrical Engineering and Computer Science, University of Central Florida, Orlando</data>
+      <data key="research">series-parallel graph, defensive alliance, parameterized algorithm</data>
+    </node>
+    <node id="C. Paul Bonnington">
+      <data key="affiliation">Department of Mathematics, University of Auckland, Auckland, New Zealand</data>
+      <data key="research">Inc. J Graph Theory, geometric realization, John Wiley</data>
+    </node>
+    <node id="R. Bruce Richter">
+      <data key="affiliation">Department of Combinatorics and Optimization, University of Waterloo, Waterloo, Ontario, Canada</data>
+      <data key="research">Wiley Periodicals, cycle space, Inc. J Graph Theory</data>
+    </node>
+    <node id="Teresa W. Haynes">
+      <data key="affiliation">Department of Mathematics, East Tennessee State University, Johnson City, TN</data>
+      <data key="research">total domination number, graph G, total domination</data>
+    </node>
+    <node id="Neil Robertson">
+      <data key="affiliation">Ohio State Univ., Columbus</data>
+      <data key="research">graph G, finite graph, 4-free graph</data>
+    </node>
+    <node id="Robert Lee">
+      <data key="affiliation">University of Central Florida, Orlando</data>
+      <data key="research">network server, normal profile, local network</data>
+    </node>
+    <node id="Joseph Fiedler">
+      <data key="affiliation">Department of Mathematics, California State University, Bakersfield, CA 93311</data>
+      <data key="research">bandwidth B., bipartite graph, bipartite graphsThis paper</data>
+    </node>
+    <node id="S T Hedetniemi">
+      <data key="affiliation">Clemson Univ., Clemson, SC</data>
+      <data key="research">self-stabilizing algorithm, vertex v, graph G</data>
+    </node>
+    <node id="Bojan Mohar">
+      <data key="affiliation">Simon Fraser University, Department of Mathematics, V5A 1S6, Burnaby, BC, Canada and University of Ljubljana, Department of Mathematics, Jadranska 19, 1000, Ljubljana, Slovenia</data>
+      <data key="research">Eulerian triangulation, Klein bottle, Coloring Eulerian Triangulations</data>
+    </node>
+    <node id="Carsten Thomassen">
+      <data key="affiliation">Nan</data>
+      <data key="research">undirected graph, radius r, orientation H</data>
+    </node>
+    <node id="Dmitrii V. Pasechnik">
+      <data key="affiliation">dima@ntu.edu.sg</data>
+      <data key="research">Stability Number, page number, complete bipartite graph</data>
+    </node>
+    <node id="Luis A. Goddyn">
+      <data key="affiliation">Department of Mathematics and Statistics, Simon Fraser University, Burnaby, BC, V5A 1S6, Canada (email: goddyn@math.sfu.ca)</data>
+      <data key="research">complete graph, oriented matroid, silver cube</data>
+    </node>
+    <node id="Fernando Gomez">
+      <data key="affiliation">Department of Computer Science, University of Central Florida, Orlando, FL 32816, U.S.A.</data>
+      <data key="research">semantic interpretation, noun sense disambiguation, verbal sense</data>
+    </node>
+    <node id="R D Dutton">
+      <data key="affiliation">University of Central Florida, Orlando</data>
+      <data key="research">series-parallel graph, defensive alliance, alliance cover set</data>
+    </node>
+    <node id="Richard Vitray">
+      <data key="affiliation">Department of Mathematical Sciences, Rollins College, Winter Park FL 32789</data>
+      <data key="research">bandwidth B., bipartite graph, bipartite graphsThis paper</data>
+    </node>
+    <node id="Rodney O. Rogers">
+      <data key="affiliation">Department of Aeronautical Science, EmbryRiddle Aeronautical University, Daytona Beach, Florida</data>
+      <data key="research">screen output, recording computer video output, video output</data>
+    </node>
+    <node id="Dan Archdeacon">
+      <data key="affiliation">University of Vermont, Burlington</data>
+      <data key="research">Inc. J Graph Theory, chromatic number, John Wiley</data>
+    </node>
+    <node id="A. Bouchet">
+      <data key="affiliation">Universite´ du Maire, Le Mans Cedex, France</data>
+      <data key="research">jump system, triangulations G, 4-regular graph</data>
+    </node>
+    <edge source="R C Brigham" target="S T Hedetniemi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="F. R. McMorris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="Teresa W. Haynes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="Robert Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="Fernando Gomez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R C Brigham" target="Joseph Fiedler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. R. McMorris" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rosa Enciso" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Paul Bonnington" target="R. Bruce Richter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Paul Bonnington" target="Dan Archdeacon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Dan Archdeacon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Carsten Thomassen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="A. Bouchet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Dmitrii V. Pasechnik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Luis A. Goddyn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Bojan Mohar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Bruce Richter" target="Neil Robertson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Teresa W. Haynes" target="S T Hedetniemi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Teresa W. Haynes" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neil Robertson" target="Bojan Mohar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neil Robertson" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Lee" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joseph Fiedler" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joseph Fiedler" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S T Hedetniemi" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bojan Mohar" target="Luis A. Goddyn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bojan Mohar" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bojan Mohar" target="Dan Archdeacon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bojan Mohar" target="Carsten Thomassen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carsten Thomassen" target="Dan Archdeacon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando Gomez" target="R D Dutton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R D Dutton" target="Richard Vitray">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R D Dutton" target="Rodney O. Rogers">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

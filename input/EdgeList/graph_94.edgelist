@@ -1,32 +1,32 @@
-Carine Hue	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Carine Hue	P. Perez	{'relation': 'collaborate'}
-Carine Hue	Marc Boulle	{'relation': 'collaborate'}
-O. Trémois	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Emmanuel Veneau	P Bouthemy	{'relation': 'collaborate'}
-Emmanuel Veneau	Rémi Ronfard	{'relation': 'collaborate'}
+A. Chessel	P Bouthemy	{'relation': 'collaborate'}
 Nicolas Papadakis	Alexandre Hervieu	{'relation': 'collaborate'}
 Nicolas Papadakis	Aurélie Bugeau	{'relation': 'collaborate'}
 Nicolas Papadakis	V. Caselles	{'relation': 'collaborate'}
 Nicolas Papadakis	Pau Gargallo	{'relation': 'collaborate'}
 Éric Anquetil	Frédéric Dambreville	{'relation': 'collaborate'}
 Éric Anquetil	Bertrand Coüasnon	{'relation': 'collaborate'}
-Aurélie Bugeau	V. Caselles	{'relation': 'collaborate'}
-Aurélie Bugeau	Alexandre Hervieu	{'relation': 'collaborate'}
-Aurélie Bugeau	P. Perez	{'relation': 'collaborate'}
-Aurélie Bugeau	Pau Gargallo	{'relation': 'collaborate'}
-Rémi Ronfard	P Bouthemy	{'relation': 'collaborate'}
-A. Chessel	P Bouthemy	{'relation': 'collaborate'}
-Roger Mohr	P Bouthemy	{'relation': 'collaborate'}
-P. Perez	P Bouthemy	{'relation': 'collaborate'}
-P. Perez	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-P. Perez	R. Venkatehs Babu	{'relation': 'collaborate'}
+P Bouthemy	Alain Lehmann	{'relation': 'collaborate'}
+P Bouthemy	Emmanuel Veneau	{'relation': 'collaborate'}
+P Bouthemy	Rémi Ronfard	{'relation': 'collaborate'}
+P Bouthemy	Roger Mohr	{'relation': 'collaborate'}
+P Bouthemy	R. Venkatehs Babu	{'relation': 'collaborate'}
+P Bouthemy	P. Perez	{'relation': 'collaborate'}
+P Bouthemy	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+P Bouthemy	Alexandre Hervieu	{'relation': 'collaborate'}
+Marc Boulle	Carine Hue	{'relation': 'collaborate'}
+O. Trémois	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+Carine Hue	Jean-Pierre Le Cadre	{'relation': 'collaborate'}
+Carine Hue	P. Perez	{'relation': 'collaborate'}
 Jean-Pierre Le Cadre	Frédéric Dambreville	{'relation': 'collaborate'}
 Jean-Pierre Le Cadre	Alexandre Hervieu	{'relation': 'collaborate'}
-Jean-Pierre Le Cadre	P Bouthemy	{'relation': 'collaborate'}
+Jean-Pierre Le Cadre	P. Perez	{'relation': 'collaborate'}
 Alexandre Hervieu	Pau Gargallo	{'relation': 'collaborate'}
-Alexandre Hervieu	P Bouthemy	{'relation': 'collaborate'}
+Alexandre Hervieu	Aurélie Bugeau	{'relation': 'collaborate'}
 Alexandre Hervieu	V. Caselles	{'relation': 'collaborate'}
-Pau Gargallo	V. Caselles	{'relation': 'collaborate'}
-Bertrand Coüasnon	Frédéric Dambreville	{'relation': 'collaborate'}
-Alain Lehmann	P Bouthemy	{'relation': 'collaborate'}
-R. Venkatehs Babu	P Bouthemy	{'relation': 'collaborate'}
+Rémi Ronfard	Emmanuel Veneau	{'relation': 'collaborate'}
+V. Caselles	Aurélie Bugeau	{'relation': 'collaborate'}
+V. Caselles	Pau Gargallo	{'relation': 'collaborate'}
+P. Perez	Aurélie Bugeau	{'relation': 'collaborate'}
+P. Perez	R. Venkatehs Babu	{'relation': 'collaborate'}
+Pau Gargallo	Aurélie Bugeau	{'relation': 'collaborate'}
+Frédéric Dambreville	Bertrand Coüasnon	{'relation': 'collaborate'}

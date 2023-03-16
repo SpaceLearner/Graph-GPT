@@ -1,58 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:56 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:02 2023
 # 
-Adrian Nistor	2
-Nicolae Tapus	{'relation': 'collaborate'}
-Tiow Seng Tan	{'relation': 'collaborate'}
-Sven Zeisberg	3
-Nicolae Tapus	{'relation': 'collaborate'}
-Laura Gheorghe	{'relation': 'collaborate'}
-Emil Slusanschi	{'relation': 'collaborate'}
-Costin-Anton Boiangiu	3
-Daniel Rosner	{'relation': 'collaborate'}
-Alexandra Olteanu	{'relation': 'collaborate'}
-Nicolae Tapus	{'relation': 'collaborate'}
-Laura Gheorghe	3
-Nicolae Tapus	{'relation': 'collaborate'}
-Razvan Deaconescu	{'relation': 'collaborate'}
-Emil Slusanschi	{'relation': 'collaborate'}
-Mihai Burcea	1
-Nicolae Tapus	{'relation': 'collaborate'}
-Bogdan Ditu	3
-Nicolae Tapus	{'relation': 'collaborate'}
-Stefan Craciun	{'relation': 'collaborate'}
-Dragos Badea	{'relation': 'collaborate'}
-Tiow Seng Tan	1
-Nicolae Tapus	{'relation': 'collaborate'}
-Nicolae Tapus	10
-Alexandru Iosup	{'relation': 'collaborate'}
-Emil Slusanschi	{'relation': 'collaborate'}
-Vlad Olaru	{'relation': 'collaborate'}
-Mugurel Ionut Andreica	{'relation': 'collaborate'}
-Daniel Rosner	{'relation': 'collaborate'}
-Johan Pouwelse	{'relation': 'collaborate'}
-Alexandra Olteanu	{'relation': 'collaborate'}
-Valentin Cristea	{'relation': 'collaborate'}
-Ramiro Voicu	{'relation': 'collaborate'}
-Razvan Deaconescu	{'relation': 'collaborate'}
-Mugurel Ionut Andreica	4
-Valentin Cristea	{'relation': 'collaborate'}
-Johan Pouwelse	{'relation': 'collaborate'}
-Ramiro Voicu	{'relation': 'collaborate'}
-Vlad Olaru	{'relation': 'collaborate'}
-Razvan Deaconescu	0
-Dragos Badea	1
-Stefan Craciun	{'relation': 'collaborate'}
-Vlad Olaru	0
-Stefan Craciun	0
-Emil Slusanschi	0
-Valentin Cristea	2
-Alexandra Olteanu	{'relation': 'collaborate'}
-Ramiro Voicu	{'relation': 'collaborate'}
-Daniel Rosner	1
-Alexandra Olteanu	{'relation': 'collaborate'}
-Johan Pouwelse	1
-Alexandru Iosup	{'relation': 'collaborate'}
-Alexandra Olteanu	0
-Ramiro Voicu	0
-Alexandru Iosup	0
+Razvan Deaconescu	Laura Gheorghe	Nicolae Tapus
+Mihai Burcea	Nicolae Tapus
+Sven Zeisberg	Nicolae Tapus	Laura Gheorghe	Emil Slusanschi
+Johan Pouwelse	Nicolae Tapus	Mugurel Ionut Andreica	Alexandru Iosup
+Dragos Badea	Stefan Craciun	Bogdan Ditu
+Alexandra Olteanu	Valentin Cristea	Costin-Anton Boiangiu	Daniel Rosner	Nicolae Tapus
+Vlad Olaru	Nicolae Tapus	Mugurel Ionut Andreica
+Mugurel Ionut Andreica	Nicolae Tapus	Valentin Cristea	Ramiro Voicu
+Emil Slusanschi	Nicolae Tapus	Laura Gheorghe
+Stefan Craciun	Bogdan Ditu
+Adrian Nistor	Nicolae Tapus	Tiow Seng Tan
+Bogdan Ditu	Nicolae Tapus
+Tiow Seng Tan	Nicolae Tapus
+Valentin Cristea	Nicolae Tapus	Ramiro Voicu
+Costin-Anton Boiangiu	Daniel Rosner	Nicolae Tapus
+Alexandru Iosup	Nicolae Tapus
+Ramiro Voicu	Nicolae Tapus
+Daniel Rosner	Nicolae Tapus
+Nicolae Tapus	Laura Gheorghe
+Laura Gheorghe

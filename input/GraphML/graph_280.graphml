@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. Madden">
+      <data key="affiliation">Department of Computer Science, Loughborough University, Loughborough, LE11 3TU, UK</data>
+      <data key="research">computer tool, known story, current software</data>
+    </node>
+    <node id="S. de Gregorio">
+      <data key="affiliation">Nan</data>
+      <data key="research">advanced architecture, multimedia application, combined RISC</data>
+    </node>
+    <node id="D. Rudolph">
+      <data key="affiliation">Palo Alto Research Center (PARC), 3333 Coyote Hill Road, Palo Alto, CA</data>
+      <data key="research">condenser zone plate, high resolution zone plate, outermost zone</data>
+    </node>
+    <node id="Bernhard Sendhoff">
+      <data key="affiliation">Honda Research Institute Europe</data>
+      <data key="research">evolutionary algorithm, neural network, evolutionary search</data>
+    </node>
+    <node id="U. Neuhäusler">
+      <data key="affiliation">Fakultät für Physik, Universität Bielefeld, Postfach 10 01 31, 33501 Bielefeld, Germany</data>
+      <data key="research">electron microscopy, keV X-ray microscopy, photon energy</data>
+    </node>
+    <node id="M. Rhein">
+      <data key="affiliation">University of Mannheim, Institute for Mathematics, 68131 Mannheim, Germany</data>
+      <data key="research">smooth function, data value, discrete data</data>
+    </node>
+    <node id="B. Kaulich">
+      <data key="affiliation">ESCA beamline at Elettra Synchrotron Light Source, Area Science Park, S.S.14 km 163.5, 34012 Basovizza, Trieste, Italy</data>
+      <data key="research">zone plate, Shaping X-ray, TWINMIC X-ray microscope</data>
+    </node>
+    <node id="G. Schneider">
+      <data key="affiliation">Honda Res. Inst. Eur. GmbH, Offenbach/Main, Germany</data>
+      <data key="research">Evolutionary optimization, second-order generalization, vision system</data>
+    </node>
+    <node id="S. Rehbein">
+      <data key="affiliation">Biomedical and Xray Physics, Royal Institute of Technology/Albanova, Stockholm S10691, Sweden and BESSY GmbH, AlbertEinsteinStraße 15, D12489 Berlin, Germany</data>
+      <data key="research">zone plate, micro-zone plate, Fresnel zone plate</data>
+    </node>
+    <node id="J. Chaoui">
+      <data key="affiliation">Software &amp; Networks Discipline, R. Melbourne Inst. of Technol., Vic., Australia</data>
+      <data key="research">advanced architecture, multimedia application, combined RISC</data>
+    </node>
+    <node id="T. Schliebe">
+      <data key="affiliation">Forschungseinrichtung Röntgenphysik, Universität Göttingen, Geiststrasse 11, 37073 Göttingen, Germany</data>
+      <data key="research">electron beam lithography, condenser zone plate, high resolution phase zone</data>
+    </node>
+    <node id="S. Heim">
+      <data key="affiliation">Department of Statistics, LudwigMaximiliansUniversity, Ludwigstrasse 33/II, 80539 Munich, Germany</data>
+      <data key="research">voxelwise regression, coefficient model, continuous regularized tensor field</data>
+    </node>
+    <node id="Edgar Körner">
+      <data key="affiliation">HONDA Research Institute Europe GmbH, Offenbach/Main, Zürich, Germany</data>
+      <data key="research">online learning, incremental learning, unsupervised learning</data>
+    </node>
+    <node id="P. Guttmann">
+      <data key="affiliation">HelmholtzZentrum Berlin für Materialien und Energie GmbH, Elektronenspeicherring BESSY II, AlbertEinsteinStraíe 15, 12489 Berlin, Germany</data>
+      <data key="research">Fresnel zone plate, zone plate, diffraction efficiency</data>
+    </node>
+    <node id="H. Wersing">
+      <data key="affiliation">Nan</data>
+      <data key="research">Evolutionary optimization, second-order generalization, vision system</data>
+    </node>
+    <node id="K. Oehler">
+      <data key="affiliation">Nan</data>
+      <data key="research">fixed Q encoding, average MSE, peak MSE</data>
+    </node>
+    <node id="G Nürnberger">
+      <data key="affiliation">Univ. Mannheim, Mannheim, Germany</data>
+      <data key="research">optimal approximation order, C1 spline, splines yield</data>
+    </node>
+    <node id="J. Webb">
+      <data key="affiliation">Department of Physics, Stephen F. Austin State University, P. 0. Box 13044, SFA Station, Nacogdoches, TX</data>
+      <data key="research">structure model, Astrophysical APL, astrophysical model</data>
+    </node>
+    <node id="G. Schmahl">
+      <data key="affiliation">Forschungseinrichtung Röntgenphysik, Universität Göttingen, Geiststrasse 11, 37073 Göttingen, Germany</data>
+      <data key="research">zone plate, condenser zone plate, high resolution zone plate</data>
+    </node>
+    <node id="S. Werner">
+      <data key="affiliation">Nan</data>
+      <data key="research">MIMO system, linear receiver, stochastic unitary plane rotation</data>
+    </node>
+    <edge source="M. Madden" target="J. Webb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. de Gregorio" target="J. Webb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. de Gregorio" target="J. Chaoui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Rudolph" target="G. Schmahl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Rudolph" target="T. Schliebe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Rudolph" target="G. Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Rudolph" target="B. Kaulich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernhard Sendhoff" target="Edgar Körner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernhard Sendhoff" target="G. Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernhard Sendhoff" target="H. Wersing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="U. Neuhäusler" target="G. Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Rhein" target="G Nürnberger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Rhein" target="G. Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Kaulich" target="G. Schneider">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Kaulich" target="G. Schmahl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Kaulich" target="T. Schliebe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="G. Schmahl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="J. Webb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="G Nürnberger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="H. Wersing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="S. Heim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="S. Rehbein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="P. Guttmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="Edgar Körner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="S. Werner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Schneider" target="T. Schliebe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Rehbein" target="S. Werner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Rehbein" target="G. Schmahl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Rehbein" target="P. Guttmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Rehbein" target="S. Heim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Chaoui" target="J. Webb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Schliebe" target="G. Schmahl">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Heim" target="P. Guttmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Heim" target="S. Werner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Edgar Körner" target="H. Wersing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Guttmann" target="S. Werner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Oehler" target="J. Webb">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

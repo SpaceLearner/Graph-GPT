@@ -1,49 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:49 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:54 2023
 # 
-Gyana Parija	1
-W E Wilhelm	{'relation': 'collaborate'}
-Benjamin McClosky	1
-Illya V. Hicks	{'relation': 'collaborate'}
-J. Ma	2
-Illya V. Hicks	{'relation': 'collaborate'}
-S. S. Margulies	{'relation': 'collaborate'}
-Krishnaswami Srihari	4
-Patrick H. Madden	{'relation': 'collaborate'}
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Sarah S. Lam	{'relation': 'collaborate'}
-Ameya R. Agnihotri	{'relation': 'collaborate'}
-Mohan V. Kalkunte	1
-W E Wilhelm	{'relation': 'collaborate'}
-Patrick H. Madden	2
-Ameya R. Agnihotri	{'relation': 'collaborate'}
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Sarah S. Lam	1
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Balabhaskar Balasundaram	2
-S. Butenko	{'relation': 'collaborate'}
-Illya V. Hicks	{'relation': 'collaborate'}
-W E Wilhelm	5
-Illya V. Hicks	{'relation': 'collaborate'}
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Xiaoyan Zhu	{'relation': 'collaborate'}
-Donglin Liang	{'relation': 'collaborate'}
-Charles R. Cash	{'relation': 'collaborate'}
-Chao Wang	2
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Chao Wang	{'relation': 'collaborate'}
-S. Butenko	1
-Illya V. Hicks	{'relation': 'collaborate'}
-Charles R. Cash	0
-S. S. Margulies	1
-Illya V. Hicks	{'relation': 'collaborate'}
-Mario Cesar Velez Gallego	1
-Purushothaman Damodaran	{'relation': 'collaborate'}
-Xiaoyan Zhu	0
-Illya V. Hicks	1
-Jonathan C. Smith	{'relation': 'collaborate'}
-Purushothaman Damodaran	1
-Ameya R. Agnihotri	{'relation': 'collaborate'}
-Jonathan C. Smith	0
-Ameya R. Agnihotri	0
-Donglin Liang	0
+S. S. Margulies	Illya V. Hicks	J. Ma
+Xiaoyan Zhu	W E Wilhelm
+Sarah S. Lam	Krishnaswami Srihari	Purushothaman Damodaran
+S. Butenko	Balabhaskar Balasundaram	Illya V. Hicks
+Chao Wang	Purushothaman Damodaran	Chao Wang
+Illya V. Hicks	Benjamin McClosky	J. Ma	W E Wilhelm	Balabhaskar Balasundaram	Jonathan C. Smith
+Mohan V. Kalkunte	W E Wilhelm
+J. Ma
+Krishnaswami Srihari	Patrick H. Madden	Purushothaman Damodaran	Ameya R. Agnihotri
+Ameya R. Agnihotri	Purushothaman Damodaran	Patrick H. Madden
+Patrick H. Madden	Purushothaman Damodaran
+Donglin Liang	W E Wilhelm
+Gyana Parija	W E Wilhelm
+Purushothaman Damodaran	W E Wilhelm	Mario Cesar Velez Gallego
+W E Wilhelm	Charles R. Cash
+Charles R. Cash
+Benjamin McClosky
+Balabhaskar Balasundaram
+Mario Cesar Velez Gallego
+Jonathan C. Smith

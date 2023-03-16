@@ -1,69 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-A. Thompson	4
-S. J. Lederman	{'relation': 'collaborate'}
-Roberta L. Klatzky	{'relation': 'collaborate'}
-Peter J. Berkelman	{'relation': 'collaborate'}
-R. L. Hollis	{'relation': 'collaborate'}
-Bing Wu	6
-Joel Schuman	{'relation': 'collaborate'}
-M. W. Siegel	{'relation': 'collaborate'}
-Roberta L. Klatzky	{'relation': 'collaborate'}
-George D. Stetten	{'relation': 'collaborate'}
-R. L. Hollis	{'relation': 'collaborate'}
-Randy Lee	{'relation': 'collaborate'}
-S. J. Lederman	4
-Peter J. Berkelman	{'relation': 'collaborate'}
-Roberta L. Klatzky	{'relation': 'collaborate'}
-R. L. Hollis	{'relation': 'collaborate'}
-R. Klatzky	{'relation': 'collaborate'}
-V. Varadharajan	3
-R. L. Hollis	{'relation': 'collaborate'}
-R. Klatzky	{'relation': 'collaborate'}
-Robert H. Swendsen	{'relation': 'collaborate'}
-George Kantor	2
-Umashankar Nagarajan	{'relation': 'collaborate'}
-R. L. Hollis	{'relation': 'collaborate'}
-George D. Stetten	5
-R. L. Hollis	{'relation': 'collaborate'}
-Roberta L. Klatzky	{'relation': 'collaborate'}
-Joel Schuman	{'relation': 'collaborate'}
-M. W. Siegel	{'relation': 'collaborate'}
-Randy Lee	{'relation': 'collaborate'}
-Y. Yokokohji	1
-R. L. Hollis	{'relation': 'collaborate'}
-Joel Schuman	4
-Randy Lee	{'relation': 'collaborate'}
-Roberta L. Klatzky	{'relation': 'collaborate'}
-M. W. Siegel	{'relation': 'collaborate'}
-R. L. Hollis	{'relation': 'collaborate'}
-Roberta L. Klatzky	4
-R. L. Hollis	{'relation': 'collaborate'}
-Randy Lee	{'relation': 'collaborate'}
-M. W. Siegel	{'relation': 'collaborate'}
-Peter J. Berkelman	{'relation': 'collaborate'}
-Zack Butler	2
-R. L. Hollis	{'relation': 'collaborate'}
-Alfred A. Rizzi	{'relation': 'collaborate'}
-S. Salcudean	1
-R. L. Hollis	{'relation': 'collaborate'}
-Sarjoun Skaff	1
-R. L. Hollis	{'relation': 'collaborate'}
-Robert H. Swendsen	2
-R. L. Hollis	{'relation': 'collaborate'}
-R. Klatzky	{'relation': 'collaborate'}
-Peter J. Berkelman	1
-R. L. Hollis	{'relation': 'collaborate'}
-Umashankar Nagarajan	1
-R. L. Hollis	{'relation': 'collaborate'}
-Alfred A. Rizzi	1
-R. L. Hollis	{'relation': 'collaborate'}
-R. L. Hollis	3
-M. W. Siegel	{'relation': 'collaborate'}
-R. Klatzky	{'relation': 'collaborate'}
-Randy Lee	{'relation': 'collaborate'}
-M. W. Siegel	1
-Randy Lee	{'relation': 'collaborate'}
-Randy Lee	0
-R. Klatzky	0
+Peter J. Berkelman	A. Thompson	S. J. Lederman	R. L. Hollis	Roberta L. Klatzky
+S. J. Lederman	A. Thompson	Roberta L. Klatzky	R. L. Hollis	R. Klatzky
+George D. Stetten	R. L. Hollis	Roberta L. Klatzky	Joel Schuman	Bing Wu	M. W. Siegel	Randy Lee
+S. Salcudean	R. L. Hollis
+Randy Lee	Joel Schuman	R. L. Hollis	Roberta L. Klatzky	M. W. Siegel	Bing Wu
+Umashankar Nagarajan	George Kantor	R. L. Hollis
+A. Thompson	Roberta L. Klatzky	R. L. Hollis
+Zack Butler	R. L. Hollis	Alfred A. Rizzi
+Bing Wu	Joel Schuman	M. W. Siegel	Roberta L. Klatzky	R. L. Hollis
+R. L. Hollis	V. Varadharajan	Robert H. Swendsen	George Kantor	M. W. Siegel	R. Klatzky	Sarjoun Skaff	Roberta L. Klatzky	Y. Yokokohji	Joel Schuman	Alfred A. Rizzi
+V. Varadharajan	R. Klatzky	Robert H. Swendsen
+Sarjoun Skaff
+Robert H. Swendsen	R. Klatzky
+Alfred A. Rizzi
+R. Klatzky
+M. W. Siegel	Joel Schuman	Roberta L. Klatzky
+George Kantor
+Joel Schuman	Roberta L. Klatzky
+Roberta L. Klatzky
+Y. Yokokohji

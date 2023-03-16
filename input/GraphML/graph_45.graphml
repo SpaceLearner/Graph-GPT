@@ -4,49 +4,25 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Chi-Hwa Song">
+    <node id="Xingshen Wu">
       <data key="affiliation">Nan</data>
-      <data key="research">proposed algorithm, Korean LDS, Korean alphabet</data>
-    </node>
-    <node id="Kyu-Ha Song">
-      <data key="affiliation">Agency for Defense Development, Daejeon, Korea</data>
-      <data key="research">radar signal, various radar signal, electronic warfare Support</data>
+      <data key="research">access control policy, ATN Model, CredentialsAutomated trust negotiation</data>
     </node>
     <node id="Jin-Woo Han">
       <data key="affiliation">Center for Nanotechnology, NASA Ames Research Center, Moffett Field, CA, USA</data>
       <data key="research">NW size, sensitive NW biosensors, Nanowire FET BiosensorsLabel-free</data>
     </node>
+    <node id="Jian Lu">
+      <data key="affiliation">Dept. of Math. &amp; Comput. Sci., Dartmouth Coll., Hanover, NH</data>
+      <data key="research">spatially selective noise filtration, regularizing operator, least-squares technique</data>
+    </node>
     <node id="Won Don Lee">
       <data key="affiliation">Nan</data>
       <data key="research">former BEWS system, noise reduction, toxicity detection</data>
     </node>
-    <node id="Guoqing Zhou">
-      <data key="affiliation">Nan</data>
-      <data key="research">multiview geometry, Enhanced Continuous Tabu Search, generic parameter estimation</data>
-    </node>
-    <node id="Dong-Weon Lee">
-      <data key="affiliation">MEMS&amp;Nanotechnology Laboratory, School of Mechanical Systems Engineering, Chonnam National Universit, Gwangju, Korea</data>
-      <data key="research">tungsten tip, high aspect ratio, high vacuum condition</data>
-    </node>
-    <node id="M. Rabby">
-      <data key="affiliation">Department of Computer Science, Graduate School and University Center, The City University of New York, New York, NY</data>
-      <data key="research">data flow, bandwidth allocation, data connectivity</data>
-    </node>
-    <node id="Hong Liang">
-      <data key="affiliation">Nan</data>
-      <data key="research">Spatial Data, data consistency, data inconsistency</data>
-    </node>
     <node id="Yang Wei">
       <data key="affiliation">Nan</data>
       <data key="research">secure protocol, Privacy Preserving Computational Geometry, convex hull</data>
-    </node>
-    <node id="Jung Min Kong">
-      <data key="affiliation">Nan</data>
-      <data key="research">new data, Rule Refinement, Extended Data ExpressionThe rule</data>
-    </node>
-    <node id="Jae-Cheol Ryou">
-      <data key="affiliation">ChungNam National University,  Korea</data>
-      <data key="research">USN middleware, command authentication, information consumer</data>
     </node>
     <node id="Tae-Hyoung Kim">
       <data key="affiliation">Dept. of Medical Information Munkyung College, Daejeon, Korea</data>
@@ -56,62 +32,74 @@
       <data key="affiliation">Nan</data>
       <data key="research">former BEWS system, noise reduction, toxicity detection</data>
     </node>
-    <node id="Mun-Sung Han">
-      <data key="affiliation">Nan</data>
-      <data key="research">Incremental Learning, Optimized Network Structure</data>
+    <node id="Pei-Lun Suei">
+      <data key="affiliation">Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan</data>
+      <data key="research">XML data, proposed approach, main-memory database system</data>
     </node>
-    <node id="Xingshen Wu">
-      <data key="affiliation">Nan</data>
-      <data key="research">access control policy, ATN Model, CredentialsAutomated trust negotiation</data>
+    <node id="Dong-Weon Lee">
+      <data key="affiliation">MEMS&amp;Nanotechnology Laboratory, School of Mechanical Systems Engineering, Chonnam National Universit, Gwangju, Korea</data>
+      <data key="research">tungsten tip, high aspect ratio, high vacuum condition</data>
     </node>
-    <node id="Jian Yang">
-      <data key="affiliation">School of Optical Engineering, Beijing Institute of Technology, Beijing, China</data>
-      <data key="research">3-D reconstruction, coronary artery, 3-D space</data>
-    </node>
-    <node id="Jun Wang">
+    <node id="Guoqing Zhou">
       <data key="affiliation">Nan</data>
-      <data key="research">sparse representation, Sparse Dictionary Reconstruction, different fabric type</data>
+      <data key="research">multiview geometry, Enhanced Continuous Tabu Search, generic parameter estimation</data>
+    </node>
+    <node id="Jae-Cheol Ryou">
+      <data key="affiliation">ChungNam National University,  Korea</data>
+      <data key="research">USN middleware, command authentication, information consumer</data>
+    </node>
+    <node id="Jung Min Kong">
+      <data key="affiliation">Nan</data>
+      <data key="research">new data, Rule Refinement, Extended Data ExpressionThe rule</data>
     </node>
     <node id="Jun Wu">
       <data key="affiliation">Nan</data>
       <data key="research">conventional MRAL, manifold ranking, Laplacian matrix</data>
     </node>
-    <node id="Pei-Lun Suei">
-      <data key="affiliation">Department of Computer Science and Information Engineering, National Taiwan University, Taipei, Taiwan</data>
-      <data key="research">XML data, proposed approach, main-memory database system</data>
+    <node id="M. Rabby">
+      <data key="affiliation">Department of Computer Science, Graduate School and University Center, The City University of New York, New York, NY</data>
+      <data key="research">data flow, bandwidth allocation, data connectivity</data>
     </node>
-    <node id="Jian Lu">
-      <data key="affiliation">Dept. of Math. &amp; Comput. Sci., Dartmouth Coll., Hanover, NH</data>
-      <data key="research">spatially selective noise filtration, regularizing operator, least-squares technique</data>
+    <node id="Hong Liang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Spatial Data, data consistency, data inconsistency</data>
     </node>
-    <edge source="Chi-Hwa Song" target="Won Don Lee">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chi-Hwa Song" target="Tae-Hyoung Kim">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chi-Hwa Song" target="Jae-Cheol Ryou">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chi-Hwa Song" target="Jung Min Kong">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chi-Hwa Song" target="Jun Wu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Kyu-Ha Song" target="Won Don Lee">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Kyu-Ha Song" target="Jin-Woo Han">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Kyu-Ha Song" target="Dong-Weon Lee">
+    <node id="Mun-Sung Han">
+      <data key="affiliation">Nan</data>
+      <data key="research">Incremental Learning, Optimized Network Structure</data>
+    </node>
+    <node id="Jun Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">sparse representation, Sparse Dictionary Reconstruction, different fabric type</data>
+    </node>
+    <node id="Chi-Hwa Song">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed algorithm, Korean LDS, Korean alphabet</data>
+    </node>
+    <node id="Jian Yang">
+      <data key="affiliation">School of Optical Engineering, Beijing Institute of Technology, Beijing, China</data>
+      <data key="research">3-D reconstruction, coronary artery, 3-D space</data>
+    </node>
+    <node id="Kyu-Ha Song">
+      <data key="affiliation">Agency for Defense Development, Daejeon, Korea</data>
+      <data key="research">radar signal, various radar signal, electronic warfare Support</data>
+    </node>
+    <edge source="Xingshen Wu" target="Jun Wu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jin-Woo Han" target="Won Don Lee">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jin-Woo Han" target="Dong-Weon Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jin-Woo Han" target="Kyu-Ha Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Lu" target="Jun Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Lu" target="Jian Lu">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Won Don Lee" target="Jung Min Kong">
@@ -126,6 +114,9 @@
     <edge source="Won Don Lee" target="Jae-Cheol Ryou">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Won Don Lee" target="Chi-Hwa Song">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Won Don Lee" target="Yang Wei">
       <data key="relation">collaborate</data>
     </edge>
@@ -135,43 +126,52 @@
     <edge source="Won Don Lee" target="Mun-Sung Han">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Won Don Lee" target="Kyu-Ha Song">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Won Don Lee" target="Sung Yong Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tae-Hyoung Kim" target="Jae-Cheol Ryou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tae-Hyoung Kim" target="Chi-Hwa Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pei-Lun Suei" target="Jun Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong-Weon Lee" target="Kyu-Ha Song">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Guoqing Zhou" target="Jun Wu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="M. Rabby" target="Jun Wu">
+    <edge source="Jae-Cheol Ryou" target="Chi-Hwa Song">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Hong Liang" target="Jun Wu">
+    <edge source="Jung Min Kong" target="Chi-Hwa Song">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jung Min Kong" target="Jun Wu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jae-Cheol Ryou" target="Tae-Hyoung Kim">
+    <edge source="Jun Wu" target="Hong Liang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xingshen Wu" target="Jun Wu">
+    <edge source="Jun Wu" target="Jian Yang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jian Yang" target="Jun Wu">
+    <edge source="Jun Wu" target="M. Rabby">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wu" target="Jun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Wu" target="Chi-Hwa Song">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Jian Yang" target="Jian Yang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jun Wang" target="Jun Wu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jun Wu" target="Jian Lu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jun Wu" target="Pei-Lun Suei">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jian Lu" target="Jian Lu">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

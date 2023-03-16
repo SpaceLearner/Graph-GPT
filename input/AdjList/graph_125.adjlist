@@ -1,62 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Clemens Heuberger	8
-H Prodinger	{'relation': 'collaborate'}
-R. F. Tichy	{'relation': 'collaborate'}
-Peter Grabner	{'relation': 'collaborate'}
-Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Margaret Archibald	{'relation': 'collaborate'}
-Stephan G. Wagner	{'relation': 'collaborate'}
-R. Katti	{'relation': 'collaborate'}
-Roberto M. Avanzi	{'relation': 'collaborate'}
-Philippe Flajolet	6
-C. Martinez	{'relation': 'collaborate'}
-Wojciech Szpankowski	{'relation': 'collaborate'}
-H Prodinger	{'relation': 'collaborate'}
-R. F. Tichy	{'relation': 'collaborate'}
-Peter Grabner	{'relation': 'collaborate'}
-H M Mahmoud	{'relation': 'collaborate'}
-K. Scheicher	1
-Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Manfred Madritsch	1
-Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Emrah Kilic	1
-H Prodinger	{'relation': 'collaborate'}
-H Prodinger	14
-C. Martinez	{'relation': 'collaborate'}
-Margaret Archibald	{'relation': 'collaborate'}
-R. Katti	{'relation': 'collaborate'}
-Peter Grabner	{'relation': 'collaborate'}
-H M Mahmoud	{'relation': 'collaborate'}
-Wojciech Szpankowski	{'relation': 'collaborate'}
-Stephan G. Wagner	{'relation': 'collaborate'}
-Werner Kuich	{'relation': 'collaborate'}
-Roberto M. Avanzi	{'relation': 'collaborate'}
-R. F. Tichy	{'relation': 'collaborate'}
-Jörg M. Thuswaldner	{'relation': 'collaborate'}
-Emeric Deutsch	{'relation': 'collaborate'}
-Friedrich Hubalek	{'relation': 'collaborate'}
-Arnold Knopfmacher	{'relation': 'collaborate'}
-Jörg M. Thuswaldner	1
-Peter Grabner	{'relation': 'collaborate'}
-Werner Kuich	0
-Friedrich Hubalek	1
-H M Mahmoud	{'relation': 'collaborate'}
-Margaret Archibald	1
-Arnold Knopfmacher	{'relation': 'collaborate'}
-R. F. Tichy	3
-Stephan G. Wagner	{'relation': 'collaborate'}
-Arnold Knopfmacher	{'relation': 'collaborate'}
-Peter Grabner	{'relation': 'collaborate'}
-Stephan G. Wagner	1
-Arnold Knopfmacher	{'relation': 'collaborate'}
-Arnold Knopfmacher	1
-Peter Grabner	{'relation': 'collaborate'}
-C. Martinez	0
-R. Katti	0
-Roberto M. Avanzi	0
-Peter Grabner	0
-Wojciech Szpankowski	0
-H M Mahmoud	0
-Emeric Deutsch	0
+R. Katti	H Prodinger	Clemens Heuberger
+Arnold Knopfmacher	R. F. Tichy	Peter Grabner	H Prodinger	Stephan G. Wagner	Margaret Archibald
+H Prodinger	C. Martinez	Margaret Archibald	Peter Grabner	H M Mahmoud	Wojciech Szpankowski	Stephan G. Wagner	Werner Kuich	Emrah Kilic	Roberto M. Avanzi	R. F. Tichy	Jörg M. Thuswaldner	Clemens Heuberger	Emeric Deutsch	Friedrich Hubalek	Philippe Flajolet
+Stephan G. Wagner	R. F. Tichy	Clemens Heuberger
+Margaret Archibald	Clemens Heuberger
+Philippe Flajolet	C. Martinez	Wojciech Szpankowski	R. F. Tichy	Peter Grabner	H M Mahmoud
+Werner Kuich
+K. Scheicher	Jörg M. Thuswaldner
+Jörg M. Thuswaldner	Clemens Heuberger	Peter Grabner	Manfred Madritsch
+Emrah Kilic
+Wojciech Szpankowski
+Roberto M. Avanzi	Clemens Heuberger
+Emeric Deutsch
+H M Mahmoud	Friedrich Hubalek
+C. Martinez
+Friedrich Hubalek
+Manfred Madritsch
+Peter Grabner	R. F. Tichy	Clemens Heuberger
+R. F. Tichy	Clemens Heuberger
+Clemens Heuberger

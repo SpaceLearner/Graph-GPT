@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ingrid Daubechies">
+      <data key="affiliation">Princeton University</data>
+      <data key="research">group information, high-dimensional data, relational information</data>
+    </node>
+    <node id="Michael A. Saunders">
+      <data key="affiliation">saunders@stanford.edu</data>
+      <data key="research">Cholesky Factorization, numerical result, large-scale linear programming</data>
+    </node>
+    <node id="Victor DeMiguel">
+      <data key="affiliation">Management Science and Operations, London Business School, Regent's Park, London NW1 4SA, United Kingdom</data>
+      <data key="research">estimation error, optimal portfolio policy, proposed portfolio</data>
+    </node>
+    <node id="Yang Wang">
+      <data key="affiliation">Department of Computer Science and Engineering, New Mexico Institute of Mining and Technology, Socorro, NM</data>
+      <data key="research">android permission, benign apps, quantitative security risk assessment</data>
+    </node>
+    <node id="Aleksandr Aravkin">
+      <data key="affiliation">IBM T.J. Watson Research Center, Yorktown Heights, NY</data>
+      <data key="research">Kalman smoothing, inverse problem, dual representation</data>
+    </node>
+    <node id="Sven Leyffer">
+      <data key="affiliation">leyffer@mcs.anl.gov</data>
+      <data key="research">dynamic load balancing, heuristic static load-balancing algorithm, new algorithm</data>
+    </node>
+    <node id="Rafeef Abugharbieh">
+      <data key="affiliation">Biomedical Signal and Image Computing Lab, Department of Electrical Engineering,</data>
+      <data key="research">real fMRI data, real data, functional magnetic resonance imaging</data>
+    </node>
+    <node id="Gianluigi Pillonetto">
+      <data key="affiliation">Department of Information Engineering, University of Padova, Italy</data>
+      <data key="research">common estimation goal, estimation error, estimation error variance</data>
+    </node>
+    <node id="Paul Tseng">
+      <data key="affiliation">Center for Intelligent Control Systems, Room 35205, Massachusetts Institute of Technology, Cambridge, MA 02139, USA</data>
+      <data key="research">polynomial-time algorithm, stationary Markov decision problem, e-approximation algorithm</data>
+    </node>
+    <node id="Jim Burke">
+      <data key="affiliation">Univ. of Washington, Seattle</data>
+      <data key="research">Abscissa Mapping, Variational Analysis, spectral abscissa</data>
+    </node>
+    <node id="I. Daubechies">
+      <data key="affiliation">Courant Inst., New York Univ., NY</data>
+      <data key="research">hidden painting, harmonic analysis, data compression</data>
+    </node>
+    <node id="Francisco J. Nogales">
+      <data key="affiliation">Department of Statistics, Universidad Carlos III de Madrid, Avda. de la Universidad, 30. 28911 Leganés, Madrid, Spain</data>
+      <data key="research">estimation error, proposed portfolio, covariance matrix</data>
+    </node>
+    <node id="Cemalettin S. Gunturk">
+      <data key="affiliation">Dept. of Electr. Eng., City Univ. of New York, NY, USA</data>
+      <data key="research">sigma-delta modulation, SigmaDelta modulation, exponential accuracy</data>
+    </node>
+    <node id="A. C. Cem Say">
+      <data key="affiliation">Department of Computer Engineering, Boğaziçi University, Bebek 34342, İstanbul, Turkey Email: &lt;rfc822&gt;say@boun.edu.tr&lt;/rfc822&gt;</data>
+      <data key="research">qualitative simulator, basic qualitative simulation algorithm, new qualitative reasoning formalisms</data>
+    </node>
+    <node id="S. Scholtes">
+      <data key="affiliation">Department of Engineering, University of Cambridge, Trumpington Street, Cambridge CB 2 1AG, Great Britain</data>
+      <data key="research">mathematical program, Mathematical Programs, equilibrium constraint</data>
+    </node>
+    <node id="Felix J. Herrmann">
+      <data key="affiliation">University of British Columbia</data>
+      <data key="research">seismic wavelet, seismic data, deconvolved seismic record</data>
+    </node>
+    <node id="Martin J. McKeown">
+      <data key="affiliation">Nan</data>
+      <data key="research">Extended ICA, electroencephalographic recording</data>
+    </node>
+    <node id="Michael P. Friedlander">
+      <data key="affiliation">Department of Computer Science, University of British Columbia, Vancouver, British Columbia, Canada</data>
+      <data key="research">l1 minimization, solution w, penalty formulation</data>
+    </node>
+    <node id="M. R. Gupta">
+      <data key="affiliation">Dept. of Electr. Eng., Univ. of Washington, Seattle, WA</data>
+      <data key="research">local linear regression, neighborhood definition, cross validation</data>
+    </node>
+    <node id="Özgür Yilmaz">
+      <data key="affiliation">University of British Columbia</data>
+      <data key="research">l1 minimization, proposed algorithm, separation performance</data>
+    </node>
+    <edge source="Ingrid Daubechies" target="Yang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ingrid Daubechies" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ingrid Daubechies" target="Cemalettin S. Gunturk">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael A. Saunders" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor DeMiguel" target="Francisco J. Nogales">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor DeMiguel" target="S. Scholtes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor DeMiguel" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Cemalettin S. Gunturk">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aleksandr Aravkin" target="Felix J. Herrmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aleksandr Aravkin" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aleksandr Aravkin" target="Jim Burke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aleksandr Aravkin" target="Gianluigi Pillonetto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Leyffer" target="S. Scholtes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Leyffer" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafeef Abugharbieh" target="Martin J. McKeown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafeef Abugharbieh" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gianluigi Pillonetto" target="Jim Burke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Tseng" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Daubechies" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Daubechies" target="Cemalettin S. Gunturk">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Francisco J. Nogales" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Francisco J. Nogales" target="S. Scholtes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cemalettin S. Gunturk" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. C. Cem Say" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Scholtes" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Felix J. Herrmann" target="Michael P. Friedlander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Felix J. Herrmann" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. McKeown" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael P. Friedlander" target="M. R. Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael P. Friedlander" target="Özgür Yilmaz">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

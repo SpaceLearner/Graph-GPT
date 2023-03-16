@@ -4,6 +4,62 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
+    <node id="Bernhard Plattner">
+      <data key="affiliation">NeuTechnikum Buchs, Buchs, Switzerland./ University of Zurich, 8057 Zurich, Switzerland.</data>
+      <data key="research">network user, active network, anonymity network</data>
+    </node>
+    <node id="Jie Feng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Adaptive Inter Mode Decision, Inter mode, estimated mode</data>
+    </node>
+    <node id="A. Zanella">
+      <data key="affiliation">University of Calgary, Calgary, AB.</data>
+      <data key="research">interface component, translucent interface component, single display groupware</data>
+    </node>
+    <node id="Wolfgang Kellerer">
+      <data key="affiliation">Nan</data>
+      <data key="research">Web Enabled Telecommunication Service</data>
+    </node>
+    <node id="Károly Farkas">
+      <data key="affiliation">Department of Telecommunications, Budapest University of Technology and Economics, Hungary and Institute of Informatics and Economics, University of West Hungary, Hungary</data>
+      <data key="research">wireless community network, wireless network, mobile device</data>
+    </node>
+    <node id="Michele Zorzi">
+      <data key="affiliation">Consorzio Ferrara Ricerche (CFR), Ferrara, Italy</data>
+      <data key="research">underwater network, wireless sensor network, performance evaluation</data>
+    </node>
+    <node id="Maximilian Michel">
+      <data key="affiliation">BauhausUniversität, Weimar, Germany</data>
+      <data key="research">search engine, reference search engine, ClueWeb09 corpus</data>
+    </node>
+    <node id="Mohsen Rais-Ghasem">
+      <data key="affiliation">Nan</data>
+      <data key="research">contextual effect, exemplar-based account</data>
+    </node>
+    <node id="Norihiro Ishikawa">
+      <data key="affiliation">Network Management Development Department, NTT DoCoMo, Yokosuka, Japan 2398536</data>
+      <data key="research">mobile phone, mobile device, mobile terminal</data>
+    </node>
+    <node id="Zoran Despotovic">
+      <data key="affiliation">DoCoMo Communications Laboratories Europe, Germany</data>
+      <data key="research">social network, International Workshop, Peer-to-Peer Computing</data>
+    </node>
+    <node id="Yongqiang Zhang">
+      <data key="affiliation">Rensselaer Polytechnic Institute</data>
+      <data key="research">structured motif, efficient algorithm, structured motif search</data>
+    </node>
+    <node id="Baoqing Jiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">cross-media retrieval, Temporal-spatial Clustering, high-dimensional data</data>
+    </node>
+    <node id="Martin Petitclerc">
+      <data key="affiliation">IBM Canada Ltd., Ottawa, Ontario</data>
+      <data key="research">analytical process, analysis expert system, analysis framework</data>
+    </node>
+    <node id="Jörg Widmer">
+      <data key="affiliation">Institute IMDEA Networks, Madrid, Spain</data>
+      <data key="research">network coding, cross-layer design, ad-hoc network</data>
+    </node>
     <node id="Michele Rossi">
       <data key="affiliation">Università di Brescia, Dipartimento di Ingegneria dell'Informazione, Italy</data>
       <data key="research">DSS Acceptability, User-Centered Design Methodology, methodology application</data>
@@ -12,199 +68,59 @@
       <data key="affiliation">Nan</data>
       <data key="research">existing routing protocol, new routing protocol, routing problem</data>
     </node>
-    <node id="Chong Han">
-      <data key="affiliation">Nan</data>
-      <data key="research">GMPV algorithm, Maximal Frequent Itemsets, algorithm efficiency</data>
+    <node id="Christian Prehofer">
+      <data key="affiliation">fortiss GmbH, Munich, Germany</data>
+      <data key="research">mobile network, mobile device, embedded system</data>
     </node>
     <node id="Qing Wei">
       <data key="affiliation">DoCoMo Communication Laboratories Europe, Munich, Germany</data>
       <data key="research">P2P search, mobile object tracking</data>
     </node>
-    <node id="Bernhard Plattner">
-      <data key="affiliation">NeuTechnikum Buchs, Buchs, Switzerland./ University of Zurich, 8057 Zurich, Switzerland.</data>
-      <data key="research">network user, active network, anonymity network</data>
-    </node>
-    <node id="Christian Prehofer">
-      <data key="affiliation">fortiss GmbH, Munich, Germany</data>
-      <data key="research">mobile network, mobile device, embedded system</data>
-    </node>
-    <node id="Mohsen Rais-Ghasem">
-      <data key="affiliation">Nan</data>
-      <data key="research">contextual effect, exemplar-based account</data>
-    </node>
-    <node id="Jörg Widmer">
-      <data key="affiliation">Institute IMDEA Networks, Madrid, Spain</data>
-      <data key="research">network coding, cross-layer design, ad-hoc network</data>
-    </node>
-    <node id="Wolfgang Kellerer">
-      <data key="affiliation">Nan</data>
-      <data key="research">Web Enabled Telecommunication Service</data>
-    </node>
-    <node id="Maximilian Michel">
-      <data key="affiliation">BauhausUniversität, Weimar, Germany</data>
-      <data key="research">search engine, reference search engine, ClueWeb09 corpus</data>
-    </node>
-    <node id="Michele Zorzi">
-      <data key="affiliation">Consorzio Ferrara Ricerche (CFR), Ferrara, Italy</data>
-      <data key="research">underwater network, wireless sensor network, performance evaluation</data>
-    </node>
-    <node id="Norihiro Ishikawa">
-      <data key="affiliation">Network Management Development Department, NTT DoCoMo, Yokosuka, Japan 2398536</data>
-      <data key="research">mobile phone, mobile device, mobile terminal</data>
-    </node>
-    <node id="Martin Petitclerc">
-      <data key="affiliation">IBM Canada Ltd., Ottawa, Ontario</data>
-      <data key="research">analytical process, analysis expert system, analysis framework</data>
-    </node>
-    <node id="Yongqiang Zhang">
-      <data key="affiliation">Rensselaer Polytechnic Institute</data>
-      <data key="research">structured motif, efficient algorithm, structured motif search</data>
-    </node>
-    <node id="Károly Farkas">
-      <data key="affiliation">Department of Telecommunications, Budapest University of Technology and Economics, Hungary and Institute of Informatics and Economics, University of West Hungary, Hungary</data>
-      <data key="research">wireless community network, wireless network, mobile device</data>
-    </node>
-    <node id="A. Zanella">
-      <data key="affiliation">University of Calgary, Calgary, AB.</data>
-      <data key="research">interface component, translucent interface component, single display groupware</data>
-    </node>
-    <node id="Zoran Despotovic">
-      <data key="affiliation">DoCoMo Communications Laboratories Europe, Germany</data>
-      <data key="research">social network, International Workshop, Peer-to-Peer Computing</data>
-    </node>
-    <node id="Baoqing Jiang">
-      <data key="affiliation">Nan</data>
-      <data key="research">cross-media retrieval, Temporal-spatial Clustering, high-dimensional data</data>
-    </node>
     <node id="Paulo Mendes">
       <data key="affiliation">University Lusófona, Lisboa, Portugal</data>
       <data key="research">Multi-user Session, QoS Mapping, User-provided network</data>
     </node>
-    <node id="Jie Feng">
+    <node id="Chong Han">
       <data key="affiliation">Nan</data>
-      <data key="research">Adaptive Inter Mode Decision, Inter mode, estimated mode</data>
+      <data key="research">GMPV algorithm, Maximal Frequent Itemsets, algorithm efficiency</data>
     </node>
-    <edge source="Michele Rossi" target="Qing Wei">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michele Rossi" target="A. Zanella">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michele Rossi" target="Christian Prehofer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michele Rossi" target="Jörg Widmer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michele Rossi" target="Michele Zorzi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chunhe Xia" target="Qing Wei">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chunhe Xia" target="Jie Feng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chong Han" target="Qing Wei">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Chong Han" target="Baoqing Jiang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Paulo Mendes">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Yongqiang Zhang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Jie Feng">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="A. Zanella">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Mohsen Rais-Ghasem">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Martin Petitclerc">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Jörg Widmer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Wolfgang Kellerer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Norihiro Ishikawa">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Károly Farkas">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Michele Zorzi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Christian Prehofer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Baoqing Jiang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Maximilian Michel">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Zoran Despotovic">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qing Wei" target="Bernhard Plattner">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="Bernhard Plattner" target="Károly Farkas">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Bernhard Plattner" target="Paulo Mendes">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Bernhard Plattner" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Bernhard Plattner" target="Christian Prehofer">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="Paulo Mendes">
+    <edge source="Jie Feng" target="Qing Wei">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="Wolfgang Kellerer">
+    <edge source="Jie Feng" target="Chunhe Xia">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="Michele Zorzi">
+    <edge source="A. Zanella" target="Qing Wei">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="A. Zanella">
+    <edge source="A. Zanella" target="Michele Rossi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="Károly Farkas">
+    <edge source="A. Zanella" target="Christian Prehofer">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Christian Prehofer" target="Jörg Widmer">
+    <edge source="A. Zanella" target="Jörg Widmer">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Mohsen Rais-Ghasem" target="Martin Petitclerc">
+    <edge source="A. Zanella" target="Michele Zorzi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jörg Widmer" target="Zoran Despotovic">
+    <edge source="Wolfgang Kellerer" target="Qing Wei">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jörg Widmer" target="Norihiro Ishikawa">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jörg Widmer" target="Maximilian Michel">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jörg Widmer" target="Wolfgang Kellerer">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jörg Widmer" target="Michele Zorzi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jörg Widmer" target="A. Zanella">
+    <edge source="Wolfgang Kellerer" target="Christian Prehofer">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Wolfgang Kellerer" target="Zoran Despotovic">
@@ -213,22 +129,106 @@
     <edge source="Wolfgang Kellerer" target="Maximilian Michel">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Wolfgang Kellerer" target="Jörg Widmer">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Wolfgang Kellerer" target="Norihiro Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Károly Farkas" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Károly Farkas" target="Christian Prehofer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Károly Farkas" target="Paulo Mendes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Zorzi" target="Christian Prehofer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Zorzi" target="Jörg Widmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Zorzi" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Zorzi" target="Michele Rossi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maximilian Michel" target="Jörg Widmer">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Maximilian Michel" target="Norihiro Ishikawa">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="Maximilian Michel" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="Maximilian Michel" target="Zoran Despotovic">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Michele Zorzi" target="A. Zanella">
+    <edge source="Mohsen Rais-Ghasem" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohsen Rais-Ghasem" target="Martin Petitclerc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihiro Ishikawa" target="Jörg Widmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihiro Ishikawa" target="Qing Wei">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Norihiro Ishikawa" target="Zoran Despotovic">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Károly Farkas" target="Paulo Mendes">
+    <edge source="Zoran Despotovic" target="Jörg Widmer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zoran Despotovic" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongqiang Zhang" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baoqing Jiang" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baoqing Jiang" target="Chong Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Petitclerc" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jörg Widmer" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jörg Widmer" target="Christian Prehofer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jörg Widmer" target="Michele Rossi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Rossi" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michele Rossi" target="Christian Prehofer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunhe Xia" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian Prehofer" target="Paulo Mendes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian Prehofer" target="Qing Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Wei" target="Paulo Mendes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Wei" target="Chong Han">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

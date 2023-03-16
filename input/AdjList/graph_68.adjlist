@@ -1,61 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:03 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-Tony Field	5
-Berc Rustem	{'relation': 'collaborate'}
-Peter Harrison	{'relation': 'collaborate'}
-Uli Harder	{'relation': 'collaborate'}
-Nalân Gülpinar	{'relation': 'collaborate'}
-Louis-Francois Pau	{'relation': 'collaborate'}
-Robert Fourer	1
-G. Mitra	{'relation': 'collaborate'}
-E. Messina	3
-G. Mitra	{'relation': 'collaborate'}
-C. Lucas	{'relation': 'collaborate'}
-S. A. MirHassani	{'relation': 'collaborate'}
-Gregory Gutin	4
-G. Mitra	{'relation': 'collaborate'}
-Istvan Maros	{'relation': 'collaborate'}
-Nalân Gülpinar	{'relation': 'collaborate'}
-A. Zverovitch	{'relation': 'collaborate'}
-Kenneth Darby-Dowman	1
-G. Mitra	{'relation': 'collaborate'}
-Uli Harder	4
-Nalân Gülpinar	{'relation': 'collaborate'}
-Peter Harrison	{'relation': 'collaborate'}
-Berc Rustem	{'relation': 'collaborate'}
-Louis-Francois Pau	{'relation': 'collaborate'}
-Istvan Maros	2
-Nalân Gülpinar	{'relation': 'collaborate'}
-G. Mitra	{'relation': 'collaborate'}
-Csaba I. Fábián	1
-G. Mitra	{'relation': 'collaborate'}
-Louis-Francois Pau	3
-Berc Rustem	{'relation': 'collaborate'}
-Nalân Gülpinar	{'relation': 'collaborate'}
-Peter Harrison	{'relation': 'collaborate'}
-H. Jones	2
-G. Mitra	{'relation': 'collaborate'}
-D Parkinson	{'relation': 'collaborate'}
-Berc Rustem	2
-Peter Harrison	{'relation': 'collaborate'}
-Nalân Gülpinar	{'relation': 'collaborate'}
-S. A. MirHassani	2
-C. Lucas	{'relation': 'collaborate'}
-G. Mitra	{'relation': 'collaborate'}
-G. Mitra	6
-D Parkinson	{'relation': 'collaborate'}
-C. Lucas	{'relation': 'collaborate'}
-Mehrdad Tamiz	{'relation': 'collaborate'}
-Nalân Gülpinar	{'relation': 'collaborate'}
-Nico Di Domenica	{'relation': 'collaborate'}
-A. Zverovitch	{'relation': 'collaborate'}
-A. Zverovitch	1
-Nalân Gülpinar	{'relation': 'collaborate'}
-Nico Di Domenica	0
-D Parkinson	0
-C. Lucas	0
-Mehrdad Tamiz	0
-Nalân Gülpinar	1
-Peter Harrison	{'relation': 'collaborate'}
-Peter Harrison	0
+E. Messina	G. Mitra	C. Lucas	S. A. MirHassani
+H. Jones	G. Mitra	D Parkinson
+Uli Harder	Nalân Gülpinar	Tony Field	Peter Harrison	Berc Rustem	Louis-Francois Pau
+Tony Field	Berc Rustem	Peter Harrison	Nalân Gülpinar	Louis-Francois Pau
+Mehrdad Tamiz	G. Mitra
+Nalân Gülpinar	Istvan Maros	A. Zverovitch	G. Mitra	Peter Harrison	Louis-Francois Pau	Gregory Gutin	Berc Rustem
+A. Zverovitch	G. Mitra	Gregory Gutin
+Nico Di Domenica	G. Mitra
+Gregory Gutin	G. Mitra	Istvan Maros
+Istvan Maros	G. Mitra
+Peter Harrison	Berc Rustem	Louis-Francois Pau
+Kenneth Darby-Dowman	G. Mitra
+D Parkinson	G. Mitra
+Berc Rustem	Louis-Francois Pau
+C. Lucas	G. Mitra	S. A. MirHassani
+Robert Fourer	G. Mitra
+Csaba I. Fábián	G. Mitra
+G. Mitra	S. A. MirHassani
+S. A. MirHassani
+Louis-Francois Pau

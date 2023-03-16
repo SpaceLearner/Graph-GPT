@@ -1,46 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:46 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:51 2023
 # 
-C. C. Goodyear	1
-D. Wei	{'relation': 'collaborate'}
-C. S. Burrus	3
-M. Lang	{'relation': 'collaborate'}
-H. Guo	{'relation': 'collaborate'}
-D. Wei	{'relation': 'collaborate'}
-Robert B. France	14
-E. B. Fernandez	{'relation': 'collaborate'}
-James M. Bieman	{'relation': 'collaborate'}
-Behzad Bordbar	{'relation': 'collaborate'}
-Cris Kobryn	{'relation': 'collaborate'}
-Jennifer Horkoff	{'relation': 'collaborate'}
-Prabhakar M. Koushik	{'relation': 'collaborate'}
-Steffen Zschaler	{'relation': 'collaborate'}
-Philippe Collet	{'relation': 'collaborate'}
-Stuart Kent	{'relation': 'collaborate'}
-Frank Hernandez	{'relation': 'collaborate'}
-Y. Raghu Reddy	{'relation': 'collaborate'}
-C. Atkinson	{'relation': 'collaborate'}
-Sean Thorpe	{'relation': 'collaborate'}
-D. Wei	{'relation': 'collaborate'}
-H. Guo	2
-M. Lang	{'relation': 'collaborate'}
-D. Wei	{'relation': 'collaborate'}
-James M. Bieman	0
-D. Wei	3
-M. Lang	{'relation': 'collaborate'}
-E. B. Fernandez	{'relation': 'collaborate'}
-S. Guo	{'relation': 'collaborate'}
-Steffen Zschaler	0
-Behzad Bordbar	0
-Sean Thorpe	0
-Philippe Collet	0
-Stuart Kent	0
-C. Atkinson	0
-Prabhakar M. Koushik	0
-S. Guo	0
-Cris Kobryn	0
-Y. Raghu Reddy	0
-Frank Hernandez	0
-M. Lang	0
-Jennifer Horkoff	0
-E. B. Fernandez	0
+Prabhakar M. Koushik	Robert B. France
+C. S. Burrus	M. Lang	H. Guo	D. Wei
+Y. Raghu Reddy	Robert B. France
+Behzad Bordbar	Robert B. France
+S. Guo	D. Wei
+M. Lang	H. Guo	D. Wei
+H. Guo	D. Wei
+Cris Kobryn	Robert B. France
+Robert B. France	E. B. Fernandez	James M. Bieman	Jennifer Horkoff	Steffen Zschaler	Philippe Collet	Stuart Kent	Frank Hernandez	C. Atkinson	Sean Thorpe	D. Wei
+Stuart Kent
+C. C. Goodyear	D. Wei
+E. B. Fernandez	D. Wei
+Steffen Zschaler
+Frank Hernandez
+D. Wei
+C. Atkinson
+Jennifer Horkoff
+James M. Bieman
+Sean Thorpe
+Philippe Collet

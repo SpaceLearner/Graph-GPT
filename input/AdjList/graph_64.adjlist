@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-R. Rinaldo	4
-G. A. Mian	{'relation': 'collaborate'}
-Riccardo Bernardini	{'relation': 'collaborate'}
-G. Cortelazzo	{'relation': 'collaborate'}
-Giancarlo Calvagno	{'relation': 'collaborate'}
-Soren Forchhammer	2
-G. Cortelazzo	{'relation': 'collaborate'}
-Pietro Zanuttigh	{'relation': 'collaborate'}
-Marco Andreetto	1
-G. Cortelazzo	{'relation': 'collaborate'}
-P Zamperoni	2
-G. Cortelazzo	{'relation': 'collaborate'}
-G. A. Mian	{'relation': 'collaborate'}
-Anup Basu	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Carlo Ferrari	2
-G. Cortelazzo	{'relation': 'collaborate'}
-Mary Ellen Bock	{'relation': 'collaborate'}
-Mary Ellen Bock	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Fabio Marton	1
-G. Cortelazzo	{'relation': 'collaborate'}
-Riccardo Bernardini	3
-G. Cortelazzo	{'relation': 'collaborate'}
-Giancarlo Calvagno	{'relation': 'collaborate'}
-G. A. Mian	{'relation': 'collaborate'}
-Giancarlo Calvagno	2
-G. Cortelazzo	{'relation': 'collaborate'}
-G. A. Mian	{'relation': 'collaborate'}
-G. Cortelazzo	9
-G. A. Mian	{'relation': 'collaborate'}
-S. Dal Poz	{'relation': 'collaborate'}
-A. Baschirotto	{'relation': 'collaborate'}
-Enrico Malavasi	{'relation': 'collaborate'}
-N. Benvenuto	{'relation': 'collaborate'}
-Pietro Zanuttigh	{'relation': 'collaborate'}
-R. Manduchi	{'relation': 'collaborate'}
-Nicola Orio	{'relation': 'collaborate'}
-Stefano Mattoccia	{'relation': 'collaborate'}
-S. Dal Poz	1
-R. Manduchi	{'relation': 'collaborate'}
-G. A. Mian	1
-R. Manduchi	{'relation': 'collaborate'}
-A. Baschirotto	1
-Enrico Malavasi	{'relation': 'collaborate'}
-Stefano Mattoccia	1
-Pietro Zanuttigh	{'relation': 'collaborate'}
-R. Manduchi	0
-N. Benvenuto	0
-Enrico Malavasi	0
-Pietro Zanuttigh	0
-Nicola Orio	0
+Enrico Malavasi	G. Cortelazzo	A. Baschirotto
+N. Benvenuto	G. Cortelazzo
+Stefano Mattoccia	Pietro Zanuttigh	G. Cortelazzo
+R. Manduchi	S. Dal Poz	G. A. Mian	G. Cortelazzo
+G. A. Mian	G. Cortelazzo	R. Rinaldo	P Zamperoni	Giancarlo Calvagno	Riccardo Bernardini
+Giancarlo Calvagno	G. Cortelazzo	Riccardo Bernardini	R. Rinaldo
+R. Rinaldo	Riccardo Bernardini	G. Cortelazzo
+Mary Ellen Bock	G. Cortelazzo	Carlo Ferrari
+Pietro Zanuttigh	G. Cortelazzo	Soren Forchhammer
+S. Dal Poz	G. Cortelazzo
+Marco Andreetto	G. Cortelazzo
+Nicola Orio	G. Cortelazzo
+Fabio Marton	G. Cortelazzo
+P Zamperoni	G. Cortelazzo
+A. Baschirotto	G. Cortelazzo
+G. Cortelazzo	Soren Forchhammer	Riccardo Bernardini	Carlo Ferrari	Anup Basu
+Anup Basu
+Soren Forchhammer
+Riccardo Bernardini
+Carlo Ferrari

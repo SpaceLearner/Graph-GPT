@@ -1,0 +1,49 @@
+Alex Wun	Songlin Hu	{'relation': 'collaborate'}
+Alex Wun	Alex Lik-Fai Cheung	{'relation': 'collaborate'}
+Alex Wun	Vinod Muthusamy	{'relation': 'collaborate'}
+Alex Wun	Guoli Li	{'relation': 'collaborate'}
+Alex Wun	Shuang Hou	{'relation': 'collaborate'}
+Alex Wun	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Jinliang Liu	Songlin Hu	{'relation': 'collaborate'}
+Raymond K. Wong	Songlin Hu	{'relation': 'collaborate'}
+Raymond K. Wong	Zaiwen Feng	{'relation': 'collaborate'}
+Shuo Bai	Songlin Hu	{'relation': 'collaborate'}
+Shuo Bai	Dongdong Li	{'relation': 'collaborate'}
+Dongdong Li	Songlin Hu	{'relation': 'collaborate'}
+Vinod Muthusamy	Shuang Hou	{'relation': 'collaborate'}
+Vinod Muthusamy	Alex Lik-Fai Cheung	{'relation': 'collaborate'}
+Vinod Muthusamy	Songlin Hu	{'relation': 'collaborate'}
+Vinod Muthusamy	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Vinod Muthusamy	Li Zha	{'relation': 'collaborate'}
+Vinod Muthusamy	Guoli Li	{'relation': 'collaborate'}
+Wei Yan	Songlin Hu	{'relation': 'collaborate'}
+Wei Yan	Wei Li	{'relation': 'collaborate'}
+Wei Yan	Zhiyong Liu	{'relation': 'collaborate'}
+Guoli Li	Alex Lik-Fai Cheung	{'relation': 'collaborate'}
+Guoli Li	Songlin Hu	{'relation': 'collaborate'}
+Guoli Li	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Guoli Li	Shuang Hou	{'relation': 'collaborate'}
+Shuang Hou	Alex Lik-Fai Cheung	{'relation': 'collaborate'}
+Shuang Hou	Songlin Hu	{'relation': 'collaborate'}
+Shuang Hou	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Alex Lik-Fai Cheung	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Alex Lik-Fai Cheung	Songlin Hu	{'relation': 'collaborate'}
+Hans-Arno Jacobsen	Hans-Arno Jacobsen	{'relation': 'collaborate'}
+Hans-Arno Jacobsen	Li Zha	{'relation': 'collaborate'}
+Hans-Arno Jacobsen	Songlin Hu	{'relation': 'collaborate'}
+Hans-Arno Jacobsen	Charles Zhang	{'relation': 'collaborate'}
+Hans-Arno Jacobsen	Wei Li	{'relation': 'collaborate'}
+Zibin Zheng	Songlin Hu	{'relation': 'collaborate'}
+Zaiwen Feng	Songlin Hu	{'relation': 'collaborate'}
+Charles Zhang	Songlin Hu	{'relation': 'collaborate'}
+Charles Zhang	Wei Li	{'relation': 'collaborate'}
+Charles Zhang	Zhiyong Liu	{'relation': 'collaborate'}
+Charles Zhang	Zhenqiu Huang	{'relation': 'collaborate'}
+Zhenqiu Huang	Zhiyong Liu	{'relation': 'collaborate'}
+Zhenqiu Huang	Songlin Hu	{'relation': 'collaborate'}
+Zhiyong Liu	Songlin Hu	{'relation': 'collaborate'}
+Zhiyong Liu	Wei Li	{'relation': 'collaborate'}
+Songlin Hu	Jun Fang	{'relation': 'collaborate'}
+Songlin Hu	Wei Li	{'relation': 'collaborate'}
+Songlin Hu	Li Zha	{'relation': 'collaborate'}
+Wei Li	Li Zha	{'relation': 'collaborate'}

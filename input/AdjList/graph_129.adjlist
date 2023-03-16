@@ -1,60 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Williams M. D.	7
-Costen Robert C.	{'relation': 'collaborate'}
-Lee Ja H.	{'relation': 'collaborate'}
-Schuster G. L.	{'relation': 'collaborate'}
-Young R. J. De	{'relation': 'collaborate'}
-Coomes E. P.	{'relation': 'collaborate'}
-Miner Gilda A.	{'relation': 'collaborate'}
-Heinbockel John H.	{'relation': 'collaborate'}
-Gartrell Luther R.	3
-Fletcher Mark T.	{'relation': 'collaborate'}
-Lee Ja H.	{'relation': 'collaborate'}
-Jr William W. Hunter	{'relation': 'collaborate'}
-Harrison Joycelyn S.	1
-Costen Robert C.	{'relation': 'collaborate'}
-Jr William W. Hunter	2
-Lee Ja H.	{'relation': 'collaborate'}
-Fletcher Mark T.	{'relation': 'collaborate'}
-Marchello Joseph M.	1
-Costen Robert C.	{'relation': 'collaborate'}
-Miner Gilda A.	3
-Costen Robert C.	{'relation': 'collaborate'}
-Lee Ja H.	{'relation': 'collaborate'}
-Heinbockel John H.	{'relation': 'collaborate'}
-Costen Robert C.	5
-Badavi Francis F.	{'relation': 'collaborate'}
-Shinn Judy L.	{'relation': 'collaborate'}
-Heinbockel John H.	{'relation': 'collaborate'}
-Lee Ja H.	{'relation': 'collaborate'}
-Wilson John W.	{'relation': 'collaborate'}
-Coomes E. P.	2
-Schuster G. L.	{'relation': 'collaborate'}
-Young R. J. De	{'relation': 'collaborate'}
-Tappan N. D.	1
-Minnis P.	{'relation': 'collaborate'}
-Blanchard Robert C.	1
-Larman K. T.	{'relation': 'collaborate'}
-Fletcher Mark T.	1
-Lee Ja H.	{'relation': 'collaborate'}
-Minnis P.	1
-Schuster G. L.	{'relation': 'collaborate'}
-Wilson John W.	3
-Badavi Francis F.	{'relation': 'collaborate'}
-Heinbockel John H.	{'relation': 'collaborate'}
-Shinn Judy L.	{'relation': 'collaborate'}
-Shinn Judy L.	2
-Heinbockel John H.	{'relation': 'collaborate'}
-Badavi Francis F.	{'relation': 'collaborate'}
-Lee Ja H.	1
-Heinbockel John H.	{'relation': 'collaborate'}
-Heinbockel John H.	1
-Badavi Francis F.	{'relation': 'collaborate'}
-Larman K. T.	1
-Schuster G. L.	{'relation': 'collaborate'}
-Schuster G. L.	1
-Young R. J. De	{'relation': 'collaborate'}
-Badavi Francis F.	0
-Young R. J. De	0
+Jr William W. Hunter	Lee Ja H.	Gartrell Luther R.	Fletcher Mark T.
+Fletcher Mark T.	Lee Ja H.	Gartrell Luther R.
+Gartrell Luther R.	Lee Ja H.
+Heinbockel John H.	Lee Ja H.	Badavi Francis F.	Shinn Judy L.	Costen Robert C.	Wilson John W.	Williams M. D.	Miner Gilda A.
+Tappan N. D.	Minnis P.
+Larman K. T.	Schuster G. L.	Blanchard Robert C.
+Young R. J. De	Williams M. D.	Coomes E. P.	Schuster G. L.
+Blanchard Robert C.
+Marchello Joseph M.	Costen Robert C.
+Shinn Judy L.	Costen Robert C.	Badavi Francis F.	Wilson John W.
+Minnis P.	Schuster G. L.
+Schuster G. L.	Coomes E. P.	Williams M. D.
+Coomes E. P.	Williams M. D.
+Costen Robert C.	Williams M. D.	Miner Gilda A.	Badavi Francis F.	Harrison Joycelyn S.	Lee Ja H.	Wilson John W.
+Harrison Joycelyn S.
+Williams M. D.	Lee Ja H.	Miner Gilda A.
+Badavi Francis F.	Wilson John W.
+Miner Gilda A.	Lee Ja H.
+Wilson John W.
+Lee Ja H.

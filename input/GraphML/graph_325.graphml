@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P M. Lewis, II">
+      <data key="affiliation">IEEE</data>
+      <data key="research">concurrency control, application program, isolation level</data>
+    </node>
+    <node id="Shiyong Lu">
+      <data key="affiliation">Wayne State University, Detroit</data>
+      <data key="research">scientific workflows, VIEW scientific workflow management, scientific workflow</data>
+    </node>
+    <node id="Larry D. Wittie">
+      <data key="affiliation">Department of Computer Science, Stony Brook University, Stony Brook, NY</data>
+      <data key="research">gap junction, neuronal synchrony, gap junction blockade</data>
+    </node>
+    <node id="K. Ekanadham">
+      <data key="affiliation">IBM Thomas J. Watson Research Center, Yorktown Heights, NY</data>
+      <data key="research">parallel application, parallel environment, data flow architecture</data>
+    </node>
+    <node id="Ziyang Duan">
+      <data key="affiliation">Reuters America 3 Times Square, 18th Floor New York, NY 10036</data>
+      <data key="research">business process, Web Services, Web service composition</data>
+    </node>
+    <node id="Ariel Joel Frank">
+      <data key="affiliation">State University of New York at Stony Brook, Stony Brook, New York</data>
+      <data key="research">network computer, case study, Generalized Layered Architecture</data>
+    </node>
+    <node id="Narayanan Krishnakumar">
+      <data key="affiliation">Fidelity Investments, Mail Zone H4A, 82 Devonshire St., Boston, MA</data>
+      <data key="research">integrity constraint, mobile client, mobile sale</data>
+    </node>
+    <node id="Michael Kifer">
+      <data key="affiliation">Nan</data>
+      <data key="research">different textual resource, simple use case, software configuration problem</data>
+    </node>
+    <node id="Fred B. Schneider">
+      <data key="affiliation">Nan</data>
+      <data key="research">Next Digital</data>
+    </node>
+    <node id="Radu Grosu">
+      <data key="affiliation">Vienna University of Technology, Austria</data>
+      <data key="research">hybrid system, formal analysis, program analysis</data>
+    </node>
+    <node id="Abraham Silberschatz">
+      <data key="affiliation">Nan</data>
+      <data key="research">Edition Flex Format, Operating System Concepts</data>
+    </node>
+    <node id="P. Siegel">
+      <data key="affiliation">Jet Propulsion Laboratory and California Institute of Technology, 4800 Oak Grove Drive, MS 302231, Pasadena, 91109, USA</data>
+      <data key="research">chemical signature, Mars Sample Return sample, planetary-analog soil sample</data>
+    </node>
+    <node id="Soumitra Sengupta">
+      <data key="affiliation">Nan</data>
+      <data key="research">Concurrency control optimizations, Prolog databaseOptimistic concurrency control, prolog databases</data>
+    </node>
+    <node id="Gene T J Wuu">
+      <data key="affiliation">Departmemnt of Computer Science, State University of New York at Stony Brook, Long Island, NY</data>
+      <data key="research">dictionary problemsWe, efficient algorithm, communication failure</data>
+    </node>
+    <node id="Gurdip Singh">
+      <data key="affiliation">Nan</data>
+      <data key="research">Organizational Design, low-level sensor implementation detail, sensor capability</data>
+    </node>
+    <node id="Mauricio Arango">
+      <data key="affiliation">Oracle Corporation, Fort Lauderdale, USA</data>
+      <data key="research">CEP application, media coverage, end-user device</data>
+    </node>
+    <node id="H G Badr">
+      <data key="affiliation">State Univ. of New York at Stony Brook, Stony Brook, NY</data>
+      <data key="research">network computer, circuit switching, communication protocol</data>
+    </node>
+    <node id="R. H. Kerr">
+      <data key="affiliation">Nan</data>
+      <data key="research">IBM ASICs, design automation, test methodology</data>
+    </node>
+    <node id="Paul K. Harter, Jr.">
+      <data key="affiliation">Univ. of Colorado, Boulder</data>
+      <data key="research">real-time program, complex system, temporal logic</data>
+    </node>
+    <node id="Arthur J Bernstein">
+      <data key="affiliation">Department of Computer Science, State University of New York</data>
+      <data key="research">business process, Concurrent Pascal, abstract BPEL process</data>
+    </node>
+    <edge source="P M. Lewis, II" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P M. Lewis, II" target="Ziyang Duan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P M. Lewis, II" target="Shiyong Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P M. Lewis, II" target="Michael Kifer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiyong Lu" target="Ziyang Duan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiyong Lu" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Larry D. Wittie" target="Ariel Joel Frank">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Larry D. Wittie" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ekanadham" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziyang Duan" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziyang Duan" target="Radu Grosu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ariel Joel Frank" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Narayanan Krishnakumar" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Kifer" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fred B. Schneider" target="Abraham Silberschatz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fred B. Schneider" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radu Grosu" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abraham Silberschatz" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Siegel" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Soumitra Sengupta" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gene T J Wuu" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gurdip Singh" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mauricio Arango" target="H G Badr">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mauricio Arango" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H G Badr" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. H. Kerr" target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul K. Harter, Jr." target="Arthur J Bernstein">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

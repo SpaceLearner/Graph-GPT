@@ -1,67 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-D. B. Skalak	1
-M. Friedman	{'relation': 'collaborate'}
-Bracha Shapira	5
-Moti Schneider	{'relation': 'collaborate'}
-Yuval Elovici	{'relation': 'collaborate'}
-Abraham Kandel	{'relation': 'collaborate'}
-M. Friedman	{'relation': 'collaborate'}
-Mark Last	{'relation': 'collaborate'}
-Moti Schneider	7
-Abraham Kandel	{'relation': 'collaborate'}
-M. Friedman	{'relation': 'collaborate'}
-Mark Last	{'relation': 'collaborate'}
-Gideon Langholz	{'relation': 'collaborate'}
-A. P. Rotshtein	{'relation': 'collaborate'}
-Yuval Elovici	{'relation': 'collaborate'}
-H.-N. L. Teodorescu	{'relation': 'collaborate'}
-A Kandel	6
-Joan Francioni	{'relation': 'collaborate'}
-R. Milo	{'relation': 'collaborate'}
-M. Friedman	{'relation': 'collaborate'}
-Ming Ma	{'relation': 'collaborate'}
-Mark Last	{'relation': 'collaborate'}
-Gideon Langholz	{'relation': 'collaborate'}
-A. P. Rotshtein	1
-Abraham Kandel	{'relation': 'collaborate'}
-Jyh-Shyan Lin	1
-M. Friedman	{'relation': 'collaborate'}
-Abraham Kandel	9
-Yuval Elovici	{'relation': 'collaborate'}
-Joan Francioni	{'relation': 'collaborate'}
-H.-N. L. Teodorescu	{'relation': 'collaborate'}
-Ming Ma	{'relation': 'collaborate'}
-Mark Last	{'relation': 'collaborate'}
-Gideon Langholz	{'relation': 'collaborate'}
-Chlotia Posey	{'relation': 'collaborate'}
-M. Friedman	{'relation': 'collaborate'}
-Yan-Qing Zhang	{'relation': 'collaborate'}
-H.-N. L. Teodorescu	0
-Eran Ferri	1
-Gideon Langholz	{'relation': 'collaborate'}
-Joan Francioni	1
-Gideon Langholz	{'relation': 'collaborate'}
-Yuval Elovici	2
-M. Friedman	{'relation': 'collaborate'}
-Mark Last	{'relation': 'collaborate'}
-Michael Margaliot	1
-Gideon Langholz	{'relation': 'collaborate'}
-Mark Last	1
-M. Friedman	{'relation': 'collaborate'}
-Gideon Langholz	4
-M. Friedman	{'relation': 'collaborate'}
-Chlotia Posey	{'relation': 'collaborate'}
-Ming Ma	{'relation': 'collaborate'}
-Yan-Qing Zhang	{'relation': 'collaborate'}
-Chlotia Posey	0
-A. Rabinovitch	1
-M. Friedman	{'relation': 'collaborate'}
-M. Friedman	2
-Ming Ma	{'relation': 'collaborate'}
-R. Milo	{'relation': 'collaborate'}
-Yan-Qing Zhang	1
-Ming Ma	{'relation': 'collaborate'}
-Ming Ma	0
-R. Milo	0
+M. Friedman	Jyh-Shyan Lin	A. Rabinovitch	Ming Ma	Moti Schneider	R. Milo	D. B. Skalak	A Kandel	Gideon Langholz	Yuval Elovici	Bracha Shapira	Abraham Kandel	Mark Last
+Mark Last	Moti Schneider	A Kandel	Abraham Kandel	Yuval Elovici	Bracha Shapira
+H.-N. L. Teodorescu	Abraham Kandel	Moti Schneider
+Jyh-Shyan Lin
+Bracha Shapira	Moti Schneider	Yuval Elovici	Abraham Kandel
+Eran Ferri	Gideon Langholz
+Joan Francioni	A Kandel	Abraham Kandel	Gideon Langholz
+D. B. Skalak
+R. Milo	A Kandel
+Yan-Qing Zhang	Ming Ma	Abraham Kandel	Gideon Langholz
+Yuval Elovici	Abraham Kandel	Moti Schneider
+Gideon Langholz	Moti Schneider	Chlotia Posey	Abraham Kandel	A Kandel	Michael Margaliot	Ming Ma
+A Kandel	Ming Ma
+Moti Schneider	Abraham Kandel	A. P. Rotshtein
+Abraham Kandel	Ming Ma	Chlotia Posey	A. P. Rotshtein
+Ming Ma
+Chlotia Posey
+Michael Margaliot
+A. P. Rotshtein
+A. Rabinovitch

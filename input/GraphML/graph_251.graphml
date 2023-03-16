@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Yongke Yuan">
+      <data key="affiliation">University of South Florida, Tampa</data>
+      <data key="research">consecutive time period, quadratic time, SDH query</data>
+    </node>
+    <node id="Paolo Ciccarese">
+      <data key="affiliation">Harvard Medical School</data>
+      <data key="research">biomedical discourse, SWAN ontology, Semantic Web Applications</data>
+    </node>
+    <node id="Holger Stenzhorn">
+      <data key="affiliation">Department of Pediatric Oncology and Hematology, University of the Saarland, Homburg, Germany</data>
+      <data key="research">life science, upper domain ontology, biomedical ontology</data>
+    </node>
+    <node id="Liang Zhan">
+      <data key="affiliation">Laboratory of Neuroimaging, Dept. of Neurology, University of California, Los Angeles, USA</data>
+      <data key="research">fiber integrity, tensor distribution function, diffusion imaging</data>
+    </node>
+    <node id="Sagar Pandit">
+      <data key="affiliation">pandit@usf.edu</data>
+      <data key="research">quadratic time, efficient dynamic data structure, particle simulation data</data>
+    </node>
+    <node id="Anupam Agrawal">
+      <data key="affiliation">IIIT Allahabad, Jhalwa, Allahabad, U.P</data>
+      <data key="research">Devanagari character recognition, character recognition, computer interaction</data>
+    </node>
+    <node id="Cornelius Rosse">
+      <data key="affiliation">Department of Biological Structure and Department of Medical Education and Biomedical Informatics, School of Medicine, University of Washington, Seattle, WA, USA</data>
+      <data key="research">foundational model, biomedical ontology, spatial information</data>
+    </node>
+    <node id="Paul M. Thompson">
+      <data key="affiliation">thompson@loni.ucla.edu</data>
+      <data key="research">cortical surface, landmark curve, anatomical surface</data>
+    </node>
+    <node id="Anand Kumar">
+      <data key="affiliation">Nan</data>
+      <data key="research">digital oscilloscope, CRT monitor, large block</data>
+    </node>
+    <node id="Udo Hahn">
+      <data key="affiliation">Nan</data>
+      <data key="research">als argumentativer Gruppendiskurs</data>
+    </node>
+    <node id="Di Yu">
+      <data key="affiliation">University of South Florida, Tampa</data>
+      <data key="research">push-based database system, data arrival rate, data management system</data>
+    </node>
+    <node id="S. E. Schulz">
+      <data key="affiliation">Fraunhofer ENAS, Chemnitz, Germany</data>
+      <data key="research">plasma condition, plasma treatment, etch rate</data>
+    </node>
+    <node id="Gang Shen">
+      <data key="affiliation">Nan</data>
+      <data key="research">expressive facial region, facial expression, human facial emotion</data>
+    </node>
+    <node id="Yicheng Tu">
+      <data key="affiliation">Nan</data>
+      <data key="research">new measure, categorical data, data mining result</data>
+    </node>
+    <node id="Satish Kumar Pal">
+      <data key="affiliation">Nan</data>
+      <data key="research">digital oscilloscope, CRT monitor, large block</data>
+    </node>
+    <node id="Tony Simon">
+      <data key="affiliation">Georgia Institute of Technology</data>
+      <data key="research">Corpus Callosum, Programmable user model, continuous medial representation</data>
+    </node>
+    <node id="W. Ceusters">
+      <data key="affiliation">European Centre for Ontological Research, Univerisität des Saarlandes, Postfach, Saarbrücken, Germany and Department of Philosophy, University at Buffalo, NY</data>
+      <data key="research">referent tracking, description logic, adverse event</data>
+    </node>
+    <node id="Sarit Arora">
+      <data key="affiliation">Human Factors International</data>
+      <data key="research">COVER STORY, cross-cultural design, washing machine</data>
+    </node>
+    <node id="Alex Leow">
+      <data key="affiliation">Department of Psychiatry, University of Illinois, Chicago, IL, USA, Department of Bioengineering, University of Illinois, Chicago, IL, USA, Community Psychiatry Associates, Sacramento, CA</data>
+      <data key="research">fiber integrity, tensor distribution function, diffusion profile</data>
+    </node>
+    <node id="Joachim Wermter">
+      <data key="affiliation">Jena University Language and Information Engineering (JULIE) Lab, Germany</data>
+      <data key="research">scientific term, common non-specific noun phrase, non-specific noun phrase</data>
+    </node>
+    <edge source="Yongke Yuan" target="Gang Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongke Yuan" target="Yicheng Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongke Yuan" target="Sagar Pandit">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yongke Yuan" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paolo Ciccarese" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Stenzhorn" target="Joachim Wermter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Stenzhorn" target="Udo Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Stenzhorn" target="S. E. Schulz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Stenzhorn" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Zhan" target="Alex Leow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Zhan" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Zhan" target="Paul M. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Zhan" target="Tony Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sagar Pandit" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sagar Pandit" target="Yicheng Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anupam Agrawal" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cornelius Rosse" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cornelius Rosse" target="S. E. Schulz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cornelius Rosse" target="W. Ceusters">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul M. Thompson" target="Alex Leow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul M. Thompson" target="Anand Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul M. Thompson" target="Tony Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Alex Leow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Sarit Arora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Tony Simon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Di Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Joachim Wermter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Gang Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Yicheng Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="S. E. Schulz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="W. Ceusters">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Udo Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anand Kumar" target="Satish Kumar Pal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Udo Hahn" target="Joachim Wermter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Udo Hahn" target="S. E. Schulz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Di Yu" target="Yicheng Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. E. Schulz" target="Joachim Wermter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Shen" target="Yicheng Tu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tony Simon" target="Alex Leow">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

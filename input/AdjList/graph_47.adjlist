@@ -1,64 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Andrew Citron	1
-C. Mohan	{'relation': 'collaborate'}
-C. Mohan	11
-Larry Brown	{'relation': 'collaborate'}
-Dan Wolfson	{'relation': 'collaborate'}
-Kusum Deep	{'relation': 'collaborate'}
-Claus Hagen	{'relation': 'collaborate'}
-Sang K. Cha	{'relation': 'collaborate'}
-Josephine Cheng	{'relation': 'collaborate'}
-Richard Hedges	{'relation': 'collaborate'}
-Balakrishna R. Iyer	{'relation': 'collaborate'}
-Yun Wang	{'relation': 'collaborate'}
-Don Haderle	{'relation': 'collaborate'}
-Ted G. Messinger	{'relation': 'collaborate'}
-Larry Brown	0
-Ted G. Messinger	7
-Robert J. T. Morris	{'relation': 'collaborate'}
-Richard Hedges	{'relation': 'collaborate'}
-Balakrishna R. Iyer	{'relation': 'collaborate'}
-Yun Wang	{'relation': 'collaborate'}
-Don Haderle	{'relation': 'collaborate'}
-Hanoch Levy	{'relation': 'collaborate'}
-Josephine Cheng	{'relation': 'collaborate'}
-Yun Wang	4
-Richard Hedges	{'relation': 'collaborate'}
-Don Haderle	{'relation': 'collaborate'}
-Balakrishna R. Iyer	{'relation': 'collaborate'}
-Josephine Cheng	{'relation': 'collaborate'}
-Don Haderle	3
-Josephine Cheng	{'relation': 'collaborate'}
-Richard Hedges	{'relation': 'collaborate'}
-Balakrishna R. Iyer	{'relation': 'collaborate'}
-Richard Hedges	7
-J. P. Prost	{'relation': 'collaborate'}
-A. E. Koniges	{'relation': 'collaborate'}
-Chris Morrone	{'relation': 'collaborate'}
-Bin Jia	{'relation': 'collaborate'}
-Josephine Cheng	{'relation': 'collaborate'}
-Balakrishna R. Iyer	{'relation': 'collaborate'}
-Richard Treumann	{'relation': 'collaborate'}
-Sang K. Cha	0
-Chris Morrone	0
-Balakrishna R. Iyer	1
-Josephine Cheng	{'relation': 'collaborate'}
-Richard Treumann	3
-Bin Jia	{'relation': 'collaborate'}
-J. P. Prost	{'relation': 'collaborate'}
-A. E. Koniges	{'relation': 'collaborate'}
-J. P. Prost	2
-Bin Jia	{'relation': 'collaborate'}
-A. E. Koniges	{'relation': 'collaborate'}
-Dan Wolfson	0
-Robert J. T. Morris	1
-Hanoch Levy	{'relation': 'collaborate'}
-Hanoch Levy	0
-Claus Hagen	0
-Bin Jia	1
-A. E. Koniges	{'relation': 'collaborate'}
-A. E. Koniges	0
-Kusum Deep	0
-Josephine Cheng	0
+Robert J. T. Morris	Ted G. Messinger	Hanoch Levy
+Bin Jia	Richard Treumann	J. P. Prost	Richard Hedges	A. E. Koniges
+J. P. Prost	Richard Treumann	Richard Hedges	A. E. Koniges
+Don Haderle	Josephine Cheng	Richard Hedges	Balakrishna R. Iyer	Ted G. Messinger	C. Mohan	Yun Wang
+Kusum Deep	C. Mohan
+Josephine Cheng	C. Mohan	Balakrishna R. Iyer	Richard Hedges	Ted G. Messinger	Yun Wang
+Chris Morrone	Richard Hedges
+Richard Hedges	Ted G. Messinger	C. Mohan	Yun Wang	A. E. Koniges	Balakrishna R. Iyer	Richard Treumann
+Andrew Citron	C. Mohan
+Richard Treumann	A. E. Koniges
+Ted G. Messinger	Balakrishna R. Iyer	Yun Wang	Hanoch Levy	C. Mohan
+Sang K. Cha	C. Mohan
+Larry Brown	C. Mohan
+C. Mohan	Dan Wolfson	Claus Hagen	Balakrishna R. Iyer	Yun Wang
+Hanoch Levy
+A. E. Koniges
+Yun Wang	Balakrishna R. Iyer
+Balakrishna R. Iyer
+Claus Hagen
+Dan Wolfson

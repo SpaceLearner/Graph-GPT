@@ -1,9 +1,9 @@
 graph [
   node [
     id 0
-    label "Linda Brodo"
-    affiliation "Dipartimento di Scienze dei Linguaggi, Sassari, Italia"
-    research "Control Flow Analysis, security protocol, type flaw attack"
+    label "Julian Fierrez"
+    affiliation "ATVS  Biometric Recognition Group, Escuela Politecnica Superior, Universidad Autonoma de Madrid, Calle Francisco Tomas y Valiente 11, 28049 Madrid, Spain"
+    research "quality measure, biometric system, multimodal biometric system"
   ]
   node [
     id 1
@@ -13,33 +13,33 @@ graph [
   ]
   node [
     id 2
-    label "Julian Fierrez"
-    affiliation "ATVS  Biometric Recognition Group, Escuela Politecnica Superior, Universidad Autonoma de Madrid, Calle Francisco Tomas y Valiente 11, 28049 Madrid, Spain"
-    research "quality measure, biometric system, multimodal biometric system"
+    label "M. A. Viergever"
+    affiliation "Univ. Hospital Utrecht, Utrecht, The Netherlands"
+    research "scale space, physical field dynamic, Medical image computing"
   ]
   node [
     id 3
-    label "Alejandro F. Frangi"
-    affiliation "Center for Computational Imaging &#38; Simulation Technologies in Biomedicine, Universitat Pompeu Fabra and CIBERBBN, Barcelona, Spain,Department of Mechanical Engineering, University of Sheffiel ..."
-    research "cardiac resynchronization therapy, active shape model, proposed algorithm"
+    label "Michael Sass Hansen"
+    affiliation "Department of Electrical and Computer Engineering, University of Iowa, Iowa City, IA"
+    research "connective tissue disorder, connective tissue disorder subject, aortic MR image"
   ]
   node [
     id 4
+    label "Bram van Ginneken"
+    affiliation "University Medical Center Utrecht, The Netherlands"
+    research "train image, coronary calcifications, mean position"
+  ]
+  node [
+    id 5
     label "M. Cremonesi"
     affiliation "Department of Structural Engineering, Politecnico di Milano, Milan, Italy"
     research "nonlinear water wave, water wave, Lagrangian finite element approach"
   ]
   node [
-    id 5
-    label "Javier Galbally"
-    affiliation "Biometric Recognition Group  ATVS Escuela Politecnica Superior, Universidad Autonoma de Madrid, Madrid, Spain 28049"
-    research "direct attack, experimental result, multimodal biometric system"
-  ]
-  node [
     id 6
-    label "B. K. Ersb&#248;ll"
-    affiliation "DTU Data Analysis"
-    research "images correspondence, multispectral image, spectral band"
+    label "Bob Moore"
+    affiliation "IDAC Ireland Limited, Dublin 2, Ireland"
+    research "Heterogeneous Data, cerebral aneurysms, patient data"
   ]
   node [
     id 7
@@ -49,45 +49,45 @@ graph [
   ]
   node [
     id 8
-    label "C. Ferri"
-    affiliation "Nan"
-    research "Parallel Integrated Environment, Reliability Evaluation"
-  ]
-  node [
-    id 9
-    label "Bob Moore"
-    affiliation "IDAC Ireland Limited, Dublin 2, Ireland"
-    research "Heterogeneous Data, cerebral aneurysms, patient data"
-  ]
-  node [
-    id 10
-    label "Jimison Iavindrasana"
-    affiliation "Geneva University Hospitals, Geneva, Switzerland"
-    research "clinical attribute, Heterogeneous Data, patient data"
-  ]
-  node [
-    id 11
     label "A. Berruezo"
     affiliation "Arrhythmia Section, Cardiology Department, Thorax Institute, Hospital Clinic, Barcelona, Spain"
     research "new mapping algorithm, contact mapping system, different mapping strategy"
   ]
   node [
-    id 12
-    label "Bram van Ginneken"
-    affiliation "University Medical Center Utrecht, The Netherlands"
-    research "train image, coronary calcifications, mean position"
+    id 9
+    label "Alejandro F. Frangi"
+    affiliation "Center for Computational Imaging &#38; Simulation Technologies in Biomedicine, Universitat Pompeu Fabra and CIBERBBN, Barcelona, Spain,Department of Mechanical Engineering, University of Sheffiel ..."
+    research "cardiac resynchronization therapy, active shape model, proposed algorithm"
   ]
   node [
-    id 13
+    id 10
+    label "Linda Brodo"
+    affiliation "Dipartimento di Scienze dei Linguaggi, Sassari, Italia"
+    research "Control Flow Analysis, security protocol, type flaw attack"
+  ]
+  node [
+    id 11
     label "Avan Suinesiaputra"
     affiliation "Auckland Bioengineering Institute, University of Auckland, New Zealand"
     research "input device, myocardial infarction, visualized medical data"
   ]
   node [
+    id 12
+    label "Javier Galbally"
+    affiliation "Biometric Recognition Group  ATVS Escuela Politecnica Superior, Universidad Autonoma de Madrid, Madrid, Spain 28049"
+    research "direct attack, experimental result, multimodal biometric system"
+  ]
+  node [
+    id 13
+    label "C. Ferri"
+    affiliation "Nan"
+    research "Parallel Integrated Environment, Reliability Evaluation"
+  ]
+  node [
     id 14
-    label "Edward J. Vigmond"
-    affiliation "IMB  Universit&#233; Bordeaux Segalen  Universit&#233; Bordeaux 1, Bordeaux, France,INRIA, Bordeaux, France,Liryc Institute, CHU / Univ. de Bordeaux / INSERM U1045, Bordeaux, France"
-    research "Purkinje System, bone micro-architecture, bone quality"
+    label "Jimison Iavindrasana"
+    affiliation "Geneva University Hospitals, Geneva, Switzerland"
+    research "clinical attribute, Heterogeneous Data, patient data"
   ]
   node [
     id 15
@@ -97,36 +97,36 @@ graph [
   ]
   node [
     id 16
-    label "Bart M. ter Haar Romeny"
-    affiliation "Eindhoven University of Technology, Den Dolech 2, NL5600 MB, The Netherlands. <rfc822>B.M.terHaarRomeny@tue.nl</rfc822>"
-    research "scalar image, physical field dynamic, orientation score"
+    label "B. K. Ersb&#248;ll"
+    affiliation "DTU Data Analysis"
+    research "images correspondence, multispectral image, spectral band"
   ]
   node [
     id 17
-    label "Michael Sass Hansen"
-    affiliation "Department of Electrical and Computer Engineering, University of Iowa, Iowa City, IA"
-    research "connective tissue disorder, connective tissue disorder subject, aortic MR image"
+    label "Edward J. Vigmond"
+    affiliation "IMB  Universit&#233; Bordeaux Segalen  Universit&#233; Bordeaux 1, Bordeaux, France,INRIA, Bordeaux, France,Liryc Institute, CHU / Univ. de Bordeaux / INSERM U1045, Bordeaux, France"
+    research "Purkinje System, bone micro-architecture, bone quality"
   ]
   node [
     id 18
-    label "M. A. Viergever"
-    affiliation "Univ. Hospital Utrecht, Utrecht, The Netherlands"
-    research "scale space, physical field dynamic, Medical image computing"
-  ]
-  node [
-    id 19
     label "Ernesto Zacur"
     affiliation "Universitat Pompeu Fabra"
     research "generic rig, different face model, face model"
   ]
+  node [
+    id 19
+    label "Bart M. ter Haar Romeny"
+    affiliation "Eindhoven University of Technology, Den Dolech 2, NL5600 MB, The Netherlands. <rfc822>B.M.terHaarRomeny@tue.nl</rfc822>"
+    research "scalar image, physical field dynamic, orientation score"
+  ]
   edge [
     source 0
-    target 3
+    target 9
     relation "collaborate"
   ]
   edge [
     source 0
-    target 5
+    target 12
     relation "collaborate"
   ]
   edge [
@@ -136,42 +136,32 @@ graph [
   ]
   edge [
     source 0
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 1
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 1
     target 2
     relation "collaborate"
   ]
   edge [
-    source 1
-    target 3
-    relation "collaborate"
-  ]
-  edge [
-    source 1
-    target 18
+    source 2
+    target 9
     relation "collaborate"
   ]
   edge [
     source 2
-    target 3
+    target 19
     relation "collaborate"
   ]
   edge [
     source 2
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 2
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 6
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 18
+    target 4
     relation "collaborate"
   ]
   edge [
@@ -181,82 +171,82 @@ graph [
   ]
   edge [
     source 3
-    target 5
-    relation "collaborate"
-  ]
-  edge [
-    source 3
     target 16
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 17
+    source 4
+    target 9
     relation "collaborate"
   ]
   edge [
-    source 3
+    source 4
     target 19
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 12
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 10
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 14
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 11
-    relation "collaborate"
-  ]
-  edge [
-    source 3
+    source 5
     target 13
     relation "collaborate"
   ]
   edge [
-    source 3
-    target 7
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 15
-    relation "collaborate"
-  ]
-  edge [
-    source 3
-    target 4
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 8
-    relation "collaborate"
-  ]
-  edge [
-    source 4
-    target 15
+    source 5
+    target 9
     relation "collaborate"
   ]
   edge [
     source 5
-    target 7
+    target 15
     relation "collaborate"
   ]
   edge [
     source 6
-    target 17
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 6
+    target 14
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 7
+    target 10
+    relation "collaborate"
+  ]
+  edge [
+    source 8
+    target 9
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 16
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 12
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 19
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 18
     relation "collaborate"
   ]
   edge [
@@ -265,18 +255,28 @@ graph [
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 16
+    source 9
+    target 14
     relation "collaborate"
   ]
   edge [
-    source 12
-    target 18
+    source 9
+    target 17
     relation "collaborate"
   ]
   edge [
-    source 16
-    target 18
+    source 9
+    target 11
+    relation "collaborate"
+  ]
+  edge [
+    source 9
+    target 15
+    relation "collaborate"
+  ]
+  edge [
+    source 10
+    target 12
     relation "collaborate"
   ]
 ]

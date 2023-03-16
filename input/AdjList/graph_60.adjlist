@@ -1,57 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:01 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:08 2023
 # 
-Offer Pazy	1
-Mike Kamrad	{'relation': 'collaborate'}
-Dennis Cornhill	3
-Rakesh Jha	{'relation': 'collaborate'}
-Mike Kamrad	{'relation': 'collaborate'}
-Greg Eisenhauer	{'relation': 'collaborate'}
-Jack C. Wileden	4
-Alan R. Segal	{'relation': 'collaborate'}
-Leon G. Stucki	{'relation': 'collaborate'}
-Richard Fairley	{'relation': 'collaborate'}
-J. Ramanathan	{'relation': 'collaborate'}
-Mike Kamrad	7
-Fred Maymir-Ducharme	{'relation': 'collaborate'}
-Dock Allen	{'relation': 'collaborate'}
-Rakesh Jha	{'relation': 'collaborate'}
-Greg Eisenhauer	{'relation': 'collaborate'}
-Charles McKay	{'relation': 'collaborate'}
-K A Gilroy	{'relation': 'collaborate'}
-Joseph K. Cross	{'relation': 'collaborate'}
-Rakesh Jha	1
-Greg Eisenhauer	{'relation': 'collaborate'}
-Dock Allen	4
-Charles McKay	{'relation': 'collaborate'}
-Bhavani M. Thuraisingham	{'relation': 'collaborate'}
-K A Gilroy	{'relation': 'collaborate'}
-Erich Hughes	{'relation': 'collaborate'}
-J. Bamberger	2
-Charles McKay	{'relation': 'collaborate'}
-Richard Fairley	{'relation': 'collaborate'}
-David Eichmann	2
-C. Atkinson	{'relation': 'collaborate'}
-Charles McKay	{'relation': 'collaborate'}
-Fred Maymir-Ducharme	0
-Richard Fairley	4
-Alan R. Segal	{'relation': 'collaborate'}
-Charles McKay	{'relation': 'collaborate'}
-Leon G. Stucki	{'relation': 'collaborate'}
-J. Ramanathan	{'relation': 'collaborate'}
-Leon G. Stucki	2
-J. Ramanathan	{'relation': 'collaborate'}
-Alan R. Segal	{'relation': 'collaborate'}
-C. Atkinson	1
-Charles McKay	{'relation': 'collaborate'}
-Erich Hughes	1
-Bhavani M. Thuraisingham	{'relation': 'collaborate'}
-Charles McKay	1
-K A Gilroy	{'relation': 'collaborate'}
-K A Gilroy	0
-Joseph K. Cross	0
-Alan R. Segal	1
-J. Ramanathan	{'relation': 'collaborate'}
-Greg Eisenhauer	0
-J. Ramanathan	0
-Bhavani M. Thuraisingham	0
+Fred Maymir-Ducharme	Mike Kamrad
+Leon G. Stucki	Jack C. Wileden	Richard Fairley	J. Ramanathan	Alan R. Segal
+Mike Kamrad	Offer Pazy	Dennis Cornhill	Dock Allen	Rakesh Jha	Greg Eisenhauer	Charles McKay	K A Gilroy	Joseph K. Cross
+Alan R. Segal	Jack C. Wileden	Richard Fairley	J. Ramanathan
+Dock Allen	Charles McKay	Bhavani M. Thuraisingham	K A Gilroy	Erich Hughes
+J. Bamberger	Charles McKay	Richard Fairley
+Charles McKay	K A Gilroy	Richard Fairley	David Eichmann	C. Atkinson
+J. Ramanathan	Richard Fairley	Jack C. Wileden
+Joseph K. Cross
+Dennis Cornhill	Rakesh Jha	Greg Eisenhauer
+David Eichmann	C. Atkinson
+Richard Fairley	Jack C. Wileden
+Erich Hughes	Bhavani M. Thuraisingham
+Jack C. Wileden
+Bhavani M. Thuraisingham
+Rakesh Jha	Greg Eisenhauer
+Greg Eisenhauer
+Offer Pazy
+K A Gilroy
+C. Atkinson

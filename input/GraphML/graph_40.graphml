@@ -4,17 +4,77 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
+    <node id="Min Li">
+      <data key="affiliation">University of Wisconsin  Madison</data>
+      <data key="research">custom on-chip sensor, individual design path, pre-silicon stage</data>
+    </node>
     <node id="Jiankun Wu">
       <data key="affiliation">Dalian University of Technology, China</data>
       <data key="research">information technology, synthesizing information, traffic information gridIntelligent Transportation</data>
+    </node>
+    <node id="Yan Xiong">
+      <data key="affiliation">Nan</data>
+      <data key="research">sybil attack, replication attack, WSNsThe detection</data>
+    </node>
+    <node id="P. P. Jonker">
+      <data key="affiliation">Department of Mechanical Engineering, Section Dynamics and Control Technology, Technical University Eindhoven, Eindhoven, The Netherlands</data>
+      <data key="research">image processing, image processing application, memory system</data>
+    </node>
+    <node id="D. Tipper">
+      <data key="affiliation">Nan</data>
+      <data key="research">bandwidth efficiency, bottom layer, common pool protection</data>
     </node>
     <node id="Jaques Reifman">
       <data key="affiliation">Biotechnology HPC Software Applications Institute, Telemedicine and Advanced Technology Research Center, US Army Medical Research and Materiel Command, Ft. Detrick, MD  Boston, MA, USA</data>
       <data key="research">prediction horizon, prediction interval, data-driven model</data>
     </node>
-    <node id="Yan Xiong">
+    <node id="G. B. Giannakis">
+      <data key="affiliation">Department of Electrical and Computer Engineering, and the Digital Technology Center, University of Minnesota, MN, USA</data>
+      <data key="research">channel state information, frequency-selective channel, channel estimation</data>
+    </node>
+    <node id="He Huang">
       <data key="affiliation">Nan</data>
-      <data key="research">sybil attack, replication attack, WSNsThe detection</data>
+      <data key="research">Wyner-Ziv Image, Wyner-Ziv image compression algorithm, pixel domain Wyner-Ziv video</data>
+    </node>
+    <node id="Wenchao Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">CRT-VSS scheme, cloud computing, existing cheating problem</data>
+    </node>
+    <node id="Yunlong Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">eukaryotic gene expression, expression pattern, mRNA expression data</data>
+    </node>
+    <node id="Weiming Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">macro block, corresponding host macro block, missing macro block</data>
+    </node>
+    <node id="Peng Wei">
+      <data key="affiliation">University of Science and Technology of China, Hefei, P.R.China</data>
+      <data key="research">flash memory, flash memory management, experimental result</data>
+    </node>
+    <node id="Xin Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">foldable wheel, mobile robot, better obstacle</data>
+    </node>
+    <node id="Zhifang Sui">
+      <data key="affiliation">School of Electronics Engineering and Computer Science, Peking University, Beijing, China</data>
+      <data key="research">feature-based matrix factorization model, student response, automatic assessment</data>
+    </node>
+    <node id="Zhiyong Shan">
+      <data key="affiliation">School of Information, Renmin University of China</data>
+      <data key="research">MAC system, commercial operating system, malware behavior</data>
+    </node>
+    <node id="Dan Li">
+      <data key="affiliation">Technology&amp;Information Center, XinYang Power Supply Company, Xinyang, Henan, China</data>
+      <data key="research">border mutation, Optimization algorithm, Quantum-Behaved particle swarm optimization</data>
+    </node>
+    <node id="P. Kudumakis">
+      <data key="affiliation">Queen Mary, University of London, London, UK</data>
+      <data key="research">archived material, OCCAMM Project FrameworkSeveral standardisation, OCCAMM project</data>
+    </node>
+    <node id="Qingwen Liu">
+      <data key="affiliation">School of Computer Science, University of Science and Technology of China, China</data>
+      <data key="research">social information, celebrities recommendation, cold start problem</data>
     </node>
     <node id="Shengli Zhou">
       <data key="affiliation">Nan</data>
@@ -24,70 +84,13 @@
       <data key="affiliation">Univ. of Southern California, Los Angeles</data>
       <data key="research">formal definition, programming system, SEMANOLA formal definition</data>
     </node>
-    <node id="Yunlong Liu">
-      <data key="affiliation">Nan</data>
-      <data key="research">eukaryotic gene expression, expression pattern, mRNA expression data</data>
-    </node>
-    <node id="P. P. Jonker">
-      <data key="affiliation">Department of Mechanical Engineering, Section Dynamics and Control Technology, Technical University Eindhoven, Eindhoven, The Netherlands</data>
-      <data key="research">image processing, image processing application, memory system</data>
-    </node>
-    <node id="G. B. Giannakis">
-      <data key="affiliation">Department of Electrical and Computer Engineering, and the Digital Technology Center, University of Minnesota, MN, USA</data>
-      <data key="research">channel state information, frequency-selective channel, channel estimation</data>
-    </node>
-    <node id="Weiming Zhang">
-      <data key="affiliation">Nan</data>
-      <data key="research">macro block, corresponding host macro block, missing macro block</data>
-    </node>
-    <node id="Min Li">
-      <data key="affiliation">University of Wisconsin  Madison</data>
-      <data key="research">custom on-chip sensor, individual design path, pre-silicon stage</data>
-    </node>
-    <node id="Zhiyong Shan">
-      <data key="affiliation">School of Information, Renmin University of China</data>
-      <data key="research">MAC system, commercial operating system, malware behavior</data>
-    </node>
-    <node id="Xin Wang">
-      <data key="affiliation">Nan</data>
-      <data key="research">foldable wheel, mobile robot, better obstacle</data>
-    </node>
-    <node id="D. Tipper">
-      <data key="affiliation">Nan</data>
-      <data key="research">bandwidth efficiency, bottom layer, common pool protection</data>
-    </node>
-    <node id="Peng Wei">
-      <data key="affiliation">University of Science and Technology of China, Hefei, P.R.China</data>
-      <data key="research">flash memory, flash memory management, experimental result</data>
-    </node>
-    <node id="P. Kudumakis">
-      <data key="affiliation">Queen Mary, University of London, London, UK</data>
-      <data key="research">archived material, OCCAMM Project FrameworkSeveral standardisation, OCCAMM project</data>
-    </node>
-    <node id="Wenchao Huang">
-      <data key="affiliation">Nan</data>
-      <data key="research">CRT-VSS scheme, cloud computing, existing cheating problem</data>
-    </node>
-    <node id="Zhifang Sui">
-      <data key="affiliation">School of Electronics Engineering and Computer Science, Peking University, Beijing, China</data>
-      <data key="research">feature-based matrix factorization model, student response, automatic assessment</data>
-    </node>
-    <node id="Qingwen Liu">
-      <data key="affiliation">School of Computer Science, University of Science and Technology of China, China</data>
-      <data key="research">social information, celebrities recommendation, cold start problem</data>
-    </node>
-    <node id="Dan Li">
-      <data key="affiliation">Technology&amp;Information Center, XinYang Power Supply Company, Xinyang, Henan, China</data>
-      <data key="research">border mutation, Optimization algorithm, Quantum-Behaved particle swarm optimization</data>
-    </node>
-    <node id="He Huang">
-      <data key="affiliation">Nan</data>
-      <data key="research">Wyner-Ziv Image, Wyner-Ziv image compression algorithm, pixel domain Wyner-Ziv video</data>
-    </node>
-    <edge source="Jiankun Wu" target="Xin Wang">
+    <edge source="Min Li" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jaques Reifman" target="Xin Wang">
+    <edge source="Min Li" target="Min Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiankun Wu" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Yan Xiong" target="Wenchao Huang">
@@ -96,40 +99,40 @@
     <edge source="Yan Xiong" target="Qingwen Liu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Shengli Zhou" target="G. B. Giannakis">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Shengli Zhou" target="Qingwen Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="E K Blum" target="Xin Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Yunlong Liu" target="Xin Wang">
-      <data key="relation">collaborate</data>
-    </edge>
     <edge source="P. P. Jonker" target="Xin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Tipper" target="Xin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jaques Reifman" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="G. B. Giannakis" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="G. B. Giannakis" target="Shengli Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="G. B. Giannakis" target="Qingwen Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="He Huang" target="Qingwen Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenchao Huang" target="Qingwen Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yunlong Liu" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Weiming Zhang" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Min Li" target="Xin Wang">
+    <edge source="Peng Wei" target="Xin Wang">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Min Li" target="Min Li">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Zhiyong Shan" target="Xin Wang">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Xin Wang" target="Peng Wei">
+    <edge source="Xin Wang" target="E K Blum">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Xin Wang" target="P. Kudumakis">
@@ -141,16 +144,13 @@
     <edge source="Xin Wang" target="Zhifang Sui">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Xin Wang" target="D. Tipper">
+    <edge source="Xin Wang" target="Zhiyong Shan">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Xin Wang" target="Qingwen Liu">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Wenchao Huang" target="Qingwen Liu">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Qingwen Liu" target="He Huang">
+    <edge source="Qingwen Liu" target="Shengli Zhou">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

@@ -1,26 +1,26 @@
-Lieven De Lathauwer	Bart De Moor	{'relation': 'collaborate'}
-J. Vanthienen	Bart De Moor	{'relation': 'collaborate'}
-P. Sas	W. Dewulf	{'relation': 'collaborate'}
-P. Sas	Hendrik Van Brussel	{'relation': 'collaborate'}
-Joris Vertommen	Bart De Moor	{'relation': 'collaborate'}
+Vincent J. Carey	Bart De Moor	{'relation': 'collaborate'}
+J. Váncza	Joost R. Duflou	{'relation': 'collaborate'}
+Maja Hadzic	Bart De Moor	{'relation': 'collaborate'}
+Hendrik Van Brussel	P. Sas	{'relation': 'collaborate'}
+Hendrik Van Brussel	W. Dewulf	{'relation': 'collaborate'}
+P. Van Houtte	H. Sol	{'relation': 'collaborate'}
+P. Van Houtte	Joost R. Duflou	{'relation': 'collaborate'}
+P. Van Houtte	A. M. Habraken	{'relation': 'collaborate'}
+B. Willems	Joost R. Duflou	{'relation': 'collaborate'}
+B. Willems	W. Dewulf	{'relation': 'collaborate'}
+Bart De Moor	Joost R. Duflou	{'relation': 'collaborate'}
+Bart De Moor	Ruben Verlinden	{'relation': 'collaborate'}
+Bart De Moor	J. Vanthienen	{'relation': 'collaborate'}
+Bart De Moor	P Van Dooren	{'relation': 'collaborate'}
+Bart De Moor	L. Vandenberghe	{'relation': 'collaborate'}
+Bart De Moor	Lieven De Lathauwer	{'relation': 'collaborate'}
+Bart De Moor	Joris Vertommen	{'relation': 'collaborate'}
+Bert Lauwers	Joost R. Duflou	{'relation': 'collaborate'}
+H. Sol	Joost R. Duflou	{'relation': 'collaborate'}
+H. Sol	A. M. Habraken	{'relation': 'collaborate'}
 Joris Vertommen	Dirk Cattrysse	{'relation': 'collaborate'}
 Joris Vertommen	Joost R. Duflou	{'relation': 'collaborate'}
-Joost R. Duflou	Bart De Moor	{'relation': 'collaborate'}
-Joost R. Duflou	B. Willems	{'relation': 'collaborate'}
-Joost R. Duflou	A. M. Habraken	{'relation': 'collaborate'}
-Joost R. Duflou	H. Sol	{'relation': 'collaborate'}
-Joost R. Duflou	Dirk Cattrysse	{'relation': 'collaborate'}
-Joost R. Duflou	P. Van Houtte	{'relation': 'collaborate'}
-Joost R. Duflou	J. Váncza	{'relation': 'collaborate'}
-Joost R. Duflou	W. Dewulf	{'relation': 'collaborate'}
-Joost R. Duflou	Bert Lauwers	{'relation': 'collaborate'}
-L. Vandenberghe	Bart De Moor	{'relation': 'collaborate'}
-B. Willems	W. Dewulf	{'relation': 'collaborate'}
-W. Dewulf	Hendrik Van Brussel	{'relation': 'collaborate'}
-Bart De Moor	Ruben Verlinden	{'relation': 'collaborate'}
-Bart De Moor	P Van Dooren	{'relation': 'collaborate'}
-Bart De Moor	Vincent J. Carey	{'relation': 'collaborate'}
-Bart De Moor	Maja Hadzic	{'relation': 'collaborate'}
-A. M. Habraken	H. Sol	{'relation': 'collaborate'}
-A. M. Habraken	P. Van Houtte	{'relation': 'collaborate'}
-P. Van Houtte	H. Sol	{'relation': 'collaborate'}
+A. M. Habraken	Joost R. Duflou	{'relation': 'collaborate'}
+W. Dewulf	P. Sas	{'relation': 'collaborate'}
+W. Dewulf	Joost R. Duflou	{'relation': 'collaborate'}
+Dirk Cattrysse	Joost R. Duflou	{'relation': 'collaborate'}

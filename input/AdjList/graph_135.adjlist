@@ -1,53 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:13 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:21 2023
 # 
-Rafael A. Perez	1
-Sam Chung	{'relation': 'collaborate'}
-Sam Chung	11
-Martine De Cock	{'relation': 'collaborate'}
-Young Choh	{'relation': 'collaborate'}
-Radha Poovendran	{'relation': 'collaborate'}
-Yan Bai	{'relation': 'collaborate'}
-Zac Bylin	{'relation': 'collaborate'}
-Barbara Endicott-Popovsky	{'relation': 'collaborate'}
-Yun-Sik Lee	{'relation': 'collaborate'}
-Lirong Dai	{'relation': 'collaborate'}
-Meeta Sharma	{'relation': 'collaborate'}
-Jack Nelson	{'relation': 'collaborate'}
-Don McLane	{'relation': 'collaborate'}
-Anna Maria Radzikowska	2
-Martine De Cock	{'relation': 'collaborate'}
-Chris Cornelis	{'relation': 'collaborate'}
-Barbara Endicott-Popovsky	2
-Yan Bai	{'relation': 'collaborate'}
-Don McLane	{'relation': 'collaborate'}
-Young Choh	1
-Yan Bai	{'relation': 'collaborate'}
-Chris Cornelis	3
-Paulo Pinheiro Da Silva	{'relation': 'collaborate'}
-Martine De Cock	{'relation': 'collaborate'}
-Jeroen Janssen	{'relation': 'collaborate'}
-Don McLane	0
-Davy Van Nieuwenborgh	1
-Martine De Cock	{'relation': 'collaborate'}
-Yan Bai	3
-Lirong Dai	{'relation': 'collaborate'}
-Meeta Sharma	{'relation': 'collaborate'}
-Radha Poovendran	{'relation': 'collaborate'}
-Martine De Cock	4
-Paulo Pinheiro Da Silva	{'relation': 'collaborate'}
-Jeroen Janssen	{'relation': 'collaborate'}
-E. Kerre	{'relation': 'collaborate'}
-C. Cornelis	{'relation': 'collaborate'}
-Radha Poovendran	0
-Jeroen Janssen	0
-C. Cornelis	1
-E. Kerre	{'relation': 'collaborate'}
-E. Kerre	0
-Zac Bylin	0
-Paulo Pinheiro Da Silva	0
-Jack Nelson	0
-Yun-Sik Lee	0
-Lirong Dai	1
-Meeta Sharma	{'relation': 'collaborate'}
-Meeta Sharma	0
+Lirong Dai	Yan Bai	Sam Chung	Meeta Sharma
+Radha Poovendran	Sam Chung	Yan Bai
+Jack Nelson	Sam Chung
+Anna Maria Radzikowska	Martine De Cock	Chris Cornelis
+Young Choh	Sam Chung	Yan Bai
+Meeta Sharma	Yan Bai	Sam Chung
+Yan Bai	Barbara Endicott-Popovsky	Sam Chung
+Don McLane	Barbara Endicott-Popovsky	Sam Chung
+Davy Van Nieuwenborgh	Martine De Cock
+Chris Cornelis	Paulo Pinheiro Da Silva	Martine De Cock	Jeroen Janssen
+Zac Bylin	Sam Chung
+Martine De Cock	Paulo Pinheiro Da Silva	Jeroen Janssen	Sam Chung	E. Kerre	C. Cornelis
+Paulo Pinheiro Da Silva
+Barbara Endicott-Popovsky	Sam Chung
+C. Cornelis	E. Kerre
+Rafael A. Perez	Sam Chung
+Sam Chung	Yun-Sik Lee
+Jeroen Janssen
+Yun-Sik Lee
+E. Kerre

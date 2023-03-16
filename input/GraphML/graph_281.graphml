@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Teeranoot Chanthasopeephan">
+      <data key="affiliation">Department of Mechanical Engineering, King Mongkut's University of Technology Thonburi, 126 Prachautit Road, Bangmod, Tungkru, Bangkok, 10140, Thailand</data>
+      <data key="research">deformation resistance, deformation resistance decrease, legged robot</data>
+    </node>
+    <node id="Gregory Dudek">
+      <data key="affiliation">Nan</data>
+      <data key="research">3-dimensional surfacesShape representation, Hybrid ModelShape representation, shape descriptorsShape representation</data>
+    </node>
+    <node id="Tie Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">current surgical robot, haptic feedback, tissue characterization</data>
+    </node>
+    <node id="X. Hu">
+      <data key="affiliation">Dept. of Electr. Eng., Sydney Univ., NSW</data>
+      <data key="research">polynomial array, 2-D filter stabilitytestA polynomial, complex polynomial F</data>
+    </node>
+    <node id="Gary Friedman">
+      <data key="affiliation">Drexel University</data>
+      <data key="research">cell injection force, large sensor network, experimental result</data>
+    </node>
+    <node id="Doug L. James">
+      <data key="affiliation">Cornell University, Ithaca, NY</data>
+      <data key="research">contact force, deformable object, Penalty-based contact force</data>
+    </node>
+    <node id="Antoine Ferreira">
+      <data key="affiliation">Nan</data>
+      <data key="research">AR browser, AR experience, AR systems wearable</data>
+    </node>
+    <node id="O Khatib">
+      <data key="affiliation">&lt;affil/&gt;</data>
+      <data key="research">Experimental Robotics, force control, control strategy</data>
+    </node>
+    <node id="Theodore Kim">
+      <data key="affiliation">University of California, Santa Barbara</data>
+      <data key="research">Computer Animation, Eurographics Symposium, animation researcher</data>
+    </node>
+    <node id="Ari D. Brooks">
+      <data key="affiliation">Drexel University</data>
+      <data key="research">biomedical text, text summarization, force feedback</data>
+    </node>
+    <node id="Vijay Kumar">
+      <data key="affiliation">Virginia Tech</data>
+      <data key="research">social network, wireless network, network node</data>
+    </node>
+    <node id="Hyoil Han">
+      <data key="affiliation">LeMoyneOwen College, Memphis, TN</data>
+      <data key="research">Semantic Web, biomedical text, data reduction</data>
+    </node>
+    <node id="Rao P. Gullapalli">
+      <data key="affiliation">University of Maryland School of Medicine</data>
+      <data key="research">middle frontal gyrus, joint motion, tone sequence</data>
+    </node>
+    <node id="Xiaohua Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">binary image</data>
+    </node>
+    <node id="Jaydev P. Desai">
+      <data key="affiliation">University of Maryland, College Park</data>
+      <data key="research">force feedback, cell injection force, haptic device</data>
+    </node>
+    <node id="Zhan Gao">
+      <data key="affiliation">Nan</data>
+      <data key="research">flange thickness, measurement system, Image ProcessingThe flange thickness</data>
+    </node>
+    <node id="Il-Yeol Song">
+      <data key="affiliation">Drexel University College of Information Science and Technology, Philadelphia, PA, USA</data>
+      <data key="research">complex mapping, web form, expected mapping</data>
+    </node>
+    <node id="Illhoi Yoo">
+      <data key="affiliation">Health Management and Informatics Department, University of Missouri School of Medicine, Columbia, USA 65212 and Informatics Institute, University of Missouri, Columbia, USA 65211</data>
+      <data key="research">biomedical literature, biomedical ontology, clustering result</data>
+    </node>
+    <node id="Maxim Pekarev">
+      <data key="affiliation">Drexel University, Philadelphia, PA</data>
+      <data key="research">Force Feedback, cell injection force, cell injection task</data>
+    </node>
+    <node id="Yoo Myung Choi">
+      <data key="affiliation">Drexel University, USA</data>
+      <data key="research">use case relationship, use case, clinical note</data>
+    </node>
+    <edge source="Teeranoot Chanthasopeephan" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Dudek" target="Vijay Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Dudek" target="O Khatib">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Dudek" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tie Hu" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Xiaohua Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Illhoi Yoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Il-Yeol Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Ari D. Brooks">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Hyoil Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary Friedman" target="Ari D. Brooks">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary Friedman" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug L. James" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug L. James" target="Theodore Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doug L. James" target="Zhan Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antoine Ferreira" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="O Khatib" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="O Khatib" target="Vijay Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Theodore Kim" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Theodore Kim" target="Zhan Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Maxim Pekarev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Yoo Myung Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Il-Yeol Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Hyoil Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Xiaohua Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Illhoi Yoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ari D. Brooks" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vijay Kumar" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoil Han" target="Illhoi Yoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoil Han" target="Il-Yeol Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoil Han" target="Yoo Myung Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoil Han" target="Xiaohua Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rao P. Gullapalli" target="Jaydev P. Desai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaohua Zhou" target="Il-Yeol Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaohua Zhou" target="Yoo Myung Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jaydev P. Desai" target="Maxim Pekarev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jaydev P. Desai" target="Zhan Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Il-Yeol Song" target="Yoo Myung Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Il-Yeol Song" target="Illhoi Yoo">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="G. Franks">
+      <data key="affiliation">RealTime and Distributed Systems Group, Dept. of Systems and Computer Eng., Carleton Univ., Ottawa, Ontario, CANADA,K1S 5B6</data>
+      <data key="research">performance model, layered performance model, model-based performance evaluation</data>
+    </node>
+    <node id="Thomas Phillips">
+      <data key="affiliation">Computer Science and Engineering, 107 Dunstan Hall, Auburn University, AL</data>
+      <data key="research">system performance, Throughput efficiency, enhanced link management procedureBaratz</data>
+    </node>
+    <node id="Biswajit Nandy">
+      <data key="affiliation">Solana Networks, Ottawa, Canada</data>
+      <data key="research">IP network, network congestion, network stability</data>
+    </node>
+    <node id="Ming Huo">
+      <data key="affiliation">National ICT Australia</data>
+      <data key="research">planned process model, software process improvement, planned software process</data>
+    </node>
+    <node id="Vineet Srivastava">
+      <data key="affiliation">Cistech Limited, Ottawa, ON, Canada</data>
+      <data key="research">network overhead, DTN node, new protocol</data>
+    </node>
+    <node id="J. E. Neilson">
+      <data key="affiliation">Carleton Univ., Ottawa, Ont., Canada</data>
+      <data key="research">client-server system, software bottleneck, analytic performance model</data>
+    </node>
+    <node id="J. H. Cross, II">
+      <data key="affiliation">Auburn Univ., Auburn, AL</data>
+      <data key="research">data structure, source code, automatic generation</data>
+    </node>
+    <node id="Yang Cao">
+      <data key="affiliation">School of Informatics, University of Edinburgh/ Big Data Research Center and SKLSDE Lab, Beihang University, Beijing, China</data>
+      <data key="research">relative accuracy, accuracy rule, accurate value</data>
+    </node>
+    <node id="Mohammed Asif">
+      <data key="affiliation">Norwegian University of Science and Technology, Trondheim, Norway</data>
+      <data key="research">location-based service, mobile device, web service</data>
+    </node>
+    <node id="Abdolreza Abhari">
+      <data key="affiliation">Ryerson University Toronto, Ontario, Canada</data>
+      <data key="research">Web object, web page, Web object member</data>
+    </node>
+    <node id="S. Majumdar">
+      <data key="affiliation">Nan</data>
+      <data key="research">cancellous bone, bone specimen, bone strength andbiomechanical property</data>
+    </node>
+    <node id="Eric W. Parsons">
+      <data key="affiliation">Carleton University, Ottawa, ON, Canada</data>
+      <data key="research">mobile domain, semi-durable subscription, system performance</data>
+    </node>
+    <node id="C. Ward">
+      <data key="affiliation">Nan</data>
+      <data key="research">multimedia presentation, multimedia material, multimedia projectionsVarious problem</data>
+    </node>
+    <node id="S Nanda">
+      <data key="affiliation">University of New England, Australia and North Orissa University, India</data>
+      <data key="research">fuzzy mapping, fuzzy random variable, fuzzy shadow</data>
+    </node>
+    <node id="Richard B. Bunt">
+      <data key="affiliation">Gen. Chairman</data>
+      <data key="research">mobile host, DCE RPC performance, performance study</data>
+    </node>
+    <node id="Peter Ashwood-Smith">
+      <data key="affiliation">Huawei Technologies Canada, Kanata, ON, Canada</data>
+      <data key="research">traffic engineering, data center, Shortest path</data>
+    </node>
+    <node id="Andres Laib">
+      <data key="affiliation">Nan</data>
+      <data key="research">bone microarchitecture, cancellous bone, bone density</data>
+    </node>
+    <node id="Robert Gillespie">
+      <data key="affiliation">Department of Systems and Computer Engineering Carleton University, Ottawa, Ontario, Canada</data>
+      <data key="research">data center, large layer, core data structure technology</data>
+    </node>
+    <node id="Vittorio Cortellessa">
+      <data key="affiliation">Dipartimento di Informatica, Università dell'quila, Coppito, AQ, Italy</data>
+      <data key="research">performance analysis, performance model, performance antipatterns</data>
+    </node>
+    <node id="Daniel Yankelevich">
+      <data key="affiliation">(Research performed in part while the author was at Univ. di Pisa and HewlettPackard, PSC. The author is supported by NSF Grant CCR9014775) North Carolina State University, Dept. of Computer Sci ...</data>
+      <data key="research">international workshop, Petri net, process algebra</data>
+    </node>
+    <edge source="G. Franks" target="J. E. Neilson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Franks" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Phillips" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Phillips" target="C. Ward">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Phillips" target="J. H. Cross, II">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Biswajit Nandy" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Biswajit Nandy" target="Mohammed Asif">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Biswajit Nandy" target="Peter Ashwood-Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Huo" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vineet Srivastava" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. E. Neilson" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Cao" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohammed Asif" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Abdolreza Abhari" target="S. Majumdar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Richard B. Bunt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Eric W. Parsons">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Andres Laib">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Robert Gillespie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Vittorio Cortellessa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Daniel Yankelevich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="S Nanda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Majumdar" target="Peter Ashwood-Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Ashwood-Smith" target="Robert Gillespie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vittorio Cortellessa" target="Daniel Yankelevich">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

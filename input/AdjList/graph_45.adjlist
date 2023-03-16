@@ -1,53 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:59 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Chi-Hwa Song	5
-Won Don Lee	{'relation': 'collaborate'}
-Tae-Hyoung Kim	{'relation': 'collaborate'}
-Jae-Cheol Ryou	{'relation': 'collaborate'}
-Jung Min Kong	{'relation': 'collaborate'}
-Jun Wu	{'relation': 'collaborate'}
-Kyu-Ha Song	3
-Won Don Lee	{'relation': 'collaborate'}
-Jin-Woo Han	{'relation': 'collaborate'}
-Dong-Weon Lee	{'relation': 'collaborate'}
-Jin-Woo Han	2
-Won Don Lee	{'relation': 'collaborate'}
-Dong-Weon Lee	{'relation': 'collaborate'}
-Won Don Lee	8
-Jung Min Kong	{'relation': 'collaborate'}
-Tae-Hyoung Kim	{'relation': 'collaborate'}
-Dong-Weon Lee	{'relation': 'collaborate'}
-Jae-Cheol Ryou	{'relation': 'collaborate'}
-Yang Wei	{'relation': 'collaborate'}
-Jun Wu	{'relation': 'collaborate'}
-Mun-Sung Han	{'relation': 'collaborate'}
-Sung Yong Kim	{'relation': 'collaborate'}
-Guoqing Zhou	1
-Jun Wu	{'relation': 'collaborate'}
-Dong-Weon Lee	0
-M. Rabby	1
-Jun Wu	{'relation': 'collaborate'}
-Hong Liang	1
-Jun Wu	{'relation': 'collaborate'}
-Yang Wei	0
-Jung Min Kong	1
-Jun Wu	{'relation': 'collaborate'}
-Jae-Cheol Ryou	1
-Tae-Hyoung Kim	{'relation': 'collaborate'}
-Tae-Hyoung Kim	0
-Sung Yong Kim	0
-Mun-Sung Han	0
-Xingshen Wu	1
-Jun Wu	{'relation': 'collaborate'}
-Jian Yang	2
-Jun Wu	{'relation': 'collaborate'}
-Jian Yang	{'relation': 'collaborate'}
-Jun Wang	1
-Jun Wu	{'relation': 'collaborate'}
-Jun Wu	2
-Jian Lu	{'relation': 'collaborate'}
-Pei-Lun Suei	{'relation': 'collaborate'}
-Pei-Lun Suei	0
-Jian Lu	1
-Jian Lu	{'relation': 'collaborate'}
+Xingshen Wu	Jun Wu
+Jin-Woo Han	Won Don Lee	Dong-Weon Lee	Kyu-Ha Song
+Jian Lu	Jun Wu	Jian Lu
+Won Don Lee	Jung Min Kong	Tae-Hyoung Kim	Dong-Weon Lee	Jae-Cheol Ryou	Chi-Hwa Song	Yang Wei	Jun Wu	Mun-Sung Han	Kyu-Ha Song	Sung Yong Kim
+Yang Wei
+Tae-Hyoung Kim	Jae-Cheol Ryou	Chi-Hwa Song
+Sung Yong Kim
+Pei-Lun Suei	Jun Wu
+Dong-Weon Lee	Kyu-Ha Song
+Guoqing Zhou	Jun Wu
+Jae-Cheol Ryou	Chi-Hwa Song
+Jung Min Kong	Chi-Hwa Song	Jun Wu
+Jun Wu	Hong Liang	Jian Yang	M. Rabby	Jun Wang	Chi-Hwa Song
+M. Rabby
+Hong Liang
+Mun-Sung Han
+Jun Wang
+Chi-Hwa Song
+Jian Yang	Jian Yang
+Kyu-Ha Song

@@ -1,65 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:09 2023
 # 
-Peter Kopacek	1
-C. E. Pedreira	{'relation': 'collaborate'}
-Tony Larsson	4
-C. E. Pedreira	{'relation': 'collaborate'}
-Flávio R. Wagner	{'relation': 'collaborate'}
-Ivan Müller	{'relation': 'collaborate'}
-Luigi Carro	{'relation': 'collaborate'}
-Marcio F.  da S. Oliveira	5
-C. E. Pedreira	{'relation': 'collaborate'}
-L. Carro	{'relation': 'collaborate'}
-Flávio R. Wagner	{'relation': 'collaborate'}
-Lisane Brisolara	{'relation': 'collaborate'}
-Franz J. Rammig	{'relation': 'collaborate'}
-Bran Selic	3
-K. Nilsen	{'relation': 'collaborate'}
-C. E. Pedreira	{'relation': 'collaborate'}
-Douglas Schmidt	{'relation': 'collaborate'}
-Douglas Schmidt	2
-C. E. Pedreira	{'relation': 'collaborate'}
-K. Nilsen	{'relation': 'collaborate'}
-A. H. Frigeri	1
-C. E. Pedreira	{'relation': 'collaborate'}
-Y. Zorian	4
-Paolo Prinetto	{'relation': 'collaborate'}
-C. E. Pedreira	{'relation': 'collaborate'}
-Octávio P. Dias	{'relation': 'collaborate'}
-I. C. Teixeira	{'relation': 'collaborate'}
-Luigi Carro	2
-C. E. Pedreira	{'relation': 'collaborate'}
-Flávio R. Wagner	{'relation': 'collaborate'}
-Paolo Prinetto	3
-Octávio P. Dias	{'relation': 'collaborate'}
-C. E. Pedreira	{'relation': 'collaborate'}
-I. C. Teixeira	{'relation': 'collaborate'}
-Ricardo J. Machado	2
-C. E. Pedreira	{'relation': 'collaborate'}
-Flávio R. Wagner	{'relation': 'collaborate'}
-C. E. Pedreira	9
-Lisane Brisolara	{'relation': 'collaborate'}
-Franz J. Rammig	{'relation': 'collaborate'}
-Flávio R. Wagner	{'relation': 'collaborate'}
-I. C. Teixeira	{'relation': 'collaborate'}
-Danúbia B. Espíndola	{'relation': 'collaborate'}
-K. Nilsen	{'relation': 'collaborate'}
-Octávio P. Dias	{'relation': 'collaborate'}
-L. Carro	{'relation': 'collaborate'}
-Ivan Müller	{'relation': 'collaborate'}
-K. Nilsen	0
-L. Carro	3
-Flávio R. Wagner	{'relation': 'collaborate'}
-Lisane Brisolara	{'relation': 'collaborate'}
-Franz J. Rammig	{'relation': 'collaborate'}
-Lisane Brisolara	1
-Flávio R. Wagner	{'relation': 'collaborate'}
-Danúbia B. Espíndola	0
-I. C. Teixeira	1
-Octávio P. Dias	{'relation': 'collaborate'}
-Octávio P. Dias	0
-Flávio R. Wagner	1
-Franz J. Rammig	{'relation': 'collaborate'}
-Franz J. Rammig	0
-Ivan Müller	0
+Luigi Carro	C. E. Pedreira	Tony Larsson	Flávio R. Wagner
+Paolo Prinetto	Y. Zorian	Octávio P. Dias	C. E. Pedreira	I. C. Teixeira
+Ricardo J. Machado	C. E. Pedreira	Flávio R. Wagner
+C. E. Pedreira	Douglas Schmidt	Lisane Brisolara	Franz J. Rammig	Flávio R. Wagner	I. C. Teixeira	Peter Kopacek	Marcio F.  da S. Oliveira	Tony Larsson	Danúbia B. Espíndola	A. H. Frigeri	K. Nilsen	Octávio P. Dias	L. Carro	Bran Selic	Y. Zorian	Ivan Müller
+Franz J. Rammig	Flávio R. Wagner	Marcio F.  da S. Oliveira	L. Carro
+Bran Selic	K. Nilsen	Douglas Schmidt
+A. H. Frigeri
+Octávio P. Dias	Y. Zorian	I. C. Teixeira
+Lisane Brisolara	L. Carro	Flávio R. Wagner	Marcio F.  da S. Oliveira
+L. Carro	Flávio R. Wagner	Marcio F.  da S. Oliveira
+I. C. Teixeira	Y. Zorian
+Tony Larsson	Flávio R. Wagner	Ivan Müller
+Douglas Schmidt	K. Nilsen
+Flávio R. Wagner	Marcio F.  da S. Oliveira
+Marcio F.  da S. Oliveira
+Ivan Müller
+K. Nilsen
+Danúbia B. Espíndola
+Peter Kopacek
+Y. Zorian

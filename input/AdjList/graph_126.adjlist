@@ -1,62 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:12 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:20 2023
 # 
-Lisa Neal	11
-David R. Kaufman	{'relation': 'collaborate'}
-Derek L. Hansen	{'relation': 'collaborate'}
-Diane Miller	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Clark N. Quinn	{'relation': 'collaborate'}
-Gitte Lindgaard	{'relation': 'collaborate'}
-Saul Carliner	{'relation': 'collaborate'}
-Mark Notess	{'relation': 'collaborate'}
-Jenny Preece	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Yvonne Waern	{'relation': 'collaborate'}
-Diane Miller	0
-L. Plowman	3
-Rosemary Luckin	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Josie Taylor	{'relation': 'collaborate'}
-Mark Notess	0
-Rosemary Luckin	2
-Josie Taylor	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Maria Grigoriadou	4
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-George D. Magoulas	{'relation': 'collaborate'}
-Patricia Charlton	{'relation': 'collaborate'}
-Diana Laurillard	{'relation': 'collaborate'}
-Diana Laurillard	8
-George D. Magoulas	{'relation': 'collaborate'}
-Patricia Charlton	{'relation': 'collaborate'}
-Yvonne Waern	{'relation': 'collaborate'}
-Giorgio Marullo	{'relation': 'collaborate'}
-Jenny Preece	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-Josie Taylor	{'relation': 'collaborate'}
-Patricia Charlton	2
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-George D. Magoulas	{'relation': 'collaborate'}
-Gitte Lindgaard	2
-Derek L. Hansen	{'relation': 'collaborate'}
-David R. Kaufman	{'relation': 'collaborate'}
-George D. Magoulas	2
-George D. Magoulas	{'relation': 'collaborate'}
-Kyparisia A. Papanikolaou	{'relation': 'collaborate'}
-Josie Taylor	0
-Clark N. Quinn	0
-David R. Kaufman	0
-Saul Carliner	0
-Derek L. Hansen	2
-Jenny Preece	{'relation': 'collaborate'}
-Ben Shneiderman	{'relation': 'collaborate'}
-Kyparisia A. Papanikolaou	0
-Jenny Preece	2
-Ben Shneiderman	{'relation': 'collaborate'}
-Yvonne Waern	{'relation': 'collaborate'}
-Yvonne Waern	1
-Ben Shneiderman	{'relation': 'collaborate'}
-Ben Shneiderman	0
-Giorgio Marullo	0
+Kyparisia A. Papanikolaou	Maria Grigoriadou	Patricia Charlton	George D. Magoulas	Diana Laurillard
+Saul Carliner	Lisa Neal
+Maria Grigoriadou	George D. Magoulas	Patricia Charlton	Diana Laurillard
+Lisa Neal	David R. Kaufman	Derek L. Hansen	Diane Miller	Diana Laurillard	Clark N. Quinn	Gitte Lindgaard	Mark Notess	Jenny Preece	Ben Shneiderman	Yvonne Waern
+Josie Taylor	Rosemary Luckin	L. Plowman	Diana Laurillard
+Derek L. Hansen	Gitte Lindgaard	Jenny Preece	Ben Shneiderman
+Rosemary Luckin	L. Plowman	Diana Laurillard
+Jenny Preece	Diana Laurillard	Ben Shneiderman	Yvonne Waern
+Gitte Lindgaard	David R. Kaufman
+Clark N. Quinn
+David R. Kaufman
+Diana Laurillard	George D. Magoulas	Patricia Charlton	Yvonne Waern	L. Plowman	Giorgio Marullo	Ben Shneiderman
+Ben Shneiderman	Yvonne Waern
+Giorgio Marullo
+Mark Notess
+Yvonne Waern
+George D. Magoulas	George D. Magoulas	Patricia Charlton
+L. Plowman
+Diane Miller
+Patricia Charlton

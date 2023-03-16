@@ -1,35 +1,35 @@
-Thomas Mirlacher	Regina Bernhaupt	{'relation': 'collaborate'}
-Thomas Mirlacher	Philipe Palanque	{'relation': 'collaborate'}
-Thomas Mirlacher	Andreas Boldt	{'relation': 'collaborate'}
-Thomas Mirlacher	Manfred Tscheligi	{'relation': 'collaborate'}
 Manuel Will	Regina Bernhaupt	{'relation': 'collaborate'}
 Marianna Obrist	Manfred Tscheligi	{'relation': 'collaborate'}
 Marianna Obrist	Regina Bernhaupt	{'relation': 'collaborate'}
-Ben A. M. Schouten	Regina Bernhaupt	{'relation': 'collaborate'}
-Ben A. M. Schouten	Florian Mueller	{'relation': 'collaborate'}
-Ronald L. Boring	Regina Bernhaupt	{'relation': 'collaborate'}
-Ronald L. Boring	Sandra Basnyat	{'relation': 'collaborate'}
-Jan Gulliksen	Regina Bernhaupt	{'relation': 'collaborate'}
-Jan Gulliksen	J L Wesson	{'relation': 'collaborate'}
-Jan Gulliksen	Ebba Thora Hvannberg	{'relation': 'collaborate'}
-Cédric Bach	Regina Bernhaupt	{'relation': 'collaborate'}
+Daniel Cook	Regina Bernhaupt	{'relation': 'collaborate'}
+Daniel Cook	Katherine Isbister	{'relation': 'collaborate'}
+Ebba Thora Hvannberg	Regina Bernhaupt	{'relation': 'collaborate'}
+Ebba Thora Hvannberg	Jan Gulliksen	{'relation': 'collaborate'}
 Katherine Isbister	Regina Bernhaupt	{'relation': 'collaborate'}
 Katherine Isbister	Licia Calvi	{'relation': 'collaborate'}
 Katherine Isbister	Florian Mueller	{'relation': 'collaborate'}
-Katherine Isbister	Daniel Cook	{'relation': 'collaborate'}
-Dennis Wixon	Regina Bernhaupt	{'relation': 'collaborate'}
-Dennis Wixon	Manfred Tscheligi	{'relation': 'collaborate'}
-Dennis Wixon	Florian Mueller	{'relation': 'collaborate'}
-Sandra Basnyat	Regina Bernhaupt	{'relation': 'collaborate'}
-Manfred Tscheligi	Newton Lee	{'relation': 'collaborate'}
-Manfred Tscheligi	Regina Bernhaupt	{'relation': 'collaborate'}
-Manfred Tscheligi	Andreas Boldt	{'relation': 'collaborate'}
-Manfred Tscheligi	Florian Mueller	{'relation': 'collaborate'}
 Licia Calvi	Regina Bernhaupt	{'relation': 'collaborate'}
+Florian Mueller	Regina Bernhaupt	{'relation': 'collaborate'}
+Florian Mueller	Ben A. M. Schouten	{'relation': 'collaborate'}
+Florian Mueller	Dennis Wixon	{'relation': 'collaborate'}
+Florian Mueller	Manfred Tscheligi	{'relation': 'collaborate'}
+Newton Lee	Manfred Tscheligi	{'relation': 'collaborate'}
 Newton Lee	Regina Bernhaupt	{'relation': 'collaborate'}
-Andreas Boldt	Regina Bernhaupt	{'relation': 'collaborate'}
-Ebba Thora Hvannberg	Regina Bernhaupt	{'relation': 'collaborate'}
-Philipe Palanque	Regina Bernhaupt	{'relation': 'collaborate'}
-Daniel Cook	Regina Bernhaupt	{'relation': 'collaborate'}
-Regina Bernhaupt	Florian Mueller	{'relation': 'collaborate'}
+Ben A. M. Schouten	Regina Bernhaupt	{'relation': 'collaborate'}
+Regina Bernhaupt	Cédric Bach	{'relation': 'collaborate'}
+Regina Bernhaupt	Philipe Palanque	{'relation': 'collaborate'}
+Regina Bernhaupt	Andreas Boldt	{'relation': 'collaborate'}
+Regina Bernhaupt	Ronald L. Boring	{'relation': 'collaborate'}
+Regina Bernhaupt	Sandra Basnyat	{'relation': 'collaborate'}
+Regina Bernhaupt	Thomas Mirlacher	{'relation': 'collaborate'}
+Regina Bernhaupt	Manfred Tscheligi	{'relation': 'collaborate'}
 Regina Bernhaupt	J L Wesson	{'relation': 'collaborate'}
+Regina Bernhaupt	Dennis Wixon	{'relation': 'collaborate'}
+Regina Bernhaupt	Jan Gulliksen	{'relation': 'collaborate'}
+J L Wesson	Jan Gulliksen	{'relation': 'collaborate'}
+Andreas Boldt	Thomas Mirlacher	{'relation': 'collaborate'}
+Andreas Boldt	Manfred Tscheligi	{'relation': 'collaborate'}
+Ronald L. Boring	Sandra Basnyat	{'relation': 'collaborate'}
+Thomas Mirlacher	Philipe Palanque	{'relation': 'collaborate'}
+Thomas Mirlacher	Manfred Tscheligi	{'relation': 'collaborate'}
+Dennis Wixon	Manfred Tscheligi	{'relation': 'collaborate'}

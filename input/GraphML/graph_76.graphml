@@ -4,129 +4,99 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Weiqi Wang">
-      <data key="affiliation">Fudan University, China</data>
-      <data key="research">cardiac catheterization, cardiovascular disease, Coronary Microcirculatory Dysfunction</data>
-    </node>
-    <node id="K. Hashtrudi-Zaad">
-      <data key="affiliation">Department of Electrical and Computer Engineering, Queen's University, Kingston, ON, Canada</data>
-      <data key="research">virtual environment, environment contact force, environment dynamic</data>
-    </node>
-    <node id="Daniela Constantinescu">
-      <data key="affiliation">University of British Columbia, Vancouver, Canada</data>
-      <data key="research">virtual object, remote dynamic proxy, haptic device</data>
-    </node>
-    <node id="Michael C. Yip">
-      <data key="affiliation">Department of Bioengineering, Stanford University, CA, United States</data>
-      <data key="research">air-tissue boundary, ultrasound fiducials, average TRE</data>
-    </node>
-    <node id="Xu Wen">
+    <node id="Joseph Yan">
       <data key="affiliation">Department of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada</data>
-      <data key="research">needle-tissue interaction, Prostate Region, needle base force</data>
-    </node>
-    <node id="James Morris">
-      <data key="affiliation">Nan</data>
-      <data key="research">Linux kernel, kernel korner, NSA security-enhanced LinuxSELinux</data>
-    </node>
-    <node id="Mahdi Ramezani">
-      <data key="affiliation">Robotics and Control Laboratory, Department of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada</data>
-      <data key="research">N channel, antenna selection, coding gain</data>
-    </node>
-    <node id="S. E. Salcudean">
-      <data key="affiliation">Nan</data>
-      <data key="research">impulsive force, increased contact stiffness, new contact</data>
-    </node>
-    <node id="S. G. Deshmukh">
-      <data key="affiliation">Indian Institute of Technology, Bombay, India</data>
-      <data key="research">supply chain, agile supply chain, semiconductor industry supply chain</data>
-    </node>
-    <node id="Mehdi Moradi">
-      <data key="affiliation">Electrical and Computer Engineering Department, Faculty of Engineering, University of Tehran, Tehran, Iran</data>
-      <data key="research">RF time series, tissue typing, time series</data>
-    </node>
-    <node id="Elizabeth A. Croft">
-      <data key="affiliation">Department of Mechanical Engineering, University of British Columbia, Vancouver, Canada</data>
-      <data key="research">affective state, human-robot interaction, virtual tool</data>
-    </node>
-    <node id="J M Varah">
-      <data key="affiliation">University of British Columbia, Vancouver, B. C., Canada</data>
-      <data key="research">numerical example, associated iteration matrix, condition number</data>
-    </node>
-    <node id="P. Abolmaesumi">
-      <data key="affiliation">University of British Columbia, Canada</data>
-      <data key="research">ultrasound image, target registration error, intra-operative ultrasound</data>
+      <data key="research">fluid pocket, elastic body, iterative solver</data>
     </node>
     <node id="G. Bell">
       <data key="affiliation">Ardent Computer Corp., Sunnyvale, CA</data>
       <data key="research">Connection Machine, circuit technology power gain, computer science community</data>
     </node>
-    <node id="Pascal Fallavollita">
-      <data key="affiliation">Technische Universität München, Munich, Germany</data>
-      <data key="research">X-ray image, fluoroscopy image, prostate brachytherapy</data>
-    </node>
     <node id="Andrew H. Gosline">
       <data key="affiliation">Children's Hospital Boston, Harvard Medical School, Boston, USA</data>
       <data key="research">haptic interface, elastic component, eddy current brake</data>
+    </node>
+    <node id="S. E. Salcudean">
+      <data key="affiliation">Nan</data>
+      <data key="research">impulsive force, increased contact stiffness, new contact</data>
+    </node>
+    <node id="Michael C. Yip">
+      <data key="affiliation">Department of Bioengineering, Stanford University, CA, United States</data>
+      <data key="research">air-tissue boundary, ultrasound fiducials, average TRE</data>
     </node>
     <node id="Omid Mohareri">
       <data key="affiliation">Electrical and Computer Engineering Department, University of British Columbia, Vancouver, Canada</data>
       <data key="research">da Vinci tool, TRUS data, TRUS probe</data>
     </node>
-    <node id="Joseph Yan">
-      <data key="affiliation">Department of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada</data>
-      <data key="research">fluid pocket, elastic body, iterative solver</data>
+    <node id="Mahdi Ramezani">
+      <data key="affiliation">Robotics and Control Laboratory, Department of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada</data>
+      <data key="research">N channel, antenna selection, coding gain</data>
+    </node>
+    <node id="Pascal Fallavollita">
+      <data key="affiliation">Technische Universität München, Munich, Germany</data>
+      <data key="research">X-ray image, fluoroscopy image, prostate brachytherapy</data>
+    </node>
+    <node id="S. G. Deshmukh">
+      <data key="affiliation">Indian Institute of Technology, Bombay, India</data>
+      <data key="research">supply chain, agile supply chain, semiconductor industry supply chain</data>
+    </node>
+    <node id="Daniela Constantinescu">
+      <data key="affiliation">University of British Columbia, Vancouver, Canada</data>
+      <data key="research">virtual object, remote dynamic proxy, haptic device</data>
+    </node>
+    <node id="J M Varah">
+      <data key="affiliation">University of British Columbia, Vancouver, B. C., Canada</data>
+      <data key="research">numerical example, associated iteration matrix, condition number</data>
+    </node>
+    <node id="Weiqi Wang">
+      <data key="affiliation">Fudan University, China</data>
+      <data key="research">cardiac catheterization, cardiovascular disease, Coronary Microcirculatory Dysfunction</data>
     </node>
     <node id="Claude Reboulet">
       <data key="affiliation">ONERACERTSUPAERO Département d'automatique, 2 avenue Edouard Belin, BP 402531055 Toulouse cedex 4, France. Email: leguay@cert.fr – reboulet@cert.fr</data>
       <data key="research">actuator redundancy, Excavation TrajectoriesAn excavator simulator, excavator arm</data>
     </node>
+    <node id="P. Abolmaesumi">
+      <data key="affiliation">University of British Columbia, Canada</data>
+      <data key="research">ultrasound image, target registration error, intra-operative ultrasound</data>
+    </node>
+    <node id="Xu Wen">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada</data>
+      <data key="research">needle-tissue interaction, Prostate Region, needle base force</data>
+    </node>
     <node id="E. A. Croft">
       <data key="affiliation">Nan</data>
       <data key="research">impulsive force, increased contact stiffness, new contact</data>
     </node>
-    <edge source="Weiqi Wang" target="S. E. Salcudean">
+    <node id="Elizabeth A. Croft">
+      <data key="affiliation">Department of Mechanical Engineering, University of British Columbia, Vancouver, Canada</data>
+      <data key="research">affective state, human-robot interaction, virtual tool</data>
+    </node>
+    <node id="K. Hashtrudi-Zaad">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Queen's University, Kingston, ON, Canada</data>
+      <data key="research">virtual environment, environment contact force, environment dynamic</data>
+    </node>
+    <node id="James Morris">
+      <data key="affiliation">Nan</data>
+      <data key="research">Linux kernel, kernel korner, NSA security-enhanced LinuxSELinux</data>
+    </node>
+    <node id="Mehdi Moradi">
+      <data key="affiliation">Electrical and Computer Engineering Department, Faculty of Engineering, University of Tehran, Tehran, Iran</data>
+      <data key="research">RF time series, tissue typing, time series</data>
+    </node>
+    <edge source="Joseph Yan" target="S. E. Salcudean">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="K. Hashtrudi-Zaad" target="S. E. Salcudean">
+    <edge source="Joseph Yan" target="Andrew H. Gosline">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="K. Hashtrudi-Zaad" target="Claude Reboulet">
+    <edge source="G. Bell" target="S. E. Salcudean">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="K. Hashtrudi-Zaad" target="P. Abolmaesumi">
+    <edge source="G. Bell" target="P. Abolmaesumi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Daniela Constantinescu" target="S. E. Salcudean">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Daniela Constantinescu" target="E. A. Croft">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Daniela Constantinescu" target="Elizabeth A. Croft">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michael C. Yip" target="S. E. Salcudean">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Michael C. Yip" target="Omid Mohareri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Xu Wen" target="Mehdi Moradi">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Xu Wen" target="S. E. Salcudean">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="James Morris" target="S. E. Salcudean">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mahdi Ramezani" target="S. E. Salcudean">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mahdi Ramezani" target="Omid Mohareri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Mahdi Ramezani" target="P. Abolmaesumi">
+    <edge source="Andrew H. Gosline" target="S. E. Salcudean">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S. E. Salcudean" target="J M Varah">
@@ -135,52 +105,82 @@
     <edge source="S. E. Salcudean" target="Elizabeth A. Croft">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="S. E. Salcudean" target="Xu Wen">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="S. E. Salcudean" target="Omid Mohareri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. E. Salcudean" target="Mahdi Ramezani">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S. E. Salcudean" target="E. A. Croft">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="S. E. Salcudean" target="Daniela Constantinescu">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="S. E. Salcudean" target="Claude Reboulet">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. E. Salcudean" target="G. Bell">
+    <edge source="S. E. Salcudean" target="James Morris">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S. E. Salcudean" target="S. G. Deshmukh">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. E. Salcudean" target="P. Abolmaesumi">
+    <edge source="S. E. Salcudean" target="K. Hashtrudi-Zaad">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. E. Salcudean" target="Joseph Yan">
+    <edge source="S. E. Salcudean" target="P. Abolmaesumi">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S. E. Salcudean" target="Pascal Fallavollita">
       <data key="relation">collaborate</data>
     </edge>
+    <edge source="S. E. Salcudean" target="Weiqi Wang">
+      <data key="relation">collaborate</data>
+    </edge>
     <edge source="S. E. Salcudean" target="Mehdi Moradi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="S. E. Salcudean" target="Andrew H. Gosline">
+    <edge source="S. E. Salcudean" target="Michael C. Yip">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael C. Yip" target="Omid Mohareri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Omid Mohareri" target="P. Abolmaesumi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Omid Mohareri" target="Mahdi Ramezani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mahdi Ramezani" target="P. Abolmaesumi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pascal Fallavollita" target="P. Abolmaesumi">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="S. G. Deshmukh" target="Mehdi Moradi">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Mehdi Moradi" target="P. Abolmaesumi">
+    <edge source="Daniela Constantinescu" target="E. A. Croft">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Abolmaesumi" target="Omid Mohareri">
+    <edge source="Daniela Constantinescu" target="Elizabeth A. Croft">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Abolmaesumi" target="G. Bell">
+    <edge source="Claude Reboulet" target="K. Hashtrudi-Zaad">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="P. Abolmaesumi" target="Pascal Fallavollita">
+    <edge source="P. Abolmaesumi" target="K. Hashtrudi-Zaad">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Andrew H. Gosline" target="Joseph Yan">
+    <edge source="P. Abolmaesumi" target="Mehdi Moradi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Wen" target="Mehdi Moradi">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

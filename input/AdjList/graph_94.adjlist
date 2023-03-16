@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:06 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:13 2023
 # 
-Carine Hue	3
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Marc Boulle	{'relation': 'collaborate'}
-O. Trémois	1
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-Emmanuel Veneau	2
-P Bouthemy	{'relation': 'collaborate'}
-Rémi Ronfard	{'relation': 'collaborate'}
-Nicolas Papadakis	4
-Alexandre Hervieu	{'relation': 'collaborate'}
-Aurélie Bugeau	{'relation': 'collaborate'}
-V. Caselles	{'relation': 'collaborate'}
-Pau Gargallo	{'relation': 'collaborate'}
-Éric Anquetil	2
-Frédéric Dambreville	{'relation': 'collaborate'}
-Bertrand Coüasnon	{'relation': 'collaborate'}
-Aurélie Bugeau	4
-V. Caselles	{'relation': 'collaborate'}
-Alexandre Hervieu	{'relation': 'collaborate'}
-P. Perez	{'relation': 'collaborate'}
-Pau Gargallo	{'relation': 'collaborate'}
-Rémi Ronfard	1
-P Bouthemy	{'relation': 'collaborate'}
-A. Chessel	1
-P Bouthemy	{'relation': 'collaborate'}
-Roger Mohr	1
-P Bouthemy	{'relation': 'collaborate'}
-P. Perez	3
-P Bouthemy	{'relation': 'collaborate'}
-Jean-Pierre Le Cadre	{'relation': 'collaborate'}
-R. Venkatehs Babu	{'relation': 'collaborate'}
-Jean-Pierre Le Cadre	3
-Frédéric Dambreville	{'relation': 'collaborate'}
-Alexandre Hervieu	{'relation': 'collaborate'}
-P Bouthemy	{'relation': 'collaborate'}
-Alexandre Hervieu	3
-Pau Gargallo	{'relation': 'collaborate'}
-P Bouthemy	{'relation': 'collaborate'}
-V. Caselles	{'relation': 'collaborate'}
-Pau Gargallo	1
-V. Caselles	{'relation': 'collaborate'}
-Bertrand Coüasnon	1
-Frédéric Dambreville	{'relation': 'collaborate'}
-Frédéric Dambreville	0
-Alain Lehmann	1
-P Bouthemy	{'relation': 'collaborate'}
-V. Caselles	0
-R. Venkatehs Babu	1
-P Bouthemy	{'relation': 'collaborate'}
-P Bouthemy	0
-Marc Boulle	0
+A. Chessel	P Bouthemy
+Nicolas Papadakis	Alexandre Hervieu	Aurélie Bugeau	V. Caselles	Pau Gargallo
+Éric Anquetil	Frédéric Dambreville	Bertrand Coüasnon
+P Bouthemy	Alain Lehmann	Emmanuel Veneau	Rémi Ronfard	Roger Mohr	R. Venkatehs Babu	P. Perez	Jean-Pierre Le Cadre	Alexandre Hervieu
+Marc Boulle	Carine Hue
+O. Trémois	Jean-Pierre Le Cadre
+Alain Lehmann
+Carine Hue	Jean-Pierre Le Cadre	P. Perez
+Jean-Pierre Le Cadre	Frédéric Dambreville	Alexandre Hervieu	P. Perez
+Alexandre Hervieu	Pau Gargallo	Aurélie Bugeau	V. Caselles
+Rémi Ronfard	Emmanuel Veneau
+V. Caselles	Aurélie Bugeau	Pau Gargallo
+Roger Mohr
+P. Perez	Aurélie Bugeau	R. Venkatehs Babu
+Pau Gargallo	Aurélie Bugeau
+Aurélie Bugeau
+Frédéric Dambreville	Bertrand Coüasnon
+R. Venkatehs Babu
+Bertrand Coüasnon
+Emmanuel Veneau

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sanjeev Garg">
+      <data key="affiliation">Nan</data>
+      <data key="research">systems engineering approach</data>
+    </node>
+    <node id="Shirish Nagaraj">
+      <data key="affiliation">Home and Networks Mobility, Motorola, Inc., Arlington Heights, IL</data>
+      <data key="research">control channel, channel estimation, channel quality information</data>
+    </node>
+    <node id="Meng Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Contamination Deposition Characteristics, Nonlinear Resistive LoadsNA, Pulse Forming Network</data>
+    </node>
+    <node id="Tianxu Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">image segmentation approach, visual nonlinearity</data>
+    </node>
+    <node id="Fei Fang">
+      <data key="affiliation">Nan</data>
+      <data key="research">direct interference alignment scheme, interference alignment, interference channel</data>
+    </node>
+    <node id="Wen Chan">
+      <data key="affiliation">Fudan University, Shanghai, China</data>
+      <data key="research">group L1 regularization, state-of-the-art method, experimental result</data>
+    </node>
+    <node id="Nan Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Intrusion Tolerance, ER network, SF network</data>
+    </node>
+    <node id="Daewook Lee">
+      <data key="affiliation">Department of Computer Science and Engineering, Sogang University, Seoul 121742, Republic of Korea</data>
+      <data key="research">candidate composition, Non-redundant web services composition, web services composition</data>
+    </node>
+    <node id="Zhenying He">
+      <data key="affiliation">School of Computer Science, Fudan University, Shanghai, China</data>
+      <data key="research">clustering solution, cluster ensemble method, cluster ensemble problem</data>
+    </node>
+    <node id="Jintao Du">
+      <data key="affiliation">Fudan University, Shanghai, China</data>
+      <data key="research">automatic classification, hierarchical classification framework, hierarchical kernelized classification model</data>
+    </node>
+    <node id="Zeqing Yang">
+      <data key="affiliation">School of Mechanical Engineering, Hebei University of Technology, Tianjin, China 300130</data>
+      <data key="research">MRI Tumor Image, Square Support, MRI tumor image registration</data>
+    </node>
+    <node id="Zhongyu Joan Lu">
+      <data key="affiliation">University of Huddersfield, UK</data>
+      <data key="research">Archive Science, Computing Science, Information Science Ontology ISO</data>
+    </node>
+    <node id="Weidong Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">combined network, combined wavelet-based neural network, gating network</data>
+    </node>
+    <node id="Mei Zhan">
+      <data key="affiliation">Nan</data>
+      <data key="research">industrial wireless communication protocol, wireless communication technology, wireless hop-by-hop</data>
+    </node>
+    <node id="Guanghan Xu">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Texas Univ., Austin, TX, USA</data>
+      <data key="research">Lanczos algorithm, new approach, blind digital co-channel communication</data>
+    </node>
+    <node id="Ouyan Shi">
+      <data key="affiliation">Nan</data>
+      <data key="research">Posterior Fossa Volume, CMs patient, Forty CMs patient</data>
+    </node>
+    <node id="Wei-Hua Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">neural network approach, nonlinear function approximator, nonparametric concept</data>
+    </node>
+    <node id="Rong Pan">
+      <data key="affiliation">Department of Industrial Engineering, Arizona State University, Tempe, AZ 85287, USA</data>
+      <data key="research">confidence bound, fisher confidence bound, reliability index</data>
+    </node>
+    <node id="Hao Zhu">
+      <data key="affiliation">University of Minnesota</data>
+      <data key="research">Sparsity-cognizant algorithm, proposed algorithms exhibit near-optimal, novel sparse overcomplete representation</data>
+    </node>
+    <node id="Ming Zhang">
+      <data key="affiliation">Institute of Modern Education Technology, East China Normal University, Shanghai, China</data>
+      <data key="research">classroom instruction information, pro cessing system</data>
+    </node>
+    <edge source="Sanjeev Garg" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanjeev Garg" target="Shirish Nagaraj">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shirish Nagaraj" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meng Li" target="Tianxu Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meng Li" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tianxu Zhang" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Fang" target="Zhongyu Joan Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Fang" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Fang" target="Nan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Chan" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Chan" target="Jintao Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Chan" target="Wei-Hua Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Li" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Li" target="Zhongyu Joan Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Li" target="Hao Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daewook Lee" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenying He" target="Wei-Hua Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenying He" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jintao Du" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jintao Du" target="Wei-Hua Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zeqing Yang" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongyu Joan Lu" target="Weidong Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Mei Zhan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Wei-Hua Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Ming Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Rong Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Guanghan Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Ouyan Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weidong Yang" target="Hao Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming Zhang" target="Ming Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

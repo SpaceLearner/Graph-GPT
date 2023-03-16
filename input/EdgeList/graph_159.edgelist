@@ -1,0 +1,37 @@
+Mark Last	Slava Kisilevich	{'relation': 'collaborate'}
+Mark Last	Oscar Kipersztok	{'relation': 'collaborate'}
+Mark Last	Moti Schneider	{'relation': 'collaborate'}
+Mark Last	Peretz Shoval	{'relation': 'collaborate'}
+Mark Last	Zeev Volkovich	{'relation': 'collaborate'}
+Mark Last	Chee Siang Ang	{'relation': 'collaborate'}
+Mark Last	A Kandel	{'relation': 'collaborate'}
+Mark Last	Abraham Kandel	{'relation': 'collaborate'}
+Mark Last	Yaron Klein	{'relation': 'collaborate'}
+Mark Last	Horst Bunke	{'relation': 'collaborate'}
+Mark Last	Mark Sh. Levin	{'relation': 'collaborate'}
+Mark Last	Tamir Tassa	{'relation': 'collaborate'}
+Mark Last	Yuval Elovici	{'relation': 'collaborate'}
+Mark Last	Avner Engel	{'relation': 'collaborate'}
+Mark Last	Dotan Barak	{'relation': 'collaborate'}
+Mark Last	Halasya Siva Subramania	{'relation': 'collaborate'}
+Mark Last	Erez Shmueli	{'relation': 'collaborate'}
+Mark Last	A. Markov	{'relation': 'collaborate'}
+Mark Last	Rafael S. Carel	{'relation': 'collaborate'}
+Yaron Klein	A Kandel	{'relation': 'collaborate'}
+Yaron Klein	Abraham Kandel	{'relation': 'collaborate'}
+Chee Siang Ang	Slava Kisilevich	{'relation': 'collaborate'}
+Zeev Volkovich	Abraham Kandel	{'relation': 'collaborate'}
+Zeev Volkovich	Yuval Elovici	{'relation': 'collaborate'}
+Tamir Tassa	Erez Shmueli	{'relation': 'collaborate'}
+Yuval Elovici	Abraham Kandel	{'relation': 'collaborate'}
+Yuval Elovici	Erez Shmueli	{'relation': 'collaborate'}
+Yuval Elovici	Slava Kisilevich	{'relation': 'collaborate'}
+Yuval Elovici	Moti Schneider	{'relation': 'collaborate'}
+Dotan Barak	Rafael S. Carel	{'relation': 'collaborate'}
+A Kandel	Horst Bunke	{'relation': 'collaborate'}
+A Kandel	A. Markov	{'relation': 'collaborate'}
+Moti Schneider	Abraham Kandel	{'relation': 'collaborate'}
+Abraham Kandel	Oscar Kipersztok	{'relation': 'collaborate'}
+Abraham Kandel	Horst Bunke	{'relation': 'collaborate'}
+Abraham Kandel	A. Markov	{'relation': 'collaborate'}
+Horst Bunke	Oscar Kipersztok	{'relation': 'collaborate'}

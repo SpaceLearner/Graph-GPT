@@ -1,61 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-Sebastian Provenzano	3
-L. Vergara	{'relation': 'collaborate'}
-F. J. Fuenmayor	{'relation': 'collaborate'}
-Francklin Rivas	{'relation': 'collaborate'}
-Andres Camacho	4
-Jorge Igual	{'relation': 'collaborate'}
-L. Vergara	{'relation': 'collaborate'}
-P. Bernabeu	{'relation': 'collaborate'}
-Raul Llinares	{'relation': 'collaborate'}
-L. Vergara	13
-Jorge Moragues	{'relation': 'collaborate'}
-Jorge Gosalbez	{'relation': 'collaborate'}
-Antonio Soriano	{'relation': 'collaborate'}
-J. Morales	{'relation': 'collaborate'}
-Soledad Gomez	{'relation': 'collaborate'}
-P. Bernabeu	{'relation': 'collaborate'}
-Arturo Serrano	{'relation': 'collaborate'}
-J. Sastre	{'relation': 'collaborate'}
-V. Naranjo	{'relation': 'collaborate'}
-Raul Llinares	{'relation': 'collaborate'}
-Jorge Igual	{'relation': 'collaborate'}
-Francklin Rivas	{'relation': 'collaborate'}
-A. Rodríguez	{'relation': 'collaborate'}
-P. Bernabeu	1
-Jorge Igual	{'relation': 'collaborate'}
-Jorge Moragues	6
-Antonio Soriano	{'relation': 'collaborate'}
-Kiel M Gilleade	{'relation': 'collaborate'}
-Ana Cabrera	{'relation': 'collaborate'}
-Areti Damala	{'relation': 'collaborate'}
-Soledad Gomez	{'relation': 'collaborate'}
-Jorge Gosalbez	{'relation': 'collaborate'}
-Kiel M Gilleade	2
-Areti Damala	{'relation': 'collaborate'}
-Ana Cabrera	{'relation': 'collaborate'}
-Arturo Serrano	3
-Jorge Igual	{'relation': 'collaborate'}
-Raul Llinares	{'relation': 'collaborate'}
-Jorge Gosalbez	{'relation': 'collaborate'}
-F. J. Fuenmayor	1
-Francklin Rivas	{'relation': 'collaborate'}
-J. Morales	0
-Jorge Gosalbez	2
-Raul Llinares	{'relation': 'collaborate'}
-Jorge Igual	{'relation': 'collaborate'}
-Antonio Soriano	0
-J. Sastre	1
-V. Naranjo	{'relation': 'collaborate'}
-Francklin Rivas	0
-Raul Llinares	1
-Jorge Igual	{'relation': 'collaborate'}
-Areti Damala	1
-Ana Cabrera	{'relation': 'collaborate'}
-Soledad Gomez	0
-Ana Cabrera	0
-A. Rodríguez	0
-V. Naranjo	0
-Jorge Igual	0
+Raul Llinares	Jorge Igual	Jorge Gosalbez	Arturo Serrano	Andres Camacho	L. Vergara
+Arturo Serrano	Jorge Igual	L. Vergara	Jorge Gosalbez
+Antonio Soriano	Jorge Moragues	L. Vergara
+J. Morales	L. Vergara
+A. Rodríguez	L. Vergara
+F. J. Fuenmayor	Sebastian Provenzano	Francklin Rivas
+Jorge Gosalbez	L. Vergara	Jorge Igual	Jorge Moragues
+J. Sastre	L. Vergara	V. Naranjo
+Soledad Gomez	L. Vergara	Jorge Moragues
+P. Bernabeu	Andres Camacho	L. Vergara	Jorge Igual
+Francklin Rivas	Sebastian Provenzano	L. Vergara
+Kiel M Gilleade	Jorge Moragues	Areti Damala	Ana Cabrera
+L. Vergara	Sebastian Provenzano	Jorge Moragues	Andres Camacho	V. Naranjo	Jorge Igual
+Areti Damala	Jorge Moragues	Ana Cabrera
+Sebastian Provenzano
+Jorge Igual	Andres Camacho
+V. Naranjo
+Andres Camacho
+Ana Cabrera	Jorge Moragues
+Jorge Moragues

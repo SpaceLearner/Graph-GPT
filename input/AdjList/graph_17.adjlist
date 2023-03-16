@@ -1,49 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:51 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:56 2023
 # 
-H. Nakajima	1
-T. Watanabe	{'relation': 'collaborate'}
-K. Komatsu	1
-T. Watanabe	{'relation': 'collaborate'}
-T. Ida	1
-T. Watanabe	{'relation': 'collaborate'}
-K. Ando	2
-T. Watanabe	{'relation': 'collaborate'}
-M. Ohsawa	{'relation': 'collaborate'}
-Y. Yamamoto	2
-T. Watanabe	{'relation': 'collaborate'}
-S. Okada	{'relation': 'collaborate'}
-H. Yamauchi	2
-T. Watanabe	{'relation': 'collaborate'}
-S. Okada	{'relation': 'collaborate'}
-S. Okada	1
-T. Watanabe	{'relation': 'collaborate'}
-M. Ohsawa	1
-T. Watanabe	{'relation': 'collaborate'}
-T. Fukumura	1
-T. Watanabe	{'relation': 'collaborate'}
-S. Komatsu	3
-T. Itoh	{'relation': 'collaborate'}
-S. Sawa	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-Takamichi Tateoka	2
-Youichi Maeda	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-S. Sawa	2
-T. Itoh	{'relation': 'collaborate'}
-T. Watanabe	{'relation': 'collaborate'}
-Youichi Maeda	1
-T. Watanabe	{'relation': 'collaborate'}
-Makoto Endo	1
-T. Watanabe	{'relation': 'collaborate'}
-R. Aoki	1
-T. Watanabe	{'relation': 'collaborate'}
-T. Watanabe	4
-Jien Kato	{'relation': 'collaborate'}
-Y. Daido	{'relation': 'collaborate'}
-T. Itoh	{'relation': 'collaborate'}
-T. Sakata	{'relation': 'collaborate'}
-Y. Daido	0
-T. Sakata	0
-T. Itoh	0
-Jien Kato	0
+Jien Kato	T. Watanabe
+Makoto Endo	T. Watanabe
+H. Yamauchi	T. Watanabe	S. Okada
+T. Ida	T. Watanabe
+K. Komatsu	T. Watanabe
+Takamichi Tateoka	Youichi Maeda	T. Watanabe
+S. Sawa	S. Komatsu	T. Itoh	T. Watanabe
+S. Komatsu	T. Itoh	T. Watanabe
+K. Ando	T. Watanabe	M. Ohsawa
+R. Aoki	T. Watanabe
+T. Fukumura	T. Watanabe
+Y. Yamamoto	T. Watanabe	S. Okada
+H. Nakajima	T. Watanabe
+Y. Daido	T. Watanabe
+S. Okada	T. Watanabe
+T. Sakata	T. Watanabe
+M. Ohsawa	T. Watanabe
+T. Itoh	T. Watanabe
+Youichi Maeda	T. Watanabe
+T. Watanabe

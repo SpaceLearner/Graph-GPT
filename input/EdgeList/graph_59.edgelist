@@ -1,28 +1,28 @@
-G. J. Collins	C. J. Budd	{'relation': 'collaborate'}
-G. J. Collins	V. A. Galaktionov	{'relation': 'collaborate'}
-L A Peletier	J L Vazquez	{'relation': 'collaborate'}
-L A Peletier	V. A. Galaktionov	{'relation': 'collaborate'}
-M. Kindelan	Migual A. Herrero	{'relation': 'collaborate'}
-M. Kindelan	J. J. L. Velázquez	{'relation': 'collaborate'}
+J L Vazquez	L A Peletier	{'relation': 'collaborate'}
 J L Vazquez	Migual A. Herrero	{'relation': 'collaborate'}
 J L Vazquez	V. A. Galaktionov	{'relation': 'collaborate'}
-V. A. Frolov	V. A. Galaktionov	{'relation': 'collaborate'}
+J. J. L. Velázquez	M. Kindelan	{'relation': 'collaborate'}
 J. J. L. Velázquez	Migual A. Herrero	{'relation': 'collaborate'}
 J. J. L. Velázquez	V. A. Galaktionov	{'relation': 'collaborate'}
-N. I. V'yukova	V. A. Galaktionov	{'relation': 'collaborate'}
-Kirill Garanzha	Simon Premože	{'relation': 'collaborate'}
-Kirill Garanzha	V. A. Galaktionov	{'relation': 'collaborate'}
+S. P. Kurdyumov	A. A. Samarskii	{'relation': 'collaborate'}
+S. P. Kurdyumov	V. A. Galaktionov	{'relation': 'collaborate'}
 Edward A. Kopylov	V. A. Galaktionov	{'relation': 'collaborate'}
 J Bebernes	V. A. Galaktionov	{'relation': 'collaborate'}
 J Bebernes	Stephen Edward Bricher	{'relation': 'collaborate'}
-N. Bellomo	Migual A. Herrero	{'relation': 'collaborate'}
-S. P. Kurdyumov	A. A. Samarskii	{'relation': 'collaborate'}
-S. P. Kurdyumov	V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	V. A. Galaktionov	{'relation': 'collaborate'}
-J. J. Velasquez	Migual A. Herrero	{'relation': 'collaborate'}
-Howard A. Levine	V. A. Galaktionov	{'relation': 'collaborate'}
+N. I. V'yukova	V. A. Galaktionov	{'relation': 'collaborate'}
+Stephen Edward Bricher	V. A. Galaktionov	{'relation': 'collaborate'}
+A. A. Samarskii	V. A. Galaktionov	{'relation': 'collaborate'}
+Simon Premože	Kirill Garanzha	{'relation': 'collaborate'}
 Simon Premože	V. A. Galaktionov	{'relation': 'collaborate'}
+M. Kindelan	Migual A. Herrero	{'relation': 'collaborate'}
+G. J. Collins	C. J. Budd	{'relation': 'collaborate'}
+G. J. Collins	V. A. Galaktionov	{'relation': 'collaborate'}
+Migual A. Herrero	N. Bellomo	{'relation': 'collaborate'}
+Migual A. Herrero	V. A. Galaktionov	{'relation': 'collaborate'}
+Migual A. Herrero	J. J. Velasquez	{'relation': 'collaborate'}
 V. A. Galaktionov	C. J. Budd	{'relation': 'collaborate'}
-V. A. Galaktionov	Stephen Edward Bricher	{'relation': 'collaborate'}
-V. A. Galaktionov	A. A. Samarskii	{'relation': 'collaborate'}
-V. A. Galaktionov	Migual A. Herrero	{'relation': 'collaborate'}
+V. A. Galaktionov	L A Peletier	{'relation': 'collaborate'}
+V. A. Galaktionov	V. A. Frolov	{'relation': 'collaborate'}
+V. A. Galaktionov	J. J. Velasquez	{'relation': 'collaborate'}
+V. A. Galaktionov	Kirill Garanzha	{'relation': 'collaborate'}
+V. A. Galaktionov	Howard A. Levine	{'relation': 'collaborate'}

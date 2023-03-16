@@ -1,57 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:09 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:15 2023
 # 
-Giuseppe Ferri	8
-Giorgio Leuzzi	{'relation': 'collaborate'}
-M. Faccio	{'relation': 'collaborate'}
-Giuseppe Scotti	{'relation': 'collaborate'}
-Francesco Centurelli	{'relation': 'collaborate'}
-Alessandro Trifiletti	{'relation': 'collaborate'}
-D. Rossi	{'relation': 'collaborate'}
-G. Ricotti	{'relation': 'collaborate'}
-W. Sansen	{'relation': 'collaborate'}
-A. D. Grasso	3
-Giuseppe Scotti	{'relation': 'collaborate'}
-Alessandro Trifiletti	{'relation': 'collaborate'}
-S. Pennisi	{'relation': 'collaborate'}
-M. Faccio	5
-G. Ricotti	{'relation': 'collaborate'}
-F. Santucci	{'relation': 'collaborate'}
-Maurizio Colizza	{'relation': 'collaborate'}
-G. Ciccarella	{'relation': 'collaborate'}
-D. Rossi	{'relation': 'collaborate'}
-Antonio Serino	3
-Giorgio Leuzzi	{'relation': 'collaborate'}
-Franco Giannini	{'relation': 'collaborate'}
-Dominique Schreurs	{'relation': 'collaborate'}
-Giuseppe Scotti	6
-M. Bucci	{'relation': 'collaborate'}
-Francesco Centurelli	{'relation': 'collaborate'}
-Alessandro Trifiletti	{'relation': 'collaborate'}
-Renato Menicocci	{'relation': 'collaborate'}
-Massimo Alioto	{'relation': 'collaborate'}
-S. Pennisi	{'relation': 'collaborate'}
-D. Rossi	1
-G. Ricotti	{'relation': 'collaborate'}
-Dominique Schreurs	1
-Giorgio Leuzzi	{'relation': 'collaborate'}
-Alessandro Trifiletti	4
-Renato Menicocci	{'relation': 'collaborate'}
-S. Pennisi	{'relation': 'collaborate'}
-Massimo Alioto	{'relation': 'collaborate'}
-Francesco Centurelli	{'relation': 'collaborate'}
-G. Ricotti	0
-Maurizio Colizza	1
-F. Santucci	{'relation': 'collaborate'}
-G. Ciccarella	0
-Giorgio Leuzzi	1
-Franco Giannini	{'relation': 'collaborate'}
-Massimo Alioto	0
-F. Santucci	0
-S. Pennisi	1
-Francesco Centurelli	{'relation': 'collaborate'}
-M. Bucci	0
-W. Sansen	0
-Francesco Centurelli	0
-Franco Giannini	0
-Renato Menicocci	0
+Antonio Serino	Giorgio Leuzzi	Franco Giannini	Dominique Schreurs
+Franco Giannini	Giorgio Leuzzi
+F. Santucci	Maurizio Colizza	M. Faccio
+S. Pennisi	Alessandro Trifiletti	Francesco Centurelli	Giuseppe Scotti	A. D. Grasso
+Maurizio Colizza	M. Faccio
+Giorgio Leuzzi	Giuseppe Ferri	Dominique Schreurs
+G. Ricotti	M. Faccio	Giuseppe Ferri	D. Rossi
+A. D. Grasso	Giuseppe Scotti	Alessandro Trifiletti
+Renato Menicocci	Alessandro Trifiletti	Giuseppe Scotti
+Alessandro Trifiletti	Giuseppe Scotti	Giuseppe Ferri	Massimo Alioto	Francesco Centurelli
+M. Bucci	Giuseppe Scotti
+Giuseppe Ferri	M. Faccio	Giuseppe Scotti	Francesco Centurelli	D. Rossi	W. Sansen
+G. Ciccarella	M. Faccio
+D. Rossi	M. Faccio
+Giuseppe Scotti	Francesco Centurelli	Massimo Alioto
+W. Sansen
+Massimo Alioto
+M. Faccio
+Dominique Schreurs
+Francesco Centurelli

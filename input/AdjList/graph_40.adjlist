@@ -1,46 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:58 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:05 2023
 # 
-Jiankun Wu	1
-Xin Wang	{'relation': 'collaborate'}
-Jaques Reifman	1
-Xin Wang	{'relation': 'collaborate'}
-Yan Xiong	2
-Wenchao Huang	{'relation': 'collaborate'}
-Qingwen Liu	{'relation': 'collaborate'}
-Shengli Zhou	2
-G. B. Giannakis	{'relation': 'collaborate'}
-Qingwen Liu	{'relation': 'collaborate'}
-E K Blum	1
-Xin Wang	{'relation': 'collaborate'}
-Yunlong Liu	1
-Xin Wang	{'relation': 'collaborate'}
-P. P. Jonker	1
-Xin Wang	{'relation': 'collaborate'}
-G. B. Giannakis	2
-Xin Wang	{'relation': 'collaborate'}
-Qingwen Liu	{'relation': 'collaborate'}
-Weiming Zhang	1
-Xin Wang	{'relation': 'collaborate'}
-Min Li	2
-Xin Wang	{'relation': 'collaborate'}
-Min Li	{'relation': 'collaborate'}
-Zhiyong Shan	1
-Xin Wang	{'relation': 'collaborate'}
-Xin Wang	6
-Peng Wei	{'relation': 'collaborate'}
-P. Kudumakis	{'relation': 'collaborate'}
-Dan Li	{'relation': 'collaborate'}
-Zhifang Sui	{'relation': 'collaborate'}
-D. Tipper	{'relation': 'collaborate'}
-Qingwen Liu	{'relation': 'collaborate'}
-D. Tipper	0
-Peng Wei	0
-P. Kudumakis	0
-Wenchao Huang	1
-Qingwen Liu	{'relation': 'collaborate'}
-Zhifang Sui	0
-Qingwen Liu	1
-He Huang	{'relation': 'collaborate'}
-Dan Li	0
-He Huang	0
+Min Li	Xin Wang	Min Li
+Jiankun Wu	Xin Wang
+Yan Xiong	Wenchao Huang	Qingwen Liu
+P. P. Jonker	Xin Wang
+D. Tipper	Xin Wang
+Jaques Reifman	Xin Wang
+G. B. Giannakis	Xin Wang	Shengli Zhou	Qingwen Liu
+He Huang	Qingwen Liu
+Wenchao Huang	Qingwen Liu
+Yunlong Liu	Xin Wang
+Weiming Zhang	Xin Wang
+Peng Wei	Xin Wang
+Xin Wang	E K Blum	P. Kudumakis	Dan Li	Zhifang Sui	Zhiyong Shan	Qingwen Liu
+Zhifang Sui
+Zhiyong Shan
+Dan Li
+P. Kudumakis
+Qingwen Liu	Shengli Zhou
+Shengli Zhou
+E K Blum

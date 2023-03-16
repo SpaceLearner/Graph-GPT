@@ -1,69 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-S. T. Chou	3
-Wei Lin	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-K. F. Huang	{'relation': 'collaborate'}
-Wei Lin	2
-T. C. Wang	{'relation': 'collaborate'}
-K. F. Huang	{'relation': 'collaborate'}
-K. F. Huang	1
-T. C. Wang	{'relation': 'collaborate'}
-C. C. Yang	6
-T. C. Wang	{'relation': 'collaborate'}
-Y. H. Huang	{'relation': 'collaborate'}
-W. Y. Guo	{'relation': 'collaborate'}
-T. H. Wu	{'relation': 'collaborate'}
-M. H. Lin	{'relation': 'collaborate'}
-C. L. Chen	{'relation': 'collaborate'}
-M. H. Lin	5
-Y. H. Huang	{'relation': 'collaborate'}
-C. L. Chen	{'relation': 'collaborate'}
-W. Y. Guo	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-T. H. Wu	{'relation': 'collaborate'}
-Tomoya Sugahara	5
-Katsushi Nishino	{'relation': 'collaborate'}
-Peter G. Eliseev	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-Kenji Shiojima	{'relation': 'collaborate'}
-Shiro Sakai	{'relation': 'collaborate'}
-T. H. Wu	4
-Y. H. Huang	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-W. Y. Guo	{'relation': 'collaborate'}
-C. L. Chen	{'relation': 'collaborate'}
-Peter G. Eliseev	5
-T. C. Wang	{'relation': 'collaborate'}
-Katsushi Nishino	{'relation': 'collaborate'}
-Marek Osiński	{'relation': 'collaborate'}
-Philippe Sartori	{'relation': 'collaborate'}
-Shiro Sakai	{'relation': 'collaborate'}
-David Zimmerman	2
-Allen Goldberg	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-Yoshihiro Shintani	1
-Shiro Sakai	{'relation': 'collaborate'}
-Marek Osiński	1
-Philippe Sartori	{'relation': 'collaborate'}
-Katsushi Nishino	2
-T. C. Wang	{'relation': 'collaborate'}
-Shiro Sakai	{'relation': 'collaborate'}
-Kenji Shiojima	1
-Shiro Sakai	{'relation': 'collaborate'}
-Philippe Sartori	0
-Shiro Sakai	1
-T. C. Wang	{'relation': 'collaborate'}
-W. Y. Guo	3
-Y. H. Huang	{'relation': 'collaborate'}
-C. L. Chen	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-Y. H. Huang	2
-C. L. Chen	{'relation': 'collaborate'}
-T. C. Wang	{'relation': 'collaborate'}
-C. L. Chen	1
-T. C. Wang	{'relation': 'collaborate'}
-Allen Goldberg	1
-T. C. Wang	{'relation': 'collaborate'}
-T. C. Wang	0
+T. H. Wu	Y. H. Huang	T. C. Wang	C. C. Yang	W. Y. Guo	M. H. Lin	C. L. Chen
+T. C. Wang	C. C. Yang	Katsushi Nishino	Allen Goldberg	S. T. Chou	Peter G. Eliseev	Shiro Sakai	C. L. Chen	Tomoya Sugahara	K. F. Huang	M. H. Lin	Wei Lin	Y. H. Huang	David Zimmerman	W. Y. Guo
+W. Y. Guo	Y. H. Huang	M. H. Lin	C. C. Yang	C. L. Chen
+David Zimmerman	Allen Goldberg
+Yoshihiro Shintani	Shiro Sakai
+S. T. Chou	Wei Lin	K. F. Huang
+Tomoya Sugahara	Katsushi Nishino	Peter G. Eliseev	Kenji Shiojima	Shiro Sakai
+Y. H. Huang	M. H. Lin	C. L. Chen	C. C. Yang
+M. H. Lin	C. L. Chen	C. C. Yang
+Peter G. Eliseev	Katsushi Nishino	Marek Osiński	Philippe Sartori	Shiro Sakai
+C. L. Chen	C. C. Yang
+Philippe Sartori	Marek Osiński
+K. F. Huang	Wei Lin
+Katsushi Nishino	Shiro Sakai
+Shiro Sakai	Kenji Shiojima
+Marek Osiński
+Allen Goldberg
+Kenji Shiojima
+C. C. Yang
+Wei Lin

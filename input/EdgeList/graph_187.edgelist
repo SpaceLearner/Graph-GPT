@@ -1,0 +1,30 @@
+Jacob H. Scott	David R. Karger	{'relation': 'collaborate'}
+Jacob H. Scott	Jeremy T. Fineman	{'relation': 'collaborate'}
+David R. Karger	Eugene Wu	{'relation': 'collaborate'}
+David R. Karger	I. Stoica	{'relation': 'collaborate'}
+David R. Karger	Sanjay Kairam	{'relation': 'collaborate'}
+David R. Karger	A. Hogue	{'relation': 'collaborate'}
+David R. Karger	Loren Gilbert Terveen	{'relation': 'collaborate'}
+David R. Karger	Aaron Bernstein	{'relation': 'collaborate'}
+David R. Karger	Vineet Sinha	{'relation': 'collaborate'}
+David R. Karger	V. S. Mirrokni	{'relation': 'collaborate'}
+David R. Karger	Lynn Andrea Stein	{'relation': 'collaborate'}
+David R. Karger	Joel M. Wein	{'relation': 'collaborate'}
+David R. Karger	A V Goldberg	{'relation': 'collaborate'}
+David R. Karger	Krishnaprasad Thirunarayan	{'relation': 'collaborate'}
+David R. Karger	Magdalena Balazinska	{'relation': 'collaborate'}
+David R. Karger	Hari Balakrishnan	{'relation': 'collaborate'}
+David R. Karger	Erik D. Demaine	{'relation': 'collaborate'}
+David R. Karger	Sarita Yardi	{'relation': 'collaborate'}
+David R. Karger	Nicholas J. A. Harvey	{'relation': 'collaborate'}
+David R. Karger	Jeremy T. Fineman	{'relation': 'collaborate'}
+Loren Gilbert Terveen	Sanjay Kairam	{'relation': 'collaborate'}
+Loren Gilbert Terveen	Sarita Yardi	{'relation': 'collaborate'}
+Magdalena Balazinska	Hari Balakrishnan	{'relation': 'collaborate'}
+V. S. Mirrokni	Nicholas J. A. Harvey	{'relation': 'collaborate'}
+Sarita Yardi	Sanjay Kairam	{'relation': 'collaborate'}
+Nicholas J. A. Harvey	Erik D. Demaine	{'relation': 'collaborate'}
+I. Stoica	Hari Balakrishnan	{'relation': 'collaborate'}
+Erik D. Demaine	Hari Balakrishnan	{'relation': 'collaborate'}
+Erik D. Demaine	Jeremy T. Fineman	{'relation': 'collaborate'}
+Hari Balakrishnan	Eugene Wu	{'relation': 'collaborate'}

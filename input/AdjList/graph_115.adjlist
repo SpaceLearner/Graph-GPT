@@ -1,54 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:18 2023
 # 
-Hrvoje Jenkač	2
-T. Stockhammer	{'relation': 'collaborate'}
-C. Weiss	{'relation': 'collaborate'}
-Q. D. Yang	1
-T. Yu	{'relation': 'collaborate'}
-L. D. Fink	4
-G. Zhang	{'relation': 'collaborate'}
-T. Yu	{'relation': 'collaborate'}
-C. Weiss	{'relation': 'collaborate'}
-Mark Yeary	{'relation': 'collaborate'}
-Z. Tang	1
-T. Yu	{'relation': 'collaborate'}
-T. Yu	14
-B. Zhang	{'relation': 'collaborate'}
-Daesik Hong	{'relation': 'collaborate'}
-R. Nevatia	{'relation': 'collaborate'}
-Nils Krahnstoever	{'relation': 'collaborate'}
-Kwei-Jay Lin	{'relation': 'collaborate'}
-Dennis Chen	{'relation': 'collaborate'}
-Peter Tu	{'relation': 'collaborate'}
-Reiner Hegerl	{'relation': 'collaborate'}
-G. Doretto	{'relation': 'collaborate'}
-C. Greco	{'relation': 'collaborate'}
-C. Weiss	{'relation': 'collaborate'}
-Xingfa Gu	{'relation': 'collaborate'}
-G. Zhang	{'relation': 'collaborate'}
-Mark Yeary	{'relation': 'collaborate'}
-Nils Krahnstoever	3
-C. Greco	{'relation': 'collaborate'}
-G. Doretto	{'relation': 'collaborate'}
-Peter Tu	{'relation': 'collaborate'}
-Daesik Hong	0
-G. Zhang	2
-Mark Yeary	{'relation': 'collaborate'}
-C. Weiss	{'relation': 'collaborate'}
-Mark Yeary	1
-C. Weiss	{'relation': 'collaborate'}
-G. Doretto	1
-C. Greco	{'relation': 'collaborate'}
-Reiner Hegerl	0
-Xingfa Gu	0
-Dennis Chen	0
-C. Greco	0
-R. Nevatia	1
-Peter Tu	{'relation': 'collaborate'}
-Kwei-Jay Lin	0
-B. Zhang	0
-Peter Tu	0
-T. Stockhammer	1
-C. Weiss	{'relation': 'collaborate'}
-C. Weiss	0
+Xingfa Gu	T. Yu
+R. Nevatia	T. Yu	Peter Tu
+Dennis Chen	T. Yu
+Mark Yeary	C. Weiss	G. Zhang	T. Yu	L. D. Fink
+C. Greco	Nils Krahnstoever	T. Yu	G. Doretto
+C. Weiss	T. Yu	L. D. Fink	T. Stockhammer	Hrvoje Jenkač	G. Zhang
+T. Yu	Z. Tang	B. Zhang	Daesik Hong	Nils Krahnstoever	Q. D. Yang	Kwei-Jay Lin	Peter Tu	Reiner Hegerl	G. Doretto	L. D. Fink	G. Zhang
+Hrvoje Jenkač	T. Stockhammer
+Kwei-Jay Lin
+L. D. Fink	G. Zhang
+Z. Tang
+G. Zhang
+G. Doretto	Nils Krahnstoever
+B. Zhang
+Reiner Hegerl
+Nils Krahnstoever	Peter Tu
+T. Stockhammer
+Peter Tu
+Daesik Hong
+Q. D. Yang

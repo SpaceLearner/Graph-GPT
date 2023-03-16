@@ -1,55 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:04 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:10 2023
 # 
-O. E. Khalil	2
-A. Gunasekaran	{'relation': 'collaborate'}
-Syed Mahbubur Rahman	{'relation': 'collaborate'}
-Gour C. Karmakar	3
-Laurence Dooley	{'relation': 'collaborate'}
-M. H. Rahman	{'relation': 'collaborate'}
-Syed Mahbubur Rahman	{'relation': 'collaborate'}
-Nikos I. Karacapilidis	2
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Eugenia M. W. Ng	{'relation': 'collaborate'}
-Syed Mahbubur Rahman	7
-Chee Kheong Siew	{'relation': 'collaborate'}
-M. H. Rahman	{'relation': 'collaborate'}
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Morshed Chowdhury	{'relation': 'collaborate'}
-Laurence Dooley	{'relation': 'collaborate'}
-Xun Yi	{'relation': 'collaborate'}
-A. Gunasekaran	{'relation': 'collaborate'}
-Kai Li	3
-Yang Yu	{'relation': 'collaborate'}
-Zhangxi Lin	{'relation': 'collaborate'}
-Efosa C. Idemudia	{'relation': 'collaborate'}
-A. Gunasekaran	0
-Alice Batch	2
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Efosa C. Idemudia	{'relation': 'collaborate'}
-Chee Kheong Siew	1
-Xun Yi	{'relation': 'collaborate'}
-Adel M. Aladwani	2
-Nicolau Reinhard	{'relation': 'collaborate'}
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Morshed Chowdhury	0
-Zhangxi Lin	2
-Efosa C. Idemudia	{'relation': 'collaborate'}
-Yang Yu	{'relation': 'collaborate'}
-Xun Yi	0
-M. H. Rahman	1
-Laurence Dooley	{'relation': 'collaborate'}
-Nicolau Reinhard	1
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Yang Yu	2
-Yang Yu	{'relation': 'collaborate'}
-Efosa C. Idemudia	{'relation': 'collaborate'}
-Eugenia M. W. Ng	1
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Efosa C. Idemudia	1
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Lawrence L Schkade	1
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Mahesh S. Raisinghani	1
-Mahesh S. Raisinghani	{'relation': 'collaborate'}
-Laurence Dooley	0
+O. E. Khalil	A. Gunasekaran	Syed Mahbubur Rahman
+Kai Li	Yang Yu	Zhangxi Lin	Efosa C. Idemudia
+Syed Mahbubur Rahman	Chee Kheong Siew	M. H. Rahman	Mahesh S. Raisinghani	Morshed Chowdhury	Laurence Dooley	Gour C. Karmakar	Xun Yi	A. Gunasekaran
+Alice Batch	Mahesh S. Raisinghani	Efosa C. Idemudia
+Xun Yi	Chee Kheong Siew
+Mahesh S. Raisinghani	Mahesh S. Raisinghani	Eugenia M. W. Ng	Nikos I. Karacapilidis	Nicolau Reinhard	Adel M. Aladwani	Lawrence L Schkade	Efosa C. Idemudia
+Yang Yu	Zhangxi Lin	Yang Yu	Efosa C. Idemudia
+Morshed Chowdhury
+A. Gunasekaran
+Gour C. Karmakar	Laurence Dooley	M. H. Rahman
+Zhangxi Lin	Efosa C. Idemudia
+Laurence Dooley	M. H. Rahman
+M. H. Rahman
+Lawrence L Schkade
+Adel M. Aladwani	Nicolau Reinhard
+Nikos I. Karacapilidis	Eugenia M. W. Ng
+Efosa C. Idemudia
+Eugenia M. W. Ng
+Chee Kheong Siew
+Nicolau Reinhard

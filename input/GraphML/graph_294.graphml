@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hua Liu">
+      <data key="affiliation">State Key Lab of CAD &amp; CG, Zhejiang University</data>
+      <data key="research">user interaction, architecture modeling, fast CAA modeling</data>
+    </node>
+    <node id="Peter R. Wurman">
+      <data key="affiliation">Artificial Intelligence Laboratory, University of Michigan, Ann Arbor, MI</data>
+      <data key="research">combinatorial auction, sequential auction, Nash equilibrium</data>
+    </node>
+    <node id="Samarth Swarup">
+      <data key="affiliation">Dept. of Computer Science</data>
+      <data key="research">classification game, common language, cumulative knowledge</data>
+    </node>
+    <node id="Margaret King">
+      <data key="affiliation">ISSCO</data>
+      <data key="research">European chapter, machine translation system, data base</data>
+    </node>
+    <node id="Milind Tambe">
+      <data key="affiliation">MAS Research Roadmap Project</data>
+      <data key="research">multiagent system, service-oriented multiagent system research, service-oriented system</data>
+    </node>
+    <node id="Jie Xing">
+      <data key="affiliation">IBM Corporation, Research Triangle Park, NC</data>
+      <data key="research">E-CommerceSuccessful e-commerce presupposes technique, Multiagent ApproachCommitment-based interoperation, autonomous trading entity</data>
+    </node>
+    <node id="Michael N. Huhns">
+      <data key="affiliation">University of South Carolina, Columbia</data>
+      <data key="research">multiagent system, agents interact, software agents interact</data>
+    </node>
+    <node id="Marek Rusinkiewicz">
+      <data key="affiliation">Department of Computer Science, University of Houston  University Park, Houston, Texas</data>
+      <data key="research">query transformation, database system, query formulation</data>
+    </node>
+    <node id="N Asher">
+      <data key="affiliation">CNRSIRIT, France</data>
+      <data key="research">discourse structure, representational theory, DR theory</data>
+    </node>
+    <node id="Laura Zavala">
+      <data key="affiliation">Computer Science, University of Maryland Baltimore County, Baltimore, MD</data>
+      <data key="research">collaborative multiagent system, multiagent system, CARE-CPS scheme</data>
+    </node>
+    <node id="Cuihong Li">
+      <data key="affiliation">University of Connecticut, Storrs, CT</data>
+      <data key="research">outside option, negotiation strategy, single-threaded negotiation model</data>
+    </node>
+    <node id="Alexander Artikis">
+      <data key="affiliation">Institute of informatics and/ telecommunications, ncsr  demokritos , athens 15310, greece/ email: paliourg@iit.demokritos.gr, anskarl@iit.demokritos.gr</data>
+      <data key="research">dynamic specification, open system, multi-agent system</data>
+    </node>
+    <node id="Matei Ripeanu">
+      <data key="affiliation">Nan</data>
+      <data key="research">GPGPU application, GPGPU ApplicationsGPUs, GPU platform</data>
+    </node>
+    <node id="G. Meredith">
+      <data key="affiliation">MCC/STP, Austin, TX</data>
+      <data key="research">intertask dependency, CarnotThe Carnot Project, heterogeneous information</data>
+    </node>
+    <node id="Zhe Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">heterogeneous valuation, high valuation consumer, lower valuation consumer</data>
+    </node>
+    <node id="Daniel G. Bobrow">
+      <data key="affiliation">KRL Research Group</data>
+      <data key="research">virtual copy, Common LISP object system, LISP system</data>
+    </node>
+    <node id="Christopher J. Hazard">
+      <data key="affiliation">Hazardous Software, Raleigh, NC</data>
+      <data key="research">discount factor, reputation system, private discount factor</data>
+    </node>
+    <node id="Munindar P. Singh">
+      <data key="affiliation">Dept. of Computer Sciences, University of Texas, Austin, TX and Artificial Intelligence Lab, MCC, Austin, TX</data>
+      <data key="research">multiagent system, business process, autonomous agent</data>
+    </node>
+    <node id="Andrew Jones">
+      <data key="affiliation">Nan</data>
+      <data key="research">Peer Protocols, Massively Multiplayer Online GamesIn, bandwidth usage</data>
+    </node>
+    <node id="K. P. Sycara">
+      <data key="affiliation">Artificial Intelligence Center, SRI International, Menlo Park, CA</data>
+      <data key="research">Web service, Semantic Web, Web Services</data>
+    </node>
+    <edge source="Hua Liu" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter R. Wurman" target="Christopher J. Hazard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samarth Swarup" target="Michael N. Huhns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samarth Swarup" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samarth Swarup" target="Laura Zavala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samarth Swarup" target="Milind Tambe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samarth Swarup" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Margaret King" target="Michael N. Huhns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Margaret King" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Margaret King" target="Daniel G. Bobrow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Milind Tambe" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Milind Tambe" target="Michael N. Huhns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Milind Tambe" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Milind Tambe" target="Laura Zavala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jie Xing" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael N. Huhns" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael N. Huhns" target="Laura Zavala">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael N. Huhns" target="G. Meredith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael N. Huhns" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael N. Huhns" target="Daniel G. Bobrow">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marek Rusinkiewicz" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N Asher" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Laura Zavala" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Laura Zavala" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cuihong Li" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cuihong Li" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Artikis" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Artikis" target="Andrew Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matei Ripeanu" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Meredith" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhe Zhang" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel G. Bobrow" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher J. Hazard" target="Munindar P. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Munindar P. Singh" target="Andrew Jones">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Munindar P. Singh" target="K. P. Sycara">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

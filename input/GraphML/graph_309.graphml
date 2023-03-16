@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ion Mǎndoiu">
+      <data key="affiliation">University of Connecticut,Storrs, CT</data>
+      <data key="research">Multi-project reticle floorplanning, fixed multi-project reticle floorplan, multi-project reticle</data>
+    </node>
+    <node id="Xu Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Strategic Supply Network, direct strategic supplier, strategic cooperative supplier network</data>
+    </node>
+    <node id="Yuxiao Zhang">
+      <data key="affiliation">College of Computer Science and Technology, Jilin University, Key Laboratory of Symbol, Computation and Knowledge Engineering of the Ministry of Education, Changchun, China</data>
+      <data key="research">Improved Fuzzy Neural Network, FNNC online, FNNC system</data>
+    </node>
+    <node id="Zhongfu Ye">
+      <data key="affiliation">Nan</data>
+      <data key="research">Astronomical Spectrum Data, astronomical fiber spectrum signal, classical time-frequency analysis method</data>
+    </node>
+    <node id="Hailong Yao">
+      <data key="affiliation">Nan</data>
+      <data key="research">layout decomposition, large industrial layout, layout pattern</data>
+    </node>
+    <node id="Nan Hu">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed method, novel model, fast communication</data>
+    </node>
+    <node id="Yi Zhang">
+      <data key="affiliation">College of Computer Science, Sichuan University, Chengdu, China</data>
+      <data key="research">proposed method, Wiley Periodicals, coherence transport</data>
+    </node>
+    <node id="Zhongfu Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">mixed Ramsey number</data>
+    </node>
+    <node id="Qiao Zhang">
+      <data key="affiliation">Department of Electronic and Electrical Engineering, University of Sheffield, Sheffield, UK S1 3JD and Department of Control Science and Engineering, Huazhong University of Science and Technology, ...</data>
+      <data key="research">Popov stability criterion, Lyapunov stability theorem, parameter variation</data>
+    </node>
+    <node id="S. Reda">
+      <data key="affiliation">Boston University, Boston, MA</data>
+      <data key="research">power consumption, power modeling, thermal emission</data>
+    </node>
+    <node id="Jack T. Dennerlein">
+      <data key="affiliation">Department of Environmental Health, Harvard School of Public Health, Boston, MA and Brigham and Women's Hospital, Harvard Medical School, Boston, MA</data>
+      <data key="research">shoulder joint, biomechanical loading, observation error</data>
+    </node>
+    <node id="Alexander Z. Zelikovsky">
+      <data key="affiliation">Dept. of Computer Science, Georgia State University, University Plaza, Atlanta, GA</data>
+      <data key="research">Steiner tree problem, approximation algorithm, missing data</data>
+    </node>
+    <node id="Yu-Hen Hu">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Wisconsin, Madison, WI53706, USA</data>
+      <data key="research">different ECC method, hardware NoC router, low-overhead ECC method</data>
+    </node>
+    <node id="Ke Shao">
+      <data key="affiliation">State Key Laboratory of ASIC and Systems, Fudan University, Shanghai, People's Republic of  China 201203</data>
+      <data key="research">pulse amplitude, pulse bandwidth, pulse width</data>
+    </node>
+    <node id="Kambiz Samadi">
+      <data key="affiliation">Qualcomm Research, San Diego, CA, USA</data>
+      <data key="research">NoC power, first-order design constraint, Guardband Reduction</data>
+    </node>
+    <node id="T Wark">
+      <data key="affiliation">CSIRO ICT Center, Brisbane</data>
+      <data key="research">sensor network, lip information, speech information</data>
+    </node>
+    <node id="Jing Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">semantic information, visual-feature-based method, alternative method</data>
+    </node>
+    <node id="A. B. Kahng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Critical Links, Design Flow Implications, IC Layout</data>
+    </node>
+    <node id="Tao Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Bhattacharyya Distance, Bhattacharyya Distance principle, stego algorithm</data>
+    </node>
+    <node id="Weifa Liang">
+      <data key="affiliation">Nan</data>
+      <data key="research">data collection, sensor network, proposed algorithm</data>
+    </node>
+    <edge source="Ion Mǎndoiu" target="Xu Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ion Mǎndoiu" target="Alexander Z. Zelikovsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ion Mǎndoiu" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="T Wark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Jing Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Tao Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Yi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Hailong Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Qiao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Zhongfu Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Nan Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Weifa Liang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Ke Shao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Jack T. Dennerlein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Yu-Hen Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Yuxiao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Alexander Z. Zelikovsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Kambiz Samadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="S. Reda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Xu" target="Zhongfu Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongfu Ye" target="Nan Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongfu Ye" target="Yi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hailong Yao" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Hu" target="Yi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Reda" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Reda" target="Alexander Z. Zelikovsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Z. Zelikovsky" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kambiz Samadi" target="A. B. Kahng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T Wark" target="Weifa Liang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,68 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:10 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:17 2023
 # 
-F. Adachi	4
-Hsiao-Hwa Chen	{'relation': 'collaborate'}
-A. J. Vinck	{'relation': 'collaborate'}
-L. B. Milstein	{'relation': 'collaborate'}
-Q. Bi	{'relation': 'collaborate'}
-Yun Gong	2
-Chien-Min Huang	{'relation': 'collaborate'}
-Michael K. H. Fan	{'relation': 'collaborate'}
-B. Vinter	6
-Frederick R. M. Barnes	{'relation': 'collaborate'}
-J. F. Broenink	{'relation': 'collaborate'}
-P. H. Welch	{'relation': 'collaborate'}
-G. S. Stiles	{'relation': 'collaborate'}
-Adam T. Sampson	{'relation': 'collaborate'}
-H. W. Roebbers	{'relation': 'collaborate'}
-J. F. Broenink	5
-H. W. Roebbers	{'relation': 'collaborate'}
-P. H. Welch	{'relation': 'collaborate'}
-G. S. Stiles	{'relation': 'collaborate'}
-Frederick R. M. Barnes	{'relation': 'collaborate'}
-Adam T. Sampson	{'relation': 'collaborate'}
-C. M. Huang	3
-E. T. -H. Chu	{'relation': 'collaborate'}
-J. W. S. Liu	{'relation': 'collaborate'}
-R. W. Harris	{'relation': 'collaborate'}
-R. W. Harris	3
-G. S. Stiles	{'relation': 'collaborate'}
-Chien-Min Huang	{'relation': 'collaborate'}
-Q. Bi	{'relation': 'collaborate'}
-P. H. Welch	4
-Adam T. Sampson	{'relation': 'collaborate'}
-H. W. Roebbers	{'relation': 'collaborate'}
-Frederick R. M. Barnes	{'relation': 'collaborate'}
-G. S. Stiles	{'relation': 'collaborate'}
-G. S. Stiles	5
-Frederick R. M. Barnes	{'relation': 'collaborate'}
-Adam T. Sampson	{'relation': 'collaborate'}
-Chien-Min Huang	{'relation': 'collaborate'}
-H. W. Roebbers	{'relation': 'collaborate'}
-Q. Bi	{'relation': 'collaborate'}
-A. J. Vinck	3
-Hsiao-Hwa Chen	{'relation': 'collaborate'}
-L. B. Milstein	{'relation': 'collaborate'}
-Q. Bi	{'relation': 'collaborate'}
-Frederick R. M. Barnes	3
-Adrian Gh. Podoleanu	{'relation': 'collaborate'}
-Adam T. Sampson	{'relation': 'collaborate'}
-H. W. Roebbers	{'relation': 'collaborate'}
-Adrian Gh. Podoleanu	0
-Michael K. H. Fan	1
-Chien-Min Huang	{'relation': 'collaborate'}
-H. W. Roebbers	1
-Adam T. Sampson	{'relation': 'collaborate'}
-E. T. -H. Chu	1
-J. W. S. Liu	{'relation': 'collaborate'}
-Chien-Min Huang	1
-Q. Bi	{'relation': 'collaborate'}
-J. W. S. Liu	0
-Hsiao-Hwa Chen	2
-L. B. Milstein	{'relation': 'collaborate'}
-Q. Bi	{'relation': 'collaborate'}
-L. B. Milstein	1
-Q. Bi	{'relation': 'collaborate'}
-Q. Bi	0
-Adam T. Sampson	0
+Chien-Min Huang	Michael K. H. Fan	Yun Gong	R. W. Harris	Q. Bi	G. S. Stiles
+P. H. Welch	Adam T. Sampson	J. F. Broenink	H. W. Roebbers	Frederick R. M. Barnes	B. Vinter	G. S. Stiles
+Q. Bi	Hsiao-Hwa Chen	R. W. Harris	L. B. Milstein	G. S. Stiles	A. J. Vinck	F. Adachi
+Yun Gong	Michael K. H. Fan
+A. J. Vinck	Hsiao-Hwa Chen	F. Adachi	L. B. Milstein
+Michael K. H. Fan
+C. M. Huang	E. T. -H. Chu	J. W. S. Liu	R. W. Harris
+Adrian Gh. Podoleanu	Frederick R. M. Barnes
+H. W. Roebbers	J. F. Broenink	Frederick R. M. Barnes	G. S. Stiles	B. Vinter	Adam T. Sampson
+J. W. S. Liu	E. T. -H. Chu
+Hsiao-Hwa Chen	L. B. Milstein	F. Adachi
+Frederick R. M. Barnes	G. S. Stiles	B. Vinter	Adam T. Sampson	J. F. Broenink
+Adam T. Sampson	G. S. Stiles	B. Vinter	J. F. Broenink
+R. W. Harris	G. S. Stiles
+F. Adachi	L. B. Milstein
+E. T. -H. Chu
+B. Vinter	J. F. Broenink	G. S. Stiles
+J. F. Broenink	G. S. Stiles
+L. B. Milstein
+G. S. Stiles

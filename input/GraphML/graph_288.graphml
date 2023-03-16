@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Mohamed Jmaiel">
+      <data key="affiliation">ReDCAD, University of Sfax, Tunisia</data>
+      <data key="research">non-functional property, verification approach, proposed approach</data>
+    </node>
+    <node id="Mohamed Hadj Kacem">
+      <data key="affiliation">University of Sfax, Laboratory ReDCADENIS, Sfax, Tunisia and LAAS, CNRS, Toulouse, France</data>
+      <data key="research">architectural style, construction pattern-based software architecture, dynamic software architecture</data>
+    </node>
+    <node id="Mohamed Miladi">
+      <data key="affiliation">University of Sfax, ReDCAD Laboratory, Tunisia</data>
+      <data key="research">dynamic deployment, dynamic software architecture, sensor network</data>
+    </node>
+    <node id="Mounir Ben Salah">
+      <data key="affiliation">ISMAIKairouan, Tunisia</data>
+      <data key="research">Wiener phase jitter, Uplink OFDMA, Uplink MC-CDMA SystemsPerformance degradation</data>
+    </node>
+    <node id="Ridha Bouallegue">
+      <data key="affiliation">TIME Université, Tunisia</data>
+      <data key="research">simulation result, service discovery, service information</data>
+    </node>
+    <node id="Ammar Bouallégue">
+      <data key="affiliation">Communication Systems Lab, ENIT, Manar University, Tunisia</data>
+      <data key="research">AWGN channel, LDPC code, JSC decoding</data>
+    </node>
+    <node id="Daniel Roviras">
+      <data key="affiliation">LAETITIA Laboratory, AM Paris, Paris, France</data>
+      <data key="research">channel model, chaos-based DS-CDMA system, asynchronous transmission</data>
+    </node>
+    <node id="Florent Kaisser">
+      <data key="affiliation">Univ Lille Nord de France, Lille, France,IFSTTAR, LEOST, Villeneuve d'Ascq, France</data>
+      <data key="research">service discovery, simulation result, Opnet Modeler</data>
+    </node>
+    <node id="Salem HASNAOUI">
+      <data key="affiliation">SysCom Laboratory, National Engineering School of Tunis, Tunis, Tunisia</data>
+      <data key="research">phase noise, Real-Time Middleware, DDS Listeners</data>
+    </node>
+    <node id="Véronique Vèque">
+      <data key="affiliation">Institut d'Electronique Fondamentale, CNRS UMR 8622, Paris XI University, France</data>
+      <data key="research">service information, service discovery, high mobility</data>
+    </node>
+    <node id="Kamel Tourki">
+      <data key="affiliation">Texas A&amp;M University at Qatar Education City, Doha, Qatar</data>
+      <data key="research">sum rate, MAC fading channel, instantaneous channel information</data>
+    </node>
+    <node id="Mohamed-Slim Alouini">
+      <data key="affiliation">Electrical Engineering Program, Division of Physical and Chemical Sciences and Engineering at the King Abdullah University of Sciences and Technology, Thuwal, Saudi Arabia</data>
+      <data key="research">proposed scheme, performance analysis, spectral efficiency</data>
+    </node>
+    <node id="Azza Ouled Zaid">
+      <data key="affiliation">High Computer Science Institute, Tunis, Tunisia</data>
+      <data key="research">joint watermarking, Lossy image compression, compression attack</data>
+    </node>
+    <node id="Aissa Aissa">
+      <data key="affiliation">College of Mathematical and Physical Sciences Computer Science Section, Univ. of Nizwa Nizwa, Sultanate of Oman</data>
+      <data key="research">propagation attenuation, street-guided propagation, CDSP algorithm</data>
+    </node>
+    <node id="Danièle Fournier-Prunaret">
+      <data key="affiliation">6'TeISUP'COM, Cité Ghazalah, Tunisia</data>
+      <data key="research">chaotic signal, chaotic map, dimensional chaotic map</data>
+    </node>
+    <node id="David Gesbert">
+      <data key="affiliation">Mobile Communications Department of EURECOM, France</data>
+      <data key="research">base station, channel condition, channel reciprocity</data>
+    </node>
+    <node id="Luc Deneire">
+      <data key="affiliation">Laboratoire I3S, Sophia Antipolis, France</data>
+      <data key="research">full diversity, wireless robotics, channel estimation</data>
+    </node>
+    <node id="Mazen O. Hasna">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Minnesota Univ., USA</data>
+      <data key="research">End-to-end performance, performance analysis, similar performance</data>
+    </node>
+    <node id="Mohamed Adnan Landolsi">
+      <data key="affiliation">Electrical Engineering Department, King Fahd University of Petroleum &amp; Minerals, Dhahran, Kingdom of Saudi Arabia</data>
+      <data key="research">better performance, trapping set, simulation result</data>
+    </node>
+    <node id="Kaouthar Sethom">
+      <data key="affiliation">Computer Science Laboratory, University of Pierre et Marie Curie, 104 Avenue du President Kennedy, 75016 Paris, France.</data>
+      <data key="research">wireless network, different network, account wireless</data>
+    </node>
+    <edge source="Mohamed Jmaiel" target="Mohamed Miladi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed Jmaiel" target="Mohamed Hadj Kacem">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed Hadj Kacem" target="Mohamed Miladi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed Miladi" target="Ridha Bouallegue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mounir Ben Salah" target="Ridha Bouallegue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Kamel Tourki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Danièle Fournier-Prunaret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Aissa Aissa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Azza Ouled Zaid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="David Gesbert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Kaouthar Sethom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Mohamed Adnan Landolsi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Daniel Roviras">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Salem HASNAOUI">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Florent Kaisser">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Ammar Bouallégue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ridha Bouallegue" target="Véronique Vèque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ammar Bouallégue" target="Azza Ouled Zaid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ammar Bouallégue" target="Mohamed-Slim Alouini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Roviras" target="Danièle Fournier-Prunaret">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Florent Kaisser" target="Véronique Vèque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kamel Tourki" target="Mohamed-Slim Alouini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kamel Tourki" target="Mazen O. Hasna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kamel Tourki" target="Luc Deneire">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kamel Tourki" target="David Gesbert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed-Slim Alouini" target="David Gesbert">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed-Slim Alouini" target="Mazen O. Hasna">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed-Slim Alouini" target="Luc Deneire">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

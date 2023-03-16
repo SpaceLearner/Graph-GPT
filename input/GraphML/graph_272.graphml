@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Cretson Leo Dalmadge">
+      <data key="affiliation">WinstonSalem State University</data>
+      <data key="research">communication quality, system scalability, media choice</data>
+    </node>
+    <node id="Kedar Samant">
+      <data key="affiliation">Department of Information &amp; Decision Sciences, Liautaud Graduate School of Business, University of Illinois at Chicago, Chicago, IL</data>
+      <data key="research">IT personnel layoffs, P2P network, IT personnel</data>
+    </node>
+    <node id="Lon-Mu Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">data mining, fast-food restaurant franchise data, time series</data>
+    </node>
+    <node id="Rong Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Author Identification, intentional code modification, program data flow</data>
+    </node>
+    <node id="Susanta Chakraborty">
+      <data key="affiliation">Department of Computer Science and Technology, Bengal Engineering and Science University, Shibpur 711103, India</data>
+      <data key="research">activation function, optimized class response, intensity image</data>
+    </node>
+    <node id="Kurian Tharakunnel">
+      <data key="affiliation">Tabor School of Business, Millikin University, 1184 West Main Street, Decatur, IL 62522, USA</data>
+      <data key="research">fitness dilemma, fitness pressure, accuracy-based fitness approach</data>
+    </node>
+    <node id="Roman Man-Chung Wong">
+      <data key="affiliation">Barry University</data>
+      <data key="research">communication quality, system scalability, media choice</data>
+    </node>
+    <node id="Yifeng Zhang">
+      <data key="affiliation">Digital Signal Processing Division, Radio Engineering Department,  Southeast University, Nanjing, Jiansu, P.R. China, 210096, email:  minglgu@seu.edu.cn</data>
+      <data key="research">map network, swarm direction, proposed neural network</data>
+    </node>
+    <node id="Gary J. Koehler">
+      <data key="affiliation">Information and Decision Sciences, College of Business Administration, University of Illinois at Chicago, 601 S. Morgan Street (MC 294) 606077124, Chicago, IL</data>
+      <data key="research">decision maker, web service, winner-determination problem</data>
+    </node>
+    <node id="J. C. Westland">
+      <data key="affiliation">University of Illinois</data>
+      <data key="research">electronic commerce research, ECRA Co-Editors, current research</data>
+    </node>
+    <node id="Arkalgud Ramaprasad">
+      <data key="affiliation">University of Illinois, Chicago</data>
+      <data key="research">decision-making tool, ontological design, choice overload</data>
+    </node>
+    <node id="Parag C. Pendharkar">
+      <data key="affiliation">Pennsylvania State University at Harrisburg</data>
+      <data key="research">data mining technology</data>
+    </node>
+    <node id="Kumar Mehta">
+      <data key="affiliation">School of Management, George Mason University, Fairfax 22030</data>
+      <data key="research">training duration, data skewness, retailer price level</data>
+    </node>
+    <node id="Paramartha Dutta">
+      <data key="affiliation">VB, Santiniketan, West Bengal, India</data>
+      <data key="research">neural network, node weight, fuzzy layer</data>
+    </node>
+    <node id="Stanley L. Sclove">
+      <data key="affiliation">Nan</data>
+      <data key="research">Business Statistics Full, Business StatisticsThe Practice, Excel Manual</data>
+    </node>
+    <node id="Y. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Execution Software Integration Architecture, Manufacturing Planning</data>
+    </node>
+    <node id="Olivier V. Pictet">
+      <data key="affiliation">Olsen&amp;Associates Research Institute for Applied Economics, Zurich, Switzerland</data>
+      <data key="research">trading decision model, trading model, trading model specification</data>
+    </node>
+    <node id="Siddhartha Bhattacharyya">
+      <data key="affiliation">Nan</data>
+      <data key="research">data mining, fast-food restaurant franchise data, time series</data>
+    </node>
+    <node id="Michael Vose">
+      <data key="affiliation">Computer Science Department The University of Tennessee 107 Ayres Hall Knoxville, TN 379961301 vose@cs.utk.edu</data>
+      <data key="research">simple genetic algorithm, search space, fixed point</data>
+    </node>
+    <node id="Sandip Dey">
+      <data key="affiliation">Persistent Systems Ltd., Pune, India</data>
+      <data key="research">Mutual exclusion problem, classic problem, important problem</data>
+    </node>
+    <edge source="Cretson Leo Dalmadge" target="Roman Man-Chung Wong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kedar Samant" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lon-Mu Liu" target="Stanley L. Sclove">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lon-Mu Liu" target="Rong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lon-Mu Liu" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Chen" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Chen" target="Stanley L. Sclove">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanta Chakraborty" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kurian Tharakunnel" target="J. C. Westland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kurian Tharakunnel" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roman Man-Chung Wong" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roman Man-Chung Wong" target="Arkalgud Ramaprasad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yifeng Zhang" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary J. Koehler" target="Michael Vose">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary J. Koehler" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. C. Westland" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arkalgud Ramaprasad" target="Parag C. Pendharkar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arkalgud Ramaprasad" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Parag C. Pendharkar" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kumar Mehta" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paramartha Dutta" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stanley L. Sclove" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Zhang" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olivier V. Pictet" target="Siddhartha Bhattacharyya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Siddhartha Bhattacharyya" target="Sandip Dey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Siddhartha Bhattacharyya" target="Michael Vose">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,26 +1,26 @@
-Gyana Parija	W E Wilhelm	{'relation': 'collaborate'}
-Benjamin McClosky	Illya V. Hicks	{'relation': 'collaborate'}
-J. Ma	Illya V. Hicks	{'relation': 'collaborate'}
-J. Ma	S. S. Margulies	{'relation': 'collaborate'}
-Krishnaswami Srihari	Patrick H. Madden	{'relation': 'collaborate'}
-Krishnaswami Srihari	Purushothaman Damodaran	{'relation': 'collaborate'}
-Krishnaswami Srihari	Sarah S. Lam	{'relation': 'collaborate'}
-Krishnaswami Srihari	Ameya R. Agnihotri	{'relation': 'collaborate'}
-Mohan V. Kalkunte	W E Wilhelm	{'relation': 'collaborate'}
-Patrick H. Madden	Ameya R. Agnihotri	{'relation': 'collaborate'}
-Patrick H. Madden	Purushothaman Damodaran	{'relation': 'collaborate'}
+S. S. Margulies	Illya V. Hicks	{'relation': 'collaborate'}
+S. S. Margulies	J. Ma	{'relation': 'collaborate'}
+Xiaoyan Zhu	W E Wilhelm	{'relation': 'collaborate'}
+Sarah S. Lam	Krishnaswami Srihari	{'relation': 'collaborate'}
 Sarah S. Lam	Purushothaman Damodaran	{'relation': 'collaborate'}
-Balabhaskar Balasundaram	S. Butenko	{'relation': 'collaborate'}
-Balabhaskar Balasundaram	Illya V. Hicks	{'relation': 'collaborate'}
-W E Wilhelm	Illya V. Hicks	{'relation': 'collaborate'}
-W E Wilhelm	Purushothaman Damodaran	{'relation': 'collaborate'}
-W E Wilhelm	Xiaoyan Zhu	{'relation': 'collaborate'}
-W E Wilhelm	Donglin Liang	{'relation': 'collaborate'}
-W E Wilhelm	Charles R. Cash	{'relation': 'collaborate'}
+S. Butenko	Balabhaskar Balasundaram	{'relation': 'collaborate'}
+S. Butenko	Illya V. Hicks	{'relation': 'collaborate'}
 Chao Wang	Purushothaman Damodaran	{'relation': 'collaborate'}
 Chao Wang	Chao Wang	{'relation': 'collaborate'}
-S. Butenko	Illya V. Hicks	{'relation': 'collaborate'}
-S. S. Margulies	Illya V. Hicks	{'relation': 'collaborate'}
-Mario Cesar Velez Gallego	Purushothaman Damodaran	{'relation': 'collaborate'}
+Illya V. Hicks	Benjamin McClosky	{'relation': 'collaborate'}
+Illya V. Hicks	J. Ma	{'relation': 'collaborate'}
+Illya V. Hicks	W E Wilhelm	{'relation': 'collaborate'}
+Illya V. Hicks	Balabhaskar Balasundaram	{'relation': 'collaborate'}
 Illya V. Hicks	Jonathan C. Smith	{'relation': 'collaborate'}
-Purushothaman Damodaran	Ameya R. Agnihotri	{'relation': 'collaborate'}
+Mohan V. Kalkunte	W E Wilhelm	{'relation': 'collaborate'}
+Krishnaswami Srihari	Patrick H. Madden	{'relation': 'collaborate'}
+Krishnaswami Srihari	Purushothaman Damodaran	{'relation': 'collaborate'}
+Krishnaswami Srihari	Ameya R. Agnihotri	{'relation': 'collaborate'}
+Ameya R. Agnihotri	Purushothaman Damodaran	{'relation': 'collaborate'}
+Ameya R. Agnihotri	Patrick H. Madden	{'relation': 'collaborate'}
+Patrick H. Madden	Purushothaman Damodaran	{'relation': 'collaborate'}
+Donglin Liang	W E Wilhelm	{'relation': 'collaborate'}
+Gyana Parija	W E Wilhelm	{'relation': 'collaborate'}
+Purushothaman Damodaran	W E Wilhelm	{'relation': 'collaborate'}
+Purushothaman Damodaran	Mario Cesar Velez Gallego	{'relation': 'collaborate'}
+W E Wilhelm	Charles R. Cash	{'relation': 'collaborate'}

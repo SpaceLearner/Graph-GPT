@@ -4,126 +4,129 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="G. Bruno">
-      <data key="affiliation">Nan</data>
-      <data key="research">Hausdorff-Young theorem, periodic function</data>
-    </node>
-    <node id="F Gregoretti">
-      <data key="affiliation">Institute of High Performance Computing and Networking ICARCNR, Naples</data>
-      <data key="research">gene expression profile, gene network, gene regulatory network</data>
-    </node>
-    <node id="C. Sansoè">
-      <data key="affiliation">Politecnico di Torino, Cadence European Labs, Torino, Italy</data>
-      <data key="research">embedded system design, image processing, reactive system</data>
-    </node>
-    <node id="M. Tranchero">
-      <data key="affiliation">Politecnico di Torino, Dipartimento di Elettronica</data>
-      <data key="research">Simulink model, asynchronous circuit, hybrid simulation framework</data>
+    <node id="Gianni Conte">
+      <data key="affiliation">Parco Area delle Scienze, Parma, Italy</data>
+      <data key="research">generalized stochastic Petri net, performance analysis, performance evaluation</data>
     </node>
     <node id="G Zappa">
       <data key="affiliation">Nan</data>
       <data key="research">explicit criterion minimizationRobustness, multipredictor adaptive regulator, positive realness condition</data>
     </node>
-    <node id="E Mosca">
-      <data key="affiliation">Univ. of Florence, Florence, Italy</data>
-      <data key="research">supervisory control, candidate controller, Min-max predictive control strategy</data>
-    </node>
-    <node id="G. Morrone">
-      <data key="affiliation">LAMP (Multimedia Laboratory) COREP and Politecnico di Torino</data>
-      <data key="research">Quick Design, educational interactive multimedia package, educational module</data>
-    </node>
-    <node id="Dante Del Corso">
-      <data key="affiliation">Nan</data>
-      <data key="research">Microcomputer Busses</data>
-    </node>
     <node id="G. Menga">
       <data key="affiliation">Nan</data>
       <data key="research">delivery environment, quick design, quick development</data>
     </node>
-    <node id="M. Morisio">
-      <data key="affiliation">Nan</data>
-      <data key="research">measurement process</data>
-    </node>
-    <node id="E. Ovcin">
-      <data key="affiliation">LAMP (Multimedia Laboratory) COREP and Politecnico di Torino</data>
-      <data key="research">educational interactive multimedia package, educational module, Quick Design</data>
-    </node>
-    <node id="Gianni Conte">
-      <data key="affiliation">Parco Area delle Scienze, Parma, Italy</data>
-      <data key="research">generalized stochastic Petri net, performance analysis, performance evaluation</data>
-    </node>
-    <node id="Claudio Passerone">
-      <data key="affiliation">Politecnico di Torino, Cadence Europeans Labs, Italy</data>
-      <data key="research">embedded system, design methodology, embedded system design</data>
-    </node>
-    <node id="Philip C Treleaven">
-      <data key="affiliation">UK Centre in Financial Computing, London</data>
-      <data key="research">data flow, control flow, Parallel Architectures</data>
+    <node id="M. Tranchero">
+      <data key="affiliation">Politecnico di Torino, Dipartimento di Elettronica</data>
+      <data key="research">Simulink model, asynchronous circuit, hybrid simulation framework</data>
     </node>
     <node id="C. Greco">
       <data key="affiliation">Dipartimento di Automatica e Informatica, Politecnico di Torino, CENS (Centro Elaborazione Numerale del Segnale  CNR), Corso Duca degli Abruzzi 24, 10129 Torino, Italy</data>
       <data key="research">MUSMAR approachThe problem, MUSMAR self-tuner, acronym MUSMAR</data>
     </node>
-    <node id="M. Borri">
-      <data key="affiliation">Department of Information Engineering, University of Modena and Reggio Emilia, Modena, Italy</data>
-      <data key="research">SQRT strategy, TCP Friendly Rate Control, TCP-friendly congestion</data>
-    </node>
-    <node id="H. D. Kirrman">
+    <node id="M. Morisio">
       <data key="affiliation">Nan</data>
-      <data key="research">process control applicationsMicrocomputer Busses</data>
+      <data key="research">measurement process</data>
     </node>
     <node id="L. Reyneri">
       <data key="affiliation">Istituto TeCIP, Scuola Superiore Sant'Anna, Ghezzano PI, Italy</data>
       <data key="research">high resolution, ADC production test, test coverage</data>
     </node>
+    <node id="Philip C Treleaven">
+      <data key="affiliation">UK Centre in Financial Computing, London</data>
+      <data key="research">data flow, control flow, Parallel Architectures</data>
+    </node>
     <node id="P. L. Civera">
       <data key="affiliation">Dipartmento di Elettronica, Politecnico di Torino, Italy</data>
       <data key="research">proposed approach, VLSI circuit, simulation-based technique</data>
+    </node>
+    <node id="C. Sansoè">
+      <data key="affiliation">Politecnico di Torino, Cadence European Labs, Torino, Italy</data>
+      <data key="research">embedded system design, image processing, reactive system</data>
+    </node>
+    <node id="M. Borri">
+      <data key="affiliation">Department of Information Engineering, University of Modena and Reggio Emilia, Modena, Italy</data>
+      <data key="research">SQRT strategy, TCP Friendly Rate Control, TCP-friendly congestion</data>
+    </node>
+    <node id="E Mosca">
+      <data key="affiliation">Univ. of Florence, Florence, Italy</data>
+      <data key="research">supervisory control, candidate controller, Min-max predictive control strategy</data>
+    </node>
+    <node id="G. Bruno">
+      <data key="affiliation">Nan</data>
+      <data key="research">Hausdorff-Young theorem, periodic function</data>
     </node>
     <node id="Karl-E. Grosspietsch">
       <data key="affiliation">EUROMICRO, Sankt Augustin, Germany</data>
       <data key="research">n-version system, system behavior, fault tolerance</data>
     </node>
-    <edge source="G. Bruno" target="G. Menga">
+    <node id="Claudio Passerone">
+      <data key="affiliation">Politecnico di Torino, Cadence Europeans Labs, Italy</data>
+      <data key="research">embedded system, design methodology, embedded system design</data>
+    </node>
+    <node id="E. Ovcin">
+      <data key="affiliation">LAMP (Multimedia Laboratory) COREP and Politecnico di Torino</data>
+      <data key="research">educational interactive multimedia package, educational module, Quick Design</data>
+    </node>
+    <node id="H. D. Kirrman">
+      <data key="affiliation">Nan</data>
+      <data key="research">process control applicationsMicrocomputer Busses</data>
+    </node>
+    <node id="Dante Del Corso">
+      <data key="affiliation">Nan</data>
+      <data key="research">Microcomputer Busses</data>
+    </node>
+    <node id="G. Morrone">
+      <data key="affiliation">LAMP (Multimedia Laboratory) COREP and Politecnico di Torino</data>
+      <data key="research">Quick Design, educational interactive multimedia package, educational module</data>
+    </node>
+    <node id="F Gregoretti">
+      <data key="affiliation">Institute of High Performance Computing and Networking ICARCNR, Naples</data>
+      <data key="research">gene expression profile, gene network, gene regulatory network</data>
+    </node>
+    <edge source="Gianni Conte" target="L. Reyneri">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="C. Sansoè">
+    <edge source="Gianni Conte" target="Dante Del Corso">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="Dante Del Corso">
+    <edge source="Gianni Conte" target="F Gregoretti">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="Claudio Passerone">
+    <edge source="Gianni Conte" target="P. L. Civera">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="Gianni Conte">
+    <edge source="Gianni Conte" target="C. Sansoè">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="L. Reyneri">
+    <edge source="G Zappa" target="E Mosca">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F Gregoretti" target="P. L. Civera">
+    <edge source="G Zappa" target="G. Menga">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="P. L. Civera">
+    <edge source="G Zappa" target="C. Greco">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="Dante Del Corso">
+    <edge source="G. Menga" target="G. Morrone">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="M. Borri">
+    <edge source="G. Menga" target="M. Morisio">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="M. Tranchero">
+    <edge source="G. Menga" target="C. Greco">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="Claudio Passerone">
+    <edge source="G. Menga" target="E. Ovcin">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="L. Reyneri">
+    <edge source="G. Menga" target="G. Bruno">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="C. Sansoè" target="Gianni Conte">
+    <edge source="G. Menga" target="E Mosca">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Menga" target="Dante Del Corso">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="M. Tranchero" target="Dante Del Corso">
@@ -138,88 +141,85 @@
     <edge source="M. Tranchero" target="M. Borri">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G Zappa" target="E Mosca">
+    <edge source="M. Tranchero" target="C. Sansoè">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G Zappa" target="G. Menga">
+    <edge source="C. Greco" target="E Mosca">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G Zappa" target="C. Greco">
+    <edge source="L. Reyneri" target="Dante Del Corso">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="E Mosca" target="C. Greco">
+    <edge source="L. Reyneri" target="M. Borri">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="E Mosca" target="G. Menga">
+    <edge source="L. Reyneri" target="P. L. Civera">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G. Morrone" target="G. Menga">
+    <edge source="L. Reyneri" target="F Gregoretti">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G. Morrone" target="Dante Del Corso">
+    <edge source="L. Reyneri" target="Claudio Passerone">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="G. Morrone" target="E. Ovcin">
+    <edge source="L. Reyneri" target="C. Sansoè">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Dante Del Corso" target="Karl-E. Grosspietsch">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="L. Reyneri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="E. Ovcin">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="H. D. Kirrman">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="Gianni Conte">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="Claudio Passerone">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="Philip C Treleaven">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="G. Menga">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="M. Borri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Dante Del Corso" target="P. L. Civera">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="G. Menga" target="M. Morisio">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="G. Menga" target="C. Greco">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="G. Menga" target="E. Ovcin">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gianni Conte" target="L. Reyneri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Gianni Conte" target="P. L. Civera">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Claudio Passerone" target="M. Borri">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Claudio Passerone" target="L. Reyneri">
+    <edge source="Philip C Treleaven" target="Dante Del Corso">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Philip C Treleaven" target="Karl-E. Grosspietsch">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="M. Borri" target="L. Reyneri">
+    <edge source="P. L. Civera" target="C. Sansoè">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Reyneri" target="P. L. Civera">
+    <edge source="P. L. Civera" target="F Gregoretti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. L. Civera" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Sansoè" target="F Gregoretti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Sansoè" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Sansoè" target="M. Borri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Sansoè" target="Claudio Passerone">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Borri" target="Claudio Passerone">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Borri" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karl-E. Grosspietsch" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Claudio Passerone" target="F Gregoretti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Claudio Passerone" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Ovcin" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Ovcin" target="G. Morrone">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. D. Kirrman" target="Dante Del Corso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dante Del Corso" target="G. Morrone">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dante Del Corso" target="F Gregoretti">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

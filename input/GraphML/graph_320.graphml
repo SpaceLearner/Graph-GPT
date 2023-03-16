@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="N. D. Singpurwalla">
+      <data key="affiliation">The George Washington Univ., Washington, DC</data>
+      <data key="research">software failure, software testing, network reliability</data>
+    </node>
+    <node id="Denise M. Bevilacqua Masi">
+      <data key="affiliation">Noblis, Falls Church, VA</data>
+      <data key="research">video packet, disaster response management performance, integrated services performance assurance</data>
+    </node>
+    <node id="Martin J. Fischer">
+      <data key="affiliation">Noblis, Falls Church, VA</data>
+      <data key="research">traffic class, Internet Protocol, heavy-tailed distribution</data>
+    </node>
+    <node id="Howard Bernett">
+      <data key="affiliation">Mitretek Systems, Inc.</data>
+      <data key="research">Web site, call center, Web customer</data>
+    </node>
+    <node id="Brian L. Mark">
+      <data key="affiliation">C &amp; C Research Laboratories, NEC USA, Inc., Princeton, NJ</data>
+      <data key="research">proposed scheme, cellular network, mobile station</data>
+    </node>
+    <node id="Percy H. Brill">
+      <data key="affiliation">University of Windsor, Windsor, Ontario N9B 3P4, CANADA</data>
+      <data key="research">service time, heavy-tailed distribution, Pareto service timesIt</data>
+    </node>
+    <node id="Merza Hasan">
+      <data key="affiliation">Nan</data>
+      <data key="research">simulated annealing, discrete stochastic system, genetic algorithm</data>
+    </node>
+    <node id="Young-Chon Kim">
+      <data key="affiliation">Nan</data>
+      <data key="research">Integrated FBG Sensor Control, FBG sensor, Central Optical Sensor Measurement</data>
+    </node>
+    <node id="John F. Shortle">
+      <data key="affiliation">4400 University Dr., MS, Fairfax, V.A.</data>
+      <data key="research">service time, queueing theory, simulation time</data>
+    </node>
+    <node id="Bingchang Gu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Iterative solution method, Markovian multi-echelon repairable item, inventory system</data>
+    </node>
+    <node id="O Marcotte">
+      <data key="affiliation">HEC Montréal, Montréal (Québec), Canada</data>
+      <data key="research">average distance, channel assignment, stock problem</data>
+    </node>
+    <node id="Douglas R. Miller">
+      <data key="affiliation">George Washington Univ., Washington, DC</data>
+      <data key="research">control variate, sensitivity estimate, present failure rate</data>
+    </node>
+    <node id="Chun-Hung Chen">
+      <data key="affiliation">Department of Electrical Engineering, National Chung Cheng University, ChiaYi, Taiwan, ROC</data>
+      <data key="research">mesh model, MPEG-4 AFX, mesh model herein</data>
+    </node>
+    <node id="Carl M. Harris">
+      <data key="affiliation">The George Washington University, School of Engineering and Applied Science, Washington, D.C</data>
+      <data key="research">queueing theory, Fourth Edition, Coxian distribution</data>
+    </node>
+    <node id="David A. Garbin">
+      <data key="affiliation">Noblis</data>
+      <data key="research">Open Source, open source component, Enterprise Geographic Information SystemsEnterprises</data>
+    </node>
+    <node id="R M Soland">
+      <data key="affiliation">George Washington University, Washington, DC</data>
+      <data key="research">interactive branch-and-bound algorithm, interactive combined branch-and-bound, multiple criteria optimization</data>
+    </node>
+    <node id="Mohamed A. Ahmed">
+      <data key="affiliation">Nan</data>
+      <data key="research">original call, Performance Evaluation, different handoff</data>
+    </node>
+    <node id="Donald Gross">
+      <data key="affiliation">Nan</data>
+      <data key="research">Iterative solution method, Markovian multi-echelon repairable item, inventory system</data>
+    </node>
+    <node id="James M. Thompson">
+      <data key="affiliation">HumanMachine Systems Laboratory, Massachusetts Institute of Technology, 77 Massachusetts Ave. 3347 Cambridge, MA, 02139</data>
+      <data key="research">time delay, surgical task, bilateral force-reflecting teleoperator system</data>
+    </node>
+    <node id="Saul I. Gass">
+      <data key="affiliation">ACM Southeast Regional Representative</data>
+      <data key="research">National ACM membership survey</data>
+    </node>
+    <edge source="N. D. Singpurwalla" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="Howard Bernett">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="John F. Shortle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="David A. Garbin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="Martin J. Fischer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="Chun-Hung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Denise M. Bevilacqua Masi" target="Percy H. Brill">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="Carl M. Harris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="Howard Bernett">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="Chun-Hung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="John F. Shortle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="David A. Garbin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin J. Fischer" target="Percy H. Brill">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brian L. Mark" target="John F. Shortle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brian L. Mark" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Percy H. Brill" target="John F. Shortle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Percy H. Brill" target="Carl M. Harris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Percy H. Brill" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Merza Hasan" target="Mohamed A. Ahmed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-Chon Kim" target="Mohamed A. Ahmed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John F. Shortle" target="Chun-Hung Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John F. Shortle" target="James M. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John F. Shortle" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John F. Shortle" target="Carl M. Harris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bingchang Gu" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bingchang Gu" target="R M Soland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="O Marcotte" target="R M Soland">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas R. Miller" target="Mohamed A. Ahmed">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas R. Miller" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl M. Harris" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl M. Harris" target="Saul I. Gass">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl M. Harris" target="James M. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R M Soland" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed A. Ahmed" target="Donald Gross">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald Gross" target="Saul I. Gass">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald Gross" target="James M. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

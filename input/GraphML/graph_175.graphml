@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Erik Murphy-Chutorian">
+      <data key="affiliation">Google Inc., Mountain View</data>
+      <data key="research">large spatial head, Vision-based head, automatic head</data>
+    </node>
+    <node id="Li-Yu Liu">
+      <data key="affiliation">Department of Computer Science &amp; Engineering, National Taiwan Ocean University, Keelung, Taiwan R.O.C.</data>
+      <data key="research">new method, Dual-Tree Wavelet Transform, experimental result</data>
+    </node>
+    <node id="Chi-Chang Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">node reconfiguration, runtime node reconfiguration, Shared Memory</data>
+    </node>
+    <node id="Ja-Ling Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">invariant opening, space-varying opening, structuring element</data>
+    </node>
+    <node id="Kuang-Chih Lee">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Inf. Eng., Nat. Taiwan Univ., Taipei</data>
+      <data key="research">MDC system, classroom manager, instruction evaluation system</data>
+    </node>
+    <node id="Wen-Chin Chen">
+      <data key="affiliation">Graduate student, Department of Industrial Technology Education, National Kaohsiung Normal University, Taiwan</data>
+      <data key="research">application knowledge management, knowledge management, vocational high school</data>
+    </node>
+    <node id="Shyh-Kuang Ueng">
+      <data key="affiliation">Nan</data>
+      <data key="research">objective smoothness assessment method, proposed smoothness index, direct volume</data>
+    </node>
+    <node id="Mu-Yen Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed model, stock market, forecasting accuracy</data>
+    </node>
+    <node id="S Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">BCH code, component code, cyclic code</data>
+    </node>
+    <node id="Chun-Chuan Yang">
+      <data key="affiliation">Communications and Multimedia Laboratory Department of Computer Science and Information Engineering National Taiwan University, Taipei, Taiwan R.O.C.</data>
+      <data key="research">proposed scheme, proposed approach, simulation result</data>
+    </node>
+    <node id="Mao-Chao Lin">
+      <data key="affiliation">Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan, R.O.C.</data>
+      <data key="research">binary cyclic code, error pattern, unequal error protection capability</data>
+    </node>
+    <node id="Ing-Chau Chang">
+      <data key="affiliation">Department of Computer Science and Information Engineering, National Changhua, University of Education, Changhua, Taiwan, R.O.C</data>
+      <data key="research">nested mobile network, mobile host, heterogeneous wireless network</data>
+    </node>
+    <node id="Shiuh-Sheng Yu">
+      <data key="affiliation">Department of Information Management, National Chi Nan University, 303 University Road, Puli, Nantou 545, Taiwan</data>
+      <data key="research">hybrid particle swarm optimization, genetic algorithm, different processor</data>
+    </node>
+    <node id="Leonard Kleinrock">
+      <data key="affiliation">Computer Science Dept. UCLA, 405 Hilgard Ave, Los angeles California 90024, USA</data>
+      <data key="research">computer network, unstructured network, analytical model</data>
+    </node>
+    <node id="Ce-Kuen Shieh">
+      <data key="affiliation">Department of Electrical Engineering, Institute of Computer and Communication Engineering, National Cheng Kung University, Tainan, Taiwan</data>
+      <data key="research">inter-site environment, intra-site environment, rescue application</data>
+    </node>
+    <node id="Jochen Triesch">
+      <data key="affiliation">Frankfurt Institute for Advanced Studies, Johann Wolfgang Goethe University, MaxvonLaueStr. 1, 60438 Frankfurt am Main, Germany and Department of Cognitive Science, UC San Diego, 9500 Gilman Dr ...</data>
+      <data key="research">intrinsic plasticity, reinforcement learning, computational model</data>
+    </node>
+    <node id="Jyh-Chang Ueng">
+      <data key="affiliation">Nan</data>
+      <data key="research">object-based memory, memory system, memory consistency model</data>
+    </node>
+    <node id="Keh-Ning Chang">
+      <data key="affiliation">Nan</data>
+      <data key="research">exact solution, minimal recurrence</data>
+    </node>
+    <node id="Mong-Shu Lee">
+      <data key="affiliation">National Taiwan Ocean University</data>
+      <data key="research">proposed method, new method, novel method</data>
+    </node>
+    <node id="Jau-Hsiung Huang">
+      <data key="affiliation">National Taiwan Univ., Taipei, Taiwan</data>
+      <data key="research">MDC system, parallel processing system, Golestani S.J</data>
+    </node>
+    <edge source="Erik Murphy-Chutorian" target="Kuang-Chih Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik Murphy-Chutorian" target="Jochen Triesch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li-Yu Liu" target="Mu-Yen Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li-Yu Liu" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Jyh-Chang Ueng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Ing-Chau Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Ce-Kuen Shieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Mao-Chao Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="S Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Chun-Chuan Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chi-Chang Lin" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ja-Ling Wu" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ja-Ling Wu" target="Wen-Chin Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Keh-Ning Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Jochen Triesch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Shiuh-Sheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Ing-Chau Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kuang-Chih Lee" target="Wen-Chin Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Chin Chen" target="Shiuh-Sheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Chin Chen" target="Keh-Ning Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Chin Chen" target="Ing-Chau Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Chin Chen" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shyh-Kuang Ueng" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu-Yen Chen" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S Lin" target="Mao-Chao Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Chuan Yang" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Chuan Yang" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Chuan Yang" target="Ing-Chau Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ing-Chau Chang" target="Shiuh-Sheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ing-Chau Chang" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ing-Chau Chang" target="Mong-Shu Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ing-Chau Chang" target="Keh-Ning Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiuh-Sheng Yu" target="Keh-Ning Chang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiuh-Sheng Yu" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Leonard Kleinrock" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ce-Kuen Shieh" target="Jyh-Chang Ueng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keh-Ning Chang" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mong-Shu Lee" target="Jau-Hsiung Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

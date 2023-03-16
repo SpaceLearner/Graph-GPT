@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Kisung Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">spatial alarm processing, alarm check, spatial alarm</data>
+    </node>
+    <node id="Zhang Jie">
+      <data key="affiliation">Institute for Infocomm research, Singapore</data>
+      <data key="research">feature-based relation extraction, relation extraction, ACE relation subtypes</data>
+    </node>
+    <node id="Yi Ren">
+      <data key="affiliation">Peking University</data>
+      <data key="research">structure element, complex material behavior, constituent material</data>
+    </node>
+    <node id="Feng Shao">
+      <data key="affiliation">Fraunhofer Institute of Integrated Systems and Device Technology (IISB), Schottkystrasse 10, 91058 Erlangen, Germany and Erlangen Graduate School in Advanced Optical Technologies (SAOT), Germany</data>
+      <data key="research">topographic wafer stack, wafer topography, wafer stack</data>
+    </node>
+    <node id="Qing Xu">
+      <data key="affiliation">McGill University</data>
+      <data key="research">Time Warp, parallel platform, logic simulation</data>
+    </node>
+    <node id="Jun Zhuang">
+      <data key="affiliation">Nan</data>
+      <data key="research">convergence result, quantized data, KLT estimate</data>
+    </node>
+    <node id="Yuzhe Tang">
+      <data key="affiliation">Georgia Tech, Atlanta, GA, USA</data>
+      <data key="research">complex query, continuous query, P2P system</data>
+    </node>
+    <node id="Yao Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Data Cubes, Privacy Preservation</data>
+    </node>
+    <node id="Rong Jin">
+      <data key="affiliation">Michigan State University, East Lansing, MI, USA</data>
+      <data key="research">Online Feature Selection, online learning, encouraging result</data>
+    </node>
+    <node id="Qi Zhang">
+      <data key="affiliation">University of New Orleans, New Orleans, LA</data>
+      <data key="research">clustering algorithm, clustering evaluation method, clustering method</data>
+    </node>
+    <node id="Xu Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Crowded Event ManagementOnline auction, RFID Technology, bid price</data>
+    </node>
+    <node id="Ke-Ping Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Distribution Generation, engineering simulation analysis, simulation result</data>
+    </node>
+    <node id="Dongsheng Zhao">
+      <data key="affiliation">Mathematics and Mathematics Education, National Institute of Education, Nanyang Technological University, 1 Nanyang Walk, Singapore 637616, Singapore</data>
+      <data key="research">poset P, fundamental study, local dcpo-completion</data>
+    </node>
+    <node id="Xu Lei">
+      <data key="affiliation">Nan</data>
+      <data key="research">Device Controller IP Soft-Core, SoC Technology, IP core</data>
+    </node>
+    <node id="Jing Bo">
+      <data key="affiliation">Nan</data>
+      <data key="research">metropolis rule, genetic algorithm, agent-mediated electronic commerce</data>
+    </node>
+    <node id="Yanchun Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">indexing andretrieval technique, Retrieval TechniquesContent-based image retrieval, area ofmultimedia databases</data>
+    </node>
+    <node id="GuangWen Yang">
+      <data key="affiliation">Department of Computer Science and Technology, Tsinghua University, Beijing 100084, P.R. China</data>
+      <data key="research">data integration, grid environment, data source</data>
+    </node>
+    <node id="Yang Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">environmental system, Air Pollutants Mitigation, energy process</data>
+    </node>
+    <node id="Xuefei Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">domain ontology, domain ontology automatic evolution, ontology knowledge</data>
+    </node>
+    <node id="Zheng Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Crisis Communication Mechanism, Evolutionary Game Theory, different mechanism</data>
+    </node>
+    <edge source="Kisung Lee" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kisung Lee" target="Yuzhe Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kisung Lee" target="Qi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kisung Lee" target="Yi Ren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Jie" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Jie" target="Zhang Jie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Jie" target="Jing Bo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Ren" target="Yuzhe Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Ren" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Ren" target="Qi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng Shao" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qing Xu" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Zhuang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuzhe Tang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuzhe Tang" target="Qi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Liu" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao Liu" target="Xuefei Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Jin" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rong Jin" target="Zheng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qi Zhang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Huang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Huang" target="Xu Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke-Ping Zhu" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongsheng Zhao" target="Yanchun Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongsheng Zhao" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xu Lei" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Bo" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yanchun Zhang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="GuangWen Yang" target="Yang Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Zhou" target="Xuefei Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Zhou" target="Zheng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

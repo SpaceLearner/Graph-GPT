@@ -1,51 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:56 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:02 2023
 # 
-Walter Knödel	2
-Gerald Farin	{'relation': 'collaborate'}
-H. Noltemeier	{'relation': 'collaborate'}
-Bernd Hamann	3
-Issac J. Trotts	{'relation': 'collaborate'}
-Gerald Farin	{'relation': 'collaborate'}
-Gregory Nielson	{'relation': 'collaborate'}
-Myungsoo Bae	3
-Anshuman Razdan	{'relation': 'collaborate'}
-Gerald Farin	{'relation': 'collaborate'}
-M. R. Henderson	{'relation': 'collaborate'}
-A. J. Worsey	1
-Gerald Farin	{'relation': 'collaborate'}
-M. R. Henderson	2
-Gerald Farin	{'relation': 'collaborate'}
-Anshuman Razdan	{'relation': 'collaborate'}
-H. Noltemeier	1
-Gerald Farin	{'relation': 'collaborate'}
-Gerald Farin	13
-Issac J. Trotts	{'relation': 'collaborate'}
-Ronald N. Goldman	{'relation': 'collaborate'}
-Kerstin Müller	{'relation': 'collaborate'}
-Georgios Stylianou	{'relation': 'collaborate'}
-G. Wu	{'relation': 'collaborate'}
-F. Zeilfelder	{'relation': 'collaborate'}
-Anne Gelb	{'relation': 'collaborate'}
-Wolfgang Böhm	{'relation': 'collaborate'}
-Anshuman Razdan	{'relation': 'collaborate'}
-Adam Huang	{'relation': 'collaborate'}
-Ahmad H. Nasri	{'relation': 'collaborate'}
-Gregory Nielson	{'relation': 'collaborate'}
-Donghak Jung	{'relation': 'collaborate'}
-Adam Huang	2
-Anshuman Razdan	{'relation': 'collaborate'}
-Gregory Nielson	{'relation': 'collaborate'}
-Ronald N. Goldman	0
-Ahmad H. Nasri	0
-Donghak Jung	0
-Issac J. Trotts	0
-F. Zeilfelder	0
-Georgios Stylianou	0
-Anshuman Razdan	1
-Gregory Nielson	{'relation': 'collaborate'}
-Gregory Nielson	0
-Anne Gelb	0
-G. Wu	0
-Wolfgang Böhm	0
-Kerstin Müller	0
+H. Noltemeier	Walter Knödel	Gerald Farin
+Donghak Jung	Gerald Farin
+Gregory Nielson	Gerald Farin	Anshuman Razdan	Adam Huang	Bernd Hamann
+A. J. Worsey	Gerald Farin
+Bernd Hamann	Issac J. Trotts	Gerald Farin
+Georgios Stylianou	Gerald Farin
+Ronald N. Goldman	Gerald Farin
+Anshuman Razdan	Myungsoo Bae	Gerald Farin	Adam Huang	M. R. Henderson
+Adam Huang	Gerald Farin
+M. R. Henderson	Gerald Farin	Myungsoo Bae
+Kerstin Müller	Gerald Farin
+Walter Knödel	Gerald Farin
+G. Wu	Gerald Farin
+Wolfgang Böhm	Gerald Farin
+Issac J. Trotts	Gerald Farin
+F. Zeilfelder	Gerald Farin
+Myungsoo Bae	Gerald Farin
+Anne Gelb	Gerald Farin
+Ahmad H. Nasri	Gerald Farin
+Gerald Farin

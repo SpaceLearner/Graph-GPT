@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Tim Miller">
+      <data key="affiliation">Blur Studio</data>
+      <data key="research">Elder Scrolls online, Elder ScrollsAKQA, Aldmeri Dominion</data>
+    </node>
+    <node id="Zhiyong Zhang">
+      <data key="affiliation">Shenzhen Institutes of Advanced Technology, China</data>
+      <data key="research">textile electrode, multifunction myoelectric prosthesis, myoelectric prosthesis</data>
+    </node>
+    <node id="Yufu Chen">
+      <data key="affiliation">Graduate University of China Academy of Sciences, Beijing, China</data>
+      <data key="research">border base, border basis, general polynomial ideal</data>
+    </node>
+    <node id="Z. Q. Shi">
+      <data key="affiliation">Institute of Computing Technology, Beijin, China</data>
+      <data key="research">data mining, experimental result, data domain</data>
+    </node>
+    <node id="Yubin Wang">
+      <data key="affiliation">Power Supply Bureau of Shijiazhong, Shijiazhong, Hebei Province, P. R. China</data>
+      <data key="research">numerical stability, transient stability simulation, implicit integration</data>
+    </node>
+    <node id="Lianmao Hang">
+      <data key="affiliation">Nan</data>
+      <data key="research">ZnO submicrometer rod, Single-Crystalline ZnO Submicrometer RodsSingle-crystalline, electron microscopy</data>
+    </node>
+    <node id="Bo Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">cooperative decision, minimal cost, cluster supply chain</data>
+    </node>
+    <node id="Fei Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">BBS algorithm, Bregman divergence, KL divergence</data>
+    </node>
+    <node id="Qingyu Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">sensor noise, confidence interval, sensor noise fall</data>
+    </node>
+    <node id="Xuefeng Song">
+      <data key="affiliation">Nan</data>
+      <data key="research">rough set, Industry Clusters Life Cycle, fuzzy clustering algorithm</data>
+    </node>
+    <node id="Dongjian He">
+      <data key="affiliation">Nan</data>
+      <data key="research">InterestOnline auction, Multi-semantic Scene Classification, bid price</data>
+    </node>
+    <node id="Zhaoji Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">ZnO submicrometer rod, Single-Crystalline ZnO Submicrometer RodsSingle-crystalline, electron microscopy</data>
+    </node>
+    <node id="Yau Jim Yip">
+      <data key="affiliation">University of Teesside, UK</data>
+      <data key="research">WIC UK Centre, UK Centre, affiliated Centre</data>
+    </node>
+    <node id="Jiexin Pu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Regularized Low-Pass Filter, Multi-antenna Mobile WiMAX SystemsMobile, downlink multi-antenna mobile WiMAX</data>
+    </node>
+    <node id="Chuan Shi">
+      <data key="affiliation">Institute of Computing and Technology, Chinese Academy of Sciences, Beijing</data>
+      <data key="research">community detection, objective function, novel algorithm</data>
+    </node>
+    <node id="Tien-Fu Lu">
+      <data key="affiliation">Nan</data>
+      <data key="research">known target, target velocity, vector field navigation algorithm</data>
+    </node>
+    <node id="Shouping Gui">
+      <data key="affiliation">Nan</data>
+      <data key="research">value chain, reverse supply chain, supply chain</data>
+    </node>
+    <node id="Sulan Zhang">
+      <data key="affiliation">School of Computer Science and Technology, Taiyuan University of Science and Technology, Taiyuan 030024, PR China</data>
+      <data key="research">concept lattice, concept lattice node, horizontal partitioned concept lattice</data>
+    </node>
+    <node id="Zhongzhi Shi">
+      <data key="affiliation">The Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">taxi driver, taxi market, current taxi fare structure</data>
+    </node>
+    <node id="Jian-feng Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">new protocol, new re-authentication protocol, re-authentication protocol</data>
+    </node>
+    <edge source="Tim Miller" target="Zhiyong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Qingyu Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Jian-feng Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Jiexin Pu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Sulan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Zhongzhi Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Bo Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Z. Q. Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Chuan Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Yubin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Yau Jim Yip">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Lianmao Hang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Shouping Gui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Yufu Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Dongjian He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Xuefeng Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Fei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Tien-Fu Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhiyong Zhang" target="Zhaoji Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Q. Shi" target="Chuan Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Q. Shi" target="Sulan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lianmao Hang" target="Zhaoji Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei Wang" target="Shouping Gui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuefeng Song" target="Shouping Gui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dongjian He" target="Tien-Fu Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chuan Shi" target="Sulan Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chuan Shi" target="Zhongzhi Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sulan Zhang" target="Zhongzhi Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

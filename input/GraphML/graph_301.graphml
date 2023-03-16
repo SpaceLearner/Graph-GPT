@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="R. Ahlswede">
+      <data key="affiliation">Nan</data>
+      <data key="research">maximal matching conjecture</data>
+    </node>
+    <node id="Rudolf Ahlswede">
+      <data key="affiliation">Univ. Bielefeld, Bielefeld, W. Germany</data>
+      <data key="research">Information Transfer, information theory, mathbb Z</data>
+    </node>
+    <node id="C Mauduit">
+      <data key="affiliation">Institut de Mathématiques de Luminy, CNRS, UMR 6206, Marseille Cedex 9, France, Instituto de Matemática Pura e Aplicada, IMPA, CNRS, UMI 2924, Rio de Janeiro, RJ, Brasil</data>
+      <data key="research">k symbol, binary sequence, large family</data>
+    </node>
+    <node id="Julien Cassaigne">
+      <data key="affiliation">Institut de Mathématiques de Luminy, CNRS UPR/FRUMAM Marseille cedex 9</data>
+      <data key="research">Turing machine, periodic orbit, arithmetical complexity</data>
+    </node>
+    <node id="Vsevolod F. Lev">
+      <data key="affiliation">Institute of Mathematics, Hebrew University, Jerusalem, 91904, Israelf1seva@math.huji.ac.ilf1</data>
+      <data key="research">1-saturating set, proper subset, maximal sum-free set</data>
+    </node>
+    <node id="Shafi Goldwasser">
+      <data key="affiliation">Nan</data>
+      <data key="research">probabilistically verifiable proof, proof system, interactive proof system</data>
+    </node>
+    <node id="A. Sárközy">
+      <data key="affiliation">Department of Algebra and Number Theory, Eötvös Loránd University, H1117 Budapest, Pázmány Péter sétány 1/c, Hungary</data>
+      <data key="research">k symbol, large family, binary sequence</data>
+    </node>
+    <node id="Vera T Sós">
+      <data key="affiliation">Mathematical Institute of the Hungarian Academy of Sciences, Budapest, Hungary (email: sos@renyi.hu)</data>
+      <data key="research">hereditary graph property, random graph, labelled speed</data>
+    </node>
+    <node id="J. Rivat">
+      <data key="affiliation">Institut Élie Cartan, Université Henri Poincaré, B.P. 239, F54506 VandæuvrelèsNancy, France</data>
+      <data key="research">Computing pi, finite pseudorandom binary sequence, k-bit mantissa floating-point</data>
+    </node>
+    <node id="Jonathan Paul Sorenson">
+      <data key="affiliation">Department of Mathematics and Computer Science, Butler University, 4600 Sunset Ave., Indianapolis, Indiana</data>
+      <data key="research">new algorithm, prime sieve, log n</data>
+    </node>
+    <node id="Péter L Erdös">
+      <data key="affiliation">Mathematical Institute of the Hungarian Academy of Sciences, Budapest, Hungary</data>
+      <data key="research">evolutionary tree, log n, maximum size</data>
+    </node>
+    <node id="D J Kleitman">
+      <data key="affiliation">Department of Mathematics, TechnionIsrael Institute of Technology, Haifa, Israel</data>
+      <data key="research">short-circuit model, worst case, Boolean circuit</data>
+    </node>
+    <node id="Paul Erdös">
+      <data key="affiliation">Hungarian Academy of Sciences, Budapest, Hungary</data>
+      <data key="research">threshold dimension, fixed k, order k</data>
+    </node>
+    <node id="Andrew Granville">
+      <data key="affiliation">Department of Mathematics, University of Georgia, Athens, Georgia, 306027403, f2andrew@math.uga.eduf2</data>
+      <data key="research">Carmichael number, probability 1-o, number theory</data>
+    </node>
+    <node id="C Pomerance">
+      <data key="affiliation">Department of Fundamental Mathematics, Bell Labs, Murray Hill, New Jersey</data>
+      <data key="research">Carmichael number, power generator, small value</data>
+    </node>
+    <node id="Ervin Gyri">
+      <data key="affiliation">Rényi Institute, P.O.B. 127, Budapest, H1364, Hungary</data>
+      <data key="research">set V, maximal number, maximal periodic subgraphs</data>
+    </node>
+    <node id="J M Robson">
+      <data key="affiliation">LaBRI, Université de Bordeaux, Talence, France 33405</data>
+      <data key="research">bit complexity, time O, probability 1-o</data>
+    </node>
+    <node id="Gilles Brassard">
+      <data key="affiliation">DÃ©partement IRO, UniversitÃ© de MontrÃ©al, C.P. 6128, Succursale CentreVille, MontrÃ©al</data>
+      <data key="research">quantum mechanic, quantum cryptography, quantum state</data>
+    </node>
+    <node id="J. L. Nicolas">
+      <data key="affiliation">Univ. Claude Bernard, Villeurbanne Cedex, France</data>
+      <data key="research">square root, modulo p, mod p</data>
+    </node>
+    <node id="Jack W Smith, Jr.">
+      <data key="affiliation">School of Health Information Sciences, The University of Texas Health Science Center at Houston, Houston, TX, USA</data>
+      <data key="research">complex system, gsim system, knowledge system</data>
+    </node>
+    <edge source="R. Ahlswede" target="C Mauduit">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Ahlswede" target="A. Sárközy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rudolf Ahlswede" target="Péter L Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rudolf Ahlswede" target="A. Sárközy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rudolf Ahlswede" target="Julien Cassaigne">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Mauduit" target="A. Sárközy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Mauduit" target="Paul Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Julien Cassaigne" target="A. Sárközy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vsevolod F. Lev" target="A. Sárközy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vsevolod F. Lev" target="Péter L Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shafi Goldwasser" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="Paul Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="Vera T Sós">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="J. L. Nicolas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="J. Rivat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="Ervin Gyri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sárközy" target="Péter L Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vera T Sós" target="Paul Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vera T Sós" target="Péter L Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jonathan Paul Sorenson" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Péter L Erdös" target="J. L. Nicolas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D J Kleitman" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D J Kleitman" target="Paul Erdös">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Erdös" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Erdös" target="J. L. Nicolas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew Granville" target="C Pomerance">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Pomerance" target="J M Robson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Pomerance" target="Jack W Smith, Jr.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C Pomerance" target="Gilles Brassard">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

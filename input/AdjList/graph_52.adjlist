@@ -1,69 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:12:00 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:01:06 2023
 # 
-Stanislas Boissau	4
-Alain Boucher	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Minh Nguyen-Duc	{'relation': 'collaborate'}
-Alexis Drogoul	{'relation': 'collaborate'}
-Karama Kanoun	2
-Jean Arlat	{'relation': 'collaborate'}
-David Powell	{'relation': 'collaborate'}
-Alexis Drogoul	9
-Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
-Minh Nguyen-Duc	{'relation': 'collaborate'}
-Edouard Amouroux	{'relation': 'collaborate'}
-François Charpillet	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Alain Boucher	{'relation': 'collaborate'}
-Hoang Nam Chu	{'relation': 'collaborate'}
-Geber Ramalho	{'relation': 'collaborate'}
-Olivier Simonin	{'relation': 'collaborate'}
-Jean Arlat	5
-Z. Kalbarczyk	{'relation': 'collaborate'}
-Felix Ingrand	{'relation': 'collaborate'}
-Hoang Nam Chu	{'relation': 'collaborate'}
-David Powell	{'relation': 'collaborate'}
-Marc-Olivier Killijian	{'relation': 'collaborate'}
-Felix Ingrand	3
-David Powell	{'relation': 'collaborate'}
-Hoang Nam Chu	{'relation': 'collaborate'}
-Marc-Olivier Killijian	{'relation': 'collaborate'}
-Edouard Amouroux	4
-Alain Boucher	{'relation': 'collaborate'}
-Nicolas Sabouret	{'relation': 'collaborate'}
-Y. Haradji	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-François Charpillet	3
-Olivier Simonin	{'relation': 'collaborate'}
-Hoang Nam Chu	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Marc-Olivier Killijian	2
-David Powell	{'relation': 'collaborate'}
-Hoang Nam Chu	{'relation': 'collaborate'}
-Y. Haradji	2
-Nicolas Sabouret	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Hoang Nam Chu	3
-François Sempé	{'relation': 'collaborate'}
-David Powell	{'relation': 'collaborate'}
-Olivier Simonin	{'relation': 'collaborate'}
-Alain Boucher	2
-Minh Nguyen-Duc	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Minh Nguyen-Duc	1
-François Sempé	{'relation': 'collaborate'}
-Geber Ramalho	2
-Yann Chevaleyre	{'relation': 'collaborate'}
-François Sempé	{'relation': 'collaborate'}
-Nicolas Sabouret	1
-François Sempé	{'relation': 'collaborate'}
-Olivier Simonin	1
-François Sempé	{'relation': 'collaborate'}
-David Powell	0
-François Sempé	2
-Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
-Yann Chevaleyre	{'relation': 'collaborate'}
-Angélica Muñoz-Meléndez	0
-Yann Chevaleyre	0
-Z. Kalbarczyk	0
+Alain Boucher	Stanislas Boissau	Minh Nguyen-Duc	Edouard Amouroux	Alexis Drogoul	François Sempé
+François Sempé	Hoang Nam Chu	Olivier Simonin	Stanislas Boissau	Nicolas Sabouret	Alexis Drogoul	Geber Ramalho	Angélica Muñoz-Meléndez	Yann Chevaleyre	Minh Nguyen-Duc	Edouard Amouroux	François Charpillet	Y. Haradji
+David Powell	Karama Kanoun	Marc-Olivier Killijian	Jean Arlat	Hoang Nam Chu	Felix Ingrand
+Z. Kalbarczyk	Jean Arlat
+Marc-Olivier Killijian	Hoang Nam Chu	Jean Arlat	Felix Ingrand
+Olivier Simonin	François Charpillet	Hoang Nam Chu	Alexis Drogoul
+Stanislas Boissau	Minh Nguyen-Duc	Alexis Drogoul
+Jean Arlat	Karama Kanoun	Felix Ingrand	Hoang Nam Chu
+Yann Chevaleyre	Geber Ramalho
+Alexis Drogoul	Angélica Muñoz-Meléndez	Minh Nguyen-Duc	Edouard Amouroux	François Charpillet	Hoang Nam Chu	Geber Ramalho
+Felix Ingrand	Hoang Nam Chu
+Minh Nguyen-Duc
+Nicolas Sabouret	Y. Haradji	Edouard Amouroux
+François Charpillet	Hoang Nam Chu
+Y. Haradji	Edouard Amouroux
+Hoang Nam Chu
+Edouard Amouroux
+Geber Ramalho
+Karama Kanoun
+Angélica Muñoz-Meléndez

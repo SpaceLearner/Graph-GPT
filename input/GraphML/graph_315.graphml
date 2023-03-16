@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="V. Sheinin">
+      <data key="affiliation">Multimedia Technol., IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA</data>
+      <data key="research">DPCM coding, WZ coding, parallel primitive</data>
+    </node>
+    <node id="Kun Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">control system, field bus, corresponding control principle</data>
+    </node>
+    <node id="I. Fedulova">
+      <data key="affiliation">IBM Russian Systems and Technology Laboratory  Moscow, Russia</data>
+      <data key="research">sustained performance, Blue Gene, inverse covariance matrix</data>
+    </node>
+    <node id="A. C. Bovik">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Laboratory for Image and Video Engineering, The University of Texas at Austin, TX 78712, USA</data>
+      <data key="research">distorted image, natural image, reference image</data>
+    </node>
+    <node id="Zhou Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">image information restoration, image information restoration algorithm, image interpretation</data>
+    </node>
+    <node id="Yuri Vatis">
+      <data key="affiliation">Institut für Informationsverarbeitung, Leibniz Universität Hannover, Hannover, Germany</data>
+      <data key="research">best mode, coding mode, AVC encoding</data>
+    </node>
+    <node id="Zunyi Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Plum Vinegar, Acetic Acid, LS-SVM model</data>
+    </node>
+    <node id="Hormozd Gahvari">
+      <data key="affiliation">University of Illinois at UrbanaChampaign, Urbana, IL, USA</data>
+      <data key="research">Blue Gene, performance model, algebraic multigrid</data>
+    </node>
+    <node id="Alan C. Bovik">
+      <data key="affiliation">IEEE</data>
+      <data key="research">visual quality, distorted image, image quality</data>
+    </node>
+    <node id="William A. Pearlman">
+      <data key="affiliation">Rensselaer Polytechnic Institute, Troy, NY</data>
+      <data key="research">partition coding, bit-plane coding, video coding</data>
+    </node>
+    <node id="Kirk E Jordan">
+      <data key="affiliation">IBM Research Division, Cambridge, MA</data>
+      <data key="research">Blue Gene, performance model, algebraic multigrid</data>
+    </node>
+    <node id="Robert Walkup">
+      <data key="affiliation">IBM T.J. Watson Research Center</data>
+      <data key="research">Blue Gene, IBM Blue Gene, best performance</data>
+    </node>
+    <node id="Ming-Ting Sun">
+      <data key="affiliation">University of Washington, Seattle, USA</data>
+      <data key="research">object recognition, RGB information, RGB-D camerasAutomatic object segmentation</data>
+    </node>
+    <node id="Da-ke He">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Univ. of Waterloo, Ont., Canada</data>
+      <data key="research">Slepian-Wolf coding, DPCM coding, WZ coding</data>
+    </node>
+    <node id="Ashish Jagmohan">
+      <data key="affiliation">Dept. of Electr. Eng., Univ. of Illinois, Urbana, IL, USA</data>
+      <data key="research">Slepian-Wolf coding, DPCM coding, WZ coding</data>
+    </node>
+    <node id="C. Evangelinos">
+      <data key="affiliation">IBM Research Division, Cambridge, MA</data>
+      <data key="research">Blue Gene, data assimilation, task computing</data>
+    </node>
+    <node id="Lurng-Kuo Liu">
+      <data key="affiliation">IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY</data>
+      <data key="research">Blue Gene, Blue GeneWe, IBM Blue Gene</data>
+    </node>
+    <node id="I-Hsin Chung">
+      <data key="affiliation">Nan</data>
+      <data key="research">Blue Gene, weak scaling, computation performance</data>
+    </node>
+    <node id="Michael Peter Perrone">
+      <data key="affiliation">IBM TJ Watson Research Center</data>
+      <data key="research">handwritten document, high performance, retrieval performance</data>
+    </node>
+    <node id="Ligang Lu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Blue Gene, Blue GeneWe, P implementation</data>
+    </node>
+    <edge source="V. Sheinin" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Sheinin" target="Ashish Jagmohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Sheinin" target="Michael Peter Perrone">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Sheinin" target="Da-ke He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kun Wang" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kun Wang" target="Zunyi Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Fedulova" target="Lurng-Kuo Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Fedulova" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. C. Bovik" target="Zhou Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. C. Bovik" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhou Wang" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhou Wang" target="Alan C. Bovik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuri Vatis" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuri Vatis" target="Ashish Jagmohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zunyi Wang" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="Kirk E Jordan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="Robert Walkup">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="C. Evangelinos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="Lurng-Kuo Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hormozd Gahvari" target="I-Hsin Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan C. Bovik" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William A. Pearlman" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kirk E Jordan" target="Robert Walkup">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kirk E Jordan" target="C. Evangelinos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kirk E Jordan" target="Lurng-Kuo Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kirk E Jordan" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kirk E Jordan" target="I-Hsin Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Walkup" target="C. Evangelinos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Walkup" target="I-Hsin Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Walkup" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Walkup" target="Lurng-Kuo Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming-Ting Sun" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming-Ting Sun" target="Ashish Jagmohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ming-Ting Sun" target="Da-ke He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Da-ke He" target="Ashish Jagmohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Da-ke He" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ashish Jagmohan" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Evangelinos" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Evangelinos" target="Lurng-Kuo Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Evangelinos" target="I-Hsin Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lurng-Kuo Liu" target="I-Hsin Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lurng-Kuo Liu" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I-Hsin Chung" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Peter Perrone" target="Ligang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

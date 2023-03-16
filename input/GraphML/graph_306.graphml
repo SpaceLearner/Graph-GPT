@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ronald W. Schafer">
+      <data key="affiliation">HewlettPackard Laboratories, Palo Alto, CA</data>
+      <data key="research">digital speech processing, audio signal, Structured Audio</data>
+    </node>
+    <node id="S. Douglas">
+      <data key="affiliation">Nan</data>
+      <data key="research">Infinity Project, high school, engineering education</data>
+    </node>
+    <node id="Brendan J. Frey">
+      <data key="affiliation">Computer Science, University of Waterloo, Waterloo, Ontario</data>
+      <data key="research">generative model, graphical model, microarray data</data>
+    </node>
+    <node id="James H. McClellan">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Victoria Univ., BC, Canada</data>
+      <data key="research">experimental GPR data, raw data, small number</data>
+    </node>
+    <node id="I. Fijalkow">
+      <data key="affiliation">ETIS, Ecole Nat. Superieure de l'Electron. et de ses Applications, CergyPontoise</data>
+      <data key="research">frequency-selective channel, channel noise, additive channel noise</data>
+    </node>
+    <node id="L. H. Jamieson">
+      <data key="affiliation">Purdue Univ., West Lafayette, IN</data>
+      <data key="research">parallel algorithm, VLSI processor array algorithm, execution time</data>
+    </node>
+    <node id="M. A. Yoder">
+      <data key="affiliation">Nan</data>
+      <data key="research">real-world signal, digital multimedia, multimedia demonstration</data>
+    </node>
+    <node id="R.W. Schafer">
+      <data key="affiliation">Nan</data>
+      <data key="research">online course, addition operation, real-world signal</data>
+    </node>
+    <node id="Sally L. Wood">
+      <data key="affiliation">E. E. Dept., Santa Clara University, Santa Clara, CA</data>
+      <data key="research">time domain block LMS, single update LMS algorithm, block adaptive filtersPerformance analysis</data>
+    </node>
+    <node id="Ralf Koetter">
+      <data key="affiliation">Technical University of Munich, Munich, Germany</data>
+      <data key="research">network coding, packet network, network capacity</data>
+    </node>
+    <node id="Kannan Achan">
+      <data key="affiliation">Microsoft Research, Mountain View, CA</data>
+      <data key="research">IP address, dynamic IP address, input image</data>
+    </node>
+    <node id="H. J. Lee">
+      <data key="affiliation">School of Physics and Nano Systems Institute  National Core Research Center, Seoul National University, Seoul 151747, Korea</data>
+      <data key="research">One-dimensional transport, polymer nanowiresWe, polymer single fiber</data>
+    </node>
+    <node id="Luke S. L. Hsieh">
+      <data key="affiliation">AT&amp;T Bell Laboratories, Allentown, PA</data>
+      <data key="research">Digitizer Error Extraction, Taylor series representation, simultaneous equation</data>
+    </node>
+    <node id="D. Munson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Infinity Project, engineering education, engineering fundamental</data>
+    </node>
+    <node id="T. J. Endres">
+      <data key="affiliation">Sarnoff Digital Commun., Newtown, PA</data>
+      <data key="research">constant modulus algorithm, finite bit precision, VLSI implementation</data>
+    </node>
+    <node id="John R. Treichler">
+      <data key="affiliation">Applied Signal Technology</data>
+      <data key="research">noise enhancement, Infinity Project, fractionally-spaced equalization</data>
+    </node>
+    <node id="Geoffrey C. Orsak">
+      <data key="affiliation">Dept. of Electr. Eng., Southern Methodist Univ., Dallas, TX, USA</data>
+      <data key="research">George Mason University, Infinity Project, distance education</data>
+    </node>
+    <node id="J.H. McClellan">
+      <data key="affiliation">Nan</data>
+      <data key="research">new method, Smith form, 2-D migration filter</data>
+    </node>
+    <node id="J. B. Schodorf">
+      <data key="affiliation">Center for Signal &amp; Image Process., Georgia Inst. of Technol., Atlanta, GA</data>
+      <data key="research">OPM scheme, bit error rate curve, real-world signal</data>
+    </node>
+    <node id="H. Musmann">
+      <data key="affiliation">Universität Hannover, Germany</data>
+      <data key="research">source model, Layer III coding standard, coding efficiency</data>
+    </node>
+    <edge source="Ronald W. Schafer" target="James H. McClellan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald W. Schafer" target="J. B. Schodorf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald W. Schafer" target="M. A. Yoder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Douglas" target="M. A. Yoder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Douglas" target="Geoffrey C. Orsak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Douglas" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Douglas" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Douglas" target="Sally L. Wood">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brendan J. Frey" target="Kannan Achan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brendan J. Frey" target="Ralf Koetter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brendan J. Frey" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James H. McClellan" target="M. A. Yoder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James H. McClellan" target="J. B. Schodorf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Fijalkow" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Fijalkow" target="T. J. Endres">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Fijalkow" target="H. J. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. H. Jamieson" target="M. A. Yoder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="Geoffrey C. Orsak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="J. B. Schodorf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="J.H. McClellan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="Sally L. Wood">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="R.W. Schafer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. A. Yoder" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R.W. Schafer" target="J. B. Schodorf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R.W. Schafer" target="J.H. McClellan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sally L. Wood" target="Luke S. L. Hsieh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sally L. Wood" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sally L. Wood" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sally L. Wood" target="Geoffrey C. Orsak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Koetter" target="Kannan Achan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Koetter" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kannan Achan" target="D. Munson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. J. Lee" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. J. Lee" target="T. J. Endres">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Munson" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Munson" target="Geoffrey C. Orsak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. J. Endres" target="John R. Treichler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John R. Treichler" target="H. Musmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John R. Treichler" target="Geoffrey C. Orsak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J.H. McClellan" target="J. B. Schodorf">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

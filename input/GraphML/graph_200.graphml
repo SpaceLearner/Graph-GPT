@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="B. Krämer">
+      <data key="affiliation">Nan</data>
+      <data key="research">Annotated IDL, Design Pattern, Generating Synchronization Adaptors</data>
+    </node>
+    <node id="P. Talone">
+      <data key="affiliation">Nan</data>
+      <data key="research">ISDN-based multi-media distance, background separationDesign, experimental monitoring</data>
+    </node>
+    <node id="Franco Davoli">
+      <data key="affiliation">CNIT  Genoa Research Unit, Via Opera Pia 13, 16145 Genova, Italy</data>
+      <data key="research">bandwidth allocation, satellite network, data traffic</data>
+    </node>
+    <node id="S. Gaglio">
+      <data key="affiliation">Nan</data>
+      <data key="research">motion analysis, novelty filter</data>
+    </node>
+    <node id="Constantinos Vassilakis">
+      <data key="affiliation">Greek Research &amp; Technology Network, Athens, Greece</data>
+      <data key="research">playout policy, node churn, playout point</data>
+    </node>
+    <node id="S. Zappatore">
+      <data key="affiliation">National InterUniversity, Genova, Italy</data>
+      <data key="research">measurement instrumentation, remote instrumentation, acquisition device</data>
+    </node>
+    <node id="S. Palazzo">
+      <data key="affiliation">Politecnico di MilanoCREI, Piazza Leonardo da Vinci, 7 Milan, Italy</data>
+      <data key="research">energy consumption, energy efficiency, analytical framework</data>
+    </node>
+    <node id="Alexey Cheptsov">
+      <data key="affiliation">High Performance Computing Center Stuttgart  HLRS, Stuttgart, Germany</data>
+      <data key="research">Open MPI, Semantic Web application, parallel Web application</data>
+    </node>
+    <node id="L. Caviglione">
+      <data key="affiliation">Institute of Intelligent Systems for Automation (ISSIA)  Genoa Branch, National Research Council of Italy (CNR)</data>
+      <data key="research">file-sharing application, underlying network infrastructure, P2P overlay</data>
+    </node>
+    <node id="Piergiulio Maryni">
+      <data key="affiliation">Department of Communications, Computer and System Sciences, DISTUniversity of Genoa, Via Opera Pia 13, 16145 Genova, Italy. &lt;rfc822&gt;franco@dist.unige.it&lt;/rfc822&gt;</data>
+      <data key="research">healthcare emergency system, backpropagation feedforward neural network, cellular wireless network</data>
+    </node>
+    <node id="S. Coiro">
+      <data key="affiliation">Nan</data>
+      <data key="research">ISDN-based multi-media distance, experimental monitoring</data>
+    </node>
+    <node id="D. Adami">
+      <data key="affiliation">CNITUniversity of Genoa/University of Pisa Research Units, Via Opera Pia 13, I16145 Genova, Italy</data>
+      <data key="research">economic cost, last year, Service Overlay Networks</data>
+    </node>
+    <node id="Pasquale Donadio">
+      <data key="affiliation">AlcatelLucent Italia</data>
+      <data key="research">Software Engineering, TMN management application, TMN-based network management</data>
+    </node>
+    <node id="Jan Wglarz">
+      <data key="affiliation">Poznań Supercomputing and Networking Center, Noskowskiego10, Poznań, Poland and Institute of Computing Science, Poznań University of Technology, Piotrowo2, Poznań, Poland</data>
+      <data key="research">fine-grained power consumption accounting, hardware power measurement solution, power consumption estimation</data>
+    </node>
+    <node id="R. Zoppoli">
+      <data key="affiliation">Professor, Department of Communications, Computer, and System Sciences, University of Genova, Genova, Italy</data>
+      <data key="research">basis function, linear combination, OHL network</data>
+    </node>
+    <node id="P. P. Puliafito">
+      <data key="affiliation">Nan</data>
+      <data key="research">uncertain knowledge acquisition</data>
+    </node>
+    <node id="Raffaele Bolla">
+      <data key="affiliation">UNIGE, Genova, Italy</data>
+      <data key="research">data traffic, TCP traffic aggregate, incoming traffic volume</data>
+    </node>
+    <node id="Jianguo Ding">
+      <data key="affiliation">Nan</data>
+      <data key="research">malicious code, unknown malicious code, malicious executable code</data>
+    </node>
+    <node id="Marco Baglietto">
+      <data key="affiliation">Via all'Opera Pia, Genova, Italy</data>
+      <data key="research">simulation result, traffic network, proposed approach</data>
+    </node>
+    <node id="M. Paolucci">
+      <data key="affiliation">Nan</data>
+      <data key="research">uncertain knowledge acquisition</data>
+    </node>
+    <edge source="B. Krämer" target="Franco Davoli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Krämer" target="Jianguo Ding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Talone" target="Piergiulio Maryni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Talone" target="S. Coiro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Talone" target="Franco Davoli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Talone" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="S. Zappatore">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Marco Baglietto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="D. Adami">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Jianguo Ding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Piergiulio Maryni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="L. Caviglione">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="S. Palazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Alexey Cheptsov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Constantinos Vassilakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Pasquale Donadio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="Jan Wglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Davoli" target="S. Coiro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Gaglio" target="M. Paolucci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Gaglio" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Constantinos Vassilakis" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Zappatore" target="S. Palazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Zappatore" target="Jan Wglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Zappatore" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Palazzo" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexey Cheptsov" target="D. Adami">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Piergiulio Maryni" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Piergiulio Maryni" target="S. Coiro">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Piergiulio Maryni" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Coiro" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pasquale Donadio" target="Raffaele Bolla">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Zoppoli" target="Marco Baglietto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Zoppoli" target="P. P. Puliafito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. P. Puliafito" target="M. Paolucci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raffaele Bolla" target="Marco Baglietto">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

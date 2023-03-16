@@ -4,165 +4,165 @@
   <key id="research" for="node" attr.name="research" attr.type="string" />
   <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
   <graph edgedefault="undirected">
-    <node id="Sebastian Provenzano">
-      <data key="affiliation">Escuela de Ingeniería Mecánica, Universidad de Los Andes, Facultad de Ingeniería, Mérida, Venezulea</data>
-      <data key="research">smooth solution, effectiveness index, neural network</data>
-    </node>
-    <node id="Andres Camacho">
-      <data key="affiliation">EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain</data>
-      <data key="research">atrial activity, atrial signal, source separation problem</data>
-    </node>
-    <node id="L. Vergara">
-      <data key="affiliation">ETSITCamino de Vera s/n, 46023 Valencia, Spain</data>
-      <data key="research">ultrasonic signal, ICA mixture, independent component analysis</data>
-    </node>
-    <node id="P. Bernabeu">
-      <data key="affiliation">EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain</data>
-      <data key="research">source separation problem, statistical knowledge, posteriori estimate</data>
-    </node>
-    <node id="Jorge Moragues">
-      <data key="affiliation">Departamento de Comunicaciones, Universidad Politécnica de Valencia, E46022 Valencia, Spain</data>
-      <data key="research">background noise, unknown signal, false alarm</data>
-    </node>
-    <node id="Kiel M Gilleade">
-      <data key="affiliation">Liverpool John Moores University, Liverpool, United Kingdom</data>
-      <data key="research">VoodooIO gaming kit, appropriable gaming device, gaming controller</data>
+    <node id="Raul Llinares">
+      <data key="affiliation">Departamento de Comunicaciones, Universidad Politecnica de Valencia, Pza. Ferrandiz y Carbonell 1, CP 03801, Alcoy, Spain</data>
+      <data key="research">atrial signal, atrial activity, atrial component</data>
     </node>
     <node id="Arturo Serrano">
       <data key="affiliation">Nan</data>
       <data key="research">video signal, Cross-Layer Design, Videoconferencing Applications</data>
     </node>
-    <node id="F. J. Fuenmayor">
-      <data key="affiliation">Departamento de Ingeniería Mecánica y de Materiales, Universidad Politécnica de Valencia, Camino de Vera s/n, E46022 Valencia, Spain</data>
-      <data key="research">finite element evaluation, discretization error, error estimator</data>
+    <node id="Antonio Soriano">
+      <data key="affiliation">IFIC, Centro mixto CSICUniv. de Valencia, Edificio Institutos de Investigación, Paterna, E46071 Valencia, Spain</data>
+      <data key="research">clinical decision support system, genetic algorithm, large system</data>
     </node>
     <node id="J. Morales">
       <data key="affiliation">Operations Research Center, Miguel Hernández University, 03202 Elche, Spain</data>
       <data key="research">conditional distribution, approximate conditional predictive distributionsSampling, frequentist conditional testing</data>
     </node>
+    <node id="A. Rodríguez">
+      <data key="affiliation">Nan</data>
+      <data key="research">Si1-xGex layer, growth temperature, layer composition</data>
+    </node>
+    <node id="F. J. Fuenmayor">
+      <data key="affiliation">Departamento de Ingeniería Mecánica y de Materiales, Universidad Politécnica de Valencia, Camino de Vera s/n, E46022 Valencia, Spain</data>
+      <data key="research">finite element evaluation, discretization error, error estimator</data>
+    </node>
     <node id="Jorge Gosalbez">
       <data key="affiliation">Departamento de Communicaciones, Universidad Politecnica de Valencia, Cno. de Vera s/n, Valencia 46022, Spain</data>
       <data key="research">independent component analysis, optimum detector, prewhitened signal gating</data>
-    </node>
-    <node id="Antonio Soriano">
-      <data key="affiliation">IFIC, Centro mixto CSICUniv. de Valencia, Edificio Institutos de Investigación, Paterna, E46071 Valencia, Spain</data>
-      <data key="research">clinical decision support system, genetic algorithm, large system</data>
     </node>
     <node id="J. Sastre">
       <data key="affiliation">Instituto de Telecomunicaciones y Aplicaciones Multimedia</data>
       <data key="research">variable frame rate, H.264 rate control, H.264 rate control algorithm</data>
     </node>
+    <node id="Soledad Gomez">
+      <data key="affiliation">Institute of Telecommunications and Multimedia Applications (ITEAM), Polytechnical University of Valencia, Spain</data>
+      <data key="research">infrared image processing, false alarm, image processing</data>
+    </node>
+    <node id="P. Bernabeu">
+      <data key="affiliation">EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain</data>
+      <data key="research">source separation problem, statistical knowledge, posteriori estimate</data>
+    </node>
     <node id="Francklin Rivas">
       <data key="affiliation">Laboratorio de Sistemas Inteligentes, Universidad de Los Andes, Facultad de Ingeniería, Mérida, Venezulea</data>
       <data key="research">oil well, neural network, control system</data>
     </node>
-    <node id="Raul Llinares">
-      <data key="affiliation">Departamento de Comunicaciones, Universidad Politecnica de Valencia, Pza. Ferrandiz y Carbonell 1, CP 03801, Alcoy, Spain</data>
-      <data key="research">atrial signal, atrial activity, atrial component</data>
+    <node id="Kiel M Gilleade">
+      <data key="affiliation">Liverpool John Moores University, Liverpool, United Kingdom</data>
+      <data key="research">VoodooIO gaming kit, appropriable gaming device, gaming controller</data>
+    </node>
+    <node id="L. Vergara">
+      <data key="affiliation">ETSITCamino de Vera s/n, 46023 Valencia, Spain</data>
+      <data key="research">ultrasonic signal, ICA mixture, independent component analysis</data>
     </node>
     <node id="Areti Damala">
       <data key="affiliation">Centre de et Métiers, Paris, France</data>
       <data key="research">AR system, adaptive augmented reality, mobile multimedia guide</data>
     </node>
-    <node id="Soledad Gomez">
-      <data key="affiliation">Institute of Telecommunications and Multimedia Applications (ITEAM), Polytechnical University of Valencia, Spain</data>
-      <data key="research">infrared image processing, false alarm, image processing</data>
-    </node>
-    <node id="Ana Cabrera">
-      <data key="affiliation">Museo Nacional de Artes Decorativas, Madrid, Spain</data>
-      <data key="research">intelligent complex event processing, adaptive augmented reality, Augmented Reality</data>
-    </node>
-    <node id="A. Rodríguez">
-      <data key="affiliation">Nan</data>
-      <data key="research">Si1-xGex layer, growth temperature, layer composition</data>
-    </node>
-    <node id="V. Naranjo">
-      <data key="affiliation">Nan</data>
-      <data key="research">H.264 low delay video, low delay condition, real-time coders</data>
+    <node id="Sebastian Provenzano">
+      <data key="affiliation">Escuela de Ingeniería Mecánica, Universidad de Los Andes, Facultad de Ingeniería, Mérida, Venezulea</data>
+      <data key="research">smooth solution, effectiveness index, neural network</data>
     </node>
     <node id="Jorge Igual">
       <data key="affiliation">EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain</data>
       <data key="research">atrial signal, atrial activity, atrial component</data>
     </node>
-    <edge source="Sebastian Provenzano" target="L. Vergara">
+    <node id="V. Naranjo">
+      <data key="affiliation">Nan</data>
+      <data key="research">H.264 low delay video, low delay condition, real-time coders</data>
+    </node>
+    <node id="Andres Camacho">
+      <data key="affiliation">EPSAPza Ferrandiz y Carbonell, Universidad Politecnica Valencia Comunicaciones, no. 1, 03801 Alcoy (Alicante), Spain</data>
+      <data key="research">atrial activity, atrial signal, source separation problem</data>
+    </node>
+    <node id="Ana Cabrera">
+      <data key="affiliation">Museo Nacional de Artes Decorativas, Madrid, Spain</data>
+      <data key="research">intelligent complex event processing, adaptive augmented reality, Augmented Reality</data>
+    </node>
+    <node id="Jorge Moragues">
+      <data key="affiliation">Departamento de Comunicaciones, Universidad Politécnica de Valencia, E46022 Valencia, Spain</data>
+      <data key="research">background noise, unknown signal, false alarm</data>
+    </node>
+    <edge source="Raul Llinares" target="Jorge Igual">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Sebastian Provenzano" target="F. J. Fuenmayor">
+    <edge source="Raul Llinares" target="Jorge Gosalbez">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Sebastian Provenzano" target="Francklin Rivas">
+    <edge source="Raul Llinares" target="Arturo Serrano">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Andres Camacho" target="Jorge Igual">
+    <edge source="Raul Llinares" target="Andres Camacho">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Andres Camacho" target="L. Vergara">
+    <edge source="Raul Llinares" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Andres Camacho" target="P. Bernabeu">
+    <edge source="Arturo Serrano" target="Jorge Igual">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Andres Camacho" target="Raul Llinares">
+    <edge source="Arturo Serrano" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Jorge Moragues">
+    <edge source="Arturo Serrano" target="Jorge Gosalbez">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Jorge Gosalbez">
+    <edge source="Antonio Soriano" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Antonio Soriano">
+    <edge source="Antonio Soriano" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="J. Morales">
+    <edge source="J. Morales" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Soledad Gomez">
+    <edge source="A. Rodríguez" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="P. Bernabeu">
+    <edge source="F. J. Fuenmayor" target="Sebastian Provenzano">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Arturo Serrano">
+    <edge source="F. J. Fuenmayor" target="Francklin Rivas">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="J. Sastre">
+    <edge source="Jorge Gosalbez" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="V. Naranjo">
+    <edge source="Jorge Gosalbez" target="Jorge Igual">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Raul Llinares">
+    <edge source="Jorge Gosalbez" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Jorge Igual">
+    <edge source="J. Sastre" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="Francklin Rivas">
+    <edge source="J. Sastre" target="V. Naranjo">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="L. Vergara" target="A. Rodríguez">
+    <edge source="Soledad Gomez" target="L. Vergara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Soledad Gomez" target="Jorge Moragues">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernabeu" target="Andres Camacho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernabeu" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="P. Bernabeu" target="Jorge Igual">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jorge Moragues" target="Antonio Soriano">
+    <edge source="Francklin Rivas" target="Sebastian Provenzano">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jorge Moragues" target="Kiel M Gilleade">
+    <edge source="Francklin Rivas" target="L. Vergara">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jorge Moragues" target="Ana Cabrera">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jorge Moragues" target="Areti Damala">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jorge Moragues" target="Soledad Gomez">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Jorge Moragues" target="Jorge Gosalbez">
+    <edge source="Kiel M Gilleade" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Kiel M Gilleade" target="Areti Damala">
@@ -171,31 +171,31 @@
     <edge source="Kiel M Gilleade" target="Ana Cabrera">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Arturo Serrano" target="Jorge Igual">
+    <edge source="L. Vergara" target="Sebastian Provenzano">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Arturo Serrano" target="Raul Llinares">
+    <edge source="L. Vergara" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Arturo Serrano" target="Jorge Gosalbez">
+    <edge source="L. Vergara" target="Andres Camacho">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="F. J. Fuenmayor" target="Francklin Rivas">
+    <edge source="L. Vergara" target="V. Naranjo">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jorge Gosalbez" target="Raul Llinares">
+    <edge source="L. Vergara" target="Jorge Igual">
       <data key="relation">collaborate</data>
     </edge>
-    <edge source="Jorge Gosalbez" target="Jorge Igual">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="J. Sastre" target="V. Naranjo">
-      <data key="relation">collaborate</data>
-    </edge>
-    <edge source="Raul Llinares" target="Jorge Igual">
+    <edge source="Areti Damala" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
     <edge source="Areti Damala" target="Ana Cabrera">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jorge Igual" target="Andres Camacho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ana Cabrera" target="Jorge Moragues">
       <data key="relation">collaborate</data>
     </edge>
   </graph>

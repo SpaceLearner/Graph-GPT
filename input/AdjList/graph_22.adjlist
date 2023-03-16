@@ -1,65 +1,23 @@
-#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-bde00379-dd32-4d83-bcf3-64f462e2e8dc.json
-# GMT Wed Mar  8 14:11:53 2023
+#/opt/anaconda3/envs/chatgpt/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/goojy/Library/Jupyter/runtime/kernel-e3da197f-b9c6-4633-b020-d0d79a82ffdb.json
+# GMT Thu Mar 16 03:00:57 2023
 # 
-Takeshi Yatsuo	2
-Norihisa Segawa	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Ryota Kawashima	2
-Norihisa Segawa	{'relation': 'collaborate'}
-Xuping Huang	{'relation': 'collaborate'}
-Takashi Katoh	4
-Norihisa Segawa	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Yuji Wada	{'relation': 'collaborate'}
-Takuya Sasaki	{'relation': 'collaborate'}
-Yuji Wada	3
-Takuya Sasaki	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Masatoshi Miyazaki	2
-Yuko Murayama	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Naohisa Sakamoto	4
-Tomoki Yoshihisa	{'relation': 'collaborate'}
-Yasuo Ebara	{'relation': 'collaborate'}
-Koji Koyamada	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Takuya Sasaki	2
-Jun Sawamoto	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Tomoki Yoshihisa	3
-Koji Koyamada	{'relation': 'collaborate'}
-Yasuo Ebara	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Yasuo Ebara	2
-Koji Koyamada	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Hiroyasu Mitsui	2
-Jun Sawamoto	{'relation': 'collaborate'}
-Hisao Koizumi	{'relation': 'collaborate'}
-Yuko Murayama	4
-Basabi Chakraborty	{'relation': 'collaborate'}
-Norihisa Segawa	{'relation': 'collaborate'}
-Carl Howard Hauser	{'relation': 'collaborate'}
-Natsuko Hikage	{'relation': 'collaborate'}
-Norihisa Segawa	7
-Koji Koyamada	{'relation': 'collaborate'}
-Basabi Chakraborty	{'relation': 'collaborate'}
-Natsuko Hikage	{'relation': 'collaborate'}
-Jun Sawamoto	{'relation': 'collaborate'}
-Xuping Huang	{'relation': 'collaborate'}
-Carl Howard Hauser	{'relation': 'collaborate'}
-Hiroshi Yajima	{'relation': 'collaborate'}
-Carl Howard Hauser	2
-Natsuko Hikage	{'relation': 'collaborate'}
-Basabi Chakraborty	{'relation': 'collaborate'}
-Hisao Koizumi	1
-Jun Sawamoto	{'relation': 'collaborate'}
-Hiroshi Yajima	1
-Jun Sawamoto	{'relation': 'collaborate'}
-Jun Sawamoto	0
-Natsuko Hikage	1
-Basabi Chakraborty	{'relation': 'collaborate'}
-Xuping Huang	0
-Basabi Chakraborty	0
-Koji Koyamada	0
+Yasuo Ebara	Tomoki Yoshihisa	Koji Koyamada	Norihisa Segawa	Naohisa Sakamoto
+Natsuko Hikage	Carl Howard Hauser	Basabi Chakraborty	Norihisa Segawa	Yuko Murayama
+Jun Sawamoto	Hiroyasu Mitsui	Hisao Koizumi	Norihisa Segawa	Yuji Wada	Takuya Sasaki	Takashi Katoh	Hiroshi Yajima	Takeshi Yatsuo
+Takuya Sasaki	Yuji Wada	Norihisa Segawa	Takashi Katoh
+Yuji Wada	Takashi Katoh	Norihisa Segawa
+Naohisa Sakamoto	Tomoki Yoshihisa	Koji Koyamada	Norihisa Segawa
+Masatoshi Miyazaki	Yuko Murayama	Norihisa Segawa
+Takeshi Yatsuo	Norihisa Segawa
+Carl Howard Hauser	Basabi Chakraborty	Norihisa Segawa	Yuko Murayama
+Ryota Kawashima	Norihisa Segawa	Xuping Huang
+Norihisa Segawa	Koji Koyamada	Takashi Katoh	Basabi Chakraborty	Xuping Huang	Tomoki Yoshihisa	Hiroshi Yajima	Yuko Murayama
+Hiroyasu Mitsui	Hisao Koizumi
+Hisao Koizumi
+Takashi Katoh
+Tomoki Yoshihisa	Koji Koyamada
+Hiroshi Yajima
+Yuko Murayama	Basabi Chakraborty
+Koji Koyamada
+Xuping Huang
+Basabi Chakraborty
