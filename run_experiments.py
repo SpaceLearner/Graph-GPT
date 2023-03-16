@@ -145,6 +145,38 @@ def main(config, seed=0):
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
                 
+            elif config.task == "hasedge":
+                
+                predictions = []
+                for edge in list(graph_nx.edges())[:10]:
+                    question = "Does node " + str(edge[0]) + " and node " + str(edge[1]) + " connected in this graph?\n"
+                    # print(question)
+                    if config.change_order:
+                        data["prompt"] = instructer + example + question + tail + graph 
+                    else:
+                        data["prompt"] = instructer + graph + example + question + tail
+                
+                    answer   = GPT(data)
+                    pred       = answer_cleasing(config, answer)
+                    predictions.append(pred)
+                graph_nx_com = nx.complement(graph_nx)
+                for edge in list(graph_nx_com.edges())[:10]:
+                    question = "Does node " + str(edge[0]) + " and node " + str(edge[1]) + " connected in this graph?\n"
+                    # print(question)
+                    if config.change_order:
+                        data["prompt"] = instructer + example + question + tail + graph 
+                    else:
+                        data["prompt"] = instructer + graph + example + question + tail
+                
+                    answer   = GPT(data)
+                    
+                    pred       = answer_cleasing(config, answer)
+                    predictions.append(pred)
+                print(predictions, true_answer)
+                acc = evaluate(predictions, true_answer)
+                accs.append(acc)
+                wandb.log({"epoch_acc": acc})
+                
             elif config.task == "clustering":
                 
                 predictions = []

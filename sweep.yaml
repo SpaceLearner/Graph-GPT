@@ -3,7 +3,7 @@ program: run_experiments.py
 method: grid
 parameters:
   method:
-    values: ["zero_shot", "one_shot", "zero_shot_cot"]
+    values: ["zero_shot", "one_shot", "zero_shot_cot", "one_shot_cot"]
   format:
     values: ["EdgeList", "AdjList", "GML", "GraphML"]
   change_order:
@@ -11,4 +11,4 @@ parameters:
   self_augument:
     values: [0]
   task:
-    values: ["diameter"]
+    values: ["hasedge"]

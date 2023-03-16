@@ -10,11 +10,13 @@ def task_handler(task, graph):
     elif task == "degree":
         answers   = [str(e[1]) for e in list(nx.degree(graph))]
         question  = "The degree of "
+    elif task == "hasedge":
+        answers   = ["1"] * 10 + ["0"] * 10
+        question  = "" 
     elif task == "clustering":
        #  print(nx.clustering(graph)))
         answers = [str(round(v, 2)) for e, v in nx.clustering(graph).items()]
         question  = "The clustering coefficient (in dicimal) of "
-        
     elif task == "diameter":
         
         answers  = [str(nx.diameter(graph))]
@@ -28,6 +30,13 @@ def answer_cleasing(config, answer):
             pred = re.findall("\d+", answer)[0]
         elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
             pred = re.findall("\d+", answer)[-1]
+    elif config.task == "hasedge":
+        pred = re.findall("yes", answer) + re.findall("Yes", answer)
+        if len(pred) > 0:
+            pred = "1"
+        else:
+            pred = "0"
+        
     elif config.task == "clustering":
         # print(answer)
         if config.method == "zero_shot" or config.method == "one_shot":
