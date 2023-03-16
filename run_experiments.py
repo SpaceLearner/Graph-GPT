@@ -99,7 +99,7 @@ def main(config, seed=0):
     # print(example)
     accs = []
     for _ in tqdm(range(1)):
-        for idx, seed in tqdm(enumerate(range(139))):
+        for idx, seed in tqdm(enumerate(range(200))):
             graph_file = os.path.join(prefix, "graph_"+str(seed)+postfix)
             with open(graph_file, "r") as fp:
                 graph = fp.read()
