@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Ralf Klasing"
@@ -45,7 +49,6 @@ graph [
     id 7
     label "S. Shende"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 8
@@ -87,7 +90,6 @@ graph [
     id 14
     label "A. Pelc"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 15

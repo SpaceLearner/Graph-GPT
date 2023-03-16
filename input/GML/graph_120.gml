@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Irene Au"
@@ -27,7 +31,6 @@ graph [
     id 4
     label "Dan R. Olsen, Jr."
     affiliation "Nan"
-    research ""
   ]
   node [
     id 5

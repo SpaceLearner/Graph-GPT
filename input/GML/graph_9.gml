@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Gregory D. Abowd"
@@ -45,7 +49,6 @@ graph [
     id 7
     label "Shumin Zhai"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 8

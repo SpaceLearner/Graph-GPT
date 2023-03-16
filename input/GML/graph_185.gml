@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "R. Davies"
@@ -9,7 +13,6 @@ graph [
     id 1
     label "John Ross"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 2

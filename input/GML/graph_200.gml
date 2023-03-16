@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "B. Kr&#228;mer"

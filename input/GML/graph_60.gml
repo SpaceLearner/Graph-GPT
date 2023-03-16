@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Fred Maymir-Ducharme"
@@ -69,7 +73,6 @@ graph [
     id 11
     label "Richard Fairley"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 12

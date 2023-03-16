@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "J L Vazquez"
@@ -87,7 +91,6 @@ graph [
     id 14
     label "N. Bellomo"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 15

@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Mary E. Helander"
@@ -105,7 +109,6 @@ graph [
     id 17
     label "J. McLean"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 18

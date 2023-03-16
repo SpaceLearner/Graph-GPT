@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "D. Nussbaum"
@@ -57,7 +61,6 @@ graph [
     id 9
     label "A. Corradi"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 10

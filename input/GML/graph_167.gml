@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Patrick Chiang"
@@ -75,7 +79,6 @@ graph [
     id 12
     label "Michael Wood"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 13

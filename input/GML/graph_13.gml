@@ -1,9 +1,12 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Y. Feng"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 1

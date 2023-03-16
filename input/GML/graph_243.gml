@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "David Zhang"
@@ -39,7 +43,6 @@ graph [
     id 6
     label "Dennis Shasha"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 7

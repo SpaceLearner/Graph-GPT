@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Shuai Wan"
@@ -63,7 +67,6 @@ graph [
     id 10
     label "Chris White"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 11

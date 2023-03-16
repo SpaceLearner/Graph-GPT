@@ -1,4 +1,8 @@
 graph [
+  node_default [
+  ]
+  edge_default [
+  ]
   node [
     id 0
     label "Zonghua Gu"
@@ -15,7 +19,6 @@ graph [
     id 2
     label "Bo He"
     affiliation "Nan"
-    research ""
   ]
   node [
     id 3
