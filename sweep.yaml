@@ -1,5 +1,5 @@
 project: GraphBench
-program: run_experiments.py
+program: run_ogb_arxiv.py
 method: grid
 parameters:
   method:
@@ -11,4 +11,4 @@ parameters:
   self_augument:
     values: [0]
   task:
-    values: ["hasedge"]
+    values: ["degree"]

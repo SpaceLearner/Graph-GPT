@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P69093">
+      <data key="title">dynamic power splitting policies for af relay networks with wireless energy harvesting</data>
+    </node>
+    <node id="P133668">
+      <data key="title">study of buffer aided space time coding for multiple antenna cooperative wireless networks</data>
+    </node>
+    <node id="P50">
+      <data key="title">on the performance of selection cooperation with imperfect channel estimation</data>
+    </node>
+    <node id="P47879">
+      <data key="title">battery aware relay selection for energy harvesting cooperative networks</data>
+    </node>
+    <node id="P160187">
+      <data key="title">resource allocation for selection based cooperative ofdm networks</data>
+    </node>
+    <node id="P135022">
+      <data key="title">bi directional half duplex protocols with multiple relays</data>
+    </node>
+    <node id="P46596">
+      <data key="title">to code or not to code in multi hop relay channels</data>
+    </node>
+    <node id="P69094">
+      <data key="title">on outage capacity for incremental relaying with imperfect feedback</data>
+    </node>
+    <node id="P140262">
+      <data key="title">relay control for full duplex relaying with wireless information and energy transfer</data>
+    </node>
+    <node id="P113831">
+      <data key="title">performance of opportunistic fixed gain bidirectional relaying with outdated csi</data>
+    </node>
+    <node id="P148411">
+      <data key="title">network coding with two way relaying achievable rate regions and diversity multiplexing tradeoffs</data>
+    </node>
+    <node id="P104501">
+      <data key="title">achievable rate regions and outer bounds for a multi pair bi directional relay network</data>
+    </node>
+    <node id="P82175">
+      <data key="title">distributed user scheduling for mimo y channel</data>
+    </node>
+    <node id="P4073">
+      <data key="title">a simple cooperative diversity method based on network path selection</data>
+    </node>
+    <node id="P41190">
+      <data key="title">exact performance analysis of partial relay selection based on shadowing side information over generalized composite fading channels</data>
+    </node>
+    <node id="P37162">
+      <data key="title">distributed compute and forward based relaying strategies in multi user multi relay networks</data>
+    </node>
+    <node id="P120454">
+      <data key="title">on the capacity of csi based transmission link selection in decode and forward cooperative system</data>
+    </node>
+    <node id="P13110">
+      <data key="title">an efficient adaptive distributed space time coding scheme for cooperative relaying</data>
+    </node>
+    <node id="P141596">
+      <data key="title">optimum diversity multiplexing tradeoff in the multiple relays network</data>
+    </node>
+    <node id="P161520">
+      <data key="title">distributed relay selection protocols for simultaneous wireless information and power transfer</data>
+    </node>
+    <edge source="P69093" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133668" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47879" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160187" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135022" target="P46596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135022" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135022" target="P104501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46596" target="P104501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46596" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69094" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140262" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113831" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148411" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104501" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82175" target="P4073">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P13110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P161520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P141596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P41190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P37162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4073" target="P120454">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

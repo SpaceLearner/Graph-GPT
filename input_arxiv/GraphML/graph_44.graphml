@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P19388">
+      <data key="title">security in wireless sensor networks issues and challenges</data>
+    </node>
+    <node id="P152274">
+      <data key="title">principles of physical layer security in multiuser wireless networks a survey</data>
+    </node>
+    <node id="P127017">
+      <data key="title">a survey of attacks security mechanisms and challenges in wireless sensor networks</data>
+    </node>
+    <node id="P21330">
+      <data key="title">robust beamforming for secure communication in systems with wireless information and power transfer</data>
+    </node>
+    <node id="P6611">
+      <data key="title">energy harvesting for secure ofdma systems</data>
+    </node>
+    <node id="P50679">
+      <data key="title">an adaptive secret key directed cryptographic scheme for secure transmission in wireless sensor networks</data>
+    </node>
+    <node id="P100708">
+      <data key="title">a comparison of link layer attacks on wireless sensor networks</data>
+    </node>
+    <node id="P46603">
+      <data key="title">energy harvesting wireless communications a review of recent advances</data>
+    </node>
+    <node id="P131122">
+      <data key="title">a security architecture for mobile wireless sensor networks</data>
+    </node>
+    <node id="P58679">
+      <data key="title">steganography a secure way for transmission in wireless sensor networks</data>
+    </node>
+    <node id="P125957">
+      <data key="title">wireless security with beamforming technique</data>
+    </node>
+    <node id="P53">
+      <data key="title">complete security framework for wireless sensor networks</data>
+    </node>
+    <node id="P76773">
+      <data key="title">security of the internet of things vulnerabilities attacks and countermeasures</data>
+    </node>
+    <node id="P54259">
+      <data key="title">a survey on hardware based security mechanisms for internet of things</data>
+    </node>
+    <node id="P102002">
+      <data key="title">a review of security attacks and intrusion detection schemes in wireless sensor networks</data>
+    </node>
+    <node id="P59221">
+      <data key="title">applications of economic and pricing models for wireless network security a survey</data>
+    </node>
+    <node id="P113938">
+      <data key="title">awgn channel under time varying amplitude constraints with causal information at the transmitter</data>
+    </node>
+    <node id="P113953">
+      <data key="title">information theoretic analysis of an energy harvesting communication system</data>
+    </node>
+    <node id="P66527">
+      <data key="title">study of a new link layer security scheme in a wireless sensor network</data>
+    </node>
+    <node id="P148428">
+      <data key="title">achievable secrecy rates of an energy harvesting device</data>
+    </node>
+    <edge source="P19388" target="P127017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P53">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P50679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P58679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P125957">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P59221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P54259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19388" target="P76773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152274" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152274" target="P125957">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152274" target="P59221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127017" target="P131122">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127017" target="P102002">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127017" target="P66527">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127017" target="P100708">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127017" target="P76773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21330" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6611" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50679" target="P58679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46603" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46603" target="P113938">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113938" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113938" target="P113953">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113953" target="P148428">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P138001">
+      <data key="title">a synchronous program algebra a basis for reasoning about shared memory and event based concurrency</data>
+    </node>
+    <node id="P3101">
+      <data key="title">unifying theories of reactive design contracts</data>
+    </node>
+    <node id="P145098">
+      <data key="title">generalised rely guarantee concurrency an algebraic foundation</data>
+    </node>
+    <node id="P148989">
+      <data key="title">on series parallel pomset languages rationality context freeness and automata</data>
+    </node>
+    <node id="P388">
+      <data key="title">completeness theorems for pomset languages and concurrent kleene algebras</data>
+    </node>
+    <node id="P154898">
+      <data key="title">a non standard semantics for kahn networks in continuous time</data>
+    </node>
+    <node id="P76987">
+      <data key="title">the structure of first order causality</data>
+    </node>
+    <node id="P39549">
+      <data key="title">concurrent kleene algebra free model and completeness</data>
+    </node>
+    <node id="P141682">
+      <data key="title">towards 3 dimensional rewriting theory</data>
+    </node>
+    <node id="P125662">
+      <data key="title">a concurrency problem with exponential dpll t proofs</data>
+    </node>
+    <node id="P20741">
+      <data key="title">symbolic algorithms for language equivalence and kleene algebra with tests</data>
+    </node>
+    <node id="P53348">
+      <data key="title">presenting finite posets</data>
+    </node>
+    <node id="P105647">
+      <data key="title">generating posets beyond n</data>
+    </node>
+    <node id="P54777">
+      <data key="title">designing a semantic model for a wide spectrum language with concurrency</data>
+    </node>
+    <node id="P127768">
+      <data key="title">on partial order semantics for sat smt based symbolic encodings of weak memory concurrency</data>
+    </node>
+    <node id="P88223">
+      <data key="title">concurrent dynamic algebra</data>
+    </node>
+    <node id="P147811">
+      <data key="title">asynchronous games innocence without alternation</data>
+    </node>
+    <node id="P28918">
+      <data key="title">kleene algebra with observations</data>
+    </node>
+    <node id="P138357">
+      <data key="title">completeness and incompleteness of synchronous kleene algebra</data>
+    </node>
+    <node id="P98323">
+      <data key="title">kleisli parikh and peleg compositions and liftings for multirelations</data>
+    </node>
+    <edge source="P138001" target="P54777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138001" target="P145098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138001" target="P138357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3101" target="P54777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3101" target="P145098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145098" target="P54777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145098" target="P138357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148989" target="P388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148989" target="P39549">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P388" target="P138357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P388" target="P39549">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P388" target="P105647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154898" target="P147811">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154898" target="P53348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76987" target="P147811">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76987" target="P141682">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76987" target="P53348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39549" target="P138357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39549" target="P127768">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39549" target="P105647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141682" target="P53348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125662" target="P127768">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20741" target="P28918">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53348" target="P147811">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53348" target="P105647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105647" target="P88223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105647" target="P28918">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88223" target="P98323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28918" target="P138357">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

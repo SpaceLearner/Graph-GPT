@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P41918">
+      <data key="title">inferring networks of diffusion and influence</data>
+    </node>
+    <node id="P79656">
+      <data key="title">porgy strategy driven interactive transformation of graphs</data>
+    </node>
+    <node id="P157">
+      <data key="title">strategic port graph rewriting an interactive modelling and analysis framework</data>
+    </node>
+    <node id="P143048">
+      <data key="title">diffusion of lexical change in social media</data>
+    </node>
+    <node id="P21307">
+      <data key="title">a new graphical calculus of proofs</data>
+    </node>
+    <node id="P161050">
+      <data key="title">generic strategies for chemical space exploration</data>
+    </node>
+    <node id="P100577">
+      <data key="title">learning user specific latent influence and susceptibility from information cascades</data>
+    </node>
+    <node id="P17368">
+      <data key="title">a latent social approach to youtube popularity prediction</data>
+    </node>
+    <node id="P88976">
+      <data key="title">a software package for chemically inspired graph transformation</data>
+    </node>
+    <node id="P86196">
+      <data key="title">extensional and intensional strategies</data>
+    </node>
+    <node id="P6585">
+      <data key="title">epidemic spreading with external agents</data>
+    </node>
+    <node id="P37598">
+      <data key="title">attributed hierarchical port graphs and applications</data>
+    </node>
+    <node id="P158875">
+      <data key="title">distributed submodular maximization</data>
+    </node>
+    <node id="P133816">
+      <data key="title">temporal scaling in information propagation</data>
+    </node>
+    <node id="P10478">
+      <data key="title">a visual analytics approach to compare propagation models in social networks</data>
+    </node>
+    <node id="P39947">
+      <data key="title">how to identify an infection source with limited observations</data>
+    </node>
+    <node id="P107281">
+      <data key="title">diffusion aware sampling and estimation in information diffusion networks</data>
+    </node>
+    <node id="P165307">
+      <data key="title">a language for describing optimization strategies</data>
+    </node>
+    <node id="P21236">
+      <data key="title">composite social network for predicting mobile apps installation</data>
+    </node>
+    <node id="P7835">
+      <data key="title">a simple parallel implementation of interaction nets in haskell</data>
+    </node>
+    <edge source="P41918" target="P100577">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P158875">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P21236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P17368">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P143048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P6585">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P10478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P107281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P39947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P133816">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P21307">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P7835">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P88976">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P161050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79656" target="P165307">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157" target="P10478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157" target="P86196">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21307" target="P37598">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161050" target="P88976">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37598" target="P10478">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P133927">
+      <data key="title">multiuser resource allocation for mobile edge computation offloading</data>
+    </node>
+    <node id="P19600">
+      <data key="title">software defined networking a comprehensive survey</data>
+    </node>
+    <node id="P42690">
+      <data key="title">a cooperative scheduling scheme of local cloud and internet cloud for delay aware mobile cloud computing</data>
+    </node>
+    <node id="P83098">
+      <data key="title">energy efficient resource allocation for mobile edge computation offloading</data>
+    </node>
+    <node id="P67798">
+      <data key="title">mobility induced service migration in mobile micro clouds</data>
+    </node>
+    <node id="P10639">
+      <data key="title">delay optimal computation task scheduling for mobile edge computing systems</data>
+    </node>
+    <node id="P20823">
+      <data key="title">dynamic service migration in mobile edge clouds</data>
+    </node>
+    <node id="P46603">
+      <data key="title">energy harvesting wireless communications a review of recent advances</data>
+    </node>
+    <node id="P88200">
+      <data key="title">resource management in cloud networking using economic analysis and pricing models a survey</data>
+    </node>
+    <node id="P84927">
+      <data key="title">mobile edge computing fog et al a survey and analysis of security threats and challenges</data>
+    </node>
+    <node id="P141672">
+      <data key="title">dynamic service placement for mobile micro clouds with predicted future costs</data>
+    </node>
+    <node id="P28069">
+      <data key="title">dynamic computation offloading for mobile edge computing with energy harvesting devices</data>
+    </node>
+    <node id="P132496">
+      <data key="title">concert a cloud based architecture for next generation cellular systems</data>
+    </node>
+    <node id="P100888">
+      <data key="title">mobile edge computing a survey on architecture and computation offloading</data>
+    </node>
+    <node id="P164377">
+      <data key="title">power delay tradeoff in multi user mobile edge computing systems</data>
+    </node>
+    <node id="P492">
+      <data key="title">edgeflow open source multi layer data flow processing in edge computing for 5g and beyond</data>
+    </node>
+    <node id="P102138">
+      <data key="title">online placement of multi component applications in edge computing environments</data>
+    </node>
+    <node id="P115614">
+      <data key="title">sensor fusion for public space utilization monitoring in a smart city</data>
+    </node>
+    <node id="P25155">
+      <data key="title">fog computing focusing on mobile users at the edge</data>
+    </node>
+    <node id="P132057">
+      <data key="title">optimization of radio and computational resources for energy efficiency in latency constrained application offloading</data>
+    </node>
+    <edge source="P133927" target="P42690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133927" target="P28069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133927" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P84927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42690" target="P132496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42690" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42690" target="P83098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83098" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83098" target="P28069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67798" target="P141672">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67798" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67798" target="P20823">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10639" target="P28069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10639" target="P102138">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10639" target="P164377">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10639" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20823" target="P141672">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20823" target="P102138">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20823" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46603" target="P28069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46603" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88200" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84927" target="P25155">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84927" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141672" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28069" target="P164377">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28069" target="P132057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28069" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132496" target="P100888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100888" target="P25155">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100888" target="P102138">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100888" target="P164377">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100888" target="P132057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100888" target="P492">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164377" target="P132057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P492" target="P115614">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

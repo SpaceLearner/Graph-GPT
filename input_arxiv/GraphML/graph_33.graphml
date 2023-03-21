@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P66551">
+      <data key="title">spectrum sensing by cognitive radios at very low snr</data>
+    </node>
+    <node id="P145257">
+      <data key="title">software defined networking state of the art and research challenges</data>
+    </node>
+    <node id="P111307">
+      <data key="title">femtocell networks a survey</data>
+    </node>
+    <node id="P92808">
+      <data key="title">achieving autonomous compressive spectrum sensing for cognitive radios</data>
+    </node>
+    <node id="P99287">
+      <data key="title">general spectrum sensing in cognitive radio networks</data>
+    </node>
+    <node id="P145763">
+      <data key="title">joint sensing and power allocation in nonconvex cognitive radio games quasi nash equilibria</data>
+    </node>
+    <node id="P41">
+      <data key="title">reconfigurable wireless networks</data>
+    </node>
+    <node id="P131199">
+      <data key="title">energy efficiency of distributed signal processing in wireless networks a cross layer analysis</data>
+    </node>
+    <node id="P158929">
+      <data key="title">multi rate sub nyquist spectrum sensing in cognitive radios</data>
+    </node>
+    <node id="P106854">
+      <data key="title">coverage and rate analysis for millimeter wave cellular networks</data>
+    </node>
+    <node id="P27923">
+      <data key="title">spectrum sensing in cognitive radio networks performance evaluation and optimization</data>
+    </node>
+    <node id="P73086">
+      <data key="title">wideband spectrum sensing with sub nyquist sampling in cognitive radios</data>
+    </node>
+    <node id="P29893">
+      <data key="title">multi user mimo scheduling in the fourth generation cellular uplink</data>
+    </node>
+    <node id="P137703">
+      <data key="title">wideband spectrum sensing in cognitive radio networks</data>
+    </node>
+    <node id="P83522">
+      <data key="title">optimal multiband joint detection for spectrum sensing in cognitive radio networks</data>
+    </node>
+    <node id="P116654">
+      <data key="title">scaling up mimo opportunities and challenges with very large arrays</data>
+    </node>
+    <node id="P67366">
+      <data key="title">spectrum sensing in cognitive radios based on multiple cyclic frequencies</data>
+    </node>
+    <node id="P120545">
+      <data key="title">millimeter wave cellular wireless networks potentials and challenges</data>
+    </node>
+    <node id="P149832">
+      <data key="title">multiband spectrum access great promises for future cognitive radio networks</data>
+    </node>
+    <node id="P62564">
+      <data key="title">random interruptions in cooperation for spectrum sensing in cognitive radio networks</data>
+    </node>
+    <edge source="P66551" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145257" target="P41">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111307" target="P41">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111307" target="P120545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92808" target="P73086">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92808" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92808" target="P137703">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99287" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145763" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P116654">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P149832">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P120545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P29893">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41" target="P106854">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131199" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158929" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27923" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73086" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73086" target="P137703">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73086" target="P149832">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137703" target="P83522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137703" target="P67366">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83522" target="P67366">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83522" target="P149832">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83522" target="P62564">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116654" target="P120545">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

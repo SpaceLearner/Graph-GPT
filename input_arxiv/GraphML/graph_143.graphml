@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P11275">
+      <data key="title">efficient algorithms for computing rational first integrals and darboux polynomials of planar polynomial vector fields</data>
+    </node>
+    <node id="P80420">
+      <data key="title">trading order for degree in creative telescoping</data>
+    </node>
+    <node id="P125651">
+      <data key="title">creative telescoping for holonomic functions</data>
+    </node>
+    <node id="P88852">
+      <data key="title">controlled non uniform random generation of decomposable structures</data>
+    </node>
+    <node id="P119995">
+      <data key="title">desingularization explains order degree curves for ore operators</data>
+    </node>
+    <node id="P153061">
+      <data key="title">on the existence of telescopers for mixed hypergeometric terms</data>
+    </node>
+    <node id="P79590">
+      <data key="title">simplifying multiple sums in difference fields</data>
+    </node>
+    <node id="P42689">
+      <data key="title">fast computation of the nth term of an algebraic series over a finite prime field</data>
+    </node>
+    <node id="P165516">
+      <data key="title">modern summation methods for loop integrals in quantum field theory the packages sigma evaluatemultisums and sumproduction</data>
+    </node>
+    <node id="P152213">
+      <data key="title">explicit formula for the generating series of diagonal 3d rook paths</data>
+    </node>
+    <node id="P11781">
+      <data key="title">bounded degree factors of lacunary multivariate polynomials</data>
+    </node>
+    <node id="P26142">
+      <data key="title">fast computation of common left multiples of linear ordinary differential operators</data>
+    </node>
+    <node id="P184">
+      <data key="title">differential equations for algebraic functions</data>
+    </node>
+    <node id="P117463">
+      <data key="title">complexity of creative telescoping for bivariate rational functions</data>
+    </node>
+    <node id="P120496">
+      <data key="title">algebraic diagonals and walks</data>
+    </node>
+    <node id="P95435">
+      <data key="title">advanced computer algebra for determinants</data>
+    </node>
+    <node id="P129745">
+      <data key="title">a non holonomic systems approach to special function identities</data>
+    </node>
+    <node id="P94621">
+      <data key="title">linear differential equations as a data structure</data>
+    </node>
+    <node id="P99422">
+      <data key="title">creative telescoping for rational functions using the griffiths dwork method</data>
+    </node>
+    <node id="P5394">
+      <data key="title">a fast approach to creative telescoping</data>
+    </node>
+    <edge source="P11275" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P125651">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P119995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P129745">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80420" target="P117463">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P152213">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P79590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P129745">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P95435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P99422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P153061">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P117463">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P165516">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125651" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88852" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119995" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119995" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153061" target="P129745">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79590" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79590" target="P165516">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42689" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152213" target="P129745">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152213" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152213" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11781" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26142" target="P184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P184" target="P120496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P184" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P184" target="P117463">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117463" target="P120496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117463" target="P99422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117463" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120496" target="P99422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129745" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129745" target="P94621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94621" target="P99422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99422" target="P5394">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

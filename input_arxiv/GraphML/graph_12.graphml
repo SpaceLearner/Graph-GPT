@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P61907">
+      <data key="title">fast distributed algorithms for computing separable functions</data>
+    </node>
+    <node id="P155228">
+      <data key="title">on the parallel undecided state dynamics with two colors</data>
+    </node>
+    <node id="P110169">
+      <data key="title">gossiping with latencies</data>
+    </node>
+    <node id="P16">
+      <data key="title">randomness efficient rumor spreading</data>
+    </node>
+    <node id="P89381">
+      <data key="title">finding a bounded degree expander inside a dense one</data>
+    </node>
+    <node id="P101322">
+      <data key="title">tight bounds for rumor spreading with vertex expansion</data>
+    </node>
+    <node id="P133796">
+      <data key="title">breathe before speaking efficient information dissemination despite noisy limited and anonymous communication</data>
+    </node>
+    <node id="P92159">
+      <data key="title">quasirandom rumor spreading</data>
+    </node>
+    <node id="P53933">
+      <data key="title">spectral sparsification of graphs</data>
+    </node>
+    <node id="P42131">
+      <data key="title">asymptotically optimal randomized rumor spreading</data>
+    </node>
+    <node id="P45928">
+      <data key="title">plurality consensus in the gossip model</data>
+    </node>
+    <node id="P41472">
+      <data key="title">rational fair consensus in the gossip model</data>
+    </node>
+    <node id="P163573">
+      <data key="title">distributed construction of purely additive spanners</data>
+    </node>
+    <node id="P121852">
+      <data key="title">self stabilizing clock synchronization with 3 bit messages</data>
+    </node>
+    <node id="P142457">
+      <data key="title">better pseudorandom generators from milder pseudorandom restrictions</data>
+    </node>
+    <node id="P70785">
+      <data key="title">limits for rumor spreading in stochastic populations</data>
+    </node>
+    <node id="P154411">
+      <data key="title">randomized rumor spreading in poorly connected small world networks</data>
+    </node>
+    <node id="P56561">
+      <data key="title">global computation in a poorly connected world fast rumor spreading with no dependence on conductance</data>
+    </node>
+    <node id="P133356">
+      <data key="title">simple fast and deterministic gossip and rumor spreading</data>
+    </node>
+    <node id="P16774">
+      <data key="title">rumor spreading with bounded in degree</data>
+    </node>
+    <edge source="P61907" target="P16">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61907" target="P101322">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61907" target="P16774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155228" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155228" target="P45928">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110169" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110169" target="P16774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110169" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16" target="P92159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16" target="P142457">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89381" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89381" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101322" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101322" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101322" target="P16774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101322" target="P154411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133796" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133796" target="P42131">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133796" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133796" target="P121852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133796" target="P70785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92159" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92159" target="P42131">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92159" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53933" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42131" target="P121852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42131" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45928" target="P121852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45928" target="P41472">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45928" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41472" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163573" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121852" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70785" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154411" target="P56561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56561" target="P16774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56561" target="P133356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133356" target="P16774">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

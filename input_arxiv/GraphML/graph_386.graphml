@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P85799">
+      <data key="title">learning resolution invariant deep representations for person re identification</data>
+    </node>
+    <node id="P85924">
+      <data key="title">guidelines for 5g end to end architecture and security issues</data>
+    </node>
+    <node id="P27126">
+      <data key="title">towards resilient machine learning for ransomware detection</data>
+    </node>
+    <node id="P35983">
+      <data key="title">unsupervised representation learning with deep convolutional generative adversarial networks</data>
+    </node>
+    <node id="P29667">
+      <data key="title">decrypting ssl tls traffic for hidden threats detection</data>
+    </node>
+    <node id="P24033">
+      <data key="title">conditional generative adversarial nets</data>
+    </node>
+    <node id="P163796">
+      <data key="title">synthetic minority over sampling technique smote for predicting software build outcomes</data>
+    </node>
+    <node id="P19688">
+      <data key="title">recover and identify a generative dual model for cross resolution person re identification</data>
+    </node>
+    <node id="P111215">
+      <data key="title">multi agent evolutionary systems for the generation of complex virtual worlds</data>
+    </node>
+    <node id="P104801">
+      <data key="title">automated dynamic analysis of ransomware benefits limitations and use for detection</data>
+    </node>
+    <node id="P73403">
+      <data key="title">is better data better than better data miners on the benefits of tuning smote for defect prediction</data>
+    </node>
+    <node id="P91622">
+      <data key="title">deciphering malware s use of tls without decryption</data>
+    </node>
+    <node id="P102042">
+      <data key="title">smote synthetic minority over sampling technique</data>
+    </node>
+    <node id="P123288">
+      <data key="title">towards evaluating the robustness of neural networks</data>
+    </node>
+    <node id="P130388">
+      <data key="title">malpaca malware packet sequence clustering and analysis</data>
+    </node>
+    <node id="P71737">
+      <data key="title">tls in the wild an internet wide analysis of tls based protocols for electronic communication</data>
+    </node>
+    <node id="P40062">
+      <data key="title">xgboost a scalable tree boosting system</data>
+    </node>
+    <node id="P61100">
+      <data key="title">intriguing properties of neural networks</data>
+    </node>
+    <node id="P496">
+      <data key="title">deep learning for malicious flow detection</data>
+    </node>
+    <node id="P127259">
+      <data key="title">adversarial examples in the physical world</data>
+    </node>
+    <edge source="P85799" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85799" target="P19688">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85924" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P61100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P24033">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P35983">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P40062">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P127259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P123288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P104801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27126" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29667" target="P91622">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163796" target="P111215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163796" target="P73403">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163796" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163796" target="P102042">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19688" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73403" target="P102042">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91622" target="P71737">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91622" target="P496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91622" target="P130388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123288" target="P61100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123288" target="P127259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61100" target="P127259">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

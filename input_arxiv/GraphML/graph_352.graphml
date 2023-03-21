@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P144637">
+      <data key="title">on existence of separable contraction metrics for monotone nonlinear systems</data>
+    </node>
+    <node id="P444">
+      <data key="title">differential dissipativity theory for dominance analysis</data>
+    </node>
+    <node id="P121228">
+      <data key="title">an internal model approach to optimal frequency regulation in power grids with time varying voltages</data>
+    </node>
+    <node id="P142001">
+      <data key="title">a dissipativity theorem for p dominant systems</data>
+    </node>
+    <node id="P34584">
+      <data key="title">on differential passivity of physical systems</data>
+    </node>
+    <node id="P129223">
+      <data key="title">separability of lyapunov functions for contractive monotone systems</data>
+    </node>
+    <node id="P38967">
+      <data key="title">control contraction metrics on finsler manifolds</data>
+    </node>
+    <node id="P146039">
+      <data key="title">a contractive approach to separable lyapunov functions for monotone systems</data>
+    </node>
+    <node id="P85130">
+      <data key="title">conditions on shifted passivity of port hamiltonian systems</data>
+    </node>
+    <node id="P84371">
+      <data key="title">permanent magnet synchronous motors are globally asymptotically stabilizable with pi current control</data>
+    </node>
+    <node id="P127417">
+      <data key="title">new results on disturbance rejection for energy shaping controlled port hamiltonian systems</data>
+    </node>
+    <node id="P127196">
+      <data key="title">privacy preserving nonlinear observer design using contraction analysis</data>
+    </node>
+    <node id="P8623">
+      <data key="title">a differential lyapunov framework for contraction analysis</data>
+    </node>
+    <node id="P27888">
+      <data key="title">on differentially dissipative dynamical systems</data>
+    </node>
+    <node id="P93880">
+      <data key="title">contracting implicit recurrent neural networks stable models with improved trainability</data>
+    </node>
+    <node id="P23164">
+      <data key="title">differentiation and passivity for control of brayton moser systems</data>
+    </node>
+    <node id="P13574">
+      <data key="title">contracting nonlinear observers convex optimization and learning from data</data>
+    </node>
+    <node id="P104192">
+      <data key="title">differentially positive systems</data>
+    </node>
+    <node id="P25224">
+      <data key="title">control contraction metrics convex and intrinsic criteria for nonlinear feedback design</data>
+    </node>
+    <node id="P13727">
+      <data key="title">stability theory of stochastic models in opinion dynamics</data>
+    </node>
+    <edge source="P144637" target="P146039">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144637" target="P25224">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144637" target="P129223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144637" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144637" target="P38967">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P444" target="P27888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P444" target="P34584">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P444" target="P142001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P444" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P444" target="P104192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121228" target="P85130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142001" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142001" target="P104192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34584" target="P27888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34584" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34584" target="P85130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34584" target="P23164">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129223" target="P146039">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129223" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38967" target="P25224">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38967" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146039" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146039" target="P13727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85130" target="P127417">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85130" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85130" target="P84371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127196" target="P8623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P25224">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P27888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P13574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P13727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P104192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8623" target="P93880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13574" target="P25224">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104192" target="P13727">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

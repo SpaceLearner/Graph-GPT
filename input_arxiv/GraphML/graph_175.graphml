@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P124451">
+      <data key="title">simultaneous information and energy transfer in large scale networks with without relaying</data>
+    </node>
+    <node id="P70479">
+      <data key="title">cooperative energy harvesting networks with spatially random users</data>
+    </node>
+    <node id="P111264">
+      <data key="title">relaying protocols for wireless energy harvesting and information processing</data>
+    </node>
+    <node id="P92808">
+      <data key="title">achieving autonomous compressive spectrum sensing for cognitive radios</data>
+    </node>
+    <node id="P141699">
+      <data key="title">wireless information and power transfer a dynamic power splitting approach</data>
+    </node>
+    <node id="P91486">
+      <data key="title">green power control in cognitive wireless networks</data>
+    </node>
+    <node id="P87527">
+      <data key="title">opportunistic wireless energy harvesting in cognitive radio networks</data>
+    </node>
+    <node id="P33954">
+      <data key="title">energy efficient delay constrained transmission and sensing for cognitive radio systems</data>
+    </node>
+    <node id="P146497">
+      <data key="title">opportunistic ambient backscatter communication in rf powered cognitive radio networks</data>
+    </node>
+    <node id="P35301">
+      <data key="title">error rate analysis of cognitive radio transmissions with imperfect channel sensing</data>
+    </node>
+    <node id="P222">
+      <data key="title">green cognitive relaying opportunistically switching between data transmission and energy harvesting</data>
+    </node>
+    <node id="P31223">
+      <data key="title">cognitive energy harvesting and transmission from a network perspective</data>
+    </node>
+    <node id="P63690">
+      <data key="title">full duplex mimo relaying powered by wireless energy transfer</data>
+    </node>
+    <node id="P98444">
+      <data key="title">a new interweave cognitive radio scheme for out band energy harvesting systems</data>
+    </node>
+    <node id="P20219">
+      <data key="title">optimal power allocation and active interference mitigation for spatial multiplexed mimo cognitive systems</data>
+    </node>
+    <node id="P127071">
+      <data key="title">wireless information and energy transfer in multi antenna interference channel</data>
+    </node>
+    <node id="P127068">
+      <data key="title">wireless information and power transfer in relay systems with multiple antennas and interference</data>
+    </node>
+    <node id="P4084">
+      <data key="title">performance analysis of mimo mrc in double correlated rayleigh environments</data>
+    </node>
+    <node id="P22780">
+      <data key="title">a random access protocol for pilot allocation in crowded massive mimo systems</data>
+    </node>
+    <node id="P102009">
+      <data key="title">power allocation strategies in energy harvesting wireless cooperative networks</data>
+    </node>
+    <edge source="P124451" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124451" target="P111264">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124451" target="P70479">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124451" target="P102009">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124451" target="P87527">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70479" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70479" target="P111264">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70479" target="P102009">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111264" target="P63690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111264" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111264" target="P31223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111264" target="P102009">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92808" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141699" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141699" target="P102009">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91486" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87527" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87527" target="P31223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87527" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33954" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146497" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35301" target="P222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P4084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P22780">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P31223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P20219">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P222" target="P98444">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31223" target="P127071">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63690" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127071" target="P127068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127068" target="P102009">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P151668">
+      <data key="title">joint non negative matrix factorization for learning ideological leaning on twitter</data>
+    </node>
+    <node id="P30010">
+      <data key="title">quantifying the impact of user attention on fair group representation in ranked lists</data>
+    </node>
+    <node id="P355">
+      <data key="title">quantifying search bias investigating sources of bias for political searches in social media</data>
+    </node>
+    <node id="P45717">
+      <data key="title">fairness aware recommendation of information curators</data>
+    </node>
+    <node id="P16604">
+      <data key="title">discrimination through optimization how facebook s ad delivery can lead to biased outcomes</data>
+    </node>
+    <node id="P45119">
+      <data key="title">is twitter a public sphere for online conflicts a cross ideological and cross hierarchical look</data>
+    </node>
+    <node id="P213">
+      <data key="title">topical interests and the mitigation of search engine bias</data>
+    </node>
+    <node id="P69926">
+      <data key="title">events and controversies influences of a shocking news event on information seeking</data>
+    </node>
+    <node id="P16808">
+      <data key="title">on measuring bias in online information</data>
+    </node>
+    <node id="P24501">
+      <data key="title">combating fake news with interpretable news feed algorithms</data>
+    </node>
+    <node id="P50173">
+      <data key="title">discrimination in online ad delivery</data>
+    </node>
+    <node id="P124804">
+      <data key="title">characterizing scalability issues in spreadsheet software using online forums</data>
+    </node>
+    <node id="P69761">
+      <data key="title">the role of user profile for fake news detection</data>
+    </node>
+    <node id="P164427">
+      <data key="title">who makes trends understanding demographic biases in crowdsourced recommendations</data>
+    </node>
+    <node id="P48742">
+      <data key="title">measuring the importance of user generated content to search engines</data>
+    </node>
+    <node id="P10765">
+      <data key="title">white man and highly followed gender and race inequalities in twitter</data>
+    </node>
+    <node id="P631">
+      <data key="title">decentralized search on decentralized web</data>
+    </node>
+    <node id="P5819">
+      <data key="title">crowdsourcing with fairness diversity and budget constraints</data>
+    </node>
+    <node id="P21778">
+      <data key="title">biases in the facebook news feed a case study on the italian elections</data>
+    </node>
+    <node id="P76167">
+      <data key="title">inside the right leaning echo chambers characterizing gab an unmoderated social system</data>
+    </node>
+    <edge source="P151668" target="P355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30010" target="P16604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30010" target="P355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P45119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P213">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P69926">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P50173">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P164427">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P10765">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P124804">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P76167">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P21778">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P45717">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P631">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P5819">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P24501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P16604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P69761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P16808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P355" target="P48742">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16604" target="P50173">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45119" target="P16808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P213" target="P16808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69926" target="P124804">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69926" target="P16808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16808" target="P50173">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164427" target="P10765">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164427" target="P76167">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10765" target="P76167">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

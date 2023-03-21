@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P51970">
+      <data key="title">sacrm social aware crowdsourcing with reputation management in mobile sensing</data>
+    </node>
+    <node id="P95860">
+      <data key="title">securing the internet of things in the age of machine learning and software defined networking</data>
+    </node>
+    <node id="P139592">
+      <data key="title">trust evaluation mechanism for user recruitment in mobile crowd sensing in the internet of things</data>
+    </node>
+    <node id="P159563">
+      <data key="title">blockchain for the internet of things present and future</data>
+    </node>
+    <node id="P58974">
+      <data key="title">incentme effective mechanism design to stimulate crowdsensing participants with uncertain mobility</data>
+    </node>
+    <node id="P166869">
+      <data key="title">a trust based recruitment framework for multi hop social participatory sensing</data>
+    </node>
+    <node id="P120023">
+      <data key="title">taskme multi task allocation in mobile crowd sensing</data>
+    </node>
+    <node id="P129158">
+      <data key="title">a bayesian approach to discovering truth from conflicting sources for data integration</data>
+    </node>
+    <node id="P72523">
+      <data key="title">ear phone a context aware noise mapping using smart phones</data>
+    </node>
+    <node id="P34973">
+      <data key="title">first a framework for optimizing information quality in mobile crowdsensing systems</data>
+    </node>
+    <node id="P47052">
+      <data key="title">hytasker hybrid task allocation in mobile crowd sensing</data>
+    </node>
+    <node id="P122571">
+      <data key="title">mining users significant driving routes with low power sensors</data>
+    </node>
+    <node id="P8">
+      <data key="title">whealth transforming telehealth services</data>
+    </node>
+    <node id="P127921">
+      <data key="title">centurion incentivizing multi requester mobile crowd sensing</data>
+    </node>
+    <node id="P139836">
+      <data key="title">a survey on truth discovery</data>
+    </node>
+    <node id="P137466">
+      <data key="title">a novel methodology for designing policies in mobile crowdsensing systems</data>
+    </node>
+    <node id="P18991">
+      <data key="title">quality of information in mobile crowdsensing survey and research challenges</data>
+    </node>
+    <node id="P65899">
+      <data key="title">incentive mechanisms for participatory sensing survey and research challenges</data>
+    </node>
+    <node id="P46431">
+      <data key="title">fridges on the highway road traffic poisoning of navigation apps</data>
+    </node>
+    <edge source="P51970" target="P166869">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51970" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51970" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95860" target="P58974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95860" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95860" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95860" target="P139836">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95860" target="P159563">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139592" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159563" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58974" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58974" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58974" target="P122571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58974" target="P120023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58974" target="P137466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166869" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120023" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120023" target="P34973">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120023" target="P47052">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129158" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129158" target="P139836">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72523" target="P8">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72523" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72523" target="P34973">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34973" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47052" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122571" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122571" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127921" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139836" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137466" target="P18991">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137466" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18991" target="P65899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18991" target="P46431">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

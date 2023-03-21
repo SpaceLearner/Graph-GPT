@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P82442">
+      <data key="title">efficient parallel translating embedding for knowledge graphs</data>
+    </node>
+    <node id="P32188">
+      <data key="title">analysis and optimization of convolutional neural network architectures</data>
+    </node>
+    <node id="P69794">
+      <data key="title">batch normalization accelerating deep network training by reducing internal covariate shift</data>
+    </node>
+    <node id="P128">
+      <data key="title">optimized imaging using non rigid registration</data>
+    </node>
+    <node id="P151267">
+      <data key="title">music signal processing using vector product neural networks</data>
+    </node>
+    <node id="P62743">
+      <data key="title">variants of rmsprop and adagrad with logarithmic regret bounds</data>
+    </node>
+    <node id="P86427">
+      <data key="title">nuts flow ml data pre processing for deep learning</data>
+    </node>
+    <node id="P137914">
+      <data key="title">deep robust kalman filter</data>
+    </node>
+    <node id="P71636">
+      <data key="title">adadelta an adaptive learning rate method</data>
+    </node>
+    <node id="P165742">
+      <data key="title">fast stochastic variance reduced gradient method with momentum acceleration for machine learning</data>
+    </node>
+    <node id="P165679">
+      <data key="title">an overview of gradient descent optimization algorithms</data>
+    </node>
+    <node id="P55889">
+      <data key="title">deep learning with elastic averaging sgd</data>
+    </node>
+    <node id="P161888">
+      <data key="title">tensor based backpropagation in neural networks with non sequential input</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P44195">
+      <data key="title">neural machine translation and sequence to sequence models a tutorial</data>
+    </node>
+    <node id="P73374">
+      <data key="title">high performance fpga implementation of equivariant adaptive separation via independence algorithm for independent component analysis</data>
+    </node>
+    <node id="P45355">
+      <data key="title">tensorflow large scale machine learning on heterogeneous distributed systems</data>
+    </node>
+    <node id="P135634">
+      <data key="title">fast and robust symmetric image registration based on distances combining intensity and spatial information</data>
+    </node>
+    <node id="P75964">
+      <data key="title">language independent single document image super resolution using cnn for improved recognition</data>
+    </node>
+    <node id="P48150">
+      <data key="title">cyclical learning rates for training neural networks</data>
+    </node>
+    <edge source="P82442" target="P55889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82442" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82442" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32188" target="P71636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32188" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32188" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P48150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128" target="P135634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151267" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62743" target="P71636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62743" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62743" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86427" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86427" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137914" target="P71636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137914" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137914" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71636" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71636" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71636" target="P48150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165742" target="P165679">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P55889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P48150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P75964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P44195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P73374">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P161888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165679" target="P135634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P48150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P44195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44195" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

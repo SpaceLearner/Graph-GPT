@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P81616">
+      <data key="title">bandits with switching costs t 2 3 regret</data>
+    </node>
+    <node id="P323">
+      <data key="title">a non stochastic learning approach to energy efficient mobility management</data>
+    </node>
+    <node id="P44249">
+      <data key="title">emm energy aware mobility management for mobile edge computing in ultra dense networks</data>
+    </node>
+    <node id="P26576">
+      <data key="title">distributed online learning in social recommender systems</data>
+    </node>
+    <node id="P164702">
+      <data key="title">deep reinforcement learning based modulation and coding scheme selection in cognitive heterogeneous networks</data>
+    </node>
+    <node id="P98186">
+      <data key="title">content level selective offloading in heterogeneous networks multi armed bandit optimization and regret bounds</data>
+    </node>
+    <node id="P132633">
+      <data key="title">context aware proactive content caching with service differentiation in wireless networks</data>
+    </node>
+    <node id="P100758">
+      <data key="title">big data meets telcos a proactive caching perspective</data>
+    </node>
+    <node id="P89806">
+      <data key="title">follow me at the edge mobility aware dynamic service placement for mobile edge computing</data>
+    </node>
+    <node id="P45270">
+      <data key="title">an overview of load balancing in hetnets old myths and open problems</data>
+    </node>
+    <node id="P74050">
+      <data key="title">applications of deep reinforcement learning in communications and networking a survey</data>
+    </node>
+    <node id="P54056">
+      <data key="title">user association for load balancing in heterogeneous cellular networks</data>
+    </node>
+    <node id="P56664">
+      <data key="title">context aware mobility management in hetnets a reinforcement learning approach</data>
+    </node>
+    <node id="P21865">
+      <data key="title">adaptive learning based task offloading for vehicular edge computing systems</data>
+    </node>
+    <node id="P118698">
+      <data key="title">online bandit learning against an adaptive adversary from regret to policy regret</data>
+    </node>
+    <node id="P117295">
+      <data key="title">living on the edge the role of proactive caching in 5g wireless networks</data>
+    </node>
+    <node id="P163659">
+      <data key="title">regret analysis of stochastic and nonstochastic multi armed bandit problems</data>
+    </node>
+    <node id="P144393">
+      <data key="title">content aware user clustering and caching in wireless small cell networks</data>
+    </node>
+    <node id="P83061">
+      <data key="title">five disruptive technology directions for 5g</data>
+    </node>
+    <node id="P25356">
+      <data key="title">multi armed bandits with application to 5g small cells</data>
+    </node>
+    <edge source="P81616" target="P323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81616" target="P118698">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P132633">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P45270">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P56664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P54056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P118698">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P83061">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P44249">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P164702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P21865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P74050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P323" target="P89806">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44249" target="P83061">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44249" target="P21865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44249" target="P89806">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26576" target="P132633">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164702" target="P74050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98186" target="P132633">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132633" target="P144393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132633" target="P25356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132633" target="P100758">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132633" target="P117295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100758" target="P117295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45270" target="P54056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21865" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118698" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163659" target="P25356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144393" target="P83061">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

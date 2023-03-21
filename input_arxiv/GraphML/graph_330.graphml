@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P6796">
+      <data key="title">emotional chatting machine emotional conversation generation with internal and external memory</data>
+    </node>
+    <node id="P9459">
+      <data key="title">style transfer from non parallel text by cross alignment</data>
+    </node>
+    <node id="P20148">
+      <data key="title">harnessing deep neural networks with logic rules</data>
+    </node>
+    <node id="P72023">
+      <data key="title">adversarial generation of natural language</data>
+    </node>
+    <node id="P35983">
+      <data key="title">unsupervised representation learning with deep convolutional generative adversarial networks</data>
+    </node>
+    <node id="P115359">
+      <data key="title">neural machine translation by jointly learning to align and translate</data>
+    </node>
+    <node id="P73361">
+      <data key="title">on unifying deep generative models</data>
+    </node>
+    <node id="P144635">
+      <data key="title">learning to generate reviews and discovering sentiment</data>
+    </node>
+    <node id="P127175">
+      <data key="title">autoencoding beyond pixels using a learned similarity metric</data>
+    </node>
+    <node id="P22838">
+      <data key="title">seqgan sequence generative adversarial nets with policy gradient</data>
+    </node>
+    <node id="P10706">
+      <data key="title">unsupervised cross domain image generation</data>
+    </node>
+    <node id="P30486">
+      <data key="title">a neural algorithm of artistic style</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P65228">
+      <data key="title">generating images with perceptual similarity metrics based on deep networks</data>
+    </node>
+    <node id="P160327">
+      <data key="title">training deep neural networks on noisy labels with bootstrapping</data>
+    </node>
+    <node id="P408">
+      <data key="title">toward controlled generation of text</data>
+    </node>
+    <node id="P44028">
+      <data key="title">generating sentences from a continuous space</data>
+    </node>
+    <node id="P68021">
+      <data key="title">improved variational autoencoders for text modeling using dilated convolutions</data>
+    </node>
+    <node id="P152461">
+      <data key="title">infogan interpretable representation learning by information maximizing generative adversarial nets</data>
+    </node>
+    <node id="P69420">
+      <data key="title">a deep network with visual text composition behavior</data>
+    </node>
+    <edge source="P6796" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6796" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9459" target="P22838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9459" target="P10706">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9459" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20148" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20148" target="P73361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20148" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72023" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72023" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72023" target="P35983">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72023" target="P22838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72023" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P127175">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P10706">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P73361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P44028">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P22838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P69420">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73361" target="P68021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73361" target="P127175">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73361" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73361" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144635" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144635" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127175" target="P30486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127175" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22838" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22838" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10706" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10706" target="P65228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10706" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30486" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P68021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65228" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160327" target="P408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P408" target="P68021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P408" target="P69420">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P408" target="P44028">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P408" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44028" target="P68021">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

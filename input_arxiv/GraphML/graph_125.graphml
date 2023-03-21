@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P9104">
+      <data key="title">a spectral approach to analysing belief propagation for 3 colouring</data>
+    </node>
+    <node id="P143012">
+      <data key="title">phase transitions in spectral community detection</data>
+    </node>
+    <node id="P122615">
+      <data key="title">a proof of alon s second eigenvalue conjecture and related problems</data>
+    </node>
+    <node id="P7758">
+      <data key="title">linear programming relaxations for goldreich s generators over non binary alphabets</data>
+    </node>
+    <node id="P4021">
+      <data key="title">graph spectra and the detectability of community structure in networks</data>
+    </node>
+    <node id="P94105">
+      <data key="title">spectral redemption in clustering sparse networks</data>
+    </node>
+    <node id="P73099">
+      <data key="title">localization and centrality in networks</data>
+    </node>
+    <node id="P124389">
+      <data key="title">semidefinite programs on sparse random graphs</data>
+    </node>
+    <node id="P156285">
+      <data key="title">comparative study for inference of hidden classes in stochastic block models</data>
+    </node>
+    <node id="P90191">
+      <data key="title">a testing based extraction algorithm for identifying significant communities in networks</data>
+    </node>
+    <node id="P15411">
+      <data key="title">estimating and sampling graphs with multidimensional random walks</data>
+    </node>
+    <node id="P160">
+      <data key="title">the entropy of conditional markov trajectories</data>
+    </node>
+    <node id="P30727">
+      <data key="title">assessing percolation threshold based on high order non backtracking matrices</data>
+    </node>
+    <node id="P119116">
+      <data key="title">message passing and combinatorial optimization</data>
+    </node>
+    <node id="P113891">
+      <data key="title">spectral detection on sparse hypergraphs</data>
+    </node>
+    <node id="P25218">
+      <data key="title">spectral detection in the censored block model</data>
+    </node>
+    <node id="P107685">
+      <data key="title">non backtracking centrality based random walk on networks</data>
+    </node>
+    <node id="P47283">
+      <data key="title">a tutorial on spectral clustering</data>
+    </node>
+    <node id="P141568">
+      <data key="title">phase transitions in spectral community detection of large noisy networks</data>
+    </node>
+    <node id="P133787">
+      <data key="title">efficient and principled method for detecting communities in networks</data>
+    </node>
+    <edge source="P9104" target="P113891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9104" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143012" target="P141568">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143012" target="P4021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143012" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143012" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7758" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4021" target="P141568">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4021" target="P113891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4021" target="P156285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4021" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P141568">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P124389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P25218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P119116">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P113891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P133787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P156285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P90191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P73099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P30727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P107685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73099" target="P107685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90191" target="P133787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15411" target="P107685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160" target="P107685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30727" target="P107685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119116" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113891" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47283" target="P141568">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

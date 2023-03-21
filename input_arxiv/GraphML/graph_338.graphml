@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P122739">
+      <data key="title">mixed linear layouts complexity heuristics and experiments</data>
+    </node>
+    <node id="P16420">
+      <data key="title">a survey on graph drawing beyond planarity</data>
+    </node>
+    <node id="P153680">
+      <data key="title">layout of graphs with bounded tree width</data>
+    </node>
+    <node id="P92357">
+      <data key="title">polynomial bounds for centered colorings on proper minor closed graph classes</data>
+    </node>
+    <node id="P115554">
+      <data key="title">an annotated bibliography on 1 planarity</data>
+    </node>
+    <node id="P104771">
+      <data key="title">drawing graphs on few lines and few planes</data>
+    </node>
+    <node id="P75187">
+      <data key="title">track layouts of graphs</data>
+    </node>
+    <node id="P99237">
+      <data key="title">adjacency labelling for planar graphs and beyond</data>
+    </node>
+    <node id="P103037">
+      <data key="title">an experimental study of a 1 planarity testing and embedding algorithm</data>
+    </node>
+    <node id="P145734">
+      <data key="title">bidimensionality and geometric graphs</data>
+    </node>
+    <node id="P119348">
+      <data key="title">stack and queue layouts via layered separators</data>
+    </node>
+    <node id="P157585">
+      <data key="title">a note on planar partial 3 trees</data>
+    </node>
+    <node id="P4218">
+      <data key="title">the complexity of drawing graphs on few lines and few planes</data>
+    </node>
+    <node id="P423">
+      <data key="title">layouts for plane graphs on constant number of tracks</data>
+    </node>
+    <node id="P64800">
+      <data key="title">line and plane cover numbers revisited</data>
+    </node>
+    <node id="P75191">
+      <data key="title">on collinear sets in straight line drawings</data>
+    </node>
+    <node id="P75034">
+      <data key="title">planar graphs have bounded queue number</data>
+    </node>
+    <node id="P93776">
+      <data key="title">shorter labeling schemes for planar graphs</data>
+    </node>
+    <node id="P53218">
+      <data key="title">list coloring apex minor free graphs</data>
+    </node>
+    <node id="P26619">
+      <data key="title">graph layouts via layered separators</data>
+    </node>
+    <edge source="P122739" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16420" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16420" target="P119348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16420" target="P115554">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16420" target="P103037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P104771">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P119348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P423">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153680" target="P75187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92357" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115554" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115554" target="P103037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115554" target="P99237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104771" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104771" target="P4218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104771" target="P75191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104771" target="P64800">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99237" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99237" target="P93776">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103037" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145734" target="P119348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145734" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119348" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119348" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157585" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4218" target="P64800">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P423" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P423" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64800" target="P75034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75034" target="P53218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75034" target="P26619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75034" target="P93776">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

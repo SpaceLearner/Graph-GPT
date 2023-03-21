@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P58021">
+      <data key="title">gaming security by obscurity</data>
+    </node>
+    <node id="P78309">
+      <data key="title">the generic model of computation</data>
+    </node>
+    <node id="P84819">
+      <data key="title">connector algebras for c e and p t nets interactions</data>
+    </node>
+    <node id="P93640">
+      <data key="title">the prospects for mathematical logic in the twenty first century</data>
+    </node>
+    <node id="P128328">
+      <data key="title">monoidal computer ii normal complexity by string diagrams</data>
+    </node>
+    <node id="P20375">
+      <data key="title">rewriting in free hypegraph categories</data>
+    </node>
+    <node id="P58157">
+      <data key="title">local reasoning for robust observational equivalence</data>
+    </node>
+    <node id="P88808">
+      <data key="title">testing randomness by matching pennies</data>
+    </node>
+    <node id="P137192">
+      <data key="title">when are two algorithms the same</data>
+    </node>
+    <node id="P112815">
+      <data key="title">monoidal computer iii a coalgebraic view of computability and complexity</data>
+    </node>
+    <node id="P445">
+      <data key="title">theoretical computer science for the working category theorist</data>
+    </node>
+    <node id="P40634">
+      <data key="title">monoidal computer i basic computability by string diagrams</data>
+    </node>
+    <node id="P133885">
+      <data key="title">a categorical approach to open and interconnected dynamical systems</data>
+    </node>
+    <node id="P10328">
+      <data key="title">contextual equivalence for signal flow graphs</data>
+    </node>
+    <node id="P59770">
+      <data key="title">on algorithmic equivalence of instruction sequences for computing bit string functions</data>
+    </node>
+    <node id="P139162">
+      <data key="title">compositionality and string diagrams for game theory</data>
+    </node>
+    <node id="P122969">
+      <data key="title">interacting hopf algebras</data>
+    </node>
+    <node id="P83103">
+      <data key="title">the tale of one way functions</data>
+    </node>
+    <node id="P14026">
+      <data key="title">interacting frobenius algebras are hopf</data>
+    </node>
+    <node id="P135060">
+      <data key="title">long multiplication by instruction sequences with backward jump instructions</data>
+    </node>
+    <edge source="P58021" target="P128328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58021" target="P112815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58021" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78309" target="P137192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84819" target="P122969">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93640" target="P137192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128328" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128328" target="P88808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128328" target="P112815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128328" target="P10328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20375" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58157" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88808" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137192" target="P59770">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137192" target="P135060">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137192" target="P445">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112815" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P445" target="P40634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40634" target="P122969">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40634" target="P139162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40634" target="P83103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40634" target="P10328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133885" target="P122969">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10328" target="P122969">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59770" target="P135060">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122969" target="P14026">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

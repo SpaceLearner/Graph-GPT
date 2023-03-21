@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P30075">
+      <data key="title">a cyber physical system based approach for industrial automation systems</data>
+    </node>
+    <node id="P3340">
+      <data key="title">future developments in standardisation of cyber risk in the internet of things iot</data>
+    </node>
+    <node id="P14922">
+      <data key="title">internet of things survey on security</data>
+    </node>
+    <node id="P159">
+      <data key="title">iec 61499 vs 61131 a comparison based on misperceptions</data>
+    </node>
+    <node id="P65323">
+      <data key="title">the perfect storm the privacy paradox and the internet of things</data>
+    </node>
+    <node id="P99631">
+      <data key="title">internet of things aided smart grid technologies architectures applications prototypes and future research directions</data>
+    </node>
+    <node id="P82314">
+      <data key="title">towards a semantic administrative shell for industry 4 0 components</data>
+    </node>
+    <node id="P95622">
+      <data key="title">applying chatbots to the internet of things opportunities and architectural elements</data>
+    </node>
+    <node id="P85404">
+      <data key="title">a reference architecture for integrating the industrial internet of things in the industry 4 0</data>
+    </node>
+    <node id="P63114">
+      <data key="title">data management in industry 4 0 state of the art and open challenges</data>
+    </node>
+    <node id="P154248">
+      <data key="title">deployment optimization of iot devices through attack graph analysis</data>
+    </node>
+    <node id="P111811">
+      <data key="title">distill net application specific distillation of deep convolutional neural networks for resource constrained iot platforms</data>
+    </node>
+    <node id="P40046">
+      <data key="title">service oriented architecture in industrial automation systems the case of iec 61499 a review</data>
+    </node>
+    <node id="P111653">
+      <data key="title">cyber physical microservices an iot based framework for manufacturing systems</data>
+    </node>
+    <node id="P120623">
+      <data key="title">a framework for the implementation of industrial automation systems based on plcs</data>
+    </node>
+    <node id="P93124">
+      <data key="title">the rise of internet of things iot in big healthcare data review and open research issues</data>
+    </node>
+    <node id="P30">
+      <data key="title">homomorphic encryption theory and application</data>
+    </node>
+    <node id="P90833">
+      <data key="title">an open distributed architecture for flexible hybrid assembly systems a model driven engineering approach</data>
+    </node>
+    <node id="P74328">
+      <data key="title">secure and privacy preserving data aggregation protocols for wireless sensor networks</data>
+    </node>
+    <node id="P100169">
+      <data key="title">internet of things applications and challenges in technology and standardization</data>
+    </node>
+    <edge source="P30075" target="P40046">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30075" target="P111653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30075" target="P85404">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30075" target="P3340">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30075" target="P63114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30075" target="P159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3340" target="P85404">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14922" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159" target="P120623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65323" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99631" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82314" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95622" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154248" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111811" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120623" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120623" target="P90833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93124" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30" target="P74328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74328" target="P100169">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P58">
+      <data key="title">inference less density estimation using copula bayesian networks</data>
+    </node>
+    <node id="P132411">
+      <data key="title">ordering based search a simple and effective algorithm for learning bayesian networks</data>
+    </node>
+    <node id="P6506">
+      <data key="title">improving the scalability of optimal bayesian network learning with external memory frontier breadth first branch and bound search</data>
+    </node>
+    <node id="P41918">
+      <data key="title">inferring networks of diffusion and influence</data>
+    </node>
+    <node id="P99776">
+      <data key="title">learning binary bayesian networks in polynomial time and sample complexity</data>
+    </node>
+    <node id="P141022">
+      <data key="title">evaluating structure learning algorithms with a balanced scoring function</data>
+    </node>
+    <node id="P111122">
+      <data key="title">required sample size for learning sparse bayesian networks with many variables</data>
+    </node>
+    <node id="P149717">
+      <data key="title">parameterized complexity results for exact bayesian network structure learning</data>
+    </node>
+    <node id="P145659">
+      <data key="title">discovering the hidden structure of complex dynamic systems</data>
+    </node>
+    <node id="P42583">
+      <data key="title">pgmhd a scalable probabilistic graphical model for massive hierarchical data problems</data>
+    </node>
+    <node id="P144326">
+      <data key="title">interpolating conditional density trees</data>
+    </node>
+    <node id="P67858">
+      <data key="title">searching for bayesian network structures in the space of restricted acyclic partially directed graphs</data>
+    </node>
+    <node id="P151041">
+      <data key="title">a robust independence test for constraint based learning of causal structure</data>
+    </node>
+    <node id="P165552">
+      <data key="title">incorporating type ii error probabilities from independence tests into score based learning of bayesian network structure</data>
+    </node>
+    <node id="P103371">
+      <data key="title">learning bayesian network equivalence classes with ant colony optimization</data>
+    </node>
+    <node id="P28021">
+      <data key="title">selective greedy equivalence search finding optimal bayesian networks using a polynomial number of score evaluations</data>
+    </node>
+    <node id="P162800">
+      <data key="title">sparsityboost a new scoring function for learning bayesian network structure</data>
+    </node>
+    <node id="P154119">
+      <data key="title">rough set based lattice structure for knowledge representation in medical expert systems low back pain management case study</data>
+    </node>
+    <node id="P41951">
+      <data key="title">fast learning of relational dependency networks</data>
+    </node>
+    <node id="P92364">
+      <data key="title">learning bayesian network structure from massive datasets the sparse candidate algorithm</data>
+    </node>
+    <edge source="P58" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132411" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132411" target="P149717">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6506" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41918" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99776" target="P162800">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99776" target="P149717">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99776" target="P67858">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99776" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141022" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111122" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149717" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149717" target="P28021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145659" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42583" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144326" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67858" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67858" target="P103371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151041" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165552" target="P162800">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165552" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103371" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28021" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162800" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154119" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41951" target="P92364">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

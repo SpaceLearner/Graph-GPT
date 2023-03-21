@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P13091">
+      <data key="title">evaluation of an intelligent assistive technology for voice navigation of spreadsheets</data>
+    </node>
+    <node id="P116498">
+      <data key="title">excelsior bringing the benefits of modularisation to excel</data>
+    </node>
+    <node id="P62386">
+      <data key="title">spreadsheet end user behaviour analysis</data>
+    </node>
+    <node id="P144248">
+      <data key="title">user defined spreadsheet functions in excel</data>
+    </node>
+    <node id="P5237">
+      <data key="title">bientropy the approximate entropy of a finite binary string</data>
+    </node>
+    <node id="P100588">
+      <data key="title">in pursuit of spreadsheet excellence</data>
+    </node>
+    <node id="P29106">
+      <data key="title">controlling end user computing applications a case study</data>
+    </node>
+    <node id="P42699">
+      <data key="title">effect of range naming conventions on reliability and development time for simple spreadsheet formulas</data>
+    </node>
+    <node id="P80820">
+      <data key="title">reducing spreadsheet risk with formuladatasleuth</data>
+    </node>
+    <node id="P124512">
+      <data key="title">the importance and criticality of spreadsheets in the city of london</data>
+    </node>
+    <node id="P130988">
+      <data key="title">an empirical study of end user behaviour in spreadsheet error detection correction</data>
+    </node>
+    <node id="P119070">
+      <data key="title">comparison of characteristics and practices amongst spreadsheet users with different levels of experience</data>
+    </node>
+    <node id="P85660">
+      <data key="title">new guidelines for spreadsheets</data>
+    </node>
+    <node id="P66407">
+      <data key="title">the lookup technique to replace nested if formulas in spreadsheet programming</data>
+    </node>
+    <node id="P40">
+      <data key="title">regulation and the integrity of spreadsheets in the information supply chain</data>
+    </node>
+    <node id="P21222">
+      <data key="title">spreadsheets in clinical medicine</data>
+    </node>
+    <node id="P67699">
+      <data key="title">automating spreadsheet discovery risk assessment</data>
+    </node>
+    <node id="P2704">
+      <data key="title">spreadsheet components for all</data>
+    </node>
+    <node id="P90095">
+      <data key="title">establishing and measuring standard spreadsheet practices for end users</data>
+    </node>
+    <node id="P59743">
+      <data key="title">enterprise spreadsheet management a necessary good</data>
+    </node>
+    <edge source="P13091" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116498" target="P144248">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116498" target="P2704">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62386" target="P119070">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62386" target="P130988">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62386" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62386" target="P42699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144248" target="P2704">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144248" target="P66407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144248" target="P5237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5237" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100588" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100588" target="P2704">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29106" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42699" target="P66407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42699" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80820" target="P124512">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P59743">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P90095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P67699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P119070">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P21222">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P130988">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124512" target="P66407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85660" target="P66407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66407" target="P40">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

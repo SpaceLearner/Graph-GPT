@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P50859">
+      <data key="title">verifying and synthesizing constant resource implementations with types</data>
+    </node>
+    <node id="P76601">
+      <data key="title">bounded linear logic revisited</data>
+    </node>
+    <node id="P29342">
+      <data key="title">analysing the complexity of functional programs higher order meets first order long version</data>
+    </node>
+    <node id="P156227">
+      <data key="title">the geometry of types long version</data>
+    </node>
+    <node id="P62878">
+      <data key="title">the dynamic geometry of interaction machine a token guided graph rewriter</data>
+    </node>
+    <node id="P30687">
+      <data key="title">infinitary λ calculi from a linear perspective long version</data>
+    </node>
+    <node id="P75272">
+      <data key="title">context semantics linear logic and computational complexity</data>
+    </node>
+    <node id="P44207">
+      <data key="title">automated sized type inference and complexity analysis</data>
+    </node>
+    <node id="P35">
+      <data key="title">from bounded affine types to automatic timing analysis</data>
+    </node>
+    <node id="P114149">
+      <data key="title">probabilistic termination by monadic affine sized typing long version</data>
+    </node>
+    <node id="P145183">
+      <data key="title">light types for polynomial time computation in lambda calculus</data>
+    </node>
+    <node id="P139056">
+      <data key="title">a proof theoretic study of soft concurrent constraint programming</data>
+    </node>
+    <node id="P22884">
+      <data key="title">the dynamic geometry of interaction machine a call by need graph rewriter</data>
+    </node>
+    <node id="P26072">
+      <data key="title">abstract machines for game semantics revisited</data>
+    </node>
+    <node id="P41221">
+      <data key="title">linear dependent types and relative completeness</data>
+    </node>
+    <node id="P86166">
+      <data key="title">execution time of lambda terms via denotational semantics and intersection types</data>
+    </node>
+    <node id="P111814">
+      <data key="title">relational cost analysis for functional imperative programs</data>
+    </node>
+    <node id="P14913">
+      <data key="title">automating sized type inference for complexity analysis technical report</data>
+    </node>
+    <node id="P58500">
+      <data key="title">syntax and semantics of linear dependent types</data>
+    </node>
+    <node id="P130187">
+      <data key="title">parallel complexity analysis with temporal session types</data>
+    </node>
+    <edge source="P50859" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50859" target="P111814">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76601" target="P35">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76601" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29342" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29342" target="P145183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156227" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156227" target="P75272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62878" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62878" target="P22884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30687" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30687" target="P145183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75272" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75272" target="P145183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44207" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35" target="P26072">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35" target="P139056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114149" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145183" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145183" target="P86166">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22884" target="P41221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41221" target="P58500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41221" target="P86166">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41221" target="P14913">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41221" target="P130187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41221" target="P111814">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

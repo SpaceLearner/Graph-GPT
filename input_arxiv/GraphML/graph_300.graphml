@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P107657">
+      <data key="title">ndlib a python library to model and analyze diffusion processes over complex networks</data>
+    </node>
+    <node id="P74486">
+      <data key="title">predictors of short term decay of cell phone contacts in a large scale communication network</data>
+    </node>
+    <node id="P92744">
+      <data key="title">detecting friendship within dynamic online interaction networks</data>
+    </node>
+    <node id="P62748">
+      <data key="title">community discovery in dynamic networks a survey</data>
+    </node>
+    <node id="P28408">
+      <data key="title">senator we sell ads analysis of the 2016 russian facebook ads campaign</data>
+    </node>
+    <node id="P371">
+      <data key="title">parsimonious data how a single facebook like predicts voting behavior in multiparty systems</data>
+    </node>
+    <node id="P85119">
+      <data key="title">does campaigning on social media make a difference evidence from candidate use of twitter during the 2015 and 2017 uk elections</data>
+    </node>
+    <node id="P38093">
+      <data key="title">dynamical classes of collective attention in twitter</data>
+    </node>
+    <node id="P141791">
+      <data key="title">wikipedia traffic data and electoral prediction towards theoretically informed models</data>
+    </node>
+    <node id="P138082">
+      <data key="title">big data would not lie prediction of the 2016 taiwan election via online heterogeneous information</data>
+    </node>
+    <node id="P50740">
+      <data key="title">connecting every bit of knowledge the structure of wikipedia s first link network</data>
+    </node>
+    <node id="P163312">
+      <data key="title">predicting interactions between individuals with structural and dynamical information</data>
+    </node>
+    <node id="P151709">
+      <data key="title">predicting links in ego networks using temporal information</data>
+    </node>
+    <node id="P64062">
+      <data key="title">the role of gender in social network organization</data>
+    </node>
+    <node id="P136236">
+      <data key="title">novel version of pagerank cheirank and 2drank for wikipedia in multilingual network using social impact</data>
+    </node>
+    <node id="P32287">
+      <data key="title">computational international relations what can programming coding and internet research do for the discipline</data>
+    </node>
+    <node id="P7323">
+      <data key="title">estimating local commuting patterns from geolocated twitter data</data>
+    </node>
+    <node id="P14805">
+      <data key="title">divergent discourse between protests and counter protests blacklivesmatter and alllivesmatter</data>
+    </node>
+    <node id="P63174">
+      <data key="title">topological properties and temporal dynamics of place networks in urban environments</data>
+    </node>
+    <node id="P126704">
+      <data key="title">triangles to capture social cohesion</data>
+    </node>
+    <edge source="P107657" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107657" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74486" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92744" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28408" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P371" target="P141791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P371" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85119" target="P141791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38093" target="P141791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141791" target="P32287">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141791" target="P138082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141791" target="P7323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141791" target="P136236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50740" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163312" target="P151709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151709" target="P14805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151709" target="P64062">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151709" target="P63174">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151709" target="P126704">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

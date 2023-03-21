@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P16193">
+      <data key="title">oc16 ce80 a chinese english mixlingual database and a speech recognition baseline</data>
+    </node>
+    <node id="P30920">
+      <data key="title">unspeech unsupervised speech context embeddings</data>
+    </node>
+    <node id="P123241">
+      <data key="title">reducing the model order of deep neural networks using information theory</data>
+    </node>
+    <node id="P160519">
+      <data key="title">deep speaker feature learning for text independent speaker verification</data>
+    </node>
+    <node id="P59809">
+      <data key="title">parallel training of dnns with natural gradient and parameter averaging</data>
+    </node>
+    <node id="P404">
+      <data key="title">speaker recognition with cough laugh and wei</data>
+    </node>
+    <node id="P5716">
+      <data key="title">cytonrl an efficient reinforcement learning open source toolkit implemented in c</data>
+    </node>
+    <node id="P14962">
+      <data key="title">slim dp a light communication data parallelism for dnn</data>
+    </node>
+    <node id="P25634">
+      <data key="title">the capio 2017 conversational speech recognition system</data>
+    </node>
+    <node id="P45130">
+      <data key="title">experiments on parallel training of deep neural network using model averaging</data>
+    </node>
+    <node id="P152654">
+      <data key="title">sequence training of dnn acoustic models with natural gradient</data>
+    </node>
+    <node id="P24362">
+      <data key="title">demystifying parallel and distributed deep learning an in depth concurrency analysis</data>
+    </node>
+    <node id="P44090">
+      <data key="title">multi task recurrent model for speech and speaker recognition</data>
+    </node>
+    <node id="P121811">
+      <data key="title">optimizing neural networks with kronecker factored approximate curvature</data>
+    </node>
+    <node id="P86384">
+      <data key="title">phonetic temporal neural model for language identification</data>
+    </node>
+    <node id="P74613">
+      <data key="title">ensemble compression a new method for parallel training of deep neural networks</data>
+    </node>
+    <node id="P20210">
+      <data key="title">multi task recurrent model for true multilingual speech recognition</data>
+    </node>
+    <node id="P165778">
+      <data key="title">cross lingual speaker verification with deep feature learning</data>
+    </node>
+    <node id="P136629">
+      <data key="title">empirical evaluation of parallel training algorithms on acoustic modeling</data>
+    </node>
+    <node id="P116926">
+      <data key="title">full info training for deep speaker feature learning</data>
+    </node>
+    <edge source="P16193" target="P59809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30920" target="P59809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123241" target="P59809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160519" target="P59809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160519" target="P165778">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160519" target="P404">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P45130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P121811">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P44090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P74613">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P20210">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P136629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P86384">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P165778">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P404">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P14962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P25634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P152654">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P24362">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59809" target="P5716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P404" target="P116926">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45130" target="P136629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44090" target="P20210">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165778" target="P116926">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

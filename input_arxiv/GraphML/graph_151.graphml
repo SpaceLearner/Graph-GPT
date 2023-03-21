@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P195">
+      <data key="title">non linear estimation is easy</data>
+    </node>
+    <node id="P21557">
+      <data key="title">an overview and comparative analysis of recurrent neural networks for short term load forecasting</data>
+    </node>
+    <node id="P62474">
+      <data key="title">numerical weather prediction nwp and hybrid arma ann model to predict global radiation</data>
+    </node>
+    <node id="P119050">
+      <data key="title">modeling and recognition of smart grid faults by a combined approach of dissimilarity learning and one class classification</data>
+    </node>
+    <node id="P8190">
+      <data key="title">dynamic compensation and homeostasis a feedback control perspective</data>
+    </node>
+    <node id="P42493">
+      <data key="title">data for development the d4d challenge on mobile phone data</data>
+    </node>
+    <node id="P86201">
+      <data key="title">identifying and attacking the saddle point problem in high dimensional non convex optimization</data>
+    </node>
+    <node id="P19955">
+      <data key="title">lstm a search space odyssey</data>
+    </node>
+    <node id="P86958">
+      <data key="title">easily implementable time series forecasting techniques for resource provisioning in cloud computing</data>
+    </node>
+    <node id="P7805">
+      <data key="title">sequence transduction with recurrent neural networks</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P135057">
+      <data key="title">generating sequences with recurrent neural networks</data>
+    </node>
+    <node id="P78315">
+      <data key="title">hybrid methodology for hourly global radiation forecasting in mediterranean area</data>
+    </node>
+    <node id="P4012">
+      <data key="title">dropout improves recurrent neural networks for handwriting recognition</data>
+    </node>
+    <node id="P1446">
+      <data key="title">time series modeling and large scale global solar radiation forecasting from geostationary satellites data</data>
+    </node>
+    <node id="P166908">
+      <data key="title">ask me anything dynamic memory networks for natural language processing</data>
+    </node>
+    <node id="P120449">
+      <data key="title">draw a recurrent neural network for image generation</data>
+    </node>
+    <node id="P39505">
+      <data key="title">bullwhip effect attenuation in supply chain management via control theoretic tools and short term forecasts a preliminary study with an application to perishable inventories</data>
+    </node>
+    <node id="P6841">
+      <data key="title">energy saving for building heating via a simple and efficient model free control design first steps with computer simulations</data>
+    </node>
+    <node id="P130673">
+      <data key="title">analyse non standard du bruit</data>
+    </node>
+    <edge source="P195" target="P130673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P195" target="P6841">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P195" target="P86958">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P195" target="P39505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P119050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P42493">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P19955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P7805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P120449">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P4012">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P166908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P86201">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21557" target="P39505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62474" target="P1446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8190" target="P6841">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8190" target="P130673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19955" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19955" target="P4012">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86958" target="P1446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86958" target="P130673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7805" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P120449">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P166908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135057" target="P120449">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78315" target="P1446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39505" target="P6841">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

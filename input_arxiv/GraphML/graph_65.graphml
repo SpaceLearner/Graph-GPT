@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P30620">
+      <data key="title">fault localization in multi threaded c programs using bounded model checking extended version</data>
+    </node>
+    <node id="P37030">
+      <data key="title">verifying software vulnerabilities in iot cryptographic protocols</data>
+    </node>
+    <node id="P42536">
+      <data key="title">model checking c programs with loops via k induction and invariants</data>
+    </node>
+    <node id="P127085">
+      <data key="title">pkind a parallel k induction based model checker</data>
+    </node>
+    <node id="P131318">
+      <data key="title">bounded model checking of state space digital systems the impact of finite word length effects on the implementation of fixed point digital controllers based on state space modeling</data>
+    </node>
+    <node id="P93005">
+      <data key="title">counterexample guided inductive optimization</data>
+    </node>
+    <node id="P114775">
+      <data key="title">continuous verification of large embedded software using smt based bounded model checking</data>
+    </node>
+    <node id="P10759">
+      <data key="title">counterexample guided k induction verification for fast bug detection</data>
+    </node>
+    <node id="P98168">
+      <data key="title">sreach a bounded model checker for stochastic hybrid systems</data>
+    </node>
+    <node id="P7255">
+      <data key="title">software verification and graph similarity for automated evaluation of students assignments</data>
+    </node>
+    <node id="P121968">
+      <data key="title">automated verification and synthesis of embedded systems using machine learning</data>
+    </node>
+    <node id="P109349">
+      <data key="title">cause clue clauses error localization using maximum satisfiability</data>
+    </node>
+    <node id="P109466">
+      <data key="title">combining k induction with continuously refined invariants</data>
+    </node>
+    <node id="P62780">
+      <data key="title">handling state space explosion in verification of component based systems a review</data>
+    </node>
+    <node id="P1494">
+      <data key="title">statistical model checking for stochastic hybrid systems</data>
+    </node>
+    <node id="P138424">
+      <data key="title">smt based bounded model checking for embedded ansi c software</data>
+    </node>
+    <node id="P61053">
+      <data key="title">delta complete analysis for bounded reachability of hybrid systems</data>
+    </node>
+    <node id="P82">
+      <data key="title">smt based bounded model checking of fixed point digital controllers</data>
+    </node>
+    <node id="P19373">
+      <data key="title">how to compute worst case execution time by optimization modulo theory and a clever encoding of program semantics</data>
+    </node>
+    <node id="P52936">
+      <data key="title">incremental bounded model checking of artificial neural networks in cuda</data>
+    </node>
+    <edge source="P30620" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30620" target="P109349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37030" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42536" target="P127085">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42536" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127085" target="P109466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131318" target="P82">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131318" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93005" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114775" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10759" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98168" target="P61053">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98168" target="P1494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98168" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7255" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121968" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109466" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62780" target="P138424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138424" target="P82">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138424" target="P19373">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138424" target="P52936">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

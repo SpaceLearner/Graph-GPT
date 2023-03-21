@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P107735">
+      <data key="title">style obfuscation by invariance</data>
+    </node>
+    <node id="P64706">
+      <data key="title">distilling word embeddings an encoding approach</data>
+    </node>
+    <node id="P105511">
+      <data key="title">semi supervised sequence learning</data>
+    </node>
+    <node id="P72426">
+      <data key="title">dependency sensitive convolutional neural networks for modeling sentences and documents</data>
+    </node>
+    <node id="P154342">
+      <data key="title">sequence to sequence learning with neural networks</data>
+    </node>
+    <node id="P139095">
+      <data key="title">an empirical study on sentiment classification of chinese review using word embedding</data>
+    </node>
+    <node id="P76997">
+      <data key="title">effective use of word order for text categorization with convolutional neural networks</data>
+    </node>
+    <node id="P110641">
+      <data key="title">convolutional neural networks for sentence classification</data>
+    </node>
+    <node id="P97441">
+      <data key="title">marginalized denoising autoencoders for domain adaptation</data>
+    </node>
+    <node id="P386">
+      <data key="title">cross lingual distillation for text classification</data>
+    </node>
+    <node id="P97372">
+      <data key="title">multi source cross lingual model transfer learning what to share</data>
+    </node>
+    <node id="P4215">
+      <data key="title">sequence level knowledge distillation</data>
+    </node>
+    <node id="P18630">
+      <data key="title">fitnets hints for thin deep nets</data>
+    </node>
+    <node id="P94874">
+      <data key="title">efficient estimation of word representations in vector space</data>
+    </node>
+    <node id="P6146">
+      <data key="title">natural language processing almost from scratch</data>
+    </node>
+    <node id="P157211">
+      <data key="title">do deep nets really need to be deep</data>
+    </node>
+    <node id="P50953">
+      <data key="title">automatic generation of language independent features for cross lingual classification</data>
+    </node>
+    <node id="P133316">
+      <data key="title">cross modal distillation for supervision transfer</data>
+    </node>
+    <node id="P139900">
+      <data key="title">cross language text classification via subspace co regularized multi view learning</data>
+    </node>
+    <node id="P104763">
+      <data key="title">adversarial deep averaging networks for cross lingual sentiment classification</data>
+    </node>
+    <edge source="P107735" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107735" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64706" target="P4215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64706" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64706" target="P18630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64706" target="P110641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64706" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105511" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105511" target="P72426">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105511" target="P76997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105511" target="P110641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105511" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72426" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72426" target="P110641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P4215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P94874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139095" target="P76997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139095" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139095" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76997" target="P110641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76997" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76997" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110641" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110641" target="P97372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110641" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97441" target="P104763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97441" target="P386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P18630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P104763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P4215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P94874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P133316">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P139900">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P50953">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P386" target="P97372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97372" target="P104763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4215" target="P18630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4215" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18630" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18630" target="P133316">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

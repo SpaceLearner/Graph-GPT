@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P20012">
+      <data key="title">scikit image image processing in python</data>
+    </node>
+    <node id="P63702">
+      <data key="title">montblanc gpu accelerated radio interferometer measurement equations in support of bayesian inference for radio observations</data>
+    </node>
+    <node id="P90258">
+      <data key="title">julia a fast dynamic language for technical computing</data>
+    </node>
+    <node id="P60300">
+      <data key="title">fast parallel multidimensional fft using advanced mpi</data>
+    </node>
+    <node id="P684">
+      <data key="title">the isti rapid response on exploring cloud computing 2018</data>
+    </node>
+    <node id="P111289">
+      <data key="title">mahotas open source software for scriptable computer vision</data>
+    </node>
+    <node id="P37261">
+      <data key="title">abstract interpretation with higher dimensional ellipsoids and conic extrapolation</data>
+    </node>
+    <node id="P247">
+      <data key="title">high performance python for direct numerical simulations of turbulent flows</data>
+    </node>
+    <node id="P156065">
+      <data key="title">the numpy array a structure for efficient numerical computation</data>
+    </node>
+    <node id="P90084">
+      <data key="title">accfft a library for distributed memory fft on cpu and gpu architectures</data>
+    </node>
+    <node id="P47905">
+      <data key="title">p3dfft a framework for parallel computations of fourier transforms in three dimensions</data>
+    </node>
+    <node id="P60035">
+      <data key="title">design of a high performance gemm like tensor tensor multiplication</data>
+    </node>
+    <node id="P71763">
+      <data key="title">array operators using multiple dispatch a design methodology for array implementations in dynamic languages</data>
+    </node>
+    <node id="P149934">
+      <data key="title">ttc a tensor transposition compiler for multiple architectures</data>
+    </node>
+    <node id="P83561">
+      <data key="title">a python extension for the massively parallel multiphysics simulation framework walberla</data>
+    </node>
+    <node id="P73574">
+      <data key="title">fluidsim modular object oriented python package for high performance cfd simulations</data>
+    </node>
+    <node id="P44082">
+      <data key="title">ttc a high performance compiler for tensor transpositions</data>
+    </node>
+    <node id="P96718">
+      <data key="title">loo py transformation based code generation for gpus and cpus</data>
+    </node>
+    <node id="P78127">
+      <data key="title">large scale discrete fourier transform on tpus</data>
+    </node>
+    <node id="P105880">
+      <data key="title">api design for machine learning software experiences from the scikit learn project</data>
+    </node>
+    <edge source="P20012" target="P111289">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20012" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63702" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90258" target="P71763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90258" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60300" target="P47905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60300" target="P247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P684" target="P247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111289" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37261" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P247" target="P47905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P247" target="P156065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P247" target="P73574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156065" target="P105880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156065" target="P96718">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156065" target="P71763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156065" target="P83561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90084" target="P47905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47905" target="P44082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47905" target="P149934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47905" target="P60035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47905" target="P78127">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60035" target="P44082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60035" target="P149934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149934" target="P44082">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

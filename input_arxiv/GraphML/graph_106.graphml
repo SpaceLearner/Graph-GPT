@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P88426">
+      <data key="title">alternative metrics in scientometrics a meta analysis of research into three altmetrics</data>
+    </node>
+    <node id="P152744">
+      <data key="title">social media metrics for new research evaluation</data>
+    </node>
+    <node id="P102784">
+      <data key="title">is collaboration among scientists related to the citation impact of papers because their quality increases with collaboration an analysis based on data from f1000prime and normalized citation scores</data>
+    </node>
+    <node id="P103642">
+      <data key="title">normalization of zero inflated data an empirical analysis of a new indicator family and its use with altmetrics data</data>
+    </node>
+    <node id="P83545">
+      <data key="title">the role of twitter in the life cycle of a scientific publication</data>
+    </node>
+    <node id="P114174">
+      <data key="title">normalization of zero inflated data an empirical analysis of a new indicator family</data>
+    </node>
+    <node id="P4441">
+      <data key="title">do altmetrics correlate with the quality of papers a large scale empirical study based on f1000prime data</data>
+    </node>
+    <node id="P119139">
+      <data key="title">how well developed are altmetrics a cross disciplinary analysis of the presence of alternative metrics in scientific publications</data>
+    </node>
+    <node id="P73929">
+      <data key="title">how to calculate the practical significance of citation impact differences an empirical example from evaluative institutional bibliometrics using adjusted predictions and marginal effects</data>
+    </node>
+    <node id="P135798">
+      <data key="title">scholarly use of social media and altmetrics a review of the literature</data>
+    </node>
+    <node id="P107188">
+      <data key="title">usefulness of altmetrics for measuring the broader impact of research a case study using data from plos altmetrics and f1000prime paper tags</data>
+    </node>
+    <node id="P54659">
+      <data key="title">relative citation ratio rcr an empirical attempt to study a new field normalized bibliometric indicator</data>
+    </node>
+    <node id="P54536">
+      <data key="title">the substantive and practical significance of citation impact differences between institutions guidelines for the analysis of percentiles using effect sizes and confidence intervals</data>
+    </node>
+    <node id="P139818">
+      <data key="title">real time classification of twitter trends</data>
+    </node>
+    <node id="P126218">
+      <data key="title">scholarly twitter metrics</data>
+    </node>
+    <node id="P130">
+      <data key="title">validity of altmetrics data for measuring societal impact a study using data from altmetric and f1000prime</data>
+    </node>
+    <node id="P8579">
+      <data key="title">measuring book impact based on the multi granularity online review mining</data>
+    </node>
+    <node id="P76634">
+      <data key="title">which percentile based approach should be preferred for calculating normalized citation impact values an empirical comparison of five approaches including a newly developed citation rank approach p100</data>
+    </node>
+    <node id="P132681">
+      <data key="title">measuring field normalized impact of papers on specific societal groups an altmetrics study based on mendeley data</data>
+    </node>
+    <node id="P152314">
+      <data key="title">is there currently a scientific revolution in scientometrics</data>
+    </node>
+    <edge source="P88426" target="P132681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P103642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P4441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P119139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P83545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88426" target="P139818">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152744" target="P119139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152744" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152744" target="P135798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102784" target="P54536">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102784" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102784" target="P73929">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103642" target="P119139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103642" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103642" target="P4441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83545" target="P107188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83545" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83545" target="P132681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83545" target="P126218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114174" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4441" target="P119139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4441" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4441" target="P135798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4441" target="P73929">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119139" target="P107188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119139" target="P152314">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119139" target="P132681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119139" target="P135798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73929" target="P107188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73929" target="P54536">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73929" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73929" target="P76634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135798" target="P126218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135798" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107188" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107188" target="P152314">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54659" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54536" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139818" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126218" target="P130">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130" target="P152314">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130" target="P76634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130" target="P132681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130" target="P8579">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

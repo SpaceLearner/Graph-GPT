@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P40599">
+      <data key="title">abusing the tutte matrix an algebraic instance compression for the k set cycle problem</data>
+    </node>
+    <node id="P62765">
+      <data key="title">the snow team problem clearing directed subgraphs by mobile agents</data>
+    </node>
+    <node id="P132854">
+      <data key="title">the set cover conjecture and subgraph isomorphism with a tree pattern</data>
+    </node>
+    <node id="P47828">
+      <data key="title">approximating multilinear monomial coefficients and maximum multilinear monomials in multivariate polynomials</data>
+    </node>
+    <node id="P4438">
+      <data key="title">tight lower bounds for list edge coloring</data>
+    </node>
+    <node id="P20085">
+      <data key="title">randomised enumeration of small witnesses using a decision oracle</data>
+    </node>
+    <node id="P23329">
+      <data key="title">families with infants speeding up algorithms for np hard problems using fft</data>
+    </node>
+    <node id="P119905">
+      <data key="title">monomials in arithmetic circuits complete problems in the counting hierarchy</data>
+    </node>
+    <node id="P61168">
+      <data key="title">narrow sieves for parameterized paths and packings</data>
+    </node>
+    <node id="P136930">
+      <data key="title">going far from degeneracy</data>
+    </node>
+    <node id="P16744">
+      <data key="title">parameterized approximation algorithms for packing problems</data>
+    </node>
+    <node id="P29319">
+      <data key="title">on space efficiency of algorithms working on structural decompositions of graphs</data>
+    </node>
+    <node id="P124022">
+      <data key="title">determinant sums for undirected hamiltonicity</data>
+    </node>
+    <node id="P123847">
+      <data key="title">reducing randomness via irrational numbers</data>
+    </node>
+    <node id="P143159">
+      <data key="title">polynomial fixed parameter algorithms a case study for longest path on interval graphs</data>
+    </node>
+    <node id="P181">
+      <data key="title">towards randomized testing of q monomials in multivariate polynomials</data>
+    </node>
+    <node id="P67179">
+      <data key="title">kernel bounds for path and cycle problems</data>
+    </node>
+    <node id="P114589">
+      <data key="title">mixing color coding related techniques</data>
+    </node>
+    <node id="P82083">
+      <data key="title">deterministic parameterized algorithms for matching and packing problems</data>
+    </node>
+    <node id="P52151">
+      <data key="title">finding hitting and packing cycles in subexponential time on unit disk graphs</data>
+    </node>
+    <edge source="P40599" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40599" target="P124022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62765" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132854" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132854" target="P124022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47828" target="P123847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47828" target="P181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47828" target="P119905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4438" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20085" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23329" target="P61168">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23329" target="P124022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P82083">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P114589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P124022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P29319">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P143159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P52151">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P136930">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P67179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61168" target="P16744">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16744" target="P114589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16744" target="P124022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124022" target="P181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124022" target="P114589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124022" target="P67179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114589" target="P52151">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114589" target="P82083">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

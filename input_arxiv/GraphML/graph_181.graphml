@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P129654">
+      <data key="title">proportional fair resource allocation on an energy harvesting downlink part i structure</data>
+    </node>
+    <node id="P138920">
+      <data key="title">a novel association policy for web browsing in a multirate wlan</data>
+    </node>
+    <node id="P70331">
+      <data key="title">building robust crowdsourcing systems with reputation aware decision support techniques</data>
+    </node>
+    <node id="P112587">
+      <data key="title">on coding for cooperative data exchange</data>
+    </node>
+    <node id="P137566">
+      <data key="title">let cognitive radios imitate imitation based spectrum access for cognitive radio networks</data>
+    </node>
+    <node id="P66060">
+      <data key="title">an axiomatic theory of fairness in network resource allocation</data>
+    </node>
+    <node id="P166728">
+      <data key="title">agile sd a linux based tcp congestion control algorithm for supporting high speed and short distance networks</data>
+    </node>
+    <node id="P50721">
+      <data key="title">fairness in communication for omniscience</data>
+    </node>
+    <node id="P25158">
+      <data key="title">news from the internet congestion control world</data>
+    </node>
+    <node id="P109824">
+      <data key="title">low complexity downlink user selection for massive mimo systems</data>
+    </node>
+    <node id="P27824">
+      <data key="title">a quantitative measure of fairness and discrimination for resource allocation in shared computer systems</data>
+    </node>
+    <node id="P153549">
+      <data key="title">decentralised learning macs for collision free access in wlans</data>
+    </node>
+    <node id="P82093">
+      <data key="title">on the throughput allocation for proportional fairness in multirate ieee 802 11 dcf under general load conditions</data>
+    </node>
+    <node id="P43881">
+      <data key="title">unraveling bittorrent s file unavailability measurements analysis and solution exploration</data>
+    </node>
+    <node id="P140260">
+      <data key="title">improved utility based congestion control for delay constrained communication extended version</data>
+    </node>
+    <node id="P228">
+      <data key="title">a game theoretic perspective on communication for omniscience</data>
+    </node>
+    <node id="P113874">
+      <data key="title">robus fair cache allocation for multi tenant data parallel workloads</data>
+    </node>
+    <node id="P88432">
+      <data key="title">efficient algorithms for the data exchange problem</data>
+    </node>
+    <node id="P11320">
+      <data key="title">coded cooperative data exchange in multihop networks</data>
+    </node>
+    <node id="P129631">
+      <data key="title">exploring network economics</data>
+    </node>
+    <edge source="P129654" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138920" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70331" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112587" target="P228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112587" target="P50721">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112587" target="P11320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112587" target="P88432">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137566" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66060" target="P228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66060" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166728" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50721" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50721" target="P228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50721" target="P11320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50721" target="P88432">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25158" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109824" target="P27824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P82093">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P129631">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P140260">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P153549">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P43881">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P113874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27824" target="P228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P228" target="P11320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P228" target="P88432">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88432" target="P11320">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

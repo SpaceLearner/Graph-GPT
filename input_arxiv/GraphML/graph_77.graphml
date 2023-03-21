@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P2728">
+      <data key="title">robust recovery of stream of pulses using convex optimization</data>
+    </node>
+    <node id="P87799">
+      <data key="title">an atomistic fingerprint algorithm for learning ab initio molecular force fields</data>
+    </node>
+    <node id="P82259">
+      <data key="title">a novel sampling theorem on the sphere</data>
+    </node>
+    <node id="P70456">
+      <data key="title">super resolution on the sphere using convex optimization</data>
+    </node>
+    <node id="P42569">
+      <data key="title">a novel sampling theorem on the rotation group</data>
+    </node>
+    <node id="P106027">
+      <data key="title">localisation of directional scale discretised wavelets on the sphere</data>
+    </node>
+    <node id="P137004">
+      <data key="title">sensing matrix design and sparse recovery on the sphere and the rotation group</data>
+    </node>
+    <node id="P54651">
+      <data key="title">super resolution of positive sources the discrete setup</data>
+    </node>
+    <node id="P31864">
+      <data key="title">recovery of sparse positive signals on the sphere from low resolution measurements</data>
+    </node>
+    <node id="P77045">
+      <data key="title">exact wavelets on the ball</data>
+    </node>
+    <node id="P139051">
+      <data key="title">towards a mathematical theory of super resolution</data>
+    </node>
+    <node id="P165926">
+      <data key="title">h cnns convolutional neural networks for riemannian homogeneous spaces</data>
+    </node>
+    <node id="P139064">
+      <data key="title">the recoverability limit for superresolution via sparsity</data>
+    </node>
+    <node id="P84754">
+      <data key="title">fourier laguerre transform convolution and wavelets on the ball</data>
+    </node>
+    <node id="P86872">
+      <data key="title">random sampling of bandlimited signals on graphs</data>
+    </node>
+    <node id="P21140">
+      <data key="title">variable viewpoint representations for 3d object recognition</data>
+    </node>
+    <node id="P120660">
+      <data key="title">wavelet based segmentation on the sphere</data>
+    </node>
+    <node id="P145863">
+      <data key="title">stable support recovery of stream of pulses with application to ultrasound imaging</data>
+    </node>
+    <node id="P95">
+      <data key="title">flaglets exact wavelets on the ball</data>
+    </node>
+    <node id="P45422">
+      <data key="title">sparse image reconstruction on the sphere analysis and synthesis</data>
+    </node>
+    <edge source="P2728" target="P31864">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2728" target="P70456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2728" target="P139051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2728" target="P145863">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87799" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P84754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P95">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P31864">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P42569">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P70456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P106027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P120660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P137004">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P86872">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82259" target="P21140">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70456" target="P31864">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70456" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70456" target="P139051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70456" target="P145863">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42569" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42569" target="P106027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42569" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42569" target="P120660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106027" target="P84754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106027" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106027" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106027" target="P120660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54651" target="P31864">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54651" target="P139051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54651" target="P139064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31864" target="P77045">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31864" target="P139051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31864" target="P139064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31864" target="P145863">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77045" target="P84754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77045" target="P95">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77045" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139051" target="P139064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139051" target="P145863">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165926" target="P84754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84754" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120660" target="P45422">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P99611">
+      <data key="title">on problems equivalent to min convolution</data>
+    </node>
+    <node id="P102437">
+      <data key="title">a new lower bound for classic online bin packing</data>
+    </node>
+    <node id="P28525">
+      <data key="title">linear time algorithms for multiple cluster scheduling and multiple strip packing</data>
+    </node>
+    <node id="P34921">
+      <data key="title">a reallocation algorithm for online split packing of circles</data>
+    </node>
+    <node id="P88">
+      <data key="title">fully dynamic bin packing revisited</data>
+    </node>
+    <node id="P92978">
+      <data key="title">symmetry exploitation for online machine covering with bounded migration</data>
+    </node>
+    <node id="P16318">
+      <data key="title">fully dynamic bin packing with limited repacking</data>
+    </node>
+    <node id="P24532">
+      <data key="title">a faster fptas for knapsack problem with cardinality constraint</data>
+    </node>
+    <node id="P11098">
+      <data key="title">online bin covering with advice</data>
+    </node>
+    <node id="P4648">
+      <data key="title">an improved fptas for 0 1 knapsack</data>
+    </node>
+    <node id="P149494">
+      <data key="title">parallel online algorithms for the bin packing problem</data>
+    </node>
+    <node id="P19325">
+      <data key="title">streaming algorithms for bin packing and vector scheduling</data>
+    </node>
+    <node id="P20067">
+      <data key="title">polynomiality for bin packing with a constant number of item types</data>
+    </node>
+    <node id="P76613">
+      <data key="title">a robust afptas for online bin packing with polynomial migration</data>
+    </node>
+    <node id="P78582">
+      <data key="title">lower bounds for several online variants of bin packing</data>
+    </node>
+    <node id="P6827">
+      <data key="title">a new and improved algorithm for online bin packing</data>
+    </node>
+    <node id="P27865">
+      <data key="title">beating the harmonic lower bound for online bin packing</data>
+    </node>
+    <node id="P63063">
+      <data key="title">an fptas for stochastic unbounded min knapsack problem</data>
+    </node>
+    <node id="P79500">
+      <data key="title">a faster fptas for the unbounded knapsack problem</data>
+    </node>
+    <node id="P42638">
+      <data key="title">approximating bin packing within o log opt log log opt bins</data>
+    </node>
+    <edge source="P99611" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99611" target="P4648">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102437" target="P78582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102437" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102437" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102437" target="P11098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102437" target="P149494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28525" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34921" target="P88">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P16318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P76613">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P92978">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92978" target="P76613">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P76613">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P19325">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24532" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11098" target="P42638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11098" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4648" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149494" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149494" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19325" target="P20067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19325" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20067" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6827" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27865" target="P42638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63063" target="P79500">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P107160">
+      <data key="title">limits on support recovery with probabilistic models an information spectrum approach</data>
+    </node>
+    <node id="P114487">
+      <data key="title">sparse graph codes for non adaptive quantitative group testing</data>
+    </node>
+    <node id="P7779">
+      <data key="title">discrete sampling and interpolation orthogonal interpolation for discrete bandlimited signals</data>
+    </node>
+    <node id="P137004">
+      <data key="title">sensing matrix design and sparse recovery on the sphere and the rotation group</data>
+    </node>
+    <node id="P87117">
+      <data key="title">sparse representation of a polytope and recovery of sparse signals and low rank matrices</data>
+    </node>
+    <node id="P86056">
+      <data key="title">restricted isometry random variables probability distributions ric prediction and phase transition analysis for gaussian encoders</data>
+    </node>
+    <node id="P19645">
+      <data key="title">information theoretically optimal compressed sensing via spatial coupling and approximate message passing</data>
+    </node>
+    <node id="P424">
+      <data key="title">a fast noniterative algorithm for compressive sensing using binary measurement matrices</data>
+    </node>
+    <node id="P155551">
+      <data key="title">compressed csi feedback with learned measurement matrix for mmwave massive mimo</data>
+    </node>
+    <node id="P92851">
+      <data key="title">compressed sensing matrices from fourier matrices</data>
+    </node>
+    <node id="P91910">
+      <data key="title">signal recovery under cumulative coherence</data>
+    </node>
+    <node id="P158293">
+      <data key="title">sharp rip bound for sparse signal and low rank matrix recovery</data>
+    </node>
+    <node id="P15898">
+      <data key="title">the performance of orthogonal multi matching pursuit under rip</data>
+    </node>
+    <node id="P113389">
+      <data key="title">optimal phase transitions in compressed sensing</data>
+    </node>
+    <node id="P166892">
+      <data key="title">construction of a large class of deterministic sensing matrices that satisfy a statistical isometry property</data>
+    </node>
+    <node id="P147978">
+      <data key="title">combining geometry and combinatorics a unified approach to sparse signal recovery</data>
+    </node>
+    <node id="P8761">
+      <data key="title">living on the edge phase transitions in convex programs with random data</data>
+    </node>
+    <node id="P29156">
+      <data key="title">deterministic designs with deterministic guarantees toeplitz compressed sensing matrices sequence designs and system identification</data>
+    </node>
+    <node id="P109290">
+      <data key="title">hybrid mimo architectures for millimeter wave communications phase shifters or switches</data>
+    </node>
+    <node id="P109535">
+      <data key="title">a class of deterministic sensing matrices and their application in harmonic detection</data>
+    </node>
+    <edge source="P107160" target="P113389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107160" target="P8761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114487" target="P424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7779" target="P92851">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137004" target="P92851">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87117" target="P424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87117" target="P91910">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87117" target="P158293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86056" target="P113389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19645" target="P424">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19645" target="P113389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19645" target="P147978">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P424" target="P92851">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P424" target="P113389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P424" target="P147978">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P424" target="P8761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P424" target="P155551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P15898">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P29156">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P166892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P158293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P91910">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P109290">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92851" target="P109535">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91910" target="P158293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166892" target="P147978">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

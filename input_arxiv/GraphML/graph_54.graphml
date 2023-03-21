@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P91384">
+      <data key="title">knowledge based expressive technologies within cloud computing environments</data>
+    </node>
+    <node id="P161642">
+      <data key="title">multi agent distributed optimization via inexact consensus admm</data>
+    </node>
+    <node id="P167740">
+      <data key="title">modeling and simulation of scalable cloud computing environments and the cloudsim toolkit challenges and opportunities</data>
+    </node>
+    <node id="P119071">
+      <data key="title">handling confidential data on the untrusted cloud an agent based approach</data>
+    </node>
+    <node id="P125798">
+      <data key="title">technologies for web and cloud service interaction a survey</data>
+    </node>
+    <node id="P18703">
+      <data key="title">scheduling in grid computing environment</data>
+    </node>
+    <node id="P43886">
+      <data key="title">the community authorization service status and future</data>
+    </node>
+    <node id="P121650">
+      <data key="title">community cloud computing</data>
+    </node>
+    <node id="P47861">
+      <data key="title">a comparative study of load balancing algorithms in cloud computing environment</data>
+    </node>
+    <node id="P41224">
+      <data key="title">delivering it as a utility a systematic review</data>
+    </node>
+    <node id="P62351">
+      <data key="title">heuristic based optimal resource provisioning in application centric cloud</data>
+    </node>
+    <node id="P120360">
+      <data key="title">the swept rule for breaking the latency barrier in time advancing pdes</data>
+    </node>
+    <node id="P140323">
+      <data key="title">cloud template a big data solution</data>
+    </node>
+    <node id="P157542">
+      <data key="title">iprivacy a distributed approach to privacy on the cloud</data>
+    </node>
+    <node id="P69">
+      <data key="title">earthquake disaster based efficient resource utilization technique in iaas cloud</data>
+    </node>
+    <node id="P140446">
+      <data key="title">cloud computing and grid computing 360 degree compared</data>
+    </node>
+    <node id="P16015">
+      <data key="title">providing traceability for neuroimaging analyses</data>
+    </node>
+    <node id="P92668">
+      <data key="title">research agenda in cloud technologies</data>
+    </node>
+    <node id="P108650">
+      <data key="title">scientific workflow repeatability through cloud aware provenance</data>
+    </node>
+    <node id="P153685">
+      <data key="title">a proximal dual consensus admm method for multi agent constrained optimization</data>
+    </node>
+    <edge source="P91384" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161642" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161642" target="P153685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167740" target="P92668">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167740" target="P47861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167740" target="P69">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119071" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119071" target="P157542">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125798" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18703" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43886" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121650" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47861" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41224" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62351" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120360" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140323" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157542" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69" target="P140446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140446" target="P92668">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140446" target="P16015">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140446" target="P153685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140446" target="P108650">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

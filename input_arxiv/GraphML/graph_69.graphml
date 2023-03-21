@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P86834">
+      <data key="title">robust network routing under cascading failures</data>
+    </node>
+    <node id="P16426">
+      <data key="title">deterministic and randomized actuator scheduling with guaranteed performance bounds</data>
+    </node>
+    <node id="P36246">
+      <data key="title">groupthink and the failure of information aggregation in large groups</data>
+    </node>
+    <node id="P54779">
+      <data key="title">the observability radius of networks</data>
+    </node>
+    <node id="P114843">
+      <data key="title">zero forcing number constrained matchings and strong structural controllability</data>
+    </node>
+    <node id="P135225">
+      <data key="title">characterizations of the connected forcing number of a graph</data>
+    </node>
+    <node id="P163753">
+      <data key="title">volatility of power grids under real time pricing</data>
+    </node>
+    <node id="P121833">
+      <data key="title">informational braess paradox the effect of information on traffic congestion</data>
+    </node>
+    <node id="P57419">
+      <data key="title">computational approaches for zero forcing and related problems</data>
+    </node>
+    <node id="P15094">
+      <data key="title">fault tolerant control for networked mobile robots</data>
+    </node>
+    <node id="P133200">
+      <data key="title">opinion dynamics in social networks a local interaction game with stubborn agents</data>
+    </node>
+    <node id="P52195">
+      <data key="title">optimal regulation of flow networks with transient constraints</data>
+    </node>
+    <node id="P88877">
+      <data key="title">matroids are immune to braess paradox</data>
+    </node>
+    <node id="P87">
+      <data key="title">formation of robust multi agent networks through self organizing random regular graphs</data>
+    </node>
+    <node id="P99519">
+      <data key="title">graph distances and controllability of networks</data>
+    </node>
+    <node id="P76117">
+      <data key="title">herdable systems over signed directed graphs</data>
+    </node>
+    <node id="P128438">
+      <data key="title">a tight lower bound on the controllability of networks with multiple leaders</data>
+    </node>
+    <node id="P109954">
+      <data key="title">zero forcing sets and controllability of dynamical systems defined on graphs</data>
+    </node>
+    <node id="P98241">
+      <data key="title">complexity and computation of connected zero forcing</data>
+    </node>
+    <node id="P66681">
+      <data key="title">resilience of locally routed network flows more capacity is not always better</data>
+    </node>
+    <edge source="P86834" target="P66681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16426" target="P99519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36246" target="P121833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54779" target="P109954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P135225">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P98241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P57419">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P52195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P128438">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114843" target="P109954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135225" target="P98241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135225" target="P57419">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163753" target="P66681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121833" target="P88877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121833" target="P66681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57419" target="P98241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15094" target="P99519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133200" target="P99519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52195" target="P109954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87" target="P128438">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87" target="P66681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99519" target="P128438">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99519" target="P76117">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128438" target="P109954">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

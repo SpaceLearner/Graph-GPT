@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P27716">
+      <data key="title">science through wikipedia a novel representation of open knowledge through co citation networks</data>
+    </node>
+    <node id="P117997">
+      <data key="title">the discretised lognormal and hooked power law distributions for complete citation data best options for modelling and regression</data>
+    </node>
+    <node id="P103639">
+      <data key="title">research assessment by percentile based double rank analysis</data>
+    </node>
+    <node id="P155760">
+      <data key="title">the effects of research level and article type on the differences between citation metrics and f1000 recommendations</data>
+    </node>
+    <node id="P13317">
+      <data key="title">the scaling relationship between citation based performance and coauthorship patterns in natural sciences</data>
+    </node>
+    <node id="P391">
+      <data key="title">the emergence and evolution of the research fronts in hiv aids research</data>
+    </node>
+    <node id="P139195">
+      <data key="title">citation count distributions for large monodisciplinary journals</data>
+    </node>
+    <node id="P53346">
+      <data key="title">the precision of the arithmetic mean geometric mean and percentiles for citation data an experimental simulation modelling approach</data>
+    </node>
+    <node id="P37192">
+      <data key="title">regression for citation data an evaluation of different methods</data>
+    </node>
+    <node id="P49777">
+      <data key="title">on the heterogeneous distributions in paper citations</data>
+    </node>
+    <node id="P37961">
+      <data key="title">tsallis q exponential describes the distribution of scientific citations a new characterization of the impact</data>
+    </node>
+    <node id="P72627">
+      <data key="title">are the discretised lognormal and hooked power law distributions plausible for citation data</data>
+    </node>
+    <node id="P14383">
+      <data key="title">analysis of reference and citation copying in evolving bibliographic networks</data>
+    </node>
+    <node id="P39755">
+      <data key="title">the stability of twitter metrics a study on unavailable twitter mentions of scientific publications</data>
+    </node>
+    <node id="P129901">
+      <data key="title">are there too many uncited articles zero inflated variants of the discretised lognormal and hooked power law distributions</data>
+    </node>
+    <node id="P157133">
+      <data key="title">power laws in citation distributions evidence from scopus</data>
+    </node>
+    <node id="P10361">
+      <data key="title">the relationship between the number of authors of a publication its citations and the impact factor of the publishing journal evidence from italy</data>
+    </node>
+    <node id="P34528">
+      <data key="title">hegemonic structure of basic clinical and patented knowledge on ebola research a us army reductionist initiative</data>
+    </node>
+    <node id="P21361">
+      <data key="title">a comparison between two main academic literature collections web of science and scopus databases</data>
+    </node>
+    <node id="P78296">
+      <data key="title">liposomes versus metallic nanostructures differences in the process of knowledge translation in cancer</data>
+    </node>
+    <edge source="P27716" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P37192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P53346">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P129901">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P139195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117997" target="P72627">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103639" target="P37192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103639" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155760" target="P78296">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13317" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P391" target="P34528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P391" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139195" target="P37192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139195" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139195" target="P72627">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139195" target="P49777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53346" target="P10361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53346" target="P37192">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53346" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53346" target="P129901">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53346" target="P72627">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37192" target="P72627">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49777" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37961" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37961" target="P72627">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72627" target="P129901">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72627" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14383" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39755" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129901" target="P157133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157133" target="P21361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34528" target="P78296">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

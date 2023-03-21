@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P394">
+      <data key="title">deepsf deep convolutional neural network for mapping protein sequences to folds</data>
+    </node>
+    <node id="P160949">
+      <data key="title">a convolutional neural network for modelling sentences</data>
+    </node>
+    <node id="P115267">
+      <data key="title">extraction of salient sentences from labelled documents</data>
+    </node>
+    <node id="P156254">
+      <data key="title">molding cnns for text non linear non consecutive convolutions</data>
+    </node>
+    <node id="P76997">
+      <data key="title">effective use of word order for text categorization with convolutional neural networks</data>
+    </node>
+    <node id="P160225">
+      <data key="title">discriminative neural sentence modeling by tree based convolution</data>
+    </node>
+    <node id="P109876">
+      <data key="title">recursive neural networks can learn logical semantics</data>
+    </node>
+    <node id="P14511">
+      <data key="title">joint learning of distributed representations for images and texts</data>
+    </node>
+    <node id="P153601">
+      <data key="title">a primer on neural network models for natural language processing</data>
+    </node>
+    <node id="P135083">
+      <data key="title">syntax aware multi sense word embeddings for deep compositional models of meaning</data>
+    </node>
+    <node id="P78259">
+      <data key="title">convolutional dictionary learning through tensor factorization</data>
+    </node>
+    <node id="P142998">
+      <data key="title">compositional distributional semantics with compact closed categories and frobenius algebras</data>
+    </node>
+    <node id="P111188">
+      <data key="title">deep sentence embedding using the long short term memory networks</data>
+    </node>
+    <node id="P19925">
+      <data key="title">deep learning for answer sentence selection</data>
+    </node>
+    <node id="P9082">
+      <data key="title">tbcnn a tree based convolutional neural network for programming language processing</data>
+    </node>
+    <node id="P75662">
+      <data key="title">learning to answer questions from image using convolutional neural network</data>
+    </node>
+    <node id="P117862">
+      <data key="title">learning from real users rating dialogue success with neural networks for reinforcement learning in spoken dialogue systems</data>
+    </node>
+    <node id="P13150">
+      <data key="title">distributed representations for compositional semantics</data>
+    </node>
+    <node id="P73037">
+      <data key="title">online representation learning in recurrent neural language models</data>
+    </node>
+    <node id="P33189">
+      <data key="title">applying deep learning to answer selection a study and an open task</data>
+    </node>
+    <edge source="P394" target="P160949">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P9082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P14511">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P19925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P75662">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P111188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P142998">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P78259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P160225">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P109876">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P73037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P76997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P156254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P153601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P115267">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P135083">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P117862">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160949" target="P33189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115267" target="P19925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76997" target="P153601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160225" target="P9082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19925" target="P33189">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

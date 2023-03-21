@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P50928">
+      <data key="title">performance heuristics for gr 1 synthesis and related algorithms</data>
+    </node>
+    <node id="P106145">
+      <data key="title">the 3rd reactive synthesis competition syntcomp 2016 benchmarks participants results</data>
+    </node>
+    <node id="P109181">
+      <data key="title">a high level ltl synthesis format tlsf v1 1</data>
+    </node>
+    <node id="P15597">
+      <data key="title">bosy an experimentation framework for bounded synthesis</data>
+    </node>
+    <node id="P135777">
+      <data key="title">interpolation based gr 1 assumptions refinement</data>
+    </node>
+    <node id="P39966">
+      <data key="title">algorithms for omega regular games with imperfect information</data>
+    </node>
+    <node id="P107396">
+      <data key="title">the first reactive synthesis competition syntcomp 2014</data>
+    </node>
+    <node id="P117205">
+      <data key="title">spectra a specification language for reactive systems</data>
+    </node>
+    <node id="P436">
+      <data key="title">validity guided synthesis of reactive systems from assume guarantee contracts</data>
+    </node>
+    <node id="P135106">
+      <data key="title">experimental aspects of synthesis</data>
+    </node>
+    <node id="P80496">
+      <data key="title">sat based methods for circuit synthesis</data>
+    </node>
+    <node id="P18396">
+      <data key="title">the reactive synthesis competition syntcomp 2016 and beyond</data>
+    </node>
+    <node id="P161824">
+      <data key="title">developing a practical reactive synthesis tool experience and lessons learned</data>
+    </node>
+    <node id="P165445">
+      <data key="title">regression free synthesis for concurrency</data>
+    </node>
+    <node id="P24323">
+      <data key="title">the 4th reactive synthesis competition syntcomp 2017 benchmarks participants results</data>
+    </node>
+    <node id="P63371">
+      <data key="title">strategy synthesis for multi dimensional quantitative objectives</data>
+    </node>
+    <node id="P44886">
+      <data key="title">towards realizability checking of contracts using theories</data>
+    </node>
+    <node id="P112693">
+      <data key="title">synthesizing a lego forklift controller in gr 1 a case study</data>
+    </node>
+    <node id="P164302">
+      <data key="title">the second reactive synthesis competition syntcomp 2015</data>
+    </node>
+    <node id="P152443">
+      <data key="title">extended aiger format for synthesis</data>
+    </node>
+    <edge source="P50928" target="P436">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P107396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P112693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P106145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P161824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P117205">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50928" target="P135777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P107396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P109181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P18396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106145" target="P15597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P436">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P135106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P107396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P18396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109181" target="P15597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15597" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39966" target="P161824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P135106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P80496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107396" target="P18396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117205" target="P112693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P436" target="P161824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P436" target="P44886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80496" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80496" target="P161824">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18396" target="P24323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18396" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18396" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161824" target="P165445">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161824" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161824" target="P63371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24323" target="P164302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24323" target="P152443">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P38482">
+      <data key="title">reweighted wake sleep</data>
+    </node>
+    <node id="P19883">
+      <data key="title">theano based large scale visual recognition with multiple gpus</data>
+    </node>
+    <node id="P34419">
+      <data key="title">neural nilm deep neural networks applied to energy disaggregation</data>
+    </node>
+    <node id="P109802">
+      <data key="title">feature representation in convolutional neural networks</data>
+    </node>
+    <node id="P5250">
+      <data key="title">nice non linear independent components estimation</data>
+    </node>
+    <node id="P482">
+      <data key="title">automatic analysis of eegs using big data and hybrid deep learning architectures</data>
+    </node>
+    <node id="P17920">
+      <data key="title">deep learning based electroencephalography analysis a systematic review</data>
+    </node>
+    <node id="P88765">
+      <data key="title">renet a recurrent neural network based alternative to convolutional networks</data>
+    </node>
+    <node id="P146984">
+      <data key="title">on the saddle point problem for non convex optimization</data>
+    </node>
+    <node id="P26504">
+      <data key="title">learning deep generative models with doubly stochastic mcmc</data>
+    </node>
+    <node id="P112507">
+      <data key="title">shapenet convolutional neural networks on non euclidean manifolds</data>
+    </node>
+    <node id="P164582">
+      <data key="title">know your mind adaptive brain signal classification with reinforced attentive convolutional neural networks</data>
+    </node>
+    <node id="P123442">
+      <data key="title">objective evaluation metrics for automatic classification of eeg events</data>
+    </node>
+    <node id="P18630">
+      <data key="title">fitnets hints for thin deep nets</data>
+    </node>
+    <node id="P164106">
+      <data key="title">theano new features and speed improvements</data>
+    </node>
+    <node id="P51834">
+      <data key="title">efficient exact gradient update for training deep networks with very large sparse targets</data>
+    </node>
+    <node id="P134986">
+      <data key="title">cloudcv large scale distributed computer vision as a cloud service</data>
+    </node>
+    <node id="P51838">
+      <data key="title">can deep learning help you find the perfect match</data>
+    </node>
+    <node id="P35756">
+      <data key="title">building end to end dialogue systems using generative hierarchical neural network models</data>
+    </node>
+    <node id="P113304">
+      <data key="title">the microsoft 2016 conversational speech recognition system</data>
+    </node>
+    <edge source="P38482" target="P26504">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38482" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19883" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34419" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109802" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5250" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P482" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P482" target="P113304">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P482" target="P123442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P482" target="P164582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P482" target="P17920">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17920" target="P164582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88765" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146984" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26504" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112507" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164582" target="P123442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18630" target="P164106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164106" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164106" target="P134986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164106" target="P51834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164106" target="P51838">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

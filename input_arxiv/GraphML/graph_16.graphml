@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P109942">
+      <data key="title">the finite state mac with cooperative encoders and delayed csi</data>
+    </node>
+    <node id="P144383">
+      <data key="title">compound multiple access channel with confidential messages</data>
+    </node>
+    <node id="P149356">
+      <data key="title">the gaussian mac with conferencing encoders</data>
+    </node>
+    <node id="P153673">
+      <data key="title">multiple access channel with states known noncausally at one encoder and only strictly causally at the other encoder</data>
+    </node>
+    <node id="P130596">
+      <data key="title">cooperative relay broadcast channels</data>
+    </node>
+    <node id="P155059">
+      <data key="title">duality of a source coding problem and the semi deterministic broadcast channel with rate limited cooperation</data>
+    </node>
+    <node id="P71257">
+      <data key="title">the two user gaussian interference channel a deterministic view</data>
+    </node>
+    <node id="P37257">
+      <data key="title">asymptotic capacity of large relay networks with conferencing links</data>
+    </node>
+    <node id="P29282">
+      <data key="title">compound multiple access channels with partial cooperation</data>
+    </node>
+    <node id="P23852">
+      <data key="title">semi deterministic broadcast channels with cooperation and a dual source coding problem</data>
+    </node>
+    <node id="P108641">
+      <data key="title">the arbitrarily varying multiple access channel with conferencing encoders</data>
+    </node>
+    <node id="P79928">
+      <data key="title">wiretap and gelfand pinsker channels analogy and its applications</data>
+    </node>
+    <node id="P40643">
+      <data key="title">rate regions for relay broadcast channels</data>
+    </node>
+    <node id="P156378">
+      <data key="title">strong secrecy for cooperative broadcast channels</data>
+    </node>
+    <node id="P80927">
+      <data key="title">broadcast channels with cooperating decoders</data>
+    </node>
+    <node id="P124486">
+      <data key="title">interference mitigation through limited receiver cooperation symmetric case</data>
+    </node>
+    <node id="P125360">
+      <data key="title">gaussian interference channel capacity to within one bit</data>
+    </node>
+    <node id="P141690">
+      <data key="title">successive refinement with decoder cooperation and its channel coding duals</data>
+    </node>
+    <node id="P158936">
+      <data key="title">on the symmetric gaussian interference channel with partial unidirectional cooperation</data>
+    </node>
+    <node id="P20">
+      <data key="title">on state dependent broadcast channels with cooperation</data>
+    </node>
+    <edge source="P109942" target="P158936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109942" target="P124486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109942" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109942" target="P149356">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144383" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P23852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P141690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P124486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P108641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149356" target="P155059">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153673" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P23852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P155059">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P156378">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P40643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130596" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P141690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P40643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P156378">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155059" target="P79928">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71257" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71257" target="P125360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37257" target="P29282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37257" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P23852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P158936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P141690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P124486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P40643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P125360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29282" target="P108641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23852" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23852" target="P40643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79928" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79928" target="P141690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40643" target="P156378">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40643" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156378" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156378" target="P80927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80927" target="P20">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80927" target="P124486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124486" target="P125360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125360" target="P158936">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

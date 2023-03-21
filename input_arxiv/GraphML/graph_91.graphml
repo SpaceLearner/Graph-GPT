@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P26864">
+      <data key="title">a combinatorial methodology for optimizing non binary graph based codes theoretical analysis and applications in data storage</data>
+    </node>
+    <node id="P919">
+      <data key="title">an introduction to deep learning for the physical layer</data>
+    </node>
+    <node id="P83744">
+      <data key="title">error characterization mitigation and recovery in flash memory based solid state drives</data>
+    </node>
+    <node id="P123875">
+      <data key="title">constructions of rank modulation codes</data>
+    </node>
+    <node id="P96721">
+      <data key="title">windowed decoding of protograph based ldpc convolutional codes over erasure channels</data>
+    </node>
+    <node id="P16914">
+      <data key="title">the cycle consistency matrix approach to absorbing sets in separable circulant based ldpc codes</data>
+    </node>
+    <node id="P31466">
+      <data key="title">enhanced precision through multiple reads for ldpc decoding in flash memories</data>
+    </node>
+    <node id="P145313">
+      <data key="title">on deep learning based channel decoding</data>
+    </node>
+    <node id="P113">
+      <data key="title">increasing flash memory lifetime by dynamic voltage allocation for constant mutual information</data>
+    </node>
+    <node id="P69303">
+      <data key="title">performance of multilevel flash memories with different binary labelings a multi user perspective</data>
+    </node>
+    <node id="P15966">
+      <data key="title">thresholds of absorbing sets in low density parity check codes</data>
+    </node>
+    <node id="P88511">
+      <data key="title">dynamic programming for sequential deterministic quantization of discrete memoryless channels</data>
+    </node>
+    <node id="P56853">
+      <data key="title">deep learning aided dynamic read thresholds design for multi level cell flash memories</data>
+    </node>
+    <node id="P65400">
+      <data key="title">high performance non binary spatially coupled codes for flash memories</data>
+    </node>
+    <node id="P100649">
+      <data key="title">a scaling law to predict the finite length performance of spatially coupled ldpc codes</data>
+    </node>
+    <node id="P38664">
+      <data key="title">additive entropies of partitions</data>
+    </node>
+    <node id="P33170">
+      <data key="title">spatially coupled ldpc codes constructed from protographs</data>
+    </node>
+    <node id="P9746">
+      <data key="title">dynamic programming for discrete memoryless channel quantization</data>
+    </node>
+    <node id="P73460">
+      <data key="title">errors in flash memory based solid state drives analysis mitigation and recovery</data>
+    </node>
+    <node id="P63847">
+      <data key="title">channel polarization a method for constructing capacity achieving codes for symmetric binary input memoryless channels</data>
+    </node>
+    <edge source="P26864" target="P65400">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P33170">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P15966">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P100649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P96721">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P16914">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26864" target="P31466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P919" target="P145313">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P919" target="P56853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83744" target="P31466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83744" target="P73460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83744" target="P56853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123875" target="P31466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96721" target="P33170">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96721" target="P100649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96721" target="P65400">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16914" target="P15966">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16914" target="P31466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31466" target="P113">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31466" target="P69303">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31466" target="P73460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31466" target="P56853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31466" target="P88511">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145313" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145313" target="P56853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113" target="P56853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69303" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69303" target="P38664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56853" target="P9746">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

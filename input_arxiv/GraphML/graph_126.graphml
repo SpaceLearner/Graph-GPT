@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P48422">
+      <data key="title">behavioural equivalences for timed systems</data>
+    </node>
+    <node id="P77025">
+      <data key="title">coalgebraic characterizations of context free languages</data>
+    </node>
+    <node id="P105733">
+      <data key="title">up to techniques for branching bisimilarity</data>
+    </node>
+    <node id="P29278">
+      <data key="title">sound and complete axiomatizations of coalgebraic language equivalence</data>
+    </node>
+    <node id="P166081">
+      <data key="title">differentiable causal computations via delayed trace</data>
+    </node>
+    <node id="P143416">
+      <data key="title">companions causality and codensity</data>
+    </node>
+    <node id="P13345">
+      <data key="title">endofunctors modelling higher order behaviours</data>
+    </node>
+    <node id="P157764">
+      <data key="title">well stratified linked data for well behaved data citation</data>
+    </node>
+    <node id="P152107">
+      <data key="title">quantitative aspects of programming languages and systems over the past 2 4 years and beyond</data>
+    </node>
+    <node id="P43928">
+      <data key="title">weak bisimulations for labelled transition systems weighted over semirings</data>
+    </node>
+    <node id="P161">
+      <data key="title">distributive laws and decidable properties of sos specifications</data>
+    </node>
+    <node id="P26642">
+      <data key="title">behavioural equivalences for coalgebras with unobservable moves</data>
+    </node>
+    <node id="P113922">
+      <data key="title">gsos for non deterministic processes with quantitative aspects</data>
+    </node>
+    <node id="P152336">
+      <data key="title">rational streams coalgebraically</data>
+    </node>
+    <node id="P127798">
+      <data key="title">structural operational semantics for non deterministic processes with quantitative aspects</data>
+    </node>
+    <node id="P74756">
+      <data key="title">distributive laws for monotone specifications</data>
+    </node>
+    <node id="P4699">
+      <data key="title">relating coalgebraic notions of bisimulation</data>
+    </node>
+    <node id="P20822">
+      <data key="title">stream differential equations specification formats and solution methods</data>
+    </node>
+    <node id="P43077">
+      <data key="title">multi weighted markov decision processes with reachability objectives</data>
+    </node>
+    <node id="P10509">
+      <data key="title">tree rules in probabilistic transition system specifications with negative and quantitative premises</data>
+    </node>
+    <edge source="P48422" target="P43928">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48422" target="P113922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48422" target="P26642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48422" target="P4699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48422" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77025" target="P143416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77025" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105733" target="P74756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29278" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166081" target="P152336">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166081" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143416" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13345" target="P43928">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13345" target="P113922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13345" target="P26642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13345" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157764" target="P113922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157764" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152107" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43928" target="P113922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43928" target="P26642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43928" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161" target="P74756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26642" target="P113922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26642" target="P4699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26642" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113922" target="P10509">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113922" target="P127798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152336" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127798" target="P10509">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127798" target="P4699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74756" target="P20822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20822" target="P43077">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

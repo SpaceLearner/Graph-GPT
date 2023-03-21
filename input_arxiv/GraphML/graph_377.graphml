@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P160405">
+      <data key="title">active requirement mining of bounded time temporal properties of cyber physical systems</data>
+    </node>
+    <node id="P158584">
+      <data key="title">near optimal nonmyopic value of information in graphical models</data>
+    </node>
+    <node id="P481">
+      <data key="title">text text extractor tool for handwritten document transcription and annotation</data>
+    </node>
+    <node id="P154987">
+      <data key="title">unsupervised ensemble of experts eoe framework for automatic binarization of document images</data>
+    </node>
+    <node id="P58602">
+      <data key="title">learning temporal logical properties discriminating ecg models of cardiac arrhytmias</data>
+    </node>
+    <node id="P131256">
+      <data key="title">efficient hyperparameter optimization and infinitely many armed bandits</data>
+    </node>
+    <node id="P103998">
+      <data key="title">a multiple expert binarization framework for multispectral images</data>
+    </node>
+    <node id="P70543">
+      <data key="title">on the equivalence between kernel quadrature rules and random feature expansions</data>
+    </node>
+    <node id="P152223">
+      <data key="title">parallel gaussian process optimization with upper confidence bound and pure exploration</data>
+    </node>
+    <node id="P111625">
+      <data key="title">radial line fourier descriptor for segmentation free handwritten word spotting</data>
+    </node>
+    <node id="P147162">
+      <data key="title">information theoretic regret bounds for gaussian process optimization in the bandit setting</data>
+    </node>
+    <node id="P16023">
+      <data key="title">a tutorial on bayesian optimization of expensive cost functions with application to active user modeling and hierarchical reinforcement learning</data>
+    </node>
+    <node id="P51791">
+      <data key="title">on the equivalence between quadrature rules and random features</data>
+    </node>
+    <node id="P61506">
+      <data key="title">automatic document image binarization using bayesian optimization</data>
+    </node>
+    <node id="P135815">
+      <data key="title">multi armed bandits in metric spaces</data>
+    </node>
+    <node id="P144288">
+      <data key="title">an information theoretic analysis of thompson sampling</data>
+    </node>
+    <node id="P94092">
+      <data key="title">monte carlo utility estimates for bayesian reinforcement learning</data>
+    </node>
+    <node id="P102041">
+      <data key="title">on the robustness of temporal properties for stochastic models</data>
+    </node>
+    <node id="P155747">
+      <data key="title">linearly parameterized bandits</data>
+    </node>
+    <node id="P96616">
+      <data key="title">learning document image binarization from data</data>
+    </node>
+    <edge source="P160405" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158584" target="P152223">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158584" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P481" target="P61506">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154987" target="P96616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154987" target="P61506">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154987" target="P103998">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58602" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131256" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70543" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152223" target="P147162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111625" target="P61506">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P51791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P144288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P94092">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P102041">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P135815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P155747">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147162" target="P61506">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135815" target="P155747">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

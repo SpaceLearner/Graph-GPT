@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P164935">
+      <data key="title">combinatorial auctions via posted prices</data>
+    </node>
+    <node id="P110609">
+      <data key="title">envy free pricing in large markets approximating revenue and welfare</data>
+    </node>
+    <node id="P59407">
+      <data key="title">clearing markets via bundles</data>
+    </node>
+    <node id="P3177">
+      <data key="title">combinatorial auctions with endowment effect</data>
+    </node>
+    <node id="P159778">
+      <data key="title">lower bound for envy free and truthful makespan approximation on related machines</data>
+    </node>
+    <node id="P15341">
+      <data key="title">an impossibility result for truthful combinatorial auctions with submodular valuations</data>
+    </node>
+    <node id="P144549">
+      <data key="title">competitive equilibria for non quasilinear bidders in combinatorial auctions</data>
+    </node>
+    <node id="P124725">
+      <data key="title">approximating the nash social welfare with budget additive valuations</data>
+    </node>
+    <node id="P24174">
+      <data key="title">posted pricing sans discrimination</data>
+    </node>
+    <node id="P111303">
+      <data key="title">liquid price of anarchy</data>
+    </node>
+    <node id="P12456">
+      <data key="title">envy freeness up to any item with high nash welfare the virtue of donating items</data>
+    </node>
+    <node id="P21959">
+      <data key="title">combinatorial walrasian equilibrium</data>
+    </node>
+    <node id="P81854">
+      <data key="title">envy regret and social welfare loss</data>
+    </node>
+    <node id="P11892">
+      <data key="title">on welfare approximation and stable pricing</data>
+    </node>
+    <node id="P116176">
+      <data key="title">a deterministic truthful ptas for scheduling related machines</data>
+    </node>
+    <node id="P81">
+      <data key="title">truth and envy in capacitated allocation games</data>
+    </node>
+    <node id="P48711">
+      <data key="title">understanding incentives mechanism design becomes algorithm design</data>
+    </node>
+    <node id="P113342">
+      <data key="title">bayesian incentive compatibility via fractional assignments</data>
+    </node>
+    <node id="P90861">
+      <data key="title">on the power of randomization in algorithmic mechanism design</data>
+    </node>
+    <node id="P71880">
+      <data key="title">the invisible hand of dynamic market pricing</data>
+    </node>
+    <edge source="P164935" target="P71880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164935" target="P24174">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164935" target="P110609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164935" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164935" target="P113342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110609" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59407" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59407" target="P15341">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59407" target="P159778">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3177" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159778" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159778" target="P81">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159778" target="P116176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159778" target="P81854">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15341" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15341" target="P90861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15341" target="P48711">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144549" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124725" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124725" target="P12456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24174" target="P11892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24174" target="P71880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24174" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24174" target="P113342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111303" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12456" target="P21959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21959" target="P11892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21959" target="P71880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21959" target="P90861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21959" target="P48711">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21959" target="P113342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48711" target="P113342">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

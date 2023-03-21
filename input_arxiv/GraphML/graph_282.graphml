@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P132238">
+      <data key="title">delay aware wireless network coding in adversarial traffic</data>
+    </node>
+    <node id="P109870">
+      <data key="title">intra and inter session network coding in wireless networks</data>
+    </node>
+    <node id="P127182">
+      <data key="title">systematic network coding with the aid of a full duplex relay</data>
+    </node>
+    <node id="P111652">
+      <data key="title">random linear network coding for 5g mobile video delivery</data>
+    </node>
+    <node id="P60273">
+      <data key="title">joint inter flow network coding and opportunistic routing in multi hop wireless mesh networks a comprehensive survey</data>
+    </node>
+    <node id="P99450">
+      <data key="title">low delay random linear coding and scheduling over multiple interfaces</data>
+    </node>
+    <node id="P74449">
+      <data key="title">cror coding aware opportunistic routing in multi channel cognitive radio networks</data>
+    </node>
+    <node id="P157633">
+      <data key="title">network coding meets multimedia a review</data>
+    </node>
+    <node id="P7787">
+      <data key="title">trade off between cost and goodput in wireless replacing transmitters with coding</data>
+    </node>
+    <node id="P349">
+      <data key="title">flexonc joint cooperative forwarding and network coding with precise encoding conditions</data>
+    </node>
+    <node id="P168169">
+      <data key="title">interfacing network coding with tcp an implementation</data>
+    </node>
+    <node id="P22680">
+      <data key="title">network coding meets tcp</data>
+    </node>
+    <node id="P151838">
+      <data key="title">network coding aware queue management for tcp flows over coded wireless networks</data>
+    </node>
+    <node id="P41309">
+      <data key="title">minimum cost multicast over coded packet networks</data>
+    </node>
+    <node id="P151293">
+      <data key="title">to send or not to send an optimal stopping approach to network coding in multi hop wireless networks</data>
+    </node>
+    <node id="P79617">
+      <data key="title">modeling network coded tcp throughput a simple model and its validation</data>
+    </node>
+    <node id="P21360">
+      <data key="title">arq for network coding</data>
+    </node>
+    <node id="P80459">
+      <data key="title">effects of mac approaches on non monotonic saturation with cope a simple case study</data>
+    </node>
+    <node id="P72572">
+      <data key="title">practical full duplex physical layer network coding</data>
+    </node>
+    <node id="P66024">
+      <data key="title">polynomial time algorithms for multirate anypath routing in wireless multihop networks</data>
+    </node>
+    <edge source="P132238" target="P151838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109870" target="P22680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109870" target="P41309">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109870" target="P349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127182" target="P60273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111652" target="P157633">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111652" target="P22680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60273" target="P157633">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60273" target="P74449">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60273" target="P349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60273" target="P72572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60273" target="P66024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99450" target="P22680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7787" target="P168169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7787" target="P79617">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7787" target="P22680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P349" target="P151838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168169" target="P22680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168169" target="P79617">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22680" target="P79617">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22680" target="P21360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22680" target="P151838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151838" target="P151293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151838" target="P41309">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151838" target="P80459">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

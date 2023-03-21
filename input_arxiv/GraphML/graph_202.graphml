@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P47174">
+      <data key="title">a general theory of motion planning complexity characterizing which gadgets make games hard</data>
+    </node>
+    <node id="P14877">
+      <data key="title">push pull block puzzles are hard</data>
+    </node>
+    <node id="P49088">
+      <data key="title">the computational complexity of angry birds</data>
+    </node>
+    <node id="P12653">
+      <data key="title">who witnesses the witness finding witnesses in the witness is hard and sometimes impossible</data>
+    </node>
+    <node id="P131435">
+      <data key="title">planar 3 sat with a clause variable cycle</data>
+    </node>
+    <node id="P50485">
+      <data key="title">on a generalization of eight blocks to madness</data>
+    </node>
+    <node id="P64236">
+      <data key="title">computational complexity of games and puzzles</data>
+    </node>
+    <node id="P89048">
+      <data key="title">np hard sets are not sparse unless p np an exposition of a simple proof of mahaney s theorem with applications</data>
+    </node>
+    <node id="P87360">
+      <data key="title">candy crush is np hard</data>
+    </node>
+    <node id="P39461">
+      <data key="title">tetris is hard even to approximate</data>
+    </node>
+    <node id="P14055">
+      <data key="title">classic nintendo games are computationally hard</data>
+    </node>
+    <node id="P57925">
+      <data key="title">bejeweled candy crush and other match three games are np hard</data>
+    </node>
+    <node id="P254">
+      <data key="title">large peg army maneuvers</data>
+    </node>
+    <node id="P161048">
+      <data key="title">gaming is a hard job but someone has to do it</data>
+    </node>
+    <node id="P106666">
+      <data key="title">computability and complexity of unconventional computing devices</data>
+    </node>
+    <node id="P146801">
+      <data key="title">np completeness of the game kingdomino</data>
+    </node>
+    <node id="P163501">
+      <data key="title">a note on computational complexity of dou shou qi</data>
+    </node>
+    <node id="P9332">
+      <data key="title">trainyard is np hard</data>
+    </node>
+    <node id="P80387">
+      <data key="title">hanabi is np hard even for cheaters who look at their cards</data>
+    </node>
+    <node id="P149724">
+      <data key="title">on the complexity of slide and merge games</data>
+    </node>
+    <edge source="P47174" target="P14877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47174" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47174" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14877" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14877" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P39461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12653" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131435" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50485" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50485" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50485" target="P39461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64236" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64236" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64236" target="P39461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89048" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87360" target="P39461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87360" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87360" target="P80387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87360" target="P146801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P80387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P9332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P163501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P106666">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P146801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P149724">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P9332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P80387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P146801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P254" target="P9332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161048" target="P9332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161048" target="P163501">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

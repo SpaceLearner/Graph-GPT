@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P263">
+      <data key="title">networked constrained cyber physical systems subject to malicious attacks a resilient set theoretic control approach</data>
+    </node>
+    <node id="P31890">
+      <data key="title">machine learning methods for attack detection in the smart grid</data>
+    </node>
+    <node id="P92870">
+      <data key="title">vulnerability analysis and consequences of false data injection attack on power system state estimation</data>
+    </node>
+    <node id="P92929">
+      <data key="title">modeling and performance evaluation of stealthy false data injection attacks on smart grid in the presence of corrupted measurements</data>
+    </node>
+    <node id="P133949">
+      <data key="title">data framing attack on state estimation</data>
+    </node>
+    <node id="P62441">
+      <data key="title">event triggered control over unreliable networks subject to jamming attacks</data>
+    </node>
+    <node id="P92785">
+      <data key="title">subspace methods for data attack on state estimation a data driven approach</data>
+    </node>
+    <node id="P135027">
+      <data key="title">one breaker is enough hidden topology attacks on power grids</data>
+    </node>
+    <node id="P153767">
+      <data key="title">information flow for security in control systems</data>
+    </node>
+    <node id="P75853">
+      <data key="title">detecting integrity attacks on control systems using a moving target approach</data>
+    </node>
+    <node id="P148630">
+      <data key="title">state of the art of cyber physical systems security an automatic control perspective</data>
+    </node>
+    <node id="P51874">
+      <data key="title">risk mitigation for dynamic state estimation against cyber attacks and unknown inputs</data>
+    </node>
+    <node id="P127152">
+      <data key="title">bad data injection attack and defense in electricity market using game theory study</data>
+    </node>
+    <node id="P51783">
+      <data key="title">dual rate control for security in cyber physical systems</data>
+    </node>
+    <node id="P167002">
+      <data key="title">data injection attacks on smart grids with multiple adversaries a game theoretic perspective</data>
+    </node>
+    <node id="P168295">
+      <data key="title">optimal data attacks on power grids leveraging detection measurement jamming</data>
+    </node>
+    <node id="P156565">
+      <data key="title">design time quantification of integrity in cyber physical systems</data>
+    </node>
+    <node id="P139184">
+      <data key="title">networked control under random and malicious packet losses</data>
+    </node>
+    <node id="P139000">
+      <data key="title">sparse attack construction and state estimation in the smart grid centralized and distributed models</data>
+    </node>
+    <node id="P58700">
+      <data key="title">coding schemes for securing cyber physical systems against stealthy data injection attacks</data>
+    </node>
+    <edge source="P263" target="P75853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31890" target="P139000">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31890" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92870" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92929" target="P139000">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92929" target="P92785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92929" target="P133949">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92929" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133949" target="P92785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133949" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62441" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62441" target="P139184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92785" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135027" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153767" target="P75853">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153767" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153767" target="P156565">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75853" target="P148630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75853" target="P156565">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P51783">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P51874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P139000">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P127152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P168295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P167002">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P58700">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148630" target="P139184">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127152" target="P167002">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

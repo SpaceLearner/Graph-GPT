@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P66648">
+      <data key="title">sharp sufficient conditions for stable recovery of block sparse signals by block orthogonal matching pursuit</data>
+    </node>
+    <node id="P160249">
+      <data key="title">improved rip analysis of orthogonal matching pursuit</data>
+    </node>
+    <node id="P129357">
+      <data key="title">bayesian pursuit algorithms</data>
+    </node>
+    <node id="P118042">
+      <data key="title">a sharp bound on ric in generalized orthogonal matching pursuit</data>
+    </node>
+    <node id="P32013">
+      <data key="title">greedy subspace pursuit for joint sparse recovery</data>
+    </node>
+    <node id="P108633">
+      <data key="title">compressed sensing performance bounds under poisson noise</data>
+    </node>
+    <node id="P77047">
+      <data key="title">sparse signal reconstruction via iterative support detection</data>
+    </node>
+    <node id="P149707">
+      <data key="title">statistical recovery of simultaneously sparse time varying signals from multiple measurement vectors</data>
+    </node>
+    <node id="P27879">
+      <data key="title">support recovery with orthogonal matching pursuit in the presence of noise</data>
+    </node>
+    <node id="P23990">
+      <data key="title">generalized orthogonal matching pursuit</data>
+    </node>
+    <node id="P69228">
+      <data key="title">iterative hard thresholding for compressed sensing</data>
+    </node>
+    <node id="P240">
+      <data key="title">map support detection for greedy sparse signal recovery algorithms in compressive sensing</data>
+    </node>
+    <node id="P11907">
+      <data key="title">compressed sensing for wireless communications useful tips and tricks</data>
+    </node>
+    <node id="P21537">
+      <data key="title">near optimal bound of orthogonal matching pursuit using restricted isometric constant</data>
+    </node>
+    <node id="P90927">
+      <data key="title">on finite alphabet compressive sensing</data>
+    </node>
+    <node id="P7700">
+      <data key="title">greedy sparse signal recovery with tree pruning</data>
+    </node>
+    <node id="P16921">
+      <data key="title">subspace pursuit for compressive sensing signal reconstruction</data>
+    </node>
+    <node id="P44773">
+      <data key="title">sparse recovery with orthogonal matching pursuit under rip</data>
+    </node>
+    <node id="P125882">
+      <data key="title">coded compressive sensing a compute and recover approach</data>
+    </node>
+    <node id="P146403">
+      <data key="title">bayesian approach with extended support estimation for sparse regression</data>
+    </node>
+    <edge source="P66648" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66648" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66648" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160249" target="P69228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160249" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129357" target="P240">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129357" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118042" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118042" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32013" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32013" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108633" target="P7700">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108633" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77047" target="P240">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149707" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149707" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149707" target="P11907">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27879" target="P23990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27879" target="P69228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27879" target="P21537">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27879" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27879" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P7700">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P21537">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P11907">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P240">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23990" target="P146403">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69228" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69228" target="P11907">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69228" target="P240">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P240" target="P90927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P240" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P240" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P240" target="P125882">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P240" target="P146403">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11907" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11907" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21537" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21537" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90927" target="P125882">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7700" target="P44773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7700" target="P16921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16921" target="P125882">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16921" target="P146403">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

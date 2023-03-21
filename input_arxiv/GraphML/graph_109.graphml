@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P33087">
+      <data key="title">finite nonassociative algebras obtained from twisted polynomials over chain rings</data>
+    </node>
+    <node id="P63975">
+      <data key="title">how to obtain lattices from f sigma delta codes via a generalization of construction a</data>
+    </node>
+    <node id="P163581">
+      <data key="title">on self dual mrd codes</data>
+    </node>
+    <node id="P106762">
+      <data key="title">matroidal structure of skew polynomial rings with application to network coding</data>
+    </node>
+    <node id="P134">
+      <data key="title">new classes of quadratic bent functions in polynomial forms</data>
+    </node>
+    <node id="P36300">
+      <data key="title">dual skew codes from annihilators transpose hamming ring extensions</data>
+    </node>
+    <node id="P83342">
+      <data key="title">the nonassociative algebras used to build fast decodable space time block codes</data>
+    </node>
+    <node id="P156270">
+      <data key="title">some properties of skew codes over finite fields</data>
+    </node>
+    <node id="P144348">
+      <data key="title">ideal codes over separable ring extensions</data>
+    </node>
+    <node id="P123654">
+      <data key="title">skew polynomial rings and skew cyclic codes</data>
+    </node>
+    <node id="P18794">
+      <data key="title">information bit error rate and false positives in an mds code</data>
+    </node>
+    <node id="P10479">
+      <data key="title">skew constacyclic codes over finite chain rings</data>
+    </node>
+    <node id="P46700">
+      <data key="title">skew generalized quasi cyclic codes over finite fields</data>
+    </node>
+    <node id="P56603">
+      <data key="title">a circulant approach to skew constacyclic codes</data>
+    </node>
+    <node id="P135877">
+      <data key="title">iterated space time code constructions from cyclic algebras</data>
+    </node>
+    <node id="P22635">
+      <data key="title">quotients of orders in cyclic algebras and space time codes</data>
+    </node>
+    <node id="P159146">
+      <data key="title">a sugiyama like decoding algorithm for convolutional codes</data>
+    </node>
+    <node id="P77756">
+      <data key="title">on the construction of skew quasi cyclic codes</data>
+    </node>
+    <node id="P91592">
+      <data key="title">a note on the duals of skew constacyclic codes</data>
+    </node>
+    <node id="P149779">
+      <data key="title">dual codes of product semi linear codes</data>
+    </node>
+    <edge source="P33087" target="P83342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33087" target="P10479">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33087" target="P22635">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33087" target="P63975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33087" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P83342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P22635">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P18794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P163581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63975" target="P135877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106762" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36300" target="P144348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36300" target="P10479">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36300" target="P159146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36300" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83342" target="P135877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156270" target="P149779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156270" target="P91592">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156270" target="P123654">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123654" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10479" target="P91592">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46700" target="P77756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46700" target="P56603">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56603" target="P91592">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56603" target="P77756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77756" target="P91592">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91592" target="P149779">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

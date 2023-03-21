@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P56121">
+      <data key="title">learning convolutional neural network to maximize pos top performance measure</data>
+    </node>
+    <node id="P99132">
+      <data key="title">sok a comprehensive reexamination of phishing research from the security perspective</data>
+    </node>
+    <node id="P146340">
+      <data key="title">enhancing robustness of deep neural networks against adversarial malware samples principles framework and aics 2019 challenge</data>
+    </node>
+    <node id="P100740">
+      <data key="title">supervised cross modal factor analysis for multiple modal data classification</data>
+    </node>
+    <node id="P160628">
+      <data key="title">urlnet learning a url representation with deep learning for malicious url detection</data>
+    </node>
+    <node id="P17448">
+      <data key="title">sparse coding with earth mover s distance</data>
+    </node>
+    <node id="P80433">
+      <data key="title">defending against phishing attacks taxonomy of methods current issues and future directions</data>
+    </node>
+    <node id="P147255">
+      <data key="title">optimizing top precision performance measure of content based image retrieval by learning similarity function</data>
+    </node>
+    <node id="P112613">
+      <data key="title">learning manifold to regularize nonnegative matrix factorization</data>
+    </node>
+    <node id="P63774">
+      <data key="title">phishdef url names say it all</data>
+    </node>
+    <node id="P288">
+      <data key="title">do users focus on the correct cues to differentiate between phishing and genuine emails</data>
+    </node>
+    <node id="P152999">
+      <data key="title">know your phish novel techniques for detecting phishing sites and their targets</data>
+    </node>
+    <node id="P18959">
+      <data key="title">deltaphish detecting phishing webpages in compromised websites</data>
+    </node>
+    <node id="P77288">
+      <data key="title">security theater on the vulnerability of classifiers to exploratory attacks</data>
+    </node>
+    <node id="P117074">
+      <data key="title">hashtran dnn a framework for enhancing robustness of deep neural networks against adversarial malware samples</data>
+    </node>
+    <node id="P17581">
+      <data key="title">stochastic learning of multi instance dictionary for earth mover s distance based histogram comparison</data>
+    </node>
+    <node id="P108814">
+      <data key="title">malicious url detection using machine learning a survey</data>
+    </node>
+    <node id="P70055">
+      <data key="title">phishari automatic realtime phishing detection on twitter</data>
+    </node>
+    <node id="P166874">
+      <data key="title">an evasion and counter evasion study in malicious websites detection</data>
+    </node>
+    <node id="P155144">
+      <data key="title">a novel transfer learning method based on common space mapping and weighted domain matching</data>
+    </node>
+    <edge source="P56121" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56121" target="P147255">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56121" target="P155144">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56121" target="P17581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P63774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P108814">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P18959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P152999">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P80433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99132" target="P70055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146340" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146340" target="P117074">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100740" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100740" target="P147255">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100740" target="P155144">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100740" target="P17581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160628" target="P108814">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160628" target="P63774">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17448" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80433" target="P70055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147255" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147255" target="P155144">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112613" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63774" target="P108814">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63774" target="P18959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63774" target="P152999">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152999" target="P108814">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77288" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117074" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17581" target="P166874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108814" target="P70055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166874" target="P155144">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

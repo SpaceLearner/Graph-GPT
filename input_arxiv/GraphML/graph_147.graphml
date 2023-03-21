@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P80425">
+      <data key="title">causal networks semantics and expressiveness</data>
+    </node>
+    <node id="P55398">
+      <data key="title">the capacity of channels with feedback</data>
+    </node>
+    <node id="P21245">
+      <data key="title">causal dependence tree approximations of joint distributions for multiple random processes</data>
+    </node>
+    <node id="P99423">
+      <data key="title">the relation between granger causality and directed information theory a review</data>
+    </node>
+    <node id="P164259">
+      <data key="title">universal estimation of directed information</data>
+    </node>
+    <node id="P60154">
+      <data key="title">consistent tomography under partial observations over adaptive networks</data>
+    </node>
+    <node id="P19427">
+      <data key="title">finite state channels with time invariant deterministic feedback</data>
+    </node>
+    <node id="P96866">
+      <data key="title">learning network of multivariate hawkes processes a time series approach</data>
+    </node>
+    <node id="P123989">
+      <data key="title">extension of the blahut arimoto algorithm for maximizing directed information</data>
+    </node>
+    <node id="P61152">
+      <data key="title">on directed information theory and granger causality graphs</data>
+    </node>
+    <node id="P189">
+      <data key="title">directed information graphs</data>
+    </node>
+    <node id="P59769">
+      <data key="title">convergence of fundamental limitations in feedback communication estimation and feedback control over gaussian channels</data>
+    </node>
+    <node id="P10475">
+      <data key="title">directed information and pearl s causal calculus</data>
+    </node>
+    <node id="P140253">
+      <data key="title">justification of logarithmic loss via the benefit of side information</data>
+    </node>
+    <node id="P9922">
+      <data key="title">computable bounds for rate distortion with feed forward for stationary and ergodic sources</data>
+    </node>
+    <node id="P78509">
+      <data key="title">entropic causal inference</data>
+    </node>
+    <node id="P149226">
+      <data key="title">information transfer in social media</data>
+    </node>
+    <node id="P94396">
+      <data key="title">budgeted experiment design for causal structure learning</data>
+    </node>
+    <node id="P114828">
+      <data key="title">information theoretic measures of influence based on content dynamics</data>
+    </node>
+    <node id="P52807">
+      <data key="title">on directed information and gambling</data>
+    </node>
+    <edge source="P80425" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P59769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P21245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P10475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P61152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P99423">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P164259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P19427">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P9922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P52807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55398" target="P123989">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21245" target="P19427">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21245" target="P52807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21245" target="P10475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21245" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99423" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99423" target="P61152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99423" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164259" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164259" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164259" target="P19427">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60154" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19427" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19427" target="P9922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19427" target="P52807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19427" target="P123989">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96866" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123989" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123989" target="P9922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61152" target="P10475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61152" target="P189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P59769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P10475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P9922">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P149226">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P52807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P114828">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P78509">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P189" target="P94396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149226" target="P114828">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

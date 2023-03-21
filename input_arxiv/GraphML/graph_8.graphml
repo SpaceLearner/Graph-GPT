@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P141773">
+      <data key="title">on distributed cooperative decision making in multiarmed bandits</data>
+    </node>
+    <node id="P137566">
+      <data key="title">let cognitive radios imitate imitation based spectrum access for cognitive radio networks</data>
+    </node>
+    <node id="P46510">
+      <data key="title">towards distribution free multi armed bandits with combinatorial strategies</data>
+    </node>
+    <node id="P113892">
+      <data key="title">extended ucb policy for multi armed bandit with light tailed reward distributions</data>
+    </node>
+    <node id="P14714">
+      <data key="title">multi user lax communications a multi armed bandit approach</data>
+    </node>
+    <node id="P10">
+      <data key="title">online learning in decentralized multiuser resource sharing problems</data>
+    </node>
+    <node id="P85721">
+      <data key="title">reinforcement learning a survey</data>
+    </node>
+    <node id="P103322">
+      <data key="title">multi agent q learning of channel selection in multi user cognitive radio systems a two by two case</data>
+    </node>
+    <node id="P32286">
+      <data key="title">combinatorial multi objective multi armed bandit problem</data>
+    </node>
+    <node id="P31486">
+      <data key="title">online learning for combinatorial network optimization with restless markovian rewards</data>
+    </node>
+    <node id="P110432">
+      <data key="title">sic mmab synchronisation involves communication in multiplayer multi armed bandits</data>
+    </node>
+    <node id="P119454">
+      <data key="title">spectrum access in cognitive radio using a two stage reinforcement learning approach</data>
+    </node>
+    <node id="P55091">
+      <data key="title">multi player bandits a trekking approach</data>
+    </node>
+    <node id="P92331">
+      <data key="title">almost optimal channel access in multi hop networks with unknown channel variables</data>
+    </node>
+    <node id="P40338">
+      <data key="title">potential and pitfalls of multi armed bandits for decentralized spatial reuse in wlans</data>
+    </node>
+    <node id="P17496">
+      <data key="title">multi player bandits a musical chairs approach</data>
+    </node>
+    <node id="P140834">
+      <data key="title">multi user communication networks a coordinated multi armed bandit approach</data>
+    </node>
+    <node id="P10090">
+      <data key="title">approximation algorithms for restless bandit problems</data>
+    </node>
+    <node id="P25350">
+      <data key="title">distributed algorithms for learning and cognitive medium access with logarithmic regret</data>
+    </node>
+    <node id="P87350">
+      <data key="title">learning to coordinate without communication in multi user multi armed bandit problems</data>
+    </node>
+    <edge source="P141773" target="P113892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141773" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137566" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46510" target="P10">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46510" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113892" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14714" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10" target="P10090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10" target="P31486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10" target="P92331">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85721" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103322" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103322" target="P119454">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103322" target="P40338">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32286" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110432" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110432" target="P17496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110432" target="P140834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119454" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55091" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55091" target="P17496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92331" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40338" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40338" target="P17496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17496" target="P87350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17496" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17496" target="P140834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140834" target="P25350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25350" target="P87350">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

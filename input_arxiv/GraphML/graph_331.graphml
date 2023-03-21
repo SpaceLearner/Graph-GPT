@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P5593">
+      <data key="title">invertibility and largest eigenvalue of symmetric matrix signings</data>
+    </node>
+    <node id="P16426">
+      <data key="title">deterministic and randomized actuator scheduling with guaranteed performance bounds</data>
+    </node>
+    <node id="P122615">
+      <data key="title">a proof of alon s second eigenvalue conjecture and related problems</data>
+    </node>
+    <node id="P89382">
+      <data key="title">semantic security and the second largest eigenvalue of biregular graphs</data>
+    </node>
+    <node id="P99364">
+      <data key="title">testing small set expansion in general graphs</data>
+    </node>
+    <node id="P94105">
+      <data key="title">spectral redemption in clustering sparse networks</data>
+    </node>
+    <node id="P110973">
+      <data key="title">explicit near ramanujan graphs of every degree</data>
+    </node>
+    <node id="P74483">
+      <data key="title">near optimal phase retrieval of sparse vectors</data>
+    </node>
+    <node id="P36653">
+      <data key="title">explicit expanding expanders</data>
+    </node>
+    <node id="P412">
+      <data key="title">an alon boppana type bound for weighted graphs and lowerbounds for spectral sparsification</data>
+    </node>
+    <node id="P92068">
+      <data key="title">efficient distributed community detection in the stochastic block model</data>
+    </node>
+    <node id="P167755">
+      <data key="title">nearly linear time algorithms for graph partitioning graph sparsification and solving linear systems</data>
+    </node>
+    <node id="P27552">
+      <data key="title">vector colorings of random ramanujan and large girth irregular graphs</data>
+    </node>
+    <node id="P8468">
+      <data key="title">power up robust graph convolutional network against evasion attacks based on graph powering</data>
+    </node>
+    <node id="P168228">
+      <data key="title">phase retrieval with polarization</data>
+    </node>
+    <node id="P90468">
+      <data key="title">gradient coding from cyclic mds codes and expander graphs</data>
+    </node>
+    <node id="P87741">
+      <data key="title">the lov asz theta function for random regular graphs and community detection in the hard regime</data>
+    </node>
+    <node id="P120701">
+      <data key="title">approximating the largest root and applications to interlacing families</data>
+    </node>
+    <node id="P121865">
+      <data key="title">ramanujan graphs in polynomial time</data>
+    </node>
+    <node id="P166786">
+      <data key="title">the relativized second eigenvalue conjecture of alon</data>
+    </node>
+    <edge source="P5593" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16426" target="P412">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P166786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P99364">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P94105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P168228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P74483">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P87741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P412">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P92068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P8468">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P36653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122615" target="P110973">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89382" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P87741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94105" target="P27552">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110973" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74483" target="P168228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P412" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P412" target="P167755">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P412" target="P27552">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90468" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120701" target="P121865">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P112465">
+      <data key="title">two svds produce more focal deep learning representations</data>
+    </node>
+    <node id="P141580">
+      <data key="title">multilingual distributed representations without word alignment</data>
+    </node>
+    <node id="P131864">
+      <data key="title">empirical analysis of predictive algorithms for collaborative filtering</data>
+    </node>
+    <node id="P112474">
+      <data key="title">recurrent convolutional neural networks for discourse compositionality</data>
+    </node>
+    <node id="P25319">
+      <data key="title">machine learning in automated text categorization</data>
+    </node>
+    <node id="P86011">
+      <data key="title">texts in meaning out neural language models in semantic similarity task for russian</data>
+    </node>
+    <node id="P70334">
+      <data key="title">not all neural embeddings are born equal</data>
+    </node>
+    <node id="P2636">
+      <data key="title">tailoring word embeddings for bilexical predictions an experimental comparison</data>
+    </node>
+    <node id="P7857">
+      <data key="title">combining independent modules to solve multiple choice synonym and analogy problems</data>
+    </node>
+    <node id="P123868">
+      <data key="title">the latent relation mapping engine algorithm and experiments</data>
+    </node>
+    <node id="P148333">
+      <data key="title">roget s thesaurus and semantic similarity</data>
+    </node>
+    <node id="P55860">
+      <data key="title">the sum of its parts joint learning of word and phrase representations with autoencoders</data>
+    </node>
+    <node id="P148350">
+      <data key="title">combining language and vision with a multimodal skip gram model</data>
+    </node>
+    <node id="P98002">
+      <data key="title">targetable named entity recognition in social media</data>
+    </node>
+    <node id="P93505">
+      <data key="title">similarity based models of word cooccurrence probabilities</data>
+    </node>
+    <node id="P84241">
+      <data key="title">measuring semantic similarity by latent relational analysis</data>
+    </node>
+    <node id="P108538">
+      <data key="title">from frequency to meaning vector space models of semantics</data>
+    </node>
+    <node id="P486">
+      <data key="title">social media analysis based on semanticity of streaming and batch data</data>
+    </node>
+    <node id="P74357">
+      <data key="title">leverage financial news to predict stock price movements using word embeddings and deep neural networks</data>
+    </node>
+    <node id="P25679">
+      <data key="title">deep learning for digital text analytics sentiment analysis</data>
+    </node>
+    <edge source="P112465" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131864" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25319" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86011" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70334" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2636" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7857" target="P148333">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7857" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7857" target="P84241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7857" target="P123868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123868" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123868" target="P84241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148333" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55860" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148350" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98002" target="P486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93505" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84241" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108538" target="P74357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108538" target="P486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P486" target="P25679">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

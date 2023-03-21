@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P141538">
+      <data key="title">global bandits with holder continuity</data>
+    </node>
+    <node id="P46510">
+      <data key="title">towards distribution free multi armed bandits with combinatorial strategies</data>
+    </node>
+    <node id="P115170">
+      <data key="title">efficient ranking and selection in parallel computing environments</data>
+    </node>
+    <node id="P109807">
+      <data key="title">contextual bandits with global constraints and objective</data>
+    </node>
+    <node id="P85538">
+      <data key="title">adaptive crowdsourcing algorithms for the bandit survey problem</data>
+    </node>
+    <node id="P35415">
+      <data key="title">truthful mechanisms with implicit payment computation</data>
+    </node>
+    <node id="P9918">
+      <data key="title">knapsack based optimal policies for budget limited multi armed bandits</data>
+    </node>
+    <node id="P51947">
+      <data key="title">an incentive compatible multi armed bandit crowdsourcing mechanism with quality assurance</data>
+    </node>
+    <node id="P47389">
+      <data key="title">mechanism design for cost optimal pac learning in the presence of strategic noisy annotators</data>
+    </node>
+    <node id="P31315">
+      <data key="title">dynamic pricing with limited supply</data>
+    </node>
+    <node id="P56109">
+      <data key="title">crowdsourcing with unsure option</data>
+    </node>
+    <node id="P34424">
+      <data key="title">a note on information directed sampling and thompson sampling</data>
+    </node>
+    <node id="P72977">
+      <data key="title">on the prior sensitivity of thompson sampling</data>
+    </node>
+    <node id="P27776">
+      <data key="title">bridging belief function theory to modern machine learning</data>
+    </node>
+    <node id="P96645">
+      <data key="title">optimal exploration exploitation in a multi armed bandit problem with non stationary rewards</data>
+    </node>
+    <node id="P246">
+      <data key="title">a truthful mechanism with biparameter learning for online crowdsourcing</data>
+    </node>
+    <node id="P144288">
+      <data key="title">an information theoretic analysis of thompson sampling</data>
+    </node>
+    <node id="P163659">
+      <data key="title">regret analysis of stochastic and nonstochastic multi armed bandit problems</data>
+    </node>
+    <node id="P3496">
+      <data key="title">bandits with concave rewards and convex knapsacks</data>
+    </node>
+    <node id="P59768">
+      <data key="title">on the complexity of bandit linear optimization</data>
+    </node>
+    <edge source="P141538" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46510" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46510" target="P31315">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46510" target="P35415">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115170" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109807" target="P9918">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109807" target="P3496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109807" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109807" target="P31315">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85538" target="P51947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85538" target="P56109">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85538" target="P31315">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35415" target="P51947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35415" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35415" target="P31315">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9918" target="P51947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9918" target="P3496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P3496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P47389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P31315">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51947" target="P56109">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31315" target="P3496">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31315" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34424" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72977" target="P144288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72977" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27776" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96645" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P246" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144288" target="P163659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163659" target="P59768">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163659" target="P3496">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

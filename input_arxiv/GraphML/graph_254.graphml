@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P122682">
+      <data key="title">bloomier filters a second look</data>
+    </node>
+    <node id="P138165">
+      <data key="title">using compressed suffix arrays for a compact representation of temporal graphs</data>
+    </node>
+    <node id="P141854">
+      <data key="title">document retrieval on repetitive string collections</data>
+    </node>
+    <node id="P33088">
+      <data key="title">rank select and access in grammar compressed strings</data>
+    </node>
+    <node id="P42580">
+      <data key="title">succinct indexable dictionaries with applications to encoding k ary trees prefix sums and multisets</data>
+    </node>
+    <node id="P34674">
+      <data key="title">succinct choice dictionaries</data>
+    </node>
+    <node id="P86235">
+      <data key="title">memory adjustable navigation piles with applications to sorting and convex hulls</data>
+    </node>
+    <node id="P36194">
+      <data key="title">rank select indices without tears</data>
+    </node>
+    <node id="P318">
+      <data key="title">indexing and querying color sets of images</data>
+    </node>
+    <node id="P121838">
+      <data key="title">lempel ziv computation in compressed space lz cics</data>
+    </node>
+    <node id="P9301">
+      <data key="title">relative compressed suffix trees</data>
+    </node>
+    <node id="P159783">
+      <data key="title">an optimal bloom filter replacement based on matrix solving</data>
+    </node>
+    <node id="P12299">
+      <data key="title">survey and taxonomy of lossless graph compression and space efficient graph representations</data>
+    </node>
+    <node id="P97964">
+      <data key="title">efficient compressed wavelet trees over large alphabets</data>
+    </node>
+    <node id="P138653">
+      <data key="title">various improvements to text fingerprinting</data>
+    </node>
+    <node id="P56460">
+      <data key="title">simulating the dna string graph in succinct space</data>
+    </node>
+    <node id="P95900">
+      <data key="title">fully functional suffix trees and optimal text searching in bwt runs bounded space</data>
+    </node>
+    <node id="P58749">
+      <data key="title">parallel construction of wavelet trees on multicore architectures</data>
+    </node>
+    <node id="P115514">
+      <data key="title">grammar compressed sequences with rank select support</data>
+    </node>
+    <node id="P13558">
+      <data key="title">lyndon array construction during burrows wheeler inversion</data>
+    </node>
+    <edge source="P122682" target="P159783">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122682" target="P138653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138165" target="P42580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141854" target="P42580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33088" target="P42580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P97964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P86235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P121838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P9301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P34674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P58749">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P115514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P36194">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P13558">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P12299">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P95900">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P56460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42580" target="P138653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P318" target="P138653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159783" target="P138653">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

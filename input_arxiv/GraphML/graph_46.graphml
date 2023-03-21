@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P38571">
+      <data key="title">information metrics imetrics a research specialty with a socio cognitive identity</data>
+    </node>
+    <node id="P39884">
+      <data key="title">advances in science visualization social networks semantic maps and discursive knowledge</data>
+    </node>
+    <node id="P55">
+      <data key="title">network maps of technology fields a comparative analysis of relatedness measures</data>
+    </node>
+    <node id="P2198">
+      <data key="title">measuring the meaning of words in contexts an automated analysis of controversies about monarch butterflies frankenfoods and stem cells</data>
+    </node>
+    <node id="P24086">
+      <data key="title">an event network for exploring open information</data>
+    </node>
+    <node id="P43207">
+      <data key="title">citation gaming induced by bibliometric evaluation a country level comparative analysis</data>
+    </node>
+    <node id="P94855">
+      <data key="title">can scientific journals be classified in terms of aggregated journal journal citation relations using the journal citation reports</data>
+    </node>
+    <node id="P113434">
+      <data key="title">the import and export of cognitive science</data>
+    </node>
+    <node id="P77742">
+      <data key="title">classification and powerlaws the logarithmic transformation</data>
+    </node>
+    <node id="P155851">
+      <data key="title">indicators of structural change in the dynamics of science entropy statistics of the sci journal citation reports</data>
+    </node>
+    <node id="P133658">
+      <data key="title">filtered patent maps for predicting diversification paths of inventors and organizations</data>
+    </node>
+    <node id="P121737">
+      <data key="title">resygen a recommendation system generator using domain based heuristics</data>
+    </node>
+    <node id="P36634">
+      <data key="title">co occurrence matrices and their applications in information science extending aca to the web environment</data>
+    </node>
+    <node id="P72723">
+      <data key="title">maps on the basis of the arts humanities citation index the journals leonardo and art journal versus digital humanities as a topic</data>
+    </node>
+    <node id="P54671">
+      <data key="title">measuring technological distance for patent mapping</data>
+    </node>
+    <node id="P139732">
+      <data key="title">toward alternative metrics of journal impact a comparison of download and citation data</data>
+    </node>
+    <node id="P32542">
+      <data key="title">the semantic mapping of words and co words in contexts</data>
+    </node>
+    <node id="P98146">
+      <data key="title">a principal component analysis of 39 scientific impact measures</data>
+    </node>
+    <node id="P16066">
+      <data key="title">similarity measures author cocitation analysis and information theory</data>
+    </node>
+    <node id="P151671">
+      <data key="title">visualization of the citation impact environments of scientific journals an online mapping exercise</data>
+    </node>
+    <edge source="P38571" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39884" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55" target="P133658">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2198" target="P121737">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2198" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2198" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24086" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43207" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94855" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94855" target="P77742">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94855" target="P155851">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94855" target="P113434">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113434" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77742" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77742" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77742" target="P155851">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155851" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133658" target="P54671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121737" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121737" target="P36634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36634" target="P54671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36634" target="P32542">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36634" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36634" target="P16066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72723" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54671" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139732" target="P98146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139732" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98146" target="P151671">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

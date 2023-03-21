@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P125081">
+      <data key="title">an improved algorithm for the submodular secretary problem with a cardinality constraint</data>
+    </node>
+    <node id="P28822">
+      <data key="title">submodular maximization meets streaming matchings matroids and more</data>
+    </node>
+    <node id="P356">
+      <data key="title">the submodular secretary problem under a cardinality constraint and with limited resources</data>
+    </node>
+    <node id="P80264">
+      <data key="title">online submodular welfare maximization greedy is optimal</data>
+    </node>
+    <node id="P148007">
+      <data key="title">a simple o log log mathrm rank competitive algorithm for the matroid secretary problem</data>
+    </node>
+    <node id="P69641">
+      <data key="title">submodular secretary problem with shortlists</data>
+    </node>
+    <node id="P147289">
+      <data key="title">submodular secretary problems cardinality matching and linear constraints</data>
+    </node>
+    <node id="P96250">
+      <data key="title">online submodular welfare maximization greedy beats 1 2 in random order</data>
+    </node>
+    <node id="P38037">
+      <data key="title">online submodular maximization beating 1 2 made simple</data>
+    </node>
+    <node id="P40698">
+      <data key="title">fast algorithms for online stochastic convex programming</data>
+    </node>
+    <node id="P67235">
+      <data key="title">lazier than lazy greedy</data>
+    </node>
+    <node id="P48671">
+      <data key="title">adversarially robust submodular maximization under knapsack constraints</data>
+    </node>
+    <node id="P163578">
+      <data key="title">online stochastic packing applied to display ad allocation</data>
+    </node>
+    <node id="P80767">
+      <data key="title">building a good team secretary problems and the supermodular degree</data>
+    </node>
+    <node id="P71247">
+      <data key="title">a dynamic near optimal algorithm for online linear programming</data>
+    </node>
+    <node id="P31593">
+      <data key="title">bring your own greedy max near optimal 1 2 approximations for submodular knapsack</data>
+    </node>
+    <node id="P89785">
+      <data key="title">o log log rank competitive ratio for the matroid secretary problem</data>
+    </node>
+    <node id="P11349">
+      <data key="title">algorithms for secretary problems on graphs and hypergraphs</data>
+    </node>
+    <node id="P138546">
+      <data key="title">the submodular secretary problem goes linear</data>
+    </node>
+    <node id="P11583">
+      <data key="title">submodular matroid secretary problem with shortlists</data>
+    </node>
+    <edge source="P125081" target="P80767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125081" target="P147289">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125081" target="P138546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28822" target="P69641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28822" target="P48671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28822" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P356" target="P69641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80264" target="P69641">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80264" target="P38037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80264" target="P96250">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148007" target="P147289">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148007" target="P138546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148007" target="P11349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148007" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P147289">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P163578">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P67235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P38037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P71247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P138546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P96250">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P48671">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P31593">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69641" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P80767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P40698">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P71247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P11349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P89785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147289" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96250" target="P38037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96250" target="P163578">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96250" target="P71247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38037" target="P67235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40698" target="P163578">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40698" target="P71247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163578" target="P71247">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163578" target="P11349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89785" target="P138546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89785" target="P11349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89785" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11349" target="P138546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138546" target="P11583">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

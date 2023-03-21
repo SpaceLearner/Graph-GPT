@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P31748">
+      <data key="title">learning to select pre trained deep representations with bayesian evidence framework</data>
+    </node>
+    <node id="P93649">
+      <data key="title">imagenet large scale visual recognition challenge</data>
+    </node>
+    <node id="P236">
+      <data key="title">exploring the influence of scale on artist attribution</data>
+    </node>
+    <node id="P166425">
+      <data key="title">fully convolutional networks for semantic segmentation</data>
+    </node>
+    <node id="P47792">
+      <data key="title">beyond temporal pooling recurrence and temporal convolutions for gesture recognition in video</data>
+    </node>
+    <node id="P109802">
+      <data key="title">feature representation in convolutional neural networks</data>
+    </node>
+    <node id="P122955">
+      <data key="title">convolutional neural networks for joint object detection and pose estimation a comparative study</data>
+    </node>
+    <node id="P58062">
+      <data key="title">representation learning a review and new perspectives</data>
+    </node>
+    <node id="P22502">
+      <data key="title">overfeat integrated recognition localization and detection using convolutional networks</data>
+    </node>
+    <node id="P90082">
+      <data key="title">a deep hashing learning network</data>
+    </node>
+    <node id="P68997">
+      <data key="title">do more dropouts in pool5 feature maps for better object detection</data>
+    </node>
+    <node id="P133646">
+      <data key="title">fully convolutional neural networks for crowd segmentation</data>
+    </node>
+    <node id="P50632">
+      <data key="title">striving for simplicity the all convolutional net</data>
+    </node>
+    <node id="P107157">
+      <data key="title">deep epitomic convolutional neural networks</data>
+    </node>
+    <node id="P25152">
+      <data key="title">you only look once unified real time object detection</data>
+    </node>
+    <node id="P26468">
+      <data key="title">looking outside of the box object detection and localization with multi scale patterns</data>
+    </node>
+    <node id="P5210">
+      <data key="title">how well can a cnn marginalize simple nuisances it is designed for</data>
+    </node>
+    <node id="P76906">
+      <data key="title">highly efficient forward and backward propagation of convolutional neural networks for pixelwise classification</data>
+    </node>
+    <node id="P47786">
+      <data key="title">convolutional neural network based place recognition</data>
+    </node>
+    <node id="P154857">
+      <data key="title">supervised learning of semantics preserving hashing via deep neural networks for large scale image search</data>
+    </node>
+    <edge source="P31748" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P25152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P107157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P236" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P236" target="P50632">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P236" target="P58062">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P236" target="P166425">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166425" target="P154857">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166425" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47792" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109802" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122955" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P68997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P107157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P47786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P76906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P133646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P26468">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P5210">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P154857">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P90082">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P25152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68997" target="P25152">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

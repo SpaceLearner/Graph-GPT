@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P400">
+      <data key="title">sequential composition in the presence of intermediate termination</data>
+    </node>
+    <node id="P97980">
+      <data key="title">computational complexity of interactive behaviors</data>
+    </node>
+    <node id="P54902">
+      <data key="title">sequential composition in the presence of intermediate termination extended abstract</data>
+    </node>
+    <node id="P104141">
+      <data key="title">on distributability of petri nets</data>
+    </node>
+    <node id="P9408">
+      <data key="title">reactive turing machines with infinite alphabets</data>
+    </node>
+    <node id="P65562">
+      <data key="title">a theory of encodings and expressiveness</data>
+    </node>
+    <node id="P126128">
+      <data key="title">ensuring liveness properties of distributed systems a research agenda</data>
+    </node>
+    <node id="P120056">
+      <data key="title">lean and full congruence formats for recursion</data>
+    </node>
+    <node id="P111254">
+      <data key="title">on characterising distributability</data>
+    </node>
+    <node id="P32378">
+      <data key="title">toward a uniform theory of effectful state machines</data>
+    </node>
+    <node id="P59397">
+      <data key="title">correct and efficient antichain algorithms for refinement checking</data>
+    </node>
+    <node id="P121135">
+      <data key="title">branching bisimilarity with explicit divergence</data>
+    </node>
+    <node id="P44548">
+      <data key="title">distribution of behaviour into parallel communicating subsystems</data>
+    </node>
+    <node id="P13326">
+      <data key="title">the name passing calculus</data>
+    </node>
+    <node id="P75004">
+      <data key="title">expressiveness modulo bisimilarity of regular expressions with parallel composition</data>
+    </node>
+    <node id="P156482">
+      <data key="title">games for bisimulations and abstraction</data>
+    </node>
+    <node id="P35955">
+      <data key="title">interactive small step algorithms i axiomatization</data>
+    </node>
+    <node id="P95092">
+      <data key="title">divide and congruence iii from decomposition of modal formulas to preservation of stability and divergence</data>
+    </node>
+    <node id="P79283">
+      <data key="title">ensuring liveness properties of distributed systems open problems</data>
+    </node>
+    <node id="P19541">
+      <data key="title">reactive turing machines</data>
+    </node>
+    <edge source="P400" target="P54902">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97980" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54902" target="P75004">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54902" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54902" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54902" target="P95092">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104141" target="P111254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104141" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9408" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9408" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65562" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65562" target="P120056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126128" target="P111254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126128" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120056" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120056" target="P79283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111254" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111254" target="P79283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32378" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59397" target="P121135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P13326">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P156482">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P44548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P95092">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121135" target="P79283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75004" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35955" target="P19541">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

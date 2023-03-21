@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P80797">
+      <data key="title">network information flow in navigable small world networks</data>
+    </node>
+    <node id="P94131">
+      <data key="title">multiterminal source coding with two encoders i a computable outer bound</data>
+    </node>
+    <node id="P72538">
+      <data key="title">on the scalability of cooperative time synchronization in pulse connected networks</data>
+    </node>
+    <node id="P76986">
+      <data key="title">cut set bounds on network information flow</data>
+    </node>
+    <node id="P111299">
+      <data key="title">universal source coding over generalized complementary delivery networks</data>
+    </node>
+    <node id="P27903">
+      <data key="title">multi way relay networks orthogonal uplink source channel separation and code design</data>
+    </node>
+    <node id="P33258">
+      <data key="title">distributed joint source channel coding on a multiple access channel with side information</data>
+    </node>
+    <node id="P49">
+      <data key="title">asymptotic capacity of wireless ad hoc networks with realistic links under a honey comb topology</data>
+    </node>
+    <node id="P53293">
+      <data key="title">on multiflows in random unit disk graphs and the capacity of some wireless networks</data>
+    </node>
+    <node id="P127148">
+      <data key="title">efficient joint network source coding for multiple terminals with side information</data>
+    </node>
+    <node id="P66585">
+      <data key="title">a multiway relay channel with balanced sources</data>
+    </node>
+    <node id="P41198">
+      <data key="title">models statistics and rates of binary correlated sources</data>
+    </node>
+    <node id="P37527">
+      <data key="title">beyond the cut set bound uncertainty computations in network coding with correlated sources</data>
+    </node>
+    <node id="P151053">
+      <data key="title">linear finite field deterministic networks with many sources and one destination</data>
+    </node>
+    <node id="P121678">
+      <data key="title">a calculus for sensor networks</data>
+    </node>
+    <node id="P145885">
+      <data key="title">source and physical layer network coding for correlated two way relaying</data>
+    </node>
+    <node id="P106656">
+      <data key="title">network information flow with correlated sources</data>
+    </node>
+    <node id="P107344">
+      <data key="title">quantized network coding for sparse messages</data>
+    </node>
+    <node id="P165422">
+      <data key="title">polymatroids with network coding</data>
+    </node>
+    <node id="P136328">
+      <data key="title">multicasting correlated multi source to multi sink over a network</data>
+    </node>
+    <edge source="P80797" target="P53293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80797" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94131" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72538" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76986" target="P37527">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76986" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111299" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27903" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27903" target="P66585">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33258" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49" target="P53293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53293" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127148" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66585" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41198" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37527" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151053" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121678" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145885" target="P106656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106656" target="P136328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106656" target="P165422">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106656" target="P107344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165422" target="P136328">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

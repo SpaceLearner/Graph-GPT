@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P113400">
+      <data key="title">computing semi algebraic invariants for polynomial dynamical systems</data>
+    </node>
+    <node id="P58005">
+      <data key="title">delta decidability over the reals</data>
+    </node>
+    <node id="P66461">
+      <data key="title">statistical model checking for biological applications</data>
+    </node>
+    <node id="P89530">
+      <data key="title">differential equation invariance axiomatization</data>
+    </node>
+    <node id="P15981">
+      <data key="title">satisfiability modulo odes</data>
+    </node>
+    <node id="P111290">
+      <data key="title">the structure of differential invariants and differential cut elimination</data>
+    </node>
+    <node id="P41846">
+      <data key="title">towards physical hybrid systems</data>
+    </node>
+    <node id="P103698">
+      <data key="title">computable decision making on the reals and other spaces via partiality and nondeterminism</data>
+    </node>
+    <node id="P36446">
+      <data key="title">verified runtime validation for partially observable hybrid systems</data>
+    </node>
+    <node id="P435">
+      <data key="title">safe robust reachability analysis of hybrid systems</data>
+    </node>
+    <node id="P27157">
+      <data key="title">introspection learning</data>
+    </node>
+    <node id="P61005">
+      <data key="title">constructive hybrid games</data>
+    </node>
+    <node id="P11934">
+      <data key="title">a complete uniform substitution calculus for differential dynamic logic</data>
+    </node>
+    <node id="P35134">
+      <data key="title">relational differential dynamic logic</data>
+    </node>
+    <node id="P95342">
+      <data key="title">applications of quantified constraint solving over the reals bibliography</data>
+    </node>
+    <node id="P97940">
+      <data key="title">monitoring bounded ltl properties using interval analysis</data>
+    </node>
+    <node id="P80906">
+      <data key="title">lipschitz continuous ordinary differential equations are polynomial space complete</data>
+    </node>
+    <node id="P61053">
+      <data key="title">delta complete analysis for bounded reachability of hybrid systems</data>
+    </node>
+    <node id="P129215">
+      <data key="title">delta decision procedures for exists forall problems over the reals</data>
+    </node>
+    <node id="P20396">
+      <data key="title">differential equation axiomatization the impressive power of differential ghosts</data>
+    </node>
+    <edge source="P113400" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113400" target="P89530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P97940">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P61053">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P66461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P15981">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P103698">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P27157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P41846">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P89530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P129215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P95342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58005" target="P80906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15981" target="P97940">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111290" target="P11934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111290" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41846" target="P435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41846" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36446" target="P11934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36446" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61005" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11934" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11934" target="P35134">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35134" target="P20396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95342" target="P129215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97940" target="P61053">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

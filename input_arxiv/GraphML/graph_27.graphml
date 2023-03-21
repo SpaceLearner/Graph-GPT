@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P57103">
+      <data key="title">bilinear generalized approximate message passing part i derivation</data>
+    </node>
+    <node id="P34">
+      <data key="title">face frontalization for alignment and recognition</data>
+    </node>
+    <node id="P4528">
+      <data key="title">a study on the use of boundary equilibrium gan for approximate frontalization of unconstrained faces to aid in surveillance</data>
+    </node>
+    <node id="P3898">
+      <data key="title">subspace clustering using a symmetric low rank representation</data>
+    </node>
+    <node id="P19898">
+      <data key="title">tight oracle bounds for low rank matrix recovery from a minimal number of random measurements</data>
+    </node>
+    <node id="P153517">
+      <data key="title">generalized singular value thresholding</data>
+    </node>
+    <node id="P27770">
+      <data key="title">global convergence of a grassmannian gradient descent algorithm for subspace estimation</data>
+    </node>
+    <node id="P154869">
+      <data key="title">logdet rank minimization with application to subspace clustering</data>
+    </node>
+    <node id="P116481">
+      <data key="title">deterministic construction of rip matrices in compressed sensing from constant weight codes</data>
+    </node>
+    <node id="P112449">
+      <data key="title">structured low rank matrix factorization with missing and grossly corrupted observations</data>
+    </node>
+    <node id="P158460">
+      <data key="title">robust principal component analysis</data>
+    </node>
+    <node id="P3908">
+      <data key="title">the achievable performance of convex demixing</data>
+    </node>
+    <node id="P93972">
+      <data key="title">stable separation and super resolution of mixture models</data>
+    </node>
+    <node id="P107156">
+      <data key="title">big data analytics in future internet of things</data>
+    </node>
+    <node id="P140241">
+      <data key="title">segmentation of subspaces in sequential data</data>
+    </node>
+    <node id="P142934">
+      <data key="title">an out of sample extension of sparse subspace clustering and low rank representation for clustering large scale data sets</data>
+    </node>
+    <node id="P42408">
+      <data key="title">dual attention gan for large pose face frontalization</data>
+    </node>
+    <node id="P103152">
+      <data key="title">bayesian robust tensor factorization for incomplete multiway data</data>
+    </node>
+    <node id="P155827">
+      <data key="title">tilt transform invariant low rank textures</data>
+    </node>
+    <node id="P80785">
+      <data key="title">kernelized low rank representation on grassmann manifolds</data>
+    </node>
+    <edge source="P57103" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34" target="P155827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34" target="P4528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34" target="P42408">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3898" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19898" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153517" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153517" target="P154869">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27770" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154869" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116481" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112449" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P107156">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P140241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P93972">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P103152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P142934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P3908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P80785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P155827">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

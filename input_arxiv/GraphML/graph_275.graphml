@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P167873">
+      <data key="title">continuous time trajectory optimization for decentralized multi robot navigation</data>
+    </node>
+    <node id="P80759">
+      <data key="title">optimal cooperative motion planning for vehicles at intersections</data>
+    </node>
+    <node id="P69826">
+      <data key="title">high speed trajectory planning for autonomous vehicles using a simple dynamic model</data>
+    </node>
+    <node id="P26806">
+      <data key="title">a model predictive motion planner for the iara autonomous car</data>
+    </node>
+    <node id="P124316">
+      <data key="title">robust multirobot coordination using priority encoded homotopic constraints</data>
+    </node>
+    <node id="P42919">
+      <data key="title">automating vehicles by deep reinforcement learning using task separation with hill climbing</data>
+    </node>
+    <node id="P342">
+      <data key="title">distributed algorithm for collision avoidance at road intersections in the presence of communication failures</data>
+    </node>
+    <node id="P151890">
+      <data key="title">a simple dynamic model for aggressive near limits trajectory planning</data>
+    </node>
+    <node id="P20431">
+      <data key="title">analytically modeling unmanaged intersections with microscopic vehicle interactions</data>
+    </node>
+    <node id="P104181">
+      <data key="title">trajectory planning under vehicle dimension constraints using sequential linear programming</data>
+    </node>
+    <node id="P164324">
+      <data key="title">time optimal coordination of mobile robots along specified paths</data>
+    </node>
+    <node id="P7337">
+      <data key="title">control of connected and automated vehicles state of the art and future challenges</data>
+    </node>
+    <node id="P76431">
+      <data key="title">a survey of motion planning and control techniques for self driving urban vehicles</data>
+    </node>
+    <node id="P126025">
+      <data key="title">trajectory planning of automated vehicles in tube like road segments</data>
+    </node>
+    <node id="P25710">
+      <data key="title">a look at motion planning for autonomous vehicles at an intersection</data>
+    </node>
+    <node id="P44386">
+      <data key="title">analyzing traffic delay at unmanaged intersections</data>
+    </node>
+    <edge source="P167873" target="P69826">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80759" target="P124316">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80759" target="P25710">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69826" target="P25710">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69826" target="P26806">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69826" target="P151890">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69826" target="P104181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26806" target="P76431">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26806" target="P151890">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124316" target="P164324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42919" target="P126025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42919" target="P76431">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42919" target="P104181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P342" target="P44386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P342" target="P25710">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20431" target="P164324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20431" target="P44386">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104181" target="P126025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104181" target="P25710">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104181" target="P7337">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7337" target="P76431">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76431" target="P126025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126025" target="P25710">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

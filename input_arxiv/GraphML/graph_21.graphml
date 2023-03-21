@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P125734">
+      <data key="title">optimal non uniform mapping for probabilistic shaping</data>
+    </node>
+    <node id="P126483">
+      <data key="title">constant composition distribution matching</data>
+    </node>
+    <node id="P89887">
+      <data key="title">finite precision implementation of arithmetic coding based distribution matchers</data>
+    </node>
+    <node id="P76518">
+      <data key="title">matching dyadic distributions to channels</data>
+    </node>
+    <node id="P57145">
+      <data key="title">optimal quantization for distribution synthesis</data>
+    </node>
+    <node id="P159466">
+      <data key="title">prefix free code distribution matching for probabilistic constellation shaping</data>
+    </node>
+    <node id="P29122">
+      <data key="title">block to block distribution matching</data>
+    </node>
+    <node id="P79286">
+      <data key="title">on product codes with probabilistic amplitude shaping for high throughput fiber optic systems</data>
+    </node>
+    <node id="P49101">
+      <data key="title">rate constrained shaping codes for structured sources</data>
+    </node>
+    <node id="P95816">
+      <data key="title">a compressed sensing approach for distribution matching</data>
+    </node>
+    <node id="P148466">
+      <data key="title">ldpc coded modulation with probabilistic shaping for optical fiber systems</data>
+    </node>
+    <node id="P28">
+      <data key="title">rooted trees with probabilities revisited</data>
+    </node>
+    <node id="P107287">
+      <data key="title">strong coordination with polar codes</data>
+    </node>
+    <node id="P1534">
+      <data key="title">sensitivity gains by mismatched probabilistic shaping for optical communication systems</data>
+    </node>
+    <node id="P113256">
+      <data key="title">fixed to variable length distribution matching</data>
+    </node>
+    <node id="P83501">
+      <data key="title">fixed to variable length resolution coding for target distributions</data>
+    </node>
+    <node id="P127099">
+      <data key="title">informational divergence and entropy rate on rooted trees with probabilities</data>
+    </node>
+    <node id="P7794">
+      <data key="title">arithmetic distribution matching</data>
+    </node>
+    <node id="P37819">
+      <data key="title">arithmetic coding based multi composition codes for bit level distribution matching</data>
+    </node>
+    <node id="P97475">
+      <data key="title">informational divergence approximations to product distributions</data>
+    </node>
+    <edge source="P125734" target="P57145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125734" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P148466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P1534">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P95816">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P37819">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P29122">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P57145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P127099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P76518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P89887">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P79286">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126483" target="P49101">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89887" target="P37819">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P57145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P127099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P95816">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P159466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P79286">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76518" target="P49101">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57145" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57145" target="P97475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159466" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29122" target="P28">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29122" target="P37819">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79286" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79286" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49101" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49101" target="P127099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49101" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95816" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95816" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148466" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148466" target="P1534">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28" target="P113256">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107287" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113256" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113256" target="P83501">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113256" target="P127099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83501" target="P97475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83501" target="P127099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127099" target="P7794">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

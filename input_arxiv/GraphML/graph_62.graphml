@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P95324">
+      <data key="title">integrating datalog and constraint solving</data>
+    </node>
+    <node id="P80882">
+      <data key="title">predicate logic as a modeling language modeling and solving some machine learning and data mining problems with idp3</data>
+    </node>
+    <node id="P19557">
+      <data key="title">generalized support and formal development of constraint propagators</data>
+    </node>
+    <node id="P126750">
+      <data key="title">spacetime programming a synchronous language for composable search strategies</data>
+    </node>
+    <node id="P92337">
+      <data key="title">efficient constraint propagation engines</data>
+    </node>
+    <node id="P127799">
+      <data key="title">constraint propagation in presence of arrays</data>
+    </node>
+    <node id="P10466">
+      <data key="title">ntccrt a concurrent constraint framework for real time interaction extended version</data>
+    </node>
+    <node id="P153133">
+      <data key="title">view based propagator derivation</data>
+    </node>
+    <node id="P127125">
+      <data key="title">gelisp a library to represent musical csps and search strategies</data>
+    </node>
+    <node id="P83018">
+      <data key="title">relation variables in qualitative spatial reasoning</data>
+    </node>
+    <node id="P6041">
+      <data key="title">a proof theoretic view of constraint programming</data>
+    </node>
+    <node id="P28077">
+      <data key="title">constraint answer set solver ezcsp and why integration schemas matter</data>
+    </node>
+    <node id="P16689">
+      <data key="title">an analysis of arithmetic constraints on integer intervals</data>
+    </node>
+    <node id="P94884">
+      <data key="title">infinite qualitative simulations by means of constraint programming</data>
+    </node>
+    <node id="P82705">
+      <data key="title">stratified constructive disjunction and negation in constraint programming</data>
+    </node>
+    <node id="P64519">
+      <data key="title">evaluating and improving modern variable and revision ordering strategies in csps</data>
+    </node>
+    <node id="P38579">
+      <data key="title">integrating interval constraints into logic programming</data>
+    </node>
+    <node id="P79">
+      <data key="title">a combined approach for constraints over finite domains and arrays</data>
+    </node>
+    <node id="P9937">
+      <data key="title">programming finite domain constraint propagators in action rules</data>
+    </node>
+    <node id="P106750">
+      <data key="title">finite domain bounds consistency revisited</data>
+    </node>
+    <edge source="P95324" target="P92337">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80882" target="P92337">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19557" target="P92337">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126750" target="P92337">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P79">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P10466">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P127125">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P28077">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P82705">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P64519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P153133">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P9937">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92337" target="P106750">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127799" target="P79">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127799" target="P6041">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127799" target="P94884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127799" target="P83018">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153133" target="P106750">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83018" target="P94884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6041" target="P38579">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6041" target="P16689">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

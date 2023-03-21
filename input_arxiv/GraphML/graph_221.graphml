@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P135951">
+      <data key="title">variable length compression allowing errors</data>
+    </node>
+    <node id="P125782">
+      <data key="title">guesswork large deviations and shannon entropy</data>
+    </node>
+    <node id="P50787">
+      <data key="title">f divergence inequalities</data>
+    </node>
+    <node id="P63751">
+      <data key="title">an information diffusion fano inequality</data>
+    </node>
+    <node id="P125748">
+      <data key="title">minimization problems based on relative alpha entropy i forward projection</data>
+    </node>
+    <node id="P118029">
+      <data key="title">on the smooth renyi entropy and variable length source coding allowing errors</data>
+    </node>
+    <node id="P86358">
+      <data key="title">sharp bounds on arimoto s conditional r e nyi entropies between two distinct orders</data>
+    </node>
+    <node id="P121767">
+      <data key="title">encoding tasks and renyi entropy</data>
+    </node>
+    <node id="P276">
+      <data key="title">on empirical cumulant generating functions of code lengths for individual sequences</data>
+    </node>
+    <node id="P57145">
+      <data key="title">optimal quantization for distribution synthesis</data>
+    </node>
+    <node id="P129761">
+      <data key="title">renyi divergence and kullback leibler divergence</data>
+    </node>
+    <node id="P54670">
+      <data key="title">guessing based on length functions</data>
+    </node>
+    <node id="P13587">
+      <data key="title">improved bounds on lossless source coding and guessing moments via r e nyi measures</data>
+    </node>
+    <node id="P19947">
+      <data key="title">on reverse pinsker inequalities</data>
+    </node>
+    <node id="P96621">
+      <data key="title">a generalization of majorization that characterizes shannon entropy</data>
+    </node>
+    <node id="P45990">
+      <data key="title">reducing guesswork via an unreliable oracle</data>
+    </node>
+    <node id="P98017">
+      <data key="title">equivocations exponents and second order coding rates under various r enyi information measures</data>
+    </node>
+    <node id="P86163">
+      <data key="title">guessing under source uncertainty</data>
+    </node>
+    <node id="P168908">
+      <data key="title">guessing revisited a large deviations approach</data>
+    </node>
+    <node id="P52596">
+      <data key="title">guessing attacks on distributed storage systems</data>
+    </node>
+    <edge source="P135951" target="P118029">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135951" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125782" target="P54670">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125782" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125782" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125782" target="P52596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50787" target="P57145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50787" target="P129761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50787" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63751" target="P129761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125748" target="P129761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125748" target="P121767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125748" target="P86163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125748" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118029" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86358" target="P121767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86358" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121767" target="P86163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121767" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121767" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121767" target="P52596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P276" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57145" target="P19947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57145" target="P129761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129761" target="P96621">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129761" target="P19947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129761" target="P98017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129761" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54670" target="P86163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54670" target="P13587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54670" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13587" target="P86163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13587" target="P52596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13587" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13587" target="P45990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45990" target="P86163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45990" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86163" target="P52596">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86163" target="P168908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168908" target="P52596">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

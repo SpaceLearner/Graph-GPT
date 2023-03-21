@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P84155">
+      <data key="title">compressed sensing how sharp is the restricted isometry property</data>
+    </node>
+    <node id="P29236">
+      <data key="title">the restricted isometry property for random block diagonal matrices</data>
+    </node>
+    <node id="P117878">
+      <data key="title">proof of convergence and performance analysis for sparse recovery via zero point attracting projection</data>
+    </node>
+    <node id="P166805">
+      <data key="title">towards a better compressed sensing</data>
+    </node>
+    <node id="P18746">
+      <data key="title">on u statistics and compressed sensing i non asymptotic average case analysis</data>
+    </node>
+    <node id="P84874">
+      <data key="title">compressed sensing over ell_p balls minimax mean square error</data>
+    </node>
+    <node id="P138979">
+      <data key="title">robustness of sparse recovery via f minimization a topological viewpoint</data>
+    </node>
+    <node id="P44">
+      <data key="title">replica symmetric bound for restricted isometry constant</data>
+    </node>
+    <node id="P168175">
+      <data key="title">deterministic bounds for restricted isometry of compressed sensing matrices</data>
+    </node>
+    <node id="P31874">
+      <data key="title">robust width a characterization of uniformly stable and robust compressed sensing</data>
+    </node>
+    <node id="P37182">
+      <data key="title">compressive sensing for spread spectrum receivers</data>
+    </node>
+    <node id="P104462">
+      <data key="title">discrete uncertainty principles and sparse signal processing</data>
+    </node>
+    <node id="P860">
+      <data key="title">improved bounds on restricted isometry constants for gaussian matrices</data>
+    </node>
+    <node id="P128398">
+      <data key="title">near optimal binary compressed sensing matrix</data>
+    </node>
+    <node id="P80886">
+      <data key="title">on the performance bound of sparse estimation with sensing matrix perturbation</data>
+    </node>
+    <node id="P39936">
+      <data key="title">robustly stable signal recovery in compressed sensing with structured matrix perturbation</data>
+    </node>
+    <node id="P104581">
+      <data key="title">perturbation analysis of orthogonal matching pursuit</data>
+    </node>
+    <node id="P47863">
+      <data key="title">sparse recovery from nonlinear measurements with applications in bad data detection for power networks</data>
+    </node>
+    <node id="P70473">
+      <data key="title">on phase transition of compressed sensing in the complex domain</data>
+    </node>
+    <node id="P47946">
+      <data key="title">ldpc codes for compressed sensing</data>
+    </node>
+    <edge source="P84155" target="P104462">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P44">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P47863">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P128398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P166805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P138979">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P168175">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P31874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P37182">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P39936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P117878">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P104581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P29236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P80886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P47946">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P70473">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P18746">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P84874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84155" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29236" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117878" target="P138979">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117878" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117878" target="P80886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166805" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18746" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168175" target="P860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31874" target="P104462">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128398" target="P47946">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80886" target="P104581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39936" target="P70473">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

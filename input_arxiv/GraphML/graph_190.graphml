@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P74537">
+      <data key="title">communication and randomness lower bounds for secure computation</data>
+    </node>
+    <node id="P159746">
+      <data key="title">commitment capacity of discrete memoryless channels</data>
+    </node>
+    <node id="P100623">
+      <data key="title">tension bounds for information complexity</data>
+    </node>
+    <node id="P95467">
+      <data key="title">assisted common information further results</data>
+    </node>
+    <node id="P11705">
+      <data key="title">maximal correlation secrecy</data>
+    </node>
+    <node id="P12728">
+      <data key="title">which boolean functions are most informative</data>
+    </node>
+    <node id="P136506">
+      <data key="title">the maximum mutual information between the output of a binary symmetric channel and a boolean function of its input</data>
+    </node>
+    <node id="P15545">
+      <data key="title">on the optimal boolean function for prediction under quadratic loss</data>
+    </node>
+    <node id="P123089">
+      <data key="title">bounds on inference</data>
+    </node>
+    <node id="P57177">
+      <data key="title">on the duality of additivity and tensorization</data>
+    </node>
+    <node id="P164102">
+      <data key="title">on maximal correlation hypercontractivity and the data processing inequality studied by erkip and cover</data>
+    </node>
+    <node id="P63868">
+      <data key="title">hiding symbols and functions new metrics and constructions for information theoretic security</data>
+    </node>
+    <node id="P149792">
+      <data key="title">an exploration of the role of principal inertia components in information theory</data>
+    </node>
+    <node id="P136409">
+      <data key="title">a new data processing inequality and its applications in distributed source and channel coding</data>
+    </node>
+    <node id="P74477">
+      <data key="title">assisted common information with an application to secure two party sampling</data>
+    </node>
+    <node id="P123085">
+      <data key="title">some new insights into information decomposition in complex systems based on common information</data>
+    </node>
+    <node id="P92787">
+      <data key="title">a new upperbound for the oblivious transfer capacity of discrete memoryless channels</data>
+    </node>
+    <node id="P112611">
+      <data key="title">on the communication complexity of secure computation</data>
+    </node>
+    <node id="P239">
+      <data key="title">efficient coding for multi source networks using g acs k orner common information</data>
+    </node>
+    <node id="P92912">
+      <data key="title">maximum entropy functions approximate gacs korner for distributed compression</data>
+    </node>
+    <edge source="P74537" target="P74477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159746" target="P74477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159746" target="P95467">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100623" target="P74477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100623" target="P112611">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95467" target="P74477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11705" target="P164102">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11705" target="P123089">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11705" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11705" target="P63868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12728" target="P123089">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12728" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136506" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15545" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123089" target="P164102">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123089" target="P136409">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123089" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57177" target="P164102">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57177" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57177" target="P136409">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164102" target="P136409">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164102" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63868" target="P149792">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149792" target="P136409">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149792" target="P92912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74477" target="P123085">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74477" target="P92787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74477" target="P112611">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74477" target="P92912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P239" target="P92912">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

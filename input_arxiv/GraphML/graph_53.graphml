@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P99312">
+      <data key="title">cognitive radio with random number of secondary number of users</data>
+    </node>
+    <node id="P87546">
+      <data key="title">downlink mimo hetnets modeling ordering results and performance analysis</data>
+    </node>
+    <node id="P39984">
+      <data key="title">monotonicity results for coherent mimo rician channels</data>
+    </node>
+    <node id="P161678">
+      <data key="title">a tractable approach to coverage and rate in cellular networks</data>
+    </node>
+    <node id="P157705">
+      <data key="title">interference and outage in clustered wireless ad hoc networks</data>
+    </node>
+    <node id="P42067">
+      <data key="title">on certain large random hermitian jacobi matrices with applications to wireless communications</data>
+    </node>
+    <node id="P153215">
+      <data key="title">partition based caching in large scale sic enabled wireless networks</data>
+    </node>
+    <node id="P136423">
+      <data key="title">a new outer bound and the noisy interference sum rate capacity for gaussian interference channels</data>
+    </node>
+    <node id="P135132">
+      <data key="title">error rates of the maximum likelihood detector for arbitrary constellations convex concave behavior and applications</data>
+    </node>
+    <node id="P148456">
+      <data key="title">outage probability in arbitrarily shaped finite wireless networks</data>
+    </node>
+    <node id="P54056">
+      <data key="title">user association for load balancing in heterogeneous cellular networks</data>
+    </node>
+    <node id="P145345">
+      <data key="title">information theoretic capacity of clustered random networks</data>
+    </node>
+    <node id="P39876">
+      <data key="title">interference in lattice networks</data>
+    </node>
+    <node id="P23984">
+      <data key="title">applications of stochastic ordering to wireless communications</data>
+    </node>
+    <node id="P68">
+      <data key="title">stochastic ordering of interferences in large scale wireless networks</data>
+    </node>
+    <node id="P70444">
+      <data key="title">outage local throughput and capacity of random wireless networks</data>
+    </node>
+    <node id="P300">
+      <data key="title">fundamentals of modeling finite wireless networks using binomial point process</data>
+    </node>
+    <node id="P117830">
+      <data key="title">laplace functional ordering of point processes in large scale wireless networks</data>
+    </node>
+    <node id="P159868">
+      <data key="title">performance of interference alignment in clustered wireless ad hoc networks</data>
+    </node>
+    <node id="P10459">
+      <data key="title">a unified fading model using infinitely divisible distributions</data>
+    </node>
+    <edge source="P99312" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87546" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87546" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87546" target="P23984">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87546" target="P161678">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39984" target="P23984">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161678" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161678" target="P300">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157705" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157705" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157705" target="P148456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157705" target="P70444">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157705" target="P159868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42067" target="P23984">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153215" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136423" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136423" target="P159868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135132" target="P23984">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148456" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148456" target="P300">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54056" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145345" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145345" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39876" target="P70444">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39876" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23984" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23984" target="P68">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23984" target="P10459">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68" target="P159868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70444" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P300" target="P117830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117830" target="P159868">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P50028">
+      <data key="title">selling privacy at auction</data>
+    </node>
+    <node id="P5727">
+      <data key="title">individual sensitivity preprocessing for data privacy</data>
+    </node>
+    <node id="P115294">
+      <data key="title">optimal geo indistinguishable mechanisms for location privacy</data>
+    </node>
+    <node id="P62376">
+      <data key="title">differentially private location privacy in practice</data>
+    </node>
+    <node id="P1521">
+      <data key="title">gradual release of sensitive data under differential privacy</data>
+    </node>
+    <node id="P84843">
+      <data key="title">geo indistinguishability differential privacy for location based systems</data>
+    </node>
+    <node id="P153675">
+      <data key="title">jointly private convex programming</data>
+    </node>
+    <node id="P4697">
+      <data key="title">fairness through awareness</data>
+    </node>
+    <node id="P218">
+      <data key="title">diffusing private data over networks</data>
+    </node>
+    <node id="P110226">
+      <data key="title">preserving differential privacy under finite precision semantics</data>
+    </node>
+    <node id="P125106">
+      <data key="title">sok differential privacies</data>
+    </node>
+    <node id="P67291">
+      <data key="title">a learning theory approach to non interactive database privacy</data>
+    </node>
+    <node id="P13123">
+      <data key="title">privacy games optimal user centric data obfuscation</data>
+    </node>
+    <node id="P10270">
+      <data key="title">a survey on federated learning systems vision hype and reality for data privacy and protection</data>
+    </node>
+    <node id="P46025">
+      <data key="title">calibrating data to sensitivity in private data analysis</data>
+    </node>
+    <node id="P54006">
+      <data key="title">on the geometry of differential privacy</data>
+    </node>
+    <node id="P68629">
+      <data key="title">interactive privacy via the median mechanism</data>
+    </node>
+    <node id="P155520">
+      <data key="title">utility optimized local differential privacy mechanisms for distribution estimation</data>
+    </node>
+    <node id="P128435">
+      <data key="title">protecting locations with differential privacy under temporal correlations</data>
+    </node>
+    <node id="P63645">
+      <data key="title">heterogeneous differential privacy</data>
+    </node>
+    <edge source="P50028" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50028" target="P5727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50028" target="P125106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50028" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5727" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5727" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5727" target="P67291">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5727" target="P125106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115294" target="P13123">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115294" target="P84843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115294" target="P4697">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115294" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115294" target="P155520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62376" target="P84843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1521" target="P218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P13123">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P128435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P110226">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P4697">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P54006">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P67291">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P68629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P155520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84843" target="P125106">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153675" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153675" target="P218">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4697" target="P13123">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4697" target="P54006">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4697" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P218" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P218" target="P54006">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110226" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125106" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125106" target="P128435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125106" target="P155520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67291" target="P54006">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67291" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67291" target="P68629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13123" target="P46025">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13123" target="P155520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10270" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46025" target="P128435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54006" target="P128435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54006" target="P68629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155520" target="P63645">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

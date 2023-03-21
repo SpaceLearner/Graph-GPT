@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P43951">
+      <data key="title">robust subspace clustering via tighter rank approximation</data>
+    </node>
+    <node id="P86181">
+      <data key="title">robust subspace recovery via dual sparsity pursuit</data>
+    </node>
+    <node id="P157578">
+      <data key="title">algorithms and hardness for robust subspace recovery</data>
+    </node>
+    <node id="P137621">
+      <data key="title">guess who rated this movie identifying users through subspace clustering</data>
+    </node>
+    <node id="P57200">
+      <data key="title">hybrid linear modeling via local best fit flats</data>
+    </node>
+    <node id="P117911">
+      <data key="title">subspace clustering of dimensionality reduced data</data>
+    </node>
+    <node id="P33208">
+      <data key="title">a new approach to two view motion segmentation using global dimension minimization</data>
+    </node>
+    <node id="P96140">
+      <data key="title">vector field k means clustering trajectories by fitting multiple vector fields</data>
+    </node>
+    <node id="P104655">
+      <data key="title">a geometric analysis of subspace clustering with outliers</data>
+    </node>
+    <node id="P50119">
+      <data key="title">sparse subspace clustering algorithm theory and applications</data>
+    </node>
+    <node id="P116541">
+      <data key="title">exact subspace segmentation and outlier detection by low rank representation</data>
+    </node>
+    <node id="P35199">
+      <data key="title">human motion trajectory prediction a survey</data>
+    </node>
+    <node id="P6780">
+      <data key="title">globally consistent multi people tracking using motion patterns</data>
+    </node>
+    <node id="P382">
+      <data key="title">understanding people flow in transportation hubs</data>
+    </node>
+    <node id="P75667">
+      <data key="title">understanding trajectory behavior a motion pattern approach</data>
+    </node>
+    <node id="P95411">
+      <data key="title">robust recovery of subspace structures by low rank representation</data>
+    </node>
+    <node id="P100703">
+      <data key="title">clustering multi way data a novel algebraic approach</data>
+    </node>
+    <node id="P31">
+      <data key="title">learning transformations for clustering and classification</data>
+    </node>
+    <node id="P157612">
+      <data key="title">filtrated algebraic subspace clustering</data>
+    </node>
+    <node id="P160234">
+      <data key="title">robust subspace clustering via smoothed rank approximation</data>
+    </node>
+    <edge source="P43951" target="P116541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43951" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43951" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43951" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86181" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86181" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86181" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157578" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137621" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P33208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P117911">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117911" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117911" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33208" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33208" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33208" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96140" target="P75667">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P160234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P157612">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P100703">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P116541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P160234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P157612">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P100703">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116541" target="P95411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116541" target="P160234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35199" target="P75667">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6780" target="P75667">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P382" target="P75667">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95411" target="P160234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95411" target="P157612">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95411" target="P100703">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

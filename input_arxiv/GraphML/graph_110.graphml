@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P117804">
+      <data key="title">subset typicality lemmas and improved achievable regions in multiterminal source coding</data>
+    </node>
+    <node id="P136">
+      <data key="title">the deterministic time linearity of service provided by fading channels</data>
+    </node>
+    <node id="P20332">
+      <data key="title">non parametric message important measure storage code design and transmission planning for big data</data>
+    </node>
+    <node id="P70006">
+      <data key="title">location aware ici reduction in mimo ofdm downlinks for high speed railway communication systems</data>
+    </node>
+    <node id="P50504">
+      <data key="title">transmission schemes for four way relaying in wireless cellular systems</data>
+    </node>
+    <node id="P132360">
+      <data key="title">fundamental limits of communications in interference networks part i basic structures</data>
+    </node>
+    <node id="P111221">
+      <data key="title">the two way wiretap channel achievable regions and experimental results</data>
+    </node>
+    <node id="P82160">
+      <data key="title">opportunistic relaying without csi optimizing variable rate harq</data>
+    </node>
+    <node id="P46586">
+      <data key="title">wiflix adaptive video streaming in massive mu mimo wireless networks</data>
+    </node>
+    <node id="P66400">
+      <data key="title">an achievable region for a general multi terminal network and its chain graph representation</data>
+    </node>
+    <node id="P26537">
+      <data key="title">an achievable region for a general multi terminal network and the corresponding chain graph representation</data>
+    </node>
+    <node id="P19888">
+      <data key="title">on the required number of antennas in a point to point large but finite mimo system outage limited scenario</data>
+    </node>
+    <node id="P109846">
+      <data key="title">construction of slepian wolf source code and broadcast channel code based on hash property</data>
+    </node>
+    <node id="P145848">
+      <data key="title">lecture notes on network information theory</data>
+    </node>
+    <node id="P88854">
+      <data key="title">high speed railway wireless communications efficiency versus fairness</data>
+    </node>
+    <node id="P46511">
+      <data key="title">on compress forward without wyner ziv binning for relay networks</data>
+    </node>
+    <node id="P161624">
+      <data key="title">a queueing characterization of information transmission over block fading rayleigh channels in the low snr regime</data>
+    </node>
+    <node id="P18676">
+      <data key="title">state dependent relay channel with private messages with partial causal and non causal channel state information</data>
+    </node>
+    <node id="P127036">
+      <data key="title">message and state cooperation in a relay channel when only the relay knows the state</data>
+    </node>
+    <node id="P86050">
+      <data key="title">control theoretic approach to communication with feedback fundamental limits and code design</data>
+    </node>
+    <edge source="P117804" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136" target="P161624">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136" target="P88854">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136" target="P20332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136" target="P70006">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50504" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132360" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111221" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82160" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46586" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66400" target="P26537">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66400" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26537" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19888" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109846" target="P145848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145848" target="P46511">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145848" target="P86050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145848" target="P127036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145848" target="P18676">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18676" target="P127036">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

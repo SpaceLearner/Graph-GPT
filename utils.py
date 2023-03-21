@@ -24,12 +24,16 @@ def task_handler(task, graph):
         
     return  question, answers
 
-def answer_cleasing(config, answer):
+def answer_cleasing(config, node, answer):
     if config.task == "degree":
         if config.method == "zero_shot" or config.method == "one_shot":
-            pred = re.findall("\d+", answer)[0]
+            pred = re.findall("\d+", answer)
+            pred = [x for x in pred if x != node]
+            pred = pred[0]
         elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
             pred = re.findall("\d+", answer)[-1]
+            pred = [x for x in pred if x != node]
+            pred = pred[-1]
     elif config.task == "hasedge":
         pred = re.findall("yes", answer) + re.findall("Yes", answer)
         if len(pred) > 0:

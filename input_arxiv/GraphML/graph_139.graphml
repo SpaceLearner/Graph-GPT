@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P74075">
+      <data key="title">most tensor problems are np hard</data>
+    </node>
+    <node id="P149780">
+      <data key="title">statistical algorithms and a lower bound for detecting planted clique</data>
+    </node>
+    <node id="P9075">
+      <data key="title">are you going to the party depends who else is coming learning hidden group dynamics via conditional latent tree models</data>
+    </node>
+    <node id="P127153">
+      <data key="title">a method of moments for mixture models and hidden markov models</data>
+    </node>
+    <node id="P98027">
+      <data key="title">efficient coordinate descent for orthogonal matrices through givens rotations</data>
+    </node>
+    <node id="P166316">
+      <data key="title">low distortion inference of latent similarities from a multiplex social network</data>
+    </node>
+    <node id="P94969">
+      <data key="title">clustering partially observed graphs via convex optimization</data>
+    </node>
+    <node id="P117969">
+      <data key="title">a statistical model for tensor pca</data>
+    </node>
+    <node id="P86951">
+      <data key="title">breaking the small cluster barrier of graph clustering</data>
+    </node>
+    <node id="P35253">
+      <data key="title">revisiting the nystrom method for improved large scale machine learning</data>
+    </node>
+    <node id="P39266">
+      <data key="title">finding overlapping communities in social networks toward a rigorous approach</data>
+    </node>
+    <node id="P21289">
+      <data key="title">fast detection of overlapping communities via online tensor methods</data>
+    </node>
+    <node id="P35830">
+      <data key="title">uniqueness of tensor decompositions with applications to polynomial identifiability</data>
+    </node>
+    <node id="P160092">
+      <data key="title">random tensors and planted cliques</data>
+    </node>
+    <node id="P142661">
+      <data key="title">a spectral algorithm for latent dirichlet allocation</data>
+    </node>
+    <node id="P4158">
+      <data key="title">necessary and sufficient conditions and a provably efficient algorithm for separable topic discovery</data>
+    </node>
+    <node id="P73183">
+      <data key="title">successive rank one approximations for nearly orthogonally decomposable symmetric tensors</data>
+    </node>
+    <node id="P2727">
+      <data key="title">dirichlet draws are sparse with high probability</data>
+    </node>
+    <node id="P80963">
+      <data key="title">speeding up sum of squares for tensor decomposition and planted sparse vectors</data>
+    </node>
+    <node id="P179">
+      <data key="title">a tensor approach to learning mixed membership community models</data>
+    </node>
+    <edge source="P74075" target="P35830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74075" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74075" target="P80963">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74075" target="P73183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74075" target="P160092">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149780" target="P160092">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149780" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9075" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127153" target="P35830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127153" target="P98027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127153" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127153" target="P142661">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98027" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98027" target="P142661">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166316" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166316" target="P39266">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94969" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94969" target="P86951">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117969" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117969" target="P80963">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86951" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35253" target="P21289">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35253" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39266" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21289" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35830" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160092" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142661" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142661" target="P80963">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4158" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73183" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2727" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80963" target="P179">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

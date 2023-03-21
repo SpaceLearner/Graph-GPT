@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P50488">
+      <data key="title">detecting overlapping temporal community structure in time evolving networks</data>
+    </node>
+    <node id="P53244">
+      <data key="title">detecting criminal organizations in mobile phone networks</data>
+    </node>
+    <node id="P160277">
+      <data key="title">community detection in networks with node attributes</data>
+    </node>
+    <node id="P14645">
+      <data key="title">community detection using a neighborhood strength driven label propagation algorithm</data>
+    </node>
+    <node id="P2687">
+      <data key="title">fast algorithms for the maximum clique problem on massive graphs with applications to overlapping community detection</data>
+    </node>
+    <node id="P119167">
+      <data key="title">efficiently detecting overlapping communities using seeding and semi supervised learning</data>
+    </node>
+    <node id="P129734">
+      <data key="title">an efficient homophilic model and algorithms for community detection using nash dynamics</data>
+    </node>
+    <node id="P15530">
+      <data key="title">empirical comparison of algorithms for network community detection</data>
+    </node>
+    <node id="P98737">
+      <data key="title">demon a local first discovery method for overlapping communities</data>
+    </node>
+    <node id="P149815">
+      <data key="title">network inference from co occurrences</data>
+    </node>
+    <node id="P1381">
+      <data key="title">fuzzy overlapping community quality metrics</data>
+    </node>
+    <node id="P11786">
+      <data key="title">overlapping community detection in networks the state of the art and comparative study</data>
+    </node>
+    <node id="P33142">
+      <data key="title">overlapping communities in complex networks</data>
+    </node>
+    <node id="P57140">
+      <data key="title">mapping the gnutella network properties of large scale peer to peer systems and implications for system design</data>
+    </node>
+    <node id="P138398">
+      <data key="title">community structure in large networks natural cluster sizes and the absence of large well defined clusters</data>
+    </node>
+    <node id="P87547">
+      <data key="title">slpa uncovering overlapping communities in social networks via a speaker listener interaction dynamic process</data>
+    </node>
+    <node id="P96675">
+      <data key="title">overlapping communities in social networks</data>
+    </node>
+    <node id="P114786">
+      <data key="title">towards linear time overlapping community detection in social networks</data>
+    </node>
+    <node id="P284">
+      <data key="title">secure friend discovery via privacy preserving and decentralized community detection</data>
+    </node>
+    <node id="P133787">
+      <data key="title">efficient and principled method for detecting communities in networks</data>
+    </node>
+    <edge source="P50488" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53244" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160277" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160277" target="P98737">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14645" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14645" target="P87547">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14645" target="P114786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2687" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119167" target="P133787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119167" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119167" target="P87547">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129734" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129734" target="P87547">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15530" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15530" target="P138398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98737" target="P284">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149815" target="P284">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1381" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1381" target="P114786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P33142">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P96675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P57140">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P133787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P87547">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P138398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P114786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P284">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57140" target="P138398">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>
