@@ -2,7 +2,7 @@ import networkx as nx
 import re
 import math
 
-def task_handler(task, graph):
+def task_handler(task, graph, config=None):
     
     if task == "size":
         answers = [str(graph.number_of_nodes()), str(graph.number_of_edges())]
@@ -13,6 +13,12 @@ def task_handler(task, graph):
     elif task == "hasedge":
         answers   = ["1"] * 10 + ["0"] * 10
         question  = "" 
+    elif task == "hasattr":
+        if config.dataset == "Aminer":
+            # for node, data in graph.nodes(data=True):
+            #     print(data)
+            answers = [data["affiliation"] for node, data in graph.nodes(data=True)]
+            question = "The affiliation of "
     elif task == "clustering":
        #  print(nx.clustering(graph)))
         answers = [str(round(v, 2)) for e, v in nx.clustering(graph).items()]
@@ -24,15 +30,19 @@ def task_handler(task, graph):
         
     return  question, answers
 
-def answer_cleasing(config, node, answer):
+def answer_cleasing(config, node, answer, groud_truth=None):
     if config.task == "degree":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall("\d+", answer)
             pred = [x for x in pred if x != node]
+            if len(pred) == 0:
+                pred = [0]
             pred = pred[0]
         elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
             pred = re.findall("\d+", answer)[-1]
             pred = [x for x in pred if x != node]
+            if len(pred) == 0:
+                pred = [0]
             pred = pred[-1]
     elif config.task == "hasedge":
         pred = re.findall("yes", answer) + re.findall("Yes", answer)
@@ -40,6 +50,11 @@ def answer_cleasing(config, node, answer):
             pred = "1"
         else:
             pred = "0"
+    elif config.task == "hasattr":
+        if answer in groud_truth:
+            pred = answer
+        else:
+            pred = ""
         
     elif config.task == "clustering":
         # print(answer)
@@ -76,11 +91,15 @@ def answer_cleasing(config, node, answer):
             pred = re.findall("\d+", answer)[-2:]
     return pred
 
-def evaluate(preds, answer):
+def evaluate(preds, answer, match=False):
     cnt = 0
     for pred, answer in zip(preds, answer):
-        if round(float(pred), 2) == round(float(answer), 2):
-           cnt += 1
+        if match:
+            if pred == answer:
+                cnt += 1
+        else:
+            if round(float(pred), 2) == round(float(answer), 2):
+                cnt += 1
     if len(preds) == 0:
         return 0.0
     return cnt / len(preds) 

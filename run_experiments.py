@@ -45,11 +45,11 @@ def GPT(data):
     headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
     response  = requests.post(url=url, headers=headers, data=json.dumps(data))
     response  = json.loads(response.text)
-    print(response)
+    # print(response)
     if "choices" not in response:
         raise Exception("Response Exception. ")
     answer    = response["choices"][0]["text"].strip()
-    print(answer)
+     #print(answer)
     return answer
 
 def main(config, seed=0):
@@ -89,6 +89,8 @@ def main(config, seed=0):
             example = "For example, a node has degree of x if there are x edges (or other nodes) connecting to it. \n"
         elif config.task == "hasedge":
             example = "For example, node A and node B are connected if there is an edge between them in this graph. However, node A and node B is not connected if there is  no edge between them in this graph. \n"
+        elif config.task == "hasattr":
+            example = "For example, node A has affiliation Stanford University if Stanford University is the attribute value of affiliation of node A. "
         elif config.task == "size":
             example = "For example, the number of nodes is 16 and the number of edges is 32 if a graph have 16 nodes and 32 edges. \n"
         elif config.task == "clustering":
@@ -101,13 +103,14 @@ def main(config, seed=0):
     # print(example)
     accs = []
     for _ in tqdm(range(1)):
-        for idx, seed in tqdm(enumerate(range(200))):
+        for idx, seed in tqdm(enumerate(range(50))):
             graph_file = os.path.join(prefix, "graph_"+str(seed)+postfix)
             with open(graph_file, "r") as fp:
                 graph = fp.read()
             graph_nx = reader(graph_file)
+            # print(graph_nx["Prabhakar M. Koushik"])
                 
-            question_head, true_answer = task_handler(config.task, graph_nx)
+            question_head, true_answer = task_handler(config.task, graph_nx, config)
             # print(question, answer)
             # print(question_head, true_answer)
             if config.task == "size":
@@ -137,9 +140,7 @@ def main(config, seed=0):
                     else:
                         data["prompt"] = instructer + graph + example + question + tail
                 
-                    response   = GPT(data)
-                    print(json.loads(response.text))
-                    answer     = json.loads(response.text)["choices"][0]["text"].strip()
+                    answer   = GPT(data)
                     pred       = answer_cleasing(config, None, answer)
                     predictions.append(pred)
                 print(predictions, true_answer)
@@ -179,12 +180,11 @@ def main(config, seed=0):
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
                 
-            elif config.task == "clustering":
+            elif config.task == "hasattr":
                 
                 predictions = []
-                # print(graph_nx)
                 for node in graph_nx:
-                    question = question_head + str(node) + " is? \n"
+                    question = question_head + str(node) + " is ?\n"
                     # print(question)
                     if config.change_order:
                         data["prompt"] = instructer + example + question + tail + graph 
@@ -192,12 +192,11 @@ def main(config, seed=0):
                         data["prompt"] = instructer + graph + example + question + tail
                 
                     answer   = GPT(data)
-                    # print(json.loads(response.text))
-                    pred       = answer_cleasing(config, None, answer)
+                    pred       = answer_cleasing(config, None, answer, groud_truth=true_answer)
                     predictions.append(pred)
-                    # time.sleep(5)
-                print(predictions, true_answer)
-                acc = evaluate(predictions, true_answer)
+                # print(predictions, true_answer)
+                acc = evaluate(predictions, true_answer, match=True)
+                print(acc)
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
                 
@@ -221,6 +220,30 @@ def main(config, seed=0):
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
+                
+            elif config.task == "clustering":
+                
+                predictions = []
+                # print(graph_nx)
+                for node in graph_nx:
+                    question = question_head + str(node) + " is? \n"
+                    # print(question)
+                    if config.change_order:
+                        data["prompt"] = instructer + example + question + tail + graph 
+                    else:
+                        data["prompt"] = instructer + graph + example + question + tail
+                
+                    answer   = GPT(data)
+                    # print(json.loads(response.text))
+                    pred       = answer_cleasing(config, None, answer)
+                    predictions.append(pred)
+                    # time.sleep(5)
+                print(predictions, true_answer)
+                acc = evaluate(predictions, true_answer)
+                accs.append(acc)
+                wandb.log({"epoch_acc": acc})
+                
+            
                     
     accs = np.array(accs)
     print(np.mean(accs), np.std(accs))
