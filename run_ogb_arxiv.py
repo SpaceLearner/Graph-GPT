@@ -158,7 +158,7 @@ def main(config, seed=0):
                         data["prompt"] = instructer + graph + example + question + tail
                 
                     answer   = GPT(data)
-                    pred       = answer_cleasing(config, answer)
+                    pred       = answer_cleasing(config, None, answer)
                     predictions.append(pred)
                 graph_nx_com = nx.complement(graph_nx)
                 for edge in list(graph_nx_com.edges())[:10]:
@@ -171,7 +171,7 @@ def main(config, seed=0):
                 
                     answer   = GPT(data)
                     
-                    pred       = answer_cleasing(config, answer)
+                    pred       = answer_cleasing(config, None, answer)
                     predictions.append(pred)
                 print(predictions, true_answer)
                 acc = evaluate(predictions, true_answer)
