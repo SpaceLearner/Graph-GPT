@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P150087">
+      <data key="title">alignment based translations across formal systems using interface theories</data>
+    </node>
+    <node id="P36541">
+      <data key="title">big math and the one brain barrier a position paper and architecture proposal</data>
+    </node>
+    <node id="P31307">
+      <data key="title">the mmt api a generic mkm system</data>
+    </node>
+    <node id="P26327">
+      <data key="title">rapid prototyping formal systems in mmt 5 case studies</data>
+    </node>
+    <node id="P19957">
+      <data key="title">spreadsheet auditing software</data>
+    </node>
+    <node id="P154964">
+      <data key="title">a logic independent ide</data>
+    </node>
+    <node id="P86">
+      <data key="title">towards ontological support for principle solutions in mechanical engineering</data>
+    </node>
+    <node id="P130982">
+      <data key="title">xlsearch a search engine for spreadsheets</data>
+    </node>
+    <node id="P82117">
+      <data key="title">spreadsheet errors what we know what we think we can do</data>
+    </node>
+    <node id="P52809">
+      <data key="title">realms a structure for consolidating knowledge about mathematical theories</data>
+    </node>
+    <node id="P149181">
+      <data key="title">towards mkm in the large modular representation and scalable software architecture</data>
+    </node>
+    <node id="P69829">
+      <data key="title">formalizing mathematical knowledge as a biform theory graph a case study</data>
+    </node>
+    <node id="P1407">
+      <data key="title">theory presentation combinators</data>
+    </node>
+    <node id="P4120">
+      <data key="title">translating hol to dedukti</data>
+    </node>
+    <node id="P28766">
+      <data key="title">a universal machine for biform theory graphs</data>
+    </node>
+    <node id="P155087">
+      <data key="title">interoperability in the opendreamkit project the math in the middle approach</data>
+    </node>
+    <node id="P164884">
+      <data key="title">a scalable module system</data>
+    </node>
+    <node id="P120213">
+      <data key="title">a definitional implementation of the lax logical framework llfp in coq for supporting fast and loose reasoning</data>
+    </node>
+    <node id="P92539">
+      <data key="title">building on the diamonds between theories theory presentation combinators</data>
+    </node>
+    <node id="P96269">
+      <data key="title">stexide an integrated development environment for stex collections</data>
+    </node>
+    <edge source="P150087" target="P155087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150087" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150087" target="P52809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36541" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31307" target="P154964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31307" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31307" target="P149181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31307" target="P28766">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31307" target="P26327">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26327" target="P1407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26327" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26327" target="P92539">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19957" target="P130982">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154964" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130982" target="P82117">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130982" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52809" target="P1407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52809" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52809" target="P149181">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149181" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149181" target="P96269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69829" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1407" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1407" target="P92539">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4120" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28766" target="P155087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28766" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155087" target="P164884">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164884" target="P96269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164884" target="P120213">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164884" target="P92539">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

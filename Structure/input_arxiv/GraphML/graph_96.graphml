@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P50488">
+      <data key="title">detecting overlapping temporal community structure in time evolving networks</data>
+    </node>
+    <node id="P119">
+      <data key="title">a regularized graph layout framework for dynamic network visualization</data>
+    </node>
+    <node id="P46591">
+      <data key="title">dynamic stochastic blockmodels statistical models for time evolving networks</data>
+    </node>
+    <node id="P123154">
+      <data key="title">duality between temporal networks and signals extraction of the temporal network structures</data>
+    </node>
+    <node id="P78066">
+      <data key="title">operational framework for recent advances in backtracking search optimisation algorithm a systematic review and performance evaluation</data>
+    </node>
+    <node id="P94605">
+      <data key="title">evolutionary self expressive models for subspace clustering</data>
+    </node>
+    <node id="P61477">
+      <data key="title">stream graphs and link streams for the modeling of interactions over time</data>
+    </node>
+    <node id="P91049">
+      <data key="title">information spreading in stationary markovian evolving graphs</data>
+    </node>
+    <node id="P113360">
+      <data key="title">dynamic clustering via asymptotics of the dependent dirichlet process mixture</data>
+    </node>
+    <node id="P80881">
+      <data key="title">objective criteria for the evaluation of clustering methods</data>
+    </node>
+    <node id="P63693">
+      <data key="title">adaptive evolutionary clustering</data>
+    </node>
+    <node id="P7828">
+      <data key="title">dynamic stochastic blockmodels for time evolving social networks</data>
+    </node>
+    <node id="P79347">
+      <data key="title">lstm assisted evolutionary self expressive subspace clustering</data>
+    </node>
+    <node id="P12769">
+      <data key="title">discrete signal processing on graphs frequency analysis</data>
+    </node>
+    <node id="P75741">
+      <data key="title">multi layer graph analysis for dynamic social networks</data>
+    </node>
+    <node id="P47283">
+      <data key="title">a tutorial on spectral clustering</data>
+    </node>
+    <node id="P135708">
+      <data key="title">online collection and forecasting of resource utilization in large scale distributed systems</data>
+    </node>
+    <node id="P16955">
+      <data key="title">time varying graphs and dynamic networks</data>
+    </node>
+    <node id="P127087">
+      <data key="title">ged the method for group evolution discovery in social networks</data>
+    </node>
+    <node id="P42623">
+      <data key="title">the emerging field of signal processing on graphs extending high dimensional data analysis to networks and other irregular domains</data>
+    </node>
+    <edge source="P50488" target="P123154">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119" target="P63693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119" target="P123154">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46591" target="P7828">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46591" target="P75741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46591" target="P123154">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46591" target="P61477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123154" target="P42623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123154" target="P12769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123154" target="P91049">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123154" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123154" target="P61477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78066" target="P63693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94605" target="P63693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94605" target="P127087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94605" target="P79347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113360" target="P63693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80881" target="P63693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P127087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P7828">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P75741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P135708">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63693" target="P79347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12769" target="P42623">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75741" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47283" target="P42623">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

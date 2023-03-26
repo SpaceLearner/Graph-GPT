@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P115548">
+      <data key="title">a tidy data model for natural language processing using cleannlp</data>
+    </node>
+    <node id="P117722">
+      <data key="title">image analysis enhanced event detection from geo tagged tweet streams</data>
+    </node>
+    <node id="P14881">
+      <data key="title">bb_twtr at semeval 2017 task 4 twitter sentiment analysis with cnns and lstms</data>
+    </node>
+    <node id="P155202">
+      <data key="title">baselines and test data for cross lingual inference</data>
+    </node>
+    <node id="P120664">
+      <data key="title">towards sub word level compositions for sentiment analysis of hindi english code mixed text</data>
+    </node>
+    <node id="P70638">
+      <data key="title">nonsymbolic text representation</data>
+    </node>
+    <node id="P120698">
+      <data key="title">unsupervised learning of sentence embeddings using compositional n gram features</data>
+    </node>
+    <node id="P150009">
+      <data key="title">poincar e embeddings for learning hierarchical representations</data>
+    </node>
+    <node id="P1659">
+      <data key="title">a simple and accurate syntax agnostic neural model for dependency based semantic role labeling</data>
+    </node>
+    <node id="P45412">
+      <data key="title">bridging the gap a semantic similarity measure between queries and documents</data>
+    </node>
+    <node id="P145">
+      <data key="title">fusing text and image for event detection in twitter</data>
+    </node>
+    <node id="P106189">
+      <data key="title">fuzzy paraphrases in learning word representations with a lexicon</data>
+    </node>
+    <node id="P14898">
+      <data key="title">tableqa question answering on tabular data</data>
+    </node>
+    <node id="P40159">
+      <data key="title">enriching complex networks with word embeddings for detecting mild cognitive impairment from speech transcripts</data>
+    </node>
+    <node id="P28086">
+      <data key="title">using word embeddings in twitter election classification</data>
+    </node>
+    <node id="P124687">
+      <data key="title">conceptnet at semeval 2017 task 2 extending word embeddings with multilingual relational knowledge</data>
+    </node>
+    <node id="P68692">
+      <data key="title">enriching word vectors with subword information</data>
+    </node>
+    <node id="P160440">
+      <data key="title">vicom benchmark and methods for video comprehension</data>
+    </node>
+    <node id="P160518">
+      <data key="title">a survey of neural network techniques for feature extraction from text</data>
+    </node>
+    <node id="P23660">
+      <data key="title">multi spatial scale event detection from geo tagged tweet streams via power law verification</data>
+    </node>
+    <edge source="P115548" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117722" target="P145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117722" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117722" target="P23660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14881" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155202" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120664" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70638" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120698" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150009" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1659" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45412" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106189" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14898" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40159" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28086" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124687" target="P68692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68692" target="P160440">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68692" target="P160518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68692" target="P23660">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

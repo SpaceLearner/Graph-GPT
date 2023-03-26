@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P23943">
+      <data key="title">community detection and tracking on networks from a data fusion perspective</data>
+    </node>
+    <node id="P206">
+      <data key="title">a classification for community discovery methods in complex networks</data>
+    </node>
+    <node id="P24013">
+      <data key="title">identification of group changes in blogosphere</data>
+    </node>
+    <node id="P168392">
+      <data key="title">the ground truth about metadata and community detection in networks</data>
+    </node>
+    <node id="P31867">
+      <data key="title">clustering evolving networks</data>
+    </node>
+    <node id="P62748">
+      <data key="title">community discovery in dynamic networks a survey</data>
+    </node>
+    <node id="P104555">
+      <data key="title">detecting change points in the large scale structure of evolving networks</data>
+    </node>
+    <node id="P46564">
+      <data key="title">a real time detecting algorithm for tracking community structure of dynamic networks</data>
+    </node>
+    <node id="P17516">
+      <data key="title">predicting community evolution in social networks</data>
+    </node>
+    <node id="P11903">
+      <data key="title">on the evaluation potential of quality functions in community detection for different contexts</data>
+    </node>
+    <node id="P76">
+      <data key="title">using multiple criteria methods to evaluate community partitions</data>
+    </node>
+    <node id="P20076">
+      <data key="title">sequential detection of temporal communities by estrangement confinement</data>
+    </node>
+    <node id="P106144">
+      <data key="title">generative benchmark models for mesoscale structures in multilayer networks</data>
+    </node>
+    <node id="P11786">
+      <data key="title">overlapping community detection in networks the state of the art and comparative study</data>
+    </node>
+    <node id="P7828">
+      <data key="title">dynamic stochastic blockmodels for time evolving social networks</data>
+    </node>
+    <node id="P212">
+      <data key="title">labelrank a stabilized label propagation algorithm for community detection in networks</data>
+    </node>
+    <node id="P10493">
+      <data key="title">real time discovery of dense clusters in highly dynamic graphs identifying real world events in highly dynamic environments</data>
+    </node>
+    <node id="P62523">
+      <data key="title">community detection via local dynamic interaction</data>
+    </node>
+    <node id="P152439">
+      <data key="title">enumerating maximal cliques in temporal graphs</data>
+    </node>
+    <node id="P127087">
+      <data key="title">ged the method for group evolution discovery in social networks</data>
+    </node>
+    <edge source="P23943" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24013" target="P127087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24013" target="P17516">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24013" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168392" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31867" target="P10493">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31867" target="P212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31867" target="P62748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P46564">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P76">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P104555">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P7828">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P11786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P127087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P10493">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P62523">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P20076">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P11903">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P17516">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P152439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62748" target="P106144">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17516" target="P127087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11786" target="P212">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

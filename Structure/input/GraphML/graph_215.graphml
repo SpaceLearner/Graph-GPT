@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Douglas Thain">
+      <data key="affiliation">University of Notre, Dame</data>
+      <data key="research">data diffusion, data management, file system</data>
+    </node>
+    <node id="Jamie MacLennan">
+      <data key="affiliation">Microsoft SQL Server Data Mining, Redmond, WA</data>
+      <data key="research">Data Mining, Microsoft SQL Server, OLE DB</data>
+    </node>
+    <node id="Valeriu Beiu">
+      <data key="affiliation">College of Information Technology, UAE University, Al Ain, UAE and School of Intelligent Systems, University of Ulster, Magee, UK</data>
+      <data key="research">threshold logic gate, neural network, classification problem</data>
+    </node>
+    <node id="Zhao Hui Tang">
+      <data key="affiliation">Microsoft Corporation, Redmond, WA</data>
+      <data key="research">Data Mining, OLE DB, Microsoft SQL Server</data>
+    </node>
+    <node id="Eric Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">document collection, Context Technique, document content</data>
+    </node>
+    <node id="Badi' Abdul-Wahid">
+      <data key="affiliation">University of Notre Dame, Notre Dame, IN 46656</data>
+      <data key="research">Fuzzy ARTMAP, Fuzzy ARTMAP rule extraction, Microsoft Azure</data>
+    </node>
+    <node id="Bogdan Crivat">
+      <data key="affiliation">Microsoft Corporation, Redmond, WA</data>
+      <data key="research">Microsoft SQL Server, data mining, ATL Server High Performance</data>
+    </node>
+    <node id="Jan Borchers">
+      <data key="affiliation">ETH Zentrum, Department of Computer Science, Switzerland</data>
+      <data key="research">pattern language, user study, user input</data>
+    </node>
+    <node id="Teresa Marrin Nakra">
+      <data key="affiliation">Department of Music, The College of New Jersey, Ewing, NJ</data>
+      <data key="research">computer science, Immersion Music, Multidisciplinary computer science</data>
+    </node>
+    <node id="Eric Darve">
+      <data key="affiliation">Mechanics and Computation division, 262 Durand building, Room 265 Stanford, CA and Mechanical Engineering Department, Stanford University, Stanford, CA</data>
+      <data key="research">fast multipole method, sparse matrix, fast algorithm</data>
+    </node>
+    <node id="Jesus A Izaguirre">
+      <data key="affiliation">Department of Computer Science and Engineering,</data>
+      <data key="research">molecular dynamic, domain interaction, multiple time</data>
+    </node>
+    <node id="Thomas Whalen">
+      <data key="affiliation">Communications Research Centre</data>
+      <data key="research">system feature, order model, computer system</data>
+    </node>
+    <node id="Li Yu">
+      <data key="affiliation">UNC Charlotte, Charlotte, NC</data>
+      <data key="research">joint decision-making, collaborative analysis, collaborative detection</data>
+    </node>
+    <node id="A. Chronopoulos">
+      <data key="affiliation">Department of Computer Science, University of Texas at San Antonio, 6900 N. Loop 1604 West, San Antonio, TX</data>
+      <data key="research">load balancing, heterogeneous computer, synchronization frequency</data>
+    </node>
+    <node id="S. Aunet">
+      <data key="affiliation">Department of Computer and Information Science, Norwegian University of Science and Technology, Trondheim, Norway</data>
+      <data key="research">supply voltage, power consumption, low power</data>
+    </node>
+    <node id="Daniel Grosu">
+      <data key="affiliation">Nan</data>
+      <data key="research">low liquidity, proposed LOB design, self-managed LOB bank</data>
+    </node>
+    <node id="Laszlo Bardos">
+      <data key="affiliation">RWTH Aachen University, Aachen, Germany</data>
+      <data key="research">distal action effect, sensorimotor transformation, action control</data>
+    </node>
+    <node id="Dinesh Rajan">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Sarah Abdul-Wahid">
+      <data key="affiliation">Computer Science Department, Central Washington University, Ellensburg</data>
+      <data key="research">Biological Activity, small training set, Fuzzy ARTMAP</data>
+    </node>
+    <node id="Razvan Andonie">
+      <data key="affiliation">Central Washington University, Ellensburg and Transylvania University of Braşov, Romania</data>
+      <data key="research">Fuzzy ARTMAP, Relevance factor, small training set</data>
+    </node>
+    <edge source="Douglas Thain" target="Dinesh Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Thain" target="Li Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Thain" target="Badi' Abdul-Wahid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Thain" target="Eric Darve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas Thain" target="Jesus A Izaguirre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jamie MacLennan" target="Bogdan Crivat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jamie MacLennan" target="Zhao Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Valeriu Beiu" target="S. Aunet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Valeriu Beiu" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhao Hui Tang" target="Bogdan Crivat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lee" target="Jan Borchers">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lee" target="Teresa Marrin Nakra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lee" target="Thomas Whalen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lee" target="Laszlo Bardos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lee" target="Bogdan Crivat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Eric Darve">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Jesus A Izaguirre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Dinesh Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Li Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Bogdan Crivat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badi' Abdul-Wahid" target="Sarah Abdul-Wahid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bogdan Crivat" target="Sarah Abdul-Wahid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bogdan Crivat" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Borchers" target="Teresa Marrin Nakra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Borchers" target="Laszlo Bardos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Darve" target="Dinesh Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Darve" target="Jesus A Izaguirre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Darve" target="Li Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jesus A Izaguirre" target="Li Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jesus A Izaguirre" target="Dinesh Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Yu" target="Dinesh Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Chronopoulos" target="Daniel Grosu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Chronopoulos" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Aunet" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Grosu" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sarah Abdul-Wahid" target="Razvan Andonie">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P115102">
+      <data key="title">a tutorial on learning with bayesian networks</data>
+    </node>
+    <node id="P125593">
+      <data key="title">human action recognition and assessment via deep neural network self organization</data>
+    </node>
+    <node id="P149735">
+      <data key="title">affect intensity estimation using multiple modalities</data>
+    </node>
+    <node id="P112833">
+      <data key="title">multimodal affect analysis for product feedback assessment</data>
+    </node>
+    <node id="P87656">
+      <data key="title">augmenting supervised emotion recognition with rule based decision model</data>
+    </node>
+    <node id="P167064">
+      <data key="title">edge based grid super imposition for crowd emotion recognition</data>
+    </node>
+    <node id="P79777">
+      <data key="title">aggressive actions and anger detection from multiple modalities using kinect</data>
+    </node>
+    <node id="P70640">
+      <data key="title">dynamic probabilistic network based human action recognition</data>
+    </node>
+    <node id="P335">
+      <data key="title">code definition analysis for call graph generation</data>
+    </node>
+    <node id="P107486">
+      <data key="title">automated prediction of temporal relations</data>
+    </node>
+    <node id="P87673">
+      <data key="title">multimodal affect recognition using kinect</data>
+    </node>
+    <node id="P43351">
+      <data key="title">learning the structure of dynamic probabilistic networks</data>
+    </node>
+    <node id="P10559">
+      <data key="title">learning semantic script knowledge with event embeddings</data>
+    </node>
+    <node id="P151652">
+      <data key="title">embedded implementation of a deep learning smile detector</data>
+    </node>
+    <node id="P46693">
+      <data key="title">learning sentence internal temporal relations</data>
+    </node>
+    <node id="P58923">
+      <data key="title">survey on emotional body gesture recognition</data>
+    </node>
+    <node id="P90180">
+      <data key="title">unstructured human activity detection from rgbd images</data>
+    </node>
+    <edge source="P115102" target="P70640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125593" target="P90180">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125593" target="P87673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P79777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P107486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P87673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P167064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P70640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149735" target="P112833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112833" target="P79777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112833" target="P87673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112833" target="P167064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112833" target="P70640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112833" target="P151652">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87656" target="P107486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87656" target="P167064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87656" target="P70640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87656" target="P58923">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167064" target="P107486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167064" target="P87673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167064" target="P70640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167064" target="P335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79777" target="P107486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70640" target="P90180">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70640" target="P43351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107486" target="P46693">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107486" target="P10559">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

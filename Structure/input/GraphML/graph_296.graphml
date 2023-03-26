@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ma Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">decision data, centroid point, comprehensive satisfaction evaluation</data>
+    </node>
+    <node id="Zhang Yong-mei">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fuzzy Adaptive Particle Swarm, state space, adaptive particle swarm optimization</data>
+    </node>
+    <node id="Zhao Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Cue-induced EEG, primary addiction group, re-addiction group</data>
+    </node>
+    <node id="Zhou Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">debris flow, scenic spot, debris flow source area</data>
+    </node>
+    <node id="Zhang Jun">
+      <data key="affiliation">Nan</data>
+      <data key="research">Range Side-Lobe Suppression, frequency radar, off-line computation</data>
+    </node>
+    <node id="Yuan Chun">
+      <data key="affiliation">Laboratory of Mesoscopic Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing, China</data>
+      <data key="research">volatile nitrosamines, copper oxide, metal oxide</data>
+    </node>
+    <node id="Kong Lifang">
+      <data key="affiliation">Nan</data>
+      <data key="research">automobile engine, engine performance, single model</data>
+    </node>
+    <node id="Cao Ming-hua">
+      <data key="affiliation">Nan</data>
+      <data key="research">Ochotona curzoniae, image restoration, image acquisition</data>
+    </node>
+    <node id="Lin Ying">
+      <data key="affiliation">Nan</data>
+      <data key="research">IT industry, Higher Education, IT IndustryFor</data>
+    </node>
+    <node id="Yi-Lin Liu">
+      <data key="affiliation">National Chengchi University, Taipei, Taiwan 11623, ROC</data>
+      <data key="research">message protocol, MUVE system, animation example</data>
+    </node>
+    <node id="Yue Meng">
+      <data key="affiliation">Nan</data>
+      <data key="research">attack pulse, cross-correlation algorithm, Flow Aggregation</data>
+    </node>
+    <node id="Zhang Lei">
+      <data key="affiliation">Nan</data>
+      <data key="research">overall development path, overall development status, scientific development process</data>
+    </node>
+    <node id="Zhang Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">independency neural network, citizen education investment, economy system neural network</data>
+    </node>
+    <node id="Yang Mei">
+      <data key="affiliation">Nan</data>
+      <data key="research">human resource, human resources supply forecasting, RBF Neural Network</data>
+    </node>
+    <node id="Fan Min">
+      <data key="affiliation">Nan</data>
+      <data key="research">linear property, linear segmentation technique, flood season</data>
+    </node>
+    <node id="Wu Jian">
+      <data key="affiliation">School of Mechanical and Electrical Engineering, Guizhou Normal University, Guiyang, Guizhou, China</data>
+      <data key="research">fly ash, boiler combustion efficiency, coal-fired boiler</data>
+    </node>
+    <node id="Wang Lu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Parallel Algorithm, Salient Features Extraction, real-time requirement</data>
+    </node>
+    <node id="Ma Lan">
+      <data key="affiliation">Nan</data>
+      <data key="research">attack pulse, cross-correlation algorithm, Flow Aggregation</data>
+    </node>
+    <node id="Yu Wei">
+      <data key="affiliation">Nan</data>
+      <data key="research">current design, rating life, optimized design</data>
+    </node>
+    <node id="Li Tong">
+      <data key="affiliation">Nan</data>
+      <data key="research">dynamic software evolution method, software evolution, software evolution objective</data>
+    </node>
+    <edge source="Ma Li" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ma Li" target="Zhang Yong-mei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yong-mei" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhao Xu" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhao Xu" target="Zhou Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhou Yan" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Jun" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Jun" target="Zhang Lei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan Chun" target="Fan Min">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan Chun" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kong Lifang" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cao Ming-hua" target="Lin Ying">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cao Ming-hua" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Ying" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Ying" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Ying" target="Li Tong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi-Lin Liu" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Meng" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yue Meng" target="Wang Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Lei" target="Zhang Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yan" target="Wu Jian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yan" target="Yu Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yan" target="Fan Min">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yan" target="Yang Mei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhang Yan" target="Li Tong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Lu" target="Ma Lan">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P114018">
+      <data key="title">minimax rates of entropy estimation on large alphabets via best polynomial approximation</data>
+    </node>
+    <node id="P90088">
+      <data key="title">semantically secure coding scheme achieving the capacity of a gaussian wiretap channel</data>
+    </node>
+    <node id="P72703">
+      <data key="title">minimax estimation of functionals of discrete distributions</data>
+    </node>
+    <node id="P131322">
+      <data key="title">minimax rate optimal estimation of divergences between discrete distributions</data>
+    </node>
+    <node id="P96796">
+      <data key="title">maximum likelihood estimation of functionals of discrete distributions</data>
+    </node>
+    <node id="P25737">
+      <data key="title">active distribution learning from indirect samples</data>
+    </node>
+    <node id="P4908">
+      <data key="title">multiple source adaptation and the renyi divergence</data>
+    </node>
+    <node id="P141827">
+      <data key="title">demystifying fixed k nearest neighbor information estimators</data>
+    </node>
+    <node id="P9906">
+      <data key="title">testing closeness of discrete distributions</data>
+    </node>
+    <node id="P15320">
+      <data key="title">information theory of dna shotgun sequencing</data>
+    </node>
+    <node id="P71744">
+      <data key="title">universal outlying sequence detection for continuous observations</data>
+    </node>
+    <node id="P296">
+      <data key="title">minimax estimation of kl divergence between discrete distributions</data>
+    </node>
+    <node id="P60710">
+      <data key="title">sketching and streaming entropy via approximation theory</data>
+    </node>
+    <node id="P38936">
+      <data key="title">minimax optimal additive functional estimation with discrete distribution slow divergence speed case</data>
+    </node>
+    <node id="P139647">
+      <data key="title">efficient profile maximum likelihood for universal symmetric property estimation</data>
+    </node>
+    <node id="P140253">
+      <data key="title">justification of logarithmic loss via the benefit of side information</data>
+    </node>
+    <node id="P168908">
+      <data key="title">guessing revisited a large deviations approach</data>
+    </node>
+    <node id="P90361">
+      <data key="title">estimation of kl divergence optimal minimax rate</data>
+    </node>
+    <node id="P96341">
+      <data key="title">3d assisted image feature synthesis for novel views of an object</data>
+    </node>
+    <node id="P98796">
+      <data key="title">the complexity of estimating r enyi entropy</data>
+    </node>
+    <edge source="P114018" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P96796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P72703">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P141827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P131322">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P38936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P139647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114018" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90088" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P96796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P141827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P38936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P139647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72703" target="P296">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131322" target="P96796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131322" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131322" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131322" target="P38936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96796" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96796" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96796" target="P38936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96796" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25737" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4908" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141827" target="P140253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141827" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9906" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15320" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71744" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P296" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P296" target="P90361">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P296" target="P139647">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60710" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38936" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140253" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168908" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96341" target="P98796">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

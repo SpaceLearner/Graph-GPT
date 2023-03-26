@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Junji Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">imperfect information game, Monte Carlo computer Daihinmin, Monte Carlo search</data>
+    </node>
+    <node id="Harumi Ito">
+      <data key="affiliation">Toyota Motor Corporation</data>
+      <data key="research">radio range requirement, UHF radio propagation, radio propagation characteristic</data>
+    </node>
+    <node id="Etsuji Tomita">
+      <data key="affiliation">Department of Information and Communication Engineering, Faculty of ElectroCommunications, The University of ElectroCommunications, Chofu, Tokyo, Japan</data>
+      <data key="research">mathcal L, mathcal X, mathcal C</data>
+    </node>
+    <node id="Tetsuro Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">Polynomial-Time Algorithm, real-time droct, deterministic pushdown transducers</data>
+    </node>
+    <node id="Hisakazu Ogura">
+      <data key="affiliation">Department of Human and Artificial Intelligent Systems, Faculty of Engineering, Fukui University, 391 Bunkyo, Fukui 9108507, Japan</data>
+      <data key="research">chaotic neural network, memory pattern, memory pattern fragment</data>
+    </node>
+    <node id="Tadashi Yamazaki">
+      <data key="affiliation">Nan</data>
+      <data key="research">motor primitive, hobby-use humanoid robot, joint angle</data>
+    </node>
+    <node id="Hiroki Shimora">
+      <data key="affiliation">Information Technology Research Institute, AIST, Japan</data>
+      <data key="research">optimal mixed strategy, certain global CRS, global CRS</data>
+    </node>
+    <node id="Kensei Tsuchida">
+      <data key="affiliation">Toyo Univ., Saitama, Japan</data>
+      <data key="research">tree-structured diagram, attribute graph grammar, base model</data>
+    </node>
+    <node id="Jun Sese">
+      <data key="affiliation">Nan</data>
+      <data key="research">gene group, abnormal phenotypes, gene network</data>
+    </node>
+    <node id="Junichi Akita">
+      <data key="affiliation">Nan</data>
+      <data key="research">Deep Layer Muscle Activity, deep layer muscle, muscle fiber</data>
+    </node>
+    <node id="Takashi Mihara">
+      <data key="affiliation">Department of Management Science, Kyushu Tokai University, 911 Toroku, Kumamoto 8628652, Japan</data>
+      <data key="research">quantum cryptosystems, polynomial time quantum algorithm, quantum secret key distribution</data>
+    </node>
+    <node id="Koji Yamamoto">
+      <data key="affiliation">Kyoto University, Kyoto, Japan</data>
+      <data key="research">low-priority system, high-priority system, joint decoding</data>
+    </node>
+    <node id="Xuan Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">cluster system load balancing, constructs load, load balancing</data>
+    </node>
+    <node id="Masahiro Aono">
+      <data key="affiliation">Dept. of Adaptive Machine Systems</data>
+      <data key="research">optic flow information, basic skill decomposition, basic skill learning</data>
+    </node>
+    <node id="Masato Tanaka">
+      <data key="affiliation">(Corresponding author)</data>
+      <data key="research">figure-8 satellite, figure-8 satellite system, mobile satellite communication</data>
+    </node>
+    <node id="Tomohiro Odaka">
+      <data key="affiliation">Graduate School of Engineering, University of Fukui, Fukui City, 9108507 Japan</data>
+      <data key="research">memory pattern, memory pattern fragment, genetic algorithm</data>
+    </node>
+    <node id="Takeo Yaku">
+      <data key="affiliation">The author is with the Dept. of Computer Science and System Analysis, Nihon University, Tokyo, 1560045 Japan.</data>
+      <data key="research">tree-structured diagram, attribute graph grammar, ridge detection method</data>
+    </node>
+    <node id="Mengchun Xie">
+      <data key="affiliation">Wakayama National College of Technology, Gobo City, 6440023 Japan</data>
+      <data key="research">evacuation route, genetic algorithm, multi-agent system</data>
+    </node>
+    <node id="Hiroshi Unno">
+      <data key="affiliation">University of Tsukuba, Tsukuba, Japan</data>
+      <data key="research">scalable software model checker, complete verification, automated higher-order verification</data>
+    </node>
+    <node id="Kengo Sato">
+      <data key="affiliation">Dept. of Computer Science, Japan Biological Informatics Consortium, 10F TIME24 Building, 245 Aomi, Kotoku, Tokyo, Japan</data>
+      <data key="research">Grammatical Inference, Computer Science, International Colloquium</data>
+    </node>
+    <edge source="Junji Nishino" target="Tetsuro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Jun Sese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Masato Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Junichi Akita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Xuan Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Hiroki Shimora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Harumi Ito">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Masahiro Aono">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Mengchun Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Koji Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junji Nishino" target="Hisakazu Ogura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Harumi Ito" target="Koji Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Harumi Ito" target="Hisakazu Ogura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Harumi Ito" target="Masato Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Harumi Ito" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Tetsuro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kensei Tsuchida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Tadashi Yamazaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Takashi Mihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Takeo Yaku">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Hiroki Shimora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Xuan Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Masato Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Koji Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hisakazu Ogura" target="Mengchun Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroki Shimora" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kensei Tsuchida" target="Takeo Yaku">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kensei Tsuchida" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sese" target="Masahiro Aono">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sese" target="Junichi Akita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junichi Akita" target="Masahiro Aono">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Koji Yamamoto" target="Masato Tanaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Koji Yamamoto" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuan Ma" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xuan Ma" target="Mengchun Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masato Tanaka" target="Tomohiro Odaka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomohiro Odaka" target="Mengchun Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takeo Yaku" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

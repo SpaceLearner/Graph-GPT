@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P100261">
+      <data key="title">stochastic surveillance strategies for spatial quickest detection</data>
+    </node>
+    <node id="P135652">
+      <data key="title">priority maps for surveillance and intervention of wildfires and other spreading processes</data>
+    </node>
+    <node id="P138295">
+      <data key="title">a hybrid approach to persistent coverage in stochastic environments</data>
+    </node>
+    <node id="P14086">
+      <data key="title">persistent monitoring of events with stochastic arrivals at multiple stations</data>
+    </node>
+    <node id="P56479">
+      <data key="title">integer programming as a general solution methodology for path based optimization in robotics principles best practices and applications</data>
+    </node>
+    <node id="P118582">
+      <data key="title">persistent monitoring in discrete environments minimizing the maximum weighted latency between observations</data>
+    </node>
+    <node id="P59738">
+      <data key="title">optimal tourist problem and anytime planning of trip itineraries</data>
+    </node>
+    <node id="P155956">
+      <data key="title">robotic coverage for continuous mapping ahead of a moving vehicle</data>
+    </node>
+    <node id="P113441">
+      <data key="title">sampling based algorithms for optimal motion planning</data>
+    </node>
+    <node id="P84974">
+      <data key="title">optimal control for a robotic exploration pick up and delivery problem</data>
+    </node>
+    <node id="P141815">
+      <data key="title">persistent monitoring of stochastic spatio temporal phenomena with a small team of robots</data>
+    </node>
+    <node id="P123673">
+      <data key="title">persistification of robotic tasks</data>
+    </node>
+    <node id="P42871">
+      <data key="title">real time area coverage and target localization using receding horizon ergodic exploration</data>
+    </node>
+    <node id="P20039">
+      <data key="title">an optimal control approach for the data harvesting problem</data>
+    </node>
+    <node id="P105598">
+      <data key="title">a planning framework for persistent multi uav coverage with global deconfliction</data>
+    </node>
+    <node id="P69702">
+      <data key="title">age optimal information gathering and dissemination on graphs</data>
+    </node>
+    <node id="P47619">
+      <data key="title">multi robot persistent surveillance with connectivity constraints</data>
+    </node>
+    <node id="P352">
+      <data key="title">distributed infrastructure inspection path planning subject to time constraints</data>
+    </node>
+    <node id="P168215">
+      <data key="title">persistent robotic tasks monitoring and sweeping in changing environments</data>
+    </node>
+    <node id="P106208">
+      <data key="title">on sensing agility and computation requirements for a data gathering agile robotic vehicle</data>
+    </node>
+    <edge source="P100261" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135652" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138295" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138295" target="P14086">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14086" target="P59738">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14086" target="P106208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14086" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14086" target="P118582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56479" target="P59738">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118582" target="P59738">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118582" target="P20039">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118582" target="P106208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118582" target="P69702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118582" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59738" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59738" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59738" target="P352">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155956" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84974" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141815" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123673" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42871" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105598" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47619" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168215" target="P106208">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

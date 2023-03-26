@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P82247">
+      <data key="title">on the formulation of performant sparql queries</data>
+    </node>
+    <node id="P151138">
+      <data key="title">negation in sparql</data>
+    </node>
+    <node id="P90108">
+      <data key="title">cascading map side joins over hbase for scalable join processing</data>
+    </node>
+    <node id="P44136">
+      <data key="title">on joining graphs</data>
+    </node>
+    <node id="P25474">
+      <data key="title">path discovery by querying the federation of relational database and rdf graph</data>
+    </node>
+    <node id="P115177">
+      <data key="title">foundations of an alternative approach to reification in rdf</data>
+    </node>
+    <node id="P257">
+      <data key="title">nesting depth of operators in graph database queries expressiveness vs evaluation complexity</data>
+    </node>
+    <node id="P91702">
+      <data key="title">formalising opencypher graph queries in relational algebra</data>
+    </node>
+    <node id="P63796">
+      <data key="title">a verified algebra for linked data</data>
+    </node>
+    <node id="P13089">
+      <data key="title">a query language for multi version data web archives</data>
+    </node>
+    <node id="P57459">
+      <data key="title">document spanners for extracting incomplete information expressiveness and complexity</data>
+    </node>
+    <node id="P149680">
+      <data key="title">on the satisfiability problem for sparql patterns</data>
+    </node>
+    <node id="P132343">
+      <data key="title">answering sparql queries modulo rdf schema with paths</data>
+    </node>
+    <node id="P131465">
+      <data key="title">the tractability frontier of well designed sparql queries</data>
+    </node>
+    <node id="P82348">
+      <data key="title">storing and analyzing historical graph data at scale</data>
+    </node>
+    <node id="P119223">
+      <data key="title">estimating fire weather indices via semantic reasoning over wireless sensor network data streams</data>
+    </node>
+    <node id="P137068">
+      <data key="title">semantics and complexity of sparql</data>
+    </node>
+    <node id="P18803">
+      <data key="title">efficient query processing for sparql federations with replicated fragments</data>
+    </node>
+    <node id="P100582">
+      <data key="title">an empirical study of real world sparql queries</data>
+    </node>
+    <node id="P157859">
+      <data key="title">validating and describing linked data portals using shapes</data>
+    </node>
+    <edge source="P82247" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151138" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90108" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44136" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25474" target="P149680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25474" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115177" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P257" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91702" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63796" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13089" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57459" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149680" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132343" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131465" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82348" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119223" target="P137068">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137068" target="P100582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137068" target="P18803">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137068" target="P157859">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

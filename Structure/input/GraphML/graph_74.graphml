@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="R. G. McLenaghan">
+      <data key="affiliation">Department of Applied Mathematics, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1</data>
+      <data key="research">component tensor calculation, tensor polynomialsA systematic study, Hamilton-Jacobi theory</data>
+    </node>
+    <node id="George Labahn">
+      <data key="affiliation">University of Waterloo, David R. Cheriton School of Computer Science, UST Lille, 59655, Waterloo, ON, Canada</data>
+      <data key="research">input matrix, fraction-free algorithm, new algorithm</data>
+    </node>
+    <node id="Ha Le">
+      <data key="affiliation">Symbolic Computation Group, University of Waterloo, Waterloo, Canada</data>
+      <data key="research">rational function, hypergeometric term, definite sum</data>
+    </node>
+    <node id="Gregory J. Fee">
+      <data key="affiliation">Dept. of Mathematics and Statistics, Simon Fraser University, Burnaby, B.C., Canada V5A 1S6</data>
+      <data key="research">computer algebra system, numerical package, series expansion</data>
+    </node>
+    <node id="S. A. Abramov">
+      <data key="affiliation">Dorodnicyn Computing Center, Russian Academy of Sciences, Moscow, Russia 119991 and Department of Mechanics and Mathematics, Moscow State University, Leninskie gory, Moscow, Russia 119992</data>
+      <data key="research">Computer Algebra, polynomial coefficient, linear difference equation</data>
+    </node>
+    <node id="S. Dooley">
+      <data key="affiliation">IBM Research, Yorktown Heights, NY</data>
+      <data key="research">presentation markup, MathML content, MathML content expression</data>
+    </node>
+    <node id="Gaston H. Gonnet">
+      <data key="affiliation">Informatik ETH Zürich, Switzerland</data>
+      <data key="research">Maple system, efficient algorithm, computational problem</data>
+    </node>
+    <node id="K. M. Heal">
+      <data key="affiliation">Nan</data>
+      <data key="research">guideMaple V, programming guideMaple V, Maple V</data>
+    </node>
+    <node id="Bruce W. Char">
+      <data key="affiliation">Drexel University, Philadelphia, PA, USA</data>
+      <data key="research">entry-level course, year common course, Maple TA</data>
+    </node>
+    <node id="W. Morven Gentleman">
+      <data key="affiliation">Nan</data>
+      <data key="research">black box, good circuit designer, good programmer</data>
+    </node>
+    <node id="T. J. Smedley">
+      <data key="affiliation">Dalhousie University, Halifax, Nova Scotia, Canada</data>
+      <data key="research">visual programming, visual programming language, visual dataflow language</data>
+    </node>
+    <node id="Bruno Salvy">
+      <data key="affiliation">Algorithms Project, Inria (France)</data>
+      <data key="research">differential equation, fast algorithm, linear recurrence</data>
+    </node>
+    <node id="Stephen Michael Watt">
+      <data key="affiliation">Ontario Research Centre for Computer Algebra, Ontario, Canada URL: &lt;url&gt;www.orcca.on.ca&lt;/url&gt;</data>
+      <data key="research">mathematical expression, abstract matrix, handwritten mathematical symbol</data>
+    </node>
+    <node id="B. L. Leong">
+      <data key="affiliation">Univ. of Waterloo, Waterloo, Ont., Canada</data>
+      <data key="research">strict interpretation, grammar form, unambiguous grammar form</data>
+    </node>
+    <node id="S. R. Czapor">
+      <data key="affiliation">Laurentian Univ., Sudbury, Ont. Canada</data>
+      <data key="research">algebraic equation, polynomial reduction, Combining Buchberger</data>
+    </node>
+    <node id="L. Y. Stefanus">
+      <data key="affiliation">University of Indonesia, Indonesia</data>
+      <data key="research">polynomial p, convolution basis function, dual functionals</data>
+    </node>
+    <node id="Ziming Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Weak Periodic Signal, new method, output signal</data>
+    </node>
+    <node id="Michael B. Monagan">
+      <data key="affiliation">Nan</data>
+      <data key="research">In-place Arithmetic</data>
+    </node>
+    <node id="T. C. Scott">
+      <data key="affiliation">Institut für Physikalische Chemie, RWTH Aachen University, 52056 Aachen, Germany and Zephyr Health Inc, 589 Howard Street, 3rd floor, San Francisco CA, USA</data>
+      <data key="research">exact solution, Lambert W function, five-dimensional surface</data>
+    </node>
+    <node id="Keith O. Geddes">
+      <data key="affiliation">Symbolic Computation Group, Department of Computer Science, University of Waterloo, Waterloo, Ontario, Canada N2L 3G1</data>
+      <data key="research">Maple system, efficient adaptive algorithm, genetic algorithm</data>
+    </node>
+    <edge source="R. G. McLenaghan" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Labahn" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Labahn" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Labahn" target="K. M. Heal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Labahn" target="Ziming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="George Labahn" target="S. R. Czapor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ha Le" target="Ziming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ha Le" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ha Le" target="S. A. Abramov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory J. Fee" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory J. Fee" target="Gaston H. Gonnet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory J. Fee" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory J. Fee" target="T. C. Scott">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory J. Fee" target="Bruce W. Char">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. A. Abramov" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Dooley" target="Stephen Michael Watt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Dooley" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Dooley" target="Bruno Salvy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="Stephen Michael Watt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="T. J. Smedley">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="Bruce W. Char">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="W. Morven Gentleman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gaston H. Gonnet" target="B. L. Leong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. M. Heal" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. M. Heal" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce W. Char" target="B. L. Leong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce W. Char" target="W. Morven Gentleman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce W. Char" target="Stephen Michael Watt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce W. Char" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce W. Char" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Morven Gentleman" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. J. Smedley" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruno Salvy" target="Ziming Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruno Salvy" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen Michael Watt" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen Michael Watt" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stephen Michael Watt" target="B. L. Leong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. L. Leong" target="Michael B. Monagan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. L. Leong" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. R. Czapor" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Y. Stefanus" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ziming Li" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael B. Monagan" target="T. C. Scott">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael B. Monagan" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Scott" target="Keith O. Geddes">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

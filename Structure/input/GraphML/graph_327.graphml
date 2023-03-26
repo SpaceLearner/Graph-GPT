@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Z. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">secrecy system, key equivocation rate, block encipherer C</data>
+    </node>
+    <node id="Li Sheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">hydraulic system faults diagnosis, hydraulic system, hydraulic system fault</data>
+    </node>
+    <node id="Ken Dewar">
+      <data key="affiliation">Department of Human Genetics, McGill University</data>
+      <data key="research">target gene, functional interaction, long-range cis-regulatory region</data>
+    </node>
+    <node id="David L. Levine">
+      <data key="affiliation">The University of Texas at Arlington, Arlington, TX</data>
+      <data key="research">real-time application, data synopsis, query evaluation</data>
+    </node>
+    <node id="Eugene V. Koonin">
+      <data key="affiliation">National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD</data>
+      <data key="research">genome evolution, PATAN domain, HicB protein</data>
+    </node>
+    <node id="G. Myers">
+      <data key="affiliation">SRI International, Menlo Park, CA 94025, USA</data>
+      <data key="research">existing text detection algorithm, existing text detector, text line</data>
+    </node>
+    <node id="James Taylor">
+      <data key="affiliation">INRA, UMR LISAH and UMR ITAP, 2 Place Pierre Viala, Montpellier, France</data>
+      <data key="research">segmentation algorithm, segmentation output, common classification algorithm</data>
+    </node>
+    <node id="Ross C. Hardison">
+      <data key="affiliation">Center for Comparative Genomics and Bioinformatics, Huck Institutes of Life Sciences, and Department of Biochemistry and Molecular Biology, Pennsylvania State University,</data>
+      <data key="research">conversion event, DNA sequence, molecular biology</data>
+    </node>
+    <node id="Cedric Feschotte">
+      <data key="affiliation">University of Texas at Arlington, USA</data>
+      <data key="research">repetitive DNA, transposable element, raw genomes</data>
+    </node>
+    <node id="Nikola Stojanovic">
+      <data key="affiliation">Department of Computer Science and Engineering, University of Texas at Arlington, Arlington, TX 76019, USA,</data>
+      <data key="research">short motif, human genome, genomic sequence</data>
+    </node>
+    <node id="P. Berman">
+      <data key="affiliation">Nan</data>
+      <data key="research">Ethernet system, optimal static pessimistic replica, optimal vote assignment</data>
+    </node>
+    <node id="Donald B. Johnson">
+      <data key="affiliation">Computer Science Department, Whitmore Laboratory, The Pennsylvania State University, University Park, PA</data>
+      <data key="research">maximum flow, log n, parallel time</data>
+    </node>
+    <node id="Zheng Zhang">
+      <data key="affiliation">Department of Control Science and Engineering, Huazhong Univ of Sci&amp;Tech, Wuhan, China</data>
+      <data key="research">internal state, DNA automaton, finite automaton</data>
+    </node>
+    <node id="Udi Manber">
+      <data key="affiliation">Nan</data>
+      <data key="research">Combinatorial Pattern Matching, Annual Symposium, Combinatorial Pattern MatchingProceedings</data>
+    </node>
+    <node id="Jian Shen">
+      <data key="affiliation">Lockheed Martin</data>
+      <data key="research">cell-centered finite difference, finite volume element method, mixed finite element method</data>
+    </node>
+    <node id="C. Wrathall">
+      <data key="affiliation">Department of Mathematics, University of California, Santa Barbara, CA and The Pennsylvania State University, University Park, Pennsylvania</data>
+      <data key="research">Preliminary Report, word problem, commutative group</data>
+    </node>
+    <node id="Giltae Song">
+      <data key="affiliation">Center for Comparative Genomics and Bioinformatics, 506B Wartik Lab, Penn State University, University Park, USA 16802</data>
+      <data key="research">gene cluster, evolutionary history, actual human gene cluster</data>
+    </node>
+    <node id="Abanish Singh">
+      <data key="affiliation">Nan</data>
+      <data key="research">annotation feature, bioinformatic annotation, software tool</data>
+    </node>
+    <node id="Abhijit R. Tendulkar">
+      <data key="affiliation">Nan</data>
+      <data key="research">Genome-Wide Association StudiesWhole genome, human disease, human genome</data>
+    </node>
+    <node id="Webb Miller">
+      <data key="affiliation">Department of Computer Science and Engineering, Penn State, University Park, PA</data>
+      <data key="research">gene cluster, conversion event, DNA sequence</data>
+    </node>
+    <edge source="Z. Zhang" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Zhang" target="Eugene V. Koonin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Zhang" target="G. Myers">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Zhang" target="P. Berman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Sheng" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Sheng" target="Jian Shen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ken Dewar" target="Nikola Stojanovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David L. Levine" target="Cedric Feschotte">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David L. Levine" target="Abanish Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David L. Levine" target="Nikola Stojanovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eugene V. Koonin" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eugene V. Koonin" target="P. Berman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Myers" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Myers" target="Udi Manber">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Taylor" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ross C. Hardison" target="P. Berman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ross C. Hardison" target="Nikola Stojanovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ross C. Hardison" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cedric Feschotte" target="Abanish Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cedric Feschotte" target="Nikola Stojanovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nikola Stojanovic" target="Abhijit R. Tendulkar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nikola Stojanovic" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nikola Stojanovic" target="P. Berman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nikola Stojanovic" target="Abanish Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Berman" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald B. Johnson" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald B. Johnson" target="C. Wrathall">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zheng Zhang" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Udi Manber" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Shen" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Wrathall" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giltae Song" target="Webb Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

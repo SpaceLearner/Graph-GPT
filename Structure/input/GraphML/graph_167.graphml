@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Patrick Chiang">
+      <data key="affiliation">Oregon State University</data>
+      <data key="research">human body, differentiator-based data decision circuit, baseband circuit</data>
+    </node>
+    <node id="Jun Chen">
+      <data key="affiliation">School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798</data>
+      <data key="research">dynamic analysis andcontrol, dynamic model, hand-object system</data>
+    </node>
+    <node id="Qiming Zhou">
+      <data key="affiliation">Department of Geography, Hong Kong Baptist University, Kowloon Tong, Hong Kong, China &lt;rfc822&gt;qiming@hkbu.edu.hk&lt;/rfc822&gt;</data>
+      <data key="research">Cloverleaf Junction, cloverleaf junction road surface, cloverleaf junction expression</data>
+    </node>
+    <node id="Christopher Mineo">
+      <data key="affiliation">Laboratory for Physical Sciences</data>
+      <data key="research">terabit-per-second scale, Low-Power Chip, OSilicon photonic microrings</data>
+    </node>
+    <node id="Ravi Jenkal">
+      <data key="affiliation">North Carolina State University, Raleigh, NC</data>
+      <data key="research">DFF memory, analyzes hardware design, efficient hardware implementation</data>
+    </node>
+    <node id="Vibhuti Dave">
+      <data key="affiliation">Penn State Erie, The Behrend College, USA</data>
+      <data key="research">regular adder, adder design, carry-save adder</data>
+    </node>
+    <node id="P. Franzon">
+      <data key="affiliation">Nan</data>
+      <data key="research">FIR digital filter, high sample rate applicationsFirst</data>
+    </node>
+    <node id="Mallika Prakash">
+      <data key="affiliation">University of Southern California, Los Angeles</data>
+      <data key="research">asynchronous design, Chip design, design flow</data>
+    </node>
+    <node id="Michael Schulte">
+      <data key="affiliation">Advanced Micro Devices, Inc.</data>
+      <data key="research">voltage droop, dt issue, dt stressmarks</data>
+    </node>
+    <node id="M. Steer">
+      <data key="affiliation">Department of Electrical &amp; Computer Engineering, North Carolina State University, Raleigh, NC</data>
+      <data key="research">neural network-based model, Inc. Int J RF, Wiley Periodicals</data>
+    </node>
+    <node id="Bhushan A. Shinkre">
+      <data key="affiliation">Illinois Institute of Technology, Chicago, IL</data>
+      <data key="research">CD domino gate, dynamic logic family, high-speed logic implementation</data>
+    </node>
+    <node id="James E. Stine">
+      <data key="affiliation">Nan</data>
+      <data key="research">Ling equation, Parallel Prefix Ling Structures, efficient implementation</data>
+    </node>
+    <node id="Michael Wood">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Charles A. Zukowski">
+      <data key="affiliation">Nan</data>
+      <data key="research">Combinational Merging, High-Frequency Pattern Generator</data>
+    </node>
+    <node id="J. M. Wilson">
+      <data key="affiliation">Univ. of Technology, Loughborough, Leicestershire, UK</data>
+      <data key="research">generalized assignment problem, sustainable cell formation problem, NP-hard combinatorial problem GAPS2</data>
+    </node>
+    <node id="W. Rhett Davis">
+      <data key="affiliation">North Carolina State University</data>
+      <data key="research">design planning, power consumption, K-best algorithm</data>
+    </node>
+    <node id="Nariman Moezzi Madani">
+      <data key="affiliation">Sch. of EECS, Oregon State Univ., Corvallis, OR, USA</data>
+      <data key="research">K-best algorithm, power consumption, MIMO detector</data>
+    </node>
+    <node id="W. E. Alexander">
+      <data key="affiliation">North Carolina State University, Raleigh, NC</data>
+      <data key="research">sampling error, Line-rate processing, image processing algorithm</data>
+    </node>
+    <node id="Jian Xu">
+      <data key="affiliation">The Hong Kong Polytechnic University, Hong Kong, China</data>
+      <data key="research">semantic vector, key phrase, sentence similarity</data>
+    </node>
+    <node id="Paul D. Franzon">
+      <data key="affiliation">Department of Electrical and Computer Engineering, North Carolina State University, Raleigh, NC</data>
+      <data key="research">neural network-based model, new method, 3-d integrated circuit</data>
+    </node>
+    <edge source="Patrick Chiang" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Patrick Chiang" target="Nariman Moezzi Madani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Chen" target="Qiming Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Chen" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="Ravi Jenkal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="M. Steer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="J. M. Wilson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="P. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="Jian Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Mineo" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ravi Jenkal" target="W. E. Alexander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ravi Jenkal" target="P. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ravi Jenkal" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ravi Jenkal" target="Michael Wood">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ravi Jenkal" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vibhuti Dave" target="Mallika Prakash">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vibhuti Dave" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="Nariman Moezzi Madani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="Michael Wood">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="Jian Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="J. M. Wilson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Franzon" target="M. Steer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mallika Prakash" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Schulte" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Steer" target="Paul D. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Steer" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Steer" target="Jian Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Steer" target="J. M. Wilson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bhushan A. Shinkre" target="James E. Stine">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James E. Stine" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James E. Stine" target="Michael Wood">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James E. Stine" target="Charles A. Zukowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Wood" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. M. Wilson" target="W. Rhett Davis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. M. Wilson" target="Jian Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. M. Wilson" target="Paul D. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rhett Davis" target="Nariman Moezzi Madani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rhett Davis" target="Jian Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rhett Davis" target="Paul D. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Rhett Davis" target="W. E. Alexander">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Xu" target="Paul D. Franzon">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

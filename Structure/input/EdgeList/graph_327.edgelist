@@ -1,0 +1,32 @@
+Z. Zhang	Webb Miller	{'relation': 'collaborate'}
+Z. Zhang	Eugene V. Koonin	{'relation': 'collaborate'}
+Z. Zhang	G. Myers	{'relation': 'collaborate'}
+Z. Zhang	P. Berman	{'relation': 'collaborate'}
+Li Sheng	Webb Miller	{'relation': 'collaborate'}
+Li Sheng	Jian Shen	{'relation': 'collaborate'}
+Ken Dewar	Nikola Stojanovic	{'relation': 'collaborate'}
+David L. Levine	Cedric Feschotte	{'relation': 'collaborate'}
+David L. Levine	Abanish Singh	{'relation': 'collaborate'}
+David L. Levine	Nikola Stojanovic	{'relation': 'collaborate'}
+Eugene V. Koonin	Webb Miller	{'relation': 'collaborate'}
+Eugene V. Koonin	P. Berman	{'relation': 'collaborate'}
+G. Myers	Webb Miller	{'relation': 'collaborate'}
+G. Myers	Udi Manber	{'relation': 'collaborate'}
+James Taylor	Webb Miller	{'relation': 'collaborate'}
+Ross C. Hardison	P. Berman	{'relation': 'collaborate'}
+Ross C. Hardison	Nikola Stojanovic	{'relation': 'collaborate'}
+Ross C. Hardison	Webb Miller	{'relation': 'collaborate'}
+Cedric Feschotte	Abanish Singh	{'relation': 'collaborate'}
+Cedric Feschotte	Nikola Stojanovic	{'relation': 'collaborate'}
+Nikola Stojanovic	Abhijit R. Tendulkar	{'relation': 'collaborate'}
+Nikola Stojanovic	Webb Miller	{'relation': 'collaborate'}
+Nikola Stojanovic	P. Berman	{'relation': 'collaborate'}
+Nikola Stojanovic	Abanish Singh	{'relation': 'collaborate'}
+P. Berman	Webb Miller	{'relation': 'collaborate'}
+Donald B. Johnson	Webb Miller	{'relation': 'collaborate'}
+Donald B. Johnson	C. Wrathall	{'relation': 'collaborate'}
+Zheng Zhang	Webb Miller	{'relation': 'collaborate'}
+Udi Manber	Webb Miller	{'relation': 'collaborate'}
+Jian Shen	Webb Miller	{'relation': 'collaborate'}
+C. Wrathall	Webb Miller	{'relation': 'collaborate'}
+Giltae Song	Webb Miller	{'relation': 'collaborate'}

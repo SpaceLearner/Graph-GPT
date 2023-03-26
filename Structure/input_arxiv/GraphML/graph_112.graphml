@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P154859">
+      <data key="title">multimodal deep learning for robust rgb d object recognition</data>
+    </node>
+    <node id="P82180">
+      <data key="title">how to scale up kernel methods to be as good as deep neural nets</data>
+    </node>
+    <node id="P141757">
+      <data key="title">uniform sampling for matrix approximation</data>
+    </node>
+    <node id="P70246">
+      <data key="title">large scale kernel methods and applications to lifelong robot learning</data>
+    </node>
+    <node id="P50444">
+      <data key="title">efficient algorithms and error analysis for the modified nystrom method</data>
+    </node>
+    <node id="P108967">
+      <data key="title">compact real time avoidance on a humanoid robot for human robot interaction</data>
+    </node>
+    <node id="P127135">
+      <data key="title">sharp analysis of low rank kernel matrix approximations</data>
+    </node>
+    <node id="P139">
+      <data key="title">inertial parameter identification including friction and motor dynamics</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P51867">
+      <data key="title">improved bounds for the nystrom method with application to kernel classification</data>
+    </node>
+    <node id="P112541">
+      <data key="title">train faster generalize better stability of stochastic gradient descent</data>
+    </node>
+    <node id="P30510">
+      <data key="title">return of the devil in the details delving deep into convolutional nets</data>
+    </node>
+    <node id="P9367">
+      <data key="title">generalization properties and implicit regularization for multiple passes sgm</data>
+    </node>
+    <node id="P114124">
+      <data key="title">skin normal force calibration using vacuum bags</data>
+    </node>
+    <node id="P51791">
+      <data key="title">on the equivalence between quadrature rules and random features</data>
+    </node>
+    <node id="P111641">
+      <data key="title">robots as powerful allies for the study of embodied cognition from the bottom up</data>
+    </node>
+    <node id="P35253">
+      <data key="title">revisiting the nystrom method for improved large scale machine learning</data>
+    </node>
+    <node id="P166912">
+      <data key="title">incremental gradient subgradient and proximal methods for convex optimization a survey</data>
+    </node>
+    <node id="P168682">
+      <data key="title">a survey on policy search algorithms for learning robot controllers in a handful of trials</data>
+    </node>
+    <node id="P125756">
+      <data key="title">a flexible and robust large scale capacitive tactile system for robots</data>
+    </node>
+    <edge source="P154859" target="P70246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82180" target="P70246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141757" target="P70246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P50444">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P51791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P112541">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P51867">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P30510">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P127135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P166912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P9367">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70246" target="P35253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50444" target="P51867">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50444" target="P35253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108967" target="P125756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P51791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P51867">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P35253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139" target="P125756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P30510">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51867" target="P35253">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112541" target="P9367">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9367" target="P166912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114124" target="P125756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111641" target="P125756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168682" target="P125756">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

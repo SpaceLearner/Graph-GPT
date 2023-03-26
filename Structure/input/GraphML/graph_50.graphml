@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Takeshi Yamakawa">
+      <data key="affiliation">Department of Electronic Engineering, Hallym University, Gangwon, Republic of Korea</data>
+      <data key="research">EEG data, Smartphone household wireless, ill-posed inverse data</data>
+    </node>
+    <node id="Hiroyuki Miyamoto">
+      <data key="affiliation">Nan</data>
+      <data key="research">International Conference, Selected Papers, Neural Information Processing</data>
+    </node>
+    <node id="Risto Miikkulainen">
+      <data key="affiliation">University of California, Merced, University of Texas, Austin</data>
+      <data key="research">neural network, artificial neural network, neuroevolution method</data>
+    </node>
+    <node id="Tetsuo Furukawa">
+      <data key="affiliation">Kyushu Institute of Technology, Department of Brain Science and Engineering, 24 Hibikino, Wakamatsu, 8080196, Kitakyushu, Japan</data>
+      <data key="research">conventional SOM, self-organizing map, parent SOM</data>
+    </node>
+    <node id="Lin Yang">
+      <data key="affiliation">National University of Defense Technology, Changsha, China</data>
+      <data key="research">identity definition, identity data, critical identity operation tag</data>
+    </node>
+    <node id="Toshiyuki Nomura">
+      <data key="affiliation">Common Platform Software Research Laboratories, NEC Corporation, Nakaharaku, Japan 2168666</data>
+      <data key="research">memory-conscious decoder, Enhanced aacPlus Decoder, maximum number</data>
+    </node>
+    <node id="Ding Feng">
+      <data key="affiliation">Nan</data>
+      <data key="research">anti-stacked control, automatic winder anti-stacked control, control system</data>
+    </node>
+    <node id="Masumi Ishikawa">
+      <data key="affiliation">Kyushu Institute of Technology</data>
+      <data key="research">mobile robot, proposed method, search performance</data>
+    </node>
+    <node id="Kyota Higa">
+      <data key="affiliation">Nan</data>
+      <data key="research">music TV program, music signal, chroma component</data>
+    </node>
+    <node id="Jiulun Fan">
+      <data key="affiliation">Nan</data>
+      <data key="research">sparse histogram image segmentation, common image segmentation technology, image segmentation</data>
+    </node>
+    <node id="Kazuhiko Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">Designing Neural Networks, Genetic Algorithms, Structural Learning</data>
+    </node>
+    <node id="Hong Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">disparity discontinuity, initial disparity map, accurate dense disparity map</data>
+    </node>
+    <node id="Xiaolong Liu">
+      <data key="affiliation">Institute of Ideal Information Technology, Northeast Normal University, Changchun, 130024, China</data>
+      <data key="research">instructional design platform, instructional strategy, specific subject</data>
+    </node>
+    <node id="Jiro Katto">
+      <data key="affiliation"> </data>
+      <data key="research">new parent, overlay tree, proactive approach</data>
+    </node>
+    <node id="Alireza Ahrary">
+      <data key="affiliation">Fukuoka Industry, Science and Technology Foundation, Japan and Information, Production and Systems Research Center, Waseda University, Japan</data>
+      <data key="research">Big Data, XML document, user need</data>
+    </node>
+    <node id="Li Tian">
+      <data key="affiliation">Department of Mathematics, Pennsylvania State University, University Park, PA 16802, USA</data>
+      <data key="research">basis function, elliptic equation, linear elliptic partial differential</data>
+    </node>
+    <node id="K. Doya">
+      <data key="affiliation">Neural Computation Unit, Initial Research Project, OkinawaInstitute of Science and Technology, JST, Japan</data>
+      <data key="research">reinforcement learning, multiple model-based reinforcement learning, procedural learning</data>
+    </node>
+    <node id="Seiichiro Kamata">
+      <data key="affiliation">Dept. of Intelligent Syst., Kyushu Univ., Fukuoka</data>
+      <data key="research">proposed method, Hilbert curve, experimental result</data>
+    </node>
+    <node id="Bin Guo">
+      <data key="affiliation">Nan</data>
+      <data key="research">opportunistic social network, social activity, social context</data>
+    </node>
+    <node id="Helge Ritter">
+      <data key="affiliation">Nan</data>
+      <data key="research">Human Centered Robot Systems, Human Centered Robotic Systems, TechnologyHuman Centered Robotic Systems</data>
+    </node>
+    <edge source="Takeshi Yamakawa" target="K. Doya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takeshi Yamakawa" target="Hiroyuki Miyamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takeshi Yamakawa" target="Masumi Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroyuki Miyamoto" target="K. Doya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroyuki Miyamoto" target="Masumi Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Risto Miikkulainen" target="Helge Ritter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Risto Miikkulainen" target="Masumi Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuo Furukawa" target="Masumi Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Yang" target="Hong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toshiyuki Nomura" target="Jiro Katto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toshiyuki Nomura" target="Kyota Higa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toshiyuki Nomura" target="Masumi Ishikawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ding Feng" target="Hong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Hong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Alireza Ahrary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Helge Ritter">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Seiichiro Kamata">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="K. Doya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Kazuhiko Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Li Tian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Jiro Katto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masumi Ishikawa" target="Kyota Higa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyota Higa" target="Jiro Katto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiulun Fan" target="Hong Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Zhang" target="Bin Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Zhang" target="Xiaolong Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alireza Ahrary" target="Li Tian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alireza Ahrary" target="Seiichiro Kamata">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Tian" target="Seiichiro Kamata">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

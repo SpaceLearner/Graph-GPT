@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P141316">
+      <data key="title">improving the efficiency of the ldpc code based mceliece cryptosystem through irregular codes</data>
+    </node>
+    <node id="P86889">
+      <data key="title">a cca2 secure variant of the mceliece cryptosystem</data>
+    </node>
+    <node id="P483">
+      <data key="title">pkc pc a variant of the mceliece public key cryptosystem based on polar codes</data>
+    </node>
+    <node id="P41246">
+      <data key="title">optimization of the parity check matrix density in qc ldpc code based mceliece cryptosystems</data>
+    </node>
+    <node id="P124453">
+      <data key="title">performance limits and practical decoding of interleaved reed solomon polar concatenated codes</data>
+    </node>
+    <node id="P22505">
+      <data key="title">achieving the uniform rate region of general multiple access channels by polar coding</data>
+    </node>
+    <node id="P92119">
+      <data key="title">cryptanalysis of two mceliece cryptosystems based on quasi cyclic codes</data>
+    </node>
+    <node id="P139439">
+      <data key="title">an efficient structural attack on nist submission dags</data>
+    </node>
+    <node id="P49860">
+      <data key="title">low rank parity check codes new decoding algorithms and applications to cryptography</data>
+    </node>
+    <node id="P119252">
+      <data key="title">achieving the secrecy capacity of wiretap channels using polar codes</data>
+    </node>
+    <node id="P167672">
+      <data key="title">polynomial time attack on wild mceliece over quadratic extensions</data>
+    </node>
+    <node id="P2716">
+      <data key="title">security and complexity of the mceliece cryptosystem based on quasi cyclic low density parity check codes</data>
+    </node>
+    <node id="P148518">
+      <data key="title">on a family of circulant matrices for quasi cyclic low density generator matrix codes</data>
+    </node>
+    <node id="P156655">
+      <data key="title">ledakem a post quantum key encapsulation mechanism based on qc ldpc codes</data>
+    </node>
+    <node id="P14029">
+      <data key="title">universal bounds on the scaling behavior of polar codes</data>
+    </node>
+    <node id="P68571">
+      <data key="title">enhanced public key security for the mceliece cryptosystem</data>
+    </node>
+    <node id="P67145">
+      <data key="title">using ldgm codes and sparse syndromes to achieve digital signatures</data>
+    </node>
+    <node id="P67319">
+      <data key="title">key reduction of mceliece s cryptosystem using list decoding</data>
+    </node>
+    <node id="P80741">
+      <data key="title">analysis of the error correction capability of ldpc and mdpc codes under parallel bit flipping decoding and application to cryptography</data>
+    </node>
+    <node id="P104136">
+      <data key="title">scaling efficient code based cryptosystems for embedded platforms</data>
+    </node>
+    <edge source="P141316" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141316" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141316" target="P41246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141316" target="P148518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141316" target="P104136">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86889" target="P483">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86889" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P483" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P483" target="P124453">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P483" target="P119252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P483" target="P14029">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P483" target="P167672">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41246" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41246" target="P148518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41246" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41246" target="P156655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41246" target="P67145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124453" target="P22505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22505" target="P119252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92119" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92119" target="P156655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92119" target="P49860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92119" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92119" target="P167672">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139439" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139439" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139439" target="P167672">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49860" target="P2716">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167672" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P148518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P67319">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P156655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P67145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P104136">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2716" target="P80741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148518" target="P67145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156655" target="P68571">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156655" target="P80741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68571" target="P67145">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P129705">
+      <data key="title">feedback topology designs for interference alignment in mimo interference channels</data>
+    </node>
+    <node id="P112642">
+      <data key="title">on the achievability of interference alignment in the k user constant mimo interference channel</data>
+    </node>
+    <node id="P53289">
+      <data key="title">unequal dimensional small balls and quantization on grassmann manifolds</data>
+    </node>
+    <node id="P71">
+      <data key="title">multi access mimo systems with finite rate channel state feedback</data>
+    </node>
+    <node id="P25351">
+      <data key="title">interference alignment for the k user mimo interference channel</data>
+    </node>
+    <node id="P112103">
+      <data key="title">joint beamforming for multiaccess mimo systems with finite rate feedback</data>
+    </node>
+    <node id="P28611">
+      <data key="title">interference alignment under limited feedback for mimo interference channels</data>
+    </node>
+    <node id="P40010">
+      <data key="title">approaching the capacity of wireless networks through distributed interference alignment</data>
+    </node>
+    <node id="P129723">
+      <data key="title">grassmannian predictive coding for limited feedback in multiple antenna wireless systems</data>
+    </node>
+    <node id="P124056">
+      <data key="title">on the information rate of mimo systems with finite rate channel state feedback and power on off strategy</data>
+    </node>
+    <node id="P111338">
+      <data key="title">on feasibility of interference alignment in mimo interference networks</data>
+    </node>
+    <node id="P98122">
+      <data key="title">capacity of a multiple antenna fading channel with a quantized precoding matrix</data>
+    </node>
+    <node id="P84852">
+      <data key="title">optimization of training and feedback overhead for beamforming over block fading channels</data>
+    </node>
+    <node id="P35332">
+      <data key="title">quantization bounds on grassmann manifolds of arbitrary dimensions and mimo communications with feedback</data>
+    </node>
+    <node id="P63862">
+      <data key="title">limited feedback based block diagonalization for the mimo broadcast channel</data>
+    </node>
+    <node id="P133193">
+      <data key="title">adaptive spatial intercell interference cancellation in multicell wireless networks</data>
+    </node>
+    <node id="P19456">
+      <data key="title">mimo broadcast channels with block diagonalization and finite rate feedback</data>
+    </node>
+    <node id="P138507">
+      <data key="title">interference alignment and the degrees of freedom for the k user interference channel</data>
+    </node>
+    <node id="P61214">
+      <data key="title">interference alignment through user cooperation for two cell mimo interfering broadcast channels</data>
+    </node>
+    <node id="P75259">
+      <data key="title">quantization bounds on grassmann manifolds and applications to mimo communications</data>
+    </node>
+    <edge source="P129705" target="P61214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P112642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P63862">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P40010">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P111338">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P25351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P28611">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P133193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129705" target="P138507">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112642" target="P40010">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53289" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71" target="P124056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112103" target="P28611">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112103" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112103" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112103" target="P124056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28611" target="P40010">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28611" target="P138507">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28611" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40010" target="P61214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129723" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129723" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124056" target="P84852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124056" target="P98122">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124056" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98122" target="P84852">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98122" target="P35332">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98122" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35332" target="P19456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35332" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63862" target="P19456">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63862" target="P75259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133193" target="P138507">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

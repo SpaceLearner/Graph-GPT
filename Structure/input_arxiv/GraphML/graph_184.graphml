@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P79720">
+      <data key="title">and that s a fact distinguishing factual and emotional argumentation in online dialogue</data>
+    </node>
+    <node id="P61585">
+      <data key="title">party matters enhancing legislative embeddings with author attributes for vote prediction</data>
+    </node>
+    <node id="P232">
+      <data key="title">political speech generation</data>
+    </node>
+    <node id="P104715">
+      <data key="title">winning arguments interaction dynamics and persuasion strategies in good faith online discussions</data>
+    </node>
+    <node id="P169228">
+      <data key="title">diversifying topic coherent response generation for natural multi turn conversations</data>
+    </node>
+    <node id="P143515">
+      <data key="title">how predictable is your state leveraging lexical and contextual information for predicting legislative floor action at the state level</data>
+    </node>
+    <node id="P61954">
+      <data key="title">get out the vote determining support or opposition from congressional floor debate transcripts</data>
+    </node>
+    <node id="P148639">
+      <data key="title">mitre at semeval 2016 task 6 transfer learning for stance detection</data>
+    </node>
+    <node id="P98282">
+      <data key="title">overcoming language variation in sentiment analysis with social attention</data>
+    </node>
+    <node id="P92939">
+      <data key="title">deepstance at semeval 2016 task 6 detecting stance in tweets using character and word level cnns</data>
+    </node>
+    <node id="P141578">
+      <data key="title">bayesian optimization of text representations</data>
+    </node>
+    <node id="P87734">
+      <data key="title">other topics you may also agree or disagree modeling inter topic preferences using tweets and matrix factorization</data>
+    </node>
+    <node id="P76915">
+      <data key="title">connotation frames typed relations of implied sentiment in predicate argument structure</data>
+    </node>
+    <node id="P30781">
+      <data key="title">learning structured text representations</data>
+    </node>
+    <node id="P151188">
+      <data key="title">connotation frames a data driven investigation</data>
+    </node>
+    <node id="P86433">
+      <data key="title">nlds ucsc at semeval 2016 task 6 a semi supervised approach to detecting stance in tweets</data>
+    </node>
+    <node id="P99527">
+      <data key="title">conversational flow in oxford style debates</data>
+    </node>
+    <node id="P82104">
+      <data key="title">performance investigation of feature selection methods</data>
+    </node>
+    <node id="P51998">
+      <data key="title">topic independent identification of agreement and disagreement in social media dialogue</data>
+    </node>
+    <node id="P26885">
+      <data key="title">asking too much the rhetorical role of questions in political discourse</data>
+    </node>
+    <edge source="P79720" target="P61954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61585" target="P61954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P232" target="P61954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P232" target="P169228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104715" target="P61954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104715" target="P99527">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104715" target="P26885">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143515" target="P61954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P76915">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P82104">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P141578">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P51998">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P99527">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P148639">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P92939">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P151188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P98282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P87734">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P30781">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P26885">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61954" target="P86433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86433" target="P51998">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

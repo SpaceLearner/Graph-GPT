@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jeffrey Xu Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">LCR query, vertices u, bipartite graph</data>
+    </node>
+    <node id="Damien McAullay">
+      <data key="affiliation">CSIRO Mathematics, Informatics and Statistics, Canberra ACT, 2601, Australia</data>
+      <data key="research">data mining method, administrative health data, exploratory data analysis</data>
+    </node>
+    <node id="Eamonn J. Keogh">
+      <data key="affiliation">Computer Science &amp; Engineering Department, University of California, CA</data>
+      <data key="research">time series, time series data, time series data mining</data>
+    </node>
+    <node id="Xiaoyuan Wang">
+      <data key="affiliation">School of Electrical Engineering and Automation, Tianjin University, Tianjin, China</data>
+      <data key="research">PWM control, proposed control method, new permanent magnetic motor</data>
+    </node>
+    <node id="Benjamin C.  M. Fung">
+      <data key="affiliation">Concordia University</data>
+      <data key="research">real-life data, Privacy-preserving data publishing, RFID data</data>
+    </node>
+    <node id="Paul Fahey">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Stat., Trinity Coll., Dublin, Ireland</data>
+      <data key="research">risk pattern, proposed method, mining optimal risk pattern</data>
+    </node>
+    <node id="Jian Tang">
+      <data key="affiliation">School of Reliability and System Engineering, Beihang University, Beijing, China</data>
+      <data key="research">prediction interval, data character, modified Block Bootstrap prediction</data>
+    </node>
+    <node id="David Wai-Lok Cheung">
+      <data key="affiliation">Nan</data>
+      <data key="research">Node Autonomy, Replicated Database, Transaction Replication Scheme</data>
+    </node>
+    <node id="Hongxing He">
+      <data key="affiliation">CSIRO Mathematics, Informatics and Statistics (CMIS), Canberra</data>
+      <data key="research">data mining method, data mining technique, administrative health data</data>
+    </node>
+    <node id="Ada Fu">
+      <data key="affiliation">Chineese Univ. of Hong Kong, Hong Kong</data>
+      <data key="research">anonymized data, xml data, data set</data>
+    </node>
+    <node id="Jia Wang">
+      <data key="affiliation">National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">global motion, global motion estimation, motion layer</data>
+    </node>
+    <node id="H. Y. Hwang">
+      <data key="affiliation">Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong</data>
+      <data key="research">Attribute-Oriented Induction, induction algorithm, induction anomaly</data>
+    </node>
+    <node id="Yiping Ke">
+      <data key="affiliation">Institute of High Performance Computing, Singapore, Singapore</data>
+      <data key="research">large graph, time series, graph databases</data>
+    </node>
+    <node id="Yufei Tao">
+      <data key="affiliation">KAIST, Daejeon, Korea and Chinese University of Hong Kong, New Territories, Hong Kong</data>
+      <data key="research">MaxRS problem, ApproxMaxCRS algorithm, ExactMaxRS algorithm</data>
+    </node>
+    <node id="Yiu Sang Moon">
+      <data key="affiliation">Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong/ email: adafu@cse.cuhk.edu.hk</data>
+      <data key="research">window size, fingerprint verification, speaker verification system</data>
+    </node>
+    <node id="Huidong Jin">
+      <data key="affiliation">Nan</data>
+      <data key="research">Australian National University, Computer Science, Canberra ACT</data>
+    </node>
+    <node id="Jiuyong Li">
+      <data key="affiliation">University of South Australia, Mawson Lakes, South Australia</data>
+      <data key="research">drug activity, data set, descriptor set</data>
+    </node>
+    <node id="Anny Ng">
+      <data key="affiliation">Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, Hong Kong</data>
+      <data key="research">stock price, stock prices databases, stock trendsIt</data>
+    </node>
+    <node id="David W. Cheung">
+      <data key="affiliation">The University of Hong Kong, Hong Kong</data>
+      <data key="research">frequent item set, data item, approximate algorithm</data>
+    </node>
+    <node id="M. H. Wong">
+      <data key="affiliation">Department of Computer Science, The Chinese University of Hong Kong, Hong Kong</data>
+      <data key="research">proposed algorithm, snapshot algorithm, PPM algorithm</data>
+    </node>
+    <edge source="Jeffrey Xu Yu" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey Xu Yu" target="David W. Cheung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey Xu Yu" target="Yiping Ke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey Xu Yu" target="Yufei Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Damien McAullay" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Damien McAullay" target="Jiuyong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Damien McAullay" target="Huidong Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Damien McAullay" target="Hongxing He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eamonn J. Keogh" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoyuan Wang" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Benjamin C.  M. Fung" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Fahey" target="Jiuyong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Fahey" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Tang" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Tang" target="David W. Cheung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Wai-Lok Cheung" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongxing He" target="Ada Fu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongxing He" target="Jiuyong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongxing He" target="Huidong Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Jia Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Yiping Ke">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="David W. Cheung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="M. H. Wong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Yufei Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Huidong Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Jiuyong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Yiu Sang Moon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="H. Y. Hwang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ada Fu" target="Anny Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Y. Hwang" target="David W. Cheung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yufei Tao" target="David W. Cheung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huidong Jin" target="Jiuyong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

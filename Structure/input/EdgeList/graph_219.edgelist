@@ -1,0 +1,33 @@
+Sangyong Han	Jinho Oh	{'relation': 'collaborate'}
+Young-suk Sim	Hyoung Gil Choi	{'relation': 'collaborate'}
+Young-suk Sim	Hyuk Kim	{'relation': 'collaborate'}
+Zhen He	Jing Wang	{'relation': 'collaborate'}
+Zhen He	Jinho Oh	{'relation': 'collaborate'}
+Zhen He	Sung H. Park	{'relation': 'collaborate'}
+Sung H. Park	Jinho Oh	{'relation': 'collaborate'}
+Sung H. Park	Jing Wang	{'relation': 'collaborate'}
+Jinho Oh	Kyumin Lee	{'relation': 'collaborate'}
+Jinho Oh	Hyunchul Sohn	{'relation': 'collaborate'}
+Jinho Oh	Jun-Sik Kim	{'relation': 'collaborate'}
+Jinho Oh	Maenghyo Cho	{'relation': 'collaborate'}
+Jinho Oh	Sunghoon Lee	{'relation': 'collaborate'}
+Jinho Oh	Jing Wang	{'relation': 'collaborate'}
+Youngsoo Shin	Hyuk Kim	{'relation': 'collaborate'}
+Kyumin Lee	Sunghoon Lee	{'relation': 'collaborate'}
+Kyumin Lee	Hyunchul Sohn	{'relation': 'collaborate'}
+Hyunchul Sohn	Sunghoon Lee	{'relation': 'collaborate'}
+Jing Wang	Jing Wang	{'relation': 'collaborate'}
+Youngbae Hwang	Jun-Sik Kim	{'relation': 'collaborate'}
+Youngbae Hwang	InSo Kweon	{'relation': 'collaborate'}
+InSo Kweon	T Kanade	{'relation': 'collaborate'}
+InSo Kweon	Jun-Sik Kim	{'relation': 'collaborate'}
+InSo Kweon	Pierre Gurdjos	{'relation': 'collaborate'}
+Hyoung Gil Choi	Hyuk Kim	{'relation': 'collaborate'}
+Hyoung Gil Choi	Maenghyo Cho	{'relation': 'collaborate'}
+Maenghyo Cho	Jun-Sik Kim	{'relation': 'collaborate'}
+Maenghyo Cho	Jinbok Choi	{'relation': 'collaborate'}
+Maenghyo Cho	Hyuk Kim	{'relation': 'collaborate'}
+Pierre Gurdjos	Jun-Sik Kim	{'relation': 'collaborate'}
+Jun-Sik Kim	T Kanade	{'relation': 'collaborate'}
+Jun-Sik Kim	Myung Hwangbo	{'relation': 'collaborate'}
+T Kanade	Myung Hwangbo	{'relation': 'collaborate'}

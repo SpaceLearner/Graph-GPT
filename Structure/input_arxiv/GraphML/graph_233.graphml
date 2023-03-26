@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P117200">
+      <data key="title">spin orbit torque devices for hardware security from deterministic to probabilistic regime</data>
+    </node>
+    <node id="P146466">
+      <data key="title">an interposer based root of trust seize the opportunity for secure system level integration of untrusted chiplets</data>
+    </node>
+    <node id="P37553">
+      <data key="title">obfuscating the interconnects low cost and resilient full chip layout camouflaging</data>
+    </node>
+    <node id="P93779">
+      <data key="title">boosting the bounds of symbolic qed for effective pre silicon verification of processor cores</data>
+    </node>
+    <node id="P135699">
+      <data key="title">zombieload cross privilege boundary data sampling</data>
+    </node>
+    <node id="P45803">
+      <data key="title">smart secure magnetoelectric antiferromagnet based tamper proof non volatile memory</data>
+    </node>
+    <node id="P157259">
+      <data key="title">e qed electrical bug localization during post silicon validation enabled by quick error detection and formal methods</data>
+    </node>
+    <node id="P103100">
+      <data key="title">hardware security for and beyond cmos technology an overview on fundamentals applications and challenges</data>
+    </node>
+    <node id="P47139">
+      <data key="title">best of both worlds integration of split manufacturing and camouflaging into a security driven cad flow for 3d ics</data>
+    </node>
+    <node id="P95713">
+      <data key="title">a look at the dark side of hardware reverse engineering a case study</data>
+    </node>
+    <node id="P135727">
+      <data key="title">3d integration another dimension toward hardware security</data>
+    </node>
+    <node id="P77565">
+      <data key="title">opening the doors to dynamic camouflaging harnessing the power of polymorphic devices</data>
+    </node>
+    <node id="P292">
+      <data key="title">interdiction in practice hardware trojan against a high security usb flash drive</data>
+    </node>
+    <node id="P75912">
+      <data key="title">physical design obfuscation of hardware a comprehensive investigation of device and logic level techniques</data>
+    </node>
+    <node id="P14907">
+      <data key="title">on mitigation of side channel attacks in 3d ics decorrelating thermal patterns from power and activity</data>
+    </node>
+    <node id="P9576">
+      <data key="title">exploiting spin orbit torque devices as reconfigurable logic for circuit obfuscation</data>
+    </node>
+    <node id="P121024">
+      <data key="title">protect your chip design intellectual property an overview</data>
+    </node>
+    <node id="P151290">
+      <data key="title">hardware reverse engineering overview and open challenges</data>
+    </node>
+    <node id="P146805">
+      <data key="title">an sr flip flop based physical unclonable functions for hardware security</data>
+    </node>
+    <node id="P56088">
+      <data key="title">advancing the state of the art in hardware trojans design</data>
+    </node>
+    <edge source="P117200" target="P75912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117200" target="P37553">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117200" target="P9576">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117200" target="P103100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146466" target="P103100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37553" target="P75912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37553" target="P47139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37553" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37553" target="P103100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93779" target="P56088">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93779" target="P292">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93779" target="P135727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93779" target="P157259">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135699" target="P103100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45803" target="P103100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P292">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P14907">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P9576">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P47139">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P77565">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103100" target="P135727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47139" target="P75912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47139" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47139" target="P135727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95713" target="P292">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135727" target="P14907">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135727" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77565" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P292" target="P151290">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75912" target="P151290">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75912" target="P121024">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151290" target="P146805">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

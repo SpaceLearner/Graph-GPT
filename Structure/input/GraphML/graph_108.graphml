@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Antonio Serino">
+      <data key="affiliation">Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy</data>
+      <data key="research">Inc. Int J RF, Microwave CAE, Wiley Periodicals</data>
+    </node>
+    <node id="Franco Giannini">
+      <data key="affiliation">Dpt. Ingegneria Elettronica, Univ. Tor Vergata, via Politecnico 1, 00133 Roma, Italy</data>
+      <data key="research">Inc. Int J RF, Wiley Periodicals, Microwave CAE</data>
+    </node>
+    <node id="F. Santucci">
+      <data key="affiliation">Nan</data>
+      <data key="research">outage interval, correlated log-normal, Performance Analysis</data>
+    </node>
+    <node id="S. Pennisi">
+      <data key="affiliation">DEES (Dipartimento Elettrico Elettronico e Sistemistico), Universita’ Di Catania, Viale Andrea Doria, 6, I95125 Catania, Italy spennisi@dees.unict.it</data>
+      <data key="research">design equation, John Wiley, proposed solution</data>
+    </node>
+    <node id="Maurizio Colizza">
+      <data key="affiliation">Center of Excellence DEWS, University of L'Aquila, L'Aquila, Italy</data>
+      <data key="research">proposed methodology, discrete event simulation, network simulation data</data>
+    </node>
+    <node id="Giorgio Leuzzi">
+      <data key="affiliation">Dipartimento di Ingegneria Elettrica, Università dell'Aquila, L'Aquila, Italy</data>
+      <data key="research">conversion matrix, Inc. Int J RF, Microwave CAE</data>
+    </node>
+    <node id="G. Ricotti">
+      <data key="affiliation">SGSThomson, Via Tolomeo 1, 20100 Cornaredo, Milano, Italy</data>
+      <data key="research">laboratory result, low bias current, low crossover distortion</data>
+    </node>
+    <node id="A. D. Grasso">
+      <data key="affiliation">Dipartimento di Ingegneria Elettrica Elettronica e dei Sistemi, Universita' di Catania, Viale Andrea Doria 6, Catania I95125, Italy</data>
+      <data key="research">design equation, John Wiley, phase margin</data>
+    </node>
+    <node id="Renato Menicocci">
+      <data key="affiliation">Fondazione Ugo Bordoni, Roma, Italy</data>
+      <data key="research">keystream sequence, clocked shift register, LFSR sequence</data>
+    </node>
+    <node id="Alessandro Trifiletti">
+      <data key="affiliation">Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy</data>
+      <data key="research">power consumption, dynamic power, differential power analysis</data>
+    </node>
+    <node id="M. Bucci">
+      <data key="affiliation">Infineon Technol. AG, Graz, Austria</data>
+      <data key="research">power consumption, dual-rail precharge logic family, logic family</data>
+    </node>
+    <node id="Giuseppe Ferri">
+      <data key="affiliation">Universita’ L’Aquila, Italy, Loc.Monteluco Roio, 67040 Poggio di Roio</data>
+      <data key="research">generation current conveyor, standard CMOS technology, low voltage low power</data>
+    </node>
+    <node id="G. Ciccarella">
+      <data key="affiliation">Telecom Italia, Roma, Italy</data>
+      <data key="research">discrete-time nonlinear systemsPerformance evaluation, nonlinear systemsA robust observer, continuous-discrete dynamic system approximation</data>
+    </node>
+    <node id="D. Rossi">
+      <data key="affiliation">ARCES, University of Bologna, Italy</data>
+      <data key="research">energy efficiency, different flavour, application space exploration</data>
+    </node>
+    <node id="Giuseppe Scotti">
+      <data key="affiliation">Dipartimento di Ingegneria dell'Informazione, Elettronica e Telecomunicazioni, Roma, Italy</data>
+      <data key="research">dynamic power, power consumption, generation current conveyor</data>
+    </node>
+    <node id="W. Sansen">
+      <data key="affiliation">Department of Electrical Engineering, Katholieke Universiteit Leuven, Kardinaal Mercierlaan 94, 3001 Heverlee, Belgium</data>
+      <data key="research">Analog circuit design, experimental result, automated design</data>
+    </node>
+    <node id="Massimo Alioto">
+      <data key="affiliation">DII (Dipartimento di Ingegneria dell'Informazione), University of Siena, I53100, Siena, Italy and Berkeley Wireless Research Center, EECS (Electrical Engineering and Computer Sciences) Department ...</data>
+      <data key="research">energy consumption, DPA attack, input rise time</data>
+    </node>
+    <node id="M. Faccio">
+      <data key="affiliation">Univ. L'Aquila, L'Aquila, Italy</data>
+      <data key="research">low bias current, low crossover distortion, low input</data>
+    </node>
+    <node id="Dominique Schreurs">
+      <data key="affiliation">IMEC, MCP, Kapeldreef 75, B3001 Leuven, Belgium</data>
+      <data key="research">Wiley Periodicals, Inc. Int J RF, Microwave CAE</data>
+    </node>
+    <node id="Francesco Centurelli">
+      <data key="affiliation">Dipartimento di Ingegneria Elettronica, Universitài Roma La Sapienza, Roma, Italy</data>
+      <data key="research">differential pair, proposed topology, design example</data>
+    </node>
+    <edge source="Antonio Serino" target="Giorgio Leuzzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antonio Serino" target="Franco Giannini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antonio Serino" target="Dominique Schreurs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franco Giannini" target="Giorgio Leuzzi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Santucci" target="Maurizio Colizza">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Santucci" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Pennisi" target="Alessandro Trifiletti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Pennisi" target="Francesco Centurelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Pennisi" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Pennisi" target="A. D. Grasso">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maurizio Colizza" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giorgio Leuzzi" target="Giuseppe Ferri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giorgio Leuzzi" target="Dominique Schreurs">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Ricotti" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Ricotti" target="Giuseppe Ferri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Ricotti" target="D. Rossi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. Grasso" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. Grasso" target="Alessandro Trifiletti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Renato Menicocci" target="Alessandro Trifiletti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Renato Menicocci" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alessandro Trifiletti" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alessandro Trifiletti" target="Giuseppe Ferri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alessandro Trifiletti" target="Massimo Alioto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alessandro Trifiletti" target="Francesco Centurelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Bucci" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Ferri" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Ferri" target="Giuseppe Scotti">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Ferri" target="Francesco Centurelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Ferri" target="D. Rossi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Ferri" target="W. Sansen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Ciccarella" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Rossi" target="M. Faccio">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Scotti" target="Francesco Centurelli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giuseppe Scotti" target="Massimo Alioto">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Junji Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">imperfect information game, Monte Carlo computer Daihinmin, Monte Carlo search</data>
+    </node>
+    <node id="Etsuji Tomita">
+      <data key="affiliation">Department of Information and Communication Engineering, Faculty of ElectroCommunications, The University of ElectroCommunications, Chofu, Tokyo, Japan</data>
+      <data key="research">mathcal L, mathcal X, mathcal C</data>
+    </node>
+    <node id="Noboru Kunihiro">
+      <data key="affiliation">The University of Tokyo, Kashiwa, Japan 2778561</data>
+      <data key="research">sufficient condition, collision attack, SC algorithm</data>
+    </node>
+    <node id="Tetsuro Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">Polynomial-Time Algorithm, real-time droct, deterministic pushdown transducers</data>
+    </node>
+    <node id="Emiko Suzuki">
+      <data key="affiliation">Tokyo Kasei Gakudn Tsukuba Womens University, Tsukuba, Ibaraki, Japan</data>
+      <data key="research">sign language, deaf people, bilingual sign language dictionary</data>
+    </node>
+    <node id="Tadashi Yamazaki">
+      <data key="affiliation">Nan</data>
+      <data key="research">motor primitive, hobby-use humanoid robot, joint angle</data>
+    </node>
+    <node id="Kensei Tsuchida">
+      <data key="affiliation">Toyo Univ., Saitama, Japan</data>
+      <data key="research">tree-structured diagram, attribute graph grammar, base model</data>
+    </node>
+    <node id="Robert Beals">
+      <data key="affiliation">IDACCR Princeton, Princeton, NJ, USA</data>
+      <data key="research">matrix group, finite index, log n</data>
+    </node>
+    <node id="Satoshi Kobayashi">
+      <data key="affiliation">National Institute of Informatics, Tokyo, Japan</data>
+      <data key="research">semantic wiki, proposed Semantic Wiki, simple Wiki syntax</data>
+    </node>
+    <node id="Yasubumi Sakakibara">
+      <data key="affiliation">Department of Biosciences and Informatics, Keio University, CREST, JST, 3141 Hiyoshi, Kohokuku, Yokohama, 2238522, Japan (Email: &lt;rfc822&gt;yasu@bio.keio.ac.jp&lt;/rfc822&gt;)</data>
+      <data key="research">RNA sequence, context-free grammar, E. coli</data>
+    </node>
+    <node id="Takashi Mihara">
+      <data key="affiliation">Department of Management Science, Kyushu Tokai University, 911 Toroku, Kumamoto 8628652, Japan</data>
+      <data key="research">quantum cryptosystems, polynomial time quantum algorithm, quantum secret key distribution</data>
+    </node>
+    <node id="Kazuo Okanoya">
+      <data key="affiliation">Brain Science Institute, RIKEN, Wako, Saitama, Japan,Graduate School of Frontier Science, The University of Tokyo, Kashiwa, Chiba, Japan</data>
+      <data key="research">Bengalese finch, vocal learning, simple method</data>
+    </node>
+    <node id="Kazuo Ohta">
+      <data key="affiliation">The University of ElectroCommunications, Tokyo, Japan</data>
+      <data key="research">multisignature scheme, collision attack, sufficient condition</data>
+    </node>
+    <node id="Miki Takahasi">
+      <data key="affiliation">Lab. for Biolinguistics, Brain Science Institute, RIKEN, 21 Hirosawa, Wakoshi, Saitama, 3510198, Japan</data>
+      <data key="research">song syntax, Bengalese finch, positive sample</data>
+    </node>
+    <node id="Takeo Yaku">
+      <data key="affiliation">The author is with the Dept. of Computer Science and System Analysis, Nihon University, Tokyo, 1560045 Japan.</data>
+      <data key="research">tree-structured diagram, attribute graph grammar, ridge detection method</data>
+    </node>
+    <node id="Setsuo Yamada">
+      <data key="affiliation">ATR Interpreting Telecommunications Research Laboratories, Hikaridai, Seikacho, Sorakugun, Kyoto, Japan</data>
+      <data key="research">proposed method, complete translation result, degrade translation efficiency</data>
+    </node>
+    <node id="Hiroshi Unno">
+      <data key="affiliation">University of Tsukuba, Tsukuba, Japan</data>
+      <data key="research">scalable software model checker, complete verification, automated higher-order verification</data>
+    </node>
+    <node id="Tetsunosuke Fujisaki">
+      <data key="affiliation">Science Institute, IBM Japan, Ltd., Sanbancho, Chiyodaku, Tokyo, Japan</data>
+      <data key="research">Logic programming, Japanese text, Japanese text proofreadingProceedings</data>
+    </node>
+    <node id="Kengo Sato">
+      <data key="affiliation">Dept. of Computer Science, Japan Biological Informatics Consortium, 10F TIME24 Building, 245 Aomi, Kotoku, Tokyo, Japan</data>
+      <data key="research">Grammatical Inference, Computer Science, International Colloquium</data>
+    </node>
+    <node id="Kazutoshi Sasahara">
+      <data key="affiliation">Laboratory for Biolinguistics, Brain Science Institute, RIKEN, Saitama, Japan</data>
+      <data key="research">song syntax, Bengalese finch, song grammar</data>
+    </node>
+    <edge source="Junji Nishino" target="Tetsuro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Tetsuro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Satoshi Kobayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Yasubumi Sakakibara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Etsuji Tomita" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Noboru Kunihiro" target="Kazuo Ohta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Noboru Kunihiro" target="Tetsuro Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kensei Tsuchida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Tadashi Yamazaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Takashi Mihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Takeo Yaku">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Setsuo Yamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Satoshi Kobayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kazutoshi Sasahara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Emiko Suzuki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Tetsunosuke Fujisaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Miki Takahasi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Yasubumi Sakakibara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kazuo Ohta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Robert Beals">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tetsuro Nishino" target="Kazuo Okanoya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Emiko Suzuki" target="Tetsunosuke Fujisaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kensei Tsuchida" target="Takeo Yaku">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kensei Tsuchida" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Kobayashi" target="Yasubumi Sakakibara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Satoshi Kobayashi" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasubumi Sakakibara" target="Kengo Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuo Okanoya" target="Miki Takahasi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuo Okanoya" target="Kazutoshi Sasahara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Miki Takahasi" target="Kazutoshi Sasahara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takeo Yaku" target="Hiroshi Unno">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

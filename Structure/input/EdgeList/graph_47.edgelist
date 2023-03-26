@@ -1,0 +1,41 @@
+Robert J. T. Morris	Ted G. Messinger	{'relation': 'collaborate'}
+Robert J. T. Morris	Hanoch Levy	{'relation': 'collaborate'}
+Bin Jia	Richard Treumann	{'relation': 'collaborate'}
+Bin Jia	J. P. Prost	{'relation': 'collaborate'}
+Bin Jia	Richard Hedges	{'relation': 'collaborate'}
+Bin Jia	A. E. Koniges	{'relation': 'collaborate'}
+J. P. Prost	Richard Treumann	{'relation': 'collaborate'}
+J. P. Prost	Richard Hedges	{'relation': 'collaborate'}
+J. P. Prost	A. E. Koniges	{'relation': 'collaborate'}
+Don Haderle	Josephine Cheng	{'relation': 'collaborate'}
+Don Haderle	Richard Hedges	{'relation': 'collaborate'}
+Don Haderle	Balakrishna R. Iyer	{'relation': 'collaborate'}
+Don Haderle	Ted G. Messinger	{'relation': 'collaborate'}
+Don Haderle	C. Mohan	{'relation': 'collaborate'}
+Don Haderle	Yun Wang	{'relation': 'collaborate'}
+Kusum Deep	C. Mohan	{'relation': 'collaborate'}
+Josephine Cheng	C. Mohan	{'relation': 'collaborate'}
+Josephine Cheng	Balakrishna R. Iyer	{'relation': 'collaborate'}
+Josephine Cheng	Richard Hedges	{'relation': 'collaborate'}
+Josephine Cheng	Ted G. Messinger	{'relation': 'collaborate'}
+Josephine Cheng	Yun Wang	{'relation': 'collaborate'}
+Chris Morrone	Richard Hedges	{'relation': 'collaborate'}
+Richard Hedges	Ted G. Messinger	{'relation': 'collaborate'}
+Richard Hedges	C. Mohan	{'relation': 'collaborate'}
+Richard Hedges	Yun Wang	{'relation': 'collaborate'}
+Richard Hedges	A. E. Koniges	{'relation': 'collaborate'}
+Richard Hedges	Balakrishna R. Iyer	{'relation': 'collaborate'}
+Richard Hedges	Richard Treumann	{'relation': 'collaborate'}
+Andrew Citron	C. Mohan	{'relation': 'collaborate'}
+Richard Treumann	A. E. Koniges	{'relation': 'collaborate'}
+Ted G. Messinger	Balakrishna R. Iyer	{'relation': 'collaborate'}
+Ted G. Messinger	Yun Wang	{'relation': 'collaborate'}
+Ted G. Messinger	Hanoch Levy	{'relation': 'collaborate'}
+Ted G. Messinger	C. Mohan	{'relation': 'collaborate'}
+Sang K. Cha	C. Mohan	{'relation': 'collaborate'}
+Larry Brown	C. Mohan	{'relation': 'collaborate'}
+C. Mohan	Dan Wolfson	{'relation': 'collaborate'}
+C. Mohan	Claus Hagen	{'relation': 'collaborate'}
+C. Mohan	Balakrishna R. Iyer	{'relation': 'collaborate'}
+C. Mohan	Yun Wang	{'relation': 'collaborate'}
+Yun Wang	Balakrishna R. Iyer	{'relation': 'collaborate'}

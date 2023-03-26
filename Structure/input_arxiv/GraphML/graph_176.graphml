@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P20148">
+      <data key="title">harnessing deep neural networks with logic rules</data>
+    </node>
+    <node id="P90216">
+      <data key="title">dependency based convolutional neural networks for sentence embedding</data>
+    </node>
+    <node id="P140344">
+      <data key="title">sentiwords deriving a high precision and high coverage lexicon for sentiment analysis</data>
+    </node>
+    <node id="P55974">
+      <data key="title">long short term memory over tree structures</data>
+    </node>
+    <node id="P148361">
+      <data key="title">credibility adjusted term frequency a supervised term weighting scheme for sentiment analysis and text classification</data>
+    </node>
+    <node id="P223">
+      <data key="title">predicting the sentiment polarity and rating of yelp reviews</data>
+    </node>
+    <node id="P156253">
+      <data key="title">supervised fine tuning for word embedding with integrated knowledge</data>
+    </node>
+    <node id="P120588">
+      <data key="title">learning distributed representations of sentences from unlabelled data</data>
+    </node>
+    <node id="P30689">
+      <data key="title">universal unsupervised uncovered sentiment analysis</data>
+    </node>
+    <node id="P38665">
+      <data key="title">data representation and compression using linear programming approximations</data>
+    </node>
+    <node id="P234">
+      <data key="title">cutting recursive autoencoder trees</data>
+    </node>
+    <node id="P77208">
+      <data key="title">an empirical study on large scale text classification with skip gram embeddings</data>
+    </node>
+    <node id="P31399">
+      <data key="title">seeing stars exploiting class relationships for sentiment categorization with respect to rating scales</data>
+    </node>
+    <node id="P149859">
+      <data key="title">a sensitivity analysis of and practitioners guide to convolutional neural networks for sentence classification</data>
+    </node>
+    <node id="P149943">
+      <data key="title">learning semantically coherent and reusable kernels in convolution neural nets for sentence classification</data>
+    </node>
+    <node id="P13150">
+      <data key="title">distributed representations for compositional semantics</data>
+    </node>
+    <node id="P147252">
+      <data key="title">learning with clustering penalties</data>
+    </node>
+    <node id="P104661">
+      <data key="title">pte predictive text embedding through large scale heterogeneous text networks</data>
+    </node>
+    <node id="P82104">
+      <data key="title">performance investigation of feature selection methods</data>
+    </node>
+    <node id="P92727">
+      <data key="title">a survey of data mining techniques for social media analysis</data>
+    </node>
+    <edge source="P20148" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90216" target="P55974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90216" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140344" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55974" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148361" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P223" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156253" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120588" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30689" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38665" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77208" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P82104">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P92727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P104661">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P149859">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P147252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P149943">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

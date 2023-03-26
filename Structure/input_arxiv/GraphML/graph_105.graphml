@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P165758">
+      <data key="title">clingcon the next generation</data>
+    </node>
+    <node id="P10117">
+      <data key="title">asp modulo csp the clingcon system</data>
+    </node>
+    <node id="P35867">
+      <data key="title">the dlv system for knowledge representation and reasoning</data>
+    </node>
+    <node id="P156271">
+      <data key="title">a model building framework for answer set programming with external computations</data>
+    </node>
+    <node id="P131389">
+      <data key="title">constraints lazy constraints or propagators in asp solving an empirical analysis</data>
+    </node>
+    <node id="P100279">
+      <data key="title">on relation between constraint answer set programming and satisfiability modulo theories</data>
+    </node>
+    <node id="P20808">
+      <data key="title">inlining external sources in answer set programs</data>
+    </node>
+    <node id="P18562">
+      <data key="title">efficient approximation of well founded justification and well founded domination corrected and extended version</data>
+    </node>
+    <node id="P44982">
+      <data key="title">a logic based framework leveraging neural networks for studying the evolution of neurological disorders</data>
+    </node>
+    <node id="P90090">
+      <data key="title">clingo asp control preliminary report</data>
+    </node>
+    <node id="P109036">
+      <data key="title">exploiting answer set programming with external sources for meta interpretive learning</data>
+    </node>
+    <node id="P141772">
+      <data key="title">rewriting recursive aggregates in answer set programming back to monotonicity</data>
+    </node>
+    <node id="P48199">
+      <data key="title">multi shot asp solving with clingo</data>
+    </node>
+    <node id="P43">
+      <data key="title">modularity aspects of disjunctive stable models</data>
+    </node>
+    <node id="P2402">
+      <data key="title">learning higher order logic programs</data>
+    </node>
+    <node id="P84908">
+      <data key="title">lowering the learning curve for declarative programming a python api for the idp system</data>
+    </node>
+    <node id="P130954">
+      <data key="title">implementing default and autoepistemic logics via the logic of gk</data>
+    </node>
+    <node id="P40020">
+      <data key="title">modeling variations of first order horn abduction in answer set programming using on demand constraints and flexible value invention</data>
+    </node>
+    <node id="P129">
+      <data key="title">conflict driven asp solving with external sources</data>
+    </node>
+    <node id="P18349">
+      <data key="title">stable models and an alternative logic programming paradigm</data>
+    </node>
+    <edge source="P165758" target="P90090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165758" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165758" target="P10117">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165758" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P90090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P156271">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P131389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10117" target="P20808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P18562">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P130954">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P90090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P90090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P40020">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P84908">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P131389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P109036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P20808">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P2402">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P44982">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100279" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100279" target="P44982">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20808" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20808" target="P141772">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44982" target="P90090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44982" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P44982" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90090" target="P40020">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90090" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109036" target="P2402">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141772" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141772" target="P48199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48199" target="P129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P121395">
+      <data key="title">sparse identification of posynomial models</data>
+    </node>
+    <node id="P92594">
+      <data key="title">learning high order feature interactions with fine control kernels</data>
+    </node>
+    <node id="P381">
+      <data key="title">large scale feature selection of risk genetic factors for alzheimer s disease via distributed group lasso regression</data>
+    </node>
+    <node id="P7720">
+      <data key="title">screening tests for lasso problems</data>
+    </node>
+    <node id="P99318">
+      <data key="title">safe feature elimination for the lasso and sparse supervised learning problems</data>
+    </node>
+    <node id="P122626">
+      <data key="title">a safe screening rule for sparse logistic regression</data>
+    </node>
+    <node id="P107125">
+      <data key="title">safe screening for the generalized conditional gradient method</data>
+    </node>
+    <node id="P155042">
+      <data key="title">an equivalence between the lasso and support vector machines</data>
+    </node>
+    <node id="P155514">
+      <data key="title">sparse regression and adaptive feature generation for the discovery of dynamical systems</data>
+    </node>
+    <node id="P66275">
+      <data key="title">safe sample screening for robust support vector machine</data>
+    </node>
+    <node id="P152549">
+      <data key="title">distributed convolutional sparse coding</data>
+    </node>
+    <node id="P93657">
+      <data key="title">large scale collaborative imaging genetics studies of risk genetic factors for alzheimer s disease across multiple institutions</data>
+    </node>
+    <edge source="P121395" target="P99318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92594" target="P99318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P381" target="P93657">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7720" target="P99318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P155042">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P152549">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P155514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P93657">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P122626">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P66275">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99318" target="P107125">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122626" target="P66275">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122626" target="P107125">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P25707">
+      <data key="title">rust distilled an expressive tower of languages</data>
+    </node>
+    <node id="P70153">
+      <data key="title">making high performance robots safe and easy to use for an introduction to computing</data>
+    </node>
+    <node id="P80423">
+      <data key="title">cfa2 a context free approach to control flow analysis</data>
+    </node>
+    <node id="P91443">
+      <data key="title">pushdown control flow analysis of higher order programs</data>
+    </node>
+    <node id="P110712">
+      <data key="title">refactoring legacy javascript code to use classes the good the bad and the ugly</data>
+    </node>
+    <node id="P24716">
+      <data key="title">dependent types for javascript</data>
+    </node>
+    <node id="P64017">
+      <data key="title">mu puppet a declarative subset of the puppet configuration language</data>
+    </node>
+    <node id="P99347">
+      <data key="title">the essence of javascript</data>
+    </node>
+    <node id="P161518">
+      <data key="title">concrete semantics for pushdown analysis the essence of summarization</data>
+    </node>
+    <node id="P124975">
+      <data key="title">sequential effect systems with control operators</data>
+    </node>
+    <node id="P45">
+      <data key="title">pushdown abstractions of javascript</data>
+    </node>
+    <node id="P105284">
+      <data key="title">adsafety type based verification of javascript sandboxing</data>
+    </node>
+    <node id="P14746">
+      <data key="title">jsclassfinder a tool to detect class like structures in javascript</data>
+    </node>
+    <node id="P108207">
+      <data key="title">abstracting abstract machines</data>
+    </node>
+    <node id="P112628">
+      <data key="title">building blocks for performance oriented dsls</data>
+    </node>
+    <node id="P93709">
+      <data key="title">deciding k cfa is complete for exptime</data>
+    </node>
+    <node id="P146470">
+      <data key="title">information flow control in webkit s javascript bytecode</data>
+    </node>
+    <node id="P35104">
+      <data key="title">static analysis for asynchronous javascript programs</data>
+    </node>
+    <node id="P111974">
+      <data key="title">efficient dynamic access analysis using javascript proxies</data>
+    </node>
+    <node id="P6328">
+      <data key="title">a language based serverless function accelerator</data>
+    </node>
+    <edge source="P25707" target="P99347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70153" target="P99347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80423" target="P161518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80423" target="P45">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80423" target="P91443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80423" target="P112628">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80423" target="P93709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91443" target="P161518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91443" target="P45">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91443" target="P108207">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91443" target="P112628">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110712" target="P99347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24716" target="P99347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24716" target="P105284">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24716" target="P6328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64017" target="P99347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P45">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P14746">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P124975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P35104">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P146470">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P105284">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P111974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99347" target="P6328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161518" target="P108207">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45" target="P108207">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45" target="P93709">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

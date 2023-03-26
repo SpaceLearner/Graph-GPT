@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Yasuo Ebara">
+      <data key="affiliation">Information and Communications Technology Services Planning Office, Osaka University, Ibaraki, Japan 5670047</data>
+      <data key="research">tiled display wall, video image, wide-area display</data>
+    </node>
+    <node id="Natsuko Hikage">
+      <data key="affiliation">Iwate Prefectural University</data>
+      <data key="research">security system, security technology, secure memo submission system</data>
+    </node>
+    <node id="Jun Sawamoto">
+      <data key="affiliation">Iwate Prefectural University, Japan</data>
+      <data key="research">ubiquitous databases, cooperative problem, proposed method</data>
+    </node>
+    <node id="Takuya Sasaki">
+      <data key="affiliation">Faculty of Software and Information Science, Iwate Prefectural University, Japan</data>
+      <data key="research">P2P content retrieval system, content access, content access history</data>
+    </node>
+    <node id="Yuji Wada">
+      <data key="affiliation">Department of Information Environment, Tokyo Denki University</data>
+      <data key="research">ubiquitous databases, single database, database management</data>
+    </node>
+    <node id="Naohisa Sakamoto">
+      <data key="affiliation">Kyoto University</data>
+      <data key="research">volume rendering, omni-directional display system, proposed technique</data>
+    </node>
+    <node id="Masatoshi Miyazaki">
+      <data key="affiliation">The author is with Argo Solutions Co., Ltd., Sendaishi, 9800811 Japan.</data>
+      <data key="research">various communication, communication system, message board</data>
+    </node>
+    <node id="Takeshi Yatsuo">
+      <data key="affiliation">Kikyu.org</data>
+      <data key="research">long-distance communication, long-distance radio propagation experiment, low-power long-distance communication</data>
+    </node>
+    <node id="Carl Howard Hauser">
+      <data key="affiliation">Washington State University, Pullman, Washington</data>
+      <data key="research">real-time system, multicast graph, garbage collection</data>
+    </node>
+    <node id="Ryota Kawashima">
+      <data key="affiliation">Nan</data>
+      <data key="research">virtual machine, Virtual Networking Function Container, OpenFlow-compatible vNFC configuration protocol</data>
+    </node>
+    <node id="Norihisa Segawa">
+      <data key="affiliation">Iwate Prefectural University</data>
+      <data key="research">Area Mail, sensor network, long distance communication sensor</data>
+    </node>
+    <node id="Hiroyasu Mitsui">
+      <data key="affiliation">Tokyo Denki University</data>
+      <data key="research">remote experiment, sensor network system, embedded system</data>
+    </node>
+    <node id="Hisao Koizumi">
+      <data key="affiliation">Tokyo Denki University</data>
+      <data key="research">sensor network system, cooperative problem, proposed method</data>
+    </node>
+    <node id="Takashi Katoh">
+      <data key="affiliation">Fujitsu Laboratories Ltd., Kawasaki, Japan</data>
+      <data key="research">ubiquitous databases, DoS attack, single database</data>
+    </node>
+    <node id="Tomoki Yoshihisa">
+      <data key="affiliation">Academic Center for Computing and Media Studies, Kyoto University, Japan</data>
+      <data key="research">continuous media data, proposed method, sensor data</data>
+    </node>
+    <node id="Hiroshi Yajima">
+      <data key="affiliation">RISTEX of the Japan Science and Technology Agency</data>
+      <data key="research">risk communication, consultation system, information acquisition</data>
+    </node>
+    <node id="Yuko Murayama">
+      <data key="affiliation">Iwate Prefectural University, Takizawa, Iwate, Japan</data>
+      <data key="research">security threat, user security knowledge level, high security knowledge level</data>
+    </node>
+    <node id="Koji Koyamada">
+      <data key="affiliation">Nan</data>
+      <data key="research">Asian Simulation Conference, Systems Modeling</data>
+    </node>
+    <node id="Xuping Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">acoustic data, secret data, secret bit stream</data>
+    </node>
+    <node id="Basabi Chakraborty">
+      <data key="affiliation">Faculty of Software and Information Science, Iwate Prefectural University, 15252 Aza Sugo, Takizawamura, Iwate 0200193, Japan</data>
+      <data key="research">MTS data set, facial feature, feature selection</data>
+    </node>
+    <edge source="Yasuo Ebara" target="Tomoki Yoshihisa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasuo Ebara" target="Koji Koyamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasuo Ebara" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasuo Ebara" target="Naohisa Sakamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Natsuko Hikage" target="Carl Howard Hauser">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Natsuko Hikage" target="Basabi Chakraborty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Natsuko Hikage" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Natsuko Hikage" target="Yuko Murayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Hiroyasu Mitsui">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Hisao Koizumi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Yuji Wada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Takuya Sasaki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Takashi Katoh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Hiroshi Yajima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Sawamoto" target="Takeshi Yatsuo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takuya Sasaki" target="Yuji Wada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takuya Sasaki" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takuya Sasaki" target="Takashi Katoh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuji Wada" target="Takashi Katoh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuji Wada" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Naohisa Sakamoto" target="Tomoki Yoshihisa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Naohisa Sakamoto" target="Koji Koyamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Naohisa Sakamoto" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masatoshi Miyazaki" target="Yuko Murayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Masatoshi Miyazaki" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takeshi Yatsuo" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl Howard Hauser" target="Basabi Chakraborty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl Howard Hauser" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carl Howard Hauser" target="Yuko Murayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ryota Kawashima" target="Norihisa Segawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ryota Kawashima" target="Xuping Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Koji Koyamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Takashi Katoh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Basabi Chakraborty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Xuping Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Tomoki Yoshihisa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Hiroshi Yajima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Norihisa Segawa" target="Yuko Murayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroyasu Mitsui" target="Hisao Koizumi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomoki Yoshihisa" target="Koji Koyamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuko Murayama" target="Basabi Chakraborty">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

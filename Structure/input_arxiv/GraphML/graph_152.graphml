@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P196">
+      <data key="title">fast and scalable structural svm with slack rescaling</data>
+    </node>
+    <node id="P30548">
+      <data key="title">smooth minimization of nonsmooth functions with parallel coordinate descent methods</data>
+    </node>
+    <node id="P164962">
+      <data key="title">stochastic gradient descent for non smooth optimization convergence results and optimal averaging schemes</data>
+    </node>
+    <node id="P83645">
+      <data key="title">slack and margin rescaling as convex extensions of supermodular functions</data>
+    </node>
+    <node id="P29243">
+      <data key="title">duality between subgradient and conditional gradient methods</data>
+    </node>
+    <node id="P151840">
+      <data key="title">learning graph matching</data>
+    </node>
+    <node id="P4829">
+      <data key="title">introduction to the conll 2000 shared task chunking</data>
+    </node>
+    <node id="P7920">
+      <data key="title">car segmentation and pose estimation using 3d object models</data>
+    </node>
+    <node id="P140455">
+      <data key="title">a distributed frank wolfe algorithm for communication efficient sparse learning</data>
+    </node>
+    <node id="P65190">
+      <data key="title">a simpler approach to obtaining an o 1 t convergence rate for the projected stochastic subgradient method</data>
+    </node>
+    <node id="P53416">
+      <data key="title">optimal margin distribution machine</data>
+    </node>
+    <node id="P11875">
+      <data key="title">a linearly convergent conditional gradient algorithm with applications to online and stochastic optimization</data>
+    </node>
+    <node id="P1493">
+      <data key="title">multi block admm for big data optimization in smart grid</data>
+    </node>
+    <node id="P107783">
+      <data key="title">efficient structured surrogate loss and regularization in structured prediction</data>
+    </node>
+    <node id="P107419">
+      <data key="title">primal dual rates and certificates</data>
+    </node>
+    <node id="P96230">
+      <data key="title">making gradient descent optimal for strongly convex stochastic optimization</data>
+    </node>
+    <node id="P26468">
+      <data key="title">looking outside of the box object detection and localization with multi scale patterns</data>
+    </node>
+    <node id="P94066">
+      <data key="title">block coordinate frank wolfe optimization for structural svms</data>
+    </node>
+    <node id="P129666">
+      <data key="title">forward backward greedy algorithms for atomic norm regularization</data>
+    </node>
+    <node id="P117451">
+      <data key="title">learning with submodular functions a convex optimization perspective</data>
+    </node>
+    <edge source="P196" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P196" target="P83645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P196" target="P107783">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30548" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164962" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164962" target="P65190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164962" target="P53416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164962" target="P96230">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29243" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29243" target="P65190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29243" target="P117451">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29243" target="P107419">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151840" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4829" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7920" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140455" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65190" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65190" target="P96230">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53416" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11875" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1493" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107419" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96230" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26468" target="P94066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94066" target="P129666">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94066" target="P117451">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

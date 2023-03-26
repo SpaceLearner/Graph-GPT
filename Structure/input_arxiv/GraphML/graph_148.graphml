@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P190">
+      <data key="title">design and analysis of a multi carrier differential chaos shift keying communication system</data>
+    </node>
+    <node id="P24291">
+      <data key="title">spectral efficiency of multipair massive mimo two way relaying with hardware impairments</data>
+    </node>
+    <node id="P111277">
+      <data key="title">analog network coding for multi user spread spectrum communication systems</data>
+    </node>
+    <node id="P114313">
+      <data key="title">rate energy region in wireless information and power transfer new receiver architecture and practical modulation</data>
+    </node>
+    <node id="P102349">
+      <data key="title">modulation design for wireless information and power transfer with nonlinear energy harvester modeling</data>
+    </node>
+    <node id="P141699">
+      <data key="title">wireless information and power transfer a dynamic power splitting approach</data>
+    </node>
+    <node id="P157142">
+      <data key="title">lattice codes for the gaussian relay channel decode and forward and compress and forward</data>
+    </node>
+    <node id="P87527">
+      <data key="title">opportunistic wireless energy harvesting in cognitive radio networks</data>
+    </node>
+    <node id="P88838">
+      <data key="title">iterative dynamic water filling for fading multiple access channels with energy harvesting</data>
+    </node>
+    <node id="P147121">
+      <data key="title">performance of a multiple access dcsk cc system over nakagami m fading channels</data>
+    </node>
+    <node id="P121252">
+      <data key="title">physical layer network coding tutorial survey and beyond</data>
+    </node>
+    <node id="P153725">
+      <data key="title">achievable rate of rician large scale mimo channels with transceiver hardware impairments</data>
+    </node>
+    <node id="P33056">
+      <data key="title">design of an miso swipt aided code index modulated multi carrier m dcsk system for e health iot</data>
+    </node>
+    <node id="P164288">
+      <data key="title">analysis of network coding schemes for differential chaos shift keying communication system</data>
+    </node>
+    <node id="P106022">
+      <data key="title">performance of mimo relay dcsk cd systems over nakagami fading channels</data>
+    </node>
+    <node id="P138491">
+      <data key="title">lower bound on the ber of a decode and forward relay network under chaos shift keying communication system</data>
+    </node>
+    <node id="P120768">
+      <data key="title">multiuser miso beamforming for simultaneous wireless information and power transfer</data>
+    </node>
+    <node id="P24074">
+      <data key="title">on the feasibility of wireless energy transfer using massive antenna arrays</data>
+    </node>
+    <node id="P72442">
+      <data key="title">towards the optimal amplify and forward cooperative diversity scheme</data>
+    </node>
+    <node id="P26017">
+      <data key="title">reliable physical layer network coding</data>
+    </node>
+    <edge source="P190" target="P111277">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P190" target="P147121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P190" target="P106022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P190" target="P164288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P190" target="P138491">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P190" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24291" target="P153725">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24291" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111277" target="P106022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111277" target="P121252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111277" target="P164288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114313" target="P141699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114313" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102349" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141699" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157142" target="P138491">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157142" target="P26017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87527" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88838" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147121" target="P106022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147121" target="P164288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121252" target="P164288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121252" target="P26017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153725" target="P33056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33056" target="P24074">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33056" target="P120768">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164288" target="P106022">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164288" target="P26017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138491" target="P72442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120768" target="P24074">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

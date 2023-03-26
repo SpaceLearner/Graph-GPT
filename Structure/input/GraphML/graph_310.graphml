@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="W. M. Fisher">
+      <data key="affiliation">Digital Equipment Corporation, 77 Reed Rd., Hudson, MA</data>
+      <data key="research">Integrated VLSI CAD system, VLSI CAD group, VLSI CAD system</data>
+    </node>
+    <node id="Alan W. Black">
+      <data key="affiliation">Dept. of Electron. Eng., Chinese Univ. of Hong Kong, Shatin, Hong Kong</data>
+      <data key="research">voice conversion, target speaker, long speech file</data>
+    </node>
+    <node id="Ivan Tashev">
+      <data key="affiliation">Microsoft Research, Redmond, WA</data>
+      <data key="research">enabling speech processing, client-side speech processing, effective speech</data>
+    </node>
+    <node id="Arthur Toth">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">Speech Graffiti, voice transformation, speaker de-identification</data>
+    </node>
+    <node id="N. Rajput">
+      <data key="affiliation">IBM Research  India, New Delhi, India</data>
+      <data key="research">audio content, enabling speech processing, World Wide Web</data>
+    </node>
+    <node id="Thomas K. Harris">
+      <data key="affiliation">EDalytics, LLC</data>
+      <data key="research">simulating student behavior, system behavior Validation, tutoring system</data>
+    </node>
+    <node id="Manuela M. Veloso">
+      <data key="affiliation">School of Computer Science, Carnegie MeHon University, Pittsburgh, PA</data>
+      <data key="research">mobile robot, real robot, multiple robot</data>
+    </node>
+    <node id="Qin Jin">
+      <data key="affiliation">interACT, Carnegie Mellon University, Pittsburgh PA, USA</data>
+      <data key="research">cepstral feature, Carnegie Mellon University, FFV feature</data>
+    </node>
+    <node id="Xiaojin Zhu">
+      <data key="affiliation">School of Mechatronics Engineering and Automation, Shanghai University</data>
+      <data key="research">mechanical origin, angle positioning system, fast zero-finding algorithm</data>
+    </node>
+    <node id="James Sanders">
+      <data key="affiliation">Nan</data>
+      <data key="research">faculty attitude, western michigan university</data>
+    </node>
+    <node id="Ronald Rosenfeld">
+      <data key="affiliation">IBM Research Division, Thomas J. Watson Research Center, Yorktown Heights, NY</data>
+      <data key="research">maximum entropy, improved speech recognition, unlabeled data</data>
+    </node>
+    <node id="Michael J. Witbrock">
+      <data key="affiliation">Cycorp Europe, Teslova Cesta, Ljubljana, Slovenia</data>
+      <data key="research">Cyc knowledge base, common sense knowledge, knowledge base</data>
+    </node>
+    <node id="Carolyn Penstein Rosé">
+      <data key="affiliation">University of Pittsburgh, Pittsburgh, PA</data>
+      <data key="research">collaborative learning, exploratory learning environment, machine learning</data>
+    </node>
+    <node id="Alice H. Oh">
+      <data key="affiliation">Nan</data>
+      <data key="research">Influence Propagation, Network Analyses, Personal Blogs</data>
+    </node>
+    <node id="Stefanie Tomko">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">Speech Graffiti, dialog system, natural language system</data>
+    </node>
+    <node id="Andrew L. Kun">
+      <data key="affiliation">Kingsbury Hall, Durham, NH</data>
+      <data key="research">ongoing task, task interruption, real-time task</data>
+    </node>
+    <node id="Tanja Schultz">
+      <data key="affiliation">Karlsruhe Institute of Technology, Cognitive Systems Laboratory, Adenauerring 4, 76131 Karlsruhe, Germany</data>
+      <data key="research">automatic speech recognition, speech-to-speech translation system, handwriting recognition</data>
+    </node>
+    <node id="Alexander Franz">
+      <data key="affiliation">Google Inc., Mountain View, CA</data>
+      <data key="research">Natural Language Processing, computational linguistics, natural language analysis</data>
+    </node>
+    <node id="Asim Smailagic">
+      <data key="affiliation">Alabama Univ., AL, USA</data>
+      <data key="research">wearable computer, digital systems design, design methodology</data>
+    </node>
+    <node id="Alexander I. Rudnicky">
+      <data key="affiliation">Unisys Corporation, Paoli PA</data>
+      <data key="research">enabling speech processing, speech interface, client-side speech processing</data>
+    </node>
+    <edge source="W. M. Fisher" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan W. Black" target="Qin Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan W. Black" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan W. Black" target="Tanja Schultz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan W. Black" target="Arthur Toth">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ivan Tashev" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ivan Tashev" target="N. Rajput">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ivan Tashev" target="Andrew L. Kun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="James Sanders">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Stefanie Tomko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Ronald Rosenfeld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Tanja Schultz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Thomas K. Harris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Xiaojin Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arthur Toth" target="Qin Jin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Rajput" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Rajput" target="Andrew L. Kun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas K. Harris" target="James Sanders">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas K. Harris" target="Carolyn Penstein Rosé">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas K. Harris" target="Ronald Rosenfeld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas K. Harris" target="Stefanie Tomko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas K. Harris" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Manuela M. Veloso" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qin Jin" target="Tanja Schultz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojin Zhu" target="Ronald Rosenfeld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaojin Zhu" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Sanders" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Sanders" target="Stefanie Tomko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James Sanders" target="Ronald Rosenfeld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald Rosenfeld" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald Rosenfeld" target="Stefanie Tomko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Witbrock" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carolyn Penstein Rosé" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alice H. Oh" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefanie Tomko" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew L. Kun" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Franz" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Asim Smailagic" target="Alexander I. Rudnicky">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

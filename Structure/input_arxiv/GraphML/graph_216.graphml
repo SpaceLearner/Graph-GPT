@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P44552">
+      <data key="title">reachability analysis of linear hybrid systems via block decomposition</data>
+    </node>
+    <node id="P126527">
+      <data key="title">a unified framework for approximating and clustering data</data>
+    </node>
+    <node id="P21526">
+      <data key="title">epsilon approximations and epsilon nets</data>
+    </node>
+    <node id="P124194">
+      <data key="title">optimal bound on the combinatorial complexity of approximating polytopes</data>
+    </node>
+    <node id="P57395">
+      <data key="title">randomized embeddings with slack and high dimensional approximate nearest neighbor</data>
+    </node>
+    <node id="P89171">
+      <data key="title">building efficient and compact data structures for simplicial complexes</data>
+    </node>
+    <node id="P108806">
+      <data key="title">optimal approximate polytope membership</data>
+    </node>
+    <node id="P86842">
+      <data key="title">efficient random walk methods for approximating polytope volume</data>
+    </node>
+    <node id="P9439">
+      <data key="title">near optimal epsilon kernel construction and related problems</data>
+    </node>
+    <node id="P269">
+      <data key="title">on the combinatorial complexity of approximating polytopes</data>
+    </node>
+    <node id="P67144">
+      <data key="title">practical and optimal lsh for angular distance</data>
+    </node>
+    <node id="P64508">
+      <data key="title">low quality dimension reduction and high dimensional approximate nearest neighbor</data>
+    </node>
+    <node id="P43788">
+      <data key="title">coresets for the nearest neighbor rule</data>
+    </node>
+    <node id="P150490">
+      <data key="title">algorithms for eps approximations of terrains</data>
+    </node>
+    <node id="P118295">
+      <data key="title">algorithms for deciding membership in polytopes of general dimension</data>
+    </node>
+    <node id="P110310">
+      <data key="title">approximate polytope membership queries</data>
+    </node>
+    <node id="P143772">
+      <data key="title">improved approximation algorithms for geometric set cover</data>
+    </node>
+    <node id="P85590">
+      <data key="title">constructive discrepancy minimization by walking on the edges</data>
+    </node>
+    <node id="P59">
+      <data key="title">optimal detection of intersections between convex polyhedra</data>
+    </node>
+    <node id="P139962">
+      <data key="title">optimal data dependent hashing for approximate near neighbors</data>
+    </node>
+    <edge source="P44552" target="P59">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126527" target="P21526">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21526" target="P9439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21526" target="P143772">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21526" target="P85590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21526" target="P150490">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124194" target="P269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124194" target="P108806">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124194" target="P9439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124194" target="P89171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57395" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57395" target="P67144">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57395" target="P64508">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57395" target="P139962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108806" target="P269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108806" target="P59">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108806" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108806" target="P9439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108806" target="P118295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86842" target="P118295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9439" target="P269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9439" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67144" target="P118295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67144" target="P139962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64508" target="P118295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64508" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64508" target="P139962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43788" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118295" target="P110310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118295" target="P139962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110310" target="P59">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

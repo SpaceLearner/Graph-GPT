@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. Bertini">
+      <data key="affiliation">London Business School, Regent's Park, London, NW1 4SA United Kingdom</data>
+      <data key="research">soccer video, video annotation, sports video</data>
+    </node>
+    <node id="Huiyu Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">Speech Enhancement, dominant plane, better plane</data>
+    </node>
+    <node id="Wentao Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Engineering Equipment, Improved Genetic Algorithm, battlefield optimal assignment model</data>
+    </node>
+    <node id="and Jim Bezdek">
+      <data key="affiliation">Nan</data>
+      <data key="research">monocular video, raw video data, recent video data set</data>
+    </node>
+    <node id="Wenfeng Shen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Memory Wall, good performance, Jacobi Iteration MethodIn</data>
+    </node>
+    <node id="Ran He">
+      <data key="affiliation">Columbia University, New York, NY</data>
+      <data key="research">exponential random graph model, graph limit, large social network</data>
+    </node>
+    <node id="Dong Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Encryption Algorithm, JPEG image encryption algorithm, encryption process</data>
+    </node>
+    <node id="Junping Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Automatic Parsing, Complex FeaturesAccording, Copenhagen Tree Tracer</data>
+    </node>
+    <node id="Lukasz G. Szafaryn">
+      <data key="affiliation">The University of Virginia, Department of Computer Science, USA</data>
+      <data key="research">parallel application, optimal performance, Rodinia benchmark suite</data>
+    </node>
+    <node id="Wen Gao">
+      <data key="affiliation">Nan</data>
+      <data key="research">mobile phone, short message, Serial Port</data>
+    </node>
+    <node id="Zhongqiu Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Adaptive Routing, Self-selective routing, new routing protocol</data>
+    </node>
+    <node id="Ramamohanarao Kotagiri">
+      <data key="affiliation">The University of Melbourne</data>
+      <data key="research">large data set, real-world data set, relational data</data>
+    </node>
+    <node id="Lei Zhang">
+      <data key="affiliation">Institute of Microelectronics, Tsinghua University, Beijing, China</data>
+      <data key="research">current gain, proposed ULCA, proposed circuit</data>
+    </node>
+    <node id="Shiqi Yu">
+      <data key="affiliation">Shenzhen Institute of Advanced Integration Technology, Shenzhen Institute of Advanced Technology, The Chinese University of Hongkong</data>
+      <data key="research">crowd kinetic energy, motion direction, motion variation</data>
+    </node>
+    <node id="Liang Wang">
+      <data key="affiliation">Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing</data>
+      <data key="research">multiple spatial, Feature Coding, Image Classification</data>
+    </node>
+    <node id="Yongzhen Huang">
+      <data key="affiliation">National Lab of Pattern Recognition Institute of Automation, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">BoW model, context information, context pattern</data>
+    </node>
+    <node id="Xiaoru Yuan">
+      <data key="affiliation">Key Laboratory of Machine Perception (Ministry of Education) and School of EECS, Peking University</data>
+      <data key="research">Dimension Projection Matrix, data item, parent node</data>
+    </node>
+    <node id="Xiaozhe Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">large set, triple system, design theory</data>
+    </node>
+    <node id="Zhan Song">
+      <data key="affiliation">Shenzhen Institutes of Advanced Technology</data>
+      <data key="research">fingerprint model, fingerprint feature detection, fingerprint image</data>
+    </node>
+    <node id="Christopher Leckie">
+      <data key="affiliation">Nan</data>
+      <data key="research">Interactive Fault Diagnosis Expert, Telecommunication Applications</data>
+    </node>
+    <edge source="M. Bertini" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huiyu Zhou" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wentao Wang" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wentao Wang" target="Lei Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wentao Wang" target="Zhongqiu Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="and Jim Bezdek" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="and Jim Bezdek" target="Xiaozhe Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="and Jim Bezdek" target="Christopher Leckie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="and Jim Bezdek" target="Ramamohanarao Kotagiri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenfeng Shen" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ran He" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Liu" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junping Zhang" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junping Zhang" target="Xiaoru Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lukasz G. Szafaryn" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Gao" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen Gao" target="Lei Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongqiu Li" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhongqiu Li" target="Zhongqiu Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramamohanarao Kotagiri" target="Xiaozhe Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramamohanarao Kotagiri" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ramamohanarao Kotagiri" target="Christopher Leckie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Zhang" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Zhang" target="Lei Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiqi Yu" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Yongzhen Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Zhan Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Xiaoru Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Christopher Leckie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Xiaozhe Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Wang" target="Liang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaozhe Wang" target="Christopher Leckie">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

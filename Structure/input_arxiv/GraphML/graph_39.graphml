@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P54172">
+      <data key="title">derivatives of entropy rate in special families of hidden markov chains</data>
+    </node>
+    <node id="P59998">
+      <data key="title">strong data processing inequalities for channels and bayesian networks</data>
+    </node>
+    <node id="P47276">
+      <data key="title">a randomized approach to the capacity of finite state channels</data>
+    </node>
+    <node id="P83777">
+      <data key="title">the bethe permanent of a nonnegative matrix</data>
+    </node>
+    <node id="P67607">
+      <data key="title">computable lower bounds for capacities of input driven finite state channels</data>
+    </node>
+    <node id="P147212">
+      <data key="title">novel lower bounds on the entropy rate of binary hidden markov processes</data>
+    </node>
+    <node id="P47">
+      <data key="title">entropy rate for hidden markov chains with rare transitions</data>
+    </node>
+    <node id="P58130">
+      <data key="title">on continuous time gaussian channels</data>
+    </node>
+    <node id="P83594">
+      <data key="title">a note on the strong data processing inequalities in bayesian networks</data>
+    </node>
+    <node id="P13395">
+      <data key="title">capacity analysis of discrete energy harvesting channels</data>
+    </node>
+    <node id="P79154">
+      <data key="title">non asymptotic equipartition properties for independent and identically distributed sources</data>
+    </node>
+    <node id="P63335">
+      <data key="title">limit theorems in hidden markov models</data>
+    </node>
+    <node id="P18610">
+      <data key="title">the capacity of finite state channels in the high noise regime</data>
+    </node>
+    <node id="P51877">
+      <data key="title">on the entropy of a noisy function</data>
+    </node>
+    <node id="P104668">
+      <data key="title">stationary and transition probabilities in slow mixing long memory markov processes</data>
+    </node>
+    <node id="P163752">
+      <data key="title">asymptotics of entropy rate in special families of hidden markov chains</data>
+    </node>
+    <node id="P11872">
+      <data key="title">on the performance of short block codes over finite state channels in the rare transition regime</data>
+    </node>
+    <node id="P92359">
+      <data key="title">delay sensitive communication over fading channel queueing behavior and code parameter selection</data>
+    </node>
+    <node id="P62475">
+      <data key="title">the entropy of a binary hidden markov process</data>
+    </node>
+    <node id="P140360">
+      <data key="title">entropy of hidden markov processes via cycle expansion</data>
+    </node>
+    <edge source="P54172" target="P18610">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54172" target="P147212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54172" target="P47276">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54172" target="P63335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54172" target="P163752">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54172" target="P62475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59998" target="P51877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59998" target="P147212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P13395">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P47">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P140360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P62475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P83777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P79154">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P63335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47276" target="P163752">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67607" target="P147212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147212" target="P51877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147212" target="P18610">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147212" target="P47">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147212" target="P83594">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47" target="P11872">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47" target="P63335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58130" target="P63335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83594" target="P51877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79154" target="P63335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63335" target="P18610">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63335" target="P62475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63335" target="P163752">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18610" target="P62475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104668" target="P11872">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163752" target="P62475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11872" target="P92359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62475" target="P140360">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

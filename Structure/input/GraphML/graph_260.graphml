@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Carol Friedman">
+      <data key="affiliation">Columbia Universtity</data>
+      <data key="research">natural language processing, domain-specific information, supplementary information</data>
+    </node>
+    <node id="Noemie Elhadad">
+      <data key="affiliation">The City College of New York, New York, NY</data>
+      <data key="research">clinical note, medical digital library, patient record</data>
+    </node>
+    <node id="Min Jiang">
+      <data key="affiliation">College of Business and Administration, Zhejiang University of Technology, Hangzhou, China 310023</data>
+      <data key="research">objective penalty function, global solution, local solution</data>
+    </node>
+    <node id="Peter Stetson">
+      <data key="affiliation">Department of Medical Informatics, Columbia University, New York, NY</data>
+      <data key="research">electronic documentation support tool, medical error, electronic health record</data>
+    </node>
+    <node id="Yang Li">
+      <data key="affiliation">Department of Physics, Zhejiang University, Hangzhou 310027, China and Key Laboratory of Infrared Imaging Materials and Detectors, Shanghai Institute of Technical Physics, Chinese Academy of Scien ...</data>
+      <data key="research">chaotic neural network, control parameter space, control signal</data>
+    </node>
+    <node id="Hua Xu">
+      <data key="affiliation">The University of Texas, USA</data>
+      <data key="research">text mining, Biomedical Informatics, biomedical data repository</data>
+    </node>
+    <node id="Mu Mu">
+      <data key="affiliation">Nan</data>
+      <data key="research">IP anycast, application-level DDoS attack, previous DDoS solution</data>
+    </node>
+    <node id="Hong Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">efficient protocol, improved protocol, key agreement protocol</data>
+    </node>
+    <node id="Joshua C. Denny">
+      <data key="affiliation">Department of Biomedical Informatics, Vanderbilt University, School of Medicine, Nashville, TN, USA and Department of Medicine, Vanderbilt University, School of Medicine, Nashville, TN, USA</data>
+      <data key="research">clinical experience, patient portal, disease association</data>
+    </node>
+    <node id="Stefano Leonardi">
+      <data key="affiliation">Computer Science &amp; Engineering Department, University of California, CA</data>
+      <data key="research">time series, average flow time, approximation algorithm</data>
+    </node>
+    <node id="Jun Xu">
+      <data key="affiliation">eBusiness Technology Institute, The University of Hongkong, Hongkong, China</data>
+      <data key="research">proposed algorithm, multi-objective optimization problem, proposed MBFO</data>
+    </node>
+    <node id="Timothy J. Close">
+      <data key="affiliation">Department of Botany and Plant Sciences, University of California, Riverside, CA 92521, USA</data>
+      <data key="research">popular oligos, Physical Map, EST sequence</data>
+    </node>
+    <node id="F. Vahid">
+      <data key="affiliation">University of California, Riverside</data>
+      <data key="research">general PEs, physical system, processing element</data>
+    </node>
+    <node id="S. Trent Rosenbloom">
+      <data key="affiliation">Department of Biomedical Informatics, Vanderbilt University, Nashville, TN, USA</data>
+      <data key="research">decision support, healthcare provider, CPOE system</data>
+    </node>
+    <node id="Randolph A. Miller">
+      <data key="affiliation">Journal of the American Medical Informatics Association</data>
+      <data key="research">biomedical informatics journal, exemplary scientific conduct</data>
+    </node>
+    <node id="Min Song">
+      <data key="affiliation">Nan</data>
+      <data key="research">Unscented Kalman Filter, unmodeled acceleration, Gauss-Markov ProcessAutonomous navigation</data>
+    </node>
+    <node id="Yonghui Wu">
+      <data key="affiliation">Dept. of Computer Science and Eng., University of California, Riverside, CA</data>
+      <data key="research">genetic linkage map, input map, theoretical observation</data>
+    </node>
+    <node id="Michael E. Matheny">
+      <data key="affiliation">Vanderbilt University, Nashville, TN, USA</data>
+      <data key="research">adverse drug reaction, adverse drug event, drug design</data>
+    </node>
+    <node id="Xiaolong Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Health Care System, first-tier indicator, Entropy ModelComprehensive evaluation</data>
+    </node>
+    <node id="Dario A. Giuse">
+      <data key="affiliation">Department of Biomedical Informatics, Implementation Sciences Laboratory, School of Medicine, 400 Eskind Biomedical Library, 2209 Garland Avenue, Nashville, TN 372328340, United States</data>
+      <data key="research">pointer variable, online community, one-way constraint</data>
+    </node>
+    <edge source="Carol Friedman" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carol Friedman" target="Noemie Elhadad">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carol Friedman" target="Peter Stetson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carol Friedman" target="Hua Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Noemie Elhadad" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Noemie Elhadad" target="Hua Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Noemie Elhadad" target="Peter Stetson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Jiang" target="Hua Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Jiang" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Jiang" target="Joshua C. Denny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Stetson" target="Hua Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Stetson" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Li" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Li" target="Mu Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Joshua C. Denny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Min Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Michael E. Matheny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="S. Trent Rosenbloom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Xu" target="Randolph A. Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mu Mu" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Yan" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="Min Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="Michael E. Matheny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="Randolph A. Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joshua C. Denny" target="S. Trent Rosenbloom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Leonardi" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Leonardi" target="Timothy J. Close">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Leonardi" target="F. Vahid">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Xu" target="Xiaolong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun Xu" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Timothy J. Close" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Vahid" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Trent Rosenbloom" target="Randolph A. Miller">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Trent Rosenbloom" target="Min Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Trent Rosenbloom" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Trent Rosenbloom" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randolph A. Miller" target="Min Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randolph A. Miller" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randolph A. Miller" target="Michael E. Matheny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randolph A. Miller" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Song" target="Yonghui Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Song" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yonghui Wu" target="Michael E. Matheny">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yonghui Wu" target="Dario A. Giuse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yonghui Wu" target="Xiaolong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

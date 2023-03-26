@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Phillip J. Windley">
+      <data key="affiliation">Brigham Young University, Provo, UT</data>
+      <data key="research">formal verification, microprocessor verification, Digital Identity</data>
+    </node>
+    <node id="Kenneth Cooper">
+      <data key="affiliation">Nan</data>
+      <data key="research">complex project, System Dynamics Transforms Fluor, construction project</data>
+    </node>
+    <node id="Robert Johnson">
+      <data key="affiliation">School of Information Systems, Computing and Mathematics, Brunel University, Uxbridge, Middlesex, United Kingdom</data>
+      <data key="research">ASP offering, larger organization, ASP integration</data>
+    </node>
+    <node id="Akhilesh Tyagi">
+      <data key="affiliation">IEEE</data>
+      <data key="research">function pointer, cache memory, function unit</data>
+    </node>
+    <node id="Shubha Kher">
+      <data key="affiliation">Arkansas State University, Jonesboro, AR</data>
+      <data key="research">Net-Centric computing, smart grid, faulty sensor</data>
+    </node>
+    <node id="Tao Wu">
+      <data key="affiliation">School of Electrical and Computer Engineering, Oklahoma State University, Stillwater, OK</data>
+      <data key="research">arrival estimation scheme, maximum likelihood estimation, parameter estimation</data>
+    </node>
+    <node id="Alex Silbey">
+      <data key="affiliation">Silicon Graphics, Mountain View, CA</data>
+      <data key="research">design abstraction</data>
+    </node>
+    <node id="Arun K. Somani">
+      <data key="affiliation">Nan</data>
+      <data key="research">thermal cycle, chip reliability, chip reliability testing process</data>
+    </node>
+    <node id="Walt Helbig">
+      <data key="affiliation">RCA</data>
+      <data key="research">new computer, 32-bit GaAs microprocessor, instruction pipeline</data>
+    </node>
+    <node id="N. H. Vaidya">
+      <data key="affiliation">IEEE</data>
+      <data key="research">wireless network, wireless link, simulation result</data>
+    </node>
+    <node id="Zhao Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">memory controller, memory module, DDRx memory bus</data>
+    </node>
+    <node id="Mani Mina">
+      <data key="affiliation">Dependable Computing and Networking Laboratory, Electrical and Computer Engineering Department, Iowa State University, Ames, IA</data>
+      <data key="research">multifiber network, multiple fiber, network device</data>
+    </node>
+    <node id="Srini Tridandapani">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Iowa State University, Ames, IA</data>
+      <data key="research">WDM network, multicast traffic, channel sharing</data>
+    </node>
+    <node id="Hartmut Schmeck">
+      <data key="affiliation">Institute AIFB, Karlsruhe Institute of Technology, Germany</data>
+      <data key="research">Organic Computing, Autonomic Computing, Organic Computing system</data>
+    </node>
+    <node id="Veljko Milutinovic">
+      <data key="affiliation">Serbian Academy of Sciences and Arts in Belgrade, Serbia</data>
+      <data key="research">concept modeling, Data Mining, medical domain</data>
+    </node>
+    <node id="David Fura">
+      <data key="affiliation">Purdue Univ., W. Lafayette, IN</data>
+      <data key="research">instruction pipeline, 32-b single-chip GaAs microprocessor, Designing GaAs Microcomputer SystemsFirst</data>
+    </node>
+    <node id="James A. Ritcey">
+      <data key="affiliation">University of Washington</data>
+      <data key="research">residual ISI, target detection, target detection problem</data>
+    </node>
+    <node id="Richard Zieger">
+      <data key="affiliation">RCA Corporation</data>
+      <data key="research">ControllerFirst Page, Designing GaAs Microcomputer SystemsFirst, GaAs Systolic Array</data>
+    </node>
+    <node id="M. Harrington">
+      <data key="affiliation">School of Languages and Comparative Cultural Studies, The University of Queensland, Brisbane, Queensland, Australia</data>
+      <data key="research">local coherence, CTutor feedback, human raters</data>
+    </node>
+    <node id="Joseph Linn">
+      <data key="affiliation">University of Southwestern Louisiana, Lafayette, Louisiana</data>
+      <data key="research">microcode compiler, cache memory, target architecture</data>
+    </node>
+    <edge source="Phillip J. Windley" target="David Fura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Phillip J. Windley" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenneth Cooper" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenneth Cooper" target="Robert Johnson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert Johnson" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Akhilesh Tyagi" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shubha Kher" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Wu" target="Arun K. Somani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex Silbey" target="Veljko Milutinovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex Silbey" target="Richard Zieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex Silbey" target="David Fura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alex Silbey" target="Walt Helbig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="M. Harrington">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="Srini Tridandapani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="James A. Ritcey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="Mani Mina">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="N. H. Vaidya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="Zhao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="Hartmut Schmeck">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arun K. Somani" target="David Fura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walt Helbig" target="Veljko Milutinovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walt Helbig" target="Joseph Linn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walt Helbig" target="Richard Zieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walt Helbig" target="David Fura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Veljko Milutinovic" target="David Fura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Veljko Milutinovic" target="Richard Zieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Veljko Milutinovic" target="Joseph Linn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Fura" target="Richard Zieger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Fura" target="Joseph Linn">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

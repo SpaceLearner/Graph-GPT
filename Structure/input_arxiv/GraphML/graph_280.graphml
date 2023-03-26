@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P12726">
+      <data key="title">spatially coupled ensembles universally achieve capacity under belief propagation</data>
+    </node>
+    <node id="P122581">
+      <data key="title">adaptive contract design for crowdsourcing markets bandit algorithms for repeated principal agent problems</data>
+    </node>
+    <node id="P38760">
+      <data key="title">achieving budget optimality with adaptive schemes in crowdsourcing</data>
+    </node>
+    <node id="P347">
+      <data key="title">optimal inference in crowdsourced classification via belief propagation</data>
+    </node>
+    <node id="P85538">
+      <data key="title">adaptive crowdsourcing algorithms for the bandit survey problem</data>
+    </node>
+    <node id="P168380">
+      <data key="title">a permutation based model for crowd labeling optimal estimation and robustness</data>
+    </node>
+    <node id="P60229">
+      <data key="title">learning from noisy singly labeled data</data>
+    </node>
+    <node id="P135202">
+      <data key="title">reliable crowdsourcing under the generalized dawid skene model</data>
+    </node>
+    <node id="P111236">
+      <data key="title">max product belief propagation for linear programming applications to combinatorial optimization</data>
+    </node>
+    <node id="P19975">
+      <data key="title">regularized minimax conditional entropy for crowdsourcing</data>
+    </node>
+    <node id="P145110">
+      <data key="title">how to grade a test without knowing the answers a bayesian graphical model for adaptive crowdsourcing and aptitude testing</data>
+    </node>
+    <node id="P2326">
+      <data key="title">mechanism design for crowdsourcing an optimal 1 1 e competitive budget feasible mechanism for large markets</data>
+    </node>
+    <node id="P129706">
+      <data key="title">approval voting and incentives in crowdsourcing</data>
+    </node>
+    <node id="P33528">
+      <data key="title">sequential multi class labeling in crowdsourcing</data>
+    </node>
+    <node id="P113891">
+      <data key="title">spectral detection on sparse hypergraphs</data>
+    </node>
+    <node id="P98843">
+      <data key="title">budget optimal task allocation for reliable crowdsourcing systems</data>
+    </node>
+    <node id="P144685">
+      <data key="title">iterative bayesian learning for crowdsourced regression</data>
+    </node>
+    <node id="P134675">
+      <data key="title">double or nothing multiplicative incentive mechanisms for crowdsourcing</data>
+    </node>
+    <node id="P79075">
+      <data key="title">tensor decompositions for learning latent variable models</data>
+    </node>
+    <node id="P32602">
+      <data key="title">optimality of belief propagation for crowdsourced classification</data>
+    </node>
+    <edge source="P12726" target="P347">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12726" target="P144685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12726" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P122581" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P168380">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P98843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P144685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38760" target="P33528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P347" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P347" target="P113891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P347" target="P111236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P347" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P347" target="P98843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85538" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168380" target="P135202">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168380" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168380" target="P134675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168380" target="P144685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60229" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135202" target="P19975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135202" target="P98843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135202" target="P134675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111236" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P129706">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P145110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P79075">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P98843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P134675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P2326">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P144685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P33528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19975" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2326" target="P134675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129706" target="P134675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33528" target="P98843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98843" target="P144685">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98843" target="P32602">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

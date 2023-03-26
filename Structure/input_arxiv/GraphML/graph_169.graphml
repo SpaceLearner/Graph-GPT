@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P130949">
+      <data key="title">low complexity belief propagation polar code decoders</data>
+    </node>
+    <node id="P101868">
+      <data key="title">low latency list decoding of polar codes with double thresholding</data>
+    </node>
+    <node id="P111500">
+      <data key="title">comparison of polar decoders with existing low density parity check and turbo decoders</data>
+    </node>
+    <node id="P214">
+      <data key="title">parallel interleaver design for a high throughput hspa lte multi standard turbo decoder</data>
+    </node>
+    <node id="P164895">
+      <data key="title">on complexity energy and implementation efficiency of channel decoders</data>
+    </node>
+    <node id="P15941">
+      <data key="title">a new construction for ldpc codes using permutation polynomials over integer rings</data>
+    </node>
+    <node id="P128395">
+      <data key="title">reduced complexity belief propagation decoders for polar codes</data>
+    </node>
+    <node id="P71805">
+      <data key="title">analysis of cubic permutation polynomials for turbo codes</data>
+    </node>
+    <node id="P125795">
+      <data key="title">minimum pseudoweight analysis of 3 dimensional turbo codes</data>
+    </node>
+    <node id="P105962">
+      <data key="title">cycle structure of permutation functions over finite fields and their applications</data>
+    </node>
+    <node id="P57233">
+      <data key="title">on maximum contention free interleavers and permutation polynomials over integer rings</data>
+    </node>
+    <node id="P15986">
+      <data key="title">fast polar decoders algorithm and implementation</data>
+    </node>
+    <node id="P71191">
+      <data key="title">multiple access demodulation in the lifted signal graph with spatial coupling</data>
+    </node>
+    <node id="P150921">
+      <data key="title">symbol decision successive cancellation list decoder for polar codes</data>
+    </node>
+    <node id="P61103">
+      <data key="title">tc throughput centric successive cancellation decoder hardware implementation for polar codes</data>
+    </node>
+    <node id="P161609">
+      <data key="title">an efficient list decoder architecture for polar codes</data>
+    </node>
+    <node id="P112773">
+      <data key="title">energy efficient beam coordination strategies with rate dependent processing power</data>
+    </node>
+    <node id="P3597">
+      <data key="title">on quadratic inverses for quadratic permutation polynomials over integer rings</data>
+    </node>
+    <node id="P21335">
+      <data key="title">permutation polynomial interleavers an algebraic geometric perspective</data>
+    </node>
+    <node id="P63847">
+      <data key="title">channel polarization a method for constructing capacity achieving codes for symmetric binary input memoryless channels</data>
+    </node>
+    <edge source="P130949" target="P101868">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130949" target="P15986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130949" target="P161609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130949" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130949" target="P111500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101868" target="P15986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101868" target="P161609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101868" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101868" target="P111500">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P112773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P150921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P61103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P128395">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P15986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P161609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111500" target="P164895">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P214" target="P57233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P214" target="P164895">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P214" target="P3597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15941" target="P57233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15941" target="P3597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15941" target="P21335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128395" target="P15986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128395" target="P161609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128395" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71805" target="P57233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71805" target="P21335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71805" target="P3597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125795" target="P57233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105962" target="P21335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P105962" target="P3597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57233" target="P3597">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57233" target="P21335">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57233" target="P71191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15986" target="P61103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15986" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150921" target="P161609">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150921" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61103" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161609" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3597" target="P21335">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P33286">
+      <data key="title">from altruism to non cooperation in routing games</data>
+    </node>
+    <node id="P163048">
+      <data key="title">a stackelberg game model for overlay d2d transmission with heterogeneous rate requirements</data>
+    </node>
+    <node id="P133922">
+      <data key="title">an integrated spectrum and information market for green cognitive communications</data>
+    </node>
+    <node id="P99567">
+      <data key="title">economic analysis of crowdsourced wireless community networks</data>
+    </node>
+    <node id="P4898">
+      <data key="title">stable nash equilibria of medium access games under symmetric socially altruistic behavior</data>
+    </node>
+    <node id="P95549">
+      <data key="title">two sided matching based cooperative spectrum sharing</data>
+    </node>
+    <node id="P47503">
+      <data key="title">altruism in atomic congestion games</data>
+    </node>
+    <node id="P100111">
+      <data key="title">stochastic loss aversion for random medium access</data>
+    </node>
+    <node id="P95010">
+      <data key="title">efficient and fair collaborative mobile internet access</data>
+    </node>
+    <node id="P64641">
+      <data key="title">net neutrality and quality of service</data>
+    </node>
+    <node id="P124550">
+      <data key="title">efficient and scalable distributed autonomous spatial aloha networks via local leader election</data>
+    </node>
+    <node id="P71158">
+      <data key="title">exploiting social tie structure for cooperative wireless networking a social group utility maximization framework</data>
+    </node>
+    <node id="P63366">
+      <data key="title">the robust price of anarchy of altruistic games</data>
+    </node>
+    <node id="P147973">
+      <data key="title">mine gold to deliver green cognitive communications</data>
+    </node>
+    <node id="P33">
+      <data key="title">csma local area networking under dynamic altruism</data>
+    </node>
+    <node id="P134656">
+      <data key="title">regulation of off network pricing in a nonneutral network</data>
+    </node>
+    <node id="P10505">
+      <data key="title">aloha games with spatial reuse</data>
+    </node>
+    <node id="P29410">
+      <data key="title">public wi fi monetization via advertising</data>
+    </node>
+    <node id="P120739">
+      <data key="title">achieving an efficient and fair equilibrium through taxation</data>
+    </node>
+    <node id="P28754">
+      <data key="title">combining spot and futures markets a hybrid market approach to dynamic spectrum access</data>
+    </node>
+    <edge source="P33286" target="P33">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33286" target="P134656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163048" target="P10505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133922" target="P147973">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133922" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99567" target="P29410">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99567" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4898" target="P33">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4898" target="P10505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4898" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4898" target="P71158">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95549" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47503" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47503" target="P71158">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47503" target="P63366">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100111" target="P33">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95010" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64641" target="P134656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124550" target="P10505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63366" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147973" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29410" target="P120739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120739" target="P28754">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

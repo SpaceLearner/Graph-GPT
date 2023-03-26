@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sangyong Han">
+      <data key="affiliation">IBM, Kingston, NY and University of Minnesota</data>
+      <data key="research">single row, algorithms guarantee, layering algorithm</data>
+    </node>
+    <node id="Young-suk Sim">
+      <data key="affiliation">Mechatronics and Manufacturing Technology Center, SAMSUNG Electronics Co., Ltd., 416, Maetan3Dong, YeongtongGu, SuwonCity, GyeonggiDo 443742, Republic of Korea</data>
+      <data key="research">residual layer, residual layer thickness, new UV-NIL process</data>
+    </node>
+    <node id="Zhen He">
+      <data key="affiliation">Nan</data>
+      <data key="research">OutlierResponse surface, response surface design, Response Surface Designs</data>
+    </node>
+    <node id="Sung H. Park">
+      <data key="affiliation">Department of Statistics, Seoul National University, Seoul 151, Korea</data>
+      <data key="research">second-order slope rotatability, slope rotatability, correlated error</data>
+    </node>
+    <node id="Jinho Oh">
+      <data key="affiliation">School of Mechanical and Aerospace Engineering, Seoul National University, San 561, ShillimDong, KwanakGu, Seoul 151744, Republic of Korea</data>
+      <data key="research">multiple delaminations, higher order, finite element</data>
+    </node>
+    <node id="Youngsoo Shin">
+      <data key="affiliation">Korea Advanced Institute of Science and Technology, Republic of Korea</data>
+      <data key="research">power consumption, clocking power, leakage power</data>
+    </node>
+    <node id="Kyumin Lee">
+      <data key="affiliation">Department of Materials Science and Engineering, Yonsei University, 50 Yonseiro, Seodaemungu, Seoul 120749, Republic of Korea</data>
+      <data key="research">LP-TEOS SiO, MONOS device, tunnel layer</data>
+    </node>
+    <node id="Hyunchul Sohn">
+      <data key="affiliation">Department of Materials Science and Engineering, Yonsei University, 50 Yonseiro, Seodaemungu, Seoul 120749, Republic of Korea</data>
+      <data key="research">LP-TEOS SiO, MONOS device, tunnel layer</data>
+    </node>
+    <node id="Jing Wang">
+      <data key="affiliation">Department of Experimental Statistics, Louisiana State University, Baton Rouge, LA 70803, USA</data>
+      <data key="research">proposed MCEM algorithm, Markov chain, independent sample</data>
+    </node>
+    <node id="Youngbae Hwang">
+      <data key="affiliation">Korea Electronics Technology Institute (KETI), Korea</data>
+      <data key="research">intensity difference, observed intensity, true intensity</data>
+    </node>
+    <node id="Sunghoon Lee">
+      <data key="affiliation">Korean Bioinformation Center, Korea Research Institute of Bioscience and Biotechnology, 52 Yuseonggu, Eoeundong, Daejeon 305333, South Korea</data>
+      <data key="research">computational requirement, Protein Structural Interactome map, Multi-resolution protein modelThe area</data>
+    </node>
+    <node id="InSo Kweon">
+      <data key="affiliation">Chonnam National University, Korea, Korea Advanced Institute of Science and Technology, Korea</data>
+      <data key="research">proposed method, experimental result, object recognition</data>
+    </node>
+    <node id="Hyoung Gil Choi">
+      <data key="affiliation">Mechatronics and Manufacturing Technology Center, SAMSUNG Electronics Co., Ltd., 416, Maetan3Dong, YeongtongGu, SuwonCity, GyeonggiDo 443742, Republic of Korea</data>
+      <data key="research">reduced system, boundary constraint, metal gate</data>
+    </node>
+    <node id="Maenghyo Cho">
+      <data key="affiliation">School of Mechanical and Aerospace Engineering, Seoul National University, San 561, ShinlimDong, KwanakKu, Seoul 151744, Republic of Korea</data>
+      <data key="research">r-adaptive method, reduced system, multiple delaminations</data>
+    </node>
+    <node id="Hyuk Kim">
+      <data key="affiliation">Electronics and Telecommunications Research Institute (ETRI), Daejeon, Korea</data>
+      <data key="research">physical design methodology, new power network architecture, power gating</data>
+    </node>
+    <node id="Pierre Gurdjos">
+      <data key="affiliation">IRIT, University of Toulouse, Toulouse, France</data>
+      <data key="research">Euclidean structure, real image, confocal conic</data>
+    </node>
+    <node id="Jinbok Choi">
+      <data key="affiliation">Seoul National University</data>
+      <data key="research">deformable object, haptic interaction, Haptic Simulation</data>
+    </node>
+    <node id="Jun-Sik Kim">
+      <data key="affiliation">Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA, USA</data>
+      <data key="research">confocal conic, camera calibration, camera constraint</data>
+    </node>
+    <node id="T Kanade">
+      <data key="affiliation">Department of Information Science, Kyoto University Kyoto, Japan</data>
+      <data key="research">input image, image sequence, proposed method</data>
+    </node>
+    <node id="Myung Hwangbo">
+      <data key="affiliation">Robotics Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh</data>
+      <data key="research">camera rolling, multiple camera, conventional KLT</data>
+    </node>
+    <edge source="Sangyong Han" target="Jinho Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-suk Sim" target="Hyoung Gil Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-suk Sim" target="Hyuk Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhen He" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhen He" target="Jinho Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhen He" target="Sung H. Park">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sung H. Park" target="Jinho Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sung H. Park" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Kyumin Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Hyunchul Sohn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Jun-Sik Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Maenghyo Cho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Sunghoon Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Oh" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youngsoo Shin" target="Hyuk Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyumin Lee" target="Sunghoon Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyumin Lee" target="Hyunchul Sohn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyunchul Sohn" target="Sunghoon Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Wang" target="Jing Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youngbae Hwang" target="Jun-Sik Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youngbae Hwang" target="InSo Kweon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="InSo Kweon" target="T Kanade">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="InSo Kweon" target="Jun-Sik Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="InSo Kweon" target="Pierre Gurdjos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoung Gil Choi" target="Hyuk Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyoung Gil Choi" target="Maenghyo Cho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maenghyo Cho" target="Jun-Sik Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maenghyo Cho" target="Jinbok Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maenghyo Cho" target="Hyuk Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pierre Gurdjos" target="Jun-Sik Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun-Sik Kim" target="T Kanade">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jun-Sik Kim" target="Myung Hwangbo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T Kanade" target="Myung Hwangbo">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

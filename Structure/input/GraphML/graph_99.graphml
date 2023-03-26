@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jiangguo Liu">
+      <data key="affiliation">liu@math.colostate.edu</data>
+      <data key="research">numerical experiment, numerical result, Eulerian-Lagrangian localized adjoint method</data>
+    </node>
+    <node id="N. A. Baker">
+      <data key="affiliation">Department of Biochemistry and Molecular Biophysics, Center for Computational Biology, Washington University in St Louis, St Louis, MO 63110, USA</data>
+      <data key="research">Saccharomyces cerevisiae genome, Saccharomyces cerevisiae genomeSummary, structural prediction</data>
+    </node>
+    <node id="Yuan Peng">
+      <data key="affiliation">Nan</data>
+      <data key="research">machine setup time, whole production time, Optimization Algorithm</data>
+    </node>
+    <node id="Weihong Guo">
+      <data key="affiliation">Department of Mathematics, University of Alabama, Tuscaloosa, USA 35487</data>
+      <data key="research">spatially variant noise, MRI image, noise distribution</data>
+    </node>
+    <node id="Donald J. Kouri">
+      <data key="affiliation">University of Houston, Houston, TX</data>
+      <data key="research">new class, new family, encouraging result</data>
+    </node>
+    <node id="Yang Wang">
+      <data key="affiliation">Department of Computer Science and Engineering, New Mexico Institute of Mining and Technology, Socorro, NM</data>
+      <data key="research">android permission, benign apps, quantitative security risk assessment</data>
+    </node>
+    <node id="Meng Zhan">
+      <data key="affiliation">Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences, Wuhan 430071, China</data>
+      <data key="research">elliptic interface problem, interface method, elliptic equation</data>
+    </node>
+    <node id="M. G. Milanova">
+      <data key="affiliation">Computer Science Departmentt, UALR, USA</data>
+      <data key="research">new method, image representation, new approach</data>
+    </node>
+    <node id="Yanqiu Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">triangle node, category recognition, Category Recognition System</data>
+    </node>
+    <node id="Zhenhai Shao">
+      <data key="affiliation">Wireless Communication Laboratory, National Institute of Information and Communication Technology of Japan, #018A/10 TeleTech Park, Singapore 117674</data>
+      <data key="research">hybrid circuit, improved FDTD formulation, improved matrix-type FDTD method</data>
+    </node>
+    <node id="Shan Zhao">
+      <data key="affiliation">Xidian University</data>
+      <data key="research">high order, proposed method, MIB method</data>
+    </node>
+    <node id="Xiu Ye">
+      <data key="affiliation">College of Computer Science and Engineering, State Key Lab of CAD/CG, Zhejiang University, 310027 Hangzhou, China</data>
+      <data key="research">point set surface, prototype system, geometry image</data>
+    </node>
+    <node id="Junping Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multi-Objective Optimization version, Multi-objective Optimization Problems, Optimization Problem</data>
+    </node>
+    <node id="G. W. Wei">
+      <data key="affiliation">Nan</data>
+      <data key="research">B-spline Lagrange wavelet, Gaussian Lagrange, Halfband Lagrange wavelet</data>
+    </node>
+    <node id="Y. C. Zhou">
+      <data key="affiliation">Department of Mathematics, Michigan State University, East Lansing, MI</data>
+      <data key="research">MIB method, proposed method, high order</data>
+    </node>
+    <node id="Qiuying Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">customer satisfaction, service industry, service provider</data>
+    </node>
+    <node id="Lin Mu">
+      <data key="affiliation">School of Mechanical Engineering, Dalian Jiaotong University, Dalian, China</data>
+      <data key="research">anchoring packaging machine, parametric design, design efficiency</data>
+    </node>
+    <node id="Decheng Wan">
+      <data key="affiliation">School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University, Huashan Road 1954, 200030 Shanghai, China</data>
+      <data key="research">elliptic interface problem, interface method, mesh method</data>
+    </node>
+    <node id="Weizhu Bao">
+      <data key="affiliation">bao@math.nus.edu.sg</data>
+      <data key="research">numerical method, random projection method, accurate numerical method</data>
+    </node>
+    <node id="B. Patnaik">
+      <data key="affiliation">Department of Applied Mechanics, Indian Institute of Technology Madras, India</data>
+      <data key="research">modulation format, modified DPD scheme, symmetrical dispersion compensation scheme</data>
+    </node>
+    <edge source="Jiangguo Liu" target="Y. C. Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiangguo Liu" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiangguo Liu" target="Xiu Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. A. Baker" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuan Peng" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihong Guo" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihong Guo" target="Shan Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihong Guo" target="Yang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donald J. Kouri" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Wang" target="Shan Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meng Zhan" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meng Zhan" target="Decheng Wan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. G. Milanova" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yanqiu Wang" target="Xiu Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yanqiu Wang" target="Junping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yanqiu Wang" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenhai Shao" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhenhai Shao" target="Shan Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shan Zhao" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shan Zhao" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shan Zhao" target="Y. C. Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shan Zhao" target="Junping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shan Zhao" target="Xiu Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiu Ye" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiu Ye" target="Junping Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiu Ye" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junping Wang" target="G. W. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Junping Wang" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Wei" target="B. Patnaik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Wei" target="Weizhu Bao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Wei" target="Y. C. Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Wei" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. W. Wei" target="Decheng Wan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiuying Zheng" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Mu" target="Lin Mu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,29 @@
+B. Vermeire	M. Depas	{'relation': 'collaborate'}
+B. Vermeire	P. W. Mertens	{'relation': 'collaborate'}
+B. Vermeire	F. Shadman	{'relation': 'collaborate'}
+B. Vermeire	M. M. Heyns	{'relation': 'collaborate'}
+B. Vermeire	Jun Yan	{'relation': 'collaborate'}
+Jun Yan	Jun Wang	{'relation': 'collaborate'}
+Jun Yan	Jian Zhang	{'relation': 'collaborate'}
+Jun Yan	Xiang Cheng	{'relation': 'collaborate'}
+Jun Yan	Kai Ma	{'relation': 'collaborate'}
+Jun Yan	Yun Yang	{'relation': 'collaborate'}
+Jun Yan	Yi Mu	{'relation': 'collaborate'}
+Jun Yan	Willy Susilo	{'relation': 'collaborate'}
+Jun Yan	Bin Zhang	{'relation': 'collaborate'}
+Jun Yan	Kunqing Xie	{'relation': 'collaborate'}
+Jun Yan	Jun Shen	{'relation': 'collaborate'}
+Jun Yan	F. Shadman	{'relation': 'collaborate'}
+Jun Shen	Yun Yang	{'relation': 'collaborate'}
+A. R. Wilson	J. Katz	{'relation': 'collaborate'}
+A. R. Wilson	M. A. Yao	{'relation': 'collaborate'}
+A. R. Wilson	F. Shadman	{'relation': 'collaborate'}
+A. R. Wilson	W. Rifer	{'relation': 'collaborate'}
+J. Katz	W. Rifer	{'relation': 'collaborate'}
+Willy Susilo	Yi Mu	{'relation': 'collaborate'}
+Jian Zhang	Kai Ma	{'relation': 'collaborate'}
+M. A. Yao	F. Shadman	{'relation': 'collaborate'}
+M. M. Heyns	P. W. Mertens	{'relation': 'collaborate'}
+M. M. Heyns	M. Depas	{'relation': 'collaborate'}
+P. W. Mertens	M. Depas	{'relation': 'collaborate'}
+Jun Wang	Bin Zhang	{'relation': 'collaborate'}

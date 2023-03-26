@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P162889">
+      <data key="title">profit maximization for geographically dispersed green data centers</data>
+    </node>
+    <node id="P62858">
+      <data key="title">enabling cognitive smart cities using big data and machine learning approaches and challenges</data>
+    </node>
+    <node id="P140550">
+      <data key="title">performance analysis of smart digital signage system based on software defined iot and invisible image sensor communication</data>
+    </node>
+    <node id="P66785">
+      <data key="title">analysis of information delivery dynamics in cognitive sensor networks using epidemic models</data>
+    </node>
+    <node id="P392">
+      <data key="title">mobile edge computing empowers internet of things</data>
+    </node>
+    <node id="P106920">
+      <data key="title">primal profit maximization avatar placement for mobile edge computing</data>
+    </node>
+    <node id="P70741">
+      <data key="title">latency aware drone base station placement in heterogeneous networks</data>
+    </node>
+    <node id="P39434">
+      <data key="title">a survey on mobile edge computing the communication perspective</data>
+    </node>
+    <node id="P153099">
+      <data key="title">access control in internet of things a survey</data>
+    </node>
+    <node id="P67162">
+      <data key="title">cognitive internet of things a new paradigm beyond connection</data>
+    </node>
+    <node id="P23060">
+      <data key="title">lptd achieving lightweight and privacy preserving truth discovery in ciot</data>
+    </node>
+    <node id="P36640">
+      <data key="title">a traffic load balancing framework for software defined radio access networks powered by hybrid energy sources</data>
+    </node>
+    <node id="P97064">
+      <data key="title">an amateur drone surveillance system based on cognitive internet of things</data>
+    </node>
+    <node id="P22097">
+      <data key="title">green cloudlet network a distributed green mobile cloud network</data>
+    </node>
+    <node id="P102117">
+      <data key="title">content caching and distribution in smart grid enabled wireless networks</data>
+    </node>
+    <node id="P66947">
+      <data key="title">adaptive resonant beam charging for intelligent wireless power transfer</data>
+    </node>
+    <node id="P73415">
+      <data key="title">capturing the contributions of the semantic web to the iot a unifying vision</data>
+    </node>
+    <node id="P136475">
+      <data key="title">green energy aware avatar migration strategy in green cloudlet networks</data>
+    </node>
+    <node id="P77505">
+      <data key="title">earning maximization with quality of charging service guarantee for iot devices</data>
+    </node>
+    <node id="P156769">
+      <data key="title">a survey of machine and deep learning methods for internet of things iot security</data>
+    </node>
+    <edge source="P162889" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62858" target="P67162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140550" target="P67162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66785" target="P67162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P67162">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P153099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P22097">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P106920">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P392" target="P70741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106920" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70741" target="P36640">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39434" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39434" target="P22097">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P73415">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P97064">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P23060">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P156769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P66947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67162" target="P77505">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36640" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102117" target="P136475">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

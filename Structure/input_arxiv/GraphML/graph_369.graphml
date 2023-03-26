@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P166397">
+      <data key="title">two stream convolutional networks for action recognition in videos</data>
+    </node>
+    <node id="P138912">
+      <data key="title">emergence of complex like cells in a temporal product network with local receptive fields</data>
+    </node>
+    <node id="P37307">
+      <data key="title">unsupervised learning of edges</data>
+    </node>
+    <node id="P50480">
+      <data key="title">video language modeling a baseline for generative models of natural videos</data>
+    </node>
+    <node id="P52066">
+      <data key="title">going deeper into action recognition a survey</data>
+    </node>
+    <node id="P154342">
+      <data key="title">sequence to sequence learning with neural networks</data>
+    </node>
+    <node id="P95482">
+      <data key="title">visual language modeling on cnn image representations</data>
+    </node>
+    <node id="P465">
+      <data key="title">sea level anomaly prediction using recurrent neural networks</data>
+    </node>
+    <node id="P75195">
+      <data key="title">simultaneous detection and segmentation</data>
+    </node>
+    <node id="P34570">
+      <data key="title">deep learning in neural networks</data>
+    </node>
+    <node id="P26460">
+      <data key="title">ucf101 a dataset of 101 human actions classes from videos in the wild</data>
+    </node>
+    <node id="P157759">
+      <data key="title">slow and steady feature analysis higher order temporal coherence in video</data>
+    </node>
+    <node id="P1438">
+      <data key="title">learning image representations equivariant to ego motion</data>
+    </node>
+    <node id="P164291">
+      <data key="title">deep multi scale video prediction beyond mean square error</data>
+    </node>
+    <node id="P159126">
+      <data key="title">spatio temporal image boundary extrapolation</data>
+    </node>
+    <node id="P117980">
+      <data key="title">fast inference in sparse coding algorithms with applications to object recognition</data>
+    </node>
+    <node id="P125272">
+      <data key="title">rich feature hierarchies for accurate object detection and semantic segmentation</data>
+    </node>
+    <node id="P160190">
+      <data key="title">anticipating the future by watching unlabeled video</data>
+    </node>
+    <node id="P6730">
+      <data key="title">look ahead before you leap end to end active recognition by forecasting the effect of motion</data>
+    </node>
+    <node id="P74065">
+      <data key="title">convolutional lstm network a machine learning approach for precipitation nowcasting</data>
+    </node>
+    <edge source="P166397" target="P50480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166397" target="P164291">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166397" target="P52066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166397" target="P26460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138912" target="P117980">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138912" target="P50480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37307" target="P50480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P26460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P117980">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P75195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P125272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P160190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P1438">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P95482">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P164291">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P157759">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P6730">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P52066">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P159126">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P465">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50480" target="P74065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P160190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P34570">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P465">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P74065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P465" target="P34570">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P465" target="P74065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75195" target="P125272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34570" target="P125272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26460" target="P164291">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157759" target="P160190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157759" target="P1438">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157759" target="P125272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157759" target="P6730">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164291" target="P160190">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164291" target="P159126">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160190" target="P6730">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

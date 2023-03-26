@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jinxia Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">network lifetime, Energy-Aware Coverage, Node Scheduling Scheme</data>
+    </node>
+    <node id="Gang Li">
+      <data key="affiliation">Pusan National University, Busan, Republic of Korea</data>
+      <data key="research">Prediction Method, current energy, energy harvesting</data>
+    </node>
+    <node id="Tao Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">control system, wireless network, real-time control loop</data>
+    </node>
+    <node id="Zihou Wang">
+      <data key="affiliation">High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China 100190</data>
+      <data key="research">virtual network, novel cache size optimization, proposed scheme</data>
+    </node>
+    <node id="Wiro J. Niessen">
+      <data key="affiliation">Erasmus Medical Centre</data>
+      <data key="research">proposed method, segmentation method, guide wire</data>
+    </node>
+    <node id="Hui Tang">
+      <data key="affiliation">Biomedical Imaging Group Rotterdam, Departments of Radiology and Medical Informatics, Erasmus MC, Rotterdam, The Netherlands, Imaging Science and Technology, Faculty of Applied Sciences, Delft Uni ...</data>
+      <data key="research">carotid artery, carotid bifurcation angle, segmentation method</data>
+    </node>
+    <node id="Song Ci">
+      <data key="affiliation">High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China,Department of Computer and Electronics Engineering, University of NebraskaLincoln, NE</data>
+      <data key="research">P2P cache, virtual network, forward cache</data>
+    </node>
+    <node id="Yang Li">
+      <data key="affiliation">Department of Physics, Zhejiang University, Hangzhou 310027, China and Key Laboratory of Infrared Imaging Materials and Detectors, Shanghai Institute of Technical Physics, Chinese Academy of Scien ...</data>
+      <data key="research">chaotic neural network, control parameter space, control signal</data>
+    </node>
+    <node id="Z. Q. Shi">
+      <data key="affiliation">Institute of Computing Technology, Beijin, China</data>
+      <data key="research">data mining, experimental result, data domain</data>
+    </node>
+    <node id="Bin Tang">
+      <data key="affiliation">Nan</data>
+      <data key="research">adaptive behavior, choreography model, decentralized service composition</data>
+    </node>
+    <node id="Ming Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">data center network, IP routing, forwarding protocol</data>
+    </node>
+    <node id="Michiel Schaap">
+      <data key="affiliation">Dept. of Medical Informatics and Radiology, Erasmus MC, Rotterdam, The Netherlands</data>
+      <data key="research">coronary artery, coronary model, Black Blood MRA data</data>
+    </node>
+    <node id="Hancong Duan">
+      <data key="affiliation">University of Electronic Science and Technology of China, China</data>
+      <data key="research">P2P network, P2P trust model, P2P application</data>
+    </node>
+    <node id="Wenjia Niu">
+      <data key="affiliation">Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China 100190</data>
+      <data key="research">atomic service, web service, WSN service</data>
+    </node>
+    <node id="Yanni Han">
+      <data key="affiliation">High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">virtual network, Topology-aware virtual network, WSDL-based virtual resource description</data>
+    </node>
+    <node id="Tao Guo">
+      <data key="affiliation">Peking University, Beijing</data>
+      <data key="research">annotated corpus, software tool, Chinese sense</data>
+    </node>
+    <node id="Haiyan Luo">
+      <data key="affiliation">Dept. of Comput. &amp; Electron. Eng., Univ. of NebraskaLincoln, Lincoln, NE, USA</data>
+      <data key="research">secondary user, user-perceived video quality, CR network</data>
+    </node>
+    <node id="Ling Bai">
+      <data key="affiliation">Surveying and Mapping Institute of Information Engineering University, China</data>
+      <data key="research">Grid Information Service Model, e-Learning Grid, core grid middlewares</data>
+    </node>
+    <node id="Guan-Ming Su">
+      <data key="affiliation">ESS Technol., Fremont, CA</data>
+      <data key="research">video coding, video program, cooperative video summary transmission</data>
+    </node>
+    <node id="Ding Tang">
+      <data key="affiliation">High Performance Network Laboratory, Institute of Acoustics, Chinese Academy of Science, Beijing, China</data>
+      <data key="research">atomic service, hierarchical workflow management, WSN application</data>
+    </node>
+    <edge source="Jinxia Liu" target="Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinxia Liu" target="Song Ci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Li" target="Ding Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Li" target="Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Li" target="Song Ci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Li" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gang Li" target="Z. Q. Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Song Ci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Zihou Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tao Lin" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zihou Wang" target="Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zihou Wang" target="Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zihou Wang" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zihou Wang" target="Song Ci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zihou Wang" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wiro J. Niessen" target="Hui Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wiro J. Niessen" target="Michiel Schaap">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Z. Q. Shi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Bin Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Song Ci">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Ming Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Michiel Schaap">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Hancong Duan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Guan-Ming Su">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Ling Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Ding Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Tao Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Haiyan Luo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tang" target="Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Guan-Ming Su">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Haiyan Luo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Ding Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Li" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Li" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Q. Shi" target="Wenjia Niu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenjia Niu" target="Ding Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenjia Niu" target="Yanni Han">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

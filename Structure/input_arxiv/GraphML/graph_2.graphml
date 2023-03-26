@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P7866">
+      <data key="title">a general theory of computational scalability based on rational functions</data>
+    </node>
+    <node id="P166485">
+      <data key="title">from observability to significance in distributed information systems</data>
+    </node>
+    <node id="P120274">
+      <data key="title">a promise theoretic account of the boeing 737 max mcas algorithm affair</data>
+    </node>
+    <node id="P49164">
+      <data key="title">spacetimes with semantics</data>
+    </node>
+    <node id="P20278">
+      <data key="title">implicit consensus blockchain with unbounded throughput</data>
+    </node>
+    <node id="P48265">
+      <data key="title">consensus in the age of blockchains</data>
+    </node>
+    <node id="P18781">
+      <data key="title">interactive proof of stake</data>
+    </node>
+    <node id="P106033">
+      <data key="title">a big data analyzer for large trace logs</data>
+    </node>
+    <node id="P75788">
+      <data key="title">a static theory of promises</data>
+    </node>
+    <node id="P51514">
+      <data key="title">consensus on transaction commit</data>
+    </node>
+    <node id="P152329">
+      <data key="title">local and global trust based on the concept of promises</data>
+    </node>
+    <node id="P149904">
+      <data key="title">non determinism in byzantine fault tolerant replication</data>
+    </node>
+    <node id="P126243">
+      <data key="title">spacetime entangled networks i relativity and observability of stepwise consensus</data>
+    </node>
+    <node id="P18815">
+      <data key="title">on the scaling of functional spaces from smart cities to cloud computing</data>
+    </node>
+    <node id="P96849">
+      <data key="title">enhancing bitcoin security and performance with strong consistency via collective signing</data>
+    </node>
+    <node id="P3">
+      <data key="title">a promise theory perspective on data networks</data>
+    </node>
+    <node id="P100916">
+      <data key="title">a survey on security and privacy issues of bitcoin</data>
+    </node>
+    <node id="P136586">
+      <data key="title">service oriented sharding with aspen</data>
+    </node>
+    <node id="P98157">
+      <data key="title">keeping authorities honest or bust with decentralized witness cosigning</data>
+    </node>
+    <node id="P165055">
+      <data key="title">on the theory of system administration</data>
+    </node>
+    <edge source="P7866" target="P18815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166485" target="P49164">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166485" target="P106033">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166485" target="P126243">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120274" target="P165055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49164" target="P3">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49164" target="P165055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49164" target="P18815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49164" target="P126243">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20278" target="P96849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20278" target="P48265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P100916">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P98157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P18781">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P96849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P149904">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P136586">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P51514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48265" target="P126243">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75788" target="P152329">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51514" target="P126243">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152329" target="P18815">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152329" target="P126243">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126243" target="P3">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18815" target="P165055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96849" target="P98157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96849" target="P136586">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96849" target="P100916">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

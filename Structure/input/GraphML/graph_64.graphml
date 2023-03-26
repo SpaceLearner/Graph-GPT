@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Enrico Malavasi">
+      <data key="affiliation">Dept. of Electr. Eng. &amp; Comput. Sci., California Univ., Berkeley, CA</data>
+      <data key="research">analog IC, design process, CMOS analog circuit</data>
+    </node>
+    <node id="N. Benvenuto">
+      <data key="affiliation">Department of Information Engineering, University of Padova, Padova, Italy 35131</data>
+      <data key="research">computational complexity, stable system, network resource allocation</data>
+    </node>
+    <node id="Stefano Mattoccia">
+      <data key="affiliation">DEISARCES, University of Bologna  Sede di Cesena, Viale Rasi e Spineli 176, 47023 Cesena, Italy</data>
+      <data key="research">experimental result, stereo vision system, stereo vision</data>
+    </node>
+    <node id="R. Manduchi">
+      <data key="affiliation">Dipartimento di Elettronica e Inf., Padova Univ.</data>
+      <data key="research">composite frame, sampling structure conversion, generalized factorable</data>
+    </node>
+    <node id="G. A. Mian">
+      <data key="affiliation">Univ. di Padova, Padova, Italy</data>
+      <data key="research">second-order fixed-point digital filter, FIR filters inmagnitude, EKF filter</data>
+    </node>
+    <node id="Giancarlo Calvagno">
+      <data key="affiliation">Dipartimento di Elettronica e Informatica, Università di Padova, 35131 Padova, Italy</data>
+      <data key="research">experimental result, proposed approach, motion compensation</data>
+    </node>
+    <node id="R. Rinaldo">
+      <data key="affiliation">Dept. of Electr. Eng., California Univ., Berkeley, CA</data>
+      <data key="research">approximation problem, inverse problem, IFS parameter</data>
+    </node>
+    <node id="Mary Ellen Bock">
+      <data key="affiliation">Purdue University, West Lafayette, IN</data>
+      <data key="research">unusual substrings, possible substrings, unusual wordsThe problem</data>
+    </node>
+    <node id="Pietro Zanuttigh">
+      <data key="affiliation">Department of Information Engineering, University of Padova, Via Gradenigo 6/B, 35131 Padova, Italy</data>
+      <data key="research">depth map, depth data, geometry information</data>
+    </node>
+    <node id="S. Dal Poz">
+      <data key="affiliation">Seleco SpA, Pordenone</data>
+      <data key="research">rate converter, TV image quality, commercial improved quality PAL</data>
+    </node>
+    <node id="Marco Andreetto">
+      <data key="affiliation">California Institute of Technology, Pasadena 91125</data>
+      <data key="research">Dental Plaster, reconstruction system, current estimate</data>
+    </node>
+    <node id="Nicola Orio">
+      <data key="affiliation">Dipartimento di Ingegneria dell'informazione, Via Gradenigo n. 6/a, 35131, Padova, Italy</data>
+      <data key="research">music information retrieval, music score, music document</data>
+    </node>
+    <node id="Fabio Marton">
+      <data key="affiliation">CRS4, POLARIS Ed. 1, 09010 Pula (CA), Italy</data>
+      <data key="research">massive model, interactive rendering, adaptive rendering</data>
+    </node>
+    <node id="P Zamperoni">
+      <data key="affiliation">Technische Univ. Braunschweig, Braunschweig, W. Germany</data>
+      <data key="research">Hilfe von dilatierten KernenHow, Performance AssessmentHierarchische Darstellung von, von Bin</data>
+    </node>
+    <node id="A. Baschirotto">
+      <data key="affiliation">Dipartimento di Elettronica, Pavia Univ.</data>
+      <data key="research">input signal, digital decoder, m BiCMOS technology</data>
+    </node>
+    <node id="G. Cortelazzo">
+      <data key="affiliation">CNR, Italy</data>
+      <data key="research">frequency domain, depth data, proposed technique</data>
+    </node>
+    <node id="Anup Basu">
+      <data key="affiliation">Nan</data>
+      <data key="research">alternative model, fish-eye lens</data>
+    </node>
+    <node id="Soren Forchhammer">
+      <data key="affiliation">COM.DTU, Denmark</data>
+      <data key="research">coding performance, progressive coding, refinement coding</data>
+    </node>
+    <node id="Riccardo Bernardini">
+      <data key="affiliation">Dept. of Electr. Eng., Fed. Inst. of Technol., Lausanne</data>
+      <data key="research">oversampled filter bank, filter bank, cosine-modulated filter bank</data>
+    </node>
+    <node id="Carlo Ferrari">
+      <data key="affiliation">Nan</data>
+      <data key="research">Mapping XML Elements, XML data, XML document</data>
+    </node>
+    <edge source="Enrico Malavasi" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Enrico Malavasi" target="A. Baschirotto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Benvenuto" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Mattoccia" target="Pietro Zanuttigh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefano Mattoccia" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Manduchi" target="S. Dal Poz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Manduchi" target="G. A. Mian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Manduchi" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. A. Mian" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. A. Mian" target="R. Rinaldo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. A. Mian" target="P Zamperoni">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. A. Mian" target="Giancarlo Calvagno">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. A. Mian" target="Riccardo Bernardini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giancarlo Calvagno" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giancarlo Calvagno" target="Riccardo Bernardini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Giancarlo Calvagno" target="R. Rinaldo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Rinaldo" target="Riccardo Bernardini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Rinaldo" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mary Ellen Bock" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mary Ellen Bock" target="Carlo Ferrari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pietro Zanuttigh" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pietro Zanuttigh" target="Soren Forchhammer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Dal Poz" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marco Andreetto" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicola Orio" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fabio Marton" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P Zamperoni" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Baschirotto" target="G. Cortelazzo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Cortelazzo" target="Soren Forchhammer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Cortelazzo" target="Riccardo Bernardini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Cortelazzo" target="Carlo Ferrari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Cortelazzo" target="Anup Basu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

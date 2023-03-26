@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P94803">
+      <data key="title">the maximum clique problem in multiple interval graphs</data>
+    </node>
+    <node id="P167439">
+      <data key="title">cpg graphs some structural and hardness results</data>
+    </node>
+    <node id="P72735">
+      <data key="title">intersection graphs of non crossing paths</data>
+    </node>
+    <node id="P150940">
+      <data key="title">graphs of edge intersecting non splitting paths in a tree representations of holes part ii</data>
+    </node>
+    <node id="P98646">
+      <data key="title">computing maximum independent set on outerstring graphs and their relatives</data>
+    </node>
+    <node id="P82264">
+      <data key="title">minimum weight triangulation is np hard</data>
+    </node>
+    <node id="P74566">
+      <data key="title">1 string b_1 vpg representations of planar partial 3 trees and some subclasses</data>
+    </node>
+    <node id="P43263">
+      <data key="title">bend bounded path intersection graphs sausages noodles and waffles on a grill</data>
+    </node>
+    <node id="P50829">
+      <data key="title">approximation algorithms for independence and domination on b 1 vpg and b 1 epg graphs</data>
+    </node>
+    <node id="P201">
+      <data key="title">edge intersection graphs of l shaped paths in grids</data>
+    </node>
+    <node id="P7252">
+      <data key="title">approximation algorithms for maximum independent set of pseudo disks</data>
+    </node>
+    <node id="P73265">
+      <data key="title">on h topological intersection graphs</data>
+    </node>
+    <node id="P85544">
+      <data key="title">simultaneous embeddability of two partitions</data>
+    </node>
+    <node id="P122494">
+      <data key="title">on independent set on b1 epg graphs</data>
+    </node>
+    <node id="P124140">
+      <data key="title">characterising circular arc contact b_0 vpg graphs</data>
+    </node>
+    <node id="P54577">
+      <data key="title">on some simplicial elimination schemes for chordal graphs</data>
+    </node>
+    <node id="P149411">
+      <data key="title">the complexity of helly b 1 epg graph recognition</data>
+    </node>
+    <node id="P71194">
+      <data key="title">characterizing path graphs by forbidden induced subgraphs</data>
+    </node>
+    <node id="P145197">
+      <data key="title">the clique problem in ray intersection graphs</data>
+    </node>
+    <node id="P164382">
+      <data key="title">on edge intersection graphs of paths with 2 bends</data>
+    </node>
+    <edge source="P94803" target="P73265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94803" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94803" target="P145197">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94803" target="P122494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167439" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167439" target="P124140">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72735" target="P73265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P72735" target="P71194">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150940" target="P201">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150940" target="P71194">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98646" target="P50829">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98646" target="P43263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98646" target="P7252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82264" target="P149411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74566" target="P43263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43263" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43263" target="P85544">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43263" target="P124140">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50829" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P201" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P201" target="P122494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P201" target="P149411">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7252" target="P122494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54577" target="P71194">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149411" target="P164382">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

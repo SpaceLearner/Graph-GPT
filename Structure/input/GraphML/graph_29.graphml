@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Adam Finkelstein">
+      <data key="affiliation">Nan</data>
+      <data key="research">Creative Performance, happy exhibit, creative insight</data>
+    </node>
+    <node id="Hsiao-Wuen Hon">
+      <data key="affiliation">Microsoft Research Asia, Beijing, China</data>
+      <data key="research">ambiguous query, speech recognition, query log</data>
+    </node>
+    <node id="Bin Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Laminated Flooring, Texture AnalysisExtracting surface image, defective laminated flooring</data>
+    </node>
+    <node id="Hang Li">
+      <data key="affiliation">Sigma Center, Beijing, P. R. China</data>
+      <data key="research">experimental result, web search, ranking model</data>
+    </node>
+    <node id="Andrew Howard">
+      <data key="affiliation">Space Exploration Technologies, 1 Rocket Road, Hawthorne, California 90250</data>
+      <data key="research">Wiley Periodicals, stereo vision, Hammerhead vision system</data>
+    </node>
+    <node id="Bingheng Lu">
+      <data key="affiliation">State Key Laboratory for Manufacturing Systems Engineering, Xi'an Jiaotong University, Xi'an, People's Republic of China</data>
+      <data key="research">loading process, load release, full filling</data>
+    </node>
+    <node id="Shuming Tang">
+      <data key="affiliation">Nan</data>
+      <data key="research">principal curve, proposed method, freeway traffic-stream modeling</data>
+    </node>
+    <node id="Shancang Li">
+      <data key="affiliation">Institute of Advanced Telecommunications, Swansea University, Swansea, UK</data>
+      <data key="research">proposed method, wireless sensor network, previous method</data>
+    </node>
+    <node id="Fei-Yue Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">economic computing, economic system, Special Section</data>
+    </node>
+    <node id="Hongyu Zhang">
+      <data key="affiliation">Tsinghua University, China</data>
+      <data key="research">test case, suspicious program element, existing fault localization technique</data>
+    </node>
+    <node id="Chang Tian">
+      <data key="affiliation">Nan</data>
+      <data key="research">path uncertainty, path probability, underlying path probability</data>
+    </node>
+    <node id="Liang Ding">
+      <data key="affiliation">Nan</data>
+      <data key="research">Maxwell equation, Multiresolution Method, Maxwell EquationThis paper</data>
+    </node>
+    <node id="Hua Huang">
+      <data key="affiliation">School of Electronics and Information Engineering, Xi'an Jiaotong University, Xi'an 710049, China</data>
+      <data key="research">reference image, point cloud, web image</data>
+    </node>
+    <node id="Jue Wang">
+      <data key="affiliation">The Ohio State University, Columbus, OH</data>
+      <data key="research">IKONOS image, rock modeling, geopositioning accuracy</data>
+    </node>
+    <node id="Sunghyun Cho">
+      <data key="affiliation">POSTECH</data>
+      <data key="research">importance diffusion, column removal, importance diffusionThis paper</data>
+    </node>
+    <node id="Norman P. Jouppi">
+      <data key="affiliation">Google</data>
+      <data key="research">memory system, high performance, performance improvement</data>
+    </node>
+    <node id="Shi-Min Hu">
+      <data key="affiliation">TNList, Tsinghua Univ.</data>
+      <data key="research">proposed approach, initial map, interactive image</data>
+    </node>
+    <node id="Jia Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">diversity type, embedded system, analysis software</data>
+    </node>
+    <node id="Xiao-Shan Gao">
+      <data key="affiliation">KLMM, Institute of Systems Science</data>
+      <data key="research">parametric equation, decomposition algorithm, geometric constraint</data>
+    </node>
+    <node id="Suqing Han">
+      <data key="affiliation">Department of Mathematics, Taiyuan Normal University, Taiyuan, China</data>
+      <data key="research">attribute order, information system, attribute theorem</data>
+    </node>
+    <edge source="Adam Finkelstein" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Finkelstein" target="Sunghyun Cho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiao-Wuen Hon" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiao-Wuen Hon" target="Hang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Liu" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Liu" target="Fei-Yue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Liu" target="Shi-Min Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hang Li" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew Howard" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bingheng Lu" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuming Tang" target="Fei-Yue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuming Tang" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shancang Li" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei-Yue Wang" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fei-Yue Wang" target="Hua Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongyu Zhang" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chang Tian" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Ding" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hua Huang" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Norman P. Jouppi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Sunghyun Cho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Suqing Han">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Jia Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Shi-Min Hu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Xiao-Shan Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jue Wang" target="Jue Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="S. Jagannathan">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Information Eng., Nat. Chung Cheng Univ., Chiayi, Taiwan</data>
+      <data key="research">proposed scheme, rate-based end-to-end congestion control, multimedia traffic</data>
+    </node>
+    <node id="Deepak Majeti">
+      <data key="affiliation">Rice University, Houston, TX, USA</data>
+      <data key="research">Homogeneous Routers, GPU acceleration, NoC design</data>
+    </node>
+    <node id="Raghuram Srinivasan">
+      <data key="affiliation">University of Cincinnati, Cincinnati, OH, USA</data>
+      <data key="research">process variation, system variable, Taylor series expansion</data>
+    </node>
+    <node id="Neal Glew">
+      <data key="affiliation">Intel Corporation, Santa Clara, CA</data>
+      <data key="research">type system, functional language, assembly language</data>
+    </node>
+    <node id="Eric Sprangle">
+      <data key="affiliation">Intel Corporation</data>
+      <data key="research">performance analysis, processor performance, deeper pipeline</data>
+    </node>
+    <node id="Dan Grossman">
+      <data key="affiliation">Nan</data>
+      <data key="research">Summer School, Oregon programming languages summer, schoolThe Oregon Programming</data>
+    </node>
+    <node id="Aleksandar Dragojević">
+      <data key="affiliation">Swiss Federal Institute of Technology, Lausanne, Lausanne, Switzerland</data>
+      <data key="research">transactional memory, software transactional memory, STM barrier</data>
+    </node>
+    <node id="Andrew McCreight">
+      <data key="affiliation">Portland State University,</data>
+      <data key="research">garbage collector, incremental collector, mechanized verification</data>
+    </node>
+    <node id="Joseph Nuzman">
+      <data key="affiliation">Intel Architecture Group, Haifa, Israel</data>
+      <data key="research">L2 cache, exclusive LLC, inclusive LLC</data>
+    </node>
+    <node id="Ali-Reza Adl-Tabatabai">
+      <data key="affiliation">Google Inc. Mountain View, CA</data>
+      <data key="research">transactional memory, software transactional memory, high-performance software transactional memory</data>
+    </node>
+    <node id="Richard Hudson">
+      <data key="affiliation">Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA</data>
+      <data key="research">River Trail, single global lock semantics, transactional memory</data>
+    </node>
+    <node id="Sreenivas Subramoney">
+      <data key="affiliation">Intel Architecture Group, Bangalore, India</data>
+      <data key="research">exclusive LLC, L2 cache, inclusive LLC</data>
+    </node>
+    <node id="Jayesh Gaur">
+      <data key="affiliation">Intel Corporation, Bangalore, India</data>
+      <data key="research">exclusive LLC, inclusive LLC, L2 cache</data>
+    </node>
+    <node id="Brian T. Lewis">
+      <data key="affiliation">Intel Labs Santa Clara, CA</data>
+      <data key="research">high performance, early performance result, transactional memory</data>
+    </node>
+    <node id="Mauricio J. Serrano">
+      <data key="affiliation">Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, Brazil</data>
+      <data key="research">false loop, data context, data structure</data>
+    </node>
+    <node id="Robert Wahbe">
+      <data key="affiliation">Colusa Software, 1563 Solano Ave. MS350, Berkeley, CA</data>
+      <data key="research">adaptable binary, binary program, binary transformation</data>
+    </node>
+    <node id="Serguei Preis">
+      <data key="affiliation">Intel Coporation, Novosibirsk, Russian Fed.</data>
+      <data key="research">Xeon Phi, vector extension, CoprocessorThe Intel</data>
+    </node>
+    <node id="Ravi Narayanaswamy">
+      <data key="affiliation">Intel Corporation, Santa Clara, CA, USA</data>
+      <data key="research">nested parallelism, control mechanism, project performance</data>
+    </node>
+    <node id="Mainak Chaudhuri">
+      <data key="affiliation">Indian Institute of Technology, India</data>
+      <data key="research">active memory controller, active memory cluster, memory controller</data>
+    </node>
+    <node id="J. Elliot B. Moss">
+      <data key="affiliation">Department of Computer and Information Science, University of Massachusetts, Amherst, MA</data>
+      <data key="research">garbage collection, hybrid optimizations, object allocation</data>
+    </node>
+    <edge source="S. Jagannathan" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Deepak Majeti" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Deepak Majeti" target="Brian T. Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Deepak Majeti" target="Mainak Chaudhuri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghuram Srinivasan" target="Jayesh Gaur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghuram Srinivasan" target="Sreenivas Subramoney">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghuram Srinivasan" target="Mainak Chaudhuri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neal Glew" target="Brian T. Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neal Glew" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Neal Glew" target="Andrew McCreight">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Sprangle" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Sprangle" target="Richard Hudson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Grossman" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Grossman" target="Richard Hudson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aleksandar Dragojević" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew McCreight" target="Ali-Reza Adl-Tabatabai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joseph Nuzman" target="Mainak Chaudhuri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joseph Nuzman" target="Jayesh Gaur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joseph Nuzman" target="Sreenivas Subramoney">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Robert Wahbe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Serguei Preis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Ravi Narayanaswamy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Sreenivas Subramoney">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Brian T. Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Richard Hudson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ali-Reza Adl-Tabatabai" target="Mauricio J. Serrano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hudson" target="Sreenivas Subramoney">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hudson" target="Mauricio J. Serrano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hudson" target="J. Elliot B. Moss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sreenivas Subramoney" target="Mainak Chaudhuri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sreenivas Subramoney" target="Mauricio J. Serrano">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sreenivas Subramoney" target="J. Elliot B. Moss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sreenivas Subramoney" target="Jayesh Gaur">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jayesh Gaur" target="Mainak Chaudhuri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Serguei Preis" target="Ravi Narayanaswamy">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Katja D. Mombaur">
+      <data key="affiliation">LAASCNRS, Université de Toulouse, Toulouse, France 31077</data>
+      <data key="research">humanoid robot, inverse optimal control, inverse optimal control problem</data>
+    </node>
+    <node id="M. F. Zedd">
+      <data key="affiliation">Naval Research Laboratory, Washington, DC</data>
+      <data key="research">Satellite-mounted robot manipulator, new kinematics, reaction moment compensation</data>
+    </node>
+    <node id="Ju Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">industrial productivity, robot trajectory optimization</data>
+    </node>
+    <node id="Khuong Vu">
+      <data key="affiliation">University of Houston</data>
+      <data key="research">active sensor, passive sensor, sensor network</data>
+    </node>
+    <node id="Min Li">
+      <data key="affiliation">University of Wisconsin  Madison</data>
+      <data key="research">custom on-chip sensor, individual design path, pre-silicon stage</data>
+    </node>
+    <node id="R. Zheng">
+      <data key="affiliation">IEEE Computer Society</data>
+      <data key="research">power management, wireless network, lossy wireless network</data>
+    </node>
+    <node id="V. H. Schulz">
+      <data key="affiliation">volker.schulz@unitrier.de and ilia.gherman@unitrier.de</data>
+      <data key="research">optimization problem, PDE-constrained optimization, PDE optimization problem</data>
+    </node>
+    <node id="Jinwu Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">mental task, feature extraction method, valid method</data>
+    </node>
+    <node id="Moshe Shoham">
+      <data key="affiliation">Dept. of Mechanical Engineering, Technion, Haifa, Israel and Mazor Surgical Technologies, Caesarea, Israel</data>
+      <data key="research">flexible needle, singularity condition, parallel manipulator</data>
+    </node>
+    <node id="Jianyi Kong">
+      <data key="affiliation">Nan</data>
+      <data key="research">double-enveloping toroidal worm drive, DTT worm drive, corrected hourglass worm pair</data>
+    </node>
+    <node id="Changming Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">dynamic routing scheme, hierarchical routing model, effective topology</data>
+    </node>
+    <node id="Lilong Cai">
+      <data key="affiliation">Nan</data>
+      <data key="research">adaptive robust control, robust control, robot manipulator</data>
+    </node>
+    <node id="Gangbing Song">
+      <data key="affiliation">Department of Mechanical Engineering, University of Houston, Houston, TX</data>
+      <data key="research">carbon nanofiber paper, Fisher discriminant, self-tuning control</data>
+    </node>
+    <node id="Johannes P. Schlöder">
+      <data key="affiliation">schloeder@iwr.uniheidelberg.de and bock@iwr.uniheidelberg.de</data>
+      <data key="research">optimal control problem, delayed optimal control problem, direct multiple shooting method</data>
+    </node>
+    <node id="R. W. Longman">
+      <data key="affiliation">Dept. of Mechanical Engineering, Columbia University, New York, 10027 (USA).</data>
+      <data key="research">predictive control, time optimal term, open-loop stability</data>
+    </node>
+    <node id="Jie Zhao">
+      <data key="affiliation">Department of Earth and Space Science and Engineering, Department of Geography, York University, 4700 Keele Street, Toronto, Ontario, Canada M3J 1P3</data>
+      <data key="research">granite intrusion, new integrated geochemical variable, mineral exploration</data>
+    </node>
+    <node id="H. G. Bock">
+      <data key="affiliation">Interdisciplinary Center for Scientific Computing, INF 368, 69120, Heidelberg, Germany</data>
+      <data key="research">Scientific Computing, optimal control problem, direct multiple shooting method</data>
+    </node>
+    <node id="Yourong Li">
+      <data key="affiliation">Key Laboratory of Metallurgical Equipment &amp; Control Technology, Ministry of Education, Wuhan University of Science and Technology, Wuhan, China</data>
+      <data key="research">refractory material, damage mode, damage pattern recognition</data>
+    </node>
+    <node id="Shufang Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">service system, Adaptive Recommendation Mechanism, enterprise service collaboration</data>
+    </node>
+    <node id="Hongnan Li">
+      <data key="affiliation">Dalian University of Technology, China</data>
+      <data key="research">fuzzy neural network, cycle slip, structural future dynamic response</data>
+    </node>
+    <edge source="Katja D. Mombaur" target="Johannes P. Schlöder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katja D. Mombaur" target="H. G. Bock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katja D. Mombaur" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. F. Zedd" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ju Li" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Khuong Vu" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Khuong Vu" target="R. Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Li" target="Jinwu Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Li" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Li" target="Min Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Zheng" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. H. Schulz" target="H. G. Bock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. H. Schulz" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinwu Xu" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Moshe Shoham" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianyi Kong" target="Changming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianyi Kong" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianyi Kong" target="Yourong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changming Liu" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changming Liu" target="Yourong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lilong Cai" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lilong Cai" target="Gangbing Song">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gangbing Song" target="Yourong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gangbing Song" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gangbing Song" target="Shufang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gangbing Song" target="Hongnan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Johannes P. Schlöder" target="H. G. Bock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Johannes P. Schlöder" target="R. W. Longman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. W. Longman" target="H. G. Bock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. W. Longman" target="Jie Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P42482">
+      <data key="title">performance assessment and design of finite length ldpc codes for the gaussian wiretap channel</data>
+    </node>
+    <node id="P69185">
+      <data key="title">secure nested codes for type ii wiretap channels</data>
+    </node>
+    <node id="P144717">
+      <data key="title">nonreciprocity compensation combined with turbo codes for secret key generation in vehicular ad hoc social iot networks</data>
+    </node>
+    <node id="P113780">
+      <data key="title">secret key agreement with large antenna arrays under the pilot contamination attack</data>
+    </node>
+    <node id="P47925">
+      <data key="title">ldpc coded transmissions over the gaussian broadcast channel with confidential messages</data>
+    </node>
+    <node id="P124349">
+      <data key="title">secrecy transmission on block fading channels theoretical limits and performance of practical codes</data>
+    </node>
+    <node id="P166928">
+      <data key="title">reconciliation of a quantum distributed gaussian key</data>
+    </node>
+    <node id="P59478">
+      <data key="title">separation of reliability and secrecy in rate limited secret key generation</data>
+    </node>
+    <node id="P47957">
+      <data key="title">rate compatible protocol for information reconciliation an application to qkd</data>
+    </node>
+    <node id="P30467">
+      <data key="title">interactive reconciliation with low density parity check codes</data>
+    </node>
+    <node id="P101971">
+      <data key="title">ldpc code design for the bpsk constrained gaussian wiretap channel</data>
+    </node>
+    <node id="P7897">
+      <data key="title">efficient reconciliation of correlated continuous random variables using ldpc codes</data>
+    </node>
+    <node id="P145743">
+      <data key="title">practical ldpc coded modulation schemes for the fading broadcast channel with confidential messages</data>
+    </node>
+    <node id="P4462">
+      <data key="title">improved reconciliation with polar codes in quantum key distribution</data>
+    </node>
+    <node id="P176">
+      <data key="title">efficient reconciliation protocol for discrete variable quantum key distribution</data>
+    </node>
+    <node id="P33246">
+      <data key="title">secret sharing ldpc codes for the bpsk constrained gaussian wiretap channel</data>
+    </node>
+    <node id="P39941">
+      <data key="title">non systematic codes for physical layer security</data>
+    </node>
+    <node id="P162833">
+      <data key="title">problems in application of ldpc codes to information reconciliation in quantum key distribution protocols</data>
+    </node>
+    <node id="P75801">
+      <data key="title">construction of wiretap codes from ordinary channel codes</data>
+    </node>
+    <node id="P33971">
+      <data key="title">low power secret key agreement over ofdm</data>
+    </node>
+    <edge source="P42482" target="P101971">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42482" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69185" target="P101971">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69185" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144717" target="P30467">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113780" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47925" target="P39941">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47925" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124349" target="P39941">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124349" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166928" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166928" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166928" target="P7897">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166928" target="P59478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59478" target="P47957">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59478" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47957" target="P30467">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47957" target="P162833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47957" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30467" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101971" target="P39941">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101971" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7897" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145743" target="P39941">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145743" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4462" target="P176">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P176" target="P162833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P176" target="P33246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P176" target="P33971">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33246" target="P39941">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33246" target="P33971">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39941" target="P33971">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162833" target="P75801">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P29869">
+      <data key="title">multiaspect graphs algebraic representation and algorithms</data>
+    </node>
+    <node id="P92426">
+      <data key="title">computational human dynamics</data>
+    </node>
+    <node id="P32122">
+      <data key="title">kernel based reconstruction of space time functions on dynamic graphs</data>
+    </node>
+    <node id="P89068">
+      <data key="title">time varying network modeling and its optimal routing strategy</data>
+    </node>
+    <node id="P68790">
+      <data key="title">higher order visualization of causal structures in dynamics graphs</data>
+    </node>
+    <node id="P61477">
+      <data key="title">stream graphs and link streams for the modeling of interactions over time</data>
+    </node>
+    <node id="P143199">
+      <data key="title">on multiaspect graphs</data>
+    </node>
+    <node id="P25738">
+      <data key="title">analysing collective behaviour in temporal networks using event graphs and temporal motifs</data>
+    </node>
+    <node id="P94590">
+      <data key="title">event graphs advances and applications of second order time unfolded temporal network models</data>
+    </node>
+    <node id="P393">
+      <data key="title">the temporal event graph</data>
+    </node>
+    <node id="P43397">
+      <data key="title">an introduction to temporal graphs an algorithmic perspective</data>
+    </node>
+    <node id="P169100">
+      <data key="title">characterizing continuous time random walks on time varying graphs</data>
+    </node>
+    <node id="P114273">
+      <data key="title">discovering patterns of interest in ip traffic using cliques in bipartite link streams</data>
+    </node>
+    <node id="P36027">
+      <data key="title">social events in a time varying mobile phone graph</data>
+    </node>
+    <node id="P43071">
+      <data key="title">a tutorial on clique problems in communications and signal processing</data>
+    </node>
+    <node id="P141992">
+      <data key="title">algorithmic networks central time to trigger expected emergent open endedness</data>
+    </node>
+    <node id="P18638">
+      <data key="title">a unifying model for representing time varying graphs</data>
+    </node>
+    <node id="P125205">
+      <data key="title">degree based outlier detection within ip traffic modelled as a link stream</data>
+    </node>
+    <node id="P16955">
+      <data key="title">time varying graphs and dynamic networks</data>
+    </node>
+    <node id="P165551">
+      <data key="title">time centrality in dynamic complex networks</data>
+    </node>
+    <edge source="P29869" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P143199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P141992">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P61477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P43071">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P36027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29869" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92426" target="P393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92426" target="P61477">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32122" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89068" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89068" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68790" target="P393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P143199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P114273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P125205">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P43397">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61477" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143199" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143199" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143199" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143199" target="P141992">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143199" target="P43071">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25738" target="P393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25738" target="P43397">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25738" target="P94590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94590" target="P393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94590" target="P43397">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P393" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P393" target="P43397">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43397" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P169100" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114273" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114273" target="P43071">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114273" target="P125205">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36027" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43071" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141992" target="P18638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141992" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18638" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18638" target="P16955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18638" target="P125205">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16955" target="P165551">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

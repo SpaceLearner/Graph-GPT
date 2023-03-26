@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P2989">
+      <data key="title">mcgan mean and covariance feature matching gan</data>
+    </node>
+    <node id="P139207">
+      <data key="title">defensive distillation is not robust to adversarial examples</data>
+    </node>
+    <node id="P12093">
+      <data key="title">adversarial examples are not easily detected bypassing ten detection methods</data>
+    </node>
+    <node id="P35983">
+      <data key="title">unsupervised representation learning with deep convolutional generative adversarial networks</data>
+    </node>
+    <node id="P123310">
+      <data key="title">stackgan text to photo realistic image synthesis with stacked generative adversarial networks</data>
+    </node>
+    <node id="P428">
+      <data key="title">passgan a deep learning approach for password guessing</data>
+    </node>
+    <node id="P24033">
+      <data key="title">conditional generative adversarial nets</data>
+    </node>
+    <node id="P73239">
+      <data key="title">improved techniques for training gans</data>
+    </node>
+    <node id="P87652">
+      <data key="title">stealing machine learning models via prediction apis</data>
+    </node>
+    <node id="P104522">
+      <data key="title">giraffe using deep reinforcement learning to play chess</data>
+    </node>
+    <node id="P107556">
+      <data key="title">improved training of wasserstein gans</data>
+    </node>
+    <node id="P10732">
+      <data key="title">began boundary equilibrium generative adversarial networks</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P143001">
+      <data key="title">playing atari with deep reinforcement learning</data>
+    </node>
+    <node id="P84771">
+      <data key="title">text understanding from scratch</data>
+    </node>
+    <node id="P135057">
+      <data key="title">generating sequences with recurrent neural networks</data>
+    </node>
+    <node id="P90249">
+      <data key="title">touchalytics on the applicability of touchscreen input as a behavioral biometric for continuous authentication</data>
+    </node>
+    <node id="P36054">
+      <data key="title">transferability in machine learning from phenomena to black box attacks using adversarial samples</data>
+    </node>
+    <node id="P59944">
+      <data key="title">distillation as a defense to adversarial perturbations against deep neural networks</data>
+    </node>
+    <node id="P152461">
+      <data key="title">infogan interpretable representation learning by information maximizing generative adversarial nets</data>
+    </node>
+    <edge source="P2989" target="P24033">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2989" target="P35983">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2989" target="P73239">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2989" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2989" target="P428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139207" target="P59944">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139207" target="P428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12093" target="P59944">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12093" target="P36054">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12093" target="P428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P73239">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P107556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P10732">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35983" target="P428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123310" target="P24033">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123310" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123310" target="P428">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P104522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P84771">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P24033">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P90249">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P59944">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P36054">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P73239">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P87652">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P107556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P428" target="P10732">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73239" target="P107556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73239" target="P10732">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104522" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10732" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P135057">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1353" target="P152461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36054" target="P59944">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

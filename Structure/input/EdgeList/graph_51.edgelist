@@ -1,0 +1,46 @@
+Gianni Conte	L. Reyneri	{'relation': 'collaborate'}
+Gianni Conte	Dante Del Corso	{'relation': 'collaborate'}
+Gianni Conte	F Gregoretti	{'relation': 'collaborate'}
+Gianni Conte	P. L. Civera	{'relation': 'collaborate'}
+Gianni Conte	C. Sansoè	{'relation': 'collaborate'}
+G Zappa	E Mosca	{'relation': 'collaborate'}
+G Zappa	G. Menga	{'relation': 'collaborate'}
+G Zappa	C. Greco	{'relation': 'collaborate'}
+G. Menga	G. Morrone	{'relation': 'collaborate'}
+G. Menga	M. Morisio	{'relation': 'collaborate'}
+G. Menga	C. Greco	{'relation': 'collaborate'}
+G. Menga	E. Ovcin	{'relation': 'collaborate'}
+G. Menga	G. Bruno	{'relation': 'collaborate'}
+G. Menga	E Mosca	{'relation': 'collaborate'}
+G. Menga	Dante Del Corso	{'relation': 'collaborate'}
+M. Tranchero	Dante Del Corso	{'relation': 'collaborate'}
+M. Tranchero	Claudio Passerone	{'relation': 'collaborate'}
+M. Tranchero	L. Reyneri	{'relation': 'collaborate'}
+M. Tranchero	M. Borri	{'relation': 'collaborate'}
+M. Tranchero	C. Sansoè	{'relation': 'collaborate'}
+C. Greco	E Mosca	{'relation': 'collaborate'}
+L. Reyneri	Dante Del Corso	{'relation': 'collaborate'}
+L. Reyneri	M. Borri	{'relation': 'collaborate'}
+L. Reyneri	P. L. Civera	{'relation': 'collaborate'}
+L. Reyneri	F Gregoretti	{'relation': 'collaborate'}
+L. Reyneri	Claudio Passerone	{'relation': 'collaborate'}
+L. Reyneri	C. Sansoè	{'relation': 'collaborate'}
+Philip C Treleaven	Dante Del Corso	{'relation': 'collaborate'}
+Philip C Treleaven	Karl-E. Grosspietsch	{'relation': 'collaborate'}
+P. L. Civera	C. Sansoè	{'relation': 'collaborate'}
+P. L. Civera	F Gregoretti	{'relation': 'collaborate'}
+P. L. Civera	Dante Del Corso	{'relation': 'collaborate'}
+C. Sansoè	F Gregoretti	{'relation': 'collaborate'}
+C. Sansoè	Dante Del Corso	{'relation': 'collaborate'}
+C. Sansoè	M. Borri	{'relation': 'collaborate'}
+C. Sansoè	Claudio Passerone	{'relation': 'collaborate'}
+M. Borri	Claudio Passerone	{'relation': 'collaborate'}
+M. Borri	Dante Del Corso	{'relation': 'collaborate'}
+Karl-E. Grosspietsch	Dante Del Corso	{'relation': 'collaborate'}
+Claudio Passerone	F Gregoretti	{'relation': 'collaborate'}
+Claudio Passerone	Dante Del Corso	{'relation': 'collaborate'}
+E. Ovcin	Dante Del Corso	{'relation': 'collaborate'}
+E. Ovcin	G. Morrone	{'relation': 'collaborate'}
+H. D. Kirrman	Dante Del Corso	{'relation': 'collaborate'}
+Dante Del Corso	G. Morrone	{'relation': 'collaborate'}
+Dante Del Corso	F Gregoretti	{'relation': 'collaborate'}

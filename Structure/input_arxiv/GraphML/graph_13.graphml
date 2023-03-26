@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P106676">
+      <data key="title">is the sample good enough comparing data from twitter s streaming api with twitter s firehose</data>
+    </node>
+    <node id="P12570">
+      <data key="title">influence maximization in continuous time diffusion networks</data>
+    </node>
+    <node id="P90980">
+      <data key="title">robust cascade reconstruction by steiner tree sampling</data>
+    </node>
+    <node id="P67985">
+      <data key="title">spatio temporal modeling of users check ins in location based social networks</data>
+    </node>
+    <node id="P129196">
+      <data key="title">back to the source an online approach for sensor placement and source localization</data>
+    </node>
+    <node id="P84928">
+      <data key="title">on the efficiency of the information networks in social media</data>
+    </node>
+    <node id="P64203">
+      <data key="title">necessary and sufficient budgets in information source finding with querying adaptivity gap</data>
+    </node>
+    <node id="P82730">
+      <data key="title">rejection based simulation of stochastic spreading processes on complex networks</data>
+    </node>
+    <node id="P113323">
+      <data key="title">structure and dynamics of information pathways in online media</data>
+    </node>
+    <node id="P159029">
+      <data key="title">locating the source of diffusion in large scale networks</data>
+    </node>
+    <node id="P17">
+      <data key="title">back to the past source identification in diffusion networks from partially observed cascades</data>
+    </node>
+    <node id="P85715">
+      <data key="title">four degrees of separation</data>
+    </node>
+    <node id="P143374">
+      <data key="title">rumor source detection under querying with untruthful answers</data>
+    </node>
+    <node id="P154300">
+      <data key="title">multiple infection sources identification with provable guarantees</data>
+    </node>
+    <node id="P25355">
+      <data key="title">correlated cascades compete or cooperate</data>
+    </node>
+    <node id="P116019">
+      <data key="title">submodular inference of diffusion networks from multiple trees</data>
+    </node>
+    <node id="P4761">
+      <data key="title">estimating diffusion network structures recovery conditions sample complexity soft thresholding algorithm</data>
+    </node>
+    <node id="P21230">
+      <data key="title">network infusion to infer information sources in networks</data>
+    </node>
+    <node id="P53387">
+      <data key="title">bayesian inference of diffusion networks with unknown infection times</data>
+    </node>
+    <node id="P129860">
+      <data key="title">a continuous time mutually exciting point process framework for prioritizing events in social media</data>
+    </node>
+    <edge source="P106676" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12570" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12570" target="P113323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90980" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67985" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67985" target="P25355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129196" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129196" target="P159029">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84928" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64203" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64203" target="P143374">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82730" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113323" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113323" target="P53387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113323" target="P116019">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159029" target="P17">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159029" target="P143374">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P116019">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P4761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P85715">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P21230">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P25355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P129860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P53387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P143374">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17" target="P154300">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25355" target="P4761">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

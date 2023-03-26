@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ana Bianco">
+      <data key="affiliation">Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires and CONICET, Ciudad Universitaria, Pabellón 2, Buenos Aires C1428EHA, Argentina</data>
+      <data key="research">robust estimator, regression parameter, robust test</data>
+    </node>
+    <node id="Daniel Rodriguez">
+      <data key="affiliation">Email: contact@sketchitup.com, Pittsburgh, United States of America 15219</data>
+      <data key="research">good ideation process, ideation process, simple way</data>
+    </node>
+    <node id="Ruben H. Zamar">
+      <data key="affiliation">Univ. of British Columbia, Vancouver, BC Canada</data>
+      <data key="research">Maronna method, correlation matrix, data mining application</data>
+    </node>
+    <node id="Elena Martínez">
+      <data key="affiliation">Universidad de Buenos Aires, Argentina</data>
+      <data key="research">glog-normal distribution, robust estimation, robust scale</data>
+    </node>
+    <node id="Graciela Boente">
+      <data key="affiliation">Ciudad Univ., Buenos Aires, Argentina</data>
+      <data key="research">robust estimator, robust estimate, robust procedure</data>
+    </node>
+    <node id="Daniel Peña">
+      <data key="affiliation">Innovación Inspección Industrial Imagenes S.L., spinoff U.P.M., Centro de Empresas LA ARBOLEDA, Local 51, Campus Sur UPM., Ctra. Valencia Km. 7, 3, 28031 Madrid, Spain</data>
+      <data key="research">time series, electronic image, image processing algorithm</data>
+    </node>
+    <node id="G. Willems">
+      <data key="affiliation">Department of Applied Mathematics and Computer Science, Ghent University, Krijgslaan 281 S9, B9000 Ghent, Belgium</data>
+      <data key="research">packet loss, Stahel-Donoho estimator, analytical model</data>
+    </node>
+    <node id="Ricardo Fraiman">
+      <data key="affiliation">Departamento de Matemática, Univ. de San Andrés, Buenos Aires, Argentina</data>
+      <data key="research">functional data, real data example, random projection</data>
+    </node>
+    <node id="Roy E. Welsch">
+      <data key="affiliation">Sloan School of Management, M.I.T., Cambridge, MA, United States</data>
+      <data key="research">squares problem, nonlinear least-squares, maximum likelihood</data>
+    </node>
+    <node id="Alan Wagner">
+      <data key="affiliation">Univ British Columbia, 2366 Main Mall, UBC, Vancouver, BC</data>
+      <data key="research">MPI program, MPI middleware, Maronna method</data>
+    </node>
+    <node id="R. T. Ng">
+      <data key="affiliation">Institute of Textiles &amp; Clothing, the Hong Kong Polytechnic University, Hong Kong, China</data>
+      <data key="research">data mining, experimental result, data mining application</data>
+    </node>
+    <node id="W. González-Manteiga">
+      <data key="affiliation">Department of Statistics and Operations Research, University of Vigo, Spain</data>
+      <data key="research">simulation study, functional linear model, linear mixed model</data>
+    </node>
+    <node id="Stefan Van Aelst">
+      <data key="affiliation">Department of Applied Mathematics and Computer Science, Ghent University (UGENT), Gent, Belgium</data>
+      <data key="research">Stahel-Donoho estimator, robust estimator, random fuzzy number</data>
+    </node>
+    <node id="R. Douglas Martin">
+      <data key="affiliation">University of Washington and Insightful Corp.</data>
+      <data key="research">neural network, time series, filtered data</data>
+    </node>
+    <node id="Edwin M. Knorr">
+      <data key="affiliation">Univ. of British Columbia, Vancouver, BC Canada</data>
+      <data key="research">card technology, digital money, large datasets</data>
+    </node>
+    <node id="Rong Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">data service, interactive video</data>
+    </node>
+    <node id="Andreas Scherer">
+      <data key="affiliation">University of Hagen, P.O. Box 940, D58084 Hagen, Germany</data>
+      <data key="research">database group, case study, research area</data>
+    </node>
+    <node id="Marcelo Ruiz">
+      <data key="affiliation">Nan</data>
+      <data key="research">Manuales Users, Excel XP, La Biblia de Microsoft</data>
+    </node>
+    <node id="Ana M. Pires">
+      <data key="affiliation">Department of Mathematics, Centre for Mathematics and its Applications (CEMAT), Instituto Superior Tecnico, Technical University of Lisbon, Avenida Rovisco Pais, 1049001 Lisboa, Portugal</data>
+      <data key="research">asymptotic variance, paternity analysis, robust estimate</data>
+    </node>
+    <node id="Laks V. S. Lakshmanan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Logic Programming, declarative framework, inheritanceAn Epistemic Foundation</data>
+    </node>
+    <edge source="Ana Bianco" target="Graciela Boente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ana Bianco" target="Elena Martínez">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ana Bianco" target="Ana M. Pires">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ana Bianco" target="W. González-Manteiga">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Rodriguez" target="Graciela Boente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Daniel Peña">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Graciela Boente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="G. Willems">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Marcelo Ruiz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Roy E. Welsch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Andreas Scherer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Laks V. S. Lakshmanan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="R. T. Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Rong Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="R. Douglas Martin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Stefan Van Aelst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Alan Wagner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ruben H. Zamar" target="Edwin M. Knorr">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Graciela Boente" target="Ana M. Pires">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Graciela Boente" target="W. González-Manteiga">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Graciela Boente" target="Ricardo Fraiman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Graciela Boente" target="Marcelo Ruiz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Willems" target="Stefan Van Aelst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roy E. Welsch" target="Stefan Van Aelst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alan Wagner" target="R. T. Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. T. Ng" target="Andreas Scherer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. T. Ng" target="Edwin M. Knorr">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. T. Ng" target="Laks V. S. Lakshmanan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Van Aelst" target="Rong Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

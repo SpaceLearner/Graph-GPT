@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P453">
+      <data key="title">libact pool based active learning in python</data>
+    </node>
+    <node id="P67166">
+      <data key="title">deep residual learning for image recognition</data>
+    </node>
+    <node id="P11955">
+      <data key="title">tweet2vec character based distributed representations for social media</data>
+    </node>
+    <node id="P129275">
+      <data key="title">deep bayesian active learning with image data</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P147380">
+      <data key="title">stochastic learning on imbalanced data determinantal point processes for mini batch diversification</data>
+    </node>
+    <node id="P142023">
+      <data key="title">deep active learning over the long tail</data>
+    </node>
+    <node id="P78736">
+      <data key="title">reverse iterative volume sampling for linear regression</data>
+    </node>
+    <node id="P113011">
+      <data key="title">modal a modular active learning framework for python</data>
+    </node>
+    <node id="P43114">
+      <data key="title">fast determinantal point processes via distortion free intermediate sampling</data>
+    </node>
+    <node id="P33580">
+      <data key="title">adversarial active learning for deep networks a margin based approach</data>
+    </node>
+    <node id="P77833">
+      <data key="title">agnostic active learning without constraints</data>
+    </node>
+    <node id="P139223">
+      <data key="title">active learning for speech recognition the power of gradients</data>
+    </node>
+    <node id="P79348">
+      <data key="title">on the difficulty of warm starting neural network training</data>
+    </node>
+    <node id="P134403">
+      <data key="title">extracting localized information from a twitter corpus for flood prevention</data>
+    </node>
+    <node id="P120747">
+      <data key="title">determinantal point processes for mini batch diversification</data>
+    </node>
+    <node id="P137877">
+      <data key="title">active discriminative text representation learning</data>
+    </node>
+    <node id="P14744">
+      <data key="title">monte carlo markov chain algorithms for sampling strongly rayleigh distributions and determinantal point processes</data>
+    </node>
+    <node id="P86810">
+      <data key="title">deep batch active learning by diverse uncertain gradient lower bounds</data>
+    </node>
+    <node id="P105880">
+      <data key="title">api design for machine learning software experiences from the scikit learn project</data>
+    </node>
+    <edge source="P453" target="P113011">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P453" target="P134403">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P453" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67166" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67166" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67166" target="P79348">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11955" target="P134403">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129275" target="P142023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129275" target="P33580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129275" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129275" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P147380">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P142023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147380" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142023" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78736" target="P43114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78736" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113011" target="P105880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43114" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33580" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77833" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139223" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79348" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120747" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137877" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14744" target="P86810">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P108486">
+      <data key="title">semi automatic complexity analysis of a higher order language</data>
+    </node>
+    <node id="P95407">
+      <data key="title">resumptions weak bisimilarity and big step semantics for while with interactive i o an exercise in mixed induction coinduction</data>
+    </node>
+    <node id="P36387">
+      <data key="title">coaxioms flexible coinductive definitions by inference systems</data>
+    </node>
+    <node id="P154461">
+      <data key="title">coinductive big step operational semantics</data>
+    </node>
+    <node id="P30687">
+      <data key="title">infinitary λ calculi from a linear perspective long version</data>
+    </node>
+    <node id="P88830">
+      <data key="title">a coinductive semantics of the unlimited register machine</data>
+    </node>
+    <node id="P81958">
+      <data key="title">interaction trees representing recursive and impure programs in coq</data>
+    </node>
+    <node id="P28636">
+      <data key="title">advances in property based testing for alpha prolog</data>
+    </node>
+    <node id="P96104">
+      <data key="title">a new coinductive confluence proof for infinitary lambda calculus</data>
+    </node>
+    <node id="P132916">
+      <data key="title">formalisation of a frame stack semantics for a java like language</data>
+    </node>
+    <node id="P5750">
+      <data key="title">formal small step verification of a call by value lambda calculus machine</data>
+    </node>
+    <node id="P16141">
+      <data key="title">flag based big step semantics</data>
+    </node>
+    <node id="P5349">
+      <data key="title">coinductive big step semantics for concurrency</data>
+    </node>
+    <node id="P55252">
+      <data key="title">coinduction an elementary approach</data>
+    </node>
+    <node id="P140404">
+      <data key="title">mechanized semantics for the clight subset of the c language</data>
+    </node>
+    <node id="P137148">
+      <data key="title">denotational cost semantics for functional languages with inductive types</data>
+    </node>
+    <node id="P452">
+      <data key="title">a lambda calculus for transfinite arrays unifying arrays and streams</data>
+    </node>
+    <node id="P137728">
+      <data key="title">a formally verified compiler back end</data>
+    </node>
+    <node id="P46789">
+      <data key="title">a hoare logic for the coinductive trace based big step semantics of while</data>
+    </node>
+    <node id="P121207">
+      <data key="title">probabilistic operational semantics for the lambda calculus</data>
+    </node>
+    <edge source="P108486" target="P154461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P46789">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P154461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P5349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P16141">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P55252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P96104">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95407" target="P81958">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36387" target="P154461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P88830">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P5349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P140404">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P137728">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P16141">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P46789">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P30687">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P452">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P5750">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P132916">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P55252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P96104">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P28636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P121207">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P137148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154461" target="P81958">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96104" target="P55252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16141" target="P5349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5349" target="P46789">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140404" target="P137728">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140404" target="P46789">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

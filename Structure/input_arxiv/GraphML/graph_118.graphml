@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P67276">
+      <data key="title">snap stateful network wide abstractions for packet processing</data>
+    </node>
+    <node id="P45261">
+      <data key="title">toward synthesis of network updates</data>
+    </node>
+    <node id="P156807">
+      <data key="title">sdn access control for the masses</data>
+    </node>
+    <node id="P91826">
+      <data key="title">survey of consistent software defined network updates</data>
+    </node>
+    <node id="P100933">
+      <data key="title">kleene algebra modulo theories</data>
+    </node>
+    <node id="P167574">
+      <data key="title">ptacl a language for attribute based access control in open systems</data>
+    </node>
+    <node id="P70581">
+      <data key="title">packet transactions a programming model for data plane algorithms at hardware speed</data>
+    </node>
+    <node id="P1899">
+      <data key="title">p4cep towards in network complex event processing</data>
+    </node>
+    <node id="P149110">
+      <data key="title">merlin a language for provisioning network resources</data>
+    </node>
+    <node id="P148">
+      <data key="title">efficient synthesis of network updates</data>
+    </node>
+    <node id="P133932">
+      <data key="title">access control synthesis for physical spaces</data>
+    </node>
+    <node id="P161367">
+      <data key="title">d2r dataplane only policy compliant routing under failures</data>
+    </node>
+    <node id="P133976">
+      <data key="title">survey of consistent network updates</data>
+    </node>
+    <node id="P49309">
+      <data key="title">applying formal methods to networking theory techniques and applications</data>
+    </node>
+    <node id="P97220">
+      <data key="title">trufl distributed trust management framework in sdn</data>
+    </node>
+    <node id="P100767">
+      <data key="title">event driven network programming</data>
+    </node>
+    <node id="P69478">
+      <data key="title">why and how networks should run themselves</data>
+    </node>
+    <node id="P153645">
+      <data key="title">a fast compiler for netkat</data>
+    </node>
+    <node id="P148667">
+      <data key="title">cantor meets scott semantic foundations for probabilistic networks</data>
+    </node>
+    <node id="P83658">
+      <data key="title">report on the nsf workshop on formal methods for security</data>
+    </node>
+    <edge source="P67276" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P70581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P100933">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P69478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P1899">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P153645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67276" target="P149110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45261" target="P148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45261" target="P49309">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156807" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91826" target="P148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91826" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100933" target="P153645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100933" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P167574" target="P133932">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70581" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1899" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149110" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149110" target="P69478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149110" target="P161367">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P100767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P133932">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P83658">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P133976">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P97220">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148" target="P161367">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100767" target="P153645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100767" target="P148667">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100767" target="P69478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153645" target="P148667">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

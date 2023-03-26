@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Goo Jun">
+      <data key="affiliation">Dept. of Biostatistics, University of Michigan, Ann Arbor, MI 48109, USA</data>
+      <data key="research">loss-reduction method, total misclassification cost, active learning</data>
+    </node>
+    <node id="Srinivasa V. Chakravarthy">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Texas Univ., Austin, TX</data>
+      <data key="research">alternative clustering network, benchmark clustering example, function emulation</data>
+    </node>
+    <node id="Ajay Joshi">
+      <data key="affiliation">School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA</data>
+      <data key="research">power dissipation, WPM circuit, dynamic power</data>
+    </node>
+    <node id="Joydeep Ghosh">
+      <data key="affiliation">Nan</data>
+      <data key="research">MS diagnosis, MS patient, MS research</data>
+    </node>
+    <node id="Sankari Dhandapani">
+      <data key="affiliation">Imaging Research Center, Austin TX</data>
+      <data key="research">imaging data, imagingFunctional magnetic resonance imaging, high-resolution functional magnetic resonance</data>
+    </node>
+    <node id="D. J. Hand">
+      <data key="affiliation">Department of Mathematics, Imperial College, 180 Queen's Gate, London, SW7 2BZ, UK</data>
+      <data key="research">data mining, data set, large data set</data>
+    </node>
+    <node id="Andrew Tomkins">
+      <data key="affiliation">Google, Inc., Mountain View, CA, USA</data>
+      <data key="research">social network, Web page, Web search</data>
+    </node>
+    <node id="Melba M. Crawford">
+      <data key="affiliation">Laboratory for Applications of Remote Sensing, Purdue University,</data>
+      <data key="research">active learning, hyperspectral data, unlabeled data</data>
+    </node>
+    <node id="Srujana Merugu">
+      <data key="affiliation">Amazon SDC, Bangalore, India</data>
+      <data key="research">Bregman divergence, global model, model integration problem</data>
+    </node>
+    <node id="Jose Nelson Amaral">
+      <data key="affiliation">Department of Computing Science, University of Alberta, Edmonton, AB, Canada</data>
+      <data key="research">performance improvement, overall performance, overall system performance</data>
+    </node>
+    <node id="Suju Rajan">
+      <data key="affiliation">Yahoo! Labs, Sunnyvale, CA, USA</data>
+      <data key="research">unlabeled data, hyperspectral data, search result</data>
+    </node>
+    <node id="Suvrit Sra">
+      <data key="affiliation">Max Planck Instutite for Intelligent Systems, Tüebingen</data>
+      <data key="research">input data, gene-expression data, new algorithm</data>
+    </node>
+    <node id="Arindam Banerjee">
+      <data key="affiliation">Nan</data>
+      <data key="research">anomaly detection, existing anomaly detection algorithm, aviation safety incident</data>
+    </node>
+    <node id="Gunjan Gupta">
+      <data key="affiliation">Nan</data>
+      <data key="research">background data, data volume, simulation data</data>
+    </node>
+    <node id="Shi Zhong">
+      <data key="affiliation">Key Laboratory of Computer System and Architecture, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">training data, unlabeled data, semi-supervised clustering</data>
+    </node>
+    <node id="B. W. Stiles">
+      <data key="affiliation">Dept. of Electr. &amp; Comput. Eng., Texas Univ., Austin, TX</data>
+      <data key="research">state vector, complete memory, nonlinear memory</data>
+    </node>
+    <node id="Vipin Kumar">
+      <data key="affiliation">William Norris Professor, Head of the Computer Science and Engineering, Department University of Minnesota, 2500 University Drive N.W., Calgary, AB, Canada</data>
+      <data key="research">data set, data mining, parallel formulation</data>
+    </node>
+    <node id="Cheng Lee">
+      <data key="affiliation">Department of Electrical Engineering, National Taipei University of Technology, Taipei, Taiwan</data>
+      <data key="research">proposed system, monitoring system, ECG front end</data>
+    </node>
+    <node id="C. Harrison">
+      <data key="affiliation">Nan</data>
+      <data key="research">new possibility, new technology, power relationship</data>
+    </node>
+    <node id="Mallikarjun Shankar">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed algorithm, data generation process, multiple data mining application</data>
+    </node>
+    <edge source="Goo Jun" target="Joydeep Ghosh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Srinivasa V. Chakravarthy" target="Joydeep Ghosh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ajay Joshi" target="Joydeep Ghosh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="C. Harrison">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Vipin Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Andrew Tomkins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Arindam Banerjee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Sankari Dhandapani">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Mallikarjun Shankar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Cheng Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Gunjan Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Shi Zhong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Melba M. Crawford">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Jose Nelson Amaral">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="B. W. Stiles">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Suju Rajan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="D. J. Hand">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Srujana Merugu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joydeep Ghosh" target="Suvrit Sra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sankari Dhandapani" target="Gunjan Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. J. Hand" target="Vipin Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew Tomkins" target="Srujana Merugu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Srujana Merugu" target="Arindam Banerjee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Suvrit Sra" target="Arindam Banerjee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Arindam Banerjee" target="Vipin Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

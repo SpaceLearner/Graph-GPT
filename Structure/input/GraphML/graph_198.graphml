@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Liansheng Tan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Bernoulli shift map, packet traffic, Bernoulli Shift MapStatistical property</data>
+    </node>
+    <node id="Peng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">simulation result, multi-path routing, Ad Hoc network</data>
+    </node>
+    <node id="Hongcai Chen">
+      <data key="affiliation">Department of Computer Science, Huazhong Normal University, Wuhan, China 430079</data>
+      <data key="research">P2P network, Attractive Factor, BA model</data>
+    </node>
+    <node id="Shengsheng Yu">
+      <data key="affiliation">College of Computer Science and Technology, Huazhong, University of Science and Technology, Wuhan, China</data>
+      <data key="research">experimental result, M-channel filter bank system, proxy caching system</data>
+    </node>
+    <node id="Xiangqun Zhang">
+      <data key="affiliation">School of Computer Science and Technology, Xuchang University, Xuchang</data>
+      <data key="research">Traditional LDA-based method, scatter matrix, Multilinear nonparametric feature analysisA</data>
+    </node>
+    <node id="Yang Sun Lee">
+      <data key="affiliation">Division of Computer Engineering, Mokwon University, Daejeon 302729, Korea</data>
+      <data key="research">locator split network, current Internet, relative velocity</data>
+    </node>
+    <node id="Yi Zhang">
+      <data key="affiliation">College of Computer Science, Sichuan University, Chengdu, China</data>
+      <data key="research">proposed method, Wiley Periodicals, coherence transport</data>
+    </node>
+    <node id="Ya Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Cloud Computing, Cloud Storage, key technology</data>
+    </node>
+    <node id="Hao Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">network storage system, portable consumer electronics device, cached network storage system</data>
+    </node>
+    <node id="Huaqiang Pan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Grid Computing, Optimizing execution, P2P NetworksService Level Agreements</data>
+    </node>
+    <node id="Wei Teng">
+      <data key="affiliation">Huazhong University of Science and Technology, Wuhan, China</data>
+      <data key="research">feedforward coefficient, calibration algorithm, experimental result</data>
+    </node>
+    <node id="Jian Cheng">
+      <data key="affiliation">School of Information and Electrical Engineering, CUMTIoT Perception Mine Research Center, China University of Mining and Technology, Xuzhou, China,CERCIA, School of Computer Science, University  ...</data>
+      <data key="research">low-dimensional feature space, pairwise constraint, embedding space</data>
+    </node>
+    <node id="Mi Chen">
+      <data key="affiliation">College of Physical Science and Technology, Huazhong Normal University, Wuhan, China 430079</data>
+      <data key="research">proposed algorithm, Novel Localization Algorithm, environment change</data>
+    </node>
+    <node id="Fang Hu">
+      <data key="affiliation">College of Sciences, North China University of Technology, Beijing, P.R. China</data>
+      <data key="research">corner detection, corner detector, corner point</data>
+    </node>
+    <node id="Chuan Lin">
+      <data key="affiliation">Guangdong Provincial Key Laboratory of Robotics and Intelligent System, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China</data>
+      <data key="research">particle swarm search, wall-following robot navigation, Classification-based learning</data>
+    </node>
+    <node id="Yuhua Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">human behavior, large-scale crowd, Real-Time Crowd EvacuationEmergency evacuation</data>
+    </node>
+    <node id="Shaohua Tao">
+      <data key="affiliation">Central China Normal University, China</data>
+      <data key="research">BA model, complex network, Attractive Factor</data>
+    </node>
+    <node id="Changbo Wang">
+      <data key="affiliation">East China Normal University, Shanghai, P. R. China</data>
+      <data key="research">data dimension, data redundancy, different data set</data>
+    </node>
+    <node id="Jun Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">MMET Model, computational time, old MMET model</data>
+    </node>
+    <node id="Chun Yang">
+      <data key="affiliation">Department of Computer Science and Technology, Peking University, Beijing, China</data>
+      <data key="research">SPC address, address translation, performance overhead</data>
+    </node>
+    <edge source="Liansheng Tan" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liansheng Tan" target="Peng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peng Yang" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peng Yang" target="Peng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peng Yang" target="Changbo Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peng Yang" target="Yi Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peng Yang" target="Shengsheng Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongcai Chen" target="Huaqiang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongcai Chen" target="Shaohua Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongcai Chen" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongcai Chen" target="Xiangqun Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongcai Chen" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shengsheng Yu" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiangqun Zhang" target="Shaohua Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiangqun Zhang" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yang Sun Lee" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi Zhang" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ya Wang" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ya Wang" target="Wei Teng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Huang" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Huang" target="Wei Teng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao Huang" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huaqiang Pan" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huaqiang Pan" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Teng" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Cheng" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jian Cheng" target="Jun Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mi Chen" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang Hu" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chuan Lin" target="Yuhua Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhua Liu" target="Changbo Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhua Liu" target="Jun Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhua Liu" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuhua Liu" target="Shaohua Tao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaohua Tao" target="Chun Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

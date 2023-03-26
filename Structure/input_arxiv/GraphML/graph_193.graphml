@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P120475">
+      <data key="title">local private efficient protocols for succinct histograms</data>
+    </node>
+    <node id="P244">
+      <data key="title">supervised dimensionality reduction via distance correlation maximization</data>
+    </node>
+    <node id="P157514">
+      <data key="title">privacy for the protected only</data>
+    </node>
+    <node id="P75694">
+      <data key="title">spotlight the negatives a generalized discriminative latent model</data>
+    </node>
+    <node id="P7814">
+      <data key="title">binaryconnect training deep neural networks with binary weights during propagations</data>
+    </node>
+    <node id="P30293">
+      <data key="title">advances and open problems in federated learning</data>
+    </node>
+    <node id="P0">
+      <data key="title">evasion attacks against machine learning at test time</data>
+    </node>
+    <node id="P18241">
+      <data key="title">modeling latent variable uncertainty for loss based learning</data>
+    </node>
+    <node id="P136437">
+      <data key="title">weakly supervised object localization with multi fold multiple instance learning</data>
+    </node>
+    <node id="P2471">
+      <data key="title">model pruning enables efficient federated learning on edge devices</data>
+    </node>
+    <node id="P101156">
+      <data key="title">don t use large mini batches use local sgd</data>
+    </node>
+    <node id="P169142">
+      <data key="title">decentralized deep learning with arbitrary communication compression</data>
+    </node>
+    <node id="P145486">
+      <data key="title">q gadmm quantized group admm for communication efficient decentralized machine learning</data>
+    </node>
+    <node id="P55889">
+      <data key="title">deep learning with elastic averaging sgd</data>
+    </node>
+    <node id="P168890">
+      <data key="title">on the convergence of bound optimization algorithms</data>
+    </node>
+    <node id="P54126">
+      <data key="title">on learning to localize objects with minimal supervision</data>
+    </node>
+    <node id="P125739">
+      <data key="title">the composition theorem for differential privacy</data>
+    </node>
+    <node id="P10538">
+      <data key="title">deep compression compressing deep neural networks with pruning trained quantization and huffman coding</data>
+    </node>
+    <node id="P9067">
+      <data key="title">generalized majorization minimization</data>
+    </node>
+    <node id="P61100">
+      <data key="title">intriguing properties of neural networks</data>
+    </node>
+    <edge source="P120475" target="P30293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P244" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P244" target="P30293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157514" target="P30293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75694" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7814" target="P30293">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P101156">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P169142">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P2471">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P145486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P0">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P61100">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P55889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P125739">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30293" target="P10538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18241" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18241" target="P54126">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136437" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136437" target="P54126">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101156" target="P55889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101156" target="P169142">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168890" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54126" target="P9067">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

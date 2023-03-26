@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P109039">
+      <data key="title">modular mechanistic networks on bridging mechanistic and phenomenological models with deep neural networks in natural language processing</data>
+    </node>
+    <node id="P45484">
+      <data key="title">towards moral autonomous systems</data>
+    </node>
+    <node id="P112316">
+      <data key="title">robots as actors in a film no war a robot story</data>
+    </node>
+    <node id="P251">
+      <data key="title">emergence of consensus in a multi robot network from abstract models to empirical validation</data>
+    </node>
+    <node id="P58204">
+      <data key="title">perspective alignment in spatial language</data>
+    </node>
+    <node id="P86301">
+      <data key="title">the dark side of ethical robots</data>
+    </node>
+    <node id="P20645">
+      <data key="title">symbol emergence as an interpersonal multimodal categorization</data>
+    </node>
+    <node id="P61833">
+      <data key="title">towards verifiably ethical robot behaviour</data>
+    </node>
+    <node id="P158690">
+      <data key="title">emergent naming of resources in a foraging robot swarm</data>
+    </node>
+    <node id="P138643">
+      <data key="title">research priorities for robust and beneficial artificial intelligence</data>
+    </node>
+    <node id="P21467">
+      <data key="title">the social dilemma of autonomous vehicles</data>
+    </node>
+    <edge source="P109039" target="P58204">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45484" target="P86301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45484" target="P21467">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112316" target="P251">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112316" target="P86301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P251" target="P158690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58204" target="P20645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58204" target="P158690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86301" target="P21467">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86301" target="P61833">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86301" target="P138643">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

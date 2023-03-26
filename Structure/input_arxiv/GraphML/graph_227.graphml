@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P129239">
+      <data key="title">mobibits multimodal mobile biometric database</data>
+    </node>
+    <node id="P61347">
+      <data key="title">implications of ocular pathologies for iris recognition reliability</data>
+    </node>
+    <node id="P157517">
+      <data key="title">linear regression analysis of template aging in iris biometrics</data>
+    </node>
+    <node id="P12028">
+      <data key="title">human iris recognition in post mortem subjects study and database</data>
+    </node>
+    <node id="P120871">
+      <data key="title">presentation attack detection for iris recognition an assessment of the state of the art</data>
+    </node>
+    <node id="P57821">
+      <data key="title">some research problems in biometrics the future beckons</data>
+    </node>
+    <node id="P24740">
+      <data key="title">presentation attack detection for cadaver iris</data>
+    </node>
+    <node id="P23822">
+      <data key="title">sip segnet a deep convolutional encoder decoder network for joint semantic segmentation and extraction of sclera iris and pupil based on periocular region suppression</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P5772">
+      <data key="title">cross spectral iris recognition for mobile applications using high quality color images</data>
+    </node>
+    <node id="P109675">
+      <data key="title">post mortem iris decomposition and its dynamics in morgue conditions</data>
+    </node>
+    <node id="P61614">
+      <data key="title">data driven segmentation of post mortem iris images</data>
+    </node>
+    <node id="P47171">
+      <data key="title">post mortem iris recognition with deep learning based image segmentation</data>
+    </node>
+    <node id="P119572">
+      <data key="title">iris recognition after death</data>
+    </node>
+    <node id="P77584">
+      <data key="title">a survey to deep facial attribute analysis</data>
+    </node>
+    <node id="P285">
+      <data key="title">iris recognition with a database of iris images obtained in visible light using smartphone camera</data>
+    </node>
+    <node id="P41401">
+      <data key="title">post mortem human iris recognition</data>
+    </node>
+    <node id="P99153">
+      <data key="title">post mortem iris recognition resistant to biological eye decay processes</data>
+    </node>
+    <node id="P60951">
+      <data key="title">smartphone multi modal biometric authentication database and evaluation</data>
+    </node>
+    <node id="P142762">
+      <data key="title">perception of image features in post mortem iris recognition humans vs machines</data>
+    </node>
+    <edge source="P129239" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129239" target="P285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129239" target="P60951">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61347" target="P157517">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61347" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P120871">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P61614">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P47171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P24740">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P109675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P99153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12028" target="P23822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120871" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120871" target="P5772">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120871" target="P24740">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57821" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P47171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P61614">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P109675">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24740" target="P99153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23822" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23822" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23822" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P61614">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5772" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5772" target="P285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109675" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109675" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109675" target="P61614">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109675" target="P47171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109675" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61614" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61614" target="P47171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61614" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47171" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47171" target="P119572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119572" target="P285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119572" target="P41401">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119572" target="P77584">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119572" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119572" target="P99153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99153" target="P142762">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

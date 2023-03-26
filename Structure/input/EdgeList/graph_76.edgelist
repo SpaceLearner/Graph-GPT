@@ -1,0 +1,33 @@
+Joseph Yan	S. E. Salcudean	{'relation': 'collaborate'}
+Joseph Yan	Andrew H. Gosline	{'relation': 'collaborate'}
+G. Bell	S. E. Salcudean	{'relation': 'collaborate'}
+G. Bell	P. Abolmaesumi	{'relation': 'collaborate'}
+Andrew H. Gosline	S. E. Salcudean	{'relation': 'collaborate'}
+S. E. Salcudean	J M Varah	{'relation': 'collaborate'}
+S. E. Salcudean	Elizabeth A. Croft	{'relation': 'collaborate'}
+S. E. Salcudean	Xu Wen	{'relation': 'collaborate'}
+S. E. Salcudean	Omid Mohareri	{'relation': 'collaborate'}
+S. E. Salcudean	Mahdi Ramezani	{'relation': 'collaborate'}
+S. E. Salcudean	E. A. Croft	{'relation': 'collaborate'}
+S. E. Salcudean	Daniela Constantinescu	{'relation': 'collaborate'}
+S. E. Salcudean	Claude Reboulet	{'relation': 'collaborate'}
+S. E. Salcudean	James Morris	{'relation': 'collaborate'}
+S. E. Salcudean	S. G. Deshmukh	{'relation': 'collaborate'}
+S. E. Salcudean	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
+S. E. Salcudean	P. Abolmaesumi	{'relation': 'collaborate'}
+S. E. Salcudean	Pascal Fallavollita	{'relation': 'collaborate'}
+S. E. Salcudean	Weiqi Wang	{'relation': 'collaborate'}
+S. E. Salcudean	Mehdi Moradi	{'relation': 'collaborate'}
+S. E. Salcudean	Michael C. Yip	{'relation': 'collaborate'}
+Michael C. Yip	Omid Mohareri	{'relation': 'collaborate'}
+Omid Mohareri	P. Abolmaesumi	{'relation': 'collaborate'}
+Omid Mohareri	Mahdi Ramezani	{'relation': 'collaborate'}
+Mahdi Ramezani	P. Abolmaesumi	{'relation': 'collaborate'}
+Pascal Fallavollita	P. Abolmaesumi	{'relation': 'collaborate'}
+S. G. Deshmukh	Mehdi Moradi	{'relation': 'collaborate'}
+Daniela Constantinescu	E. A. Croft	{'relation': 'collaborate'}
+Daniela Constantinescu	Elizabeth A. Croft	{'relation': 'collaborate'}
+Claude Reboulet	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
+P. Abolmaesumi	K. Hashtrudi-Zaad	{'relation': 'collaborate'}
+P. Abolmaesumi	Mehdi Moradi	{'relation': 'collaborate'}
+Xu Wen	Mehdi Moradi	{'relation': 'collaborate'}

@@ -1,0 +1,33 @@
+J. Banks	M. Bennamoun	{'relation': 'collaborate'}
+J. Banks	P. Corke	{'relation': 'collaborate'}
+Chris McCool	Sridha Sridharan	{'relation': 'collaborate'}
+Chris McCool	G. J. Mamic	{'relation': 'collaborate'}
+Chris McCool	Clinton Fookes	{'relation': 'collaborate'}
+R. Owens	Ajmal S. Mian	{'relation': 'collaborate'}
+R. Owens	M. Bennamoun	{'relation': 'collaborate'}
+Sridha Sridharan	G. J. Mamic	{'relation': 'collaborate'}
+Sridha Sridharan	B. Chen	{'relation': 'collaborate'}
+Sridha Sridharan	D. Chen	{'relation': 'collaborate'}
+Sridha Sridharan	Clinton Fookes	{'relation': 'collaborate'}
+Clinton Fookes	B. Chen	{'relation': 'collaborate'}
+Clinton Fookes	D. Chen	{'relation': 'collaborate'}
+Clinton Fookes	G. J. Mamic	{'relation': 'collaborate'}
+Suman Sedai	D. Q. Huynh	{'relation': 'collaborate'}
+Suman Sedai	M. Bennamoun	{'relation': 'collaborate'}
+G. J. Mamic	M. Bennamoun	{'relation': 'collaborate'}
+G. J. Mamic	B. Chen	{'relation': 'collaborate'}
+G. J. Mamic	D. Chen	{'relation': 'collaborate'}
+Hongchuan Yu	M. Bennamoun	{'relation': 'collaborate'}
+Wilson Wong	M. Bennamoun	{'relation': 'collaborate'}
+Wilson Wong	Wei Liu	{'relation': 'collaborate'}
+Wei Liu	M. Bennamoun	{'relation': 'collaborate'}
+Wei Liu	Wei Liu	{'relation': 'collaborate'}
+M. Bennamoun	L. Williams	{'relation': 'collaborate'}
+M. Bennamoun	Ajmal S. Mian	{'relation': 'collaborate'}
+M. Bennamoun	D. Q. Huynh	{'relation': 'collaborate'}
+M. Bennamoun	B. Boashash	{'relation': 'collaborate'}
+M. Bennamoun	S. Mahadevan	{'relation': 'collaborate'}
+M. Bennamoun	P. Corke	{'relation': 'collaborate'}
+D. Chen	B. Chen	{'relation': 'collaborate'}
+S. Mahadevan	L. Williams	{'relation': 'collaborate'}
+S. Mahadevan	L. L. Raja	{'relation': 'collaborate'}

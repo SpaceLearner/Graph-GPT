@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Shuai Wan">
+      <data key="affiliation">Dept. Electron. Eng., Queen Mary, London</data>
+      <data key="research">proposed method, proposed approach, video coding</data>
+    </node>
+    <node id="Hong Ren Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Perceptual Processing, perceptual-based visual processing technique, perceptual-based visual signal processing</data>
+    </node>
+    <node id="C. J. Date">
+      <data key="affiliation">Nan</data>
+      <data key="research">Database Systems, Religious Wars, SIGMOD Record</data>
+    </node>
+    <node id="Zhonghua Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">electric field, LWD instrument measurement data, LWD measurement</data>
+    </node>
+    <node id="David Wu">
+      <data key="affiliation">Institute for Information Industry, Taipei, Taiwan</data>
+      <data key="research">complex interaction, continuous availability, eventsThe continuous evolution</data>
+    </node>
+    <node id="Zhihong Man">
+      <data key="affiliation">School of Computer Engineering, Nanyang Technological University, Singapore</data>
+      <data key="research">adaptive filter, simulation result, MRVSS algorithm</data>
+    </node>
+    <node id="Shengkui Zhao">
+      <data key="affiliation">Advanced Digital Sciences Center, Illinois at Singapore, Singapore, Singapore</data>
+      <data key="research">sound localization, GPU implementation, Spatialized audio multiparty teleconferencing</data>
+    </node>
+    <node id="Xinghuo Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Switching-based signal estimation, digital implementation</data>
+    </node>
+    <node id="Darin Chan">
+      <data key="affiliation">School of Informatics and Engineering, Flinders University of South Australia, P.O.Box 2100, South Australia</data>
+      <data key="research">data compression technique, data item, data volume</data>
+    </node>
+    <node id="Weisi Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">Perceptual Processing, perceptual-based visual processing technique, perceptual-based visual signal processing</data>
+    </node>
+    <node id="Chris White">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="K. R. Rao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Digital Video Image, Perceptual Coding, Signal Processing</data>
+    </node>
+    <node id="Bin Qiu">
+      <data key="affiliation">Monash University</data>
+      <data key="research">proposed scheme, Landmark LRU scheme, proposed algorithm</data>
+    </node>
+    <node id="Tao Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">GIS professional, GIS Professional TalentThis paper, GIS professional market</data>
+    </node>
+    <node id="L. Karam">
+      <data key="affiliation">Dept. of Electr. Eng., Arizona State Univ., Tempe, AZ</data>
+      <data key="research">image component, reconstructed image, adaptive perceptual quantization scheme</data>
+    </node>
+    <node id="Dinesh K. Kumar">
+      <data key="affiliation">Nan</data>
+      <data key="research">retina structure, optic disc, Shape Signature</data>
+    </node>
+    <node id="Fuzheng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">depth map, texture video, proposed algorithm</data>
+    </node>
+    <node id="Dagan Feng">
+      <data key="affiliation">Biomedical and Multimedia Information Technology (BMIT) Research Group, School of Information Technologies, The University of Sydney, NSW 2006, Australia and Center for Multimedia Signal Processin ...</data>
+      <data key="research">proposed algorithm, bias field, MR bias field effect</data>
+    </node>
+    <node id="Suiyang Khoo">
+      <data key="affiliation">Nan</data>
+      <data key="research">gear mesh vibration signal, signal model, gear vibration signal</data>
+    </node>
+    <node id="Colin J. White">
+      <data key="affiliation">DataBase Associates, Morgan Hill, CA</data>
+      <data key="research">IBM relational database management, VM environment, successful database product</data>
+    </node>
+    <edge source="Shuai Wan" target="Fuzheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shuai Wan" target="Hong Ren Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Tao Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Chris White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Xinghuo Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="K. R. Rao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="David Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Suiyang Khoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Zhonghua Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Zhihong Man">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Shengkui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Bin Qiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Dagan Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Dinesh K. Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Weisi Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="L. Karam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hong Ren Wu" target="Fuzheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. J. Date" target="Colin J. White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhonghua Ma" target="Bin Qiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhonghua Ma" target="Dagan Feng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Wu" target="Darin Chan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Wu" target="Chris White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihong Man" target="Suiyang Khoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihong Man" target="Shengkui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihong Man" target="Xinghuo Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shengkui Zhao" target="Suiyang Khoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xinghuo Yu" target="Suiyang Khoo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xinghuo Yu" target="Bin Qiu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weisi Lin" target="L. Karam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris White" target="Colin J. White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Qiu" target="Tao Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

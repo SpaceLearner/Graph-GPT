@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P60722">
+      <data key="title">expectation propogation for the generative aspect model</data>
+    </node>
+    <node id="P206">
+      <data key="title">a classification for community discovery methods in complex networks</data>
+    </node>
+    <node id="P34617">
+      <data key="title">clustering and community detection in directed networks a survey</data>
+    </node>
+    <node id="P103443">
+      <data key="title">estimating the number of communities in a network</data>
+    </node>
+    <node id="P151177">
+      <data key="title">outlier edge detection using random graph generation models and applications</data>
+    </node>
+    <node id="P140294">
+      <data key="title">deep community detection</data>
+    </node>
+    <node id="P15530">
+      <data key="title">empirical comparison of algorithms for network community detection</data>
+    </node>
+    <node id="P131200">
+      <data key="title">a local perspective on community structure in multilayer networks</data>
+    </node>
+    <node id="P46678">
+      <data key="title">social networks analysis and case studies</data>
+    </node>
+    <node id="P153825">
+      <data key="title">the many facets of community detection in complex networks</data>
+    </node>
+    <node id="P101943">
+      <data key="title">network community detection on metric space</data>
+    </node>
+    <node id="P150875">
+      <data key="title">building mini categories in product networks</data>
+    </node>
+    <node id="P7919">
+      <data key="title">finding overlapping communities in multiplex networks</data>
+    </node>
+    <node id="P140434">
+      <data key="title">extraction of multilayered social networks from activity data</data>
+    </node>
+    <node id="P90201">
+      <data key="title">a planetary nervous system for social mining and collective awareness</data>
+    </node>
+    <node id="P43968">
+      <data key="title">forensic analysis of phone call networks</data>
+    </node>
+    <node id="P86234">
+      <data key="title">arbitrary overlap constraints in graph packing problems</data>
+    </node>
+    <node id="P75778">
+      <data key="title">a large scale community structure analysis in facebook</data>
+    </node>
+    <node id="P140407">
+      <data key="title">detect overlapping and hierarchical community structure in networks</data>
+    </node>
+    <node id="P133787">
+      <data key="title">efficient and principled method for detecting communities in networks</data>
+    </node>
+    <edge source="P60722" target="P206">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P150875">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P140294">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P101943">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P90201">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P43968">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P75778">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P46678">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P140434">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P34617">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P133787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P140407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P15530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P131200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P86234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P7919">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P103443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P151177">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P206" target="P153825">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34617" target="P153825">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15530" target="P101943">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15530" target="P131200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46678" target="P140407">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

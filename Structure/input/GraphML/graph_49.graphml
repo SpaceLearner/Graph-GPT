@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="T. H. Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">video sequence, electronic image stabilization, image stabilization</data>
+    </node>
+    <node id="T. C. Wang">
+      <data key="affiliation">Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan</data>
+      <data key="research">small animal, automatic robot arm system, entire system accuracy</data>
+    </node>
+    <node id="W. Y. Guo">
+      <data key="affiliation">Institute of Radiological Sciences, National YangMing University, Taipei, Taiwan and Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan</data>
+      <data key="research">white matter, gray matter, cerebral hemodynamics</data>
+    </node>
+    <node id="David Zimmerman">
+      <data key="affiliation">ZAccess Consulting</data>
+      <data key="research">formalize test criterion, test case, test coverage</data>
+    </node>
+    <node id="Yoshihiro Shintani">
+      <data key="affiliation">Nan</data>
+      <data key="research">growth mechanism, low pressure, terraced substrate</data>
+    </node>
+    <node id="S. T. Chou">
+      <data key="affiliation">Nan</data>
+      <data key="research">InGaAlP layer, cracker temperature, molecular beam epitaxyThe</data>
+    </node>
+    <node id="Tomoya Sugahara">
+      <data key="affiliation">Nan</data>
+      <data key="research">GaN quantum, Large Schottky barrier, memory operation</data>
+    </node>
+    <node id="Y. H. Huang">
+      <data key="affiliation">Department of Mathematics Education, National Taichung University, Taichung, Taiwan</data>
+      <data key="research">presence server, constant location change, simulation result</data>
+    </node>
+    <node id="M. H. Lin">
+      <data key="affiliation">Acuity Technol., Menlo Park, CA, USA</data>
+      <data key="research">new binocular stereo algorithm, proposed algorithm, smooth surface</data>
+    </node>
+    <node id="Peter G. Eliseev">
+      <data key="affiliation">Nan</data>
+      <data key="research">GaN quantum, blue light emitting diodesInfluence, metalorganic chemical vapor deposition</data>
+    </node>
+    <node id="C. L. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">stainless steel sheet, commercial finite element analysis, spatial distribution</data>
+    </node>
+    <node id="Philippe Sartori">
+      <data key="affiliation">Motorola Labs, Motorola Inc., Schaumburg, IL</data>
+      <data key="research">adaptive modulation, coding scheme, robust space-time block coding</data>
+    </node>
+    <node id="K. F. Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">InGaAlP layer, cracker temperature, molecular beam epitaxy</data>
+    </node>
+    <node id="Katsushi Nishino">
+      <data key="affiliation">Nan</data>
+      <data key="research">GaN quantum, metalorganic chemical vapor deposition</data>
+    </node>
+    <node id="Shiro Sakai">
+      <data key="affiliation">Nan</data>
+      <data key="research">GaN quantum, MOVPELarge Schottky barrier, growth mechanism</data>
+    </node>
+    <node id="Marek Osiński">
+      <data key="affiliation">Nan</data>
+      <data key="research">Optoelectronic Devices XVI, Optoelectronic Devices XVIIPhysics, Biomedical Applications IIPhysics</data>
+    </node>
+    <node id="Allen Goldberg">
+      <data key="affiliation">Nan</data>
+      <data key="research">stream processing, stream processing problem, stream processingStream processing</data>
+    </node>
+    <node id="Kenji Shiojima">
+      <data key="affiliation">Nan</data>
+      <data key="research">electrical characteristic, memory operation, p-GaN contact</data>
+    </node>
+    <node id="C. C. Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">color image processingA, final processed image, image processing</data>
+    </node>
+    <node id="Wei Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">QIRA code, bit error ratio, excellent error</data>
+    </node>
+    <edge source="T. H. Wu" target="Y. H. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Wu" target="T. C. Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Wu" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Wu" target="W. Y. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Wu" target="M. H. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. H. Wu" target="C. L. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Katsushi Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Allen Goldberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="S. T. Chou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Peter G. Eliseev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Shiro Sakai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="C. L. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Tomoya Sugahara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="K. F. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="M. H. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Wei Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="Y. H. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="David Zimmerman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. C. Wang" target="W. Y. Guo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Y. Guo" target="Y. H. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Y. Guo" target="M. H. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Y. Guo" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Y. Guo" target="C. L. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Zimmerman" target="Allen Goldberg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yoshihiro Shintani" target="Shiro Sakai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. T. Chou" target="Wei Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. T. Chou" target="K. F. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomoya Sugahara" target="Katsushi Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomoya Sugahara" target="Peter G. Eliseev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomoya Sugahara" target="Kenji Shiojima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tomoya Sugahara" target="Shiro Sakai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. H. Huang" target="M. H. Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. H. Huang" target="C. L. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. H. Huang" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. H. Lin" target="C. L. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. H. Lin" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter G. Eliseev" target="Katsushi Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter G. Eliseev" target="Marek Osiński">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter G. Eliseev" target="Philippe Sartori">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter G. Eliseev" target="Shiro Sakai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. L. Chen" target="C. C. Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Philippe Sartori" target="Marek Osiński">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. F. Huang" target="Wei Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Katsushi Nishino" target="Shiro Sakai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiro Sakai" target="Kenji Shiojima">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

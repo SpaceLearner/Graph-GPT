@@ -1,0 +1,46 @@
+Peter J. Berkelman	A. Thompson	{'relation': 'collaborate'}
+Peter J. Berkelman	S. J. Lederman	{'relation': 'collaborate'}
+Peter J. Berkelman	R. L. Hollis	{'relation': 'collaborate'}
+Peter J. Berkelman	Roberta L. Klatzky	{'relation': 'collaborate'}
+S. J. Lederman	A. Thompson	{'relation': 'collaborate'}
+S. J. Lederman	Roberta L. Klatzky	{'relation': 'collaborate'}
+S. J. Lederman	R. L. Hollis	{'relation': 'collaborate'}
+S. J. Lederman	R. Klatzky	{'relation': 'collaborate'}
+George D. Stetten	R. L. Hollis	{'relation': 'collaborate'}
+George D. Stetten	Roberta L. Klatzky	{'relation': 'collaborate'}
+George D. Stetten	Joel Schuman	{'relation': 'collaborate'}
+George D. Stetten	Bing Wu	{'relation': 'collaborate'}
+George D. Stetten	M. W. Siegel	{'relation': 'collaborate'}
+George D. Stetten	Randy Lee	{'relation': 'collaborate'}
+S. Salcudean	R. L. Hollis	{'relation': 'collaborate'}
+Randy Lee	Joel Schuman	{'relation': 'collaborate'}
+Randy Lee	R. L. Hollis	{'relation': 'collaborate'}
+Randy Lee	Roberta L. Klatzky	{'relation': 'collaborate'}
+Randy Lee	M. W. Siegel	{'relation': 'collaborate'}
+Randy Lee	Bing Wu	{'relation': 'collaborate'}
+Umashankar Nagarajan	George Kantor	{'relation': 'collaborate'}
+Umashankar Nagarajan	R. L. Hollis	{'relation': 'collaborate'}
+A. Thompson	Roberta L. Klatzky	{'relation': 'collaborate'}
+A. Thompson	R. L. Hollis	{'relation': 'collaborate'}
+Zack Butler	R. L. Hollis	{'relation': 'collaborate'}
+Zack Butler	Alfred A. Rizzi	{'relation': 'collaborate'}
+Bing Wu	Joel Schuman	{'relation': 'collaborate'}
+Bing Wu	M. W. Siegel	{'relation': 'collaborate'}
+Bing Wu	Roberta L. Klatzky	{'relation': 'collaborate'}
+Bing Wu	R. L. Hollis	{'relation': 'collaborate'}
+R. L. Hollis	V. Varadharajan	{'relation': 'collaborate'}
+R. L. Hollis	Robert H. Swendsen	{'relation': 'collaborate'}
+R. L. Hollis	George Kantor	{'relation': 'collaborate'}
+R. L. Hollis	M. W. Siegel	{'relation': 'collaborate'}
+R. L. Hollis	R. Klatzky	{'relation': 'collaborate'}
+R. L. Hollis	Sarjoun Skaff	{'relation': 'collaborate'}
+R. L. Hollis	Roberta L. Klatzky	{'relation': 'collaborate'}
+R. L. Hollis	Y. Yokokohji	{'relation': 'collaborate'}
+R. L. Hollis	Joel Schuman	{'relation': 'collaborate'}
+R. L. Hollis	Alfred A. Rizzi	{'relation': 'collaborate'}
+V. Varadharajan	R. Klatzky	{'relation': 'collaborate'}
+V. Varadharajan	Robert H. Swendsen	{'relation': 'collaborate'}
+Robert H. Swendsen	R. Klatzky	{'relation': 'collaborate'}
+M. W. Siegel	Joel Schuman	{'relation': 'collaborate'}
+M. W. Siegel	Roberta L. Klatzky	{'relation': 'collaborate'}
+Joel Schuman	Roberta L. Klatzky	{'relation': 'collaborate'}

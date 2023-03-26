@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Yu-Ting Chen">
+      <data key="affiliation">University of California, Los Angeles, Los Angeles, CA, USA</data>
+      <data key="research">L1 cache, L1 cache configuration, STT-RAM cache</data>
+    </node>
+    <node id="Huai-Ping Lee">
+      <data key="affiliation">Dept. of Computer Science, University of North Carolina at Chapel Hill, USA</data>
+      <data key="research">boundary condition, medical image analysis, deformation field</data>
+    </node>
+    <node id="Fernando de la Torre">
+      <data key="affiliation">Carnegie Mellon University, Pittsburgh, PA</data>
+      <data key="research">computer vision, face model, linear model</data>
+    </node>
+    <node id="Feng Zhou">
+      <data key="affiliation">Sch. of Mech. &amp; Aerosp. Eng., Nanyang Technol. Univ., Singapore, Singapore</data>
+      <data key="research">general model, EHA application, physiological measure</data>
+    </node>
+    <node id="Xiaoyu Ding">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computer Mouse, 3-axis tool path generation, interactive co-design tool</data>
+    </node>
+    <node id="Chun-Rong Huang">
+      <data key="affiliation">Institute of Networking and Multimedia and the Department of Computer Science and Engineering, National ChungHsing University, Taichung, R.O.C.</data>
+      <data key="research">endoscopic image, local region, key color priority</data>
+    </node>
+    <node id="Y.-P. Hung">
+      <data key="affiliation">Graduate Institute of Networking and Multimedia, Taipei City, Taiwan Roc</data>
+      <data key="research">object movie, proposed method, proposed algorithm</data>
+    </node>
+    <node id="Jenn-Jier James Lien">
+      <data key="affiliation">Robotics Laboratory, CSIE, NCKU, Tainan, Taiwan, R.O.C.</data>
+      <data key="research">facial image, input image, proposed system</data>
+    </node>
+    <node id="Qiao Wang">
+      <data key="affiliation">School of Information Science and Engineering, Southeast University, China</data>
+      <data key="research">aggregate power constraint, optimal solution, optimal power allocation</data>
+    </node>
+    <node id="Jau-Yuan Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">MPI application, Sync Checker, MPI library</data>
+    </node>
+    <node id="Chia-Ping Chen">
+      <data key="affiliation">Graduate Institute of Networking and Multimedia, National Taiwan University, Taipei, Taiwan</data>
+      <data key="research">Mao-Kung Ting, reflectance property, photometric stereo</data>
+    </node>
+    <node id="Wan-Ting Su">
+      <data key="affiliation">National Chung Cheng University, Taiwan</data>
+      <data key="research">multi-core embedded softwareModel-driven development, multi-core embedded system, multi-core embedded system programming</data>
+    </node>
+    <node id="Pau-Choo Chung">
+      <data key="affiliation">Nan</data>
+      <data key="research">feature extraction process, feature selection process, proposed strategy</data>
+    </node>
+    <node id="Chun-Shien Lu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Temporal Frequency, video halftoning method, proposed method</data>
+    </node>
+    <node id="Chu-Song Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">key point, rough skeleton, Dynamic Bayesian NetworksA system</data>
+    </node>
+    <node id="Ju-Chin Chen">
+      <data key="affiliation">Department of Computer Science and Information Engineering, National Kaohsiung University of Applied Sciences, Kaohsiung 80778, Taiwan, ROC</data>
+      <data key="research">proposed system, canonical difference, human action recognition</data>
+    </node>
+    <node id="Wen-Sheng Chu">
+      <data key="affiliation">Research Center for Information Technology Innovation, and Institute of Information Science, Academia Sinica, 128 Academia Road, Section 2, Nankang, Taipei, Taiwan</data>
+      <data key="research">canonical correlation, face detection region, face identification</data>
+    </node>
+    <node id="K. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">two-level caching system, Write Caching, single-level caching system</data>
+    </node>
+    <node id="Jeffrey F. Cohn">
+      <data key="affiliation">IEEE</data>
+      <data key="research">facial expression, facial action, facial action unit</data>
+    </node>
+    <node id="Chun-Ta Ho">
+      <data key="affiliation">Dept. of Comput. &amp; Inf. Sci., Nat. Chiao Tung Univ., Hsinchu</data>
+      <data key="research">elliptical object, boundary point, proposed method</data>
+    </node>
+    <edge source="Yu-Ting Chen" target="Y.-P. Hung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Ting Chen" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu-Ting Chen" target="Chun-Rong Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huai-Ping Lee" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huai-Ping Lee" target="Chun-Rong Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando de la Torre" target="Xiaoyu Ding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando de la Torre" target="Feng Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando de la Torre" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando de la Torre" target="Qiao Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fernando de la Torre" target="Jeffrey F. Cohn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng Zhou" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoyu Ding" target="Qiao Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoyu Ding" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoyu Ding" target="Jeffrey F. Cohn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Pau-Choo Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Y.-P. Hung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="K. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Chun-Shien Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Rong Huang" target="Jau-Yuan Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y.-P. Hung" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y.-P. Hung" target="Chia-Ping Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jenn-Jier James Lien" target="Ju-Chin Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jenn-Jier James Lien" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jenn-Jier James Lien" target="Wan-Ting Su">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiao Wang" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiao Wang" target="Jeffrey F. Cohn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jau-Yuan Chen" target="K. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jau-Yuan Chen" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Ping Chen" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chia-Ping Chen" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wan-Ting Su" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wan-Ting Su" target="Ju-Chin Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pau-Choo Chung" target="Chu-Song Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pau-Choo Chung" target="Chun-Shien Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chu-Song Chen" target="Chun-Ta Ho">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chu-Song Chen" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chu-Song Chen" target="K. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ju-Chin Chen" target="Wen-Sheng Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wen-Sheng Chu" target="Jeffrey F. Cohn">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

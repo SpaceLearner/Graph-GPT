@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P93649">
+      <data key="title">imagenet large scale visual recognition challenge</data>
+    </node>
+    <node id="P133662">
+      <data key="title">multi object classification and unsupervised scene understanding using deep learning features and latent tree probabilistic models</data>
+    </node>
+    <node id="P19883">
+      <data key="title">theano based large scale visual recognition with multiple gpus</data>
+    </node>
+    <node id="P6715">
+      <data key="title">hand segmentation for hand object interaction from depth map</data>
+    </node>
+    <node id="P227">
+      <data key="title">real time sign language fingerspelling recognition using convolutional neural networks from depth map</data>
+    </node>
+    <node id="P84683">
+      <data key="title">r cnns for pose estimation and action detection</data>
+    </node>
+    <node id="P88105">
+      <data key="title">denseattentionseg segment hands from interacted objects using depth input</data>
+    </node>
+    <node id="P125653">
+      <data key="title">towards a visual turing challenge</data>
+    </node>
+    <node id="P153508">
+      <data key="title">deep learning and face recognition the state of the art</data>
+    </node>
+    <node id="P62357">
+      <data key="title">lsun construction of a large scale image dataset using deep learning with humans in the loop</data>
+    </node>
+    <node id="P158841">
+      <data key="title">relating cascaded random forests to deep convolutional neural networks for semantic segmentation</data>
+    </node>
+    <node id="P157513">
+      <data key="title">the extreme value machine</data>
+    </node>
+    <node id="P119732">
+      <data key="title">random forest with learned representations for semantic segmentation</data>
+    </node>
+    <node id="P39819">
+      <data key="title">image classification and retrieval from user supplied tags</data>
+    </node>
+    <node id="P42440">
+      <data key="title">exploiting an oracle that reports auc scores in machine learning contests</data>
+    </node>
+    <node id="P46483">
+      <data key="title">data free parameter pruning for deep neural networks</data>
+    </node>
+    <node id="P127638">
+      <data key="title">advanced capsule networks via context awareness</data>
+    </node>
+    <node id="P67682">
+      <data key="title">a discriminative representation of convolutional features for indoor scene recognition</data>
+    </node>
+    <node id="P67681">
+      <data key="title">screenavoider protecting computer screens from ubiquitous cameras</data>
+    </node>
+    <node id="P66349">
+      <data key="title">pose embeddings a deep architecture for learning to match human poses</data>
+    </node>
+    <edge source="P93649" target="P84683">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P153508">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P39819">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P125653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P67681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P19883">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P157513">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P67682">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P42440">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P66349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P133662">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P62357">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P158841">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P46483">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93649" target="P227">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6715" target="P227">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6715" target="P119732">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P227" target="P119732">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P227" target="P127638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P227" target="P88105">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

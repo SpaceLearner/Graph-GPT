@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P19253">
+      <data key="title">effectiveness of lstms in predicting congestive heart failure onset</data>
+    </node>
+    <node id="P28981">
+      <data key="title">bayesian recurrent framework for missing data imputation and prediction with clinical time series</data>
+    </node>
+    <node id="P168664">
+      <data key="title">partially supervised image captioning</data>
+    </node>
+    <node id="P13137">
+      <data key="title">a critical review of recurrent neural networks for sequence learning</data>
+    </node>
+    <node id="P55230">
+      <data key="title">temporal clustering invariance in irregular healthcare time series</data>
+    </node>
+    <node id="P61817">
+      <data key="title">neural network based object classification by known and unknown features based on text queries</data>
+    </node>
+    <node id="P81828">
+      <data key="title">learning to identify patients at risk of uncontrolled hypertension using electronic health records data</data>
+    </node>
+    <node id="P458">
+      <data key="title">toward reducing crop spoilage and increasing small farmer profits in india a simultaneous hardware and software solution</data>
+    </node>
+    <node id="P130572">
+      <data key="title">real time workload classification during driving using hypernetworks</data>
+    </node>
+    <node id="P140631">
+      <data key="title">dipole diagnosis prediction in healthcare via attention based bidirectional recurrent neural networks</data>
+    </node>
+    <node id="P164732">
+      <data key="title">training recurrent neural networks robust to incomplete data application to alzheimer s disease progression modeling</data>
+    </node>
+    <node id="P66177">
+      <data key="title">mgp atttcn an interpretable machine learning model for the prediction of sepsis</data>
+    </node>
+    <node id="P98234">
+      <data key="title">the mythos of model interpretability</data>
+    </node>
+    <node id="P153955">
+      <data key="title">medical diagnosis from laboratory tests by combining generative and discriminative learning</data>
+    </node>
+    <node id="P36084">
+      <data key="title">modeling missing data in clinical time series with rnns</data>
+    </node>
+    <node id="P106691">
+      <data key="title">an interpretable produce price forecasting system for small and marginal farmers in india using collaborative filtering and adaptive nearest neighbors</data>
+    </node>
+    <node id="P110789">
+      <data key="title">gram graph based attention model for healthcare representation learning</data>
+    </node>
+    <node id="P131161">
+      <data key="title">learning to diagnose with lstm recurrent neural networks</data>
+    </node>
+    <node id="P146321">
+      <data key="title">learning representations of missing data for predicting patient outcomes</data>
+    </node>
+    <node id="P154420">
+      <data key="title">classifying symmetrical differences and temporal change in mammography using deep neural networks</data>
+    </node>
+    <edge source="P19253" target="P13137">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19253" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19253" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28981" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28981" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168664" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13137" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13137" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13137" target="P154420">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55230" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55230" target="P140631">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61817" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81828" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81828" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P458" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P458" target="P106691">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130572" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140631" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140631" target="P110789">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164732" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66177" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98234" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153955" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153955" target="P36084">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36084" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36084" target="P146321">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36084" target="P154420">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36084" target="P110789">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110789" target="P131161">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P30397">
+      <data key="title">communication free distributed coverage for networked systems</data>
+    </node>
+    <node id="P90873">
+      <data key="title">connecting a set of circles with minimum sum of radii</data>
+    </node>
+    <node id="P88298">
+      <data key="title">coloring hypergraphs induced by dynamic point sets and bottomless rectangles</data>
+    </node>
+    <node id="P155780">
+      <data key="title">decomposition of multiple coverings into more parts</data>
+    </node>
+    <node id="P160455">
+      <data key="title">scheduling resource bounded monitoring devices for event detection and isolation in networks</data>
+    </node>
+    <node id="P130672">
+      <data key="title">coloring planar homothets and three dimensional hypergraphs</data>
+    </node>
+    <node id="P48885">
+      <data key="title">tight lower bounds for the size of epsilon nets</data>
+    </node>
+    <node id="P159048">
+      <data key="title">optimal value of information in graphical models</data>
+    </node>
+    <node id="P4897">
+      <data key="title">decomposing coverings and the planar sensor cover problem</data>
+    </node>
+    <node id="P143993">
+      <data key="title">making octants colorful and related covering decomposition problems</data>
+    </node>
+    <node id="P111978">
+      <data key="title">covering a line segment with variable radius discs</data>
+    </node>
+    <node id="P163">
+      <data key="title">high energy first hef heuristic for energy efficient target coverage problem</data>
+    </node>
+    <node id="P23435">
+      <data key="title">restricted strip covering and the sensor cover problem</data>
+    </node>
+    <node id="P88269">
+      <data key="title">set it and forget it approximating the set once strip cover problem</data>
+    </node>
+    <node id="P102657">
+      <data key="title">a characterization of visibility graphs for pseudo polygons</data>
+    </node>
+    <node id="P7371">
+      <data key="title">algorithms on minimizing the maximum sensor movement for barrier coverage of a linear domain</data>
+    </node>
+    <node id="P159888">
+      <data key="title">set k cover algorithms for energy efficient monitoring in wireless sensor networks</data>
+    </node>
+    <node id="P72526">
+      <data key="title">online distributed sensor selection</data>
+    </node>
+    <node id="P121314">
+      <data key="title">optimal point movement for covering circular regions</data>
+    </node>
+    <node id="P122435">
+      <data key="title">minimizing the aggregate movements for interval coverage</data>
+    </node>
+    <edge source="P30397" target="P159888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90873" target="P88269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88298" target="P155780">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88298" target="P48885">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88298" target="P143993">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155780" target="P102657">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155780" target="P88269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155780" target="P23435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155780" target="P4897">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155780" target="P143993">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160455" target="P159888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130672" target="P4897">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130672" target="P143993">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48885" target="P4897">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48885" target="P143993">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159048" target="P159888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4897" target="P122435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4897" target="P88269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4897" target="P23435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111978" target="P122435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163" target="P23435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23435" target="P122435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23435" target="P159888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23435" target="P88269">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88269" target="P159888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7371" target="P122435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7371" target="P121314">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159888" target="P72526">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121314" target="P122435">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

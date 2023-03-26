@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jan Nagel">
+      <data key="affiliation">Technische Universität München, Zentrum Mathematik, 85747 Garching, Germany</data>
+      <data key="research">random measure, random block matrix, random element</data>
+    </node>
+    <node id="Holger Dette">
+      <data key="affiliation">Fakultät für Mathematik, RuhrUniversität Bochum, 44780 Bochum, Germany</data>
+      <data key="research">matrix measure, optimal design, matrix orthogonal polynomial</data>
+    </node>
+    <node id="Andrey Pepelyshev">
+      <data key="affiliation">Faculty of Mathematics, St.Petersburg State University, Universitetskiy pr. 28, Petergof, St.Petersburg, 198504, Russia and Institute of Statistics, RWTH Aachen University, Wüllnerstr. 3, D5 ...</data>
+      <data key="research">optimal design, D-optimal design, distribution function</data>
+    </node>
+    <node id="Victor J. Yohai">
+      <data key="affiliation">CONICET, Universidad de Buenos Aires, Argentina</data>
+      <data key="research">MM estimate, maximum likelihood estimate, robust estimation</data>
+    </node>
+    <node id="W. J. Studden">
+      <data key="affiliation">Department of Statistics, Purdue University, WestLafayette, Mathematical Science Building, IN 479071399, USA</data>
+      <data key="research">matrix measure, moment matrix, classical work</data>
+    </node>
+    <node id="Adeniyi J. Adewale">
+      <data key="affiliation">Department of Mathematical and Statistical Sciences, University of Alberta, Edmonton, Alta., Canada T6G 2G1</data>
+      <data key="research">generalized linear model, model misspecification, link function</data>
+    </node>
+    <node id="Anatoly A. Zhigljavsky">
+      <data key="affiliation">School of Mathematics, Cardiff University, B.P. 121, Senghennydd Road, CF24 4AG, Cardiff, UK</data>
+      <data key="research">Optimal Design, gradient algorithm, global random search algorithm</data>
+    </node>
+    <node id="Tai-Shing Lau">
+      <data key="affiliation">Nan</data>
+      <data key="research">extremal problem</data>
+    </node>
+    <node id="Axel Bücher">
+      <data key="affiliation">RuhrUniversität Bochum, Fakultät für Mathematik, 44780 Bochum, Germany</data>
+      <data key="research">new test, goodness-of-fit test, proposed test statistic</data>
+    </node>
+    <node id="Viatcheslav B. Melas">
+      <data key="affiliation">Department of Mathematics and Mechanics, St.Petersburg State University, Bibliotechnaya sq. 2, Petrodvoretz, St. Petersburg, 198904, Russia</data>
+      <data key="research">Monod model, efficient design, classical microbiological model</data>
+    </node>
+    <node id="Rafael Weißbach">
+      <data key="affiliation">Institut für Wirtschafts und Sozialstatistik, Universität Dortmund, Dortmund, Germany</data>
+      <data key="research">credit risk, partial homogeneity, portfolio credit risk</data>
+    </node>
+    <node id="Douglas P. Wiens">
+      <data key="affiliation">Department of Mathematical and Statistical Sciences, University of Alberta, Edmonton, Alberta, Canada T6G 2G1</data>
+      <data key="research">robust design, separation problem, designs change</data>
+    </node>
+    <node id="Stefan Sperlich">
+      <data key="affiliation">Université de Genève, Département d'économétrie Bd du Pont d'Arve 40, CH1204 Genève, Switzerland</data>
+      <data key="research">simulation study, feasible estimation, fixed effects model</data>
+    </node>
+    <node id="W. González-Manteiga">
+      <data key="affiliation">Department of Statistics and Operations Research, University of Vigo, Spain</data>
+      <data key="research">simulation study, functional linear model, linear mixed model</data>
+    </node>
+    <node id="Nicolas W. Hengartner">
+      <data key="affiliation">Los Alamos National Laboratory, Statistical Sciences Group, D1, P.O. Box1663, MSF600 Los Alamos, NM87545, USA</data>
+      <data key="research">expected number, optimal rate, path selection</data>
+    </node>
+    <node id="Oleg Michailovich">
+      <data key="affiliation">Georgia Inst. of Technol., Atlanta</data>
+      <data key="research">proposed method, digital image, proposed methodology</data>
+    </node>
+    <node id="Gary C McDonald">
+      <data key="affiliation">Mathematics Department, General Motors Research Laboratories, Warren, MI</data>
+      <data key="research">selection procedure, correct selection, nonparametric subset selection rule</data>
+    </node>
+    <node id="Nikolay Strigul">
+      <data key="affiliation">Stevens Institute of Technology, Department of Mathematical Sciences, Hoboken, NJ 07030, USA</data>
+      <data key="research">forest patch, forest stand dynamic, Markov chain model</data>
+    </node>
+    <node id="Pengfei Li">
+      <data key="affiliation">Virginia Tech, Blacksburg, VA</data>
+      <data key="research">oversaturated condition, timing signal system, different objective</data>
+    </node>
+    <node id="A. H. Welsh">
+      <data key="affiliation">Australian National Univ., Canberra, Australia</data>
+      <data key="research">bivariate quantiles, Kent distribution, compositional data</data>
+    </node>
+    <edge source="Jan Nagel" target="Holger Dette">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Douglas P. Wiens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="W. J. Studden">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Stefan Sperlich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Andrey Pepelyshev">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Nikolay Strigul">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Axel Bücher">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Rafael Weißbach">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Anatoly A. Zhigljavsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Holger Dette" target="Viatcheslav B. Melas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrey Pepelyshev" target="Anatoly A. Zhigljavsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor J. Yohai" target="Douglas P. Wiens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. J. Studden" target="Tai-Shing Lau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. J. Studden" target="Gary C McDonald">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adeniyi J. Adewale" target="Douglas P. Wiens">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Viatcheslav B. Melas" target="Nikolay Strigul">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas P. Wiens" target="Oleg Michailovich">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas P. Wiens" target="Pengfei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas P. Wiens" target="A. H. Welsh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Sperlich" target="Nicolas W. Hengartner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Stefan Sperlich" target="W. González-Manteiga">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

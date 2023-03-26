@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P6456">
+      <data key="title">1 bit compressive sensing reformulation and rrsp based sign recovery theory</data>
+    </node>
+    <node id="P141615">
+      <data key="title">amplitude aided 1 bit compressive sensing over noisy wireless sensor networks</data>
+    </node>
+    <node id="P49293">
+      <data key="title">one bit decentralized detection with a rao test for multisensor fusion</data>
+    </node>
+    <node id="P43868">
+      <data key="title">quantization and greed are good one bit phase retrieval robustness and greedy refinements</data>
+    </node>
+    <node id="P132522">
+      <data key="title">estimation diversity and energy efficiency in distributed sensing</data>
+    </node>
+    <node id="P162824">
+      <data key="title">one bit compressed sensing by greedy algorithms</data>
+    </node>
+    <node id="P301">
+      <data key="title">double detector for sparse signal detection from one bit compressed sensing measurements</data>
+    </node>
+    <node id="P894">
+      <data key="title">distributed detection of a non cooperative target via generalized locally optimum approaches</data>
+    </node>
+    <node id="P26725">
+      <data key="title">universal collaboration strategies for signal detection a sparse learning approach</data>
+    </node>
+    <node id="P148346">
+      <data key="title">quantization of compressive samples with stable and robust recovery</data>
+    </node>
+    <node id="P71646">
+      <data key="title">learning boolean functions with concentrated spectra</data>
+    </node>
+    <node id="P123813">
+      <data key="title">robust 1 bit compressive sensing via binary stable embeddings of sparse vectors</data>
+    </node>
+    <node id="P77370">
+      <data key="title">asymptotic signal detection rates with 1 bit array measurements</data>
+    </node>
+    <node id="P145644">
+      <data key="title">binary fused compressive sensing 1 bit compressive sensing meets group sparsity</data>
+    </node>
+    <node id="P115306">
+      <data key="title">optimal precoding design and power allocation for decentralized detection of deterministic signals</data>
+    </node>
+    <node id="P166878">
+      <data key="title">optimality of received energy in decision fusion over rayleigh fading diversity mac with non identical sensors</data>
+    </node>
+    <node id="P37115">
+      <data key="title">small width low distortions quasi isometric embeddings with quantized sub gaussian random projections</data>
+    </node>
+    <node id="P117552">
+      <data key="title">fusion based cooperative support identification for compressive networked sensing</data>
+    </node>
+    <node id="P107305">
+      <data key="title">large deviations performance of consensus innovations distributed detection with non gaussian observations</data>
+    </node>
+    <node id="P138059">
+      <data key="title">compressive spectrum sensing for cognitive radio networks</data>
+    </node>
+    <edge source="P6456" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141615" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141615" target="P301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141615" target="P117552">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49293" target="P166878">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49293" target="P301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49293" target="P77370">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49293" target="P894">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43868" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132522" target="P115306">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162824" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P301" target="P115306">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P301" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P301" target="P77370">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P301" target="P138059">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26725" target="P115306">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148346" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71646" target="P123813">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123813" target="P145644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123813" target="P37115">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123813" target="P138059">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115306" target="P107305">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

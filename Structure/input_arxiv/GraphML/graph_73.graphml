@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P123141">
+      <data key="title">a novel measure of edge centrality in social networks</data>
+    </node>
+    <node id="P53244">
+      <data key="title">detecting criminal organizations in mobile phone networks</data>
+    </node>
+    <node id="P59801">
+      <data key="title">using shortest path to discover criminal community</data>
+    </node>
+    <node id="P161749">
+      <data key="title">conjectural links in complex networks</data>
+    </node>
+    <node id="P94057">
+      <data key="title">predicting item popularity analysing local clustering behaviour of users</data>
+    </node>
+    <node id="P146661">
+      <data key="title">fast approximation of centrality</data>
+    </node>
+    <node id="P67204">
+      <data key="title">small world file sharing communities</data>
+    </node>
+    <node id="P161598">
+      <data key="title">identifying influential nodes in bipartite networks using the clustering coefficient</data>
+    </node>
+    <node id="P91">
+      <data key="title">ranking the importance level of intermediaries to a criminal using a reliance measure</data>
+    </node>
+    <node id="P147136">
+      <data key="title">elastic partition placement for non stationary graph algorithms</data>
+    </node>
+    <node id="P161599">
+      <data key="title">identifying high betweenness centrality nodes in large social networks</data>
+    </node>
+    <node id="P57392">
+      <data key="title">hellrank a hellinger based centrality measure for bipartite social networks</data>
+    </node>
+    <node id="P71795">
+      <data key="title">identifying a criminal s network of trust</data>
+    </node>
+    <node id="P147">
+      <data key="title">anomaly detection in online social networks</data>
+    </node>
+    <node id="P32003">
+      <data key="title">fast extraction of the backbone of projected bipartite networks to aid community detection</data>
+    </node>
+    <node id="P18002">
+      <data key="title">on the fairness of time critical influence maximization in social networks</data>
+    </node>
+    <node id="P128311">
+      <data key="title">fully dynamic all pairs all shortest paths</data>
+    </node>
+    <node id="P43968">
+      <data key="title">forensic analysis of phone call networks</data>
+    </node>
+    <node id="P77096">
+      <data key="title">the minimum wiener connector problem</data>
+    </node>
+    <node id="P140407">
+      <data key="title">detect overlapping and hierarchical community structure in networks</data>
+    </node>
+    <edge source="P123141" target="P91">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123141" target="P43968">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53244" target="P59801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59801" target="P147">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59801" target="P71795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59801" target="P140407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59801" target="P91">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161749" target="P91">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94057" target="P161598">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94057" target="P32003">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146661" target="P161599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67204" target="P161599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161598" target="P91">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161598" target="P32003">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161598" target="P57392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91" target="P161599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91" target="P43968">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91" target="P71795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147136" target="P161599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161599" target="P128311">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161599" target="P43968">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161599" target="P77096">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161599" target="P18002">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

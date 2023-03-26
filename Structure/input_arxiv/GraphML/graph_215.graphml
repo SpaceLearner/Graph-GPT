@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P59010">
+      <data key="title">towards the targeted environment specific evolution of robot components</data>
+    </node>
+    <node id="P95796">
+      <data key="title">diversity is all you need learning skills without a reward function</data>
+    </node>
+    <node id="P79846">
+      <data key="title">toward the coevolution of novel vertical axis wind turbines</data>
+    </node>
+    <node id="P6779">
+      <data key="title">robotic grasp detection using deep convolutional neural networks</data>
+    </node>
+    <node id="P121509">
+      <data key="title">sim2real gap is non monotonic with robot complexity for morphology in the loop flapping wing design</data>
+    </node>
+    <node id="P155370">
+      <data key="title">jacquard a large scale dataset for robotic grasp detection</data>
+    </node>
+    <node id="P160626">
+      <data key="title">geodesic convolutional shape optimization</data>
+    </node>
+    <node id="P8093">
+      <data key="title">revisiting unreasonable effectiveness of data in deep learning era</data>
+    </node>
+    <node id="P69690">
+      <data key="title">towards an evolvable cancer treatment simulator</data>
+    </node>
+    <node id="P121601">
+      <data key="title">egad an evolved grasping analysis dataset for diversity and reproducibility in robotic manipulation</data>
+    </node>
+    <node id="P45387">
+      <data key="title">turning high dimensional optimization into computationally expensive optimization</data>
+    </node>
+    <node id="P268">
+      <data key="title">on design mining coevolution and surrogate models</data>
+    </node>
+    <node id="P164246">
+      <data key="title">towards the evolution of vertical axis wind turbines using supershapes</data>
+    </node>
+    <node id="P165359">
+      <data key="title">illuminating search spaces by mapping elites</data>
+    </node>
+    <node id="P54874">
+      <data key="title">grasp pose detection in point clouds</data>
+    </node>
+    <node id="P15228">
+      <data key="title">comparing direct and indirect representations for environment specific robot component design</data>
+    </node>
+    <node id="P87889">
+      <data key="title">fully convolutional grasp detection network with oriented anchor box</data>
+    </node>
+    <node id="P16520">
+      <data key="title">quantifying the reality gap in robotic manipulation tasks</data>
+    </node>
+    <node id="P75680">
+      <data key="title">robots that can adapt like animals</data>
+    </node>
+    <node id="P152354">
+      <data key="title">design mining interacting wind turbines</data>
+    </node>
+    <edge source="P59010" target="P75680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59010" target="P164246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59010" target="P16520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59010" target="P15228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59010" target="P121509">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59010" target="P121601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95796" target="P121601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P152354">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P164246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P268">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P45387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P160626">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P69690">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79846" target="P15228">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6779" target="P87889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6779" target="P121601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155370" target="P121601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8093" target="P121601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69690" target="P152354">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69690" target="P268">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121601" target="P165359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121601" target="P164246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121601" target="P54874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121601" target="P87889">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P268" target="P152354">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P268" target="P164246">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164246" target="P152354">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165359" target="P75680">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

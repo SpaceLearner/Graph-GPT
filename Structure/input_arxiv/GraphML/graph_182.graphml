@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P90228">
+      <data key="title">transmit optimization with improper gaussian signaling for interference channels</data>
+    </node>
+    <node id="P59955">
+      <data key="title">underlay spectrum sharing techniques with in band full duplex systems using improper gaussian signaling</data>
+    </node>
+    <node id="P43842">
+      <data key="title">spatial self interference isolation for in band full duplex wireless a degrees of freedom analysis</data>
+    </node>
+    <node id="P41227">
+      <data key="title">all digital self interference cancellation technique for full duplex systems</data>
+    </node>
+    <node id="P131948">
+      <data key="title">in band full duplex wireless challenges and opportunities</data>
+    </node>
+    <node id="P229">
+      <data key="title">improper gaussian signaling in full duplex relay channels with residual self interference</data>
+    </node>
+    <node id="P10380">
+      <data key="title">full duplex relaying with half duplex relays</data>
+    </node>
+    <node id="P156566">
+      <data key="title">cooperation in 5g hetnets advanced spectrum access and d2d assisted communications</data>
+    </node>
+    <node id="P69099">
+      <data key="title">signaling design of two way mimo full duplex channel optimality under imperfect transmit front end chain</data>
+    </node>
+    <node id="P84779">
+      <data key="title">full duplex mimo small cell networks performance analysis</data>
+    </node>
+    <node id="P91560">
+      <data key="title">throughput analysis and optimization of wireless powered multiple antenna full duplex relay systems</data>
+    </node>
+    <node id="P50160">
+      <data key="title">optimized transmission with improper gaussian signaling in the k user miso interference channel</data>
+    </node>
+    <node id="P140262">
+      <data key="title">relay control for full duplex relaying with wireless information and energy transfer</data>
+    </node>
+    <node id="P73032">
+      <data key="title">distributed mac protocol design for full duplex cognitive radio networks</data>
+    </node>
+    <node id="P70529">
+      <data key="title">spectrum sharing opportunities of full duplex systems using improper gaussian signaling</data>
+    </node>
+    <node id="P128433">
+      <data key="title">experiment driven characterization of full duplex wireless systems</data>
+    </node>
+    <node id="P47810">
+      <data key="title">massive mimo full duplex relaying with optimal power allocation for independent multipairs</data>
+    </node>
+    <node id="P160265">
+      <data key="title">full duplex transceiver system calculations analysis of adc and linearity challenges</data>
+    </node>
+    <node id="P69497">
+      <data key="title">improper gaussian signaling for multiple access channels in underlay cognitive radio</data>
+    </node>
+    <node id="P147905">
+      <data key="title">interference alignment with asymmetric complex signaling settling the host madsen nosratinia conjecture</data>
+    </node>
+    <edge source="P90228" target="P147905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90228" target="P70529">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90228" target="P59955">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90228" target="P229">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90228" target="P69497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90228" target="P50160">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P70529">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P229">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P91560">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P147905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P131948">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P50160">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P156566">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59955" target="P69497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43842" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43842" target="P131948">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41227" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P140262">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P84779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P70529">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P229">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P91560">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P160265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131948" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P229" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P229" target="P70529">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P229" target="P147905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P229" target="P69497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10380" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69099" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84779" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91560" target="P160265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50160" target="P69497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50160" target="P147905">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140262" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73032" target="P128433">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128433" target="P47810">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128433" target="P160265">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69497" target="P147905">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

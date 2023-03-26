@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Lirong Dai">
+      <data key="affiliation">Department of Computer Science and Software Engineering, Seattle University, Seattle, WA</data>
+      <data key="research">non-functional requirement, Formal Design Analysis Framework, aspect-oriented approach</data>
+    </node>
+    <node id="Radha Poovendran">
+      <data key="affiliation">Unversity of Washington , Seattle, WA</data>
+      <data key="research">sensor network, wireless sensor network, wireless network</data>
+    </node>
+    <node id="Jack Nelson">
+      <data key="affiliation">Univ. of WA Tacoma</data>
+      <data key="research">web service, legacy software system, software reengineering</data>
+    </node>
+    <node id="Anna Maria Radzikowska">
+      <data key="affiliation">Faculty of Mathematics and Information Science, Warsaw University of Technology, Plac Politechniki 1, Warsaw, Poland</data>
+      <data key="research">fuzzy rough set, rough set, binary fuzzy relation</data>
+    </node>
+    <node id="Young Choh">
+      <data key="affiliation">University of Washington  Tacoma, Tacoma, WA</data>
+      <data key="research">cloud computing, modern web application, KSAs support DevOps</data>
+    </node>
+    <node id="Meeta Sharma">
+      <data key="affiliation">Nan</data>
+      <data key="research">promising application, social healthcare network, edge technology</data>
+    </node>
+    <node id="Yan Bai">
+      <data key="affiliation">lnstitute of Technology, University of Washington Tacoma, Tacoma, WA</data>
+      <data key="research">software product line architecture, nonfunctional requirement tradeoff analysis, nonfunctional requirement</data>
+    </node>
+    <node id="Don McLane">
+      <data key="affiliation">Computing &amp; Software Systems, Institute of Technology, University of Washington, Tacoma Box 358426, 1900 Commerce Street, Dougan 306 Tacoma, WA</data>
+      <data key="research">Internet applications course, open source software, programming language</data>
+    </node>
+    <node id="Davy Van Nieuwenborgh">
+      <data key="affiliation">Department of Computer Science, Vrije Universiteit Brussel, Pleinlaan 2, B1050 Brussel, Belgium (email: dvnieuwe@vub.ac.be, dvermeir@vub.ac.be)</data>
+      <data key="research">logic program, answer set semantics, open answer set semantics</data>
+    </node>
+    <node id="Chris Cornelis">
+      <data key="affiliation">Applied Math &amp; CS, UGent, 9000 Gent, Belgium. Emails: {Patricia.Victor, Chris.Cornelis, Martine.DeCock}@UGent.be</data>
+      <data key="research">triangle algebra, fuzzy set, fuzzy rough set</data>
+    </node>
+    <node id="Zac Bylin">
+      <data key="affiliation">Boeing Company</data>
+      <data key="research">asurveillance system, biometric attendance system, sale system</data>
+    </node>
+    <node id="Martine De Cock">
+      <data key="affiliation">Dept. of Applied Math., Comp. Sc. and Stat., UGent, Gent, Belgium</data>
+      <data key="research">fuzzy logic, fuzzy answer set programming, answer set</data>
+    </node>
+    <node id="Paulo Pinheiro Da Silva">
+      <data key="affiliation">Knowledge Systems Laboratory, Stanford University, Stanford, CA 94305, USA</data>
+      <data key="research">Inference Web, information source, unstructured information</data>
+    </node>
+    <node id="Barbara Endicott-Popovsky">
+      <data key="affiliation">University of Washington, Tacoma, WA</data>
+      <data key="research">low layer network device, threat modeling, digital forensics</data>
+    </node>
+    <node id="C. Cornelis">
+      <data key="affiliation">Ghent University and University of Granada, Granada, Spain</data>
+      <data key="research">formal fuzzy logic, fuzzy set, interval-valued fuzzy logic</data>
+    </node>
+    <node id="Rafael A. Perez">
+      <data key="affiliation">Dept. of Computer Science &amp; Engineering, University of South Florida, 4202 East Fowler Ave., ENB 118, Tampa, FL</data>
+      <data key="research">FC pilot, genetic algorithm, search technique</data>
+    </node>
+    <node id="Sam Chung">
+      <data key="affiliation">Nan</data>
+      <data key="research">Access Control, access control technique, risk-aware task-based access control</data>
+    </node>
+    <node id="Jeroen Janssen">
+      <data key="affiliation">Department of computer science, vrije universiteit brussel pleinlaan 2, 1050 brussels, belgium (email: jeroen.janssen@vub.ac.be, dirk.vermeir@vub.ac.be)</data>
+      <data key="research">answer set, fuzzy answer set programming, fuzzy equilibrium logic</data>
+    </node>
+    <node id="Yun-Sik Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">web application, data language, language dependency</data>
+    </node>
+    <node id="E. Kerre">
+      <data key="affiliation">Fuzziness and Uncertainty Modelling Research Unit, Department of Applied Mathematics and Computer Science</data>
+      <data key="research">fuzzy set theory, fuzzy set, fuzzy morphological operation</data>
+    </node>
+    <edge source="Lirong Dai" target="Yan Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lirong Dai" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lirong Dai" target="Meeta Sharma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radha Poovendran" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Radha Poovendran" target="Yan Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jack Nelson" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anna Maria Radzikowska" target="Martine De Cock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anna Maria Radzikowska" target="Chris Cornelis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Choh" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Choh" target="Yan Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meeta Sharma" target="Yan Bai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Meeta Sharma" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Bai" target="Barbara Endicott-Popovsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yan Bai" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don McLane" target="Barbara Endicott-Popovsky">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don McLane" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Davy Van Nieuwenborgh" target="Martine De Cock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Cornelis" target="Paulo Pinheiro Da Silva">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Cornelis" target="Martine De Cock">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Cornelis" target="Jeroen Janssen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zac Bylin" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martine De Cock" target="Paulo Pinheiro Da Silva">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martine De Cock" target="Jeroen Janssen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martine De Cock" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martine De Cock" target="E. Kerre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martine De Cock" target="C. Cornelis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barbara Endicott-Popovsky" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Cornelis" target="E. Kerre">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rafael A. Perez" target="Sam Chung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sam Chung" target="Yun-Sik Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

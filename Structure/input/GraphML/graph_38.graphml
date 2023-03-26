@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="H. Noltemeier">
+      <data key="affiliation">Lehrstuhl fuer Informatik I , Univ. of Wuerzburg, Am Hubland, 8700 Wuerzburg, W.Germany</data>
+      <data key="research">n n1, computational geometry, International Workshop</data>
+    </node>
+    <node id="Donghak Jung">
+      <data key="affiliation">Arizona State Univ., Tempe</data>
+      <data key="research">rational curve</data>
+    </node>
+    <node id="Gregory Nielson">
+      <data key="affiliation">IEEE</data>
+      <data key="research">new method, new technique, Visualization conference series</data>
+    </node>
+    <node id="A. J. Worsey">
+      <data key="affiliation">Univ. of North Carolina, Wilmington</data>
+      <data key="research">dimensional data set, wire frame data, 3-dimensional problem</data>
+    </node>
+    <node id="Bernd Hamann">
+      <data key="affiliation">Institute for Data Analysis and Visualization (IDAV), Department of Computer Science, One Shields Avenue, 95616, Davis, CA, USA</data>
+      <data key="research">large data set, data set, binding data</data>
+    </node>
+    <node id="Georgios Stylianou">
+      <data key="affiliation">Nan</data>
+      <data key="research">damaged face, non-damaged face, Cultural Heritage ArtefactsVirtual restoration</data>
+    </node>
+    <node id="Ronald N. Goldman">
+      <data key="affiliation">Texas A&amp;M University, Department of Computer Science, 3112 Texas A&amp;M University, College Station, TX, USA</data>
+      <data key="research">computer graphics, rational planar curve, rational space curve</data>
+    </node>
+    <node id="Anshuman Razdan">
+      <data key="affiliation">Arizona State University Polytechnic, 7171 E. Sonoran Arroyo Mall, Mesa, AZ, United States</data>
+      <data key="research">CLSM data, vessel data, LSCM data</data>
+    </node>
+    <node id="Adam Huang">
+      <data key="affiliation">Imaging Biomarkers and ComputerAided Diagnosis Laboratory, Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD 208921182, United States and Research Cente ...</data>
+      <data key="research">CT colonography, Pareto front approach, Pareto front approachWe</data>
+    </node>
+    <node id="M. R. Henderson">
+      <data key="affiliation">Arizona State Univ., Tempe</data>
+      <data key="research">vessel data, geometric modeling technique, operational planningShape modeling</data>
+    </node>
+    <node id="Kerstin Müller">
+      <data key="affiliation">Technical University Kaiserslautern, Germany</data>
+      <data key="research">surface patch, special feature, Catmull Clark</data>
+    </node>
+    <node id="Walter Knödel">
+      <data key="affiliation">Univ. Leipzig, Leipzig, Germany</data>
+      <data key="research">n log n, Bin Packing Algorithm, Complexity O</data>
+    </node>
+    <node id="G. Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Wolfgang Böhm">
+      <data key="affiliation">Technische Univ. Braunschweig, Braunschweig, West Germany</data>
+      <data key="research">CAGDGrundlagen kurven, chen-orientierter Modellierung, surface method</data>
+    </node>
+    <node id="Issac J. Trotts">
+      <data key="affiliation">Center for Image Processing and Integrated Computing, Department of Computer Science, University of California, Davis</data>
+      <data key="research">cal M, different level, varying level</data>
+    </node>
+    <node id="F. Zeilfelder">
+      <data key="affiliation">TU Darmstadt, Darmstadt</data>
+      <data key="research">optimal approximation order, data value, spline space</data>
+    </node>
+    <node id="Myungsoo Bae">
+      <data key="affiliation">Ewha Womans University, SeoulKorea</data>
+      <data key="research">weighted feature, face authentication, normal face</data>
+    </node>
+    <node id="Anne Gelb">
+      <data key="affiliation">School of Mathematical &amp; Statistical Sciences, Arizona State University, Phoenix, USA</data>
+      <data key="research">piecewise smooth function, Gegenbauer reconstruction method, jump discontinuity</data>
+    </node>
+    <node id="Ahmad H. Nasri">
+      <data key="affiliation">American University of Beirut</data>
+      <data key="research">subdivision surface, control polygon, limit surface</data>
+    </node>
+    <node id="Gerald Farin">
+      <data key="affiliation">Arizona State Univ., Tempe</data>
+      <data key="research">smooth surface, surface patch, Loop subdivision surface</data>
+    </node>
+    <edge source="H. Noltemeier" target="Walter Knödel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Noltemeier" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Donghak Jung" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Nielson" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Nielson" target="Anshuman Razdan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Nielson" target="Adam Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gregory Nielson" target="Bernd Hamann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. J. Worsey" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernd Hamann" target="Issac J. Trotts">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernd Hamann" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Georgios Stylianou" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ronald N. Goldman" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anshuman Razdan" target="Myungsoo Bae">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anshuman Razdan" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anshuman Razdan" target="Adam Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anshuman Razdan" target="M. R. Henderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Adam Huang" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. R. Henderson" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. R. Henderson" target="Myungsoo Bae">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kerstin Müller" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Walter Knödel" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Wu" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wolfgang Böhm" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Issac J. Trotts" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Zeilfelder" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myungsoo Bae" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anne Gelb" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmad H. Nasri" target="Gerald Farin">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P73048">
+      <data key="title">analysis of boolean functions</data>
+    </node>
+    <node id="P133884">
+      <data key="title">some extensions of the inversion complexity of boolean functions</data>
+    </node>
+    <node id="P117464">
+      <data key="title">new algorithms and lower bounds for monotonicity testing</data>
+    </node>
+    <node id="P320">
+      <data key="title">testing k monotonicity</data>
+    </node>
+    <node id="P11705">
+      <data key="title">maximal correlation secrecy</data>
+    </node>
+    <node id="P147219">
+      <data key="title">sensitivity conjecture and log rank conjecture for functions with small alternating numbers</data>
+    </node>
+    <node id="P78048">
+      <data key="title">top down induction of decision trees rigorous guarantees and inherent limitations</data>
+    </node>
+    <node id="P145655">
+      <data key="title">learning pseudo boolean k dnf and submodular functions</data>
+    </node>
+    <node id="P144714">
+      <data key="title">improved bounds for testing forbidden order patterns</data>
+    </node>
+    <node id="P65942">
+      <data key="title">active property testing</data>
+    </node>
+    <node id="P130475">
+      <data key="title">a o n monotonicity tester for boolean functions over the hypercube</data>
+    </node>
+    <node id="P155350">
+      <data key="title">earthmover resilience and testing in ordered structures</data>
+    </node>
+    <node id="P141548">
+      <data key="title">random walks and evolving sets faster convergences and limitations</data>
+    </node>
+    <node id="P2801">
+      <data key="title">optimal bounds for monotonicity and lipschitz testing over hypercubes and hypergrids</data>
+    </node>
+    <node id="P3909">
+      <data key="title">combinatorial optimization algorithms via polymorphisms</data>
+    </node>
+    <node id="P89196">
+      <data key="title">alternation sparsity and sensitivity bounds and exponential gaps</data>
+    </node>
+    <node id="P116846">
+      <data key="title">testing hereditary properties of ordered graphs and matrices</data>
+    </node>
+    <node id="P110804">
+      <data key="title">an optimal lower bound for monotonicity testing over hypergrids</data>
+    </node>
+    <node id="P119105">
+      <data key="title">learning circuits with few negations</data>
+    </node>
+    <node id="P53995">
+      <data key="title">transitive closure spanners</data>
+    </node>
+    <edge source="P73048" target="P141548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P3909">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P145655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P11705">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P89196">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73048" target="P78048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133884" target="P119105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117464" target="P320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117464" target="P2801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117464" target="P130475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117464" target="P110804">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P119105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P2801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P147219">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P130475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P53995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P65942">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P110804">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P116846">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P144714">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P320" target="P155350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147219" target="P119105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147219" target="P89196">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78048" target="P119105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144714" target="P2801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144714" target="P53995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155350" target="P116846">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2801" target="P53995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2801" target="P116846">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2801" target="P110804">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89196" target="P119105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116846" target="P110804">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,43 @@
+David A. Bader	Zhihui Du	{'relation': 'collaborate'}
+David A. Bader	Chen Xu	{'relation': 'collaborate'}
+David A. Bader	Yuxiong He	{'relation': 'collaborate'}
+David A. Bader	Yu He	{'relation': 'collaborate'}
+David A. Bader	Yu Xiao	{'relation': 'collaborate'}
+David A. Bader	Man Wang	{'relation': 'collaborate'}
+Ying Chen	Zhihui Du	{'relation': 'collaborate'}
+Ying Chen	Sanli Li	{'relation': 'collaborate'}
+Ying Chen	Gang Wang	{'relation': 'collaborate'}
+Lei Wu	Zhihui Du	{'relation': 'collaborate'}
+Sanli Li	Zhihui Du	{'relation': 'collaborate'}
+Sanli Li	Gang Wang	{'relation': 'collaborate'}
+Sanli Li	Xiaoying Wang	{'relation': 'collaborate'}
+Sanli Li	Shuyou Li	{'relation': 'collaborate'}
+Sanli Li	Jing Zhu	{'relation': 'collaborate'}
+Sanli Li	Yinong Chen	{'relation': 'collaborate'}
+Sanli Li	Zhenchun Huang	{'relation': 'collaborate'}
+Chen Xu	Yu Xiao	{'relation': 'collaborate'}
+Chen Xu	Zhihui Du	{'relation': 'collaborate'}
+Chen Xu	Yinong Chen	{'relation': 'collaborate'}
+Chen Xu	Xiaoying Wang	{'relation': 'collaborate'}
+Yu He	Yuxiong He	{'relation': 'collaborate'}
+Yu He	Zhihui Du	{'relation': 'collaborate'}
+Xiaoying Wang	Zhihui Du	{'relation': 'collaborate'}
+Xiaoying Wang	Yinong Chen	{'relation': 'collaborate'}
+Xiaoying Wang	Hui Xie	{'relation': 'collaborate'}
+Hui Xie	Zhihui Du	{'relation': 'collaborate'}
+Zhihui Du	Man Wang	{'relation': 'collaborate'}
+Zhihui Du	Yu Xiao	{'relation': 'collaborate'}
+Zhihui Du	Gang Wang	{'relation': 'collaborate'}
+Zhihui Du	Shuyou Li	{'relation': 'collaborate'}
+Zhihui Du	Marcos Garcia-Acosta	{'relation': 'collaborate'}
+Zhihui Du	Zhenchun Huang	{'relation': 'collaborate'}
+Zhihui Du	Weihua Zhu	{'relation': 'collaborate'}
+Zhihui Du	Yuxiong He	{'relation': 'collaborate'}
+Zhihui Du	Wang Man	{'relation': 'collaborate'}
+Zhihui Du	Yinong Chen	{'relation': 'collaborate'}
+Zhihui Du	Jing Zhu	{'relation': 'collaborate'}
+Man Wang	Weihua Zhu	{'relation': 'collaborate'}
+Man Wang	Yinong Chen	{'relation': 'collaborate'}
+Jing Zhu	Shuyou Li	{'relation': 'collaborate'}
+Marcos Garcia-Acosta	Yinong Chen	{'relation': 'collaborate'}
+Weihua Zhu	Yinong Chen	{'relation': 'collaborate'}

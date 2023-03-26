@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="K Tanie">
+      <data key="affiliation">Intelligent Systems Institute, AIST Tsukuba, Japan</data>
+      <data key="research">humanoid robot, all-in-focus image, time delay</data>
+    </node>
+    <node id="Chiyomi Miyajima">
+      <data key="affiliation">Graduate School of Information Science Nagoya University, Furocho, Chikusaku Nagoya 4648603, JAPAN</data>
+      <data key="research">dialog strategy, information retrieval, dialog example</data>
+    </node>
+    <node id="Shigeki Matsubara">
+      <data key="affiliation">Nagoya University, Nagoya, Japan</data>
+      <data key="research">ontological metadata database, store LR metadata, know-how information</data>
+    </node>
+    <node id="Kiyohiro Shikano">
+      <data key="affiliation">Nara Institute of Science and Technology, Ikoma, 6300192, JAPAN</data>
+      <data key="research">hands-free robot, closed-form ICA, real-time ICA</data>
+    </node>
+    <node id="Hiroshi Saruwatari">
+      <data key="affiliation">Graduate Sch. of Eng., Nagoya Univ., Japan</data>
+      <data key="research">proposed method, speech recognition, EL speech</data>
+    </node>
+    <node id="H. Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Burst-mode data transmission, DWDM optical packet, Network TestingThis paper</data>
+    </node>
+    <node id="Hani Yehia">
+      <data key="affiliation">Nan</data>
+      <data key="research">face motion, multimodal speech productionThe speech, speech acoustic</data>
+    </node>
+    <node id="C. Chandra Sekhar">
+      <data key="affiliation">Nan</data>
+      <data key="research">automated design strategy, new design, RNS arithmetic</data>
+    </node>
+    <node id="Nobuo Kawaguchi">
+      <data key="affiliation">Nan</data>
+      <data key="research">elevator acceleration data, elevator acceleration database, elevator acceleration recognition algorithm</data>
+    </node>
+    <node id="Mitsuru Ikeda">
+      <data key="affiliation">Nomi, Ishikawa, Japan</data>
+      <data key="research">collaborative learning, own learning process, CT learning</data>
+    </node>
+    <node id="H. Yamada">
+      <data key="affiliation">Nan</data>
+      <data key="research">pre-rounding technique, double-precision floating-point ALU, floating-point arithmetic logic unit</data>
+    </node>
+    <node id="Fumitada Itakura">
+      <data key="affiliation">Meijo University Nagoya,Japan</data>
+      <data key="research">proposed method, original noisy speech, speech recognition</data>
+    </node>
+    <node id="Kazuya Takeda">
+      <data key="affiliation">Graduate School of Information Science Nagoya University, Furocho, Chikusaku Nagoya 4648603, JAPAN</data>
+      <data key="research">dialog strategy, information retrieval, dialog example</data>
+    </node>
+    <node id="Toshihiro Wakita">
+      <data key="affiliation">Toyota Central R&amp;D Labs., Inc., Nagakute, Japan</data>
+      <data key="research">eye movement, car driver, driver identification method</data>
+    </node>
+    <node id="Weifeng Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">existing search engine, search engine, Search EngineThe general search</data>
+    </node>
+    <node id="Takanori Nishino">
+      <data key="affiliation">Wakayama University</data>
+      <data key="research">freezing ice, water-ice interface, fast simulation method</data>
+    </node>
+    <node id="Tran Huy Dat">
+      <data key="affiliation">Institute for Infocomm Research, 21 Heng Mui Keng Terrace, Singapore 119613, Singapore</data>
+      <data key="research">noisy speech data, posterior probability, heart sound</data>
+    </node>
+    <node id="M. Yada">
+      <data key="affiliation">Nan</data>
+      <data key="research">room impulse response, room acoustic transfer function, compensation method</data>
+    </node>
+    <node id="Katunobu Itou">
+      <data key="affiliation">Tokyo Institute of Technology, Tokyo, Japan</data>
+      <data key="research">speaker model, speaker verification, silent pause</data>
+    </node>
+    <node id="S. Kajita">
+      <data key="affiliation">Nan</data>
+      <data key="research">Binaural Speech Processing Method, Noise Robust Recognition, Subband-Crosscorrelation Analysis</data>
+    </node>
+    <edge source="K Tanie" target="S. Kajita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Weifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Takanori Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Toshihiro Wakita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chiyomi Miyajima" target="Nobuo Kawaguchi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigeki Matsubara" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigeki Matsubara" target="Nobuo Kawaguchi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigeki Matsubara" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shigeki Matsubara" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kiyohiro Shikano" target="Hiroshi Saruwatari">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kiyohiro Shikano" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kiyohiro Shikano" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Saruwatari" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Saruwatari" target="S. Kajita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Saruwatari" target="M. Yada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hiroshi Saruwatari" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Wang" target="H. Yamada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Wang" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hani Yehia" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Chandra Sekhar" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Chandra Sekhar" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nobuo Kawaguchi" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nobuo Kawaguchi" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nobuo Kawaguchi" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mitsuru Ikeda" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mitsuru Ikeda" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Yamada" target="Fumitada Itakura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="S. Kajita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="M. Yada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Tran Huy Dat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Takanori Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Weifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Kazuya Takeda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fumitada Itakura" target="Toshihiro Wakita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="Weifeng Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="Tran Huy Dat">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="S. Kajita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="Toshihiro Wakita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="Takanori Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kazuya Takeda" target="M. Yada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Toshihiro Wakita" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weifeng Li" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weifeng Li" target="Takanori Nishino">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Takanori Nishino" target="Katunobu Itou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Yada" target="S. Kajita">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

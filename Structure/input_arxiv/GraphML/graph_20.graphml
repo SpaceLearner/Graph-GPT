@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P109922">
+      <data key="title">factor graphs for quantum probabilities</data>
+    </node>
+    <node id="P14063">
+      <data key="title">codes on graphs fundamentals</data>
+    </node>
+    <node id="P27">
+      <data key="title">holographic transformation for quantum factor graphs</data>
+    </node>
+    <node id="P118639">
+      <data key="title">dichotomy for holant problems with a function on domain size 3</data>
+    </node>
+    <node id="P128379">
+      <data key="title">new generalizations of the bethe approximation via asymptotic expansion</data>
+    </node>
+    <node id="P139189">
+      <data key="title">analysis of double covers of factor graphs</data>
+    </node>
+    <node id="P66671">
+      <data key="title">kramers wannier duality and factor graphs</data>
+    </node>
+    <node id="P32620">
+      <data key="title">characteristic generators and dualization for tail biting trellises</data>
+    </node>
+    <node id="P83777">
+      <data key="title">the bethe permanent of a nonnegative matrix</data>
+    </node>
+    <node id="P128344">
+      <data key="title">normal factor graphs as probabilistic models</data>
+    </node>
+    <node id="P166834">
+      <data key="title">counting in graph covers a combinatorial characterization of the bethe entropy function</data>
+    </node>
+    <node id="P32799">
+      <data key="title">loop calculus and belief propagation for q ary alphabet loop tower</data>
+    </node>
+    <node id="P67764">
+      <data key="title">on the macwilliams identity for classical and quantum convolutional codes</data>
+    </node>
+    <node id="P91358">
+      <data key="title">partition functions of normal factor graphs</data>
+    </node>
+    <node id="P30820">
+      <data key="title">belief propagation bethe approximation and polynomials</data>
+    </node>
+    <node id="P147150">
+      <data key="title">normal factor graphs and holographic transformations</data>
+    </node>
+    <node id="P7754">
+      <data key="title">bitwise map algorithm for group testing based on holographic transformation</data>
+    </node>
+    <node id="P76970">
+      <data key="title">holographic transformation belief propagation and loop calculus for generalized probabilistic theories</data>
+    </node>
+    <node id="P56644">
+      <data key="title">loop calculus for non binary alphabets using concepts from information geometry</data>
+    </node>
+    <node id="P135741">
+      <data key="title">the bethe free energy allows to compute the conditional entropy of graphical code instances a proof from the polymer expansion</data>
+    </node>
+    <edge source="P109922" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109922" target="P76970">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109922" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109922" target="P83777">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14063" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14063" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14063" target="P32620">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27" target="P32799">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118639" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P118639" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128379" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128379" target="P166834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128379" target="P32799">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128379" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139189" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139189" target="P166834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139189" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66671" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66671" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32620" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32620" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83777" target="P166834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83777" target="P30820">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83777" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83777" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128344" target="P91358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128344" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P30820">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P135741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32799" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32799" target="P135741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32799" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67764" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91358" target="P147150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91358" target="P76970">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91358" target="P30820">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91358" target="P135741">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91358" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147150" target="P7754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147150" target="P76970">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147150" target="P56644">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P57978">
+      <data key="title">greedy routing and the algorithmic small world phenomenom</data>
+    </node>
+    <node id="P55481">
+      <data key="title">timely crawling of high quality ephemeral new content</data>
+    </node>
+    <node id="P177">
+      <data key="title">the evolution of navigable small world networks</data>
+    </node>
+    <node id="P145631">
+      <data key="title">nextbestonce achieving polylog routing despite non greedy embeddings</data>
+    </node>
+    <node id="P65901">
+      <data key="title">navigability is a robust property</data>
+    </node>
+    <node id="P62561">
+      <data key="title">a game theoretic model for the formation of navigable small world networks the balance between distance and reciprocity</data>
+    </node>
+    <node id="P99271">
+      <data key="title">implementation of exponential and parametrized algorithms in the agape project</data>
+    </node>
+    <node id="P141604">
+      <data key="title">a steady state model for graph power laws</data>
+    </node>
+    <node id="P161491">
+      <data key="title">distance is not dead social interaction and geographical distance in the internet era</data>
+    </node>
+    <node id="P135911">
+      <data key="title">evolution of social attribute networks measurements modeling and implications using google</data>
+    </node>
+    <node id="P83065">
+      <data key="title">fault tolerant routing in peer to peer systems</data>
+    </node>
+    <node id="P159689">
+      <data key="title">networks become navigable as nodes move and forget</data>
+    </node>
+    <node id="P65140">
+      <data key="title">an expert system for detecting automobile insurance fraud using social network analysis</data>
+    </node>
+    <node id="P93698">
+      <data key="title">improved upper and lower bound heuristics for degree anonymization in social networks</data>
+    </node>
+    <node id="P80242">
+      <data key="title">uncovering social network sybils in the wild</data>
+    </node>
+    <node id="P125616">
+      <data key="title">generating random bigraphs with preferential attachment</data>
+    </node>
+    <node id="P142990">
+      <data key="title">whittle index policy for crawling ephemeral content</data>
+    </node>
+    <node id="P103146">
+      <data key="title">quantifying the consistency of scientific databases</data>
+    </node>
+    <node id="P141584">
+      <data key="title">evolution of the media web</data>
+    </node>
+    <node id="P17306">
+      <data key="title">refining recency search results with user click feedback</data>
+    </node>
+    <edge source="P57978" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55481" target="P141584">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55481" target="P142990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55481" target="P17306">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P177" target="P141584">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P177" target="P141604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P177" target="P62561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P177" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145631" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65901" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65901" target="P83065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62561" target="P161491">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62561" target="P80242">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62561" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P62561" target="P135911">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99271" target="P141604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99271" target="P93698">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141604" target="P65140">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141604" target="P125616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83065" target="P159689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65140" target="P103146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142990" target="P17306">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

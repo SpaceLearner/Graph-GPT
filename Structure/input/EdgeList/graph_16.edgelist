@@ -1,0 +1,34 @@
+Henri Jansen	A. Witvrouw	{'relation': 'collaborate'}
+Henri Jansen	R. Gunn	{'relation': 'collaborate'}
+Henri Jansen	C. Rusu	{'relation': 'collaborate'}
+A. Witvrouw	T. B. Asafa	{'relation': 'collaborate'}
+A. Witvrouw	V. Cherman	{'relation': 'collaborate'}
+A. Witvrouw	Liesbet Lagae	{'relation': 'collaborate'}
+A. Witvrouw	R. Puers	{'relation': 'collaborate'}
+A. Witvrouw	Dries Van Thourhout	{'relation': 'collaborate'}
+A. Witvrouw	G. Bryce	{'relation': 'collaborate'}
+A. Witvrouw	Qing Ma	{'relation': 'collaborate'}
+A. Witvrouw	I. De Wolf	{'relation': 'collaborate'}
+A. Witvrouw	G. Groeseneken	{'relation': 'collaborate'}
+A. Witvrouw	Donald Adams	{'relation': 'collaborate'}
+A. Witvrouw	C. Van Hoof	{'relation': 'collaborate'}
+A. Witvrouw	Aykut Avci	{'relation': 'collaborate'}
+A. Witvrouw	C. Rusu	{'relation': 'collaborate'}
+A. Witvrouw	R. Gunn	{'relation': 'collaborate'}
+A. Witvrouw	K. Baert	{'relation': 'collaborate'}
+A. Witvrouw	H. Bender	{'relation': 'collaborate'}
+A. Witvrouw	P. Ratchev	{'relation': 'collaborate'}
+A. Witvrouw	C. Bruynseraede	{'relation': 'collaborate'}
+H. Bender	K. Baert	{'relation': 'collaborate'}
+R. Puers	C. Van Hoof	{'relation': 'collaborate'}
+R. Puers	I. De Wolf	{'relation': 'collaborate'}
+R. Puers	P. Ratchev	{'relation': 'collaborate'}
+V. Cherman	G. Groeseneken	{'relation': 'collaborate'}
+T. B. Asafa	G. Bryce	{'relation': 'collaborate'}
+Qing Ma	Donald Adams	{'relation': 'collaborate'}
+K. Baert	C. Van Hoof	{'relation': 'collaborate'}
+G. Bryce	Liesbet Lagae	{'relation': 'collaborate'}
+G. Bryce	Dries Van Thourhout	{'relation': 'collaborate'}
+G. Groeseneken	I. De Wolf	{'relation': 'collaborate'}
+C. Rusu	R. Gunn	{'relation': 'collaborate'}
+P. Ratchev	I. De Wolf	{'relation': 'collaborate'}

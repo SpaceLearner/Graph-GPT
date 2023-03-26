@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zhenyu Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Fuzzy Control System, fuzzy control, fuzzy control algorithm</data>
+    </node>
+    <node id="Amani A. Saad">
+      <data key="affiliation">Department of Computer Science, Alexandria University, Alexandria, Egypt</data>
+      <data key="research">object-oriented databases, proposed system, Object Data Mining Query</data>
+    </node>
+    <node id="Eric Lyons">
+      <data key="affiliation">Center for Collaborative Adaptive Sensing of the Atmosphere</data>
+      <data key="research">Meteorological command, DCAS system, cloud platform</data>
+    </node>
+    <node id="Ghada Badr">
+      <data key="affiliation">College of Computer and Information Sciences, King Saud University, Riyadh, Kingdom of Saudi Arabia</data>
+      <data key="research">best estimate X, transmitted string X, new scheme</data>
+    </node>
+    <node id="David Sankoff">
+      <data key="affiliation">University of Ottawa, Ottawa, Canada</data>
+      <data key="research">gene order, genome rearrangement, genome sequencing</data>
+    </node>
+    <node id="B J Oommen">
+      <data key="affiliation">(Chancellor's Professor, IEEE and IAPR Fellow, Adjunct Professor) School of Computer Science, Carleton Univ., 1125 Colonel By Dr., Ottawa, Ont., Canada K1S 5B6 and Dept. of Information and Communi ...</data>
+      <data key="research">shortest path, existing algorithm, Pattern Recognition</data>
+    </node>
+    <node id="Maurice LeBon">
+      <data key="affiliation">Computer Science and Engineering Department, York University, Toronto, Canada</data>
+      <data key="research">design pattern, new supertree algorithm, proposed approach</data>
+    </node>
+    <node id="Wei Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">excessive numerical viscosity, low numerical viscosity, typical numerical experiment</data>
+    </node>
+    <node id="Krister M. Swenson">
+      <data key="affiliation">DIRO, Canada and University of McGill Computer Science, Canada</data>
+      <data key="research">rogue taxon, gene tree, gene family</data>
+    </node>
+    <node id="Nadia Magnenat-Thalmann">
+      <data key="affiliation">Nanyang Technological University, Singapore and MIRALab, University of Geneva, Switzerland</data>
+      <data key="research">virtual human, virtual environment, virtual actor</data>
+    </node>
+    <node id="Vicky Choi">
+      <data key="affiliation">DWave Systems Inc., Burnaby, Canada V5C 6G9</data>
+      <data key="research">graph G, rigid domain, adiabatic quantum computation</data>
+    </node>
+    <node id="Haitao Jiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">video databases, Video Database Systems, multimedia databases</data>
+    </node>
+    <node id="Marcel Turcotte">
+      <data key="affiliation">Universite de Montreal (Canada)</data>
+      <data key="research">input sequence, Enrichment Analysis, relational background knowledge</data>
+    </node>
+    <node id="Hassan Mathkour">
+      <data key="affiliation">King Saud University</data>
+      <data key="research">original algorithm, proposed algorithm, proposed enhanced algorithm</data>
+    </node>
+    <node id="Claude W. Depamphilis">
+      <data key="affiliation">Department of Biology, Pennsylvania State University, University Park, PA 16802, USA</data>
+      <data key="research">Type I error, alignment accuracy, phylogenetic accuracy</data>
+    </node>
+    <node id="Israa Al-Turaiki">
+      <data key="affiliation">College of Computer and Information Sciences, King Saud University, Riyadh, Kingdom of Saudi Arabia</data>
+      <data key="research">frequent pattern, Arab user, biological sequence</data>
+    </node>
+    <node id="Adriana Muñoz">
+      <data key="affiliation">School of Information Technology and Engineering, University of Ottawa,</data>
+      <data key="research">rearrangement algorithm, genomic distance, gene order</data>
+    </node>
+    <node id="B. J. Oommen">
+      <data key="affiliation">School of Computer Science, Carleton University, Ottawa, ON, Canada</data>
+      <data key="research">experimental result, tutorial-like system, Companion paper</data>
+    </node>
+    <node id="Jim Leebens-Mack">
+      <data key="affiliation">Department of Plant Biology, University of Georgia, Athens, USA GA 30602</data>
+      <data key="research">phylogenetic analysis, PAL gene, phylogenetic accuracy</data>
+    </node>
+    <node id="Ameur Touir">
+      <data key="affiliation">Department of Computer Science, King Saud University, Riyadh, Saudi Arabia</data>
+      <data key="research">proposed structure, Arab user, ShellThis paper</data>
+    </node>
+    <edge source="Zhenyu Yang" target="David Sankoff">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amani A. Saad" target="Ghada Badr">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lyons" target="David Sankoff">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric Lyons" target="Krister M. Swenson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="Israa Al-Turaiki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="David Sankoff">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="Hassan Mathkour">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="Krister M. Swenson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="B. J. Oommen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="B J Oommen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ghada Badr" target="Marcel Turcotte">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Adriana Muñoz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Maurice LeBon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Haitao Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Claude W. Depamphilis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Wei Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Nadia Magnenat-Thalmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Vicky Choi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Jim Leebens-Mack">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Sankoff" target="Krister M. Swenson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Mathkour" target="Ameur Touir">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hassan Mathkour" target="Israa Al-Turaiki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Claude W. Depamphilis" target="Jim Leebens-Mack">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Israa Al-Turaiki" target="Ameur Touir">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

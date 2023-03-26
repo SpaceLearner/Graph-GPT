@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Zahir M. Hussain">
+      <data key="affiliation">Signal Processing Res. Centre, Queensland Univ. of Technol., Brisbane, Qld., Australia</data>
+      <data key="research">channel model, channel estimation error, simulation result</data>
+    </node>
+    <node id="Cem Tekin">
+      <data key="affiliation">Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, Michigan</data>
+      <data key="research">Cognitive Radio, spatial information, Cognitive Radios</data>
+    </node>
+    <node id="Matasm M. Hassan">
+      <data key="affiliation">American Univ. of Sharjah, Sharjah</data>
+      <data key="research">OFDM system, playback buffer, channel state</data>
+    </node>
+    <node id="Saud A. Al-Semari">
+      <data key="affiliation">Electrical Engineering Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia</data>
+      <data key="research">proposed code, rapid fading channel, coding gain</data>
+    </node>
+    <node id="L. Hanzo">
+      <data key="affiliation">Univ. of Surrey, Guildford, UK</data>
+      <data key="research">proposed scheme, channel coding, wireless channel</data>
+    </node>
+    <node id="D. L. Neuhoff">
+      <data key="affiliation">Dept. of Electr. Eng. &amp; Comput. Sci., Michigan Univ., Ann Arbor, MI</data>
+      <data key="research">entropy coding, mean-squared error, point density</data>
+    </node>
+    <node id="Paul Richardson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Decoding Noncoding Regulatory DNAs, Metazoan Genomes</data>
+    </node>
+    <node id="R. McEliece">
+      <data key="affiliation">Dept. of Electr. Eng., California Inst. of Technol., Pasadena, CA</data>
+      <data key="research">convolutional code, channel assignment algorithm, SSRS code</data>
+    </node>
+    <node id="Omer A. Bamahdi">
+      <data key="affiliation">King Fahd University of Petroleum and Minerals, Saudi Arabia</data>
+      <data key="research">new AFH technique, network load, AFH technique</data>
+    </node>
+    <node id="Seedahmed S. Mahmoud">
+      <data key="affiliation">Future Fibre Technologies Pty Ltd., Mulgrave, Australia 3170</data>
+      <data key="research">channel model, channel estimation error, proposed model</data>
+    </node>
+    <node id="Sangjin Hong">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Stony Brook University  SUNY, NY 117942350, USA</data>
+      <data key="research">association performance, 2-D particle filter, particle filter</data>
+    </node>
+    <node id="Jinho Kim">
+      <data key="affiliation">Dept. of Computer Science, Kangwon Nat'l University, Kangwon, Korea</data>
+      <data key="research">horizontal table, arbitrary order, experimental result</data>
+    </node>
+    <node id="Ping-Cheng Yeh">
+      <data key="affiliation">Dept. of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI</data>
+      <data key="research">collaborative beamforming, departure process, performance analysis</data>
+    </node>
+    <node id="J. Wang">
+      <data key="affiliation">Department of Geography, University of Western Ontario, Ontario, N6A 5C2, Canada</data>
+      <data key="research">green space, Object-oriented classification, decision rule-based classification method</data>
+    </node>
+    <node id="Wayne E. Stark">
+      <data key="affiliation">Dept. of Electr. Eng. &amp; Comput. Sci., Michigan Univ., Ann Arbor, MI</data>
+      <data key="research">AWGN channel, additive channel, channel estimation</data>
+    </node>
+    <node id="Weidong Xiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">NNs-based expert system, Neural Networks Applied, artificial Neural Networks</data>
+    </node>
+    <node id="S. Lafortune">
+      <data key="affiliation">Department of EECS, University of Michigan, Ann Arbor, Ann Arbor, MI</data>
+      <data key="research">genome map representation, information model</data>
+    </node>
+    <node id="Samir Al-Ghadhban">
+      <data key="affiliation">Electrical Engineering Department, King Fahd University of Petroleum and Minerals, Dhahran 31261, KSA</data>
+      <data key="research">MIMO-OFDMA system, error performance, Time Codes</data>
+    </node>
+    <node id="Salam A. Zummo">
+      <data key="affiliation">School of Electrical and Computer Science, Univ. of Southampton, United Kingdom</data>
+      <data key="research">Nakagami fading channel, channel estimation error, error probability</data>
+    </node>
+    <node id="Achilleas Anastasopoulos">
+      <data key="affiliation">Electrical Engineering and Computer Science Department, University of Michigan, Ann Arbor, MI</data>
+      <data key="research">MBIOS channel, sparse graph, ML decoding</data>
+    </node>
+    <edge source="Zahir M. Hussain" target="Seedahmed S. Mahmoud">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zahir M. Hussain" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cem Tekin" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matasm M. Hassan" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matasm M. Hassan" target="Ping-Cheng Yeh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saud A. Al-Semari" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Hanzo" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Hanzo" target="J. Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. L. Neuhoff" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Richardson" target="Weidong Xiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Richardson" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. McEliece" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Omer A. Bamahdi" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seedahmed S. Mahmoud" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sangjin Hong" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinho Kim" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping-Cheng Yeh" target="Wayne E. Stark">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping-Cheng Yeh" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ping-Cheng Yeh" target="Samir Al-Ghadhban">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Wang" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wayne E. Stark" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wayne E. Stark" target="S. Lafortune">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wayne E. Stark" target="Achilleas Anastasopoulos">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wayne E. Stark" target="Weidong Xiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Samir Al-Ghadhban" target="Salam A. Zummo">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

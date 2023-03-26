@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P124941">
+      <data key="title">analysis of robust functions for registration algorithms</data>
+    </node>
+    <node id="P140616">
+      <data key="title">effective scaling registration approach by imposing the emphasis on the scale factor</data>
+    </node>
+    <node id="P92568">
+      <data key="title">collaborative slam based on wifi fingerprint similarity and motion information</data>
+    </node>
+    <node id="P61221">
+      <data key="title">point set registration coherent point drift</data>
+    </node>
+    <node id="P90081">
+      <data key="title">dynamic topological mapping with biobotic swarms</data>
+    </node>
+    <node id="P56359">
+      <data key="title">fast and accurate point cloud registration using trees of gaussian mixtures</data>
+    </node>
+    <node id="P86734">
+      <data key="title">information correlated levy walk exploration and distributed mapping using a swarm of robots</data>
+    </node>
+    <node id="P398">
+      <data key="title">simultaneous merging multiple grid maps using the robust motion averaging</data>
+    </node>
+    <node id="P24970">
+      <data key="title">globally optimal registration of noisy point clouds</data>
+    </node>
+    <node id="P156518">
+      <data key="title">cooperative relative positioning of mobile users by fusing imu inertial and uwb ranging information</data>
+    </node>
+    <node id="P139912">
+      <data key="title">outlier robust icp for minimizing fractional rmsd</data>
+    </node>
+    <node id="P125323">
+      <data key="title">modern wlan fingerprinting indoor positioning methods and deployment challenges</data>
+    </node>
+    <node id="P145943">
+      <data key="title">past present and future of simultaneous localization and mapping toward the robust perception age</data>
+    </node>
+    <node id="P89575">
+      <data key="title">least squares registration of point sets over se d using closed form projections</data>
+    </node>
+    <node id="P114831">
+      <data key="title">cover song identification with timbral shape sequences</data>
+    </node>
+    <node id="P57049">
+      <data key="title">registration of multi view point sets under the perspective of expectation maximization</data>
+    </node>
+    <node id="P47855">
+      <data key="title">on the closed form solution of the rotation matrix arising in computer vision problems</data>
+    </node>
+    <node id="P84994">
+      <data key="title">rfm slam exploiting relative feature measurements to separate orientation and position estimation in slam</data>
+    </node>
+    <node id="P32468">
+      <data key="title">sdrsac semidefinite based randomized approach for robust point cloud registration without correspondences</data>
+    </node>
+    <node id="P94417">
+      <data key="title">hidden markov random field iterative closest point</data>
+    </node>
+    <edge source="P124941" target="P139912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140616" target="P61221">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140616" target="P139912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92568" target="P145943">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92568" target="P84994">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92568" target="P156518">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92568" target="P398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92568" target="P125323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61221" target="P47855">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61221" target="P56359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61221" target="P57049">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90081" target="P86734">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56359" target="P139912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86734" target="P398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P398" target="P139912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P398" target="P57049">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24970" target="P139912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139912" target="P94417">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139912" target="P32468">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139912" target="P89575">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139912" target="P114831">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57049" target="P47855">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

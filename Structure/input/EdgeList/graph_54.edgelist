@@ -1,0 +1,45 @@
+Jinxia Liu	Hui Tang	{'relation': 'collaborate'}
+Jinxia Liu	Song Ci	{'relation': 'collaborate'}
+Gang Li	Ding Tang	{'relation': 'collaborate'}
+Gang Li	Hui Tang	{'relation': 'collaborate'}
+Gang Li	Song Ci	{'relation': 'collaborate'}
+Gang Li	Wenjia Niu	{'relation': 'collaborate'}
+Gang Li	Z. Q. Shi	{'relation': 'collaborate'}
+Tao Lin	Song Ci	{'relation': 'collaborate'}
+Tao Lin	Hui Tang	{'relation': 'collaborate'}
+Tao Lin	Wenjia Niu	{'relation': 'collaborate'}
+Tao Lin	Zihou Wang	{'relation': 'collaborate'}
+Tao Lin	Yang Li	{'relation': 'collaborate'}
+Tao Lin	Yanni Han	{'relation': 'collaborate'}
+Zihou Wang	Hui Tang	{'relation': 'collaborate'}
+Zihou Wang	Yang Li	{'relation': 'collaborate'}
+Zihou Wang	Yanni Han	{'relation': 'collaborate'}
+Zihou Wang	Song Ci	{'relation': 'collaborate'}
+Zihou Wang	Wenjia Niu	{'relation': 'collaborate'}
+Wiro J. Niessen	Hui Tang	{'relation': 'collaborate'}
+Wiro J. Niessen	Michiel Schaap	{'relation': 'collaborate'}
+Hui Tang	Z. Q. Shi	{'relation': 'collaborate'}
+Hui Tang	Bin Tang	{'relation': 'collaborate'}
+Hui Tang	Song Ci	{'relation': 'collaborate'}
+Hui Tang	Ming Zhu	{'relation': 'collaborate'}
+Hui Tang	Michiel Schaap	{'relation': 'collaborate'}
+Hui Tang	Hancong Duan	{'relation': 'collaborate'}
+Hui Tang	Yanni Han	{'relation': 'collaborate'}
+Hui Tang	Guan-Ming Su	{'relation': 'collaborate'}
+Hui Tang	Ling Bai	{'relation': 'collaborate'}
+Hui Tang	Ding Tang	{'relation': 'collaborate'}
+Hui Tang	Tao Guo	{'relation': 'collaborate'}
+Hui Tang	Haiyan Luo	{'relation': 'collaborate'}
+Hui Tang	Wenjia Niu	{'relation': 'collaborate'}
+Hui Tang	Yang Li	{'relation': 'collaborate'}
+Song Ci	Guan-Ming Su	{'relation': 'collaborate'}
+Song Ci	Haiyan Luo	{'relation': 'collaborate'}
+Song Ci	Wenjia Niu	{'relation': 'collaborate'}
+Song Ci	Ding Tang	{'relation': 'collaborate'}
+Song Ci	Yang Li	{'relation': 'collaborate'}
+Song Ci	Yanni Han	{'relation': 'collaborate'}
+Yang Li	Wenjia Niu	{'relation': 'collaborate'}
+Yang Li	Yanni Han	{'relation': 'collaborate'}
+Z. Q. Shi	Wenjia Niu	{'relation': 'collaborate'}
+Wenjia Niu	Ding Tang	{'relation': 'collaborate'}
+Wenjia Niu	Yanni Han	{'relation': 'collaborate'}

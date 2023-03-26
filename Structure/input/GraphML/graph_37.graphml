@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="W. Kubiak">
+      <data key="affiliation">Faculty of Management, University of Toronto, Toronto, Canada</data>
+      <data key="research">polynomial time, completion time variance, completion time variance minimization</data>
+    </node>
+    <node id="Robert W. Blanning">
+      <data key="affiliation">Vanderbilt Univ., Nashville, TN</data>
+      <data key="research">model management, expert system, data management</data>
+    </node>
+    <node id="Troy Jefferson Strader">
+      <data key="affiliation">Drake University College of Business and Public Administration in Des Moines, IA</data>
+      <data key="research">on-line channel, after-Market Trading, traditional IPOs</data>
+    </node>
+    <node id="J Blazewicz">
+      <data key="affiliation">Institute of Computing Science, PoznańUniversityofTechnology, Poznań, Poland and Institute of Bioorganic Chemistry, Polish Academy of Sciences, Poznań, Poland</data>
+      <data key="research">DNA Sequencing, isothermic DNA, general problem</data>
+    </node>
+    <node id="Franz Freyberger">
+      <data key="affiliation">Nan</data>
+      <data key="research">Autonome Mobile Systeme, PC-based multi-modal, chAutonome Mobile Systeme</data>
+    </node>
+    <node id="P. Bernus">
+      <data key="affiliation">Nan</data>
+      <data key="research">intelligent interactive integrated CAD</data>
+    </node>
+    <node id="Andrew B. Whinston">
+      <data key="affiliation">Information, Risk, and Operation Management Department at the McCombs School of Business, University of Texas at Austin</data>
+      <data key="research">innovation rate, Vertical Differentiation, innovation race</data>
+    </node>
+    <node id="C. Fischer">
+      <data key="affiliation">Nan</data>
+      <data key="research">multipath component, proposed model, novel stochastic spatial channel</data>
+    </node>
+    <node id="K. Mertins">
+      <data key="affiliation">Nan</data>
+      <data key="research">Integrated Approach, New European FactoryBusiness Process-oriented, Order Control</data>
+    </node>
+    <node id="Susanne Albers">
+      <data key="affiliation">Humboldt University, Berlin, Germany</data>
+      <data key="research">competitive ratio, online algorithm, deterministic online algorithm</data>
+    </node>
+    <node id="E. Ettelt">
+      <data key="affiliation">Institute of Automatic Control Engineering (LSR), Technische Universit&amp;#228/t M&amp;#252/nchen, 80290 M&amp;#252/nchen, Germany/ email: roman@lsr.etechnik.tumuenchen.de</data>
+      <data key="research">discusses design issue, proposed design approach, service robot</data>
+    </node>
+    <node id="M. Drozdowski">
+      <data key="affiliation">Institute of Computing Science, Poznań University of Technology, ul. Piotrowo 3A, 60965 Poznań, Poland</data>
+      <data key="research">parallel processing, divisible load processing, multi-installment divisible load processing</data>
+    </node>
+    <node id="P. Formanowicz">
+      <data key="affiliation">Institute of Computing Science, Poznan University of Technology, Piotrowo 3a, 60965 Poznan, Poland and Institute of Bioorganic Chemistry, Polish Academy of Sciences, Noskowskiego 12/14, 61704 Po ...</data>
+      <data key="research">DNA Sequencing, tabu search algorithm, hybridization experiment</data>
+    </node>
+    <node id="K. Ecker">
+      <data key="affiliation">Nan</data>
+      <data key="research">high dose, hydrogen migration, ion beam irradiation</data>
+    </node>
+    <node id="E. Pesch">
+      <data key="affiliation">FB 5  Management Information Systems, BWL 3, University of Siegen, 57068 Siegen, Germany</data>
+      <data key="research">centroid problem, two-machine flow shop scheduling, late part</data>
+    </node>
+    <node id="L. Nemes">
+      <data key="affiliation">Nan</data>
+      <data key="research">Integrating Manufacturing Activities, Design A Virtual Manufacturing, Enterprise ArchitectureThis handbook</data>
+    </node>
+    <node id="Michael J. Shaw">
+      <data key="affiliation">Nan</data>
+      <data key="research">e-business researcher, e-business system, social computing</data>
+    </node>
+    <node id="Bernd Lahl">
+      <data key="affiliation">Nan</data>
+      <data key="research">portfolio selection, solution approach, traditional application system</data>
+    </node>
+    <node id="J Weglarz">
+      <data key="affiliation">Institute of Computing Science, Poznan´ University of Technology and Poznan´ Supercomputing and Networking Center</data>
+      <data key="research">advance reservation, deterministic scheduling problem, Grid scheduling</data>
+    </node>
+    <node id="Günter Schmidt">
+      <data key="affiliation">Nan</data>
+      <data key="research">portfolio selection, solution approach, traditional application system</data>
+    </node>
+    <edge source="W. Kubiak" target="J Blazewicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Kubiak" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Kubiak" target="P. Formanowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Kubiak" target="M. Drozdowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert W. Blanning" target="Michael J. Shaw">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert W. Blanning" target="Andrew B. Whinston">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert W. Blanning" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert W. Blanning" target="Troy Jefferson Strader">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert W. Blanning" target="P. Bernus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Troy Jefferson Strader" target="Andrew B. Whinston">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Troy Jefferson Strader" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Troy Jefferson Strader" target="Michael J. Shaw">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Troy Jefferson Strader" target="P. Bernus">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="P. Formanowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="K. Ecker">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="J Weglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="M. Drozdowski">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Blazewicz" target="E. Pesch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franz Freyberger" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franz Freyberger" target="E. Ettelt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Franz Freyberger" target="C. Fischer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernus" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernus" target="K. Mertins">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernus" target="Michael J. Shaw">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernus" target="L. Nemes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Bernus" target="Andrew B. Whinston">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew B. Whinston" target="Michael J. Shaw">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew B. Whinston" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Fischer" target="E. Ettelt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Fischer" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Mertins" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanne Albers" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Ettelt" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Drozdowski" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Drozdowski" target="J Weglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Drozdowski" target="P. Formanowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Formanowicz" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ecker" target="J Weglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ecker" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ecker" target="E. Pesch">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Pesch" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Pesch" target="J Weglarz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Nemes" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael J. Shaw" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bernd Lahl" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Weglarz" target="Günter Schmidt">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

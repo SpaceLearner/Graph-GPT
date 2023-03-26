@@ -1,0 +1,46 @@
+Alain Boucher	Stanislas Boissau	{'relation': 'collaborate'}
+Alain Boucher	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alain Boucher	Edouard Amouroux	{'relation': 'collaborate'}
+Alain Boucher	Alexis Drogoul	{'relation': 'collaborate'}
+Alain Boucher	François Sempé	{'relation': 'collaborate'}
+François Sempé	Hoang Nam Chu	{'relation': 'collaborate'}
+François Sempé	Olivier Simonin	{'relation': 'collaborate'}
+François Sempé	Stanislas Boissau	{'relation': 'collaborate'}
+François Sempé	Nicolas Sabouret	{'relation': 'collaborate'}
+François Sempé	Alexis Drogoul	{'relation': 'collaborate'}
+François Sempé	Geber Ramalho	{'relation': 'collaborate'}
+François Sempé	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+François Sempé	Yann Chevaleyre	{'relation': 'collaborate'}
+François Sempé	Minh Nguyen-Duc	{'relation': 'collaborate'}
+François Sempé	Edouard Amouroux	{'relation': 'collaborate'}
+François Sempé	François Charpillet	{'relation': 'collaborate'}
+François Sempé	Y. Haradji	{'relation': 'collaborate'}
+David Powell	Karama Kanoun	{'relation': 'collaborate'}
+David Powell	Marc-Olivier Killijian	{'relation': 'collaborate'}
+David Powell	Jean Arlat	{'relation': 'collaborate'}
+David Powell	Hoang Nam Chu	{'relation': 'collaborate'}
+David Powell	Felix Ingrand	{'relation': 'collaborate'}
+Z. Kalbarczyk	Jean Arlat	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Hoang Nam Chu	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Jean Arlat	{'relation': 'collaborate'}
+Marc-Olivier Killijian	Felix Ingrand	{'relation': 'collaborate'}
+Olivier Simonin	François Charpillet	{'relation': 'collaborate'}
+Olivier Simonin	Hoang Nam Chu	{'relation': 'collaborate'}
+Olivier Simonin	Alexis Drogoul	{'relation': 'collaborate'}
+Stanislas Boissau	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Stanislas Boissau	Alexis Drogoul	{'relation': 'collaborate'}
+Jean Arlat	Karama Kanoun	{'relation': 'collaborate'}
+Jean Arlat	Felix Ingrand	{'relation': 'collaborate'}
+Jean Arlat	Hoang Nam Chu	{'relation': 'collaborate'}
+Yann Chevaleyre	Geber Ramalho	{'relation': 'collaborate'}
+Alexis Drogoul	Angélica Muñoz-Meléndez	{'relation': 'collaborate'}
+Alexis Drogoul	Minh Nguyen-Duc	{'relation': 'collaborate'}
+Alexis Drogoul	Edouard Amouroux	{'relation': 'collaborate'}
+Alexis Drogoul	François Charpillet	{'relation': 'collaborate'}
+Alexis Drogoul	Hoang Nam Chu	{'relation': 'collaborate'}
+Alexis Drogoul	Geber Ramalho	{'relation': 'collaborate'}
+Felix Ingrand	Hoang Nam Chu	{'relation': 'collaborate'}
+Nicolas Sabouret	Y. Haradji	{'relation': 'collaborate'}
+Nicolas Sabouret	Edouard Amouroux	{'relation': 'collaborate'}
+François Charpillet	Hoang Nam Chu	{'relation': 'collaborate'}
+Y. Haradji	Edouard Amouroux	{'relation': 'collaborate'}

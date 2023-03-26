@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Xiaona Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">capillary tube, Critical Flux, flow characteristic</data>
+    </node>
+    <node id="Vanessa Evers">
+      <data key="affiliation">Institute of Educational Technology, The Open University, Milton Keynes, United Kingdom</data>
+      <data key="research">Open University, group discussion, informedia digital video library</data>
+    </node>
+    <node id="Minping Qian">
+      <data key="affiliation">Nan</data>
+      <data key="research">Iterative Stochastic SchemesAnnealing, closed form, general iterative stochastic scheme</data>
+    </node>
+    <node id="Yingying Tan">
+      <data key="affiliation">Nan</data>
+      <data key="research">flood season, flood variation, hydrological variation diagnosis system</data>
+    </node>
+    <node id="Guowei Gu">
+      <data key="affiliation">Nan</data>
+      <data key="research">denitrifying condition, sole carbon source, 2-methylpyridine degradation</data>
+    </node>
+    <node id="Guohua Geng">
+      <data key="affiliation">Dept. of Computer Science, Northwest University at Xi'an, Shaanxi, China</data>
+      <data key="research">experimental result, proposed method, cultural relic image</data>
+    </node>
+    <node id="Wei-Chang Yeh">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed algorithm, regression model, efficient error concealment algorithm</data>
+    </node>
+    <node id="Lizhi Peng">
+      <data key="affiliation">Jinan University, China</data>
+      <data key="research">data gravitation, proposed method, P2P traffic</data>
+    </node>
+    <node id="Shaohua Teng">
+      <data key="affiliation">State Key Laboratory on Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology, Department of Computer Science and Technology, Tsinghua University, ...</data>
+      <data key="research">test set, Transfer Learning, Self-TrainingTraditional text classification method</data>
+    </node>
+    <node id="Lin Wang">
+      <data key="affiliation">Shandong Provincial Key Laboratory of Network Based Intelligent Computing, University of Jinan, Jinan, China</data>
+      <data key="research">concrete mix design, concrete experiment, concrete mix ratio</data>
+    </node>
+    <node id="Lindsay J. Groves">
+      <data key="affiliation">VUW, NZ</data>
+      <data key="research">Semistructured data, Lock-free algorithm, Object Relationship Attribute data</data>
+    </node>
+    <node id="Xin Min">
+      <data key="affiliation">Department of Communication Engineering, Xiamen University, Fujian, P.R. China</data>
+      <data key="research">SIMO FM-DCSK UWB scheme, low complexity, low power application</data>
+    </node>
+    <node id="Chengqing Zong">
+      <data key="affiliation">National Laboratory of Pattern Recognition, Beijing, P. R. China</data>
+      <data key="research">sentiment classification, novel reordering model, statistical machine translation</data>
+    </node>
+    <node id="Ajith Abraham">
+      <data key="affiliation">Machine Intelligence Research Labs Machine Intelligence Research Labs(MIR Labs),, Scientific Network for Innovation and Research Excellence, Listopadu 15, Auburn, Washington, Czech Republic</data>
+      <data key="research">proposed method, evolutionary algorithm, neural network</data>
+    </node>
+    <node id="Qi Yin">
+      <data key="affiliation">Nan</data>
+      <data key="research">transport line, optimized configuration, regression model</data>
+    </node>
+    <node id="Hitomi Sato">
+      <data key="affiliation">Fujitsu Ltd., Nakaharaku, Japan</data>
+      <data key="research">tunable finite state machine</data>
+    </node>
+    <node id="Yuan Fang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Electronic Government, Basic Information Platform, electronic government background</data>
+    </node>
+    <node id="Yinghua Lu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Maximum Margin, Face Recognition, Novel Approach</data>
+    </node>
+    <node id="Heping Ding">
+      <data key="affiliation">Acoustics and Signal Processing, Institute for Microstructural Sciences, National Research Council, Canada</data>
+      <data key="research">proposed method, blind source separation, frequency bin</data>
+    </node>
+    <node id="Xiuling Zhou">
+      <data key="affiliation">Nan</data>
+      <data key="research">image block, kernel matrix, matrix representation</data>
+    </node>
+    <edge source="Xiaona Yan" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaona Yan" target="Yingying Tan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vanessa Evers" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Minping Qian" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yingying Tan" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guowei Gu" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guohua Geng" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei-Chang Yeh" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lizhi Peng" target="Ajith Abraham">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lizhi Peng" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaohua Teng" target="Lin Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Heping Ding">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Yinghua Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Xiuling Zhou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Ajith Abraham">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Lindsay J. Groves">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Hitomi Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Qi Yin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Xin Min">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Chengqing Zong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Wang" target="Yuan Fang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chengqing Zong" target="Yinghua Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ajith Abraham" target="Ajith Abraham">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

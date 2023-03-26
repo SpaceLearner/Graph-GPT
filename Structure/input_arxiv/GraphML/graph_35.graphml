@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P127008">
+      <data key="title">solving modular model expansion tasks</data>
+    </node>
+    <node id="P76520">
+      <data key="title">relativized hyperequivalence of logic programs for modular programming</data>
+    </node>
+    <node id="P28771">
+      <data key="title">kara a system for visualising and visual editing of interpretations for answer set programs</data>
+    </node>
+    <node id="P166742">
+      <data key="title">nested hex programs</data>
+    </node>
+    <node id="P78977">
+      <data key="title">automated verification of weak equivalence within the smodels system</data>
+    </node>
+    <node id="P38075">
+      <data key="title">tight logic programs</data>
+    </node>
+    <node id="P35867">
+      <data key="title">the dlv system for knowledge representation and reasoning</data>
+    </node>
+    <node id="P7261">
+      <data key="title">unit testing in aspide</data>
+    </node>
+    <node id="P101468">
+      <data key="title">on elementary loops of logic programs</data>
+    </node>
+    <node id="P65849">
+      <data key="title">unfolding partiality and disjunctions in stable model semantics</data>
+    </node>
+    <node id="P156271">
+      <data key="title">a model building framework for answer set programming with external computations</data>
+    </node>
+    <node id="P48794">
+      <data key="title">the sealion has landed an ide for answer set programming preliminary report</data>
+    </node>
+    <node id="P140942">
+      <data key="title">strong equivalence and program s structure in arguing essential equivalence between logic programs</data>
+    </node>
+    <node id="P40661">
+      <data key="title">a general framework for equivalences in answer set programming by countermodels in the logic of here and there</data>
+    </node>
+    <node id="P1026">
+      <data key="title">stable model counting and its application in probabilistic logic programming</data>
+    </node>
+    <node id="P65821">
+      <data key="title">detecting inconsistencies in large biological networks with answer set programming</data>
+    </node>
+    <node id="P57277">
+      <data key="title">an analysis of the equational properties of the well founded fixed point</data>
+    </node>
+    <node id="P43">
+      <data key="title">modularity aspects of disjunctive stable models</data>
+    </node>
+    <node id="P18349">
+      <data key="title">stable models and an alternative logic programming paradigm</data>
+    </node>
+    <node id="P165383">
+      <data key="title">origins of answer set programming some background and two personal accounts</data>
+    </node>
+    <edge source="P127008" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76520" target="P40661">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76520" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76520" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28771" target="P48794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28771" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166742" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78977" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78977" target="P35867">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78977" target="P65849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78977" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38075" target="P165383">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38075" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38075" target="P101468">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P165383">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P65849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P65821">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P7261">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P40661">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P101468">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P48794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P35867" target="P1026">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7261" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7261" target="P65821">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7261" target="P48794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101468" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101468" target="P65849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65849" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65849" target="P65821">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65849" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156271" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48794" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140942" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40661" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1026" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65821" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65821" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57277" target="P43">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43" target="P165383">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43" target="P18349">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18349" target="P165383">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

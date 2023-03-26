@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Frank Liu">
+      <data key="affiliation">University of MissouriRolla</data>
+      <data key="research">real system, test system, power system test developmentMany</data>
+    </node>
+    <node id="Yong-Long Luo">
+      <data key="affiliation">USTC, East Campus USTC, Hefei, PRC</data>
+      <data key="research">convex hulls problem, Secure Multi-Party Computation, special case</data>
+    </node>
+    <node id="Song Ci">
+      <data key="affiliation">High Performance Network Lab, Institute of Acoustics, Chinese Academy of Sciences, Beijing, China,Department of Computer and Electronics Engineering, University of NebraskaLincoln, NE</data>
+      <data key="research">P2P cache, virtual network, forward cache</data>
+    </node>
+    <node id="Sani Rechard Nassif">
+      <data key="affiliation">IBM Research Laboratory, Austin, TX</data>
+      <data key="research">power grid, experimental result, transient analysis</data>
+    </node>
+    <node id="Chaitali Chakrabarti">
+      <data key="affiliation">Department of Electrical Engineering, Arizona State University, Phoenix, USA</data>
+      <data key="research">power consumption, energy consumption, low power</data>
+    </node>
+    <node id="Wei Yang">
+      <data key="affiliation">Biocomputing Research Centre, School of Computer Science and Technology, Harbin Institute of Technology, Harbin 150001, China and School of Computer and Information Engineering, HeNan University,  ...</data>
+      <data key="research">proposed method, nearest hit, nearest neighbor</data>
+    </node>
+    <node id="Tanfeng Sun">
+      <data key="affiliation">Nan</data>
+      <data key="research">DMCP information, encrypt key, DMCP information security</data>
+    </node>
+    <node id="Liu Sheng Huang">
+      <data key="affiliation">USTC, East Campus USTC, Hefei, PRC</data>
+      <data key="research">wireless sensor network, proposed algorithm, sensor node</data>
+    </node>
+    <node id="Yun Ye">
+      <data key="affiliation">Department of Electrical Engineering, Arizona State University, P.O. Box 875706, Tempe, AZ 852875706, United States</data>
+      <data key="research">ferroelectric layer, ferroelectric capacitance, ferroelectric material</data>
+    </node>
+    <node id="Zhi Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">OOP model, comprehensive semiconductor, dynamic device behavior</data>
+    </node>
+    <node id="Antonio Cantoni">
+      <data key="affiliation">School of Electrical, Electronic and Computer Engineering, The University of Western Australia, Crawley, WA, Australia</data>
+      <data key="research">metastable behavior, time jitter, QP problem</data>
+    </node>
+    <node id="Y. Uny Cao">
+      <data key="affiliation">School of Electrical, Computer and Energy Engineering, Arizona Sate University, Tempe, AZ 85287, USA</data>
+      <data key="research">new model, process variation, NBTI-induced circuit degradation</data>
+    </node>
+    <node id="Saman S. Abeysekera">
+      <data key="affiliation">Nan</data>
+      <data key="research">Wigner-Ville distribution, signal classification</data>
+    </node>
+    <node id="Yanwei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">CPG-based Control System, CPG-based hierarchical control system, control strategy</data>
+    </node>
+    <node id="Min Chen">
+      <data key="affiliation">Richard Stockton College of New Jersey, Galloway</data>
+      <data key="research">user navigation, disoriented user, improved structure</data>
+    </node>
+    <node id="Charayaphan Charoensak">
+      <data key="affiliation">School of Electrical &amp; Electronic Engineering, Nanyang Technological University, Singapore</data>
+      <data key="research">Field Programmable Gate Array, efficient FPGA hardware architecture, final hardware design</data>
+    </node>
+    <node id="Dong Li">
+      <data key="affiliation">School of Communication Engineering, Jilin University, Changchun, Chinilin Institute of Metrology, Changchun, China</data>
+      <data key="research">existing expression feature, expression feature, facial expression feature selection</data>
+    </node>
+    <node id="Zhu-Quan Zang">
+      <data key="affiliation">Australian Telcommun. Res. Inst., Curtin Univ. of Technol., Bentley, WA, Australia</data>
+      <data key="research">optimization problem, convex optimization problem, design problem</data>
+    </node>
+    <node id="Xue Yao">
+      <data key="affiliation">Nan</data>
+      <data key="research">FIR filter design algorithm, IIR filter architecture, Laguerre IIR filter design</data>
+    </node>
+    <node id="Boualem Boashash">
+      <data key="affiliation">Electrical Engineering Department, Qatar University College of Engineering, Doha, Qatar</data>
+      <data key="research">time-frequency distribution, real signal, multicomponent signal</data>
+    </node>
+    <edge source="Frank Liu" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Liu" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Liu" target="Sani Rechard Nassif">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Liu" target="Y. Uny Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Long Luo" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Long Luo" target="Dong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Long Luo" target="Liu Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Long Luo" target="Wei Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Song Ci" target="Yanwei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sani Rechard Nassif" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sani Rechard Nassif" target="Y. Uny Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sani Rechard Nassif" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chaitali Chakrabarti" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chaitali Chakrabarti" target="Y. Uny Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Yang" target="Dong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Yang" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Yang" target="Liu Sheng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wei Yang" target="Wei Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tanfeng Sun" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liu Sheng Huang" target="Yun Ye">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liu Sheng Huang" target="Dong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Ye" target="Saman S. Abeysekera">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Ye" target="Y. Uny Cao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Ye" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Ye" target="Dong Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Ye" target="Yanwei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhi Wang" target="Saman S. Abeysekera">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antonio Cantoni" target="Zhu-Quan Zang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Antonio Cantoni" target="Saman S. Abeysekera">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Uny Cao" target="Min Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saman S. Abeysekera" target="Boualem Boashash">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saman S. Abeysekera" target="Xue Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saman S. Abeysekera" target="Zhu-Quan Zang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saman S. Abeysekera" target="Charayaphan Charoensak">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

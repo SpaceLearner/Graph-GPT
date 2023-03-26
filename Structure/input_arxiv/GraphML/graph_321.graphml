@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P31998">
+      <data key="title">consensus over random graph processes network borel cantelli lemmas for almost sure convergence</data>
+    </node>
+    <node id="P25497">
+      <data key="title">a tutorial on modeling and analysis of dynamic social networks part i</data>
+    </node>
+    <node id="P145737">
+      <data key="title">orientation and connectivity based criteria for asymptotic consensus</data>
+    </node>
+    <node id="P397">
+      <data key="title">persistent flows and non reciprocal interactions in deterministic networks</data>
+    </node>
+    <node id="P88696">
+      <data key="title">structural balance and opinion separation in trust mistrust social networks</data>
+    </node>
+    <node id="P157707">
+      <data key="title">distributed sensor localization in random environments using minimal number of anchor nodes</data>
+    </node>
+    <node id="P60847">
+      <data key="title">competitive information spread with confirmation bias in cyber social networks</data>
+    </node>
+    <node id="P137618">
+      <data key="title">convergence of type symmetric and cut balanced consensus seeking systems extended version</data>
+    </node>
+    <node id="P107264">
+      <data key="title">finite time convergent gossiping</data>
+    </node>
+    <node id="P82875">
+      <data key="title">distributed consensus algorithms in sensor networks quantized data and random link failures</data>
+    </node>
+    <node id="P120757">
+      <data key="title">discrete time polar opinion dynamics with susceptibility</data>
+    </node>
+    <node id="P141090">
+      <data key="title">how agreement and disagreement evolve over random dynamic networks</data>
+    </node>
+    <node id="P104688">
+      <data key="title">opinion dynamics in social networks with hostile camps consensus vs polarization</data>
+    </node>
+    <node id="P59416">
+      <data key="title">modulus consensus in discrete time signed networks and properties of special recurrent inequalities</data>
+    </node>
+    <node id="P142524">
+      <data key="title">the convergence of bird flocking</data>
+    </node>
+    <node id="P66230">
+      <data key="title">visualizing structural balance in signed networks</data>
+    </node>
+    <node id="P58051">
+      <data key="title">continuous time consensus under non instantaneous reciprocity</data>
+    </node>
+    <node id="P82526">
+      <data key="title">dynamic social balance and convergent appraisals via homophily and influence mechanisms</data>
+    </node>
+    <node id="P158310">
+      <data key="title">the role of persistent graphs in the agreement seeking of social networks</data>
+    </node>
+    <node id="P33392">
+      <data key="title">differential inequalities in multi agent coordination and opinion dynamics modeling</data>
+    </node>
+    <edge source="P31998" target="P107264">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31998" target="P157707">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31998" target="P82875">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31998" target="P397">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P33392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P88696">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P104688">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P141090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P58051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25497" target="P59416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145737" target="P137618">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P397" target="P88696">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P397" target="P137618">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P397" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P397" target="P141090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P397" target="P58051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P104688">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P33392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P120757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P82526">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P59416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P60847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88696" target="P66230">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60847" target="P104688">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137618" target="P142524">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137618" target="P33392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137618" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82875" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104688" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104688" target="P33392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142524" target="P58051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58051" target="P158310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158310" target="P33392">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

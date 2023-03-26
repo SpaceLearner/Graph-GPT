@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P12284">
+      <data key="title">transformations of high level synthesis codes for high performance computing</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P47747">
+      <data key="title">anyhls high level synthesis with partial evaluation</data>
+    </node>
+    <node id="P54785">
+      <data key="title">caffeinated fpgas fpga framework for convolutional neural networks</data>
+    </node>
+    <node id="P140316">
+      <data key="title">enabling fpgas for the masses</data>
+    </node>
+    <node id="P65913">
+      <data key="title">fpga based cnn inference accelerator synthesized from multi threaded c software</data>
+    </node>
+    <node id="P45634">
+      <data key="title">synergy an hw sw framework for high throughput cnns on embedded heterogeneous soc</data>
+    </node>
+    <node id="P153835">
+      <data key="title">finn a framework for fast scalable binarized neural network inference</data>
+    </node>
+    <node id="P14169">
+      <data key="title">programming heterogeneous systems from an image processing dsl</data>
+    </node>
+    <node id="P22035">
+      <data key="title">going deeper with convolutions</data>
+    </node>
+    <node id="P143787">
+      <data key="title">tiramisu a polyhedral compiler for expressing fast and portable code</data>
+    </node>
+    <node id="P93479">
+      <data key="title">accelerating deep convolutional networks using low precision and sparsity</data>
+    </node>
+    <node id="P469">
+      <data key="title">p4 compatible high level synthesis of low latency 100 gb s streaming packet parsers in fpgas</data>
+    </node>
+    <node id="P10538">
+      <data key="title">deep compression compressing deep neural networks with pruning trained quantization and huffman coding</data>
+    </node>
+    <node id="P89748">
+      <data key="title">c templates as partial evaluation</data>
+    </node>
+    <node id="P111674">
+      <data key="title">toolflows for mapping convolutional neural networks on fpgas a survey and future directions</data>
+    </node>
+    <node id="P85116">
+      <data key="title">using vivado hls for structural design a noc case study</data>
+    </node>
+    <node id="P88391">
+      <data key="title">module per object a human driven methodology for c based high level synthesis design</data>
+    </node>
+    <node id="P130553">
+      <data key="title">the challenges of hardware synthesis from c like languages</data>
+    </node>
+    <edge source="P12284" target="P153835">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12284" target="P14169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P12284" target="P47747">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P10538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P54785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P153835">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P65913">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47747" target="P143787">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47747" target="P89748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47747" target="P88391">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47747" target="P14169">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54785" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54785" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54785" target="P65913">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140316" target="P88391">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P45634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P10538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P153835">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P93479">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65913" target="P88391">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45634" target="P153835">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153835" target="P10538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153835" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22035" target="P10538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22035" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P469" target="P88391">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10538" target="P111674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85116" target="P130553">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85116" target="P88391">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

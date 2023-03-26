@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Ralf Klasing">
+      <data key="affiliation">CNRS  LaBRI  Université Bordeaux 1, 351 Cours de la Libération, Talence cedex, France</data>
+      <data key="research">multiplicity detection, positive case, ring case</data>
+    </node>
+    <node id="D. Krizanc">
+      <data key="affiliation">Department of Mathematics and Computer Science, Wesleyan Universiry, Middletown, CT</data>
+      <data key="research">expected number, rendezvous problem, cost O</data>
+    </node>
+    <node id="Xiaohui Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">recommendation algorithm, Web Log, Web log analysis</data>
+    </node>
+    <node id="Jurek Czyzowicz">
+      <data key="affiliation">Université du Québec</data>
+      <data key="research">mobile agent, log n, time O</data>
+    </node>
+    <node id="Yun Lu">
+      <data key="affiliation">Central Zone, Science &amp; Technology Park, Guangdong, P.R. China</data>
+      <data key="research">inverted pendulum, actual system operation, dynamic performance</data>
+    </node>
+    <node id="Juraj Hromkovic">
+      <data key="affiliation">Department of Computer Science, Swiss Federal Institute of Technology ETH Zürich, ETH Zentrum RZ F2, CH8092 Zurich, Swizterland</data>
+      <data key="research">approximation algorithm, triangle inequality, optimization problem</data>
+    </node>
+    <node id="Jeanette Janssen">
+      <data key="affiliation">janssen@mathstat.dal.ca</data>
+      <data key="research">Web graph, networked information space, Citation Graph</data>
+    </node>
+    <node id="S. Shende">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="J.-R. Sack">
+      <data key="affiliation">MaxPlanckInstitute for Informatics, Stuhlsatzenhausweg 85, 66123 Saarbrücken, Germany</data>
+      <data key="research">shortest path, time O, earliest arrival time</data>
+    </node>
+    <node id="Louxin Zhang">
+      <data key="affiliation">Institute of Systems Science, Singapore, Singapore</data>
+      <data key="research">Hamming Codes, Hamming codesAddition, longest common nonsupersequences</data>
+    </node>
+    <node id="Andreas Wiese">
+      <data key="affiliation">MaxPlanckInstitut für Informatik, Germany</data>
+      <data key="research">approximation algorithm, approximation ratio, local algorithm</data>
+    </node>
+    <node id="Michael H. W. Hoffmann">
+      <data key="affiliation">University of Ulm, Department of Microwave Techniques, AlbertEinsteinAllee, Ulm, Germany</data>
+      <data key="research">dual graph, n point, n vertex</data>
+    </node>
+    <node id="E. Kranakis">
+      <data key="affiliation">Nan</data>
+      <data key="research">Node Discovery, ad-hoc network, concrete network implementation</data>
+    </node>
+    <node id="Douglas M. Blough">
+      <data key="affiliation">School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, Georgia, USA</data>
+      <data key="research">high probability, probabilistic model, physical interference model</data>
+    </node>
+    <node id="A. Pelc">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Ivan Rival">
+      <data key="affiliation">Univ. of Ottawa, Ottawa, Canada</data>
+      <data key="research">greedy linear extension, linear extension, jump number</data>
+    </node>
+    <node id="Walter Unger">
+      <data key="affiliation">quax@I1.Informatik.RWTHAachen.DE</data>
+      <data key="research">approximation algorithm, triangle inequality, optimization problem</data>
+    </node>
+    <node id="Michael Soss">
+      <data key="affiliation">Goldman Sachs, Foreign Exchange Strategy Division, ULB CP212, 1125 Colonel By Drive, 69978, New York, ON, USA</data>
+      <data key="research">time algorithm, sublinear query time, Maximum Detour</data>
+    </node>
+    <node id="Bernard Mans">
+      <data key="affiliation">Macquarie Univ., Sydney, Australia</data>
+      <data key="research">random regular graph, Computer science, New Zealand</data>
+    </node>
+    <node id="Ioannis Caragiannis">
+      <data key="affiliation">University of Patras &amp; CTI, Greece</data>
+      <data key="research">greedy embeddings, pure Nash equilibrium, approximate pure Nash equilibrium</data>
+    </node>
+    <edge source="Ralf Klasing" target="Xiaohui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Klasing" target="Jurek Czyzowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Klasing" target="Walter Unger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Klasing" target="Juraj Hromkovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ralf Klasing" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Michael H. W. Hoffmann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Yun Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Jeanette Janssen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="J.-R. Sack">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="S. Shende">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Ioannis Caragiannis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Andreas Wiese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Louxin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Michael Soss">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Bernard Mans">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Xiaohui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="E. Kranakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Krizanc" target="Jurek Czyzowicz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaohui Zhang" target="Xiaohui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaohui Zhang" target="E. Kranakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jurek Czyzowicz" target="Ivan Rival">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jurek Czyzowicz" target="E. Kranakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jurek Czyzowicz" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juraj Hromkovic" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Juraj Hromkovic" target="Walter Unger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Shende" target="E. Kranakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andreas Wiese" target="Ioannis Caragiannis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Kranakis" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Douglas M. Blough" target="A. Pelc">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Pelc" target="Ivan Rival">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Pelc" target="Walter Unger">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

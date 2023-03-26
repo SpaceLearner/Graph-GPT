@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jr William W. Hunter">
+      <data key="affiliation">Nan</data>
+      <data key="research">percent random uncertainty, Laser Doppler Velocimeter, percent bias</data>
+    </node>
+    <node id="Fletcher Mark T.">
+      <data key="affiliation">Nan</data>
+      <data key="research">Laser Doppler Velocimeter, percent random uncertainty, LDV system</data>
+    </node>
+    <node id="Gartrell Luther R.">
+      <data key="affiliation">Nan</data>
+      <data key="research">percent random uncertainty, Laser Doppler Velocimeter, airside edge</data>
+    </node>
+    <node id="Heinbockel John H.">
+      <data key="affiliation">Nan</data>
+      <data key="research">ionizing radiation, shield material, neutron environment</data>
+    </node>
+    <node id="Tappan N. D.">
+      <data key="affiliation">Nan</data>
+      <data key="research">damage threshold data, cloud condition, test site</data>
+    </node>
+    <node id="Larman K. T.">
+      <data key="affiliation">Nan</data>
+      <data key="research">acceleration measurement, total acceleration, bulk bias</data>
+    </node>
+    <node id="Young R. J. De">
+      <data key="affiliation">Nan</data>
+      <data key="research">room temperature, Degrees C, YAG laser beam</data>
+    </node>
+    <node id="Blanchard Robert C.">
+      <data key="affiliation">Nan</data>
+      <data key="research">aerodynamic acceleration, Orbiter body axis, Orbiter center-of-gravity</data>
+    </node>
+    <node id="Marchello Joseph M.">
+      <data key="affiliation">Nan</data>
+      <data key="research">percent increase, degrees C, In-Situ Automated Tape Placement</data>
+    </node>
+    <node id="Shinn Judy L.">
+      <data key="affiliation">Nan</data>
+      <data key="research">dose equivalent, galactic cosmic ray transport, computer code</data>
+    </node>
+    <node id="Minnis P.">
+      <data key="affiliation">Nan</data>
+      <data key="research">surface skin temperature, actual Earth surface, hourly surface observation</data>
+    </node>
+    <node id="Schuster G. L.">
+      <data key="affiliation">Nan</data>
+      <data key="research">CERES surface flux retrieval, albedo surface site, downwelling surface flux</data>
+    </node>
+    <node id="Coomes E. P.">
+      <data key="affiliation">Nan</data>
+      <data key="research">beaming laser power, electrical power, laser beam power</data>
+    </node>
+    <node id="Costen Robert C.">
+      <data key="affiliation">Nan</data>
+      <data key="research">percent increase, PIO model, supercell storm</data>
+    </node>
+    <node id="Harrison Joycelyn S.">
+      <data key="affiliation">Nan</data>
+      <data key="research">smart technology, smart aircraft, couple research</data>
+    </node>
+    <node id="Williams M. D.">
+      <data key="affiliation">Nan</data>
+      <data key="research">lasing photon, laser beam, spatial coherence</data>
+    </node>
+    <node id="Badavi Francis F.">
+      <data key="affiliation">Nan</data>
+      <data key="research">linear energy transfer, shield material, computer code</data>
+    </node>
+    <node id="Miner Gilda A.">
+      <data key="affiliation">Nan</data>
+      <data key="research">Vibrational Relaxation, ice cloud, lasing photon</data>
+    </node>
+    <node id="Wilson John W.">
+      <data key="affiliation">Nan</data>
+      <data key="research">cross section, linear energy transfer, dose equivalent</data>
+    </node>
+    <node id="Lee Ja H.">
+      <data key="affiliation">Nan</data>
+      <data key="research">slave laser, lasing photon, percent random uncertainty</data>
+    </node>
+    <edge source="Jr William W. Hunter" target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jr William W. Hunter" target="Gartrell Luther R.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jr William W. Hunter" target="Fletcher Mark T.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fletcher Mark T." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fletcher Mark T." target="Gartrell Luther R.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gartrell Luther R." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Badavi Francis F.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Shinn Judy L.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Costen Robert C.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Wilson John W.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Williams M. D.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Heinbockel John H." target="Miner Gilda A.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tappan N. D." target="Minnis P.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Larman K. T." target="Schuster G. L.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Larman K. T." target="Blanchard Robert C.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young R. J. De" target="Williams M. D.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young R. J. De" target="Coomes E. P.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young R. J. De" target="Schuster G. L.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marchello Joseph M." target="Costen Robert C.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shinn Judy L." target="Costen Robert C.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shinn Judy L." target="Badavi Francis F.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shinn Judy L." target="Wilson John W.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Minnis P." target="Schuster G. L.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Schuster G. L." target="Coomes E. P.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Schuster G. L." target="Williams M. D.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Coomes E. P." target="Williams M. D.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Williams M. D.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Miner Gilda A.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Badavi Francis F.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Harrison Joycelyn S.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Costen Robert C." target="Wilson John W.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Williams M. D." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Williams M. D." target="Miner Gilda A.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Badavi Francis F." target="Wilson John W.">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Miner Gilda A." target="Lee Ja H.">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

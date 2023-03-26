@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="S. G. S. Shiva">
+      <data key="affiliation">School of Technology, Alabama A. &amp; M. University, Normal, AL.</data>
+      <data key="research">MV algebra, MV asynchronous set-clear flip-flop, MV flip-flop</data>
+    </node>
+    <node id="Victor P. Nelson">
+      <data key="affiliation">Nan</data>
+      <data key="research">Built-In Self-Test, BIST circuitry, analog circuitry</data>
+    </node>
+    <node id="B. Carroll">
+      <data key="affiliation">Auburn University, Auburn, Alabama</data>
+      <data key="research">computer engineering, computer engineering program, computer graphics</data>
+    </node>
+    <node id="Bruce Richard Linnell">
+      <data key="affiliation">Center for Robotics and Intelligent Machines, North Carolina State University, Raleigh, NC</data>
+      <data key="research">mobile robot, small sample, statistical pattern recognition</data>
+    </node>
+    <node id="Ricardo Gutierrez-Osuna">
+      <data key="affiliation">Center for Robotics and Intelligent Machines, North Carolina State University, Raleigh, NC</data>
+      <data key="research">accent conversion, foreign accent, native accent</data>
+    </node>
+    <node id="E. Grant">
+      <data key="affiliation">Nan</data>
+      <data key="research">symbolic methodology, initial disassembly processing time, manual disassembly economicsElectronics recyclers</data>
+    </node>
+    <node id="Charles L. Phillips">
+      <data key="affiliation">Nan</data>
+      <data key="research">Department Head, Department Head PerformanceThis paper, Auburn University</data>
+    </node>
+    <node id="Earl E. Swartzlander, Jr.">
+      <data key="affiliation">Nan</data>
+      <data key="research">Interconnection Networks</data>
+    </node>
+    <node id="Dallas W. Russell">
+      <data key="affiliation">Nan</data>
+      <data key="research">Department Head, Department Head PerformanceThis paper, Auburn University</data>
+    </node>
+    <node id="Eric E. Johnson">
+      <data key="affiliation">Nan</data>
+      <data key="research">MANET routing, routing protocol, various routing attack</data>
+    </node>
+    <node id="Bahram Ghaffarzadeh Kermani">
+      <data key="affiliation">Nan</data>
+      <data key="research">artificial neural network, electric nose, genetic algorithm</data>
+    </node>
+    <node id="J. Zeman">
+      <data key="affiliation">Department of Mechanics, Klokner Institute, Czech Technical University in Prague, Czech Republic</data>
+      <data key="research">conjugate gradient method, numerical homogenization, deterministic optimization algorithm</data>
+    </node>
+    <node id="J. David Irwin">
+      <data key="affiliation">Nan</data>
+      <data key="research">display system, Dimensional Display System, Dimensional Display SystemThe information</data>
+    </node>
+    <node id="Mark W. White">
+      <data key="affiliation">Nan</data>
+      <data key="research">artificial neural network, ventricular fibrillation</data>
+    </node>
+    <node id="Scott Starks">
+      <data key="affiliation">NASA PanAmerican Center for Earth and Environmental Studies, El Paso, TX</data>
+      <data key="research">interval computation, interval data, interval uncertainty</data>
+    </node>
+    <node id="H. Troy Nagle">
+      <data key="affiliation">Auburn University, Auburn, Alabama</data>
+      <data key="research">vital energy, computer engineering, Current Change</data>
+    </node>
+    <node id="William M. Smith">
+      <data key="affiliation">Nan</data>
+      <data key="research">activation front, artificial neural network, automated technique</data>
+    </node>
+    <node id="G. R. Kane">
+      <data key="affiliation">University of Tulsa, Tulsa, Oklahoma</data>
+      <data key="research">computer engineering, computer graphics, computer engineering program</data>
+    </node>
+    <node id="Chester C. Carroll">
+      <data key="affiliation">Nan</data>
+      <data key="research">transient response, special-purpose computer organization, Boolean difference function</data>
+    </node>
+    <node id="James Lee Lowry">
+      <data key="affiliation">Nan</data>
+      <data key="research">Department Head, Department Head PerformanceThis paper, Educational LaboratoriesThis paper</data>
+    </node>
+    <edge source="S. G. S. Shiva" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor P. Nelson" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor P. Nelson" target="J. David Irwin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Victor P. Nelson" target="B. Carroll">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Carroll" target="J. David Irwin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Carroll" target="G. R. Kane">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Carroll" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce Richard Linnell" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bruce Richard Linnell" target="Mark W. White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ricardo Gutierrez-Osuna" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="E. Grant" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Charles L. Phillips" target="Dallas W. Russell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Charles L. Phillips" target="J. David Irwin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Charles L. Phillips" target="James Lee Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Charles L. Phillips" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Earl E. Swartzlander, Jr." target="Scott Starks">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Earl E. Swartzlander, Jr." target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dallas W. Russell" target="J. David Irwin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dallas W. Russell" target="James Lee Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dallas W. Russell" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric E. Johnson" target="William M. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Eric E. Johnson" target="Mark W. White">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bahram Ghaffarzadeh Kermani" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Zeman" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. David Irwin" target="James Lee Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. David Irwin" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. David Irwin" target="G. R. Kane">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark W. White" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mark W. White" target="William M. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Starks" target="H. Troy Nagle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Troy Nagle" target="G. R. Kane">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Troy Nagle" target="James Lee Lowry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Troy Nagle" target="Chester C. Carroll">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

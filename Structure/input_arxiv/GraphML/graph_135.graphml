@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P98732">
+      <data key="title">mesh algorithms for pde with sieve i mesh distribution</data>
+    </node>
+    <node id="P64146">
+      <data key="title">ductteip an efficient programming model for distributed task based parallel computing</data>
+    </node>
+    <node id="P139753">
+      <data key="title">optimal scalable forward models for computing gravity anomalies</data>
+    </node>
+    <node id="P174">
+      <data key="title">dynamic autotuning of adaptive fast multipole methods on hybrid multicore cpu and gpu systems</data>
+    </node>
+    <node id="P55916">
+      <data key="title">chunks and tasks a programming model for parallelization of dynamic algorithms</data>
+    </node>
+    <node id="P144913">
+      <data key="title">learning with analytical models</data>
+    </node>
+    <node id="P153193">
+      <data key="title">an fmm based on dual tree traversal for many core architectures</data>
+    </node>
+    <node id="P25292">
+      <data key="title">adaptive fast multipole methods on the gpu</data>
+    </node>
+    <node id="P31310">
+      <data key="title">data driven execution of fast multipole methods</data>
+    </node>
+    <node id="P125844">
+      <data key="title">petfmm a dynamically load balancing parallel fast multipole library</data>
+    </node>
+    <node id="P162523">
+      <data key="title">fast multipole preconditioners for sparse matrices arising from elliptic equations</data>
+    </node>
+    <node id="P47669">
+      <data key="title">effect of mixed precision computing on h matrix vector multiplication in bem analysis</data>
+    </node>
+    <node id="P1111">
+      <data key="title">taskuniverse a task based unified interface for versatile parallel execution</data>
+    </node>
+    <node id="P24482">
+      <data key="title">fft fmm and multigrid on the road to exascale performance challenges and opportunities</data>
+    </node>
+    <node id="P24055">
+      <data key="title">a tuned and scalable fast multipole method as a preeminent algorithm for exascale systems</data>
+    </node>
+    <node id="P39148">
+      <data key="title">parallelization and scalability analysis of inverse factorization using the chunks and tasks programming model</data>
+    </node>
+    <node id="P136435">
+      <data key="title">petascale turbulence simulation using a highly parallel fast multipole method on gpus</data>
+    </node>
+    <node id="P49683">
+      <data key="title">extreme scale fmm accelerated boundary integral equation solver for wave scattering</data>
+    </node>
+    <node id="P119182">
+      <data key="title">biomolecular electrostatics using a fast multipole bem on up to 512 gpus and a billion unknowns</data>
+    </node>
+    <node id="P134410">
+      <data key="title">fast multipole networks</data>
+    </node>
+    <edge source="P98732" target="P125844">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98732" target="P139753">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64146" target="P55916">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64146" target="P174">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64146" target="P1111">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64146" target="P39148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139753" target="P125844">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P174" target="P25292">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P174" target="P153193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55916" target="P39148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55916" target="P1111">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144913" target="P153193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144913" target="P162523">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P49683">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P24482">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P136435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P31310">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P162523">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153193" target="P47669">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25292" target="P24055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25292" target="P125844">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25292" target="P1111">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31310" target="P136435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31310" target="P125844">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125844" target="P119182">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125844" target="P24055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125844" target="P49683">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162523" target="P49683">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162523" target="P24482">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24055" target="P119182">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24055" target="P136435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24055" target="P134410">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136435" target="P119182">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136435" target="P134410">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

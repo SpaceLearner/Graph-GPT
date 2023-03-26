@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Vincent J. Carey">
+      <data key="affiliation">Channing Laboratory, Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115, USA</data>
+      <data key="research">gene expression, microarray experiment, BioConductorThe microarray gene expression</data>
+    </node>
+    <node id="J. Váncza">
+      <data key="affiliation">Computer and Automation Research Institute, Hungarian Academy of Sciences, Hungary,Department of Manufacturing Science and Technology, Budapest University of Technology and Economics, Hungary</data>
+      <data key="research">sheet metal, process planning, automated process planning</data>
+    </node>
+    <node id="Maja Hadzic">
+      <data key="affiliation">DEBII, Curtin University, Western Australia</data>
+      <data key="research">semantic web, semantic web application, web ontology</data>
+    </node>
+    <node id="Hendrik Van Brussel">
+      <data key="affiliation">Mechanical Engineering Department, Division PMA, Celestijnenlaan 300B, B3001 Heverlee, Belgium</data>
+      <data key="research">PAM hysteresis, Non-local memory hysteresis, hysteresis behavior</data>
+    </node>
+    <node id="P. Van Houtte">
+      <data key="affiliation">MTM, Katholieke Universiteit Leuven, Heverlee, Belgium 3001</data>
+      <data key="research">Finite Element Simulation, finite element, constitutive law</data>
+    </node>
+    <node id="B. Willems">
+      <data key="affiliation">Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium</data>
+      <data key="research">US electronics, joint US EPA, active disassembly</data>
+    </node>
+    <node id="Bart De Moor">
+      <data key="affiliation">ESAT, SCDSISTA, K.U.Leuven, Kasteelpark Arenberg 10, B3001 LeuvenHeverlee, Belgium</data>
+      <data key="research">exact balanced representation, input-output data, finite time</data>
+    </node>
+    <node id="L. Vandenberghe">
+      <data key="affiliation">Dept. of Electr. Eng., Californica Univ., Los Angeles, CA, USA</data>
+      <data key="research">interior-point method, convex optimization problem, sizing problem</data>
+    </node>
+    <node id="Bert Lauwers">
+      <data key="affiliation">Nan</data>
+      <data key="research">tool path, tool path track, error prediction tool</data>
+    </node>
+    <node id="H. Sol">
+      <data key="affiliation">Nan</data>
+      <data key="research">global financial transaction, global transaction, national market</data>
+    </node>
+    <node id="Joris Vertommen">
+      <data key="affiliation">Centre for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A bus 2422, 3001 Heverlee, Belgium</data>
+      <data key="research">dissimilarity measure, Pairwise-adaptive dissimilarity measure, measure dynamically</data>
+    </node>
+    <node id="J. Vanthienen">
+      <data key="affiliation">Department of Applied Economic Sciences, K.U.Leuven, Naamsestraat 69, B3000 Leuven, Belgium</data>
+      <data key="research">decision table, process mining, process model</data>
+    </node>
+    <node id="A. M. Habraken">
+      <data key="affiliation">ArGEnCo, Université de Liège, Liège, Belgium 4000</data>
+      <data key="research">finite element, constitutive law, finite element simulation</data>
+    </node>
+    <node id="W. Dewulf">
+      <data key="affiliation">Dept. of Mech. Eng., Katholieke Universiteit Leuven, Belgium</data>
+      <data key="research">windshield wiper, Bosch windshield wiper, different environmental category</data>
+    </node>
+    <node id="Lieven De Lathauwer">
+      <data key="affiliation">Lieven.DeLathauwer@kuleuvenkortrijk.be</data>
+      <data key="research">singular value decomposition, canonical decomposition, cosine-sine decomposition</data>
+    </node>
+    <node id="P. Sas">
+      <data key="affiliation">Nan</data>
+      <data key="research">reference signal, extensive original reference set, extensive set</data>
+    </node>
+    <node id="Dirk Cattrysse">
+      <data key="affiliation">Center for Industrial Management, Katholieke Universiteit Leuven, Celestijnenlaan 300A, B3001 Heverlee, Belgium</data>
+      <data key="research">truck scheduling problem, optimal site, compact patch</data>
+    </node>
+    <node id="P Van Dooren">
+      <data key="affiliation">paul.vandooren@uclouvain.be and absil@ inma.ucl.ac.be</data>
+      <data key="research">new algorithm, fellow matrix, generalized Schur algorithm</data>
+    </node>
+    <node id="Ruben Verlinden">
+      <data key="affiliation">Semantics Technology and Applications Research Laboratory, Vrije Universiteit Brussel</data>
+      <data key="research">competency model, information source, meaningful competency</data>
+    </node>
+    <node id="Joost R. Duflou">
+      <data key="affiliation">Faculty of Engineering, Katholieke Universiteit Leuven, Belgium</data>
+      <data key="research">sheet metal, automated process planning, automatic process planning</data>
+    </node>
+    <edge source="Vincent J. Carey" target="Bart De Moor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Váncza" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Maja Hadzic" target="Bart De Moor">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hendrik Van Brussel" target="P. Sas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hendrik Van Brussel" target="W. Dewulf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Van Houtte" target="H. Sol">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Van Houtte" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Van Houtte" target="A. M. Habraken">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Willems" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="B. Willems" target="W. Dewulf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="Ruben Verlinden">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="J. Vanthienen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="P Van Dooren">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="L. Vandenberghe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="Lieven De Lathauwer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bart De Moor" target="Joris Vertommen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bert Lauwers" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sol" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sol" target="A. M. Habraken">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joris Vertommen" target="Dirk Cattrysse">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Joris Vertommen" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. M. Habraken" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Dewulf" target="P. Sas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Dewulf" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dirk Cattrysse" target="Joost R. Duflou">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P30161">
+      <data key="title">thread modular static analysis for relaxed memory models</data>
+    </node>
+    <node id="P98893">
+      <data key="title">abstract interpretation with unfoldings</data>
+    </node>
+    <node id="P77034">
+      <data key="title">static analysis of run time errors in embedded real time parallel c programs</data>
+    </node>
+    <node id="P138340">
+      <data key="title">dynamic verification with observational equivalence of c c concurrency</data>
+    </node>
+    <node id="P125834">
+      <data key="title">from single thread to multithreaded an efficient static analysis algorithm</data>
+    </node>
+    <node id="P441">
+      <data key="title">modular verification of interrupt driven software</data>
+    </node>
+    <node id="P151077">
+      <data key="title">a static analyzer for large safety critical software</data>
+    </node>
+    <node id="P111902">
+      <data key="title">abstract interpretation under speculative execution</data>
+    </node>
+    <node id="P43514">
+      <data key="title">flow sensitive composition of thread modular abstract interpretation</data>
+    </node>
+    <node id="P49981">
+      <data key="title">field sensitive value analysis of embedded c programs with union types and pointer arithmetics</data>
+    </node>
+    <node id="P106891">
+      <data key="title">stateless model checking for power</data>
+    </node>
+    <node id="P94109">
+      <data key="title">static analysis of lockless microcontroller c programs</data>
+    </node>
+    <node id="P49841">
+      <data key="title">mitigating power side channels during compilation</data>
+    </node>
+    <node id="P92318">
+      <data key="title">stateless model checking for tso and pso</data>
+    </node>
+    <node id="P134589">
+      <data key="title">the octagon abstract domain</data>
+    </node>
+    <node id="P134664">
+      <data key="title">software verification for weak memory via program transformation</data>
+    </node>
+    <node id="P5748">
+      <data key="title">eliminating timing side channel leaks using program repair</data>
+    </node>
+    <node id="P67295">
+      <data key="title">datalog based scalable semantic diffing of concurrent programs</data>
+    </node>
+    <node id="P57558">
+      <data key="title">spectre attacks exploiting speculative execution</data>
+    </node>
+    <node id="P41875">
+      <data key="title">herding cats modelling simulation testing and data mining for weak memory</data>
+    </node>
+    <edge source="P30161" target="P441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P111902">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P138340">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P67295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P41875">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P49981">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P92318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P134664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P43514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30161" target="P106891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98893" target="P77034">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98893" target="P125834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98893" target="P43514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P125834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P151077">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P49981">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P94109">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77034" target="P441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138340" target="P92318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138340" target="P106891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P441" target="P43514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P441" target="P111902">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P441" target="P67295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151077" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151077" target="P49981">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111902" target="P49841">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111902" target="P57558">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111902" target="P5748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111902" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111902" target="P43514">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43514" target="P67295">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43514" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49981" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106891" target="P41875">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106891" target="P92318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106891" target="P134664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94109" target="P134589">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49841" target="P5748">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92318" target="P134664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134664" target="P41875">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P75230">
+      <data key="title">graphs identified by logics with counting</data>
+    </node>
+    <node id="P33773">
+      <data key="title">the general vector addition system reachability problem by presburger inductive invariants</data>
+    </node>
+    <node id="P84080">
+      <data key="title">synthesizing database programs for schema refactoring</data>
+    </node>
+    <node id="P29285">
+      <data key="title">regular graphs and the spectra of two variable logic with counting</data>
+    </node>
+    <node id="P54273">
+      <data key="title">two variable logic revisited</data>
+    </node>
+    <node id="P150435">
+      <data key="title">on the automated verification of web applications with embedded sql</data>
+    </node>
+    <node id="P164635">
+      <data key="title">weighted model counting beyond two variable logic</data>
+    </node>
+    <node id="P2537">
+      <data key="title">pebble intervals automata and fo2 with two orders extended version</data>
+    </node>
+    <node id="P48655">
+      <data key="title">skolemization for weighted first order model counting</data>
+    </node>
+    <node id="P407">
+      <data key="title">a note on first order spectra with binary relations</data>
+    </node>
+    <edge source="P75230" target="P29285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33773" target="P29285">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84080" target="P150435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29285" target="P48655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29285" target="P164635">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29285" target="P54273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54273" target="P407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54273" target="P150435">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150435" target="P2537">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164635" target="P48655">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

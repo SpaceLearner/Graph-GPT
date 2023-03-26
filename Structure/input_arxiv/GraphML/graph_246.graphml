@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P82103">
+      <data key="title">online algorithms with advice for bin packing and scheduling problems</data>
+    </node>
+    <node id="P143776">
+      <data key="title">online bin packing with advice</data>
+    </node>
+    <node id="P71783">
+      <data key="title">afptas results for common variants of bin packing a new method for handling the small items</data>
+    </node>
+    <node id="P88">
+      <data key="title">fully dynamic bin packing revisited</data>
+    </node>
+    <node id="P154393">
+      <data key="title">online colored bin packing</data>
+    </node>
+    <node id="P33179">
+      <data key="title">a logarithmic additive integrality gap for bin packing</data>
+    </node>
+    <node id="P16318">
+      <data key="title">fully dynamic bin packing with limited repacking</data>
+    </node>
+    <node id="P11098">
+      <data key="title">online bin covering with advice</data>
+    </node>
+    <node id="P149494">
+      <data key="title">parallel online algorithms for the bin packing problem</data>
+    </node>
+    <node id="P19325">
+      <data key="title">streaming algorithms for bin packing and vector scheduling</data>
+    </node>
+    <node id="P78582">
+      <data key="title">lower bounds for several online variants of bin packing</data>
+    </node>
+    <node id="P68117">
+      <data key="title">improved lower bounds for online hypercube and rectangle packing</data>
+    </node>
+    <node id="P35770">
+      <data key="title">online bin packing with cardinality constraints resolved</data>
+    </node>
+    <node id="P47265">
+      <data key="title">parametric packing of selfish items and the subset sum algorithm</data>
+    </node>
+    <node id="P140712">
+      <data key="title">a tight lower bound for an online hypercube packing problem and bounds for prices of anarchy of a related game</data>
+    </node>
+    <node id="P147776">
+      <data key="title">online computation with untrusted advice</data>
+    </node>
+    <node id="P6827">
+      <data key="title">a new and improved algorithm for online bin packing</data>
+    </node>
+    <node id="P27865">
+      <data key="title">beating the harmonic lower bound for online bin packing</data>
+    </node>
+    <node id="P308">
+      <data key="title">improved lower bounds for online hypercube packing</data>
+    </node>
+    <node id="P108270">
+      <data key="title">on bin packing with clustering and bin packing with delays</data>
+    </node>
+    <edge source="P82103" target="P143776">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82103" target="P11098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82103" target="P147776">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82103" target="P149494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143776" target="P78582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143776" target="P11098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143776" target="P147776">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143776" target="P149494">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71783" target="P35770">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88" target="P16318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154393" target="P35770">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33179" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33179" target="P16318">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33179" target="P11098">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33179" target="P19325">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16318" target="P19325">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11098" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149494" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149494" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19325" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P35770">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P68117">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78582" target="P140712">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68117" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68117" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47265" target="P140712">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140712" target="P308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147776" target="P6827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6827" target="P27865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6827" target="P108270">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P82548">
+      <data key="title">scalable and compact 3d action recognition with approximated rbf kernel machines</data>
+    </node>
+    <node id="P120015">
+      <data key="title">a novel geometric framework on gram matrix trajectories for human behavior understanding</data>
+    </node>
+    <node id="P48699">
+      <data key="title">bregman divergences for infinite dimensional covariance matrices</data>
+    </node>
+    <node id="P120159">
+      <data key="title">analyzing human human interactions a survey</data>
+    </node>
+    <node id="P107617">
+      <data key="title">predicting human intentions from motion only a 2d 3d fusion approach</data>
+    </node>
+    <node id="P114694">
+      <data key="title">space time representation of people based on 3d skeletal data a review</data>
+    </node>
+    <node id="P120856">
+      <data key="title">non linear temporal subspace representations for activity recognition</data>
+    </node>
+    <node id="P164053">
+      <data key="title">learning unbiased representations via mutual information backpropagation</data>
+    </node>
+    <node id="P147934">
+      <data key="title">sparse coding and dictionary learning for symmetric positive definite matrices a kernel approach</data>
+    </node>
+    <node id="P81150">
+      <data key="title">correlation alignment by riemannian metric for domain adaptation</data>
+    </node>
+    <node id="P102984">
+      <data key="title">more about covariance descriptors for image set coding log euclidean framework based kernel matrix representation</data>
+    </node>
+    <node id="P40840">
+      <data key="title">learning discriminative stein kernel for spd matrices and its applications</data>
+    </node>
+    <node id="P274">
+      <data key="title">kernelized covariance for action recognition</data>
+    </node>
+    <node id="P131935">
+      <data key="title">geometry aware similarity learning on spd manifolds for visual recognition</data>
+    </node>
+    <node id="P37504">
+      <data key="title">when kernel methods meet feature learning log covariance network for action recognition from skeletal data</data>
+    </node>
+    <node id="P119967">
+      <data key="title">a compact kernel approximation for 3d action recognition</data>
+    </node>
+    <node id="P92272">
+      <data key="title">tensor representations via kernel linearization for action recognition from 3d skeletons</data>
+    </node>
+    <node id="P27460">
+      <data key="title">kernel methods on the riemannian manifold of symmetric positive definite matrices</data>
+    </node>
+    <node id="P65461">
+      <data key="title">deepkspd learning kernel matrix based spd representation for fine grained image recognition</data>
+    </node>
+    <node id="P12173">
+      <data key="title">transform invariant non parametric clustering of covariance matrices and its application to unsupervised joint segmentation and action discovery</data>
+    </node>
+    <edge source="P82548" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82548" target="P48699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82548" target="P119967">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82548" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82548" target="P164053">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120015" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P37504">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P65461">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P147934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P27460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P131935">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P119967">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P40840">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48699" target="P102984">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120159" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107617" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114694" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120856" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120856" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164053" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147934" target="P37504">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147934" target="P131935">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147934" target="P27460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147934" target="P40840">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81150" target="P274">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40840" target="P27460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P274" target="P27460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P274" target="P37504">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P274" target="P12173">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P274" target="P119967">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P274" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131935" target="P27460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37504" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119967" target="P92272">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P27460" target="P65461">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

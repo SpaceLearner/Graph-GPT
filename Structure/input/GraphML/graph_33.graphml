@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Duan Hua">
+      <data key="affiliation">Nan</data>
+      <data key="research">ordinary SVM, partitioned data, privacy-preserving data mining</data>
+    </node>
+    <node id="Jing Yuan">
+      <data key="affiliation">Department of Computer Science, University of Illinois at Chicago</data>
+      <data key="research">Spot Instances, monetary cost, account energy availability</data>
+    </node>
+    <node id="CHEN JUN-LIANG">
+      <data key="affiliation">Beijing University of Posts and Telecommunications, China</data>
+      <data key="research">user requirements elicitation, business developer, business flow</data>
+    </node>
+    <node id="Deng Na">
+      <data key="affiliation">Nan</data>
+      <data key="research">control dependency deadlock, Active BPEL Designer, BPEL process</data>
+    </node>
+    <node id="Qihe Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Blind Image Extraction, mixed signal, matrix pencil</data>
+    </node>
+    <node id="Chen Junliang">
+      <data key="affiliation">Beijing University of Posts and Telecommunications, China</data>
+      <data key="research">web service, Telecom Web services communication, hybrid services orchestration</data>
+    </node>
+    <node id="Guojun Dai">
+      <data key="affiliation">Nan</data>
+      <data key="research">new causality, spectral GC, Granger-like causality measure</data>
+    </node>
+    <node id="Shao-Jie Tang">
+      <data key="affiliation">Temple University, Philadelphia, PA, USA</data>
+      <data key="research">log n, wireless sensor network, Multicast capacity</data>
+    </node>
+    <node id="Changping Lv">
+      <data key="affiliation">Nan</data>
+      <data key="research">communication overhead, link unreliability, confidence level</data>
+    </node>
+    <node id="Wang Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">ANN approximation, ANN model, Aerodynamic OptimizationResponse Surface Methodology</data>
+    </node>
+    <node id="Jianhui Zhang">
+      <data key="affiliation">Institute of Computer Application Technology, Hangzhou Dianzi University, Hangzhou 310018, China and SITE, University of Ottawa, Ottawa, Canada K1N 6N5</data>
+      <data key="research">energy consumption, communication overhead, energy H</data>
+    </node>
+    <node id="Zhou Peng">
+      <data key="affiliation">State Key laboratory of Networking and Switching Technology, Beijing University of Posts &amp; Telecommunications, Beijing 100876, China</data>
+      <data key="research">hybrid services orchestration, IT service, execution middleware</data>
+    </node>
+    <node id="Guo Jie">
+      <data key="affiliation">State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications, Beijing 100876, China</data>
+      <data key="research">Telecom Web services communication, hybrid service, Internet services functionalities</data>
+    </node>
+    <node id="Lan Zhang">
+      <data key="affiliation"> </data>
+      <data key="research">secrecy channel, covariance matrix, cognitive radio</data>
+    </node>
+    <node id="CHENG BO">
+      <data key="affiliation">Department of Computer Science, Illinois Institute of Technology, USA</data>
+      <data key="research">Telecom Web services communication, hybrid services orchestration, IT service</data>
+    </node>
+    <node id="Shen Xiaoyan">
+      <data key="affiliation">Nan</data>
+      <data key="research">related query, frequent item set, Telecom Web service</data>
+    </node>
+    <node id="Yunhao Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">novel evolutionary algorithm, Community Detection, input data</data>
+    </node>
+    <node id="Guowei Yang">
+      <data key="affiliation">School of Automation Engineering, Qingdao University, Qingdao 266071, China and Laboratory of Artificial Neural Network, Institute of Semiconductors Chinese Academy of Sciences, Beijing 100083, Ch ...</data>
+      <data key="research">associative memory model, associative memory model memory, fault-tolerant field</data>
+    </node>
+    <node id="Xiang-Yang Li">
+      <data key="affiliation">Department of Computer Science, Illinois Institute of Technology</data>
+      <data key="research">candidate channel, computational efficient channel access, current channel</data>
+    </node>
+    <node id="Ye Min">
+      <data key="affiliation">Research &amp; Development Center of Electric Vehicle, Xi'an Jiaotong University, Xi'an, China</data>
+      <data key="research">chaos mutation factor, crossover factor, weighting factor</data>
+    </node>
+    <edge source="Duan Hua" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Duan Hua" target="Chen Junliang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Duan Hua" target="Wang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Duan Hua" target="Zhou Peng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yuan" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yuan" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yuan" target="Shao-Jie Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Yuan" target="Yunhao Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHEN JUN-LIANG" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Deng Na" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Deng Na" target="Chen Junliang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qihe Liu" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qihe Liu" target="Guowei Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Junliang" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Junliang" target="Wang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Junliang" target="Zhou Peng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Junliang" target="Guo Jie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Junliang" target="Shen Xiaoyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Dai" target="Shao-Jie Tang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Dai" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Dai" target="Jianhui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Dai" target="Changping Lv">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guojun Dai" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shao-Jie Tang" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shao-Jie Tang" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shao-Jie Tang" target="Changping Lv">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shao-Jie Tang" target="Yunhao Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shao-Jie Tang" target="Jianhui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changping Lv" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Changping Lv" target="Jianhui Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Zheng" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wang Zheng" target="Zhou Peng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianhui Zhang" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianhui Zhang" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhou Peng" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Guo Jie" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lan Zhang" target="CHENG BO">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lan Zhang" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHENG BO" target="Yunhao Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHENG BO" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHENG BO" target="Ye Min">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHENG BO" target="Guowei Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="CHENG BO" target="Shen Xiaoyan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yunhao Li" target="Xiang-Yang Li">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P132356">
+      <data key="title">multiple object recognition with visual attention</data>
+    </node>
+    <node id="P103689">
+      <data key="title">understanding human motion and gestures for underwater human robot collaboration</data>
+    </node>
+    <node id="P13817">
+      <data key="title">by land air or sea multi domain robot communication via motion</data>
+    </node>
+    <node id="P40391">
+      <data key="title">visual diver recognition for underwater human robot collaboration</data>
+    </node>
+    <node id="P135070">
+      <data key="title">grammar as a foreign language</data>
+    </node>
+    <node id="P69794">
+      <data key="title">batch normalization accelerating deep network training by reducing internal covariate shift</data>
+    </node>
+    <node id="P154342">
+      <data key="title">sequence to sequence learning with neural networks</data>
+    </node>
+    <node id="P442">
+      <data key="title">dynamic reconfiguration of mission parameters in underwater human robot collaboration</data>
+    </node>
+    <node id="P20336">
+      <data key="title">underwater multi robot convoying using visual tracking by detection</data>
+    </node>
+    <node id="P18054">
+      <data key="title">move evaluation in go using deep convolutional neural networks</data>
+    </node>
+    <node id="P127018">
+      <data key="title">massively parallel methods for deep reinforcement learning</data>
+    </node>
+    <node id="P98460">
+      <data key="title">person following by autonomous robots a categorical overview</data>
+    </node>
+    <node id="P113079">
+      <data key="title">robot communication via motion closing the underwater human robot interaction loop</data>
+    </node>
+    <node id="P98786">
+      <data key="title">caffe convolutional architecture for fast feature embedding</data>
+    </node>
+    <node id="P42502">
+      <data key="title">one weird trick for parallelizing convolutional neural networks</data>
+    </node>
+    <node id="P157078">
+      <data key="title">towards a generic diver following algorithm balancing robustness and efficiency in deep visual detection</data>
+    </node>
+    <node id="P108372">
+      <data key="title">machine vision for improved human robot cooperation in adverse underwater conditions</data>
+    </node>
+    <node id="P128362">
+      <data key="title">cudnn efficient primitives for deep learning</data>
+    </node>
+    <node id="P45355">
+      <data key="title">tensorflow large scale machine learning on heterogeneous distributed systems</data>
+    </node>
+    <node id="P101936">
+      <data key="title">automatic differentiation in machine learning a survey</data>
+    </node>
+    <edge source="P132356" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103689" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103689" target="P442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103689" target="P20336">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103689" target="P98460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13817" target="P442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13817" target="P113079">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40391" target="P98460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40391" target="P442">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40391" target="P20336">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135070" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135070" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P108372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P20336">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P98460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P113079">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P157078">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P442" target="P108372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20336" target="P98460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20336" target="P157078">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20336" target="P108372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18054" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127018" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98460" target="P113079">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98460" target="P157078">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98460" target="P108372">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98786" target="P128362">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98786" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42502" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157078" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128362" target="P101936">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128362" target="P45355">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45355" target="P101936">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

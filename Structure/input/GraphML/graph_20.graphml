@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="T. Noguchi">
+      <data key="affiliation">Humanoid Robotics Institute, Waseda University, 341 Okubo Shinjukuku, Tokyo 1698555, Japan</data>
+      <data key="research">Waseda University, Humanoid Robotics Institute, Humanoid Robots</data>
+    </node>
+    <node id="S G. Tzafestas">
+      <data key="affiliation">National Technical, University of Athens, Athens, Greece</data>
+      <data key="research">fuzzy logic, control scheme, fuzzy reasoning</data>
+    </node>
+    <node id="K. Watanabe">
+      <data key="affiliation">Nan</data>
+      <data key="research">control problem, discrete-time optimal control model, optimal control problem</data>
+    </node>
+    <node id="Y. Ishii">
+      <data key="affiliation">Department of Information Systems Science, Faculty of Engineering, Soka University, 1236, Tangicho, Hachioji, Tokyo 1928577, Japan.</data>
+      <data key="research">molten pool, UV radiation, Invisible Laser Beam</data>
+    </node>
+    <node id="Y. Yagi">
+      <data key="affiliation">Nan</data>
+      <data key="research">large field, catadioptric omnidirectional image sensor, image mosaic</data>
+    </node>
+    <node id="S. Fukuyama">
+      <data key="affiliation">Fujitsu Microelectronics Ltd., 1500 Mizono, Tadocho, Kuwana, Mie 5110192, Japan</data>
+      <data key="research">fluorine contamination, barrier metal oxidation, Cu multilevel interconnects</data>
+    </node>
+    <node id="Y. Kubota">
+      <data key="affiliation">Sony Corp., Tokyo</data>
+      <data key="research">consumer digital VCRsA video, consumer use digital VCRs, consumer-use digital VCRWe</data>
+    </node>
+    <node id="Tsu-Tian Lee">
+      <data key="affiliation">Department of Electrical Engineering, Taipei University of Technology, Taipei, Taiwan</data>
+      <data key="research">rule base, Research ArticlesThe consistency, consistency degree</data>
+    </node>
+    <node id="T. Takayama">
+      <data key="affiliation">Engineering Research Center, Toshiba Carrier Co. Ltd., Fujishi, Shizuoka, 4100395, Japan</data>
+      <data key="research">rtler vortex, Surfactant Solution, ppm surfactant solution</data>
+    </node>
+    <node id="A. Ohgai">
+      <data key="affiliation">Nan</data>
+      <data key="research">Green Urbanism, Dhaka City, GU model</data>
+    </node>
+    <node id="T. Suzuki">
+      <data key="affiliation">Nan</data>
+      <data key="research">monolithic ICs, repeater circuit, GaAs ICs</data>
+    </node>
+    <node id="A. Hirabayashi">
+      <data key="affiliation">Nan</data>
+      <data key="research">memorization learning, noisy training example</data>
+    </node>
+    <node id="Y. Yamamoto">
+      <data key="affiliation">National Aerospace Laboratory, Tokyo, JAPAN</data>
+      <data key="research">target performance, NWT Fortran, NAL numerical wind tunnel</data>
+    </node>
+    <node id="N. Azuma">
+      <data key="affiliation">Nan</data>
+      <data key="research">better picture quality, sound quality, Multi-Track PCM Audio Utilizing</data>
+    </node>
+    <node id="T. Ishihara">
+      <data key="affiliation">Nan</data>
+      <data key="research">clock rate, original signal, DFE mode</data>
+    </node>
+    <node id="Y. Iwai">
+      <data key="affiliation">Japan Federation of Medical Device Associations, Tokyo, Japan</data>
+      <data key="research">health indicator, physical health, health counseling</data>
+    </node>
+    <node id="S. Itoh">
+      <data key="affiliation">Shock Wave and Condensed Matter Research Center, Kumamoto University, 2391, Kurokami, Kumamoto, 8608555, Japan. Tel: +81963423299/ FAX: +81963423299/ Email: pdsm@mech.kumamotou.ac.jp</data>
+      <data key="research">stress wave, Numerical Analysis, blasting process</data>
+    </node>
+    <node id="S. Ogata">
+      <data key="affiliation">Graduate School of Engineering, Tokyo Metropolitan University, Hachioojishi, Tokyo, 1920397, Japan</data>
+      <data key="research">rtler vortex, Surfactant Solution, ppm surfactant solution</data>
+    </node>
+    <node id="S. Kameda">
+      <data key="affiliation">Research Institute of Electrical Communication, Tohoku University</data>
+      <data key="research">reuse factor, frequency reuse factor, downlink throughput distribution</data>
+    </node>
+    <node id="I. Keshi">
+      <data key="affiliation">Nan</data>
+      <data key="research">intelligent assistant system, knowledge-based framework</data>
+    </node>
+    <edge source="T. Noguchi" target="K. Watanabe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Noguchi" target="Y. Ishii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Noguchi" target="S. Kameda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Noguchi" target="Y. Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S G. Tzafestas" target="K. Watanabe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Y. Kubota">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="T. Suzuki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Y. Iwai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="S. Fukuyama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="S. Itoh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="S. Ogata">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Tsu-Tian Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="T. Takayama">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="T. Ishihara">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="N. Azuma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Y. Ishii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="I. Keshi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="A. Ohgai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="A. Hirabayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Y. Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="Y. Yagi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Watanabe" target="S. Kameda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Ishii" target="Y. Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Ishii" target="Y. Kubota">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. Yagi" target="Y. Iwai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fukuyama" target="T. Suzuki">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Takayama" target="S. Ogata">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Hirabayashi" target="Y. Yamamoto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="N. Azuma" target="S. Itoh">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

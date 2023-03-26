@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Tan Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">prosodic LID system, LID accuracy, Language IdentificationProsodic feature</data>
+    </node>
+    <node id="P. C. Ching">
+      <data key="affiliation">Department of Electronic Engineering, The Chinese University of Hong Kong</data>
+      <data key="research">speech signal, speaker identification, simulation result</data>
+    </node>
+    <node id="Haizhou Li">
+      <data key="affiliation">Institute for Infocomm Research, Agency for Science Technology and Research, Singapore 138632, Singapore and School of Electrical Engineering and Telecommunications, University of New South Wales, ...</data>
+      <data key="research">Shared Task, experimental result, machine transliteration</data>
+    </node>
+    <node id="Helen M. Meng">
+      <data key="affiliation">Colorado State University, Department of Civil Engineering, Fort Collins, CO 80523, USA</data>
+      <data key="research">speech recognition, dialog system, speech retrieval</data>
+    </node>
+    <node id="Ning Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Interactive System, Idiot Pencil system, computer-aided drawing system</data>
+    </node>
+    <node id="Pedro Gómez-Vilda">
+      <data key="affiliation">Dpt. of Ingeniería de Circuitos y Sistemas, Universidad Politécnica de Madrid, Ctra. Valencia, Km. 7, 28031, Madrid, Spain</data>
+      <data key="research">neurological disease, present paper, pathological voice</data>
+    </node>
+    <node id="Chen Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed scheme, insider attack, standard model</data>
+    </node>
+    <node id="H. S. Lam">
+      <data key="affiliation">Nan</data>
+      <data key="research">shared data, false sharing, cache block</data>
+    </node>
+    <node id="Frank K. Soong">
+      <data key="affiliation">Micorosoft Research Asia, Beijing, P.R.C.</data>
+      <data key="research">experimental result, speech recognition, recognition performance</data>
+    </node>
+    <node id="Cheung-Chi Leung">
+      <data key="affiliation">Nan</data>
+      <data key="research">prosodic LID system, CMLLR Adaptation, language recognition system</data>
+    </node>
+    <node id="Bin Ma">
+      <data key="affiliation">Nan</data>
+      <data key="research">Trust Management, Novel Stereoscopic Security Architecture, WSN security architecture</data>
+    </node>
+    <node id="Nengheng Zheng">
+      <data key="affiliation">Institute of Acoustics, Nanjing University, Nanjing 210093, China</data>
+      <data key="research">LP method, local subspace method, continuous speech</data>
+    </node>
+    <node id="Wai-Kit Lo">
+      <data key="affiliation">ATR Spoken Language, Translation Research Laboratories, Seiikacho, Sorakugun, Kyoto, Japan</data>
+      <data key="research">lexical chain, speech recognition, document retrieval</data>
+    </node>
+    <node id="Feng Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">virtual computing, virtual execution environment, virtual machine</data>
+    </node>
+    <node id="Shan Ouyang">
+      <data key="affiliation">Nat. Key Lab. of Radar Signal Process., Xidian Univ., Xi'an</data>
+      <data key="research">WINC algorithm, proposed algorithm, AMEX algorithm</data>
+    </node>
+    <node id="Y. W. Wong">
+      <data key="affiliation">The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong</data>
+      <data key="research">automatic speech recognition, speech signal, tone information</data>
+    </node>
+    <node id="Yao-Jin Qian">
+      <data key="affiliation">Microsoft Research Asia, Beijing, China</data>
+      <data key="research">tone contour, decent speech quality, mandarin speech</data>
+    </node>
+    <node id="Hua Ouyang">
+      <data key="affiliation">Nan</data>
+      <data key="research">state feedback Lagrange stabilization, pendulum-like system, multiple nonlinearities</data>
+    </node>
+    <node id="Yujia Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">joint learning, loss-sensitive joint learning procedure, complex high level structure</data>
+    </node>
+    <node id="Juan I. Godino-Llorente">
+      <data key="affiliation">ETSI Telecomunicacion, Univ. Politecnica de Madrid, Spain</data>
+      <data key="research">pathological voice, voice quality, healthy voice</data>
+    </node>
+    <edge source="Tan Lee" target="Frank K. Soong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Juan I. Godino-Llorente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Y. W. Wong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="P. C. Ching">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Chen Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Nengheng Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="H. S. Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Pedro Gómez-Vilda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Shan Ouyang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Yao-Jin Qian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Hua Ouyang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Cheung-Chi Leung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Wai-Kit Lo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Feng Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Bin Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Ning Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Helen M. Meng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Haizhou Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tan Lee" target="Yujia Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Nengheng Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Helen M. Meng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Shan Ouyang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="H. S. Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Ning Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Y. W. Wong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. C. Ching" target="Wai-Kit Lo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haizhou Li" target="Bin Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haizhou Li" target="Cheung-Chi Leung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Helen M. Meng" target="Wai-Kit Lo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ning Wang" target="Nengheng Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pedro Gómez-Vilda" target="Juan I. Godino-Llorente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Yang" target="Frank K. Soong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank K. Soong" target="Yao-Jin Qian">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank K. Soong" target="Wai-Kit Lo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Cheung-Chi Leung" target="Bin Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yao-Jin Qian" target="Yujia Li">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P57930">
+      <data key="title">show attend and tell neural image caption generation with visual attention</data>
+    </node>
+    <node id="P23007">
+      <data key="title">deep reinforcement learning for unsupervised video summarization with diversity representativeness reward</data>
+    </node>
+    <node id="P115709">
+      <data key="title">amnet memorability estimation with attention</data>
+    </node>
+    <node id="P109802">
+      <data key="title">feature representation in convolutional neural networks</data>
+    </node>
+    <node id="P115359">
+      <data key="title">neural machine translation by jointly learning to align and translate</data>
+    </node>
+    <node id="P154301">
+      <data key="title">summarizing videos with attention</data>
+    </node>
+    <node id="P147035">
+      <data key="title">orb slam a versatile and accurate monocular slam system</data>
+    </node>
+    <node id="P96886">
+      <data key="title">video summarization with long short term memory</data>
+    </node>
+    <node id="P68087">
+      <data key="title">video summarization with attention based encoder decoder networks</data>
+    </node>
+    <node id="P37909">
+      <data key="title">effective approaches to attention based neural machine translation</data>
+    </node>
+    <node id="P159156">
+      <data key="title">video summarization using deep semantic features</data>
+    </node>
+    <node id="P128575">
+      <data key="title">risas a novel rotation illumination scale invariant appearance and shape feature</data>
+    </node>
+    <node id="P41480">
+      <data key="title">attention is all you need</data>
+    </node>
+    <node id="P317">
+      <data key="title">reflections on shannon information in search of a natural information entropy for images</data>
+    </node>
+    <node id="P22035">
+      <data key="title">going deeper with convolutions</data>
+    </node>
+    <node id="P124702">
+      <data key="title">convolutional sequence to sequence learning</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P137915">
+      <data key="title">a structured self attentive sentence embedding</data>
+    </node>
+    <node id="P33766">
+      <data key="title">keyframe based direct thermal inertial odometry</data>
+    </node>
+    <node id="P64308">
+      <data key="title">vision depth landmarks and inertial fusion for navigation in degraded visual environments</data>
+    </node>
+    <edge source="P57930" target="P68087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P23007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P154301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P37909">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57930" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23007" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23007" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23007" target="P154301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115709" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115709" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115709" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115709" target="P154301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109802" target="P154301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P124702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P154301">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P37909">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P96886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P159156">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P137915">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P124702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P41480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P68087">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P37909">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154301" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147035" target="P64308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96886" target="P22035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P68087" target="P37909">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37909" target="P124702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37909" target="P41480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159156" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128575" target="P64308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41480" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41480" target="P137915">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41480" target="P124702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P317" target="P64308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33766" target="P64308">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

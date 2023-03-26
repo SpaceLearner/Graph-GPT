@@ -1,0 +1,45 @@
+Jos Koetsier	R. Barbera	{'relation': 'collaborate'}
+Jos Koetsier	D. Charles	{'relation': 'collaborate'}
+Jos Koetsier	O. Ajayi	{'relation': 'collaborate'}
+Jos Koetsier	Maurizio Melato	{'relation': 'collaborate'}
+Jos Koetsier	David Chadwick	{'relation': 'collaborate'}
+Jos Koetsier	Ying Han	{'relation': 'collaborate'}
+Jos Koetsier	Livia Torterolo	{'relation': 'collaborate'}
+Jos Koetsier	Colin Fyfe	{'relation': 'collaborate'}
+Jos Koetsier	J. Jiang	{'relation': 'collaborate'}
+Jos Koetsier	Richard O. Sinnott	{'relation': 'collaborate'}
+Jos Koetsier	O. Kohlbacher	{'relation': 'collaborate'}
+Jos Koetsier	M. Bayer	{'relation': 'collaborate'}
+Jos Koetsier	Ivan Porro	{'relation': 'collaborate'}
+Jos Koetsier	Jano van Hemert	{'relation': 'collaborate'}
+Jos Koetsier	D. MacDonald	{'relation': 'collaborate'}
+Jos Koetsier	T. A. Nguyen	{'relation': 'collaborate'}
+Jos Koetsier	Andrew Turner	{'relation': 'collaborate'}
+Jos Koetsier	Oleksandr Otenko	{'relation': 'collaborate'}
+Andrew Turner	Jano van Hemert	{'relation': 'collaborate'}
+Oleksandr Otenko	T. A. Nguyen	{'relation': 'collaborate'}
+Oleksandr Otenko	David Chadwick	{'relation': 'collaborate'}
+Oleksandr Otenko	Richard O. Sinnott	{'relation': 'collaborate'}
+A. Gianoli	R. Barbera	{'relation': 'collaborate'}
+David Chadwick	T. A. Nguyen	{'relation': 'collaborate'}
+David Chadwick	Richard O. Sinnott	{'relation': 'collaborate'}
+Livia Torterolo	Maurizio Melato	{'relation': 'collaborate'}
+Livia Torterolo	R. Barbera	{'relation': 'collaborate'}
+Livia Torterolo	Jano van Hemert	{'relation': 'collaborate'}
+Livia Torterolo	Ivan Porro	{'relation': 'collaborate'}
+Colin Fyfe	D. MacDonald	{'relation': 'collaborate'}
+Colin Fyfe	Ying Han	{'relation': 'collaborate'}
+Colin Fyfe	D. Charles	{'relation': 'collaborate'}
+M. Bayer	Richard O. Sinnott	{'relation': 'collaborate'}
+Jano van Hemert	Maurizio Melato	{'relation': 'collaborate'}
+Jano van Hemert	R. Barbera	{'relation': 'collaborate'}
+Jano van Hemert	O. Kohlbacher	{'relation': 'collaborate'}
+Jano van Hemert	Ivan Porro	{'relation': 'collaborate'}
+D. Charles	D. MacDonald	{'relation': 'collaborate'}
+T. A. Nguyen	Richard O. Sinnott	{'relation': 'collaborate'}
+R. Barbera	Ivan Porro	{'relation': 'collaborate'}
+R. Barbera	Maurizio Melato	{'relation': 'collaborate'}
+Maurizio Melato	Ivan Porro	{'relation': 'collaborate'}
+J. Jiang	Richard O. Sinnott	{'relation': 'collaborate'}
+J. Jiang	O. Ajayi	{'relation': 'collaborate'}
+Richard O. Sinnott	O. Ajayi	{'relation': 'collaborate'}

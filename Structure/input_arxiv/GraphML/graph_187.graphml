@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P147065">
+      <data key="title">the neutrosophic entropy and its five components</data>
+    </node>
+    <node id="P127161">
+      <data key="title">neutrosophic information in the framework of multi valued representation</data>
+    </node>
+    <node id="P74884">
+      <data key="title">a possibility distribution based multi criteria decision algorithm for resilient supplier selection problems</data>
+    </node>
+    <node id="P46751">
+      <data key="title">penta and hexa valued representation of neutrosophic information</data>
+    </node>
+    <node id="P11443">
+      <data key="title">neutrality and many valued logics</data>
+    </node>
+    <node id="P110874">
+      <data key="title">sequent and hypersequent calculi for abelian and lukasiewicz logics</data>
+    </node>
+    <node id="P114196">
+      <data key="title">a real valued modal logic</data>
+    </node>
+    <node id="P235">
+      <data key="title">entropy and syntropy in the context of five valued logics</data>
+    </node>
+    <node id="P47807">
+      <data key="title">a new penta valued logic based knowledge representation</data>
+    </node>
+    <node id="P128489">
+      <data key="title">interval neutrosophic sets and logic theory and applications in computing</data>
+    </node>
+    <node id="P46942">
+      <data key="title">a neutrosophic description logic</data>
+    </node>
+    <node id="P112554">
+      <data key="title">unification of fusion theories rules filters image fusion and target tracking methods uft</data>
+    </node>
+    <edge source="P147065" target="P47807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147065" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127161" target="P47807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127161" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127161" target="P46751">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74884" target="P128489">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46751" target="P47807">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11443" target="P235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11443" target="P128489">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11443" target="P110874">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110874" target="P114196">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128489" target="P112554">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128489" target="P46942">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

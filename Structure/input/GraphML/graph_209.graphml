@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Radha Senthilkumar">
+      <data key="affiliation">Anna University (MIT campus), Chennai, India</data>
+      <data key="research">partial path query, XML database, query language</data>
+    </node>
+    <node id="P. Lakshmi">
+      <data key="affiliation">PEC, India</data>
+      <data key="research">web service, web service discovery, QoS parameter</data>
+    </node>
+    <node id="D. P. Acharjya">
+      <data key="affiliation">School of Computing Sciences, VIT University, Vellore – 632014, Tamilnadu, India.</data>
+      <data key="research">rough set, universal set, multi-granulation rough set</data>
+    </node>
+    <node id="K. Saruladha">
+      <data key="affiliation">Pondicherry Engineering College, Puducherry, India</data>
+      <data key="research">proposed measure, execution time, meeting scheduler</data>
+    </node>
+    <node id="Randall K. Fish">
+      <data key="affiliation">Nan</data>
+      <data key="research">tool wear, multiscale stochastic process, wear level</data>
+    </node>
+    <node id="M. Ostendorf">
+      <data key="affiliation">Vice President, Publications, IEEE SPS,</data>
+      <data key="research">speech recognition, prosodic information, conversational speech</data>
+    </node>
+    <node id="S. Swamynathan">
+      <data key="affiliation">Guindy Campus Anna University, Chennai, India</data>
+      <data key="research">web application, mobile agent, web service</data>
+    </node>
+    <node id="R. M. Schwartz">
+      <data key="affiliation">Telenorma, Bosch Telecom, Frankfurt am Main, Germany</data>
+      <data key="research">continuous speech recognition, HMM system, Recognition system</data>
+    </node>
+    <node id="V. Digalakis">
+      <data key="affiliation">Dept. of Electron. &amp; Comput. Eng., Tech. Univ., Heraklion</data>
+      <data key="research">speech recognition system, High-accuracy large-vocabulary speech recognition, rapid speech recognizer adaptation</data>
+    </node>
+    <node id="T. V. Geetha">
+      <data key="affiliation">Department of Computer Science and Engineering, College of Engineering, Guindy, Chennai, India</data>
+      <data key="research">world knowledge, trust framework, language model</data>
+    </node>
+    <node id="A. Sankar">
+      <data key="affiliation">Nan</data>
+      <data key="research">controlled retransmission, network load, network performance</data>
+    </node>
+    <node id="John R. Barry">
+      <data key="affiliation">California Univ., Berkeley, CA</data>
+      <data key="research">BODF detector, linear detector, Chase detector</data>
+    </node>
+    <node id="William Byrne">
+      <data key="affiliation">Machine Intelligence Laboratory, U.K.</data>
+      <data key="research">hierarchical phrase-based translation, speech-to-speech translation, Chinese-English translation</data>
+    </node>
+    <node id="A. Kannan">
+      <data key="affiliation">Nuance Commun., Menlo Park, CA, USA</data>
+      <data key="research">acoustic model parameter, rapid speech recognizer adaptation, large vocabulary conversational speech</data>
+    </node>
+    <node id="S. Rohini">
+      <data key="affiliation">Nan</data>
+      <data key="research">meeting scheduler, constraint satisfaction problem, common meeting time</data>
+    </node>
+    <node id="G. Aghila">
+      <data key="affiliation">Pondicherry University Puducherry, India</data>
+      <data key="research">proposed measure, domain dependent ontology, input ontology</data>
+    </node>
+    <node id="P. Kumar">
+      <data key="affiliation">Nan</data>
+      <data key="research">adipose tissue, large amount, fatty acid</data>
+    </node>
+    <node id="D. Manjula">
+      <data key="affiliation">Anna University, India</data>
+      <data key="research">bilingual document image, data utility, document image</data>
+    </node>
+    <node id="C. Priya">
+      <data key="affiliation">Department of Electrical and Electronics Engineering, College of Engineering, Anna University, Chennai, TN 600 025, India.</data>
+      <data key="research">genetic network programming, PSO-based PI controller, real time implementation</data>
+    </node>
+    <node id="S. Ganesh">
+      <data key="affiliation">Assistant System Engineer, TCS Nortel Product Test Tata Consultancy Services Ltd, Mumbai, India</data>
+      <data key="research">association metric, higher relevant page, page rank</data>
+    </node>
+    <edge source="Radha Senthilkumar" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Lakshmi" target="C. Priya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. P. Acharjya" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Saruladha" target="C. Priya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Saruladha" target="S. Rohini">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Saruladha" target="G. Aghila">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall K. Fish" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall K. Fish" target="M. Ostendorf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Ostendorf" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Ostendorf" target="V. Digalakis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Ostendorf" target="R. M. Schwartz">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Swamynathan" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Swamynathan" target="T. V. Geetha">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. M. Schwartz" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Digalakis" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Digalakis" target="A. Sankar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Digalakis" target="William Byrne">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. V. Geetha" target="G. Aghila">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. V. Geetha" target="D. Manjula">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. V. Geetha" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sankar" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Sankar" target="William Byrne">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John R. Barry" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Byrne" target="A. Kannan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Kannan" target="P. Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Kannan" target="C. Priya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Rohini" target="C. Priya">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Aghila" target="S. Ganesh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="G. Aghila" target="D. Manjula">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Kumar" target="P. Kumar">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

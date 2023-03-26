@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="David A. Bader">
+      <data key="affiliation">Nan</data>
+      <data key="research">concave quality function, best-effort application, best-effort interactive service</data>
+    </node>
+    <node id="Ying Chen">
+      <data key="affiliation">National University of Singapore</data>
+      <data key="research">x-ray image, Smith-Waterman algorithm, biomedical text retrieval</data>
+    </node>
+    <node id="Lei Wu">
+      <data key="affiliation">Nan</data>
+      <data key="research">line representation, line-context representation, multi-layered representation schema</data>
+    </node>
+    <node id="Sanli Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">approximate solution, NP algorithm, SPMD algorithm</data>
+    </node>
+    <node id="Chen Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Parallel Computing, heterogeneous data resource, scientific data grid software</data>
+    </node>
+    <node id="Yu He">
+      <data key="affiliation">Department of Computer Science, University of Vermont, Burlington, VT 05401, USA</data>
+      <data key="research">gap constraint, frequent pattern mining, frequent subsequence</data>
+    </node>
+    <node id="Xiaoying Wang">
+      <data key="affiliation">School of Mathematics &amp; Physics, North China Electric Power University, Beijing, 102206, PR China and Institute of Applied Mathematics, Academy of Mathematics and Systems Science, Chinese Academy  ...</data>
+      <data key="research">local linear regression, local quadratic regression, local quadratic regressionThis paper</data>
+    </node>
+    <node id="Hui Xie">
+      <data key="affiliation">Nan</data>
+      <data key="research">capillary tube, solar collector, Emulsion Liquid Membrane</data>
+    </node>
+    <node id="Zhihui Du">
+      <data key="affiliation">Nan</data>
+      <data key="research">L2 cache, L2 cache access latency, PMCC algorithm</data>
+    </node>
+    <node id="Man Wang">
+      <data key="affiliation">Department of Applied Mathematics, Northwestern Polytechnical University, Xi'an Shaanxi 710072, China</data>
+      <data key="research">image retrieval system, proposed approach, image retrievalIn image retrieval</data>
+    </node>
+    <node id="Jing Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">interference signal, asynchronous co-channel interference, asynchronous co-channel interference suppression</data>
+    </node>
+    <node id="Gang Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">NNF computation, GPU NNF algorithm, whole Desmond</data>
+    </node>
+    <node id="Marcos Garcia-Acosta">
+      <data key="affiliation">Nan</data>
+      <data key="research">SOC robotics application, SOC-based robotics application, different robotics platform</data>
+    </node>
+    <node id="Shuyou Li">
+      <data key="affiliation">School of Software, Tsinghua University, Beijing 100084, PR China</data>
+      <data key="research">Normalized workflow, classical workflow, Petri net</data>
+    </node>
+    <node id="Weihua Zhu">
+      <data key="affiliation">Tsinghua University, China</data>
+      <data key="research">service composition, peer-to-peer network, complex composite service</data>
+    </node>
+    <node id="Yuxiong He">
+      <data key="affiliation">Nan</data>
+      <data key="research">energy cost, Gre Far, different organization</data>
+    </node>
+    <node id="Yinong Chen">
+      <data key="affiliation">Department of Computer Science, A. V. Williams Building, University of Maryland, College Park, MD 20742 USA</data>
+      <data key="research">temporal correlation hypothesis, cortical map, map alignment</data>
+    </node>
+    <node id="Zhenchun Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Data Dependency, Grid workflow system, application model</data>
+    </node>
+    <node id="Wang Man">
+      <data key="affiliation">Nan</data>
+      <data key="research">concrete application, reasonable application, Learning Curve</data>
+    </node>
+    <node id="Yu Xiao">
+      <data key="affiliation">Nan</data>
+      <data key="research">energy consumption, mapping algorithm, Waterfall Model</data>
+    </node>
+    <edge source="David A. Bader" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David A. Bader" target="Chen Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David A. Bader" target="Yuxiong He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David A. Bader" target="Yu He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David A. Bader" target="Yu Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David A. Bader" target="Man Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ying Chen" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ying Chen" target="Sanli Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ying Chen" target="Gang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lei Wu" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Gang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Xiaoying Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Shuyou Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Jing Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sanli Li" target="Zhenchun Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Xu" target="Yu Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Xu" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Xu" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chen Xu" target="Xiaoying Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu He" target="Yuxiong He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu He" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoying Wang" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoying Wang" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaoying Wang" target="Hui Xie">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Xie" target="Zhihui Du">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Man Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Yu Xiao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Gang Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Shuyou Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Marcos Garcia-Acosta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Zhenchun Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Weihua Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Yuxiong He">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Wang Man">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihui Du" target="Jing Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Wang" target="Weihua Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Man Wang" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Zhu" target="Shuyou Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Marcos Garcia-Acosta" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihua Zhu" target="Yinong Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Lijun Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">immune algorithm, chaotic algorithm, hybrid algorithm</data>
+    </node>
+    <node id="Shu-Chuan Chu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Face Recognition, advanced face recognition method, face recognition method</data>
+    </node>
+    <node id="Jicheng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">raw sepiolite mineral, sepiolite composite water treatment, modified sepiolite</data>
+    </node>
+    <node id="Chunjie Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">codebook training, visual word, Neighborhood Information</data>
+    </node>
+    <node id="Hsiang-Cheh Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">marked image, original image, secret information</data>
+    </node>
+    <node id="Xiaorui Zhu">
+      <data key="affiliation">Harbin Institute of Technology Shenzhen Graduate School, Shenzhen, Guangdong, China</data>
+      <data key="research">ancient tomb, robotic system, archaeological robotic system design</data>
+    </node>
+    <node id="Chun-Sheng Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">arithmetic operation, important arithmetic operation, Efficienthardware implementation</data>
+    </node>
+    <node id="John F. Roddick">
+      <data key="affiliation">Nan</data>
+      <data key="research">Midpoint RelationshipsThe temporal interval, linear temporal sequence, data modeling</data>
+    </node>
+    <node id="Shaowen Yao">
+      <data key="affiliation">Nan</data>
+      <data key="research">community-wide reputation, friend-wide reputation, local reputation</data>
+    </node>
+    <node id="Zhengquan Zeng">
+      <data key="affiliation">Nan</data>
+      <data key="research">Semantic Web, Digital Watermark, elliptic curve cryptography</data>
+    </node>
+    <node id="Bor-Shyh Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">embedded signal processing module, smart house application, physiological signal acquisition module</data>
+    </node>
+    <node id="Muhammad Khurram Khan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Security Technology, International Conferences, International Conference</data>
+    </node>
+    <node id="Hongbin Kong">
+      <data key="affiliation">Nan</data>
+      <data key="research">Semantic Web, inconsistent ontology, OWL-based ontology</data>
+    </node>
+    <node id="Cheng Lu">
+      <data key="affiliation">Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Dongzhimen, Beijing, 100700, China</data>
+      <data key="research">chinese herbal medicine, traditional Chinese medicine, rheumatoid arthritis</data>
+    </node>
+    <node id="Zongbin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">immune algorithm, chaotic algorithm, hybrid algorithm</data>
+    </node>
+    <node id="Jeng-Shyang Pan">
+      <data key="affiliation">Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen Graduate School, Guangdong, China</data>
+      <data key="research">conventional random generator, evolutionary random interval fingerprint, fake random interval</data>
+    </node>
+    <node id="Cong Wang">
+      <data key="affiliation">University of Wisconsin, Madison, WI, USA</data>
+      <data key="research">common case, nonblocking NZSTM algorithm, nonblocking software transactional memory</data>
+    </node>
+    <node id="Wei Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">batch arrival, N queue, queue length distribution</data>
+    </node>
+    <node id="Xiaoyang Yuan">
+      <data key="affiliation">Nan</data>
+      <data key="research">speeding-change process, spectral feature parameter, maximum amplitude error</data>
+    </node>
+    <node id="Gang Xue">
+      <data key="affiliation">Nan</data>
+      <data key="research">inconsistent ontology, Semantic Web, OWL-based ontology</data>
+    </node>
+    <edge source="Lijun Yan" target="Zhengquan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Hongbin Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Muhammad Khurram Khan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="John F. Roddick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Zongbin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Shu-Chuan Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Chun-Sheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Shaowen Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Xiaoyang Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Xiaorui Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Bor-Shyh Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Hsiang-Cheh Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Cong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lijun Yan" target="Jicheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Chuan Chu" target="Muhammad Khurram Khan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Chuan Chu" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Chuan Chu" target="John F. Roddick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Chuan Chu" target="Hsiang-Cheh Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shu-Chuan Chu" target="Cong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jicheng Yang" target="Hongbin Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jicheng Yang" target="Shaowen Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jicheng Yang" target="Zhengquan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunjie Zhang" target="Zhengquan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunjie Zhang" target="Hongbin Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunjie Zhang" target="Shaowen Yao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunjie Zhang" target="Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Chun-Sheng Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hsiang-Cheh Huang" target="John F. Roddick">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Xiaorui Zhu" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Sheng Yang" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chun-Sheng Yang" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John F. Roddick" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaowen Yao" target="Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaowen Yao" target="Zhengquan Zeng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaowen Yao" target="Gang Xue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shaowen Yao" target="Hongbin Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhengquan Zeng" target="Hongbin Kong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhengquan Zeng" target="Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bor-Shyh Lin" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Muhammad Khurram Khan" target="Jeng-Shyang Pan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongbin Kong" target="Gang Xue">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongbin Kong" target="Cheng Lu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zongbin Li" target="Xiaoyang Yuan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Wei Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeng-Shyang Pan" target="Cong Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

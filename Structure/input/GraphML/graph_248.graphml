@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Simon Perathoner">
+      <data key="affiliation">Swiss Federal Institute of Technology (ETH), Zurich, Switzerland</data>
+      <data key="research">Real-Time Calculus, embedded system, parametric feasibility analysis</data>
+    </node>
+    <node id="X. Hu">
+      <data key="affiliation">Dept. of Electr. Eng., Sydney Univ., NSW</data>
+      <data key="research">polynomial array, 2-D filter stabilitytestA polynomial, complex polynomial F</data>
+    </node>
+    <node id="Martin Seitz">
+      <data key="affiliation">Marquette University</data>
+      <data key="research">archetype sentinel, FCM method, meaningful information</data>
+    </node>
+    <node id="Sven Heithecker">
+      <data key="affiliation">Technical University of Braunschweig, Braunschweig, Germany</data>
+      <data key="research">data rate, software architecture, real-time processing</data>
+    </node>
+    <node id="Jan Reineke">
+      <data key="affiliation">University of California, Berkeley, Berkeley, CA</data>
+      <data key="research">execution time, static timing analysis, timing analysis</data>
+    </node>
+    <node id="K. Richter">
+      <data key="affiliation">TU Braunschweig</data>
+      <data key="research">embedded system, heterogeneous embedded system, timing analysis</data>
+    </node>
+    <node id="Michael Kauschke">
+      <data key="affiliation">Nan</data>
+      <data key="research">closed form solution, serial link manipulator</data>
+    </node>
+    <node id="Christian Haubelt">
+      <data key="affiliation">Department of Computer Science, University of ErlangenNuremberg, Erlangen, Germany</data>
+      <data key="research">static module selection, placement flow, Module Selection</data>
+    </node>
+    <node id="Amilcar do Carmo Lucas">
+      <data key="affiliation">Institute of Computer and Communication Network Engineering Technical University Braunschweig, Germany</data>
+      <data key="research">data rate, software architecture, real-time processing</data>
+    </node>
+    <node id="Michael Hubner">
+      <data key="affiliation">RuhrUniversity of Bochum, Germany</data>
+      <data key="research">hardware resource, experimental result, virtual FPGA</data>
+    </node>
+    <node id="Ulrich Heinkel">
+      <data key="affiliation">Chemnitz University of Technology, Germany</data>
+      <data key="research">VHDL Reference, beacon-enabled mode, high level design</data>
+    </node>
+    <node id="Matthias Kuhnle">
+      <data key="affiliation">Karlsruhe Institute of Technology (KIT), Karlsruhe</data>
+      <data key="research">single SystemC model, power consumption, complete design framework</data>
+    </node>
+    <node id="Dimitrios Kritharidis">
+      <data key="affiliation">Intracom Telecom Solutions S.A.</data>
+      <data key="research">High Performance, power consumption, chip design</data>
+    </node>
+    <node id="Wolfram Putzke-Röming">
+      <data key="affiliation">Deutsche THOMSON OHG, Hannover, Germany</data>
+      <data key="research">application space exploration, signal processing application, energy efficiency</data>
+    </node>
+    <node id="Rolf Ernst">
+      <data key="affiliation">Nan</data>
+      <data key="research">WCET-analysis tool, academic approach, WCET-analysis approach</data>
+    </node>
+    <node id="Rudiger Kapitza">
+      <data key="affiliation">TU Braunschweig</data>
+      <data key="research">novel approach, Java application, complex system</data>
+    </node>
+    <node id="Akihito Iwai">
+      <data key="affiliation">Denso, Kariyashi, Japan</data>
+      <data key="research">automotive company, next generation, embedded systemsAutomotive embedded system</data>
+    </node>
+    <node id="Gerhard Wischermann">
+      <data key="affiliation">Grass Valley Germany GmbH, Thomson group</data>
+      <data key="research">software architecture, DDR-SDRAM frame memory bandwidth, bidirectional motion estimation</data>
+    </node>
+    <node id="Sophie Quinton">
+      <data key="affiliation">Institute of Computer and Network Engineering, TU Braunschweig, Braunschweig, Germany 38106</data>
+      <data key="research">sensitivity analysis, global constraint, knowledge property</data>
+    </node>
+    <node id="Simon Künzli">
+      <data key="affiliation">FH Nordwestschweiz, Windisch, Switzerland</data>
+      <data key="research">network processor, design space exploration, network processor architecture</data>
+    </node>
+    <edge source="Simon Perathoner" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. Hu" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Martin Seitz" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Heithecker" target="Amilcar do Carmo Lucas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Heithecker" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sven Heithecker" target="Gerhard Wischermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jan Reineke" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Richter" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Richter" target="Christian Haubelt">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Kauschke" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christian Haubelt" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amilcar do Carmo Lucas" target="Gerhard Wischermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Amilcar do Carmo Lucas" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Hubner" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Hubner" target="Matthias Kuhnle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Hubner" target="Ulrich Heinkel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Hubner" target="Dimitrios Kritharidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Hubner" target="Wolfram Putzke-Röming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ulrich Heinkel" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ulrich Heinkel" target="Matthias Kuhnle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ulrich Heinkel" target="Wolfram Putzke-Röming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ulrich Heinkel" target="Dimitrios Kritharidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matthias Kuhnle" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matthias Kuhnle" target="Wolfram Putzke-Röming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matthias Kuhnle" target="Dimitrios Kritharidis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dimitrios Kritharidis" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dimitrios Kritharidis" target="Wolfram Putzke-Röming">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wolfram Putzke-Röming" target="Rolf Ernst">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rolf Ernst" target="Rudiger Kapitza">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rolf Ernst" target="Gerhard Wischermann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rolf Ernst" target="Simon Künzli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rolf Ernst" target="Sophie Quinton">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rolf Ernst" target="Akihito Iwai">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P100927">
+      <data key="title">on subexponential parameterized algorithms for steiner tree and directed subset tsp on planar graphs</data>
+    </node>
+    <node id="P99611">
+      <data key="title">on problems equivalent to min convolution</data>
+    </node>
+    <node id="P43947">
+      <data key="title">exponential time complexity of the permanent and the tutte polynomial</data>
+    </node>
+    <node id="P92">
+      <data key="title">approximating the diameter of a graph</data>
+    </node>
+    <node id="P10582">
+      <data key="title">faster algorithms to enumerate hypergraph transversals</data>
+    </node>
+    <node id="P92738">
+      <data key="title">on the equivalence among problems of bounded width</data>
+    </node>
+    <node id="P30896">
+      <data key="title">temporal vertex cover with a sliding time window</data>
+    </node>
+    <node id="P94462">
+      <data key="title">fine grained complexity of safety verification</data>
+    </node>
+    <node id="P106103">
+      <data key="title">on problems as hard as cnf sat</data>
+    </node>
+    <node id="P147183">
+      <data key="title">block interpolation a framework for tight exponential time counting complexity</data>
+    </node>
+    <node id="P55910">
+      <data key="title">the graph motif problem parameterized by the structure of the input graph</data>
+    </node>
+    <node id="P44323">
+      <data key="title">which np hard sat and csp problems admit exponentially improved algorithms</data>
+    </node>
+    <node id="P130966">
+      <data key="title">approximation and fixed parameter subquadratic algorithms for radius and diameter</data>
+    </node>
+    <node id="P117388">
+      <data key="title">solving connectivity problems parameterized by treewidth in single exponential time</data>
+    </node>
+    <node id="P72056">
+      <data key="title">conditional lower bound for subgraph isomorphism with a tree pattern</data>
+    </node>
+    <node id="P95659">
+      <data key="title">on the quantitative hardness of cvp</data>
+    </node>
+    <node id="P57638">
+      <data key="title">slightly superexponential parameterized problems</data>
+    </node>
+    <node id="P129634">
+      <data key="title">known algorithms for edge clique cover are probably optimal</data>
+    </node>
+    <node id="P29490">
+      <data key="title">on treewidth and stable marriage</data>
+    </node>
+    <node id="P103566">
+      <data key="title">distributed pcp theorems for hardness of approximation in p</data>
+    </node>
+    <edge source="P100927" target="P129634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100927" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100927" target="P57638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99611" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43947" target="P147183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43947" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10582" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92738" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92738" target="P117388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30896" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94462" target="P106103">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P94462" target="P57638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P129634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P130966">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P55910">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P147183">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P57638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P117388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P95659">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P103566">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P29490">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P72056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106103" target="P44323">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55910" target="P129634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55910" target="P57638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117388" target="P129634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117388" target="P57638">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57638" target="P129634">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

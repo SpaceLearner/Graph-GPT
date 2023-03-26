@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P148543">
+      <data key="title">fast and accurate deep network learning by exponential linear units elus</data>
+    </node>
+    <node id="P166736">
+      <data key="title">learning deep face representation</data>
+    </node>
+    <node id="P92746">
+      <data key="title">training convolutional networks with noisy labels</data>
+    </node>
+    <node id="P111171">
+      <data key="title">scalable high quality object detection</data>
+    </node>
+    <node id="P51364">
+      <data key="title">speech recognition with deep recurrent neural networks</data>
+    </node>
+    <node id="P2896">
+      <data key="title">neural aggregation network for video face recognition</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P164158">
+      <data key="title">empirical evaluation of rectified activations in convolutional network</data>
+    </node>
+    <node id="P14635">
+      <data key="title">noise tolerance under risk minimization</data>
+    </node>
+    <node id="P54110">
+      <data key="title">attention set based metric learning for video face recognition</data>
+    </node>
+    <node id="P321">
+      <data key="title">recurrent regression for face recognition</data>
+    </node>
+    <node id="P73035">
+      <data key="title">network in network</data>
+    </node>
+    <node id="P165700">
+      <data key="title">umdfaces an annotated face dataset for training deep networks</data>
+    </node>
+    <node id="P119322">
+      <data key="title">wide residual networks</data>
+    </node>
+    <node id="P160327">
+      <data key="title">training deep neural networks on noisy labels with bootstrapping</data>
+    </node>
+    <node id="P14550">
+      <data key="title">targeting ultimate accuracy face recognition via deep embedding</data>
+    </node>
+    <node id="P7892">
+      <data key="title">a lightened cnn for deep face representation</data>
+    </node>
+    <node id="P69172">
+      <data key="title">facenet a unified embedding for face recognition and clustering</data>
+    </node>
+    <node id="P82099">
+      <data key="title">learning face representation from scratch</data>
+    </node>
+    <node id="P91524">
+      <data key="title">the megaface benchmark 1 million faces for recognition at scale</data>
+    </node>
+    <edge source="P148543" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P119322">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166736" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92746" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92746" target="P160327">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92746" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111171" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111171" target="P160327">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111171" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51364" target="P321">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2896" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2896" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2896" target="P54110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P82099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P119322">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164158" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164158" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14635" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54110" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54110" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54110" target="P321">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P321" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165700" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165700" target="P82099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165700" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165700" target="P91524">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P119322" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160327" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14550" target="P82099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14550" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14550" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7892" target="P82099">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7892" target="P69172">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7892" target="P91524">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69172" target="P91524">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82099" target="P91524">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

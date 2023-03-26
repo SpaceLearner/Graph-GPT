@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P162757">
+      <data key="title">behavioural types for memory and method safety in a core object oriented language</data>
+    </node>
+    <node id="P56038">
+      <data key="title">behavioural types for non uniform memory accesses</data>
+    </node>
+    <node id="P108665">
+      <data key="title">compositional reasoning for explicit resource management in channel based concurrency</data>
+    </node>
+    <node id="P39146">
+      <data key="title">safely abstracting memory layouts</data>
+    </node>
+    <node id="P38398">
+      <data key="title">generating a generic fluent api in java</data>
+    </node>
+    <node id="P5208">
+      <data key="title">modular session types for objects</data>
+    </node>
+    <node id="P84475">
+      <data key="title">undecidability of d_ and its decidable fragments</data>
+    </node>
+    <node id="P61595">
+      <data key="title">towards taming java wildcards and extending java with interval types</data>
+    </node>
+    <node id="P168186">
+      <data key="title">hitting the memory wall implications of the obvious</data>
+    </node>
+    <node id="P163278">
+      <data key="title">a calculus for modeling floating authorizations</data>
+    </node>
+    <node id="P165114">
+      <data key="title">java generics are turing complete</data>
+    </node>
+    <node id="P13223">
+      <data key="title">induction by coinduction and control operators in call by name</data>
+    </node>
+    <node id="P59931">
+      <data key="title">resource usage analysis for the pi calculus</data>
+    </node>
+    <node id="P115">
+      <data key="title">channels as objects in concurrent object oriented programming</data>
+    </node>
+    <node id="P10512">
+      <data key="title">predicting global usages of resources endowed with local policies</data>
+    </node>
+    <edge source="P162757" target="P5208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162757" target="P115">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162757" target="P39146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162757" target="P165114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P56038" target="P39146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108665" target="P59931">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39146" target="P168186">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38398" target="P165114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5208" target="P115">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5208" target="P59931">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84475" target="P165114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P61595" target="P165114">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163278" target="P59931">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13223" target="P59931">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59931" target="P10512">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

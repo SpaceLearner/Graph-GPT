@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Branislav Bosansky">
+      <data key="affiliation">Dept. of Cybernetics, Czech Technical University in Prague, Prague, Czech Republic</data>
+      <data key="research">restricted game, Double-oracle algorithm, exact nash equilibrium</data>
+    </node>
+    <node id="Gary M. Shute">
+      <data key="affiliation">Department of Computer Science, University of MinnesotaDuluth, Duluth, USA 55812</data>
+      <data key="research">computer science, abstraction objective, information hiding</data>
+    </node>
+    <node id="Jiri Isa">
+      <data key="affiliation">Department of Theoretical Computer Science Faculty of Mathematics and Physics, Charles University in Prague, Prague, Czech Republic</data>
+      <data key="research">Cost-sensitive classification, Unconstrained Influence Diagrams, GS-DAG approach</data>
+    </node>
+    <node id="William Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">granular computing, unified granular computing methodology, classical rough set theory</data>
+    </node>
+    <node id="Michal Pechoucek">
+      <data key="affiliation">Gerstner Lab., Czech Tech. Univ., Prague</data>
+      <data key="research">Double-oracle algorithm, entity recognition algorithm, proposed algorithm</data>
+    </node>
+    <node id="Josef Pieprzyk">
+      <data key="affiliation">Macquarie University, Australia</data>
+      <data key="research">information security, Australasian Information Security Conference, k mins problem</data>
+    </node>
+    <node id="Pavol Duris">
+      <data key="affiliation">Comenius University, Department of Computer Science, Mlynska dolina 1, 84215 Bratislava, Slovakia</data>
+      <data key="research">lower bound, infinite word, open problem</data>
+    </node>
+    <node id="Ram Somaraju">
+      <data key="affiliation">School of Information Technology and Electrical Engineering, University of New South Wales, Australian Defence Force Academy, Canberra, ACT</data>
+      <data key="research">communication channel, compact operator, essential dimension</data>
+    </node>
+    <node id="Christopher Kiekintveld">
+      <data key="affiliation">Department of Computer Science, University of Texas at El Paso, El Paso, TX</data>
+      <data key="research">security game, security activity, security domain</data>
+    </node>
+    <node id="Ondrej Sykora">
+      <data key="affiliation">Nan</data>
+      <data key="research">Communication Complexity, Computer Science, International Colloquium</data>
+    </node>
+    <node id="Mario Schkolnick">
+      <data key="affiliation">SGI</data>
+      <data key="research">System R, System RSystem R, data base</data>
+    </node>
+    <node id="C. Kaklamanis">
+      <data key="affiliation">Computer Technology Institute and Press</data>
+      <data key="research">greedy algorithm, approximation algorithm, call control problem</data>
+    </node>
+    <node id="Imrich Vrto">
+      <data key="affiliation">Slovak Academy of Sciences, Bratislava, Czechoslovakia</data>
+      <data key="research">time step, log n, minimum broadcasting time</data>
+    </node>
+    <node id="Jiri Cermak">
+      <data key="affiliation">Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Rep</data>
+      <data key="research">restricted game, two-player zero-sum extensive-form game, Double-oracle algorithm</data>
+    </node>
+    <node id="Viliam Lisy">
+      <data key="affiliation">Faculty of Electrical Engineering, Czech Technical University in Prague, Prague, Czech Rep</data>
+      <data key="research">Double-oracle algorithm, restricted game, exact nash equilibrium</data>
+    </node>
+    <node id="Jianmin Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">model checking, abstract counter example, abstract reachable state space</data>
+    </node>
+    <node id="Carlo H. Séquin">
+      <data key="affiliation">Computer Science Division, University of California</data>
+      <data key="research">computer graphics, aesthetic design, design process</data>
+    </node>
+    <node id="D. Lioupis">
+      <data key="affiliation">University of Patras, Greece</data>
+      <data key="research">software peripherals, Precise Control, serial memory</data>
+    </node>
+    <node id="Clark D. Thompson">
+      <data key="affiliation">Department of Computer Science, CarnegieMellon University, Pittsburgh, PA</data>
+      <data key="research">software watermarking, software protection, software development</data>
+    </node>
+    <node id="B. W.-Y. Wei">
+      <data key="affiliation">Department of Electrical Engineering, San Jose State University, 1 Washington Square, San Jose, California</data>
+      <data key="research">Systolic implementation, higher bandwidth, Huffman code</data>
+    </node>
+    <edge source="Branislav Bosansky" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Branislav Bosansky" target="Michal Pechoucek">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Branislav Bosansky" target="Christopher Kiekintveld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Branislav Bosansky" target="Jiri Cermak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gary M. Shute" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiri Isa" target="Ondrej Sykora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiri Isa" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Zhu" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Pechoucek" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Pechoucek" target="Jiri Cermak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michal Pechoucek" target="Christopher Kiekintveld">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josef Pieprzyk" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pavol Duris" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pavol Duris" target="Imrich Vrto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pavol Duris" target="Ondrej Sykora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ram Somaraju" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Kiekintveld" target="Jiri Cermak">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Christopher Kiekintveld" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ondrej Sykora" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ondrej Sykora" target="Imrich Vrto">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ondrej Sykora" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mario Schkolnick" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Kaklamanis" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Imrich Vrto" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiri Cermak" target="Viliam Lisy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianmin Wang" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlo H. Séquin" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Carlo H. Séquin" target="D. Lioupis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Lioupis" target="Clark D. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clark D. Thompson" target="B. W.-Y. Wei">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

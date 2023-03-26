@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jenny Newton">
+      <data key="affiliation">Nan</data>
+      <data key="research">Case Study, Future Maintainability, software maintenance</data>
+    </node>
+    <node id="Frank Niessink">
+      <data key="affiliation">Software Engineering Research Centre</data>
+      <data key="research">measurement program, measurement capability, software maintenance</data>
+    </node>
+    <node id="Z. Liang">
+      <data key="affiliation">Southern Illinois University, Carbondale, IL</data>
+      <data key="research">recovery algorithm, maximum consistent state, unnecessary comparison</data>
+    </node>
+    <node id="Dr Zheng Lu">
+      <data key="affiliation">Department of Computer Science, Louisiana State University</data>
+      <data key="research">MATLAB model, MATLAB code, MATLAB modelsMATLAB</data>
+    </node>
+    <node id="Elisa Bertino">
+      <data key="affiliation">Purdue University, West Lafayette</data>
+      <data key="research">keyword frequency, Abelian group homomorphic encryption, homomorphic encryption</data>
+    </node>
+    <node id="Fang-Yie Leu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Directed Massive Graph, Small World Model</data>
+    </node>
+    <node id="Hongji Yang">
+      <data key="affiliation">Nan</data>
+      <data key="research">software requirement, context-aware requirement, context-aware service evolution</data>
+    </node>
+    <node id="William Cheng-Chung Chu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Computing Systems, Guest Editorial, Special Section</data>
+    </node>
+    <node id="Sen-Tarng Lai">
+      <data key="affiliation">Nan</data>
+      <data key="research">software metrics, metric combination, conflict situation</data>
+    </node>
+    <node id="Wei Huang">
+      <data key="affiliation">Rensselaer Polytechnic Institute</data>
+      <data key="research">type system, reference immutability, ownership type system</data>
+    </node>
+    <node id="Shang Zheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">software evolution, software architecture style, software function</data>
+    </node>
+    <node id="Ya-Ting Hsu">
+      <data key="affiliation">University of Texas Health Science Center, San Antonio, TX</data>
+      <data key="research">cancer recurrence, tumor recurrence, DNA methylation</data>
+    </node>
+    <node id="Ching-Tsorng Tsai">
+      <data key="affiliation">Nan</data>
+      <data key="research">software evolution, software architecture style, software function</data>
+    </node>
+    <node id="Baowen Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">average speed, best result, 3-qubit reversible logic circuit</data>
+    </node>
+    <node id="Feng Chen">
+      <data key="affiliation">College of Chemical Engineering and Materials Science, Zhejiang University of Technology, Hangzhou, China</data>
+      <data key="research">methyl methacrylate, PMMA-based GPE, comprehensive property</data>
+    </node>
+    <node id="Yi-Li Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">DES key, encryption process, secure encryption method</data>
+    </node>
+    <node id="Lin Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">causal relationship, large databases, causal rule</data>
+    </node>
+    <node id="Jianzhi Li">
+      <data key="affiliation">Manufacturing Engineering Department, The University of Texas  Pan American, Edinburg, TX 78539, USA</data>
+      <data key="research">fuzzy graph, sensor deployment, case study</data>
+    </node>
+    <node id="Jung-Chun Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">network entity, Pseudo random number generator, mobile device</data>
+    </node>
+    <node id="Mohammed Alawairdhi">
+      <data key="affiliation">Strategic Planning Dept., Computer &amp; Information Sciences College, Computer Center, Saudi Food &amp; Drug Authority, AlImam Muhammad Ibn Saud University, University of Jordan, Saudi Arabia, J ...</data>
+      <data key="research">Saudi Arabia, IT project, project manager</data>
+    </node>
+    <edge source="Jenny Newton" target="Hongji Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Frank Niessink" target="Hongji Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Liang" target="Hongji Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dr Zheng Lu" target="Hongji Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Elisa Bertino" target="William Cheng-Chung Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang-Yie Leu" target="Yi-Li Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang-Yie Leu" target="Ya-Ting Hsu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang-Yie Leu" target="William Cheng-Chung Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang-Yie Leu" target="Jung-Chun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Fang-Yie Leu" target="Sen-Tarng Lai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Wei Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Jianzhi Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Feng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Lin Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="William Cheng-Chung Chu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Mohammed Alawairdhi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Baowen Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Shang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Hongji Yang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hongji Yang" target="Ching-Tsorng Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Shang Zheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Jung-Chun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Ching-Tsorng Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Yi-Li Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Baowen Xu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Sen-Tarng Lai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Ya-Ting Hsu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="William Cheng-Chung Chu" target="Feng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shang Zheng" target="Ching-Tsorng Tsai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ya-Ting Hsu" target="Yi-Li Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ya-Ting Hsu" target="Jung-Chun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Baowen Xu" target="Feng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng Chen" target="Feng Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Feng Chen" target="Jianzhi Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yi-Li Huang" target="Jung-Chun Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

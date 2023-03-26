@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P138540">
+      <data key="title">order invariance of two variable logic is decidable</data>
+    </node>
+    <node id="P259">
+      <data key="title">satisfiability for two variable logic with two successor relations on finite linear orders</data>
+    </node>
+    <node id="P142421">
+      <data key="title">monodic temporal resolution</data>
+    </node>
+    <node id="P31405">
+      <data key="title">safety alternating automata on data words</data>
+    </node>
+    <node id="P83350">
+      <data key="title">automata for two variable logic over trees with ordered data values</data>
+    </node>
+    <node id="P86139">
+      <data key="title">interval temporal logics over strongly discrete linear orders the complete picture</data>
+    </node>
+    <node id="P142497">
+      <data key="title">finite satisfiability of the two variable guarded fragment with transitive guards and related variants</data>
+    </node>
+    <node id="P145263">
+      <data key="title">ltl with the freeze quantifier and register automata</data>
+    </node>
+    <node id="P123727">
+      <data key="title">synthesis of data word transducers</data>
+    </node>
+    <node id="P82432">
+      <data key="title">finite model reasoning in expressive fragments of first order logic</data>
+    </node>
+    <node id="P2537">
+      <data key="title">pebble intervals automata and fo2 with two orders extended version</data>
+    </node>
+    <node id="P108880">
+      <data key="title">two variable logic with two order relations</data>
+    </node>
+    <node id="P142550">
+      <data key="title">the complexity of clausal fragments of ltl</data>
+    </node>
+    <node id="P111369">
+      <data key="title">undecidable propositional bimodal logics and one variable first order linear temporal logics with counting</data>
+    </node>
+    <node id="P79757">
+      <data key="title">horn fragments of the halpern shoham interval temporal logic</data>
+    </node>
+    <node id="P145634">
+      <data key="title">logics with rigidly guarded data tests</data>
+    </node>
+    <node id="P165713">
+      <data key="title">decidable logics for transductions and data words</data>
+    </node>
+    <node id="P51351">
+      <data key="title">logics for word transductions with synthesis</data>
+    </node>
+    <node id="P109465">
+      <data key="title">ordered navigation on multi attributed data words</data>
+    </node>
+    <node id="P82233">
+      <data key="title">an extension of data automata that captures xpath</data>
+    </node>
+    <edge source="P138540" target="P142497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138540" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P259" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142421" target="P111369">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142421" target="P79757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31405" target="P83350">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31405" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83350" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86139" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86139" target="P79757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142497" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P82233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P123727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P109465">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123727" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123727" target="P51351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82432" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2537" target="P108880">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108880" target="P145634">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108880" target="P79757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108880" target="P165713">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108880" target="P51351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108880" target="P109465">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142550" target="P79757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111369" target="P79757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145634" target="P82233">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

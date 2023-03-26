@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P142379">
+      <data key="title">not not bad is not bad a distributional account of negation</data>
+    </node>
+    <node id="P67381">
+      <data key="title">exploiting deep learning for persian sentiment analysis</data>
+    </node>
+    <node id="P141580">
+      <data key="title">multilingual distributed representations without word alignment</data>
+    </node>
+    <node id="P34709">
+      <data key="title">a proposal for linguistic similarity datasets based on commonality lists</data>
+    </node>
+    <node id="P115267">
+      <data key="title">extraction of salient sentences from labelled documents</data>
+    </node>
+    <node id="P112474">
+      <data key="title">recurrent convolutional neural networks for discourse compositionality</data>
+    </node>
+    <node id="P99606">
+      <data key="title">symbolic distributed and distributional representations for natural language processing in the era of deep learning a survey</data>
+    </node>
+    <node id="P81163">
+      <data key="title">named entity recognition with stack residual lstm and trainable bias decoding</data>
+    </node>
+    <node id="P82351">
+      <data key="title">a latent variable recurrent neural network for discourse relation language models</data>
+    </node>
+    <node id="P70487">
+      <data key="title">modelling visualising and summarising documents with a single convolutional neural network</data>
+    </node>
+    <node id="P127371">
+      <data key="title">basic tasks of sentiment analysis</data>
+    </node>
+    <node id="P234">
+      <data key="title">cutting recursive autoencoder trees</data>
+    </node>
+    <node id="P31399">
+      <data key="title">seeing stars exploiting class relationships for sentiment categorization with respect to rating scales</data>
+    </node>
+    <node id="P6146">
+      <data key="title">natural language processing almost from scratch</data>
+    </node>
+    <node id="P108538">
+      <data key="title">from frequency to meaning vector space models of semantics</data>
+    </node>
+    <node id="P43959">
+      <data key="title">compositional operators in distributional semantics</data>
+    </node>
+    <node id="P13150">
+      <data key="title">distributed representations for compositional semantics</data>
+    </node>
+    <node id="P48193">
+      <data key="title">joint modeling of content and discourse relations in dialogues</data>
+    </node>
+    <node id="P86288">
+      <data key="title">compositional sentence representation from character within large context text</data>
+    </node>
+    <node id="P12561">
+      <data key="title">concrete sentence spaces for compositional distributional models of meaning</data>
+    </node>
+    <edge source="P142379" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142379" target="P234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67381" target="P234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34709" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115267" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115267" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P234">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P12561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P43959">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P70487">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P82351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P86288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P99606">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P48193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P81163">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P127371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99606" target="P108538">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82351" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82351" target="P48193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70487" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127371" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31399" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6146" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

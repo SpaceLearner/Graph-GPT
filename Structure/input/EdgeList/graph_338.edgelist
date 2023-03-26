@@ -1,0 +1,42 @@
+J. Meyer	R. Brennecke	{'relation': 'collaborate'}
+J. Meyer	D. Jung	{'relation': 'collaborate'}
+J. Hauser	S. M. Bedair	{'relation': 'collaborate'}
+J. Hauser	B. T. McDermott	{'relation': 'collaborate'}
+J. Hauser	U. K. Mishra	{'relation': 'collaborate'}
+J F Muth	Y. Chang	{'relation': 'collaborate'}
+J F Muth	U. K. Mishra	{'relation': 'collaborate'}
+J F Muth	R. M. Kolbas	{'relation': 'collaborate'}
+J F Muth	S. M. Bedair	{'relation': 'collaborate'}
+R. Brennecke	D. Jung	{'relation': 'collaborate'}
+B. T. McDermott	S. M. Bedair	{'relation': 'collaborate'}
+B. T. McDermott	U. K. Mishra	{'relation': 'collaborate'}
+R. M. Kolbas	Y. Chang	{'relation': 'collaborate'}
+R. M. Kolbas	U. K. Mishra	{'relation': 'collaborate'}
+R. M. Kolbas	S. M. Bedair	{'relation': 'collaborate'}
+H. Klar	D. Jung	{'relation': 'collaborate'}
+H. Klar	N. Mehrtash	{'relation': 'collaborate'}
+J. Washburn	M. Benamara	{'relation': 'collaborate'}
+J. Washburn	John C. Roberts	{'relation': 'collaborate'}
+J. Washburn	S. M. Bedair	{'relation': 'collaborate'}
+John C. Roberts	M. Benamara	{'relation': 'collaborate'}
+John C. Roberts	S. M. Bedair	{'relation': 'collaborate'}
+John C. Roberts	N. A. El-Masry	{'relation': 'collaborate'}
+Y. He	N. A. El-Masry	{'relation': 'collaborate'}
+Y. He	S. M. Bedair	{'relation': 'collaborate'}
+D. Jung	N. Mehrtash	{'relation': 'collaborate'}
+D. Jung	S. M. Bedair	{'relation': 'collaborate'}
+D. Jung	N. A. El-Masry	{'relation': 'collaborate'}
+D. Jung	M. Leonard	{'relation': 'collaborate'}
+S. M. Bedair	S. Nakamura	{'relation': 'collaborate'}
+S. M. Bedair	M. Leonard	{'relation': 'collaborate'}
+S. M. Bedair	U. K. Mishra	{'relation': 'collaborate'}
+S. M. Bedair	Y. Chang	{'relation': 'collaborate'}
+S. M. Bedair	N. A. El-Masry	{'relation': 'collaborate'}
+S. M. Bedair	M. Benamara	{'relation': 'collaborate'}
+S. M. Bedair	Jyh-Rong Gong	{'relation': 'collaborate'}
+S. Nakamura	N. A. El-Masry	{'relation': 'collaborate'}
+S. Nakamura	Jyh-Rong Gong	{'relation': 'collaborate'}
+S. Nakamura	M. Leonard	{'relation': 'collaborate'}
+Jyh-Rong Gong	N. A. El-Masry	{'relation': 'collaborate'}
+Jyh-Rong Gong	M. Leonard	{'relation': 'collaborate'}
+N. A. El-Masry	M. Leonard	{'relation': 'collaborate'}

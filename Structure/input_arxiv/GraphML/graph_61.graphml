@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P79558">
+      <data key="title">grid long short term memory</data>
+    </node>
+    <node id="P29128">
+      <data key="title">unifying visual semantic embeddings with multimodal neural language models</data>
+    </node>
+    <node id="P115359">
+      <data key="title">neural machine translation by jointly learning to align and translate</data>
+    </node>
+    <node id="P107199">
+      <data key="title">the nlp engine a universal turing machine for nlp</data>
+    </node>
+    <node id="P154342">
+      <data key="title">sequence to sequence learning with neural networks</data>
+    </node>
+    <node id="P117761">
+      <data key="title">lcsts a large scale chinese short text summarization dataset</data>
+    </node>
+    <node id="P77">
+      <data key="title">incremental adaptation strategies for neural network language models</data>
+    </node>
+    <node id="P88765">
+      <data key="title">renet a recurrent neural network based alternative to convolutional networks</data>
+    </node>
+    <node id="P53145">
+      <data key="title">wordrank learning word embeddings via robust ranking</data>
+    </node>
+    <node id="P70334">
+      <data key="title">not all neural embeddings are born equal</data>
+    </node>
+    <node id="P157548">
+      <data key="title">a neural conversational model</data>
+    </node>
+    <node id="P11655">
+      <data key="title">bidirectional recurrent neural networks as generative models reconstructing gaps in time series</data>
+    </node>
+    <node id="P111188">
+      <data key="title">deep sentence embedding using the long short term memory networks</data>
+    </node>
+    <node id="P141153">
+      <data key="title">learning phrase representations using rnn encoder decoder for statistical machine translation</data>
+    </node>
+    <node id="P55860">
+      <data key="title">the sum of its parts joint learning of word and phrase representations with autoencoders</data>
+    </node>
+    <node id="P9148">
+      <data key="title">a simple way to initialize recurrent networks of rectified linear units</data>
+    </node>
+    <node id="P15365">
+      <data key="title">how transferable are features in deep neural networks</data>
+    </node>
+    <node id="P7939">
+      <data key="title">improving neural machine translation models with monolingual data</data>
+    </node>
+    <node id="P35756">
+      <data key="title">building end to end dialogue systems using generative hierarchical neural network models</data>
+    </node>
+    <node id="P141591">
+      <data key="title">end to end continuous speech recognition using attention based recurrent nn first results</data>
+    </node>
+    <edge source="P79558" target="P29128">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79558" target="P88765">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79558" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29128" target="P115359">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29128" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29128" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29128" target="P9148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P53145">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P117761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P11655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P70334">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P107199">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P141591">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P157548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P55860">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P111188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P88765">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P9148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P77">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115359" target="P7939">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107199" target="P154342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107199" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P117761">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P70334">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P157548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P111188">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P88765">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P9148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P77">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P7939">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154342" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77" target="P15365">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77" target="P7939">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88765" target="P141591">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88765" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70334" target="P141153">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157548" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141153" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141153" target="P141591">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

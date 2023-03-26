@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P60087">
+      <data key="title">qualitative assessment of recurrent human motion</data>
+    </node>
+    <node id="P125970">
+      <data key="title">reinforcement based simultaneous algorithm and its hyperparameters selection</data>
+    </node>
+    <node id="P131256">
+      <data key="title">efficient hyperparameter optimization and infinitely many armed bandits</data>
+    </node>
+    <node id="P41205">
+      <data key="title">the configurable sat solver challenge cssc</data>
+    </node>
+    <node id="P36002">
+      <data key="title">review level sentiment classification with sentence level polarity correction</data>
+    </node>
+    <node id="P11408">
+      <data key="title">evaluation of a tree based pipeline optimization tool for automating data science</data>
+    </node>
+    <node id="P156646">
+      <data key="title">hyperparameters optimization in deep convolutional neural network bayesian approach with gaussian process prior</data>
+    </node>
+    <node id="P41906">
+      <data key="title">auto weka combined selection and hyperparameter optimization of classification algorithms</data>
+    </node>
+    <node id="P134967">
+      <data key="title">on bootstrapping machine learning performance predictors via analytical models</data>
+    </node>
+    <node id="P118136">
+      <data key="title">pitfalls and best practices in algorithm configuration</data>
+    </node>
+    <node id="P389">
+      <data key="title">an effective algorithm for hyperparameter optimization of neural networks</data>
+    </node>
+    <node id="P46849">
+      <data key="title">meta unsupervised learning a supervised approach to unsupervised learning</data>
+    </node>
+    <node id="P18220">
+      <data key="title">selecting near optimal learners via incremental data allocation</data>
+    </node>
+    <node id="P10786">
+      <data key="title">ease ml towards multi tenant resource sharing for machine learning workloads</data>
+    </node>
+    <node id="P48241">
+      <data key="title">spiking neurons with short term synaptic plasticity form superior generative networks</data>
+    </node>
+    <node id="P8137">
+      <data key="title">progressive sampling based bayesian optimization for efficient and automatic machine learning model selection</data>
+    </node>
+    <node id="P37564">
+      <data key="title">maximally distant cross domain generators for estimating per sample error</data>
+    </node>
+    <node id="P22856">
+      <data key="title">hyperband a novel bandit based approach to hyperparameter optimization</data>
+    </node>
+    <node id="P1753">
+      <data key="title">supervising unsupervised learning</data>
+    </node>
+    <node id="P168050">
+      <data key="title">recommending learning algorithms and their associated hyperparameters</data>
+    </node>
+    <edge source="P60087" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P125970" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131256" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131256" target="P8137">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131256" target="P37564">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41205" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41205" target="P118136">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36002" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11408" target="P389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156646" target="P41906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P134967">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P168050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P22856">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P46849">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P118136">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P10786">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P1753">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P8137">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P48241">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P37564">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P41906" target="P18220">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P389" target="P18220">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18220" target="P8137">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

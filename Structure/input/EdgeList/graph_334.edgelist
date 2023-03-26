@@ -1,0 +1,38 @@
+M Li	Amos Israel	{'relation': 'collaborate'}
+M Li	Benny Chor	{'relation': 'collaborate'}
+Baruch Awerbuch	Amos Israel	{'relation': 'collaborate'}
+Baruch Awerbuch	Evangelos Kranakis	{'relation': 'collaborate'}
+Baruch Awerbuch	Y. Shiloach	{'relation': 'collaborate'}
+Baruch Awerbuch	Shlomi Dolev	{'relation': 'collaborate'}
+Shlomit S. Pinter	Amos Israel	{'relation': 'collaborate'}
+R. Bar-Yehuda	Benny Chor	{'relation': 'collaborate'}
+R. Bar-Yehuda	Dror Rawitz	{'relation': 'collaborate'}
+R. Bar-Yehuda	A. Itai	{'relation': 'collaborate'}
+R. Bar-Yehuda	Amos Israel	{'relation': 'collaborate'}
+Oran Sharon	Dror Rawitz	{'relation': 'collaborate'}
+Oran Sharon	Amos Israel	{'relation': 'collaborate'}
+Benny Chor	Amos Israel	{'relation': 'collaborate'}
+Andrea Vattani	Mathew D. McCubbins	{'relation': 'collaborate'}
+Andrea Vattani	Amos Israel	{'relation': 'collaborate'}
+Andrea Vattani	Ramamohan Paturi	{'relation': 'collaborate'}
+Evangelos Kranakis	Amos Israel	{'relation': 'collaborate'}
+Evangelos Kranakis	Shlomi Dolev	{'relation': 'collaborate'}
+Evangelos Kranakis	N Santoro	{'relation': 'collaborate'}
+Evangelos Kranakis	D. Krizanc	{'relation': 'collaborate'}
+Dror Rawitz	Amos Israel	{'relation': 'collaborate'}
+Shlomi Dolev	Amos Israel	{'relation': 'collaborate'}
+Shlomi Dolev	Shlomo Moran	{'relation': 'collaborate'}
+Shlomi Dolev	D. Krizanc	{'relation': 'collaborate'}
+Shlomo Moran	A. Itai	{'relation': 'collaborate'}
+Shlomo Moran	Lihu Rappoport	{'relation': 'collaborate'}
+Shlomo Moran	Amos Israel	{'relation': 'collaborate'}
+N Santoro	Amos Israel	{'relation': 'collaborate'}
+N Santoro	D. Krizanc	{'relation': 'collaborate'}
+A Gibbons	Amos Israel	{'relation': 'collaborate'}
+Lihu Rappoport	Amos Israel	{'relation': 'collaborate'}
+A. Itai	Amos Israel	{'relation': 'collaborate'}
+Ramamohan Paturi	Amos Israel	{'relation': 'collaborate'}
+Ramamohan Paturi	Mathew D. McCubbins	{'relation': 'collaborate'}
+Mathew D. McCubbins	Amos Israel	{'relation': 'collaborate'}
+Amos Israel	Y. Shiloach	{'relation': 'collaborate'}
+Amos Israel	D. Krizanc	{'relation': 'collaborate'}

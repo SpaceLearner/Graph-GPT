@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P24845">
+      <data key="title">energy efficient and fair resource allocation for lte unlicensed uplink networks a two sided matching approach with partial information</data>
+    </node>
+    <node id="P150101">
+      <data key="title">survey of spectrum sharing for inter technology coexistence</data>
+    </node>
+    <node id="P33598">
+      <data key="title">analysis of csat performance in wi fi and lte u coexistence</data>
+    </node>
+    <node id="P88847">
+      <data key="title">millimeter wave beamforming for wireless backhaul and access in small cell networks</data>
+    </node>
+    <node id="P168275">
+      <data key="title">downlink interference estimation without feedback for heterogeneous network interference avoidance</data>
+    </node>
+    <node id="P39729">
+      <data key="title">ofdmfi enabling cross technology communication between lte u laa and wifi</data>
+    </node>
+    <node id="P135211">
+      <data key="title">modeling and analyzing the coexistence of wi fi and lte in unlicensed spectrum</data>
+    </node>
+    <node id="P101342">
+      <data key="title">proactive resource management for lte in unlicensed spectrum a deep learning perspective</data>
+    </node>
+    <node id="P59453">
+      <data key="title">effective capacity of licensed assisted access in unlicensed spectrum for 5g from theory to application</data>
+    </node>
+    <node id="P10537">
+      <data key="title">understanding the iot connectivity landscape a contemporary m2m radio technology roadmap</data>
+    </node>
+    <node id="P156403">
+      <data key="title">on the limits of coexisting coverage and capacity in multi rat heterogeneous networks</data>
+    </node>
+    <node id="P5212">
+      <data key="title">coordinated dynamic spectrum management of lte u and wi fi networks</data>
+    </node>
+    <node id="P166896">
+      <data key="title">coexistence of wi fi and heterogeneous small cell networks sharing unlicensed spectrum</data>
+    </node>
+    <node id="P45382">
+      <data key="title">fundamental green tradeoffs progresses challenges and impacts on 5g networks</data>
+    </node>
+    <node id="P116798">
+      <data key="title">holistic small cell traffic balancing across licensed and unlicensed bands</data>
+    </node>
+    <node id="P146604">
+      <data key="title">srslte an open source platform for lte evolution and experimentation</data>
+    </node>
+    <node id="P127550">
+      <data key="title">new radio beam based access to unlicensed spectrum design challenges and solutions</data>
+    </node>
+    <node id="P163128">
+      <data key="title">proactive resource management in lte u systems a deep learning perspective</data>
+    </node>
+    <node id="P60764">
+      <data key="title">realization of cdma based iot services with shared band operation of lte in 5g</data>
+    </node>
+    <node id="P281">
+      <data key="title">inter technology coexistence in a spectrum commons a case study of wi fi and lte in the 5 ghz unlicensed band</data>
+    </node>
+    <edge source="P24845" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24845" target="P166896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150101" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150101" target="P135211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150101" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150101" target="P146604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33598" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33598" target="P135211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88847" target="P166896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168275" target="P166896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39729" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39729" target="P146604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135211" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P135211" target="P127550">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101342" target="P5212">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P101342" target="P116798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59453" target="P166896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59453" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P10537" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P156403" target="P166896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5212" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5212" target="P116798">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5212" target="P163128">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5212" target="P146604">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5212" target="P60764">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166896" target="P45382">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166896" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166896" target="P127550">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127550" target="P281">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

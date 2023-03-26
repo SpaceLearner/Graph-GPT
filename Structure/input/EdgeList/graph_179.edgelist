@@ -1,0 +1,47 @@
+Yves Caniou	F. Desprez	{'relation': 'collaborate'}
+Yves Caniou	A. Amar	{'relation': 'collaborate'}
+Yves Caniou	E. Caron	{'relation': 'collaborate'}
+C. Gomez	F. Desprez	{'relation': 'collaborate'}
+C. Gomez	E. Caron	{'relation': 'collaborate'}
+C. Gomez	S. Steer	{'relation': 'collaborate'}
+C. Gomez	F. Suter	{'relation': 'collaborate'}
+C. Gomez	S. Chaumette	{'relation': 'collaborate'}
+C. Gomez	J.-M. Nicod	{'relation': 'collaborate'}
+A. Amar	E. Caron	{'relation': 'collaborate'}
+A. Amar	F. Desprez	{'relation': 'collaborate'}
+F. Desprez	E. Caron	{'relation': 'collaborate'}
+F. Desprez	R. Namyst	{'relation': 'collaborate'}
+F. Desprez	J.-M. Nicod	{'relation': 'collaborate'}
+F. Desprez	Bastien Chopard	{'relation': 'collaborate'}
+F. Desprez	Julien Zory	{'relation': 'collaborate'}
+F. Desprez	F. Suter	{'relation': 'collaborate'}
+F. Desprez	E.-G. Talbi	{'relation': 'collaborate'}
+F. Desprez	S. Chaumette	{'relation': 'collaborate'}
+F. Desprez	B. Quetier	{'relation': 'collaborate'}
+F. Desprez	S. Steer	{'relation': 'collaborate'}
+Bastien Chopard	Julien Zory	{'relation': 'collaborate'}
+Bastien Chopard	E. Caron	{'relation': 'collaborate'}
+E. Caron	F. Suter	{'relation': 'collaborate'}
+E. Caron	B. Quetier	{'relation': 'collaborate'}
+E. Caron	S. Steer	{'relation': 'collaborate'}
+E. Caron	E.-G. Talbi	{'relation': 'collaborate'}
+E. Caron	A K Datta	{'relation': 'collaborate'}
+E. Caron	J.-M. Nicod	{'relation': 'collaborate'}
+E. Caron	R. Namyst	{'relation': 'collaborate'}
+E. Caron	S. Chaumette	{'relation': 'collaborate'}
+E. Caron	Julien Zory	{'relation': 'collaborate'}
+E. Caron	Haiwu He	{'relation': 'collaborate'}
+Filippo Speziali	Julien Zory	{'relation': 'collaborate'}
+S. Chaumette	S. Steer	{'relation': 'collaborate'}
+S. Chaumette	J.-M. Nicod	{'relation': 'collaborate'}
+S. Chaumette	F. Suter	{'relation': 'collaborate'}
+Fabien Coelho	Julien Zory	{'relation': 'collaborate'}
+B. Quetier	E.-G. Talbi	{'relation': 'collaborate'}
+B. Quetier	R. Namyst	{'relation': 'collaborate'}
+S. Steer	J.-M. Nicod	{'relation': 'collaborate'}
+S. Steer	F. Suter	{'relation': 'collaborate'}
+F. Suter	J.-M. Nicod	{'relation': 'collaborate'}
+Julien Zory	D. Lo Iacono	{'relation': 'collaborate'}
+Julien Zory	E. Messina	{'relation': 'collaborate'}
+D. Lo Iacono	E. Messina	{'relation': 'collaborate'}
+E.-G. Talbi	R. Namyst	{'relation': 'collaborate'}

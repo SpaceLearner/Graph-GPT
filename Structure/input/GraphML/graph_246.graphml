@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Brad T. Vander Zanden">
+      <data key="affiliation">Nan</data>
+      <data key="research">Estimating Block</data>
+    </node>
+    <node id="June M. Donato">
+      <data key="affiliation">Univ. of California, Los Angeles</data>
+      <data key="research">Decision SupportLarge Scale Data, Mult-Dimensional Data, Fourier analysis</data>
+    </node>
+    <node id="Elizabeth R. Jessup">
+      <data key="affiliation">Univ. of Colorado</data>
+      <data key="research">Automated memory analysis, data movement, memory efficiency</data>
+    </node>
+    <node id="Jacob W. Ulvila">
+      <data key="affiliation">Nan</data>
+      <data key="research">intrusion detection system, intrusion detector, cost analysis method</data>
+    </node>
+    <node id="Youngbae Kim">
+      <data key="affiliation">Nan</data>
+      <data key="research">retrieval system, Adaptive Segmentation, m number</data>
+    </node>
+    <node id="Kyle Gallivam">
+      <data key="affiliation">kgallivan@fsu.edu</data>
+      <data key="research">code improvement process, linear representation, memory system</data>
+    </node>
+    <node id="F. W. Lancaster">
+      <data key="affiliation">Univ. of Illinois at UrbanaChampaign, Champaign</data>
+      <data key="research">information service, information service applicationsLibraries, information sourcesThe evaluation</data>
+    </node>
+    <node id="Susanne M. Humphrey">
+      <data key="affiliation">National Library ot: Medicine Bethesda, MD</data>
+      <data key="research">University Microfilms International, Dissertation Abstracts International, computer search</data>
+    </node>
+    <node id="Dali Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">bilinear interpolation method, position error, target position</data>
+    </node>
+    <node id="Saul Herner">
+      <data key="affiliation">Nan</data>
+      <data key="research">Information Systems, empirical testingSelected Federal Computer-Based, interactive knowledge-based system</data>
+    </node>
+    <node id="J E Jr. Gaffney">
+      <data key="affiliation">IBM: Federal Systems Division, 9500 Godwin Drive, Manassas, Va.</data>
+      <data key="research">intrusion detection system, software quality, intrusion detector</data>
+    </node>
+    <node id="V Eijkhout">
+      <data key="affiliation">TEXAS ADVANCED COMPUTING LABORATORY, THE UNIVERSITY OF TEXAS AT AUSTIN</data>
+      <data key="research">numerical software, SANS system, linear system</data>
+    </node>
+    <node id="Sidney C. Bailin">
+      <data key="affiliation">Knowledge Evolution, Inc., Washington DC 20036</data>
+      <data key="research">software reuse, Ontology Negotiation, software requirement</data>
+    </node>
+    <node id="Linda C. Smith">
+      <data key="affiliation">Nan</data>
+      <data key="research">Data Processing, Designing Information, Library Applications</data>
+    </node>
+    <node id="Ulrike Meier">
+      <data key="affiliation">Univ. of Illinois, Urbana</data>
+      <data key="research">conjugate gradient algorithm, Cedar Multi-Cluster SystemParallel Algorithms, hierarchical memoryParallelization</data>
+    </node>
+    <node id="Jack J. Dongarra">
+      <data key="affiliation">Faculty of Computer Science, Research Group Scientific Computing, University of Tennessee, Währinger Str. 29/6.21, Knoxville, TN, Austria</data>
+      <data key="research">high performance, performance analysis, performance result</data>
+    </node>
+    <node id="Peiling Wang">
+      <data key="affiliation">School of Information Studies, University of Wisconsin, Milwaukee, P.O. Box 413, Milwaukee, WI 53201</data>
+      <data key="research">search behavior, search task, health information</data>
+    </node>
+    <node id="Bryan B. Thompson">
+      <data key="affiliation">Nan</data>
+      <data key="research">computerized risk analysis aid</data>
+    </node>
+    <node id="Bryce L. Allen">
+      <data key="affiliation">University of Chicago and Argonne National Laboratory, Argonne, IL</data>
+      <data key="research">information institution, information need, information research</data>
+    </node>
+    <node id="M. W. Berry">
+      <data key="affiliation">University of Tennessee</data>
+      <data key="research">parallel ALFISH model, algorithms target data, arbitrary dimensional data</data>
+    </node>
+    <edge source="Brad T. Vander Zanden" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="June M. Donato" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="June M. Donato" target="Jack J. Dongarra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="June M. Donato" target="V Eijkhout">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Elizabeth R. Jessup" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="Bryce L. Allen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="Saul Herner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="Bryan B. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="Susanne M. Humphrey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="J E Jr. Gaffney">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="Linda C. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacob W. Ulvila" target="F. W. Lancaster">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youngbae Kim" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youngbae Kim" target="Jack J. Dongarra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyle Gallivam" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kyle Gallivam" target="Ulrike Meier">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. W. Lancaster" target="Linda C. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. W. Lancaster" target="Saul Herner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. W. Lancaster" target="Bryce L. Allen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. W. Lancaster" target="Susanne M. Humphrey">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanne M. Humphrey" target="Bryce L. Allen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanne M. Humphrey" target="Linda C. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Susanne M. Humphrey" target="Saul Herner">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dali Wang" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saul Herner" target="Bryce L. Allen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Saul Herner" target="Linda C. Smith">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V Eijkhout" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V Eijkhout" target="Jack J. Dongarra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sidney C. Bailin" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sidney C. Bailin" target="Bryan B. Thompson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Linda C. Smith" target="Bryce L. Allen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ulrike Meier" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jack J. Dongarra" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peiling Wang" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bryan B. Thompson" target="M. W. Berry">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

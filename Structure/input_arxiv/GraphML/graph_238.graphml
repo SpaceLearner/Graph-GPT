@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P57186">
+      <data key="title">from observational studies to causal rule mining</data>
+    </node>
+    <node id="P299">
+      <data key="title">the crossover process learnability meets protection from inference attacks</data>
+    </node>
+    <node id="P85754">
+      <data key="title">distinguishing cause from effect using observational data methods and benchmarks</data>
+    </node>
+    <node id="P143021">
+      <data key="title">a theoretical study of y structures for causal discovery</data>
+    </node>
+    <node id="P49485">
+      <data key="title">a review on algorithms for constraint based causal discovery</data>
+    </node>
+    <node id="P10600">
+      <data key="title">loss factorization weakly supervised learning and label noise robustness</data>
+    </node>
+    <node id="P127135">
+      <data key="title">sharp analysis of low rank kernel matrix approximations</data>
+    </node>
+    <node id="P121245">
+      <data key="title">differentially private empirical risk minimization</data>
+    </node>
+    <node id="P51867">
+      <data key="title">improved bounds for the nystrom method with application to kernel classification</data>
+    </node>
+    <node id="P90385">
+      <data key="title">inherent trade offs in the fair determination of risk scores</data>
+    </node>
+    <node id="P25195">
+      <data key="title">randomized co training from cortical neurons to machine learning and back again</data>
+    </node>
+    <node id="P99594">
+      <data key="title">causal inference in observational data</data>
+    </node>
+    <node id="P32918">
+      <data key="title">efficient local causal discovery based on markov blanket</data>
+    </node>
+    <node id="P8625">
+      <data key="title">mining combined causes in large data sets</data>
+    </node>
+    <node id="P51791">
+      <data key="title">on the equivalence between quadrature rules and random features</data>
+    </node>
+    <node id="P43072">
+      <data key="title">ubiquitous event mining to enhance personal health</data>
+    </node>
+    <node id="P52711">
+      <data key="title">equality of opportunity in supervised learning</data>
+    </node>
+    <node id="P20921">
+      <data key="title">adjustment criteria in causal diagrams an algorithmic perspective</data>
+    </node>
+    <node id="P14463">
+      <data key="title">dependency aware software requirements selection using fuzzy graphs and integer programming</data>
+    </node>
+    <node id="P120625">
+      <data key="title">a fast pc algorithm for high dimensional causal discovery with multi core pcs</data>
+    </node>
+    <edge source="P57186" target="P143021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P120625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P299">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P49485">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P99594">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P43072">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P8625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P32918">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57186" target="P14463">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P127135">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P10600">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P90385">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P52711">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P121245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P85754">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P299" target="P20921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143021" target="P99594">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49485" target="P120625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P51791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P25195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127135" target="P51867">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

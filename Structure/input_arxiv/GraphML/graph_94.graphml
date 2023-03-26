@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P46044">
+      <data key="title">gaussian processes for sample efficient reinforcement learning with rmax like exploration</data>
+    </node>
+    <node id="P77945">
+      <data key="title">simultaneous state and parameter estimation for second order nonlinear systems</data>
+    </node>
+    <node id="P116">
+      <data key="title">approximate optimal cooperative decentralized control for consensus in a topological network of agents with uncertain nonlinear dynamics</data>
+    </node>
+    <node id="P98044">
+      <data key="title">learning continuous control policies by stochastic value gradients</data>
+    </node>
+    <node id="P109102">
+      <data key="title">verification for machine learning autonomy and neural networks survey</data>
+    </node>
+    <node id="P145423">
+      <data key="title">multi pseudo q learning based deterministic policy gradient for tracking control of autonomous underwater vehicles</data>
+    </node>
+    <node id="P148660">
+      <data key="title">model based reinforcement learning in differential graphical games</data>
+    </node>
+    <node id="P67836">
+      <data key="title">model based reinforcement learning for approximate optimal regulation</data>
+    </node>
+    <node id="P48050">
+      <data key="title">concurrent learning for parameter estimation using dynamic state derivative estimators</data>
+    </node>
+    <node id="P51886">
+      <data key="title">model based reinforcement learning for infinite horizon approximate optimal tracking</data>
+    </node>
+    <node id="P114528">
+      <data key="title">output feedback online optimal control for a class of nonlinear systems</data>
+    </node>
+    <node id="P85721">
+      <data key="title">reinforcement learning a survey</data>
+    </node>
+    <node id="P102015">
+      <data key="title">approximate optimal trajectory tracking for continuous time nonlinear systems</data>
+    </node>
+    <edge source="P46044" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77945" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77945" target="P48050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P116" target="P148660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98044" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109102" target="P102015">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109102" target="P85721">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145423" target="P51886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148660" target="P51886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148660" target="P67836">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148660" target="P102015">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148660" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67836" target="P51886">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67836" target="P102015">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67836" target="P85721">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67836" target="P48050">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67836" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51886" target="P102015">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P51886" target="P114528">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P114528" target="P102015">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

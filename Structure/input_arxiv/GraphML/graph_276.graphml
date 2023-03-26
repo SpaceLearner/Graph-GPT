@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P145207">
+      <data key="title">a churn for the better localizing censorship using network level path churn and network tomography</data>
+    </node>
+    <node id="P141938">
+      <data key="title">filteredweb a framework for the automated search based discovery of blocked urls</data>
+    </node>
+    <node id="P96200">
+      <data key="title">principles for measurability in protocol design</data>
+    </node>
+    <node id="P20161">
+      <data key="title">haystack a multi purpose mobile vantage point in user space</data>
+    </node>
+    <node id="P163081">
+      <data key="title">scanning the ipv6 internet towards a comprehensive hitlist</data>
+    </node>
+    <node id="P159213">
+      <data key="title">thou shalt not depend on me analysing the use of outdated javascript libraries on the web</data>
+    </node>
+    <node id="P29862">
+      <data key="title">ripki the tragic story of rpki deployment in the web ecosystem</data>
+    </node>
+    <node id="P121917">
+      <data key="title">the effect of dns on tor s anonymity</data>
+    </node>
+    <node id="P95861">
+      <data key="title">a long way to the top significance structure and stability of internet top lists</data>
+    </node>
+    <node id="P1020">
+      <data key="title">loophole timing attacks on shared event loops in chrome</data>
+    </node>
+    <node id="P58147">
+      <data key="title">what s in a name understanding profile name reuse on twitter</data>
+    </node>
+    <node id="P52207">
+      <data key="title">most websites don t need to vibrate a cost benefit approach to improving browser security</data>
+    </node>
+    <node id="P72664">
+      <data key="title">large scale classification of ipv6 ipv4 siblings with variable clock skew</data>
+    </node>
+    <node id="P97189">
+      <data key="title">we value your privacy now take some cookies measuring the gdpr s impact on web privacy</data>
+    </node>
+    <node id="P85048">
+      <data key="title">dial one for scam a large scale analysis of technical support scams</data>
+    </node>
+    <node id="P164498">
+      <data key="title">practical attacks against graph based clustering</data>
+    </node>
+    <node id="P343">
+      <data key="title">on the content security policy violations due to the same origin policy</data>
+    </node>
+    <node id="P151287">
+      <data key="title">hiding in plain sight a longitudinal study of combosquatting abuse</data>
+    </node>
+    <node id="P47039">
+      <data key="title">an empirical survey on the early adoption of dns certification authority authorization</data>
+    </node>
+    <node id="P108791">
+      <data key="title">inferring individual attributes from search engine queries and auxiliary information</data>
+    </node>
+    <edge source="P145207" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141938" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P96200" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20161" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163081" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163081" target="P72664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159213" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29862" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121917" target="P95861">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P108791">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P343">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P85048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P52207">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P164498">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P151287">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P47039">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P1020">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P72664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P58147">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95861" target="P97189">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85048" target="P151287">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

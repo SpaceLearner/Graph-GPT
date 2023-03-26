@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Daisuke Kihara">
+      <data key="affiliation">Purdue University, West Lafayette, Indiana</data>
+      <data key="research">textual information, protein function, query protein</data>
+    </node>
+    <node id="L. Wong">
+      <data key="affiliation">Institute for Infocomm Research 21 Heng Mui Keng Terrace, Singapore 119613, Singapore</data>
+      <data key="research">query language, closed pattern, frequent itemsets</data>
+    </node>
+    <node id="Karim Awara">
+      <data key="affiliation">King Abdullah University of Science and Technology, Saudi Arabia</data>
+      <data key="research">Pregel system, runtime characteristic, graph mining system</data>
+    </node>
+    <node id="Rajesh Chowdhary">
+      <data key="affiliation">Biomedical Informatifcs Research Center, MCRF, Marshfield Clinic, 1000 North Oak Avenue, Marshfield, WI 54449, USA</data>
+      <data key="research">protein interaction, supplementary data, Bioinformatics online</data>
+    </node>
+    <node id="Jinfeng Zhang">
+      <data key="affiliation">Beijing University of Aeronautics and Astronautics, China</data>
+      <data key="research">mobile host, multi-hop path, P2P network</data>
+    </node>
+    <node id="Dan Williams">
+      <data key="affiliation">Nan</data>
+      <data key="research">Networking Community, professional goal, networking goal</data>
+    </node>
+    <node id="D. K. Kaushik">
+      <data key="affiliation">King Abdullah University of Science and Technology, Saudi Arabia</data>
+      <data key="research">high sustained performance, processor performance, simple performance model</data>
+    </node>
+    <node id="P. Kalnis">
+      <data key="affiliation">KAUST, Saudi Arabia</data>
+      <data key="research">data transformation, data utility, basket data</data>
+    </node>
+    <node id="Hani Jamjoom">
+      <data key="affiliation">IBM, T. J. Watson Research Center, Hawthorne, NY</data>
+      <data key="research">Pregel system, applied control, cloud provider</data>
+    </node>
+    <node id="Michael Schramm">
+      <data key="affiliation">Nan</data>
+      <data key="research">quality management, sa Supplementary information, Bioinformatics online</data>
+    </node>
+    <node id="Vladimir B. Bajic">
+      <data key="affiliation">South African National Bioinformatics Institute, Bellville, South Africa</data>
+      <data key="research">sa Supplementary information, supplementary data, protein function</data>
+    </node>
+    <node id="Seng Hong Seah">
+      <data key="affiliation">Institute for Infocomm Research, 21 Heng Mui Keng Terrace, Singapore 119613</data>
+      <data key="research">structural data, sequence annotation, functional classification</data>
+    </node>
+    <node id="Allan Kamau">
+      <data key="affiliation">Nan</data>
+      <data key="research">sa Supplementary information, supplementary data, Bioinformatics online</data>
+    </node>
+    <node id="Merlin Veronika">
+      <data key="affiliation">Institute for Infocomm Research, Singapore</data>
+      <data key="research">Entrez Gene databases, transcription factor, TF entry</data>
+    </node>
+    <node id="Zhuo Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">SIMD capacity, SIMD k-ary, SIMD processing unit</data>
+    </node>
+    <node id="Xin Gao">
+      <data key="affiliation">School of Mathematics and Physics, North China Electric Power University, Beijing, China 102206</data>
+      <data key="research">project cost, completion time, Fractional Liu process</data>
+    </node>
+    <node id="Jinyan Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Sentiment Analysis, neutral vocabulary, Language Toolkit</data>
+    </node>
+    <node id="See-Kiong Ng">
+      <data key="affiliation">Nan</data>
+      <data key="research">computational molecular genetics, microsatellite genotyping problem</data>
+    </node>
+    <node id="Vladimir Brusic">
+      <data key="affiliation">Cancer Vaccine Center, DanaFarber Cancer Institute, Harvard Medical School, Boston, MA, USA/ Department of Medicine, Harvard Medical School, Boston, MA, USA and Department of Computer Science, Me ...</data>
+      <data key="research">biological data, data mining, experimental data</data>
+    </node>
+    <node id="R. Ayesha Ali">
+      <data key="affiliation">Department of Statistics, University of Washington, Seattle, WA</data>
+      <data key="research">ancestral graph, Markov equivalence class, pairwise Markov property</data>
+    </node>
+    <edge source="Daisuke Kihara" target="Xin Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daisuke Kihara" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="Jinyan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="Rajesh Chowdhary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="See-Kiong Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="Vladimir Brusic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L. Wong" target="R. Ayesha Ali">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="Allan Kamau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="Hani Jamjoom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="P. Kalnis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="Rajesh Chowdhary">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karim Awara" target="Dan Williams">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajesh Chowdhary" target="Michael Schramm">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajesh Chowdhary" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajesh Chowdhary" target="R. Ayesha Ali">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajesh Chowdhary" target="Allan Kamau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Rajesh Chowdhary" target="Jinfeng Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinfeng Zhang" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Williams" target="Hani Jamjoom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Williams" target="P. Kalnis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. K. Kaushik" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. Kalnis" target="Hani Jamjoom">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Schramm" target="Allan Kamau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Schramm" target="Vladimir B. Bajic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Seng Hong Seah">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Zhuo Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Xin Gao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="R. Ayesha Ali">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Jinyan Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="See-Kiong Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Allan Kamau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Vladimir Brusic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir B. Bajic" target="Merlin Veronika">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seng Hong Seah" target="Vladimir Brusic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Merlin Veronika" target="See-Kiong Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Merlin Veronika" target="Zhuo Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhuo Zhang" target="See-Kiong Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinyan Li" target="See-Kiong Ng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinyan Li" target="Vladimir Brusic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="See-Kiong Ng" target="Vladimir Brusic">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

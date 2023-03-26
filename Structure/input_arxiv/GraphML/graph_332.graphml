@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P127005">
+      <data key="title">modal logics for topological spaces</data>
+    </node>
+    <node id="P132499">
+      <data key="title">primitives for contract based synchronization</data>
+    </node>
+    <node id="P7873">
+      <data key="title">distributed computing with adaptive heuristics</data>
+    </node>
+    <node id="P134699">
+      <data key="title">knowledge and common knowledge in a distributed environment</data>
+    </node>
+    <node id="P46894">
+      <data key="title">a logic of blockchain updates</data>
+    </node>
+    <node id="P15940">
+      <data key="title">robust agent teams via socially attentive monitoring</data>
+    </node>
+    <node id="P47564">
+      <data key="title">strengthening gossip protocols using protocol dependent knowledge</data>
+    </node>
+    <node id="P153681">
+      <data key="title">tableau based decision procedure for the multi agent epistemic logic with operators of common and distributed knowledge</data>
+    </node>
+    <node id="P13260">
+      <data key="title">on the formal semantics of speech act based communication in an agent oriented programming language</data>
+    </node>
+    <node id="P413">
+      <data key="title">a knowledge based analysis of the blockchain protocol</data>
+    </node>
+    <node id="P88405">
+      <data key="title">double spend races</data>
+    </node>
+    <node id="P66454">
+      <data key="title">dynamic logic of common knowledge in a proof assistant</data>
+    </node>
+    <node id="P127041">
+      <data key="title">a logic of interactive proofs formal theory of knowledge transfer</data>
+    </node>
+    <node id="P34407">
+      <data key="title">an epistemic strategy logic</data>
+    </node>
+    <node id="P149785">
+      <data key="title">propositional logics complexity and the sub formula property</data>
+    </node>
+    <node id="P71857">
+      <data key="title">detecting unrealizability of distributed fault tolerant systems</data>
+    </node>
+    <node id="P162997">
+      <data key="title">dynamics at the boundary of game theory and distributed computing</data>
+    </node>
+    <node id="P156240">
+      <data key="title">timely common knowledge</data>
+    </node>
+    <node id="P64358">
+      <data key="title">a first order logic for reasoning about knowledge and probability</data>
+    </node>
+    <node id="P134970">
+      <data key="title">three cases of connectivity and global information transfer in robot swarms</data>
+    </node>
+    <edge source="P127005" target="P134699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132499" target="P134699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7873" target="P134699">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7873" target="P162997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P34407">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P134970">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P15940">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P156240">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P127041">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P66454">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P149785">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P13260">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P153681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P71857">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P162997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P413">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P134699" target="P64358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46894" target="P413">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46894" target="P88405">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46894" target="P47564">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P413" target="P64358">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

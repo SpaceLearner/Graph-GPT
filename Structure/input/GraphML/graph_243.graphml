@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="David Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">metric learning, point-to-set distance, set-to-set distance</data>
+    </node>
+    <node id="S. Sheng">
+      <data key="affiliation">Mentor Graphics Corporation, Wilsonville, OR</data>
+      <data key="research">experimental result, sequential circuit, new state</data>
+    </node>
+    <node id="X. M. Chen">
+      <data key="affiliation">Institute of Applied Mathematics, Chinese Academy of Sciences, Beijing, China</data>
+      <data key="research">proposed method, face recognition, experimental result</data>
+    </node>
+    <node id="Jiong Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">new behavior sample, Synthetic Dimension Reduction, behavior sample set</data>
+    </node>
+    <node id="Qiao Wang">
+      <data key="affiliation">School of Information Science and Engineering, Southeast University, China</data>
+      <data key="research">aggregate power constraint, optimal solution, optimal power allocation</data>
+    </node>
+    <node id="Lee Sael">
+      <data key="affiliation">SUNY Korea &amp; Stony Brook University, Inchoen, South Korea</data>
+      <data key="research">neighbor algorithm, gene selection, animated protein rotation</data>
+    </node>
+    <node id="Dennis Shasha">
+      <data key="affiliation">Nan</data>
+      <data key="research" />
+    </node>
+    <node id="Bin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Double-Circuit Transmission LinesNA</data>
+    </node>
+    <node id="Liang Ge">
+      <data key="affiliation">Nan</data>
+      <data key="research">cloud backup, Cloud State Table, cloud resources table</data>
+    </node>
+    <node id="Chunhui Piao">
+      <data key="affiliation">Nan</data>
+      <data key="research">mobile alliance, mobile user, Location Privacy</data>
+    </node>
+    <node id="M. Espig">
+      <data key="affiliation">Intel Corporation, USA</data>
+      <data key="research">shared resource, mobile augmented reality, low power</data>
+    </node>
+    <node id="Lin Zhang">
+      <data key="affiliation">School of Electricity and Information Engineering, Beijing University of Civil Engineering and Architecture, Beijing, China</data>
+      <data key="research">data structure, AntNet algorithm, agent number</data>
+    </node>
+    <node id="Peide Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Enterprise Knowledge Management Performance, evaluation index, linguistic variable</data>
+    </node>
+    <node id="Yumei Wang">
+      <data key="affiliation">Key Lab of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications, China</data>
+      <data key="research">accurate SI, inter-view estimation, intra-view estimation</data>
+    </node>
+    <node id="Lin-Tao Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Web Search Engine, FPGA-based inverted index search, FPGA-based search engine</data>
+    </node>
+    <node id="Yu Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">cache capacity, cache memory, cache space allocation</data>
+    </node>
+    <node id="Qing Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Chaos Theory, Chinese Literati TraditionThis paper, Chinese art</data>
+    </node>
+    <node id="Changyou Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">great computational power, power efficiency, power estimation</data>
+    </node>
+    <node id="MingXi Wan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Super-Resolution Reconstruction, proposed approach, Deformable Tissue</data>
+    </node>
+    <node id="Xiaofeng Jiang">
+      <data key="affiliation">Nan</data>
+      <data key="research">broadband multicast stream</data>
+    </node>
+    <edge source="David Zhang" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David Zhang" target="Lin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Sheng" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="X. M. Chen" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiong Yu" target="Changyou Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiong Yu" target="Chunhui Piao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiong Yu" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Qiao Wang" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lee Sael" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dennis Shasha" target="Bin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="MingXi Wan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="M. Espig">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="Lin Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="Qing Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Li" target="Yu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Ge" target="Xiaofeng Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liang Ge" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunhui Piao" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunhui Piao" target="Changyou Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Zhang" target="Qing Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Zhang" target="Yu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin Zhang" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peide Liu" target="Yumei Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yumei Wang" target="Lin-Tao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yumei Wang" target="Qing Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yumei Wang" target="Xiaofeng Jiang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yumei Wang" target="Yu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yumei Wang" target="Changyou Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Lin-Tao Zhang" target="Yu Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yu Liu" target="Qing Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

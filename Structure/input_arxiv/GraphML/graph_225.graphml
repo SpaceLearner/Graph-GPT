@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P99296">
+      <data key="title">characterization of secrecy capacity for general msr codes under passive eavesdropping model</data>
+    </node>
+    <node id="P160217">
+      <data key="title">securing data against limited knowledge adversaries in distributed storage systems</data>
+    </node>
+    <node id="P140760">
+      <data key="title">low complexity secure code lcsc design for big data in cloud storage systems</data>
+    </node>
+    <node id="P133771">
+      <data key="title">constructions and properties of linear locally repairable codes</data>
+    </node>
+    <node id="P78248">
+      <data key="title">on the combinatorics of locally repairable codes via matroid theory</data>
+    </node>
+    <node id="P90202">
+      <data key="title">zigzag codes mds array codes with optimal rebuilding</data>
+    </node>
+    <node id="P13491">
+      <data key="title">secure and private cloud storage systems with random linear fountain codes</data>
+    </node>
+    <node id="P55952">
+      <data key="title">information theoretically secure regenerating codes for distributed storage</data>
+    </node>
+    <node id="P137694">
+      <data key="title">access vs bandwidth in codes for storage</data>
+    </node>
+    <node id="P66395">
+      <data key="title">homomorphic self repairing codes for agile maintenance of distributed storage systems</data>
+    </node>
+    <node id="P70446">
+      <data key="title">optimal locally repairable and secure codes for distributed storage systems</data>
+    </node>
+    <node id="P41278">
+      <data key="title">cooperative regenerating codes for distributed storage systems</data>
+    </node>
+    <node id="P67812">
+      <data key="title">locality and availability in distributed storage</data>
+    </node>
+    <node id="P143760">
+      <data key="title">locally repairable codes</data>
+    </node>
+    <node id="P282">
+      <data key="title">secure repairable fountain codes</data>
+    </node>
+    <node id="P14616">
+      <data key="title">interference alignment in regenerating codes for distributed storage necessity and code constructions</data>
+    </node>
+    <node id="P143058">
+      <data key="title">an upper bound on the size of locally recoverable codes</data>
+    </node>
+    <node id="P33975">
+      <data key="title">repairable fountain codes</data>
+    </node>
+    <node id="P46625">
+      <data key="title">error resilience in distributed storage via rank metric codes</data>
+    </node>
+    <node id="P136358">
+      <data key="title">toward optimal secure distributed storage systems with exact repair</data>
+    </node>
+    <edge source="P99296" target="P136358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99296" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99296" target="P14616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99296" target="P55952">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99296" target="P90202">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99296" target="P143760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160217" target="P136358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160217" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160217" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160217" target="P55952">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140760" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140760" target="P282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140760" target="P13491">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133771" target="P78248">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133771" target="P143058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133771" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133771" target="P143760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78248" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90202" target="P67812">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90202" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90202" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90202" target="P137694">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90202" target="P143760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13491" target="P282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55952" target="P136358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55952" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55952" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55952" target="P282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137694" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137694" target="P14616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66395" target="P41278">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66395" target="P70446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P66395" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P136358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P143058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P67812">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P14616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P41278">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P143760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70446" target="P282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67812" target="P143058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67812" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67812" target="P143760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P67812" target="P33975">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143760" target="P143058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143760" target="P46625">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143760" target="P282">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P282" target="P33975">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

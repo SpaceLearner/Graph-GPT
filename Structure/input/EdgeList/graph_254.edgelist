@@ -1,0 +1,49 @@
+Lijun Yan	Zhengquan Zeng	{'relation': 'collaborate'}
+Lijun Yan	Hongbin Kong	{'relation': 'collaborate'}
+Lijun Yan	Muhammad Khurram Khan	{'relation': 'collaborate'}
+Lijun Yan	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Lijun Yan	John F. Roddick	{'relation': 'collaborate'}
+Lijun Yan	Zongbin Li	{'relation': 'collaborate'}
+Lijun Yan	Shu-Chuan Chu	{'relation': 'collaborate'}
+Lijun Yan	Chun-Sheng Yang	{'relation': 'collaborate'}
+Lijun Yan	Shaowen Yao	{'relation': 'collaborate'}
+Lijun Yan	Wei Li	{'relation': 'collaborate'}
+Lijun Yan	Xiaoyang Yuan	{'relation': 'collaborate'}
+Lijun Yan	Xiaorui Zhu	{'relation': 'collaborate'}
+Lijun Yan	Bor-Shyh Lin	{'relation': 'collaborate'}
+Lijun Yan	Hsiang-Cheh Huang	{'relation': 'collaborate'}
+Lijun Yan	Cong Wang	{'relation': 'collaborate'}
+Lijun Yan	Jicheng Yang	{'relation': 'collaborate'}
+Shu-Chuan Chu	Muhammad Khurram Khan	{'relation': 'collaborate'}
+Shu-Chuan Chu	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Shu-Chuan Chu	John F. Roddick	{'relation': 'collaborate'}
+Shu-Chuan Chu	Hsiang-Cheh Huang	{'relation': 'collaborate'}
+Shu-Chuan Chu	Cong Wang	{'relation': 'collaborate'}
+Jicheng Yang	Hongbin Kong	{'relation': 'collaborate'}
+Jicheng Yang	Shaowen Yao	{'relation': 'collaborate'}
+Jicheng Yang	Zhengquan Zeng	{'relation': 'collaborate'}
+Chunjie Zhang	Zhengquan Zeng	{'relation': 'collaborate'}
+Chunjie Zhang	Hongbin Kong	{'relation': 'collaborate'}
+Chunjie Zhang	Shaowen Yao	{'relation': 'collaborate'}
+Chunjie Zhang	Cheng Lu	{'relation': 'collaborate'}
+Hsiang-Cheh Huang	Chun-Sheng Yang	{'relation': 'collaborate'}
+Hsiang-Cheh Huang	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Hsiang-Cheh Huang	Wei Li	{'relation': 'collaborate'}
+Hsiang-Cheh Huang	John F. Roddick	{'relation': 'collaborate'}
+Xiaorui Zhu	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Chun-Sheng Yang	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Chun-Sheng Yang	Wei Li	{'relation': 'collaborate'}
+John F. Roddick	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Shaowen Yao	Cheng Lu	{'relation': 'collaborate'}
+Shaowen Yao	Zhengquan Zeng	{'relation': 'collaborate'}
+Shaowen Yao	Gang Xue	{'relation': 'collaborate'}
+Shaowen Yao	Hongbin Kong	{'relation': 'collaborate'}
+Zhengquan Zeng	Hongbin Kong	{'relation': 'collaborate'}
+Zhengquan Zeng	Cheng Lu	{'relation': 'collaborate'}
+Bor-Shyh Lin	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Muhammad Khurram Khan	Jeng-Shyang Pan	{'relation': 'collaborate'}
+Hongbin Kong	Gang Xue	{'relation': 'collaborate'}
+Hongbin Kong	Cheng Lu	{'relation': 'collaborate'}
+Zongbin Li	Xiaoyang Yuan	{'relation': 'collaborate'}
+Jeng-Shyang Pan	Wei Li	{'relation': 'collaborate'}
+Jeng-Shyang Pan	Cong Wang	{'relation': 'collaborate'}

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P86029">
+      <data key="title">towards ai complete question answering a set of prerequisite toy tasks</data>
+    </node>
+    <node id="P143868">
+      <data key="title">analysing the potential of seq to seq models for incremental interpretation in task oriented dialogue</data>
+    </node>
+    <node id="P54474">
+      <data key="title">the ubuntu dialogue corpus a large dataset for research in unstructured multi turn dialogue systems</data>
+    </node>
+    <node id="P136519">
+      <data key="title">learning end to end goal oriented dialog</data>
+    </node>
+    <node id="P78152">
+      <data key="title">hybrid generative retrieval transformers for dialogue domain adaptation</data>
+    </node>
+    <node id="P31834">
+      <data key="title">reward shaping with recurrent neural networks for speeding up on line policy learning in spoken dialogue systems</data>
+    </node>
+    <node id="P83037">
+      <data key="title">context aware dialog re ranking for task oriented dialog systems</data>
+    </node>
+    <node id="P157548">
+      <data key="title">a neural conversational model</data>
+    </node>
+    <node id="P99901">
+      <data key="title">improving robustness of neural dialog systems in a data efficient way with turn dropout</data>
+    </node>
+    <node id="P128656">
+      <data key="title">a copy augmented sequence to sequence architecture gives good performance on task oriented dialogue</data>
+    </node>
+    <node id="P40977">
+      <data key="title">data efficient goal oriented conversation with dialogue knowledge transfer networks</data>
+    </node>
+    <node id="P416">
+      <data key="title">challenging neural dialogue models with natural data memory networks fail on incremental phenomena</data>
+    </node>
+    <node id="P58767">
+      <data key="title">bootstrapping incremental dialogue systems using linguistic knowledge to learn from minimal data</data>
+    </node>
+    <node id="P117862">
+      <data key="title">learning from real users rating dialogue success with neural networks for reinforcement learning in spoken dialogue systems</data>
+    </node>
+    <node id="P108664">
+      <data key="title">neural responding machine for short text conversation</data>
+    </node>
+    <node id="P98891">
+      <data key="title">hybrid code networks practical and efficient end to end dialog control with supervised and reinforcement learning</data>
+    </node>
+    <node id="P9964">
+      <data key="title">end to end memory networks</data>
+    </node>
+    <node id="P158402">
+      <data key="title">few shot dialogue generation without annotated data a transfer learning approach</data>
+    </node>
+    <node id="P35756">
+      <data key="title">building end to end dialogue systems using generative hierarchical neural network models</data>
+    </node>
+    <node id="P107629">
+      <data key="title">bootstrapping incremental dialogue systems from minimal data the generalisation power of dialogue grammars</data>
+    </node>
+    <edge source="P86029" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86029" target="P136519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143868" target="P157548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143868" target="P136519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143868" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143868" target="P107629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P143868" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54474" target="P108664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54474" target="P136519">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54474" target="P83037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P157548">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P31834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P117862">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P108664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P128656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136519" target="P99901">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78152" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31834" target="P117862">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83037" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83037" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83037" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157548" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157548" target="P108664">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157548" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99901" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99901" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128656" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128656" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40977" target="P416">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P40977" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P416" target="P58767">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P416" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P416" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P416" target="P107629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P416" target="P158402">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58767" target="P107629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58767" target="P158402">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108664" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108664" target="P98891">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98891" target="P35756">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98891" target="P9964">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158402" target="P107629">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

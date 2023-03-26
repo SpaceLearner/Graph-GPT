@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P87772">
+      <data key="title">study of joint msinr and relay selection algorithms for distributed beamforming</data>
+    </node>
+    <node id="P91612">
+      <data key="title">robust adaptive beamforming based on low rank and cross correlation techniques</data>
+    </node>
+    <node id="P9250">
+      <data key="title">coordinate tomlinson harashima precoding design for overloaded multi user mimo systems</data>
+    </node>
+    <node id="P124548">
+      <data key="title">study of distributed conjugate gradient strategies for distributed estimation over sensor networks</data>
+    </node>
+    <node id="P133668">
+      <data key="title">study of buffer aided space time coding for multiple antenna cooperative wireless networks</data>
+    </node>
+    <node id="P161562">
+      <data key="title">buffer aided relay selection algorithms for physical layer security in wireless networks</data>
+    </node>
+    <node id="P69285">
+      <data key="title">study of opportunistic cooperation techniques using jamming and relays for physical layer security in buffer aided relay networks</data>
+    </node>
+    <node id="P95500">
+      <data key="title">study of efficient robust adaptive beamforming algorithms based on shrinkage techniques</data>
+    </node>
+    <node id="P18833">
+      <data key="title">iterative detection and decoding algorithms for mimo systems in block fading channels using ldpc codes</data>
+    </node>
+    <node id="P261">
+      <data key="title">adaptive delay tolerant dstbc in opportunistic relaying cooperative mimo systems</data>
+    </node>
+    <node id="P38763">
+      <data key="title">decoupled signal detection for the uplink of large scale mimo systems in heterogeneous networks</data>
+    </node>
+    <node id="P18604">
+      <data key="title">robust mmse precoding for multiuser mimo relay systems using switched relaying and side information</data>
+    </node>
+    <node id="P886">
+      <data key="title">optimal space time codes for the mimo amplify and forward cooperative channel</data>
+    </node>
+    <node id="P157642">
+      <data key="title">adaptive distributed space time coding based on adjustable code matrices for cooperative mimo relaying systems</data>
+    </node>
+    <node id="P102136">
+      <data key="title">adaptive power allocation strategies using dstc in cooperative mimo networks</data>
+    </node>
+    <node id="P121844">
+      <data key="title">multi user flexible coordinated beamforming using lattice reduction for massive mimo systems</data>
+    </node>
+    <node id="P131040">
+      <data key="title">detection and estimation algorithms in massive mimo systems</data>
+    </node>
+    <node id="P130563">
+      <data key="title">adaptive alternating minimization algorithms</data>
+    </node>
+    <node id="P13110">
+      <data key="title">an efficient adaptive distributed space time coding scheme for cooperative relaying</data>
+    </node>
+    <node id="P59947">
+      <data key="title">study of structured root ldpc codes and peg techniques for block fading channels</data>
+    </node>
+    <edge source="P87772" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87772" target="P91612">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P91612" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9250" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124548" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P133668" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161562" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69285" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95500" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18833" target="P59947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18833" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18833" target="P38763">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P261" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P261" target="P130563">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38763" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18604" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P886" target="P157642">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P131040">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P13110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P130563">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P59947">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P121844">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157642" target="P102136">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102136" target="P130563">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

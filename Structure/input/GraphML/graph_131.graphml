@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Weixian Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">alarm rate, false alarm rate, fault prediction method</data>
+    </node>
+    <node id="Huiqing Zhang">
+      <data key="affiliation">College of Electronic Information and Control Engineering, Beijing University of Technology, Beijing, China</data>
+      <data key="research">Fermentation ProcessesThe SVM need, generalization capability, modeling process demand</data>
+    </node>
+    <node id="Haidong Zhong">
+      <data key="affiliation">Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, China</data>
+      <data key="research">geospatial processing service, RS image, GIS project</data>
+    </node>
+    <node id="Chunxiao Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Asymmetrical Six-phase Permanent Magnet, Multi-motor series-connected system, multi-motor system</data>
+    </node>
+    <node id="Minhyuk Chang">
+      <data key="affiliation">Dept of Information &amp; Communications Engineering, Chosun University, Gwangju, Korea</data>
+      <data key="research">Image Retrieval, histogram refinement method, Maximal Eigenvalues</data>
+    </node>
+    <node id="Jianzhong Cui">
+      <data key="affiliation">Key Laboratory of Electromagnetic Processing of Materials, Ministry of Education, Northeastern University, Shenyang 110004, Liaoning, China</data>
+      <data key="research">copper film, organic coating, AZ31 magnesium alloy</data>
+    </node>
+    <node id="Youjun Yue">
+      <data key="affiliation">Nan</data>
+      <data key="research">compound gradient vector, convergent analysis, convergent performance</data>
+    </node>
+    <node id="Wenwen Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Asymmetrical Six-phase Permanent Magnet, Multi-motor series-connected system, multi-motor system</data>
+    </node>
+    <node id="Zhi-Chun Li">
+      <data key="affiliation">School of Economics and Management, Beijing University of Aeronautics and Astronautics, Beijing, China</data>
+      <data key="research">Fixed-Point model, schedule reliability, network service level</data>
+    </node>
+    <node id="Yuanrui Zhang">
+      <data key="affiliation">Peking University</data>
+      <data key="research">low scatternet formation latency, network topology, present BluePower</data>
+    </node>
+    <node id="Jing Luo">
+      <data key="affiliation">Nan</data>
+      <data key="research">cardiac hypertrophy, Myocardin-Related Transcription Factor-A, cardiac hypertrophic-special genes expression</data>
+    </node>
+    <node id="Tao Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">system model, conditional transition system, Real-Time System</data>
+    </node>
+    <node id="Zongxia Xie">
+      <data key="affiliation">Harbin Institute of Technology, Power Engineering, 150001, Heilongjiang Province, PR China</data>
+      <data key="research">base classifier, classification accuracy, boundary sample</data>
+    </node>
+    <node id="Huaqiang Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">Port ProjectSanchaji Bridge, Sanchaji Bridge, Hinterland Segmentation</data>
+    </node>
+    <node id="Hui Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">alarm rate, false alarm rate, fault prediction method</data>
+    </node>
+    <node id="Aijun Yan">
+      <data key="affiliation">Nan</data>
+      <data key="research">alarm rate, false alarm rate, fault prediction method</data>
+    </node>
+    <node id="Lianyu Zhao">
+      <data key="affiliation">Nan</data>
+      <data key="research">Free web, web page, censorship-resistant web</data>
+    </node>
+    <node id="Caiming Liu">
+      <data key="affiliation">Laboratory of Intelligent Information Processing and Application, Leshan Normal University, Leshan, China</data>
+      <data key="research">self space, variable-sized self radius, variable-sized self radiusNegative selection</data>
+    </node>
+    <node id="Pu Wang">
+      <data key="affiliation">Department of management, Naval University of Engineering, Wuhan, China</data>
+      <data key="research">MOGA scheduling scheme, complex job scheduling scenario, multi-objective genetic algorithmJob scheduling</data>
+    </node>
+    <node id="Xingwei Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">PlanetLab data, data assignment, P2PVoD SystemIn</data>
+    </node>
+    <edge source="Weixian Wang" target="Aijun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weixian Wang" target="Chunxiao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weixian Wang" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huiqing Zhang" target="Pu Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huiqing Zhang" target="Aijun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Haidong Zhong" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Huaqiang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Jing Luo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Aijun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Wenwen Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Zhi-Chun Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chunxiao Zhang" target="Tao Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Minhyuk Chang" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jianzhong Cui" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Youjun Yue" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Wenwen Li" target="Huaqiang Zhang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuanrui Zhang" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jing Luo" target="Jing Luo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zongxia Xie" target="Hui Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Huaqiang Zhang" target="Caiming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhao" target="Lianyu Zhao">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhao" target="Xingwei Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhao" target="Caiming Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhao" target="Aijun Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aijun Yan" target="Pu Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

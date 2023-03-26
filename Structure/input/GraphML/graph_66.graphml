@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="John Snyder">
+      <data key="affiliation">AT&amp;T Bell Laboratories, Murray Hill, NJ</data>
+      <data key="research">feedback loop, large software application, reusable software</data>
+    </node>
+    <node id="Yennun Huang">
+      <data key="affiliation">Research Center for Information Technology Innovation, Academia Sinica, Taipei, Taiwan</data>
+      <data key="research">security researcher, Holography platform, malware program</data>
+    </node>
+    <node id="Richard Ferri">
+      <data key="affiliation">Nan</data>
+      <data key="research">feedback loop, different reuse measure, reuse growth factor</data>
+    </node>
+    <node id="C V. Ramamoorthy">
+      <data key="affiliation">Department of Electrical Engineering and Computer Sciences and the Electronics Research Laboratory, University of California</data>
+      <data key="research">software system, software development, software engineering</data>
+    </node>
+    <node id="David W. Thomas">
+      <data key="affiliation">Nan</data>
+      <data key="research">telecommunication network, feedback loop, application software</data>
+    </node>
+    <node id="Jeffrey Korn">
+      <data key="affiliation">AT&amp;T LabsResearch</data>
+      <data key="research">visualization technique, Graph Sketches, graph sketch</data>
+    </node>
+    <node id="K. P. Vo">
+      <data key="affiliation">AT&amp;T LaboratoriesResearch, Florham, NJ</data>
+      <data key="research">Compressing table data, business data, compact data structure</data>
+    </node>
+    <node id="Balachander Krishnamurthy">
+      <data key="affiliation">AT&amp;TLabs––Research</data>
+      <data key="research">data retention, personal data flow, user data</data>
+    </node>
+    <node id="Daniel Stern">
+      <data key="affiliation">AT&amp;T Labs  Research, Florham Park, NJ, USA</data>
+      <data key="research">world map, P2P technology, mobile user</data>
+    </node>
+    <node id="Raghavan Pratiwadi">
+      <data key="affiliation">Nan</data>
+      <data key="research">telecommunication network, feedback loop, application software</data>
+    </node>
+    <node id="Matti A. Hiltunen">
+      <data key="affiliation">AT&amp;TLabsResearch, Florham Park</data>
+      <data key="research">networked system, realistic e-commerce system, SystemsAutomatic system monitoring</data>
+    </node>
+    <node id="Greg Thompson">
+      <data key="affiliation">Nan</data>
+      <data key="research">memory hierarchy performance, SPEC benchmarks, context switch</data>
+    </node>
+    <node id="Glenn Fowler">
+      <data key="affiliation">AT&amp;T LaboratoriesResearch, Florham, NJ</data>
+      <data key="research">automorphism partition, table compression, massive table</data>
+    </node>
+    <node id="Ambalavaner Logenthiran">
+      <data key="affiliation">Nan</data>
+      <data key="research">telecommunication network, network capacity planning, network information technology software</data>
+    </node>
+    <node id="Emiliano Miluzzo">
+      <data key="affiliation">AT&amp;T Labs  Research, USA</data>
+      <data key="research">mobile phone, mobile device, sensor network</data>
+    </node>
+    <node id="Glen Otero">
+      <data key="affiliation">PhD in Immunology and Microbiology and runs a consulting company called Linux Prophet in San Diego, California</data>
+      <data key="research">Beowulf cluster, Beowulf state, Building Linux ClustersLinux ProphetLinux</data>
+    </node>
+    <node id="David C. Gibbon">
+      <data key="affiliation">AT&amp;T Labs Research, Florham Park, NJ</data>
+      <data key="research">information retrieval, fresh content, Internet video system</data>
+    </node>
+    <node id="Thomas Ball">
+      <data key="affiliation">Microsoft Research, Redmond, WA</data>
+      <data key="research">predicate abstraction, model checking, first-order satisfaction</data>
+    </node>
+    <node id="Yih-Farn Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">Mobile Phone, WSN Infrastructure, major challenge</data>
+    </node>
+    <node id="Tim Souder">
+      <data key="affiliation">College of Information Science and Technology, Drexel University, Philadelphia, PA</data>
+      <data key="research">Legacy Access model, reverse engineering tool, legacy application</data>
+    </node>
+    <edge source="John Snyder" target="Richard Ferri">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="David W. Thomas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="K. P. Vo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="Balachander Krishnamurthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="Raghavan Pratiwadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Snyder" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yennun Huang" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yennun Huang" target="K. P. Vo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="Raghavan Pratiwadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="K. P. Vo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="David W. Thomas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="Balachander Krishnamurthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="Glen Otero">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Ferri" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C V. Ramamoorthy" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="Balachander Krishnamurthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="K. P. Vo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="Ambalavaner Logenthiran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David W. Thomas" target="Raghavan Pratiwadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey Korn" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeffrey Korn" target="Tim Souder">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. P. Vo" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. P. Vo" target="Balachander Krishnamurthy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. P. Vo" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. P. Vo" target="Raghavan Pratiwadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Balachander Krishnamurthy" target="Raghavan Pratiwadi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Balachander Krishnamurthy" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Balachander Krishnamurthy" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Stern" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel Stern" target="David C. Gibbon">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghavan Pratiwadi" target="Glenn Fowler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghavan Pratiwadi" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Raghavan Pratiwadi" target="Ambalavaner Logenthiran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Matti A. Hiltunen" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Greg Thompson" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Glenn Fowler" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Emiliano Miluzzo" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David C. Gibbon" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Thomas Ball" target="Yih-Farn Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yih-Farn Chen" target="Tim Souder">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

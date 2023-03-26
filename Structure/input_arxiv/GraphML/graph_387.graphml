@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P131414">
+      <data key="title">fashion mnist a novel image dataset for benchmarking machine learning algorithms</data>
+    </node>
+    <node id="P59254">
+      <data key="title">convolutional kernel networks</data>
+    </node>
+    <node id="P81085">
+      <data key="title">decoupled neural interfaces using synthetic gradients</data>
+    </node>
+    <node id="P47792">
+      <data key="title">beyond temporal pooling recurrence and temporal convolutions for gesture recognition in video</data>
+    </node>
+    <node id="P497">
+      <data key="title">learning multiple levels of representations with kernel machines</data>
+    </node>
+    <node id="P69794">
+      <data key="title">batch normalization accelerating deep network training by reducing internal covariate shift</data>
+    </node>
+    <node id="P101507">
+      <data key="title">on the depth of deep neural networks a theoretical view</data>
+    </node>
+    <node id="P37">
+      <data key="title">how auto encoders could provide credit assignment in deep networks via target propagation</data>
+    </node>
+    <node id="P112483">
+      <data key="title">deep learning using linear support vector machines</data>
+    </node>
+    <node id="P65090">
+      <data key="title">distributed optimization of deeply nested systems</data>
+    </node>
+    <node id="P79694">
+      <data key="title">deep manifold traversal changing labels with convolutional features</data>
+    </node>
+    <node id="P61896">
+      <data key="title">kickback cuts backprop s red tape biologically plausible credit assignment in neural networks</data>
+    </node>
+    <node id="P30486">
+      <data key="title">a neural algorithm of artistic style</data>
+    </node>
+    <node id="P70326">
+      <data key="title">embed to control a locally linear latent dynamics model for control from raw images</data>
+    </node>
+    <node id="P61252">
+      <data key="title">deep kernel learning</data>
+    </node>
+    <node id="P95572">
+      <data key="title">learning functions when is deep better than shallow</data>
+    </node>
+    <node id="P1353">
+      <data key="title">adam a method for stochastic optimization</data>
+    </node>
+    <node id="P6795">
+      <data key="title">layer wise training of deep networks using kernel similarity</data>
+    </node>
+    <node id="P105039">
+      <data key="title">deep forest</data>
+    </node>
+    <node id="P71146">
+      <data key="title">deep forest towards an alternative to deep neural networks</data>
+    </node>
+    <edge source="P131414" target="P497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59254" target="P497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P37">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P65090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P61896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81085" target="P497">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47792" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P112483">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P37">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P65090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P30486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P61252">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P79694">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P95572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P6795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P105039">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P71146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P61896">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P497" target="P101507">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P95572">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37" target="P65090">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79694" target="P30486">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70326" target="P1353">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

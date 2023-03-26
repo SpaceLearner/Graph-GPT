@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P168786">
+      <data key="title">signed distance based deep memory recommender</data>
+    </node>
+    <node id="P131864">
+      <data key="title">empirical analysis of predictive algorithms for collaborative filtering</data>
+    </node>
+    <node id="P329">
+      <data key="title">fusing similarity models with markov chains for sparse sequential recommendation</data>
+    </node>
+    <node id="P142037">
+      <data key="title">a hierarchical contextual attention based gru network for sequential recommendation</data>
+    </node>
+    <node id="P130275">
+      <data key="title">detecting changes in user preferences using hidden markov models for sequential recommendation tasks</data>
+    </node>
+    <node id="P21419">
+      <data key="title">vbpr visual bayesian personalized ranking from implicit feedback</data>
+    </node>
+    <node id="P87965">
+      <data key="title">next item recommendation with self attention</data>
+    </node>
+    <node id="P126148">
+      <data key="title">ale additive latent effect models for grade prediction</data>
+    </node>
+    <node id="P113195">
+      <data key="title">advanced customer activity prediction based on deep hierarchic encoder decoders</data>
+    </node>
+    <node id="P98629">
+      <data key="title">towards neural mixture recommender for long range dependent user sequences</data>
+    </node>
+    <node id="P16616">
+      <data key="title">bert4rec sequential recommendation with bidirectional encoder representations from transformer</data>
+    </node>
+    <node id="P150220">
+      <data key="title">self attentive sequential recommendation</data>
+    </node>
+    <node id="P39324">
+      <data key="title">image based recommendations on styles and substitutes</data>
+    </node>
+    <node id="P147702">
+      <data key="title">a survey on session based recommender systems</data>
+    </node>
+    <node id="P30913">
+      <data key="title">evaluation of session based recommendation algorithms</data>
+    </node>
+    <node id="P121393">
+      <data key="title">an mdp based recommender system</data>
+    </node>
+    <node id="P131921">
+      <data key="title">using temporal data for making recommendations</data>
+    </node>
+    <node id="P11235">
+      <data key="title">bpr bayesian personalized ranking from implicit feedback</data>
+    </node>
+    <node id="P74990">
+      <data key="title">multi scale quasi rnn for next item recommendation</data>
+    </node>
+    <node id="P74883">
+      <data key="title">context tree for adaptive session based recommendation</data>
+    </node>
+    <edge source="P168786" target="P329">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168786" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131864" target="P329">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131864" target="P131921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131864" target="P121393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P21419">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P39324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P131921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P121393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P142037">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P126148">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P30913">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P74883">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P87965">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P150220">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P130275">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P147702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P98629">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P74990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P16616">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P329" target="P113195">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142037" target="P21419">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P142037" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P130275" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21419" target="P39324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21419" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21419" target="P87965">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21419" target="P147702">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87965" target="P39324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87965" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P98629" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16616" target="P150220">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16616" target="P39324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16616" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150220" target="P39324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150220" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P150220" target="P74990">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30913" target="P11235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30913" target="P74883">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121393" target="P74883">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P121393" target="P131921">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11235" target="P74990">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

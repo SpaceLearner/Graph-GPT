@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P159743">
+      <data key="title">memristors for the curious outsiders</data>
+    </node>
+    <node id="P1802">
+      <data key="title">accelerating deep learning with memcomputing</data>
+    </node>
+    <node id="P69064">
+      <data key="title">memcomputing and swarm intelligence</data>
+    </node>
+    <node id="P104686">
+      <data key="title">polynomial time solution of prime factorization and np complete problems with digital memcomputing machines</data>
+    </node>
+    <node id="P100717">
+      <data key="title">memcomputing np complete problems in polynomial time using polynomial resources and collective states</data>
+    </node>
+    <node id="P146579">
+      <data key="title">memcomputing numerical inversion with self organizing logic gates</data>
+    </node>
+    <node id="P111273">
+      <data key="title">self organization and solution of shortest path optimization problems with memristive networks</data>
+    </node>
+    <node id="P78646">
+      <data key="title">on the universality of memcomputing machines</data>
+    </node>
+    <node id="P2775">
+      <data key="title">universal memcomputing machines</data>
+    </node>
+    <node id="P16303">
+      <data key="title">mixed precision in memory computing</data>
+    </node>
+    <node id="P20016">
+      <data key="title">the parallel approach</data>
+    </node>
+    <node id="P29226">
+      <data key="title">slime mould memristors</data>
+    </node>
+    <node id="P142069">
+      <data key="title">in memory computing on a photonic platform</data>
+    </node>
+    <node id="P125727">
+      <data key="title">applicability of well established memristive models for simulations of resistive switching devices</data>
+    </node>
+    <node id="P30909">
+      <data key="title">an fpga based massively parallel neuromorphic cortex simulator</data>
+    </node>
+    <node id="P47112">
+      <data key="title">a scalable method to find the shortest path in a graph with circuits of memristors</data>
+    </node>
+    <node id="P139036">
+      <data key="title">dynamic computing random access memory</data>
+    </node>
+    <node id="P298">
+      <data key="title">image edge detection based on swarm intelligence using memristive networks</data>
+    </node>
+    <node id="P50152">
+      <data key="title">transient dynamics of pulse driven memristors in the presence of a stable fixed point</data>
+    </node>
+    <node id="P162041">
+      <data key="title">perspectives of using oscillators for computing and signal processing</data>
+    </node>
+    <edge source="P159743" target="P29226">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159743" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159743" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159743" target="P111273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159743" target="P100717">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159743" target="P104686">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1802" target="P78646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1802" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1802" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1802" target="P104686">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1802" target="P146579">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69064" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69064" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69064" target="P111273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69064" target="P298">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104686" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104686" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104686" target="P139036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104686" target="P100717">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104686" target="P78646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P139036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P78646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P162041">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100717" target="P146579">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146579" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146579" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111273" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111273" target="P47112">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111273" target="P50152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78646" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78646" target="P2775">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2775" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2775" target="P139036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2775" target="P16303">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P2775" target="P142069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16303" target="P20016">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16303" target="P142069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20016" target="P125727">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20016" target="P139036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20016" target="P142069">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20016" target="P162041">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P20016" target="P50152">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29226" target="P47112">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P30909" target="P47112">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47112" target="P298">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

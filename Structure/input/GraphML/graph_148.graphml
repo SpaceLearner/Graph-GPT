@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="K. Hashimoto">
+      <data key="affiliation">Toshiba Corporation, Kawasaki, Japan</data>
+      <data key="research">high speed CPU design, CAD tool</data>
+    </node>
+    <node id="K. Ichikawa">
+      <data key="affiliation">Research Institute for Applied Mechanics, Kyushu University, Kasuga, 8168580 Japan,Institute of Observational Research for Global Change, Japan Agency for MarineEarth Science and Technology, Yok ...</data>
+      <data key="research">Kuroshio variation, HF radar data, coincident Kuroshio</data>
+    </node>
+    <node id="K. Murano">
+      <data key="affiliation">Nan</data>
+      <data key="research">passive bus, Allows various extended bus, bus length limitation</data>
+    </node>
+    <node id="M. Inoue">
+      <data key="affiliation">Nan</data>
+      <data key="research">junction diode, nitrogen donor, p junctionAl</data>
+    </node>
+    <node id="S. Kojima">
+      <data key="affiliation">Nan</data>
+      <data key="research">biological signal, biological condition, noninvasive system</data>
+    </node>
+    <node id="T. Matsumura">
+      <data key="affiliation">The author is with Marine System Associates, Urasoeshi, 9012560 Japan.,</data>
+      <data key="research">Chromosome Migration, proposed method, proposed scheme</data>
+    </node>
+    <node id="T. Nakagawa">
+      <data key="affiliation">Nan</data>
+      <data key="research">deflection yoke, hybrid method, magnetic plate</data>
+    </node>
+    <node id="H. Tabayashi">
+      <data key="affiliation">Humanoid Robotics Institute, Waseda University, 341 Okubo Shinjukuku, Tokyo 1698555, Japan</data>
+      <data key="research">Waseda University, Humanoid RobotThe, Humanoid Robotics Institute</data>
+    </node>
+    <node id="S. Fujii">
+      <data key="affiliation">National Institute of Information and Communications Technology, 4484 Onna, Kunigami, 9040411 Japan,Faculty of Engineering, University of Ryukyus, Nishihara, 9030213 Japan</data>
+      <data key="research">Kuroshio variation, HF radar data, coincident Kuroshio</data>
+    </node>
+    <node id="Yukou Mochida">
+      <data key="affiliation">Network Systems Laboratories, Fujitsu Laboratories Ltd., Kamikodanaka  411, NakaharaKu, Kawasaki, 2118588, Japan  Email: &lt;rfc822&gt;mochida@fujitsu.com&lt;/rfc822&gt;</data>
+      <data key="research">next-generation IP network, WDM technology, bi-directionalloop network</data>
+    </node>
+    <node id="K. Nakajima">
+      <data key="affiliation">Nan</data>
+      <data key="research">Multicomponent zone melting growth, bulk crystal, ternary InGaAs</data>
+    </node>
+    <node id="T. Ikezawa">
+      <data key="affiliation">Nan</data>
+      <data key="research">conventional CCD, k CCD, image area</data>
+    </node>
+    <node id="H. Sawada">
+      <data key="affiliation">Nan</data>
+      <data key="research">partial discharge detector, Electronic CircuitsA partial discharge, discharge pulse component</data>
+    </node>
+    <node id="T. Matsuoka">
+      <data key="affiliation">National Institute of Information and Communications Technology, 4484 Onna, Kunigami, 9040411 Japan</data>
+      <data key="research">Kuroshio variation, HF radar data, coincident Kuroshio</data>
+    </node>
+    <node id="S. Morita">
+      <data key="affiliation">Nan</data>
+      <data key="research">adaptive user interface control, human interface, intelligent human interface</data>
+    </node>
+    <node id="T. Tsuda">
+      <data key="affiliation">Kyoto Univ., Kyoto, Japan</data>
+      <data key="research">extended main storage, semiconductor extended storage, external multidimensional</data>
+    </node>
+    <node id="Seinosuke Narita">
+      <data key="affiliation">Nan</data>
+      <data key="research">simulation CAI system, simulation CAI, discusses implementation</data>
+    </node>
+    <node id="I. Yamauchi">
+      <data key="affiliation">Nan</data>
+      <data key="research">flyback transformer, corona discharge, flyback pulse</data>
+    </node>
+    <node id="T. Mizushima">
+      <data key="affiliation">AVC Products Dev. Labs., Matsushita Electr. Ind. Co. Ltd., Osaka</data>
+      <data key="research">consumer-use digital VCR, digital VCR, digital VCRA study</data>
+    </node>
+    <node id="K. Sato">
+      <data key="affiliation">Nan</data>
+      <data key="research">InP heterostructure, atmospheric-pressure MOVPE, cyclopentadienyl indium</data>
+    </node>
+    <edge source="K. Hashimoto" target="H. Sawada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="T. Nakagawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="H. Tabayashi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="T. Mizushima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="Seinosuke Narita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Hashimoto" target="S. Morita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ichikawa" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ichikawa" target="S. Kojima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ichikawa" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Ichikawa" target="T. Matsuoka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Murano" target="T. Tsuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Murano" target="T. Matsumura">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Murano" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Murano" target="Yukou Mochida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Inoue" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Kojima" target="T. Matsuoka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Kojima" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Kojima" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Matsumura" target="T. Tsuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Matsumura" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Matsumura" target="T. Ikezawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Nakagawa" target="S. Fujii">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Nakagawa" target="T. Mizushima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Tabayashi" target="S. Morita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Tabayashi" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Tabayashi" target="Seinosuke Narita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Tabayashi" target="H. Sawada">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="T. Tsuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="Yukou Mochida">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="T. Mizushima">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="T. Ikezawa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Fujii" target="T. Matsuoka">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yukou Mochida" target="T. Tsuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Nakajima" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Ikezawa" target="T. Tsuda">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sawada" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sawada" target="S. Morita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. Sawada" target="Seinosuke Narita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="T. Matsuoka" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Morita" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. Morita" target="Seinosuke Narita">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seinosuke Narita" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="I. Yamauchi" target="K. Sato">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

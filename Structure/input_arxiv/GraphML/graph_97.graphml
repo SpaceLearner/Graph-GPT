@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P138295">
+      <data key="title">a hybrid approach to persistent coverage in stochastic environments</data>
+    </node>
+    <node id="P160942">
+      <data key="title">coordinate free quantification of coverage in dynamic sensor networks</data>
+    </node>
+    <node id="P64718">
+      <data key="title">internet of things iot a vision architectural elements and future directions</data>
+    </node>
+    <node id="P14086">
+      <data key="title">persistent monitoring of events with stochastic arrivals at multiple stations</data>
+    </node>
+    <node id="P89619">
+      <data key="title">iterative milp methods for vehicle control problems</data>
+    </node>
+    <node id="P131595">
+      <data key="title">collision free navigation of a multi robot team for intruder interception</data>
+    </node>
+    <node id="P120">
+      <data key="title">area coverage under low sensor density</data>
+    </node>
+    <node id="P109863">
+      <data key="title">to compress or not to compress processing vs transmission tradeoffs for energy constrained sensor networking</data>
+    </node>
+    <node id="P4790">
+      <data key="title">analysis of dynamic task allocation in multi robot systems</data>
+    </node>
+    <node id="P46089">
+      <data key="title">practical recommendations for gradient based training of deep architectures</data>
+    </node>
+    <node id="P147536">
+      <data key="title">deep learning in mobile and wireless networking a survey</data>
+    </node>
+    <node id="P78904">
+      <data key="title">on detection of critical events in a finite forest using randomly deployed wireless sensors</data>
+    </node>
+    <node id="P54121">
+      <data key="title">dynamic coverage of mobile sensor networks</data>
+    </node>
+    <node id="P147237">
+      <data key="title">rate distortion balanced data compression for wireless sensor networks</data>
+    </node>
+    <node id="P70599">
+      <data key="title">decentralized autonomous navigation strategies for multi robot search and rescue</data>
+    </node>
+    <node id="P64389">
+      <data key="title">joint data compression and computation offloading in hierarchical fog cloud systems</data>
+    </node>
+    <node id="P108636">
+      <data key="title">machine learning in wireless sensor networks algorithms strategies and applications</data>
+    </node>
+    <node id="P47619">
+      <data key="title">multi robot persistent surveillance with connectivity constraints</data>
+    </node>
+    <node id="P168215">
+      <data key="title">persistent robotic tasks monitoring and sweeping in changing environments</data>
+    </node>
+    <node id="P65056">
+      <data key="title">computing over the reals foundations for scientific computing</data>
+    </node>
+    <edge source="P138295" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138295" target="P14086">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P138295" target="P54121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P160942" target="P54121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64718" target="P147237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14086" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89619" target="P131595">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131595" target="P54121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120" target="P54121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120" target="P147237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109863" target="P147237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P4790" target="P70599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46089" target="P147237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147536" target="P108636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147536" target="P147237">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78904" target="P54121">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54121" target="P70599">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P54121" target="P47619">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147237" target="P65056">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147237" target="P108636">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147237" target="P64389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47619" target="P168215">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

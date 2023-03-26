@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="M. Gittings">
+      <data key="affiliation">Science Applications International</data>
+      <data key="research">Crestone Project, Los Alamos Crestone Project, commodity cluster</data>
+    </node>
+    <node id="Peter Eeles">
+      <data key="affiliation">SSA, Inc.</data>
+      <data key="research">reusable asset, process chapter, IBM rational software development</data>
+    </node>
+    <node id="John Rieman">
+      <data key="affiliation">MRC Applied Psychology Unit, 15 Chaucer Rd, Cambridge, CB2 2EF, England</data>
+      <data key="research">exploratory learning, design alternative, diary study</data>
+    </node>
+    <node id="Dan Johnson">
+      <data key="affiliation">Northwestern University , Evanston, Illinois, USA</data>
+      <data key="research">touch interaction, touch interface, variable friction</data>
+    </node>
+    <node id="Nicholas Wilde">
+      <data key="affiliation">Department of Computer Science, University of Montana  Missoula, Missoula, MT</data>
+      <data key="research">spreadsheet model, NoPumpG prototype, application experience</data>
+    </node>
+    <node id="Barry G Silverman">
+      <data key="affiliation">Disus Inc.</data>
+      <data key="research">social system, agent technology, cognitively detailed agent</data>
+    </node>
+    <node id="Michael Johns">
+      <data key="affiliation">University of Pennsylvania, Department of Electrical and Systems Engineering, Philadelphia, Pennsylvania</data>
+      <data key="research">human behavior model, human behavior modeling, case study</data>
+    </node>
+    <node id="J. Holmes">
+      <data key="affiliation">Leonard Davis Institute for Health Economics and Center for Clinical Epidemiology and BioStatistics, School of Medicine, Univ. of Pennsylvania, Philadelphia, PA</data>
+      <data key="research">adverse effect, drug event pair, structured text</data>
+    </node>
+    <node id="Simon Johnston">
+      <data key="affiliation">Intelligent Systems Engineering Laboratory, Faculty of Engineering, University of Ulster, Derry, N.Ireland</data>
+      <data key="research">neuron model, neuron technology, spiking neuron implementation</data>
+    </node>
+    <node id="Robert B. Schnabel">
+      <data key="affiliation">Indiana University, Bloomington, IN, USA</data>
+      <data key="research">tensor method, nonlinear equation, direct tensor method</data>
+    </node>
+    <node id="Ben Zorn">
+      <data key="affiliation">Microsoft Research, USA</data>
+      <data key="research">international conference, Parallel architecture, excellent job</data>
+    </node>
+    <node id="Clint Scovel">
+      <data key="affiliation">Los Alamos National Laboratory, Los Alamos, NM, 87545, USA. &lt;rfc822&gt;jcs@lanl.gov&lt;/rfc822&gt;</data>
+      <data key="research">support vector machine, approximation error function, decomposition algorithm</data>
+    </node>
+    <node id="Brigham Bell">
+      <data key="affiliation">Nan</data>
+      <data key="research">intelligent tutoring system</data>
+    </node>
+    <node id="Aline Normoyle">
+      <data key="affiliation">Electrical and Systems Engineering, University of Pennsylvania, Philadelphia, PA</data>
+      <data key="research">good motion set, human motion, motion editing</data>
+    </node>
+    <node id="Clayton Lewis">
+      <data key="affiliation">Coleman Institute for Cognitive Disabilities, University of Colorado System, Boulder</data>
+      <data key="research">cognitive disability, user interface, cursor speed</data>
+    </node>
+    <node id="R. Weaver">
+      <data key="affiliation">Los Alamos Nat. Lab., NM, USA</data>
+      <data key="research">Crestone Project, Los Alamos Crestone Project, commodity cluster</data>
+    </node>
+    <node id="A W Brown">
+      <data key="affiliation">IBM Software Group</data>
+      <data key="research">software architecture, IBM rational software development, new software technology</data>
+    </node>
+    <node id="M. Delbaere">
+      <data key="affiliation">IBM Software Group</data>
+      <data key="research">service-oriented solution, IBM rational software development, financial services industry</data>
+    </node>
+    <node id="M. Rosing">
+      <data key="affiliation">Steve Yabusaki, Pacific Northwest National Laboratory</data>
+      <data key="research">memory machine, new language, memory multiprocessors</data>
+    </node>
+    <node id="W. Citrin">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Colorado, Boulder</data>
+      <data key="research">pen scribing, input device, communications architecture specification</data>
+    </node>
+    <edge source="M. Gittings" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Gittings" target="Clint Scovel">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Eeles" target="Simon Johnston">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Eeles" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Eeles" target="M. Delbaere">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Peter Eeles" target="A W Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="Brigham Bell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="Clayton Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="Nicholas Wilde">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Rieman" target="Ben Zorn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Johnson" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dan Johnson" target="Barry G Silverman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas Wilde" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas Wilde" target="Clayton Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas Wilde" target="Ben Zorn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas Wilde" target="Brigham Bell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nicholas Wilde" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barry G Silverman" target="Aline Normoyle">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barry G Silverman" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barry G Silverman" target="Michael Johns">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Barry G Silverman" target="J. Holmes">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Michael Johns" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. Holmes" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Simon Johnston" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Simon Johnston" target="A W Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Simon Johnston" target="M. Delbaere">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. Schnabel" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. Schnabel" target="M. Rosing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. Schnabel" target="Ben Zorn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben Zorn" target="Clayton Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben Zorn" target="Brigham Bell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben Zorn" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ben Zorn" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clint Scovel" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brigham Bell" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brigham Bell" target="Clayton Lewis">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Brigham Bell" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Aline Normoyle" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clayton Lewis" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Clayton Lewis" target="R. Weaver">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Weaver" target="M. Rosing">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Weaver" target="W. Citrin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Weaver" target="M. Delbaere">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R. Weaver" target="A W Brown">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A W Brown" target="M. Delbaere">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

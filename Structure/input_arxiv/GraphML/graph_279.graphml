@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P109114">
+      <data key="title">empirical evaluation of contextual policy search with a comparison based surrogate model and active covariance matrix adaptation</data>
+    </node>
+    <node id="P99434">
+      <data key="title">adaptive submodularity theory and applications in active learning and stochastic optimization</data>
+    </node>
+    <node id="P84729">
+      <data key="title">regret bounds for deterministic gaussian process bandits</data>
+    </node>
+    <node id="P86084">
+      <data key="title">active learning for autonomous intelligent agents exploration curiosity and interaction</data>
+    </node>
+    <node id="P18960">
+      <data key="title">hindsight experience replay</data>
+    </node>
+    <node id="P58582">
+      <data key="title">portfolio allocation for bayesian optimization</data>
+    </node>
+    <node id="P346">
+      <data key="title">factored contextual policy search with bayesian optimization</data>
+    </node>
+    <node id="P29300">
+      <data key="title">gaussian process bandits for tree search theory and application to planning in discounted mdps</data>
+    </node>
+    <node id="P41610">
+      <data key="title">learning flexible and reusable locomotion primitives for a microrobot</data>
+    </node>
+    <node id="P157129">
+      <data key="title">learning parameterized skills</data>
+    </node>
+    <node id="P16023">
+      <data key="title">a tutorial on bayesian optimization of expensive cost functions with application to active user modeling and hierarchical reinforcement learning</data>
+    </node>
+    <node id="P5288">
+      <data key="title">big learning with bayesian methods</data>
+    </node>
+    <node id="P85674">
+      <data key="title">hierarchical reinforcement learning with the maxq value function decomposition</data>
+    </node>
+    <node id="P159017">
+      <data key="title">hybrid batch bayesian optimization</data>
+    </node>
+    <node id="P82587">
+      <data key="title">multi goal reinforcement learning challenging robotics environments and request for research</data>
+    </node>
+    <node id="P76934">
+      <data key="title">heteroscedastic treed bayesian optimisation</data>
+    </node>
+    <node id="P87827">
+      <data key="title">hindsight policy gradients</data>
+    </node>
+    <node id="P84724">
+      <data key="title">no free lunch theorem and bayesian probability theory two sides of the same coin some implications for black box optimization and metaheuristics</data>
+    </node>
+    <node id="P75680">
+      <data key="title">robots that can adapt like animals</data>
+    </node>
+    <node id="P149809">
+      <data key="title">hyper parameter optimization of deep convolutional networks for object recognition</data>
+    </node>
+    <edge source="P109114" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P109114" target="P346">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99434" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84729" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P84729" target="P58582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86084" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86084" target="P58582">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18960" target="P346">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18960" target="P157129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18960" target="P87827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18960" target="P82587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58582" target="P76934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58582" target="P84724">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58582" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P346" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P346" target="P82587">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P346" target="P41610">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P346" target="P157129">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P346" target="P87827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29300" target="P16023">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P157129" target="P87827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P76934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P84724">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P75680">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P5288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P149809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P85674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P16023" target="P159017">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85674" target="P87827">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159017" target="P76934">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82587" target="P87827">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

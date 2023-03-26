@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P7">
+      <data key="title">information theoretic authentication and secrecy codes in the splitting model</data>
+    </node>
+    <node id="P58655">
+      <data key="title">new families of optimal frequency hopping sequence sets</data>
+    </node>
+    <node id="P127093">
+      <data key="title">a characterization of the capacity of online causal binary channels</data>
+    </node>
+    <node id="P75248">
+      <data key="title">binary causal adversary channels</data>
+    </node>
+    <node id="P111259">
+      <data key="title">high rate self synchronizing codes</data>
+    </node>
+    <node id="P37315">
+      <data key="title">on an almost universal hash function family with applications to authentication and secrecy codes</data>
+    </node>
+    <node id="P28760">
+      <data key="title">disjoint difference families and their applications</data>
+    </node>
+    <node id="P100898">
+      <data key="title">coding against deletions in oblivious and online models</data>
+    </node>
+    <node id="P58886">
+      <data key="title">an operational characterization of mutual information in algorithmic information theory</data>
+    </node>
+    <node id="P1510">
+      <data key="title">authentication and secrecy codes for equiprobable source probability distributions</data>
+    </node>
+    <node id="P87344">
+      <data key="title">optimal rate code constructions for computationally simple channels</data>
+    </node>
+    <node id="P78288">
+      <data key="title">computational complexity of reconstruction and isomorphism testing for designs and line graphs</data>
+    </node>
+    <node id="P154020">
+      <data key="title">relaxed locally correctable codes in computationally bounded channels</data>
+    </node>
+    <node id="P35840">
+      <data key="title">non overlapping codes</data>
+    </node>
+    <node id="P27968">
+      <data key="title">correction of samplable additive errors</data>
+    </node>
+    <node id="P86083">
+      <data key="title">information theoretic security without an honest majority</data>
+    </node>
+    <node id="P75805">
+      <data key="title">beating the gilbert varshamov bound for online channels</data>
+    </node>
+    <node id="P64522">
+      <data key="title">strong secrecy and reliable byzantine detection in the presence of an untrusted relay</data>
+    </node>
+    <node id="P58581">
+      <data key="title">combinatorial bounds and characterizations of splitting authentication codes</data>
+    </node>
+    <node id="P63847">
+      <data key="title">channel polarization a method for constructing capacity achieving codes for symmetric binary input memoryless channels</data>
+    </node>
+    <edge source="P7" target="P58581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7" target="P28760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58655" target="P28760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127093" target="P87344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127093" target="P75805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127093" target="P75248">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127093" target="P100898">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75248" target="P87344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P75248" target="P75805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111259" target="P28760">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P37315" target="P1510">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P87344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P86083">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P35840">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P58581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P1510">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28760" target="P64522">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100898" target="P87344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58886" target="P87344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1510" target="P78288">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P1510" target="P58581">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87344" target="P63847">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87344" target="P75805">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87344" target="P27968">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87344" target="P154020">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

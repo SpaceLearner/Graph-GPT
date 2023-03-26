@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P79049">
+      <data key="title">exact distance oracles for planar graphs</data>
+    </node>
+    <node id="P164896">
+      <data key="title">randomized speedup of the bellman ford algorithm</data>
+    </node>
+    <node id="P249">
+      <data key="title">improved bounds for shortest paths in dense distance graphs</data>
+    </node>
+    <node id="P168530">
+      <data key="title">planar graph perfect matching is in nc</data>
+    </node>
+    <node id="P89782">
+      <data key="title">faster shortest paths in dense distance graphs with applications</data>
+    </node>
+    <node id="P32141">
+      <data key="title">conditional lower bounds for all pairs max flow</data>
+    </node>
+    <node id="P22868">
+      <data key="title">a near linear approximation scheme for multicuts of embedded graphs with a fixed number of terminals</data>
+    </node>
+    <node id="P5673">
+      <data key="title">nc algorithms for perfect matching and maximum flow in one crossing minor free graphs</data>
+    </node>
+    <node id="P71343">
+      <data key="title">exact distance oracles for planar graphs with failing vertices</data>
+    </node>
+    <node id="P42058">
+      <data key="title">fast and compact exact distance oracle for planar graphs</data>
+    </node>
+    <node id="P137556">
+      <data key="title">all pairs minimum cuts in near linear time for surface embedded graphs</data>
+    </node>
+    <node id="P87573">
+      <data key="title">submatrix maximum queries in monge matrices are equivalent to predecessor search</data>
+    </node>
+    <node id="P113526">
+      <data key="title">min cost flow in unit capacity planar graphs</data>
+    </node>
+    <node id="P81530">
+      <data key="title">structured recursive separator decompositions for planar graphs in linear time</data>
+    </node>
+    <node id="P55371">
+      <data key="title">min st cut oracle for planar graphs with near linear preprocessing time</data>
+    </node>
+    <node id="P83630">
+      <data key="title">popular conjectures as a barrier for dynamic planar graph algorithms</data>
+    </node>
+    <node id="P126520">
+      <data key="title">decremental single source reachability in planar digraphs</data>
+    </node>
+    <node id="P58784">
+      <data key="title">computational topology of graphs on surfaces</data>
+    </node>
+    <node id="P59358">
+      <data key="title">shortest paths in planar graphs with real lengths in o n log 2n log log n time</data>
+    </node>
+    <node id="P55011">
+      <data key="title">holiest minimum cost paths and flows in surface graphs</data>
+    </node>
+    <edge source="P79049" target="P249">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P55011">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P126520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P55371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P59358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P42058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P71343">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P79049" target="P89782">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164896" target="P249">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P137556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P87573">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P55371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P59358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P89782">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P83630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P126520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P42058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P71343">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P249" target="P113526">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168530" target="P137556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168530" target="P5673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89782" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P89782" target="P55371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32141" target="P137556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22868" target="P137556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P5673" target="P137556">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71343" target="P83630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71343" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71343" target="P59358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P71343" target="P42058">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42058" target="P83630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42058" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137556" target="P55371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137556" target="P58784">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137556" target="P55011">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113526" target="P81530">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113526" target="P59358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81530" target="P59358">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81530" target="P126520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81530" target="P55371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55371" target="P55011">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P55371" target="P126520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83630" target="P126520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59358" target="P55011">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jeong-Hwan Kim">
+      <data key="affiliation">Nan</data>
+      <data key="research">microtextured surface, cell-to-surface adhesion, smooth surface</data>
+    </node>
+    <node id="Hyun-Kyu Kang">
+      <data key="affiliation">Department of Computer Science, Konkuk University, Chungbuk, Korea 380701</data>
+      <data key="research">web databases, mutual information, Word Sense Ambiguity</data>
+    </node>
+    <node id="Hitay Özbay">
+      <data key="affiliation">Department of Electrical Engineering, The Ohio State University, Columbus, OH 43210, USA</data>
+      <data key="research">PID controller, robust control, unstable pole</data>
+    </node>
+    <node id="Myeong-Cheol Ko">
+      <data key="affiliation">Multimedia, Graphics Lab. Dept. of Computer Science, Yonsei Univ., Seoul, Korea</data>
+      <data key="research">scheduling algorithm, web databases, critical-path task</data>
+    </node>
+    <node id="Doo-Hyun Kim">
+      <data key="affiliation">Nan</data>
+      <data key="research">Push Model, local delay, Pull Model</data>
+    </node>
+    <node id="Pierre-François D. Quet">
+      <data key="affiliation">Department of Electrical Engineering, The Ohio State University, Columbus, OH 43210, USA</data>
+      <data key="research">power network, time-domain performance, communication network</data>
+    </node>
+    <node id="Young Jae Lee">
+      <data key="affiliation">School of Information and Communication Engineering, Sungkyunkwan University, Suwon 440746, Republic of Korea</data>
+      <data key="research">proposed scheme, inter-reference gap, history information item</data>
+    </node>
+    <node id="Jin Soo Kim">
+      <data key="affiliation">Department of Computer Science, Konkuk University, Chungjusi, Korea 380701</data>
+      <data key="research">IP address lookup, prefix table, Word Sense Ambiguity</data>
+    </node>
+    <node id="Young-Gab Kim">
+      <data key="affiliation">Korea University</data>
+      <data key="research">information system, mobile agent, system architecture</data>
+    </node>
+    <node id="Jiyun Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">human motion generation, motion factor, fuzzy aggregation</data>
+    </node>
+    <node id="Altuğ Iftar">
+      <data key="affiliation">Department of Electrical and Electronics Engineering, Anadolu University, TR26470 Eskişehir, Turkey</data>
+      <data key="research">robust controller design, Rate-based flow controller, congested highwaysA decentralized controller</data>
+    </node>
+    <node id="Shiv Kalyanaraman">
+      <data key="affiliation">ECSE Dept, RPI</data>
+      <data key="research">network protocol, network topology, dynamic network</data>
+    </node>
+    <node id="Ju-Hwan Kim">
+      <data key="affiliation">Dept. of Aerospace Information Engineering, Konkuk University, 1 Hwayangdong, GwangjinGu, Seoul, Republic of Korea</data>
+      <data key="research">MDO methodology, dependent design element, design methodology</data>
+    </node>
+    <node id="Dong Won Jeong">
+      <data key="affiliation">Department of Informatics and Statistics, Kunsan National University, Korea</data>
+      <data key="research">Semantic Web, metadata registry, proposed model</data>
+    </node>
+    <node id="Tae Sam Kang">
+      <data key="affiliation">Department of Aerospace Engineering, Konkuk University, # 1 Whayangdong, Gwangjinku, Seoul 143701, South Korea</data>
+      <data key="research">navigation system, time-domain performance, Monitoring System</data>
+    </node>
+    <node id="Seungjin Lee">
+      <data key="affiliation">Graduate Research Assistant, Department of Aerospace Engineering</data>
+      <data key="research">Integrated Missile System Design, optimization tool, design requirement</data>
+    </node>
+    <node id="Sangkyung Sung">
+      <data key="affiliation">Konkuk University, Seoul, Korea</data>
+      <data key="research">vision-based navigation, navigation system, automotive navigation</data>
+    </node>
+    <node id="Ryumduck Oh">
+      <data key="affiliation">Nan</data>
+      <data key="research">analog amplifier, mobile IT device, broadband wireless service</data>
+    </node>
+    <node id="Doo-Kwon Baik">
+      <data key="affiliation">225Ho, Asan Science Building, Seoul, Korea</data>
+      <data key="research">semantic web, information system, data quality</data>
+    </node>
+    <node id="Jeong-Oog Lee">
+      <data key="affiliation">Konkuk University</data>
+      <data key="research">scheduling algorithm, web databases, critical-path task</data>
+    </node>
+    <edge source="Jeong-Hwan Kim" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeong-Hwan Kim" target="Myeong-Cheol Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeong-Hwan Kim" target="Hyun-Kyu Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Kyu Kang" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Kyu Kang" target="Myeong-Cheol Ko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Kyu Kang" target="Jin Soo Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Kyu Kang" target="Ryumduck Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hyun-Kyu Kang" target="Doo-Hyun Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hitay Özbay" target="Pierre-François D. Quet">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hitay Özbay" target="Tae Sam Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hitay Özbay" target="Altuğ Iftar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hitay Özbay" target="Shiv Kalyanaraman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myeong-Cheol Ko" target="Ryumduck Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myeong-Cheol Ko" target="Doo-Hyun Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myeong-Cheol Ko" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myeong-Cheol Ko" target="Jin Soo Kim">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doo-Hyun Kim" target="Ryumduck Oh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doo-Hyun Kim" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pierre-François D. Quet" target="Shiv Kalyanaraman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pierre-François D. Quet" target="Tae Sam Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pierre-François D. Quet" target="Altuğ Iftar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Jae Lee" target="Tae Sam Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Jae Lee" target="Jiyun Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Jae Lee" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young Jae Lee" target="Sangkyung Sung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jin Soo Kim" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-Gab Kim" target="Dong Won Jeong">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-Gab Kim" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Young-Gab Kim" target="Doo-Kwon Baik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jiyun Lee" target="Sangkyung Sung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Altuğ Iftar" target="Tae Sam Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Altuğ Iftar" target="Shiv Kalyanaraman">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shiv Kalyanaraman" target="Tae Sam Kang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ju-Hwan Kim" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Won Jeong" target="Doo-Kwon Baik">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dong Won Jeong" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tae Sam Kang" target="Sangkyung Sung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tae Sam Kang" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Seungjin Lee" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sangkyung Sung" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ryumduck Oh" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Doo-Kwon Baik" target="Jeong-Oog Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P94350">
+      <data key="title">steal your life using 5 cents hacking android smartphones with nfc tags</data>
+    </node>
+    <node id="P65289">
+      <data key="title">identifying ecus using inimitable characteristics of signals in controller area networks</data>
+    </node>
+    <node id="P97043">
+      <data key="title">user environment detection with acoustic sensors embedded on mobile devices for the recognition of activities of daily living</data>
+    </node>
+    <node id="P64110">
+      <data key="title">pattern recognition techniques for the identification of activities of daily living using mobile device accelerometer</data>
+    </node>
+    <node id="P58703">
+      <data key="title">stealing pins via mobile sensors actual risk versus user perception</data>
+    </node>
+    <node id="P34414">
+      <data key="title">deep learning for medical image segmentation</data>
+    </node>
+    <node id="P164441">
+      <data key="title">systematic classification of side channel attacks a case study for mobile devices</data>
+    </node>
+    <node id="P129393">
+      <data key="title">from ip id to device id and kaslr bypass extended version</data>
+    </node>
+    <node id="P310">
+      <data key="title">person identification based on hand tremor characteristics</data>
+    </node>
+    <node id="P73513">
+      <data key="title">you are your metadata identification and obfuscation of social media users using metadata information</data>
+    </node>
+    <node id="P87569">
+      <data key="title">touchsignatures identification of user touch actions and pins based on mobile sensor data via javascript</data>
+    </node>
+    <node id="P154609">
+      <data key="title">on the security and applicability of fragile camera fingerprints</data>
+    </node>
+    <node id="P57486">
+      <data key="title">comparative analysis and framework evaluating mimicry resistant and invisible web authentication schemes</data>
+    </node>
+    <node id="P48702">
+      <data key="title">powerspy location tracking using mobile device power analysis</data>
+    </node>
+    <node id="P157211">
+      <data key="title">do deep nets really need to be deep</data>
+    </node>
+    <node id="P25134">
+      <data key="title">a report on personally identifiable sensor data from smartphone devices</data>
+    </node>
+    <node id="P117806">
+      <data key="title">analysis of applicability of iso 9564 pin based authentication to closed loop mobile payment systems</data>
+    </node>
+    <node id="P34615">
+      <data key="title">survey of strong authentication approaches for mobile proximity and remote wallet applications challenges and evolution</data>
+    </node>
+    <node id="P76832">
+      <data key="title">covert association of applications on edge devices by processor workload</data>
+    </node>
+    <node id="P126995">
+      <data key="title">mobile device identification via sensor fingerprinting</data>
+    </node>
+    <edge source="P94350" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65289" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97043" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P97043" target="P64110">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P64110" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58703" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58703" target="P87569">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58703" target="P164441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34414" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164441" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164441" target="P87569">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P129393" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P310" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P310" target="P157211">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73513" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87569" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154609" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57486" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48702" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25134" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117806" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34615" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P76832" target="P126995">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

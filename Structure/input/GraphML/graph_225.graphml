@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sam Malek">
+      <data key="affiliation">George Manson University, Fairfax, VA</data>
+      <data key="research">software system, software architecture, self-adaptive software system</data>
+    </node>
+    <node id="Jean-Baptiste Lezoray">
+      <data key="affiliation">Département Informatique, TELECOM Bretagne, France</data>
+      <data key="research">web service, heterogeneous circle, deployment environment</data>
+    </node>
+    <node id="Jacques-Olivier Klein">
+      <data key="affiliation">IEF, Univ. Paris Sud 11/CNRS, Orsay, France</data>
+      <data key="research">aspect model, software product, Aspect-oriented design</data>
+    </node>
+    <node id="P. K. McKinley">
+      <data key="affiliation">Dept. of Comput. Sci. &amp; Eng., Michigan State Univ., USA</data>
+      <data key="research">NLE protocol, composable proxy infrastructure, dynamic network traffic condition</data>
+    </node>
+    <node id="Yonghao Chen">
+      <data key="affiliation">Arizona State University</data>
+      <data key="research">software product line evolution, software product line process, existing product line estimation</data>
+    </node>
+    <node id="Geri Georg">
+      <data key="affiliation">Agilent Technologies, Colorado State University, Colorado State University</data>
+      <data key="research">primary model, security mechanism, aspect model</data>
+    </node>
+    <node id="Jeff Magee">
+      <data key="affiliation">No Affiliations,</data>
+      <data key="research">software engineering, software architecture, implied scenario</data>
+    </node>
+    <node id="J. J. Weng">
+      <data key="affiliation">Dept. of Computer Science and Engineering, Michigan State University, East Lansing, Michigan</data>
+      <data key="research">industry-guided multimedia technology, multimedia concept, multimedia design</data>
+    </node>
+    <node id="Gerald C. Gannod">
+      <data key="affiliation">Miami University</data>
+      <data key="research">reverse engineering, web service, software development</data>
+    </node>
+    <node id="Betty H. C. Cheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">local area network, network application, network traffic</data>
+    </node>
+    <node id="Brian Berenbach">
+      <data key="affiliation">Siemens Corporate Research, Inc., Princeton</data>
+      <data key="research">assessment model, Goal-Centric Traceability, safety-critical real-time system</data>
+    </node>
+    <node id="Holger Giese">
+      <data key="affiliation">Hasso Plattner Institute at the University of Potsdam, Prof.Dr.HelmertStraße 23, Potsdam, Germany</data>
+      <data key="research">target component, graph transformation, model transformation</data>
+    </node>
+    <node id="Robert B. France">
+      <data key="affiliation">Nan</data>
+      <data key="research">UML access control model, Mobile SystemsAccess control model, access control model</data>
+    </node>
+    <node id="Omar Alam">
+      <data key="affiliation">McGill University, Montreal, PQ, Canada</data>
+      <data key="research">aspect-oriented design, software design, development period</data>
+    </node>
+    <node id="Laura A. Campbell">
+      <data key="affiliation">Central Michigan University, Mount Pleasant, MI</data>
+      <data key="research">major problem, different course, low cost</data>
+    </node>
+    <node id="Antoine Beugnard">
+      <data key="affiliation">Institut TELECOM, France</data>
+      <data key="research">game world, game environment, multiplayer game</data>
+    </node>
+    <node id="Charles Ofria">
+      <data key="affiliation">Department of Computer Science and Engineering,</data>
+      <data key="research">digital evolution, digital organism, natural selection</data>
+    </node>
+    <node id="Ali Ebnenasir">
+      <data key="affiliation">Michigan Technological University</data>
+      <data key="research">fault tolerance, failsafe fault-tolerance, proposed method</data>
+    </node>
+    <node id="Jesús Bisbal">
+      <data key="affiliation">Universitat Pompeu Fabra, Spain</data>
+      <data key="research">prototype database, database sampling, resulting database</data>
+    </node>
+    <node id="Joanne M. Atlee">
+      <data key="affiliation">IEEE Computer Society</data>
+      <data key="research">software engineering, composition operator, template semantics</data>
+    </node>
+    <edge source="Sam Malek" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sam Malek" target="Holger Giese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sam Malek" target="Jeff Magee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Geri Georg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Jacques-Olivier Klein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Omar Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jean-Baptiste Lezoray" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Klein" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Klein" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Klein" target="Geri Georg">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Klein" target="Omar Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jacques-Olivier Klein" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. K. McKinley" target="J. J. Weng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. K. McKinley" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. K. McKinley" target="Charles Ofria">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yonghao Chen" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yonghao Chen" target="Gerald C. Gannod">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geri Georg" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geri Georg" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geri Georg" target="Omar Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geri Georg" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Geri Georg" target="Joanne M. Atlee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jeff Magee" target="Holger Giese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. J. Weng" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gerald C. Gannod" target="Betty H. C. Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Charles Ofria">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Ali Ebnenasir">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Jesús Bisbal">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Joanne M. Atlee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Holger Giese">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Brian Berenbach">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Laura A. Campbell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Omar Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Betty H. C. Cheng" target="Robert B. France">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Omar Alam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert B. France" target="Joanne M. Atlee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Omar Alam" target="Antoine Beugnard">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

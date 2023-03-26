@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P19600">
+      <data key="title">software defined networking a comprehensive survey</data>
+    </node>
+    <node id="P22744">
+      <data key="title">sdxvpn a software defined solution for vpn service providers</data>
+    </node>
+    <node id="P38677">
+      <data key="title">security and privacy issues of big data</data>
+    </node>
+    <node id="P153801">
+      <data key="title">software defined optical networks sdons a comprehensive survey</data>
+    </node>
+    <node id="P99586">
+      <data key="title">software defined networking based crypto ransomware detection using http traffic characteristics</data>
+    </node>
+    <node id="P91534">
+      <data key="title">oshi open source hybrid ip sdn networking and mantoo management tools for sdn experiments</data>
+    </node>
+    <node id="P132630">
+      <data key="title">small cell offloading through cooperative communication in software defined heterogeneous networks</data>
+    </node>
+    <node id="P168314">
+      <data key="title">literally above the clouds virtualizing the network over multiple clouds</data>
+    </node>
+    <node id="P164376">
+      <data key="title">a survey on software defined networking architecture for next generation network</data>
+    </node>
+    <node id="P13393">
+      <data key="title">knowledge defined networking</data>
+    </node>
+    <node id="P63912">
+      <data key="title">hybrid ip sdn networking open implementation and experiment management tools</data>
+    </node>
+    <node id="P360">
+      <data key="title">secure virtual network embedding in a multi cloud environment</data>
+    </node>
+    <node id="P84927">
+      <data key="title">mobile edge computing fog et al a survey and analysis of security threats and challenges</data>
+    </node>
+    <node id="P26475">
+      <data key="title">survey on network virtualization hypervisors for software defined networking</data>
+    </node>
+    <node id="P152476">
+      <data key="title">using software defined networking for ransomware mitigation the case of cryptowall</data>
+    </node>
+    <node id="P41396">
+      <data key="title">condense a reconfigurable knowledge acquisition architecture for future 5g iot</data>
+    </node>
+    <node id="P149876">
+      <data key="title">network function virtualization state of the art and research challenges</data>
+    </node>
+    <node id="P35809">
+      <data key="title">on orchestrating virtual network functions in nfv</data>
+    </node>
+    <node id="P21439">
+      <data key="title">intelligent management and efficient operation of big data</data>
+    </node>
+    <node id="P164308">
+      <data key="title">separation framework an enabler for cooperative and d2d communication for future 5g networks</data>
+    </node>
+    <edge source="P19600" target="P26475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P35809">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P91534">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P22744">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P168314">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P149876">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P84927">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P63912">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P164308">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P38677">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P21439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P132630">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P153801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P13393">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P41396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P152476">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P164376">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19600" target="P99586">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153801" target="P26475">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P153801" target="P149876">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99586" target="P152476">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P168314" target="P360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P164376" target="P149876">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26475" target="P149876">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

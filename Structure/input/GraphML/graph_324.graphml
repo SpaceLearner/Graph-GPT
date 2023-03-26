@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Z. Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">secrecy system, key equivocation rate, block encipherer C</data>
+    </node>
+    <node id="Hussein I. Shahein">
+      <data key="affiliation">Ain Shams University, Abbassia, Cairo, Egypt</data>
+      <data key="research">integer-coded genetic algorithm, evolutionary algorithm, known algorithm</data>
+    </node>
+    <node id="Shugong Xu">
+      <data key="affiliation">Nan</data>
+      <data key="research">TCP variant, part experiment, TCP Reno</data>
+    </node>
+    <node id="W. Meng">
+      <data key="affiliation">Computer Science Dept., SUNY at Binghamtom</data>
+      <data key="research">search engine, search result record, experimental result</data>
+    </node>
+    <node id="Mohamed M. Zahran">
+      <data key="affiliation">Jizan University, Faculty of Engineering, Electrical Engineering Department, King Saudi Arabia,</data>
+      <data key="research">return address, PV system, multicore system</data>
+    </node>
+    <node id="Ahmed El Hakeem">
+      <data key="affiliation">Concordia Univ.</data>
+      <data key="research">ATM network, FEC error control scheme, hybrid ARQ</data>
+    </node>
+    <node id="Shervin Erfani">
+      <data key="affiliation">Department of Electrical and Computer Engineering, University of Windsor, Windsor, Canada N9B 3P4</data>
+      <data key="research">multipath routing protocol, wideband low-power continuous-time, Multipath routing protocols address</data>
+    </node>
+    <node id="H. K. Aslan">
+      <data key="affiliation">Electronics Research Institute, Cairo, Egypt</data>
+      <data key="research">proposed protocol, KM-BFM protocol, Kerberos server</data>
+    </node>
+    <node id="Osman Badr">
+      <data key="affiliation">Nan</data>
+      <data key="research">neural network, neural networks-based adaptive call, MGC-20 cyclotron</data>
+    </node>
+    <node id="Yasser Dakroury">
+      <data key="affiliation">Nan</data>
+      <data key="research">proposed protocol, KM-BFM protocol, multicast security protocol</data>
+    </node>
+    <node id="Mostafa H. Ammar">
+      <data key="affiliation">Georgia Institute of Technology, Atlanta</data>
+      <data key="research">overlay network, mobile network, content distribution network</data>
+    </node>
+    <node id="Yong Xie">
+      <data key="affiliation">Nan</data>
+      <data key="research">gateway message, Schedulability Analysis, proposed method</data>
+    </node>
+    <node id="Myung J. Lee">
+      <data key="affiliation">City University of New York</data>
+      <data key="research">wireless body area network, end-to-end delay, Genetic Algorithm</data>
+    </node>
+    <node id="J. P. Elloy">
+      <data key="affiliation">Laboratoire d'Automatique de Nantes, CNRS UA n° 4/823, ENSM, 44072  NANTES Cedex, France</data>
+      <data key="research">Modern Control, Worked ExamplesApplied Industrial Control, control structure expression</data>
+    </node>
+    <node id="Khaled Shuaib">
+      <data key="affiliation">FIT/UAEU</data>
+      <data key="research">video quality, sensor network, QoS IP network</data>
+    </node>
+    <node id="Ahmed Abd El Al">
+      <data key="affiliation">Department of Electrical Engineering, City College and Graduate Center of City University of New York, NY</data>
+      <data key="research">extended SCTP, communication path, mobile application</data>
+    </node>
+    <node id="Ibrahim W. Habib">
+      <data key="affiliation">GSUC and Department of Electrical Engineering, The City College, The City University of New York, New York, USA Tel&amp;colon/ +1 212 6507248&amp;semi/ Email&amp;colon/[weimeng,eeiwh,eetns]@eemail.engr.ccn ...</data>
+      <data key="research">multimedia service, QoS requirement, genetic algorithm</data>
+    </node>
+    <node id="Mohamed Rasslan">
+      <data key="affiliation">Informatics Department, Electronics Research Institute, Cairo, Egypt</data>
+      <data key="research">proposed protocol, KM-BFM protocol, modified scheme</data>
+    </node>
+    <node id="A. Tarraf">
+      <data key="affiliation">Dept. of Electr. Eng., City Univ. of New York, NY</data>
+      <data key="research">neural network, layer thickness, coherent traffic control strategy</data>
+    </node>
+    <node id="Tarek N. Saadawi">
+      <data key="affiliation">Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA, USA</data>
+      <data key="research">Mobile Ad-hoc network, network connectivity, network resource</data>
+    </node>
+    <edge source="Z. Zhang" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Z. Zhang" target="Ibrahim W. Habib">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hussein I. Shahein" target="Yasser Dakroury">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shugong Xu" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shugong Xu" target="Myung J. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Meng" target="Ibrahim W. Habib">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Meng" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mohamed M. Zahran" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmed El Hakeem" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmed El Hakeem" target="Mostafa H. Ammar">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Shervin Erfani" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. K. Aslan" target="Mohamed Rasslan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="H. K. Aslan" target="Yasser Dakroury">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Osman Badr" target="Ahmed Abd El Al">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Osman Badr" target="Yasser Dakroury">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasser Dakroury" target="Mohamed Rasslan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasser Dakroury" target="J. P. Elloy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yasser Dakroury" target="Ahmed Abd El Al">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Mostafa H. Ammar" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Xie" target="Myung J. Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong Xie" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myung J. Lee" target="Khaled Shuaib">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myung J. Lee" target="Ahmed Abd El Al">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Myung J. Lee" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Khaled Shuaib" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ahmed Abd El Al" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ibrahim W. Habib" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ibrahim W. Habib" target="A. Tarraf">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Tarraf" target="Tarek N. Saadawi">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

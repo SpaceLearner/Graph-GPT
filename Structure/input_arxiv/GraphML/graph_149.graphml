@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P105195">
+      <data key="title">affect in tweets using experts model</data>
+    </node>
+    <node id="P81386">
+      <data key="title">using stock prices as ground truth in sentiment analysis to generate profitable trading signals</data>
+    </node>
+    <node id="P154308">
+      <data key="title">deep feelings a massive cross lingual study on the relation between emotions and virality</data>
+    </node>
+    <node id="P21066">
+      <data key="title">affective computing for large scale heterogeneous multimedia data a survey</data>
+    </node>
+    <node id="P60681">
+      <data key="title">sentiment analysis how to derive prior polarities from sentiwordnet</data>
+    </node>
+    <node id="P140344">
+      <data key="title">sentiwords deriving a high precision and high coverage lexicon for sentiment analysis</data>
+    </node>
+    <node id="P48380">
+      <data key="title">emotion detection in text a review</data>
+    </node>
+    <node id="P86361">
+      <data key="title">triaging content severity in online mental health forums</data>
+    </node>
+    <node id="P59412">
+      <data key="title">emotionally aware chatbots a survey</data>
+    </node>
+    <node id="P17643">
+      <data key="title">fortia fbk at semeval 2017 task 5 bullish or bearish inferring sentiment towards brands from financial news headlines</data>
+    </node>
+    <node id="P82882">
+      <data key="title">emo2vec learning generalized emotion representation by multi task training</data>
+    </node>
+    <node id="P191">
+      <data key="title">depechemood a lexicon for emotion analysis from crowd annotated news</data>
+    </node>
+    <node id="P87042">
+      <data key="title">more accurate tests for the statistical significance of result differences</data>
+    </node>
+    <node id="P92637">
+      <data key="title">assessing sentiment strength in words prior polarities</data>
+    </node>
+    <node id="P69655">
+      <data key="title">depechemood a bilingual emotion lexicon built through simple yet powerful techniques</data>
+    </node>
+    <node id="P52202">
+      <data key="title">a question answering approach to emotion cause extraction</data>
+    </node>
+    <node id="P151892">
+      <data key="title">onts optima news translation system</data>
+    </node>
+    <node id="P53138">
+      <data key="title">an introduction to the europe media monitor family of applications</data>
+    </node>
+    <node id="P116365">
+      <data key="title">sentilr linguistic knowledge enhanced language representation for sentiment analysis</data>
+    </node>
+    <node id="P159268">
+      <data key="title">depression and self harm risk assessment in online forums</data>
+    </node>
+    <edge source="P105195" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81386" target="P60681">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154308" target="P17643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154308" target="P69655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154308" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21066" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21066" target="P69655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60681" target="P140344">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60681" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60681" target="P92637">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60681" target="P87042">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60681" target="P116365">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140344" target="P87042">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140344" target="P151892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140344" target="P17643">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P140344" target="P69655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48380" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86361" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P59412" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P17643" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P82882" target="P191">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P191" target="P151892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P191" target="P52202">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P191" target="P159268">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P191" target="P69655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87042" target="P92637">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151892" target="P53138">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

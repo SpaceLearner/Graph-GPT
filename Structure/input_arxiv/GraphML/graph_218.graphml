@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P162972">
+      <data key="title">end to end training of deep visuomotor policies</data>
+    </node>
+    <node id="P104150">
+      <data key="title">learning contact rich manipulation skills with guided policy search</data>
+    </node>
+    <node id="P273">
+      <data key="title">hirl hierarchical inverse reinforcement learning for long horizon tasks with delayed rewards</data>
+    </node>
+    <node id="P112392">
+      <data key="title">active task inference guided deep inverse reinforcement learning</data>
+    </node>
+    <node id="P64695">
+      <data key="title">gradient estimation using stochastic computation graphs</data>
+    </node>
+    <node id="P46592">
+      <data key="title">robobarista object part based transfer of manipulation trajectories from crowd sourcing in 3d pointclouds</data>
+    </node>
+    <node id="P58371">
+      <data key="title">oirl robust adversarial inverse reinforcement learning with temporally extended actions</data>
+    </node>
+    <node id="P104137">
+      <data key="title">a two round variant of em for gaussian mixtures</data>
+    </node>
+    <node id="P90525">
+      <data key="title">composing meta policies for autonomous driving using hierarchical deep reinforcement learning</data>
+    </node>
+    <node id="P34570">
+      <data key="title">deep learning in neural networks</data>
+    </node>
+    <node id="P77715">
+      <data key="title">trust region policy optimization</data>
+    </node>
+    <node id="P77432">
+      <data key="title">inverse reinforcement learning via nonparametric spatio temporal subgoal modeling</data>
+    </node>
+    <node id="P85674">
+      <data key="title">hierarchical reinforcement learning with the maxq value function decomposition</data>
+    </node>
+    <node id="P70326">
+      <data key="title">embed to control a locally linear latent dynamics model for control from raw images</data>
+    </node>
+    <node id="P143001">
+      <data key="title">playing atari with deep reinforcement learning</data>
+    </node>
+    <node id="P23473">
+      <data key="title">revisiting k means new algorithms via bayesian nonparametrics</data>
+    </node>
+    <node id="P74426">
+      <data key="title">a reduction of imitation learning and structured prediction to no regret online learning</data>
+    </node>
+    <node id="P59003">
+      <data key="title">human interactive subgoal supervision for efficient inverse reinforcement learning</data>
+    </node>
+    <node id="P123127">
+      <data key="title">closed loop learning of visual control policies</data>
+    </node>
+    <node id="P147443">
+      <data key="title">optiongan learning joint reward policy options using generative adversarial inverse reinforcement learning</data>
+    </node>
+    <edge source="P162972" target="P70326">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P46592">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P74426">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P34570">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P123127">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P104150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162972" target="P273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104150" target="P273">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104150" target="P74426">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P77715">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P23473">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P85674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P104137">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P64695">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P147443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P90525">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P77432">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P59003">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P112392">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P273" target="P58371">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P58371" target="P147443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90525" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90525" target="P77715">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P90525" target="P85674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34570" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34570" target="P123127">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34570" target="P85674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77715" target="P147443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P77715" target="P143001">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P85674" target="P147443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74426" target="P59003">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

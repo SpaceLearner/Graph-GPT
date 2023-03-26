@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P87110">
+      <data key="title">a game based assistive tool for rehabilitation of dysphonic patients</data>
+    </node>
+    <node id="P145320">
+      <data key="title">touch less interactive augmented reality game on vision based wearable device</data>
+    </node>
+    <node id="P126543">
+      <data key="title">dense motion estimation for smoke</data>
+    </node>
+    <node id="P85771">
+      <data key="title">improving the performance of unimodal dynamic hand gesture recognition with multimodal training</data>
+    </node>
+    <node id="P28046">
+      <data key="title">learning hand eye coordination for robotic grasping with deep learning and large scale data collection</data>
+    </node>
+    <node id="P448">
+      <data key="title">characterizing a spectrum of audience interactivity</data>
+    </node>
+    <node id="P102655">
+      <data key="title">drift robust non rigid optical flow enhancement for long sequences</data>
+    </node>
+    <node id="P123928">
+      <data key="title">preprint clinical feedback and technology selection of game based dysphonic rehabilitation tool</data>
+    </node>
+    <node id="P6">
+      <data key="title">webvrgis based city bigdata 3d visualization and analysis</data>
+    </node>
+    <node id="P74590">
+      <data key="title">video interpolation using optical flow and laplacian smoothness</data>
+    </node>
+    <node id="P32459">
+      <data key="title">a visually plausible grasping system for object manipulation and interaction in virtual reality environments</data>
+    </node>
+    <node id="P158342">
+      <data key="title">streambed training citizen scientists to make qualitative judgments using embodied virtual reality training</data>
+    </node>
+    <node id="P159105">
+      <data key="title">preprint bigdata oriented multimedia mobile health applications</data>
+    </node>
+    <node id="P33997">
+      <data key="title">regularized maximum correntropy machine</data>
+    </node>
+    <node id="P167601">
+      <data key="title">towards the design of effective freehand gestural interaction for interactive tv</data>
+    </node>
+    <node id="P4546">
+      <data key="title">unrealrox an extremely photorealistic virtual reality environment for robotics simulations and synthetic data generation</data>
+    </node>
+    <node id="P15605">
+      <data key="title">big city 3d visual analysis</data>
+    </node>
+    <node id="P11660">
+      <data key="title">preprint virtual geographic environment based coach passenger flow forecasting</data>
+    </node>
+    <node id="P1338">
+      <data key="title">preprint traffic management and forecasting system based on 3d gis</data>
+    </node>
+    <node id="P5429">
+      <data key="title">preprint touch less interactive augmented reality game on vision based wearable device</data>
+    </node>
+    <edge source="P87110" target="P1338">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87110" target="P11660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87110" target="P5429">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87110" target="P159105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87110" target="P123928">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P87110" target="P145320">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P159105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P74590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P448">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P32459">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P167601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P6">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P15605">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145320" target="P85771">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P126543" target="P74590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28046" target="P4546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28046" target="P32459">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P448" target="P158342">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102655" target="P74590">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102655" target="P167601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123928" target="P159105">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123928" target="P6">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6" target="P1338">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6" target="P11660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6" target="P5429">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74590" target="P167601">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32459" target="P4546">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159105" target="P33997">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15605" target="P11660">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P15605" target="P5429">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

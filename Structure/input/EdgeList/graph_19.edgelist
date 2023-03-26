@@ -1,0 +1,31 @@
+Shuai Wan	Fuzheng Yang	{'relation': 'collaborate'}
+Shuai Wan	Hong Ren Wu	{'relation': 'collaborate'}
+Hong Ren Wu	Tao Chen	{'relation': 'collaborate'}
+Hong Ren Wu	Chris White	{'relation': 'collaborate'}
+Hong Ren Wu	Xinghuo Yu	{'relation': 'collaborate'}
+Hong Ren Wu	K. R. Rao	{'relation': 'collaborate'}
+Hong Ren Wu	David Wu	{'relation': 'collaborate'}
+Hong Ren Wu	Suiyang Khoo	{'relation': 'collaborate'}
+Hong Ren Wu	Zhonghua Ma	{'relation': 'collaborate'}
+Hong Ren Wu	Zhihong Man	{'relation': 'collaborate'}
+Hong Ren Wu	Shengkui Zhao	{'relation': 'collaborate'}
+Hong Ren Wu	Bin Qiu	{'relation': 'collaborate'}
+Hong Ren Wu	Dagan Feng	{'relation': 'collaborate'}
+Hong Ren Wu	Dinesh K. Kumar	{'relation': 'collaborate'}
+Hong Ren Wu	Weisi Lin	{'relation': 'collaborate'}
+Hong Ren Wu	L. Karam	{'relation': 'collaborate'}
+Hong Ren Wu	Fuzheng Yang	{'relation': 'collaborate'}
+C. J. Date	Colin J. White	{'relation': 'collaborate'}
+Zhonghua Ma	Bin Qiu	{'relation': 'collaborate'}
+Zhonghua Ma	Dagan Feng	{'relation': 'collaborate'}
+David Wu	Darin Chan	{'relation': 'collaborate'}
+David Wu	Chris White	{'relation': 'collaborate'}
+Zhihong Man	Suiyang Khoo	{'relation': 'collaborate'}
+Zhihong Man	Shengkui Zhao	{'relation': 'collaborate'}
+Zhihong Man	Xinghuo Yu	{'relation': 'collaborate'}
+Shengkui Zhao	Suiyang Khoo	{'relation': 'collaborate'}
+Xinghuo Yu	Suiyang Khoo	{'relation': 'collaborate'}
+Xinghuo Yu	Bin Qiu	{'relation': 'collaborate'}
+Weisi Lin	L. Karam	{'relation': 'collaborate'}
+Chris White	Colin J. White	{'relation': 'collaborate'}
+Bin Qiu	Tao Chen	{'relation': 'collaborate'}

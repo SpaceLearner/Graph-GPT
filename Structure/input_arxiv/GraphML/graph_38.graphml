@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P69062">
+      <data key="title">on sound compilation of reals</data>
+    </node>
+    <node id="P8208">
+      <data key="title">evaluating design tradeoffs in numeric static analysis for java</data>
+    </node>
+    <node id="P144463">
+      <data key="title">automatic modular abstractions for template numerical constraints</data>
+    </node>
+    <node id="P46">
+      <data key="title">a notion of robustness for cyber physical systems</data>
+    </node>
+    <node id="P155246">
+      <data key="title">design of symbolic controllers for networked control systems</data>
+    </node>
+    <node id="P131324">
+      <data key="title">output feedback controller design with symbolic observers for cyber physical systems</data>
+    </node>
+    <node id="P39966">
+      <data key="title">algorithms for omega regular games with imperfect information</data>
+    </node>
+    <node id="P137289">
+      <data key="title">certifying controls and systems software</data>
+    </node>
+    <node id="P3358">
+      <data key="title">robustness verification of support vector machines</data>
+    </node>
+    <node id="P104077">
+      <data key="title">a symbolic approach to the design of nonlinear networked control systems</data>
+    </node>
+    <node id="P97931">
+      <data key="title">symbolic control design of nonlinear networked control systems</data>
+    </node>
+    <node id="P113325">
+      <data key="title">credible autocoding of fault detection observers</data>
+    </node>
+    <node id="P137053">
+      <data key="title">symbolic methods to enhance the precision of numerical abstract domains</data>
+    </node>
+    <node id="P23430">
+      <data key="title">relational abstract domains for the detection of floating point run time errors</data>
+    </node>
+    <node id="P128389">
+      <data key="title">formally expressing the semantics of observer based fault detection software</data>
+    </node>
+    <node id="P143769">
+      <data key="title">optimization of lyapunov invariants in verification of software systems</data>
+    </node>
+    <node id="P26521">
+      <data key="title">widening operators for weakly relational numeric abstractions extended abstract</data>
+    </node>
+    <node id="P75790">
+      <data key="title">the pitfalls of verifying floating point computations</data>
+    </node>
+    <node id="P125822">
+      <data key="title">generic trace semantics via coinduction</data>
+    </node>
+    <node id="P125843">
+      <data key="title">on numerical error propagation with sensitivity</data>
+    </node>
+    <edge source="P69062" target="P23430">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P8208" target="P23430">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144463" target="P75790">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144463" target="P137053">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P144463" target="P23430">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46" target="P143769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46" target="P104077">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P46" target="P131324">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155246" target="P104077">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131324" target="P39966">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131324" target="P125822">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137289" target="P128389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P3358" target="P23430">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104077" target="P97931">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113325" target="P128389">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137053" target="P23430">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23430" target="P26521">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23430" target="P75790">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23430" target="P125843">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P23430" target="P143769">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128389" target="P143769">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

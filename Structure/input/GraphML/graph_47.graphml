@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Robert J. T. Morris">
+      <data key="affiliation">IBM</data>
+      <data key="research">cache hit ratio, storage system, LRU Cache</data>
+    </node>
+    <node id="Bin Jia">
+      <data key="affiliation">State University of New York at Albany</data>
+      <data key="research">process cooperation, basic schedule, n process</data>
+    </node>
+    <node id="J. P. Prost">
+      <data key="affiliation">Université Montpellier 2, LIRMM, UMR, Montpellier Cedex 5, France</data>
+      <data key="research">IBM General, Parallel File System, underlying file system</data>
+    </node>
+    <node id="Don Haderle">
+      <data key="affiliation">Santa Teresa Laboratory, San Jose, California</data>
+      <data key="research">transaction recovery method, partial rollback, database technology</data>
+    </node>
+    <node id="Kusum Deep">
+      <data key="affiliation">IITRoorkee, India</data>
+      <data key="research">genetic algorithm, proposed variant, multi-objective optimization problem</data>
+    </node>
+    <node id="Josephine Cheng">
+      <data key="affiliation">Nan</data>
+      <data key="research">business application</data>
+    </node>
+    <node id="Chris Morrone">
+      <data key="affiliation">Lawrence Livermore National Laboratory</data>
+      <data key="research">Lustre file system, file system software, file system testing</data>
+    </node>
+    <node id="Richard Hedges">
+      <data key="affiliation">Lawrence Livermore National Laboratory, Livermore, CA</data>
+      <data key="research">Parallel File System, underlying file system, O chapter</data>
+    </node>
+    <node id="Andrew Citron">
+      <data key="affiliation">IBM Software Group, 4205 South Miami Boulevard, Research Triangle Park, North Carolina</data>
+      <data key="research">dynamic transcoding, authoring different version, different approach</data>
+    </node>
+    <node id="Richard Treumann">
+      <data key="affiliation">IBM Poughkeepsie, Poughkeepsie, NY</data>
+      <data key="research">thrifty interconnection network, network link, network power reduction</data>
+    </node>
+    <node id="Ted G. Messinger">
+      <data key="affiliation">Nan</data>
+      <data key="research">Cache Assignment Problem, N LRU cache, cache assignment</data>
+    </node>
+    <node id="Sang K. Cha">
+      <data key="affiliation">SAP, Seoul, South Korea</data>
+      <data key="research">SAP HANA database, active rule system, active database system</data>
+    </node>
+    <node id="Larry Brown">
+      <data key="affiliation">Nan</data>
+      <data key="research">JavaServer Pages, Web page, Java applets</data>
+    </node>
+    <node id="C. Mohan">
+      <data key="affiliation">Department of Mathematics, University of Roorkee, Roorkee, India</data>
+      <data key="research">RST2ANU algorithm, Mixed Integer Global Optimization, computational algorithm</data>
+    </node>
+    <node id="Hanoch Levy">
+      <data key="affiliation">Computer engineering and networks lab, eth zurich, switzerland email: hanoch@tik.ee.ethz.ch</data>
+      <data key="research">queueing system, fairness aspect, service discipline</data>
+    </node>
+    <node id="A. E. Koniges">
+      <data key="affiliation">NERSC, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</data>
+      <data key="research">combined performance, performance evaluation, average performance</data>
+    </node>
+    <node id="Yun Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">storage system, system recovery, consistent living brick</data>
+    </node>
+    <node id="Balakrishna R. Iyer">
+      <data key="affiliation">The MITRE Corporation, Bedford, MA</data>
+      <data key="research">SQL query, complex system, database management system</data>
+    </node>
+    <node id="Claus Hagen">
+      <data key="affiliation">Credit Suisse, Zürich, Switzerland</data>
+      <data key="research">Exception Handling, business electronic commerce, Process Support</data>
+    </node>
+    <node id="Dan Wolfson">
+      <data key="affiliation">IBM Software Group, Silicon Valley Laboratory, 555 Bailey Avenue, San Jose, California 95141</data>
+      <data key="research">master data, customer data, data warehouse</data>
+    </node>
+    <edge source="Robert J. T. Morris" target="Ted G. Messinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert J. T. Morris" target="Hanoch Levy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jia" target="Richard Treumann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jia" target="J. P. Prost">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jia" target="Richard Hedges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bin Jia" target="A. E. Koniges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. P. Prost" target="Richard Treumann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. P. Prost" target="Richard Hedges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. P. Prost" target="A. E. Koniges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="Josephine Cheng">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="Richard Hedges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="Ted G. Messinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Don Haderle" target="Yun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kusum Deep" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josephine Cheng" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josephine Cheng" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josephine Cheng" target="Richard Hedges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josephine Cheng" target="Ted G. Messinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Josephine Cheng" target="Yun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Chris Morrone" target="Richard Hedges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="Ted G. Messinger">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="Yun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="A. E. Koniges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Hedges" target="Richard Treumann">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Andrew Citron" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Richard Treumann" target="A. E. Koniges">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ted G. Messinger" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ted G. Messinger" target="Yun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ted G. Messinger" target="Hanoch Levy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ted G. Messinger" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sang K. Cha" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Larry Brown" target="C. Mohan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Mohan" target="Dan Wolfson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Mohan" target="Claus Hagen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Mohan" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. Mohan" target="Yun Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yun Wang" target="Balakrishna R. Iyer">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

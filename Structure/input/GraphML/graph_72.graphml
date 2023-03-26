@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Sitaram Ramachandrula">
+      <data key="affiliation">Hewlett Packard Labs, Bangalore, India</data>
+      <data key="research">experimental result, document image, Markov Random Field</data>
+    </node>
+    <node id="V. Kamakoti">
+      <data key="affiliation">Nan</data>
+      <data key="research">Generalized Placement ProblemThe problem, generalized placement problem, placement problem</data>
+    </node>
+    <node id="Montek Singh">
+      <data key="affiliation">The University of North Carolina at Chapel Hill</data>
+      <data key="research">asynchronous design, asynchronous design technique, behavioral design flow</data>
+    </node>
+    <node id="Ioannis Ch. Paschalidis">
+      <data key="affiliation">Boston Univ., Boston, MA</data>
+      <data key="research">buffer overflow probability, wireless sensor network, sensor node</data>
+    </node>
+    <node id="Karsten Schwan">
+      <data key="affiliation">College of Computing, School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA</data>
+      <data key="research">data stream, high performance, data center</data>
+    </node>
+    <node id="Dheeraj Reddy">
+      <data key="affiliation">Intel, Hillsboro, OR, USA</data>
+      <data key="research">heterogeneous architecture, heterogeneous core, bias scheduling</data>
+    </node>
+    <node id="Min Lee">
+      <data key="affiliation">Nan</data>
+      <data key="research">memory unit, user address space, active memory unit</data>
+    </node>
+    <node id="Paul Brett">
+      <data key="affiliation">CeLT, Harrison Learning Centre, University of Wolverhampton, Wolverhampton WV1 1SB, P.Brett@wlv.ac.uk</data>
+      <data key="research">cross-cultural competence, British business context, business people</data>
+    </node>
+    <node id="K. Najeeb">
+      <data key="affiliation">Indian Institute of Technology, India</data>
+      <data key="research">power virus generation, maximum dynamic power dissipation, proposed technique</data>
+    </node>
+    <node id="Ganapati Srinivasa">
+      <data key="affiliation">Intel Corp.</data>
+      <data key="research">heterogeneous architecture, heterogeneous core, client device</data>
+    </node>
+    <node id="Gennette Gill">
+      <data key="affiliation">Columbia University</data>
+      <data key="research">pipelined asynchronous system, slack matching, throughput goal</data>
+    </node>
+    <node id="Scott Hahn">
+      <data key="affiliation">Intel Corporation, USA</data>
+      <data key="research">heterogeneous architecture, heterogeneous core, bias scheduling</data>
+    </node>
+    <node id="S. C. Sharma">
+      <data key="affiliation">Electronics and Computer Discipline, DPT, IIT Roorkee, SaharanpurCampus, Saharanpur247 001, UP, India.</data>
+      <data key="research">TCP version, TCP performance, TCP variant</data>
+    </node>
+    <node id="Pulkit Parikh">
+      <data key="affiliation">International Institute of Information Technology (IIITH), Gachibowli, Hyderaba, India</data>
+      <data key="research">camera motion, camera motion model, motion information</data>
+    </node>
+    <node id="Gopal Datt Joshi">
+      <data key="affiliation">CVIT, IIIT Hyderabad, Hyderabad, India</data>
+      <data key="research">document image, proposed method, retinal image</data>
+    </node>
+    <node id="D. Bertsimas">
+      <data key="affiliation">dbertsim@mit.edu</data>
+      <data key="research">robust optimization, optimization problem, linear optimization problem</data>
+    </node>
+    <node id="Vishal Gupta">
+      <data key="affiliation">Nan</data>
+      <data key="research">Soft Handoff, energy consumption, hard handoff</data>
+    </node>
+    <node id="Gabriel A. Rincon-Mora">
+      <data key="affiliation">School of Electrical and Computer Engineering and Georgia Tech Analog, Power, and Energy ICs Lab at the Georgia Institute of Technology, Atlanta, USA 30332</data>
+      <data key="research">output voltage, power converter, ESR power saving</data>
+    </node>
+    <node id="D. A. Koufaty">
+      <data key="affiliation">Intel</data>
+      <data key="research">data forwarding, high performance, significant performance improvement</data>
+    </node>
+    <node id="Ripal Nathuji">
+      <data key="affiliation">Microsoft Research, Redmond, WA</data>
+      <data key="research">power management, power consumption, power efficiency</data>
+    </node>
+    <edge source="Sitaram Ramachandrula" target="Pulkit Parikh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sitaram Ramachandrula" target="Gopal Datt Joshi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Sitaram Ramachandrula" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Kamakoti" target="K. Najeeb">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. Kamakoti" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Montek Singh" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Montek Singh" target="Gennette Gill">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ioannis Ch. Paschalidis" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ioannis Ch. Paschalidis" target="D. Bertsimas">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Paul Brett">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Ganapati Srinivasa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Dheeraj Reddy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Min Lee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Scott Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Karsten Schwan" target="Ripal Nathuji">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dheeraj Reddy" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dheeraj Reddy" target="Ganapati Srinivasa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dheeraj Reddy" target="Scott Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dheeraj Reddy" target="Paul Brett">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dheeraj Reddy" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Lee" target="Ripal Nathuji">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Min Lee" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Brett" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Brett" target="Scott Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Brett" target="Ganapati Srinivasa">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Paul Brett" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Najeeb" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ganapati Srinivasa" target="Scott Hahn">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ganapati Srinivasa" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ganapati Srinivasa" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gennette Gill" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Hahn" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Scott Hahn" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S. C. Sharma" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pulkit Parikh" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pulkit Parikh" target="Gopal Datt Joshi">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Gopal Datt Joshi" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Bertsimas" target="Vishal Gupta">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vishal Gupta" target="Gabriel A. Rincon-Mora">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vishal Gupta" target="D. A. Koufaty">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vishal Gupta" target="Ripal Nathuji">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

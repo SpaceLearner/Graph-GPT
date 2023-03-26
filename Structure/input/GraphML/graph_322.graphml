@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="K.-L. Chung">
+      <data key="affiliation">Department of Information Management, National Taiwan Institute of Technology, No.43, Section 4, Keelung Road, Taipei, Taiwan 10672, R. O. C.</data>
+      <data key="research">proposed algorithm, experimental result, K-means algorithm</data>
+    </node>
+    <node id="V. V. Ryazanov">
+      <data key="affiliation">Situation Recognition Department, Dorodnicyn Computing Centre of the Russian Academy of Sciences, Moscow, Russian Federation</data>
+      <data key="research">inorganic compound, computer-assisted design, SFS junction</data>
+    </node>
+    <node id="Irena Orovic">
+      <data key="affiliation">University of Montenegro, Podgorica  MONTENEGRO</data>
+      <data key="research">Time-frequency analysis, multidimensional time-frequency analysis, time-frequency region</data>
+    </node>
+    <node id="Olga Barinova">
+      <data key="affiliation">Moscow State University, dept. of Computational Mathematics and Cybernetics, Graphics and Media Lab, 119992 Moscow, Russia</data>
+      <data key="research">3-d model, natural image, confusing sample</data>
+    </node>
+    <node id="S S Stankovic">
+      <data key="affiliation">Montenegro Univ., Podgorica</data>
+      <data key="research">Time-frequency analysis, Wigner distribution, spatial-frequency analysis</data>
+    </node>
+    <node id="Vladimir Kolmogorov">
+      <data key="affiliation">Institute of Science and Technology, Klosterneuburg</data>
+      <data key="research">graph cut, energy function, new algorithm</data>
+    </node>
+    <node id="Alexander Zhirkov">
+      <data key="affiliation">Lomonosov Moscow State University Russia, Moscow, GSP119899, MSU, Computer Science Faculty</data>
+      <data key="research">index map, whole block, depth image-based representation</data>
+    </node>
+    <node id="A. Osokin">
+      <data key="affiliation">CMC Department, Lomonosov Moscow State University, Moscow, Russia 119992</data>
+      <data key="research">mouse brain, label cost, anatomical segmentation</data>
+    </node>
+    <node id="A. M. Denisov">
+      <data key="affiliation">Department of Computational Mathematics and Cybernetics, Department of Mechanics and Mathematics, Moscow State University, Vorob'evy gory, Moscow, 119992 Russia &lt;rfc822&gt;kryl@cs.msu.su&lt;/rfc822&gt;</data>
+      <data key="research">inverse problem, small parameter, hyperbolic equation</data>
+    </node>
+    <node id="Yong-Huai Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">mosaic video sequence, color value, 2-D color</data>
+    </node>
+    <node id="Konstantin V. Anokhin">
+      <data key="affiliation">P.K. Anokhin Institute of Normal Physiology, Russia, Moscow</data>
+      <data key="research">Animat Control System, Animat Brain, anatomical segmentation</data>
+    </node>
+    <node id="Roman Shapovalov">
+      <data key="affiliation">Nan</data>
+      <data key="research">Non-associative Markov Network, point cloud, spatial dependency</data>
+    </node>
+    <node id="Pushmeet Kohli">
+      <data key="affiliation">Microsoft</data>
+      <data key="research">computer vision, image segmentation, new model</data>
+    </node>
+    <node id="A. S. Lukin">
+      <data key="affiliation">Department of Computational Mathematics and Cybernetics, Moscow State University, Vorob'evy gory, Moscow, 119992 Russia &lt;rfc822&gt;kryl@cs.msu.su&lt;/rfc822&gt;</data>
+      <data key="research">anatomical structure, mouse brain, speaker recognition problem</data>
+    </node>
+    <node id="D. V. Yurin">
+      <data key="affiliation">Department of Computational Mathematics and Cybernetics, Moscow State University, Moscow, Russia 119992</data>
+      <data key="research">color information, keypoints detection, straight line</data>
+    </node>
+    <node id="Danil Korchagin">
+      <data key="affiliation">Idiap Research Institute, Martigny, Switzerland</data>
+      <data key="research">Hermite function, social focus, Just-in-time multimodal association</data>
+    </node>
+    <node id="A. S. Krylov">
+      <data key="affiliation">Department of Computational Mathematics and Cybernetics, Moscow State University, Vorob'evy gory, Moscow, 119992 Russia &lt;rfc822&gt;kryl@cs.msu.su&lt;/rfc822&gt;</data>
+      <data key="research">image enhancement algorithm, image gradient, projection local image descriptor</data>
+    </node>
+    <node id="Dmitry Vetrov">
+      <data key="affiliation">Dorodnicyn Computing Centre, Moscow, Russia</data>
+      <data key="research">mouse brain, anatomical structure, experimental evaluation</data>
+    </node>
+    <node id="D. Kubasov">
+      <data key="affiliation">Department of Computational Mathematics and Cybernetics, Moscow State University, Vorob'evy gory, Moscow, 119992 Russia Received May 28, 2004</data>
+      <data key="research">Kimmel algorithm, new interpolation algorithm, suggested algorithm</data>
+    </node>
+    <node id="V. A. Galatenko">
+      <data key="affiliation">Moscow State University, Russia, Moscow</data>
+      <data key="research">anatomical segmentation, brain model, experimental brain slice</data>
+    </node>
+    <edge source="K.-L. Chung" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K.-L. Chung" target="Yong-Huai Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K.-L. Chung" target="D. V. Yurin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="V. V. Ryazanov" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Irena Orovic" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Irena Orovic" target="S S Stankovic">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olga Barinova" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Olga Barinova" target="Pushmeet Kohli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="S S Stankovic" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir Kolmogorov" target="A. Osokin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir Kolmogorov" target="Pushmeet Kohli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vladimir Kolmogorov" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Zhirkov" target="A. S. Lukin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Alexander Zhirkov" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Osokin" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Osokin" target="Pushmeet Kohli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Osokin" target="V. A. Galatenko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. Osokin" target="Konstantin V. Anokhin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. M. Denisov" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Huai Huang" target="D. V. Yurin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yong-Huai Huang" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Konstantin V. Anokhin" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Konstantin V. Anokhin" target="V. A. Galatenko">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roman Shapovalov" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Roman Shapovalov" target="Pushmeet Kohli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Pushmeet Kohli" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. S. Lukin" target="Dmitry Vetrov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. S. Lukin" target="D. Kubasov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. S. Lukin" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. S. Lukin" target="D. V. Yurin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. V. Yurin" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Danil Korchagin" target="A. S. Krylov">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Dmitry Vetrov" target="V. A. Galatenko">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

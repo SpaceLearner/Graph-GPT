@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P114234">
+      <data key="title">finding shorter paths for robot arms using their redundancy</data>
+    </node>
+    <node id="P95714">
+      <data key="title">learning sampling distributions for robot motion planning</data>
+    </node>
+    <node id="P42780">
+      <data key="title">a hybrid method for online trajectory planning of mobile robots in cluttered environments</data>
+    </node>
+    <node id="P117243">
+      <data key="title">a hierarchical network for diverse trajectory proposals</data>
+    </node>
+    <node id="P88033">
+      <data key="title">a complete system for vision based micro aerial vehicle mapping planning and flight in cluttered environments</data>
+    </node>
+    <node id="P132888">
+      <data key="title">learning implicit sampling distributions for motion planning</data>
+    </node>
+    <node id="P42890">
+      <data key="title">planning fast and slow a framework for adaptive real time safe trajectory planning</data>
+    </node>
+    <node id="P108">
+      <data key="title">informed rrt optimal sampling based path planning focused via direct sampling of an admissible ellipsoidal heuristic</data>
+    </node>
+    <node id="P42888">
+      <data key="title">rrt combined with gvo for real time nonholonomic robot navigation in dynamic environment</data>
+    </node>
+    <node id="P113441">
+      <data key="title">sampling based algorithms for optimal motion planning</data>
+    </node>
+    <node id="P123576">
+      <data key="title">harmonious sampling for mobile manipulation planning</data>
+    </node>
+    <node id="P65095">
+      <data key="title">bit batch informed trees for optimal sampling based planning via dynamic programming on implicit random geometric graphs</data>
+    </node>
+    <node id="P17838">
+      <data key="title">navigating the landscape for real time localization and mapping for robotics and virtual and augmented reality</data>
+    </node>
+    <node id="P159665">
+      <data key="title">quotient space motion planning</data>
+    </node>
+    <node id="P45214">
+      <data key="title">batch informed trees bit sampling based optimal planning via the heuristically guided search of implicit random geometric graphs</data>
+    </node>
+    <node id="P76159">
+      <data key="title">motion planning networks</data>
+    </node>
+    <node id="P152574">
+      <data key="title">informed asymptotically optimal anytime search</data>
+    </node>
+    <node id="P127870">
+      <data key="title">efficient high quality motion planning by fast all pairs r nearest neighbors</data>
+    </node>
+    <node id="P77231">
+      <data key="title">collision detection or nearest neighbor search on the computational bottleneck in sampling based motion planning</data>
+    </node>
+    <node id="P168795">
+      <data key="title">learning to plan via neural exploration exploitation trees</data>
+    </node>
+    <edge source="P114234" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P132888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P76159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P95714" target="P168795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42780" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42780" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42780" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117243" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117243" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117243" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88033" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P88033" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132888" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132888" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132888" target="P168795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42890" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P42890" target="P108">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P65095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P113441">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P77231">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P152574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P42888">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P76159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P17838">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P123576">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P168795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P159665">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108" target="P127870">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P65095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P77231">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P152574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P76159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P123576">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P168795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113441" target="P127870">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P123576" target="P45214">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P65095" target="P152574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45214" target="P152574">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45214" target="P76159">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P45214" target="P168795">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P152574" target="P77231">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127870" target="P77231">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

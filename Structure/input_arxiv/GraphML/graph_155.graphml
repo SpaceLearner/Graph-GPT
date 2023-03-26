@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P38745">
+      <data key="title">image aesthetic assessment an experimental survey</data>
+    </node>
+    <node id="P155043">
+      <data key="title">recognizing image style</data>
+    </node>
+    <node id="P32395">
+      <data key="title">a smart system for selection of optimal product images in e commerce</data>
+    </node>
+    <node id="P127007">
+      <data key="title">iterative decoding of low density parity check codes a survey</data>
+    </node>
+    <node id="P53398">
+      <data key="title">brain inspired deep networks for image aesthetics assessment</data>
+    </node>
+    <node id="P110496">
+      <data key="title">technical report on visual quality assessment for frame interpolation</data>
+    </node>
+    <node id="P107513">
+      <data key="title">polynet a pursuit of structural diversity in very deep networks</data>
+    </node>
+    <node id="P25376">
+      <data key="title">hybrid cnn and dictionary based models for scene recognition and domain adaptation</data>
+    </node>
+    <node id="P22502">
+      <data key="title">overfeat integrated recognition localization and detection using convolutional networks</data>
+    </node>
+    <node id="P78840">
+      <data key="title">no reference color image quality assessment from entropy to perceptual quality</data>
+    </node>
+    <node id="P151406">
+      <data key="title">artificial intelligence paradigm for customer experience management in next generation networks challenges and perspectives</data>
+    </node>
+    <node id="P25208">
+      <data key="title">very deep convolutional networks for large scale image recognition</data>
+    </node>
+    <node id="P45376">
+      <data key="title">visual aesthetic quality assessment with multi task deep learning</data>
+    </node>
+    <node id="P52018">
+      <data key="title">inception v4 inception resnet and the impact of residual connections on learning</data>
+    </node>
+    <node id="P87631">
+      <data key="title">describing human aesthetic perception by deeply learned attributes from flickr</data>
+    </node>
+    <node id="P29396">
+      <data key="title">semi fragile image authentication based on cfd and 3 bit quantization</data>
+    </node>
+    <node id="P200">
+      <data key="title">subjective and objective quality assessment of image a survey</data>
+    </node>
+    <node id="P75692">
+      <data key="title">learning deep representation for face alignment with auxiliary attributes</data>
+    </node>
+    <node id="P107478">
+      <data key="title">qoe beyond the mos an in depth look at qoe via better metrics and their relation to mos</data>
+    </node>
+    <node id="P152106">
+      <data key="title">subjective annotation for a frame interpolation benchmark using artifact amplification</data>
+    </node>
+    <edge source="P38745" target="P22502">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P75692">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P155043">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P25376">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P52018">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P53398">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P45376">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P87631">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38745" target="P107513">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32395" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P32395" target="P200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127007" target="P29396">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110496" target="P107478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107513" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107513" target="P52018">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25376" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P22502" target="P25208">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78840" target="P200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P151406" target="P107478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P52018">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P25208" target="P45376">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29396" target="P200">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P200" target="P107478">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P107478" target="P152106">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

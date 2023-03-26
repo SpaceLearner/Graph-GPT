@@ -1,0 +1,40 @@
+R E. Griswold	Paulo J. Santos	{'relation': 'collaborate'}
+R E. Griswold	James F Gimpel	{'relation': 'collaborate'}
+R E. Griswold	G. David Ripley	{'relation': 'collaborate'}
+R E. Griswold	David R. Hanson	{'relation': 'collaborate'}
+R E. Griswold	R. B. Dewar	{'relation': 'collaborate'}
+R E. Griswold	J T Korb	{'relation': 'collaborate'}
+R E. Griswold	Fredrick C. Druseikis	{'relation': 'collaborate'}
+J T Korb	David R. Hanson	{'relation': 'collaborate'}
+James F Gimpel	R. B. Dewar	{'relation': 'collaborate'}
+James F Gimpel	David R. Hanson	{'relation': 'collaborate'}
+James F Gimpel	Paulo J. Santos	{'relation': 'collaborate'}
+Todd A. Proebsting	Christopher W. Fraser	{'relation': 'collaborate'}
+Todd A. Proebsting	David R. Hanson	{'relation': 'collaborate'}
+Norman Ramsey	Mary F. Fernandez	{'relation': 'collaborate'}
+Norman Ramsey	David R. Hanson	{'relation': 'collaborate'}
+Howard J. Larsen	G. David Ripley	{'relation': 'collaborate'}
+Howard J. Larsen	Gary Lindstrom	{'relation': 'collaborate'}
+Howard J. Larsen	Keith R. Merkel	{'relation': 'collaborate'}
+Howard J. Larsen	David R. Hanson	{'relation': 'collaborate'}
+Howard J. Larsen	Fredrick C. Druseikis	{'relation': 'collaborate'}
+Jeffrey Korn	David R. Hanson	{'relation': 'collaborate'}
+Gary Lindstrom	G. David Ripley	{'relation': 'collaborate'}
+Gary Lindstrom	Keith R. Merkel	{'relation': 'collaborate'}
+Gary Lindstrom	Fredrick C. Druseikis	{'relation': 'collaborate'}
+Gary Lindstrom	David R. Hanson	{'relation': 'collaborate'}
+David R. Hanson	Mary F. Fernandez	{'relation': 'collaborate'}
+David R. Hanson	Yoseph Bar-Cohen	{'relation': 'collaborate'}
+David R. Hanson	R. B. Dewar	{'relation': 'collaborate'}
+David R. Hanson	G. David Ripley	{'relation': 'collaborate'}
+David R. Hanson	Brian K. Reid	{'relation': 'collaborate'}
+David R. Hanson	Paulo J. Santos	{'relation': 'collaborate'}
+David R. Hanson	Keith R. Merkel	{'relation': 'collaborate'}
+David R. Hanson	Mukund Raghavachari	{'relation': 'collaborate'}
+David R. Hanson	Alvaro E. Campos	{'relation': 'collaborate'}
+David R. Hanson	Christopher W. Fraser	{'relation': 'collaborate'}
+David R. Hanson	Fredrick C. Druseikis	{'relation': 'collaborate'}
+G. David Ripley	Keith R. Merkel	{'relation': 'collaborate'}
+G. David Ripley	Fredrick C. Druseikis	{'relation': 'collaborate'}
+Keith R. Merkel	Fredrick C. Druseikis	{'relation': 'collaborate'}
+R. B. Dewar	Paulo J. Santos	{'relation': 'collaborate'}

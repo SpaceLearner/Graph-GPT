@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P102023">
+      <data key="title">alternating register automata on finite words and trees</data>
+    </node>
+    <node id="P93977">
+      <data key="title">regular path queries on graphs with data a rigid approach</data>
+    </node>
+    <node id="P26549">
+      <data key="title">an automaton over data words that captures emso logic</data>
+    </node>
+    <node id="P70">
+      <data key="title">on descriptional complexity of the planarity problem for gauss words</data>
+    </node>
+    <node id="P132646">
+      <data key="title">learning nominal automata</data>
+    </node>
+    <node id="P78167">
+      <data key="title">extending buchi automata with constraints on data values</data>
+    </node>
+    <node id="P92673">
+      <data key="title">complexity hierarchies beyond elementary</data>
+    </node>
+    <node id="P86139">
+      <data key="title">interval temporal logics over strongly discrete linear orders the complete picture</data>
+    </node>
+    <node id="P111260">
+      <data key="title">relating timed and register automata</data>
+    </node>
+    <node id="P136302">
+      <data key="title">on the decidability and complexity of some fragments of metric temporal logic</data>
+    </node>
+    <node id="P145263">
+      <data key="title">ltl with the freeze quantifier and register automata</data>
+    </node>
+    <node id="P80986">
+      <data key="title">reachability analysis of first order definable pushdown systems</data>
+    </node>
+    <node id="P149773">
+      <data key="title">mtl model checking of one clock parametric timed automata is undecidable</data>
+    </node>
+    <node id="P47962">
+      <data key="title">ackermannian and primitive recursive bounds with dickson s lemma</data>
+    </node>
+    <node id="P120552">
+      <data key="title">path checking for mtl and tptl over data words</data>
+    </node>
+    <node id="P147271">
+      <data key="title">model checking flat freeze ltl on one counter automata</data>
+    </node>
+    <node id="P108790">
+      <data key="title">synchronizing data words for register automata</data>
+    </node>
+    <node id="P50780">
+      <data key="title">playing games in the baire space</data>
+    </node>
+    <node id="P2779">
+      <data key="title">automata theory in nominal sets</data>
+    </node>
+    <node id="P82233">
+      <data key="title">an extension of data automata that captures xpath</data>
+    </node>
+    <edge source="P102023" target="P92673">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102023" target="P111260">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102023" target="P47962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102023" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P102023" target="P108790">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93977" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26549" target="P111260">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26549" target="P82233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26549" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132646" target="P2779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P132646" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P78167" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92673" target="P111260">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92673" target="P47962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92673" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P92673" target="P108790">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86139" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111260" target="P47962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111260" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111260" target="P2779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P136302" target="P145263">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P149773">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P2779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P82233">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P47962">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P120552">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P80986">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P147271">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P50780">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145263" target="P108790">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80986" target="P2779">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47962" target="P120552">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47962" target="P108790">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

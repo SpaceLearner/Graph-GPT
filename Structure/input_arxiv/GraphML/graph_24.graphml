@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P36237">
+      <data key="title">foresthash semantic hashing with shallow random forests and tiny convolutional networks</data>
+    </node>
+    <node id="P117808">
+      <data key="title">deep neural networks with random gaussian weights a universal classification strategy</data>
+    </node>
+    <node id="P83092">
+      <data key="title">not afraid of the dark nir vis face recognition via cross spectral hallucination and low rank embedding</data>
+    </node>
+    <node id="P57200">
+      <data key="title">hybrid linear modeling via local best fit flats</data>
+    </node>
+    <node id="P106031">
+      <data key="title">mismatch in the classification of linear subspaces sufficient conditions for reliable classification</data>
+    </node>
+    <node id="P104655">
+      <data key="title">a geometric analysis of subspace clustering with outliers</data>
+    </node>
+    <node id="P50119">
+      <data key="title">sparse subspace clustering algorithm theory and applications</data>
+    </node>
+    <node id="P154869">
+      <data key="title">logdet rank minimization with application to subspace clustering</data>
+    </node>
+    <node id="P24042">
+      <data key="title">random forests can hash</data>
+    </node>
+    <node id="P50876">
+      <data key="title">discriminative transformation learning for fuzzy sparse subspace clustering</data>
+    </node>
+    <node id="P18735">
+      <data key="title">communications inspired projection design with application to compressive sensing</data>
+    </node>
+    <node id="P113373">
+      <data key="title">learning efficient sparse and low rank models</data>
+    </node>
+    <node id="P158460">
+      <data key="title">robust principal component analysis</data>
+    </node>
+    <node id="P31">
+      <data key="title">learning transformations for clustering and classification</data>
+    </node>
+    <node id="P11873">
+      <data key="title">structured dictionary learning for classification</data>
+    </node>
+    <node id="P47283">
+      <data key="title">a tutorial on spectral clustering</data>
+    </node>
+    <node id="P63974">
+      <data key="title">bounds on the number of measurements for reliable compressive classification</data>
+    </node>
+    <node id="P6027">
+      <data key="title">generalized principal component analysis gpca</data>
+    </node>
+    <node id="P104235">
+      <data key="title">artistic domain generalisation methods are limited by their deep representations</data>
+    </node>
+    <node id="P4095">
+      <data key="title">robust subspace clustering</data>
+    </node>
+    <edge source="P36237" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117808" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117808" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P117808" target="P104235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83092" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P154869">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P104655">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P6027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57200" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106031" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106031" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P106031" target="P63974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P6027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104655" target="P50119">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P154869">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P11873">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P63974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P50876">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P6027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50119" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154869" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154869" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P24042" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50876" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50876" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50876" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50876" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P18735" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113373" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P113373" target="P158460">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P158460" target="P31">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P47283">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P6027">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P11873">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P63974">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31" target="P104235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6027" target="P4095">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

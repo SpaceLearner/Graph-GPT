@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="K Sepehrnoori">
+      <data key="affiliation">Center for Petroleum and Geosystems Engineering, University of Texas at Austin</data>
+      <data key="research">compositional parallel reservoir simulator, reservoir production policiesMultigrid method, reservoir simulationParallel Compositional Reservoir</data>
+    </node>
+    <node id="David R Kincaid">
+      <data key="affiliation">Univ. of Texas at Austin, Austin</data>
+      <data key="research">iterative refinement, linear algebra, scientific computing</data>
+    </node>
+    <node id="Tsun-Zee Mai">
+      <data key="affiliation">Department of Mathematics, University of Alabama, Tuscaloosa, AL</data>
+      <data key="research">parabolic partial differential equation, correction procedure, domain decomposition algorithm</data>
+    </node>
+    <node id="Long Lee">
+      <data key="affiliation">Department of Mathematics, University of Wyoming, Laramie, WY 82071, United States</data>
+      <data key="research">Helmholtz equation, evolution equation, CH equation</data>
+    </node>
+    <node id="Russell G. Thompson">
+      <data key="affiliation">Nan</data>
+      <data key="research">U.S. independent oil, gas producer, production cost function</data>
+    </node>
+    <node id="J Goodman">
+      <data key="affiliation">Nan</data>
+      <data key="research">numerical study, optimal design, variational problem</data>
+    </node>
+    <node id="James A. Rossmanith">
+      <data key="affiliation">Department of Mathematics, University of Wisconsin, 480 Lincoln Drive, Madison, WI 537061388, USA</data>
+      <data key="research">transport method, magnetic field, numerical method</data>
+    </node>
+    <node id="Germund Dahlquist">
+      <data key="affiliation">Nan</data>
+      <data key="research">lower bound, numerical analysis, numerical method</data>
+    </node>
+    <node id="Robert DeLine">
+      <data key="affiliation">Microsoft Corporation</data>
+      <data key="research">user experience, software development, software system</data>
+    </node>
+    <node id="Randall J LeVeque">
+      <data key="affiliation">rjl@amath.washington.edu</data>
+      <data key="research">source term, finite difference method, numerical method</data>
+    </node>
+    <node id="H. C. Yee">
+      <data key="affiliation">Nan</data>
+      <data key="research">advection equation, nonlinear source term, numerical wave propagation</data>
+    </node>
+    <node id="L M Adams">
+      <data key="affiliation">Institute for Computer Applications in Science and Engineering</data>
+      <data key="research">PSOR method, B SOR, O SOR</data>
+    </node>
+    <node id="Tony F Chan">
+      <data key="affiliation">tonyfchan@ust.hk</data>
+      <data key="research">cortical surface, landmark curve, proposed model</data>
+    </node>
+    <node id="R T. Gregory">
+      <data key="affiliation">University of Tennessee, Knoxville, Tennessee</data>
+      <data key="research">two-volume set, Numerical MathematicsFrom, automatic digital computer</data>
+    </node>
+    <node id="M. Shaw">
+      <data key="affiliation">Nan</data>
+      <data key="research">clean engineering separation, decoupling task, engineering issue</data>
+    </node>
+    <node id="Daniel V. Klein">
+      <data key="affiliation">LoneWolf Systems</data>
+      <data key="research">telemetry data, Carnegie Mellon, data mining method</data>
+    </node>
+    <node id="David M. Young">
+      <data key="affiliation">Nan</data>
+      <data key="research">computer package, iterative method, partial differential equation</data>
+    </node>
+    <node id="Zhilin Li">
+      <data key="affiliation">Land Surveying and Geoinformatics Department of Hongkong Polytechnical University, Hongkong, China</data>
+      <data key="research">spatial conflict, spatial relation, spatial entity</data>
+    </node>
+    <node id="Donna Calhoun">
+      <data key="affiliation">donna.calhoun@cea.fr</data>
+      <data key="research">parabolic equation, single Cartesian grid, order finite volume scheme</data>
+    </node>
+    <node id="Richard P. Beyer">
+      <data key="affiliation">Nan</data>
+      <data key="research">boundary method, boundary methodAnalysis, heterogeneous systemsA computational model</data>
+    </node>
+    <edge source="K Sepehrnoori" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="David R Kincaid" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Tsun-Zee Mai" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Long Lee" target="Randall J LeVeque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Russell G. Thompson" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J Goodman" target="Randall J LeVeque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="James A. Rossmanith" target="Randall J LeVeque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Germund Dahlquist" target="Randall J LeVeque">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert DeLine" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert DeLine" target="M. Shaw">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Robert DeLine" target="Daniel V. Klein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="Donna Calhoun">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="Zhilin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="H. C. Yee">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="Richard P. Beyer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="Tony F Chan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Randall J LeVeque" target="L M Adams">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="L M Adams" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="R T. Gregory" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Shaw" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="M. Shaw" target="Daniel V. Klein">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Daniel V. Klein" target="David M. Young">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

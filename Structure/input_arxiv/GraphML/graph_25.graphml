@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P32">
+      <data key="title">methods for integrating knowledge with the three weight optimization algorithm for hybrid cognitive processing</data>
+    </node>
+    <node id="P60341">
+      <data key="title">a distributed admm approach to informative trajectory planning for multi target tracking</data>
+    </node>
+    <node id="P49326">
+      <data key="title">instanton based techniques for analysis and reduction of error floors of ldpc codes</data>
+    </node>
+    <node id="P137860">
+      <data key="title">fast and effective algorithms for symmetric nonnegative matrix factorization</data>
+    </node>
+    <node id="P165021">
+      <data key="title">decomposition methods for large scale lp decoding</data>
+    </node>
+    <node id="P57475">
+      <data key="title">extremely low bit neural network squeeze the last bit out with admm</data>
+    </node>
+    <node id="P7848">
+      <data key="title">hierarchical and high girth qc ldpc codes</data>
+    </node>
+    <node id="P166834">
+      <data key="title">counting in graph covers a combinatorial characterization of the bethe entropy function</data>
+    </node>
+    <node id="P93641">
+      <data key="title">optimal control of linear systems with limited control actions threshold based event triggered control</data>
+    </node>
+    <node id="P83584">
+      <data key="title">proximal operators for multi agent path planning</data>
+    </node>
+    <node id="P36645">
+      <data key="title">a message passing algorithm for multi agent trajectory planning</data>
+    </node>
+    <node id="P63689">
+      <data key="title">graph cover decoding and finite length analysis of message passing iterative decoding of ldpc codes</data>
+    </node>
+    <node id="P13357">
+      <data key="title">testing fine grained parallelism for the admm on a factor graph</data>
+    </node>
+    <node id="P111187">
+      <data key="title">an improved three weight message passing algorithm</data>
+    </node>
+    <node id="P43932">
+      <data key="title">mathematical programming decoding of binary linear codes theory and algorithms</data>
+    </node>
+    <node id="P124379">
+      <data key="title">adaptive cut generation algorithm for improved linear programming decoding of binary linear codes</data>
+    </node>
+    <node id="P26646">
+      <data key="title">improved linear programming decoding of ldpc codes and bounds on the minimum and fractional distance</data>
+    </node>
+    <node id="P141036">
+      <data key="title">deep learning for neuroimaging a validation study</data>
+    </node>
+    <node id="P155007">
+      <data key="title">efficient linear programming decoding of hdpc codes</data>
+    </node>
+    <node id="P146987">
+      <data key="title">the admm penalized decoder for ldpc codes</data>
+    </node>
+    <edge source="P32" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60341" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49326" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49326" target="P63689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137860" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P137860" target="P165021">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165021" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165021" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165021" target="P166834">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165021" target="P7848">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P165021" target="P26646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57475" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P7848" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166834" target="P63689">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93641" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83584" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P83584" target="P36645">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36645" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63689" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63689" target="P124379">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63689" target="P43932">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63689" target="P155007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63689" target="P26646">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13357" target="P111187">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111187" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P111187" target="P141036">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43932" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43932" target="P124379">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43932" target="P155007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P124379" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P26646" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155007" target="P146987">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

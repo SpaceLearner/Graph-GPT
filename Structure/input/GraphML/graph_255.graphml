@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Hari Balachandran">
+      <data key="affiliation">Texas Instruments, Inc.</data>
+      <data key="research">logic yield enhancement, SEMATECH test methods experiment, at-speed test strategy</data>
+    </node>
+    <node id="Ke Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">optical spectroscopy, ARF field, deploying ARF</data>
+    </node>
+    <node id="Selin Aviyente">
+      <data key="affiliation">Dept. of Electr. Eng. &amp; Comput. Sci., Michigan Univ., Ann Arbor, MI, USA</data>
+      <data key="research">mutual information, different subbands, sparse representation</data>
+    </node>
+    <node id="W. Robert Daasch">
+      <data key="affiliation">Nan</data>
+      <data key="research">analytical model, cycle-accurate microarchitectural power, different power model</data>
+    </node>
+    <node id="D. Appello">
+      <data key="affiliation">STM Electron., Cornaredo, Italy</data>
+      <data key="research">Reliability Characterization, novel approach, radiation experiment</data>
+    </node>
+    <node id="Anjali Kinra">
+      <data key="affiliation">Nan</data>
+      <data key="research">UltraSPARC microprocessorsSuccessful manufacturing ramp, logic failure, logic mapping</data>
+    </node>
+    <node id="John Carulli">
+      <data key="affiliation">Texas Instruments Inc.</data>
+      <data key="research">spatial correlation modeling, Automated test equipment, RF test</data>
+    </node>
+    <node id="Kaiguo Yan">
+      <data key="affiliation">Schools of MAE, Nanyang Technological University, Singapore</data>
+      <data key="research">optical spectroscopy, detailed system design, model efficacy</data>
+    </node>
+    <node id="Vijay Reddy">
+      <data key="affiliation">Texas Instruments Inc.</data>
+      <data key="research">clock path, NEGATIVE BIAS TEMPERATURE INSTABILITY, static stress</data>
+    </node>
+    <node id="A. D. Singh">
+      <data key="affiliation">Department of Electrical Engineering, Virginia Polytechnic Institute and State University</data>
+      <data key="research">multiple-valued multiplexer-flip-flop cascade, multiple-valued sequential logic function, multiple-valued technology</data>
+    </node>
+    <node id="Yiorgos Makris">
+      <data key="affiliation">Electrical Engineering Department, The University of Texas at Dallas, Richardson, TX, USA</data>
+      <data key="research">semiconductor manufacturing, spatial correlation modeling, test time</data>
+    </node>
+    <node id="Yan Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">college computer public course, College Fundamentals, Computer-Based Teaching Methods</data>
+    </node>
+    <node id="Xiaoxiao Ma">
+      <data key="affiliation">University of Massachusetts Lowell, Lowell, MA, USA</data>
+      <data key="research">weight change, health OSN, health behavior</data>
+    </node>
+    <node id="Nathan Kupp">
+      <data key="affiliation">Department of Electrical Engineering, Yale University, USA</data>
+      <data key="research">alternative test, test cost, traditional specification test</data>
+    </node>
+    <node id="Erik Jan Marinissen">
+      <data key="affiliation">, Leuven, Belgium 3001</data>
+      <data key="research">test time, test scheduling, test architecture</data>
+    </node>
+    <node id="Lemin Li">
+      <data key="affiliation">Nan</data>
+      <data key="research">Bayes shrinkage, power spectrum estimation, scale space</data>
+    </node>
+    <node id="Anand Krishnan">
+      <data key="affiliation">Nan</data>
+      <data key="research">Conditional Random Field, CRF model, Geriatric Care DomainEvent extraction</data>
+    </node>
+    <node id="Kenneth M. Butler">
+      <data key="affiliation">ITC 2005 Program Chair</data>
+      <data key="research">test generation, test quality, test pattern</data>
+    </node>
+    <node id="Thomas J. Anderson">
+      <data key="affiliation">Wavecrest Corporatio, Technology Drive, San Jose, CA</data>
+      <data key="research">AC parametric test, new test methodology, test platform</data>
+    </node>
+    <node id="Jayashree Saxena">
+      <data key="affiliation">Texas Instruments Inc., Dallas</data>
+      <data key="research">various test type, classic test escape model, different test type</data>
+    </node>
+    <edge source="Hari Balachandran" target="Anjali Kinra">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hari Balachandran" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hari Balachandran" target="John Carulli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hari Balachandran" target="Jayashree Saxena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Selin Aviyente">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Kaiguo Yan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Lemin Li">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Xiaoxiao Ma">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Yan Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="John Carulli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Yiorgos Makris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Ke Huang" target="Nathan Kupp">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Robert Daasch" target="Jayashree Saxena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Robert Daasch" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="W. Robert Daasch" target="John Carulli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Appello" target="Erik Jan Marinissen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Appello" target="John Carulli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Appello" target="A. D. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D. Appello" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anjali Kinra" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anjali Kinra" target="John Carulli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Anjali Kinra" target="Jayashree Saxena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Nathan Kupp">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Anand Krishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Jayashree Saxena">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Thomas J. Anderson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Yiorgos Makris">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Erik Jan Marinissen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="A. D. Singh">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="John Carulli" target="Vijay Reddy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kaiguo Yan" target="Yan Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Vijay Reddy" target="Anand Krishnan">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. Singh" target="Erik Jan Marinissen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="A. D. Singh" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yiorgos Makris" target="Nathan Kupp">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Erik Jan Marinissen" target="Kenneth M. Butler">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Kenneth M. Butler" target="Jayashree Saxena">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

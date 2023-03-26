@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Long Li">
+      <data key="affiliation">Intel AsiaPacific Research &amp; Development Ltd., Shanghai, China</data>
+      <data key="research">network processor, critical section, experimental result</data>
+    </node>
+    <node id="Weihua Jiang">
+      <data key="affiliation">Hebei University of Science and Technology, China</data>
+      <data key="research">positive solution, multiple positive solution, H. Amann fixed point</data>
+    </node>
+    <node id="F. Benjamin Zhan">
+      <data key="affiliation">Department of Geography and Planning, Southwest Texas State University, San Marcos, TX</data>
+      <data key="research">trajectory corridor, health data, approximate linguistic term</data>
+    </node>
+    <node id="Jinquan Dai">
+      <data key="affiliation">Intel China Software Center, China</data>
+      <data key="research">hardware acceleration, browser-based client, Browser workload characterization</data>
+    </node>
+    <node id="Keith T. Mason">
+      <data key="affiliation">University of Keele, Staffordshire, UK</data>
+      <data key="research">data model, object data model, relational data model</data>
+    </node>
+    <node id="Hui Tian">
+      <data key="affiliation">College of Computer Science and Technology, National Huaqiao University, Xiamen, Fujian 361021, China and School of Computer Science and Technology, Huazhong University of Science and Technology,  ...</data>
+      <data key="research">secret message, embedding transparency, experimental result</data>
+    </node>
+    <node id="Hui Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">local environment, radio signal, Artificial Neural Network</data>
+    </node>
+    <node id="J. G. Stell">
+      <data key="affiliation">Strathclyde Univ., Glasgow, UK</data>
+      <data key="research">particular reference, specification language</data>
+    </node>
+    <node id="Zhihua Cai">
+      <data key="affiliation">Nan</data>
+      <data key="research">natural training data, Bayesian network classifier, class distribution</data>
+    </node>
+    <node id="Yuji Tanabe">
+      <data key="affiliation">Nan</data>
+      <data key="research">local environment, radio signal, Artificial Neural Network</data>
+    </node>
+    <node id="Hui Lin">
+      <data key="affiliation">Nan</data>
+      <data key="research">biochemical content, vegetation index, hyperspectral measurement</data>
+    </node>
+    <node id="Li Zhu">
+      <data key="affiliation">Nan</data>
+      <data key="research">CNC Machining, embedded system, operating system</data>
+    </node>
+    <node id="Liangpei Zhang">
+      <data key="affiliation">Nan</data>
+      <data key="research">base image, sub-pixel mapping method, sub-pixel scale</data>
+    </node>
+    <node id="Nan Liu">
+      <data key="affiliation">Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599</data>
+      <data key="research">patient load, patient appointment, actual clinic</data>
+    </node>
+    <node id="Yee Leung">
+      <data key="affiliation">Department of Geography and Resource Management, The Chinese University of Hong Kong, Hong Kong, PR China</data>
+      <data key="research">data manifold, loopy manifold, multi-cluster manifold</data>
+    </node>
+    <node id="Bo Huang">
+      <data key="affiliation">Department of Computer Science and Technology, Harbin Institute of Technology, Harbin, China</data>
+      <data key="research">tongue shape, tongue color analysis, novel computerized tongue inspection</data>
+    </node>
+    <node id="Magesh Chandramouli">
+      <data key="affiliation">Purdue University</data>
+      <data key="research">spatial configuration, Desktop VR, genetic algorithm</data>
+    </node>
+    <node id="C. A. Johnson">
+      <data key="affiliation">School of Computing, University of Plymouth, Devon, England</data>
+      <data key="research">top-down query processing, disjunctive well-founded semantics, extensional database</data>
+    </node>
+    <node id="Jinsong Wu">
+      <data key="affiliation">Department of Electrical and Computer Engineering, Queen's University, Kingston, Canada</data>
+      <data key="research">rapid fading channel, input symbol, M linear dispersion code</data>
+    </node>
+    <node id="Takaaki Baba">
+      <data key="affiliation">Nan</data>
+      <data key="research">local environment, radio signal, Artificial Neural Network</data>
+    </node>
+    <edge source="Long Li" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Long Li" target="Jinquan Dai">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Weihua Jiang" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Benjamin Zhan" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="F. Benjamin Zhan" target="Hui Lin">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Jinquan Dai" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keith T. Mason" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keith T. Mason" target="C. A. Johnson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Keith T. Mason" target="J. G. Stell">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Tian" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhu" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhu" target="Yuji Tanabe">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Zhu" target="Takaaki Baba">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. G. Stell" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="J. G. Stell" target="C. A. Johnson">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihua Cai" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Zhihua Cai" target="Li Zhu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuji Tanabe" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yuji Tanabe" target="Takaaki Baba">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Lin" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hui Lin" target="Yee Leung">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Li Zhu" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Liangpei Zhang" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Liu" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Nan Liu" target="Magesh Chandramouli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Yee Leung" target="Bo Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Huang" target="Jinsong Wu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Huang" target="Takaaki Baba">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Huang" target="Magesh Chandramouli">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Bo Huang" target="C. A. Johnson">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>

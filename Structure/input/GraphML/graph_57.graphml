@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="research" for="node" attr.name="research" attr.type="string" />
+  <key id="affiliation" for="node" attr.name="affiliation" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="K. P. Hsu">
+      <data key="affiliation">National Taiwan Univeristy, Taiwan</data>
+      <data key="research">National Taiwan University Hospital, Information System, Newborn Screening System</data>
+    </node>
+    <node id="Hao-Chieh Liu">
+      <data key="affiliation">Nan</data>
+      <data key="research">Hg-Cd-Te systemA study, InP p-quantum-well infrared photodetectors, experimental determination</data>
+    </node>
+    <node id="Hans M. Amman">
+      <data key="affiliation">Utrecht School of Economics, Utrecht University, Utrecht, The Netherlands 3584 CS</data>
+      <data key="research">Computational Economics, optimal experimentation, stochastic control</data>
+    </node>
+    <node id="Hördur Arnarson">
+      <data key="affiliation">Nan</data>
+      <data key="research">computer vision, food handling, syntactic shape classification algorithm</data>
+    </node>
+    <node id="Y. T. Wang">
+      <data key="affiliation">Bell Laboratories, Holmdel, NJ</data>
+      <data key="research">numerical result, VMS process schedule, VMS time-critical process schedulingThe</data>
+    </node>
+    <node id="Hans P. Zima">
+      <data key="affiliation">JPL, Pasadena, CA, USA</data>
+      <data key="research">High Performance Fortran, Vienna Fortran, data distribution</data>
+    </node>
+    <node id="C. H. Chen">
+      <data key="affiliation">Nan</data>
+      <data key="research">fuzzy logic, neural network, nondestructive evaluation</data>
+    </node>
+    <node id="O. K. Ersoy">
+      <data key="affiliation">School of Electrical Engineering, Purdue University, West Lafayette, Indiana</data>
+      <data key="research">input data, correlated data, data point</data>
+    </node>
+    <node id="K. Lam">
+      <data key="affiliation">Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong</data>
+      <data key="research">varicose cylinder, cylinder vibration, three-dimensional wake structure</data>
+    </node>
+    <node id="Nastaran Baradaran">
+      <data key="affiliation">University of Southern California</data>
+      <data key="research">Scalar Replacement, specific data, storage structure</data>
+    </node>
+    <node id="D A Belsley">
+      <data key="affiliation">University of Salerno Italy and Boston College USA and University of Cyprus Cyprus and Erasmus University Rotterdam The Netherlands and University of Tokyo Japan and University of Washington USA</data>
+      <data key="research">serial correlation, Special Issue, Computational EconometricsEditorial</data>
+    </node>
+    <node id="Clement T. Yu">
+      <data key="affiliation">Nan</data>
+      <data key="research">adaptive mixed relation decomposition, conjunctive retrieval query</data>
+    </node>
+    <node id="Gabe Rudy">
+      <data key="affiliation">School of Computing, University of Utah, Salt Lake City, UT</data>
+      <data key="research">transformation recipe, CUDA code, transformation program</data>
+    </node>
+    <node id="P. S. P. Wang">
+      <data key="affiliation">Nan</data>
+      <data key="research">courtesy amount block, handprinted courtesy amount, bank check</data>
+    </node>
+    <node id="L. F. Pau">
+      <data key="affiliation">Battelle Memorial Institute, 7 Route de Drize, CH1227 Carouge, Switzerland.</data>
+      <data key="research">electrical testing, class probability, Integrated Testing</data>
+    </node>
+    <node id="Y. S. Kuo">
+      <data key="affiliation">Nan</data>
+      <data key="research">adaptable quad tree technique</data>
+    </node>
+    <node id="Jianlin Liu">
+      <data key="affiliation">Department of Electrical Engineering , University of California, Riverside, USA</data>
+      <data key="research">solid process, mosfet memory, nonvolatile memory application</data>
+    </node>
+    <node id="S. D. Lester">
+      <data key="affiliation">The Univ. of Texas at Austin, Austin, TX</data>
+      <data key="research">Phosphorus-overpressure rapid thermal annealing, indium phosphideA study, parasitic reaction</data>
+    </node>
+    <node id="S. Ozer">
+      <data key="affiliation">Electrical &amp; Electronics Engineering Department, Istanbul University, Avcilar, Istanbul</data>
+      <data key="research">kernel function, Activity Detection, Chebyshev kernel function</data>
+    </node>
+    <node id="K. T. Huang">
+      <data key="affiliation">Nan</data>
+      <data key="research">GaSb growth</data>
+    </node>
+    <edge source="K. P. Hsu" target="C. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Chieh Liu" target="C. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hao-Chieh Liu" target="S. D. Lester">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hans M. Amman" target="L. F. Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hans M. Amman" target="D A Belsley">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hördur Arnarson" target="L. F. Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. T. Wang" target="C. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Y. T. Wang" target="Clement T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="Hans P. Zima" target="C. H. Chen">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="O. K. Ersoy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="S. Ozer">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="L. F. Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="K. Lam">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="K. T. Huang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="Clement T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="Nastaran Baradaran">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="Gabe Rudy">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="Y. S. Kuo">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="Jianlin Liu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="S. D. Lester">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="C. H. Chen" target="P. S. P. Wang">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="K. Lam" target="Clement T. Yu">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="D A Belsley" target="L. F. Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+    <edge source="P. S. P. Wang" target="L. F. Pau">
+      <data key="relation">collaborate</data>
+    </edge>
+  </graph>
+</graphml>
