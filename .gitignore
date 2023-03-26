@@ -6,9 +6,11 @@ __pycache__/
 # dataset
 dataset
 *.csv
+*.tsv
 *.pkl
 wandb
 *.out
+Knowledge
 
 
 # C extensions
