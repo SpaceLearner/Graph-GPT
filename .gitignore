@@ -11,6 +11,7 @@ dataset
 wandb
 *.out
 Knowledge
+Semantic
 
 
 # C extensions
