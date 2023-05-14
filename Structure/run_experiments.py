@@ -117,7 +117,7 @@ def main(config, seed=0):
                 # precisions = []
                 question = question_head
                 if config.change_order:
-                    data["prompt"] = instructer + question + example  + tail + graph 
+                    data["prompt"] = instructer + question + example + tail + graph 
                 else:
                     data["prompt"] = instructer + graph + example + question + tail
                 print(example + question + tail)
@@ -242,9 +242,7 @@ def main(config, seed=0):
                 acc = evaluate(predictions, true_answer)
                 accs.append(acc)
                 wandb.log({"epoch_acc": acc})
-                
-            
-                    
+                             
     accs = np.array(accs)
     print(np.mean(accs), np.std(accs))
     wandb.log({"acc": np.mean(accs), "std": np.std(accs)})
@@ -264,17 +262,4 @@ if __name__ == "__main__":
     wandb.init(project="GraphBench", config=args)
     
     main(args)
-    # print("zero_shot: ")
-    # main(args)
-    # args.change_order = True
-    # print("zero_shot + change_order: ")
-    # main(args)
-    # args.method = "one_shot"
-    # args.change_order = False
-    # print("one_shot:")
-    # main(args)
-    # args.method = "one_shot"
-    # args.change_order = True
-    # print("one_shot + change_order: ")
-    # main(args)
     
