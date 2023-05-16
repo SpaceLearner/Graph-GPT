@@ -41,9 +41,9 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
         gramma = ""
     
     if change_order:
-        prompt = instructer + gramma + question + graph + example + tail  
+        prompt = instructer + gramma + question + example + tail + graph    
     else:
-        prompt = instructer + gramma + graph + example + question + tail
+        prompt = graph + instructer + gramma + question + example + tail
         
     return prompt
      
