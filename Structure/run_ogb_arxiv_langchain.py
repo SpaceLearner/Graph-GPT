@@ -41,9 +41,9 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
         gramma = ""
     
     if change_order:
-        prompt = instructer + gramma + question + example + tail + graph    
+        prompt = instructer + gramma + question + " " + example + tail + graph    
     else:
-        prompt = graph + instructer + gramma + question + example + tail
+        prompt = graph + instructer + gramma + question + " " + example + tail
         
     return prompt
      
@@ -69,12 +69,12 @@ def main(config, seed=0):
         prefix  = "./input_arxiv/GML"
         reader  = nx.read_gml
         postfix = ".gml"
-        gramma  = "<GML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attributes and Edge Attributes are included. \n"
+        gramma  = "<GML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attribute is labeled with node [ id ... label ... ... ], edge attribute is labeled with edge [ source ... target ... ... ] \n"
     elif config.format == "GraphML":
         prefix  = "./input_arxiv/GraphML"
         reader  = partial(nx.read_graphml)
         postfix = ".graphml"
-        gramma  = "<GraphML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attributes and Edge Attributes are included. \n"
+        gramma  = "<GraphML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attribute is labeled with <node id=...> <data key=...> ... </data> </node> and edge attribute is labeled with <edge source=... target=... > <data key=...>...</data> </edge> \n"
     elif config.format == "EdgeList":
         prefix  = "./input_arxiv/EdgeList"
         reader  = partial(nx.read_edgelist, delimiter="\t")
