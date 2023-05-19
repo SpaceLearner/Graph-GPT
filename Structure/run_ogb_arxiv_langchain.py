@@ -29,7 +29,7 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
     elif task == "degree":
         question = question_head + str(input) + " is ?\n"
     elif task == "hasedge":
-        question = "Does node " + str(input[0]) + " and node " + str(input[1]) + " connected in this graph?\n"
+        question = "Does node " + str(input[0]) + " and node " + str(input[1]) + " have an edge in this graph?\n"
     elif task == "hasattr":
         question = question_head + str(input) + " is ?\n"
     elif task == "diameter":
@@ -41,9 +41,11 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
         gramma = ""
     
     if change_order:
-        prompt = instructer + gramma + question + " " + example + tail + graph    
+        prompt = instructer + gramma + example + question + " " + tail + graph    
     else:
-        prompt = graph + instructer + gramma + question + " " + example + tail
+        prompt = graph + instructer + gramma + example + question + " "  + tail
+        
+    # print(prompt)
         
     return prompt
      
@@ -61,7 +63,7 @@ def main(config, seed=0):
     # graphs = pickle.load(open(graph_file, "rb"))
         
     if config.use_role_prompting:
-        instructer = "You are a brilliant network analyzer and knows every thing about academic collaboration network. You know every thing from the degree and the structure of the network. The following is an undirected graph with the format of " + config.format + " \n"
+        instructer = "You are a brilliant graph analyzer and knows every thing about graph. You know every thing about the structure of graphs and how to compute graph sturcture metrics. \n"
     else:
         instructer = ""
     
@@ -69,12 +71,12 @@ def main(config, seed=0):
         prefix  = "./input_arxiv/GML"
         reader  = nx.read_gml
         postfix = ".gml"
-        gramma  = "<GML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attribute is labeled with node [ id ... label ... ... ], edge attribute is labeled with edge [ source ... target ... ... ] \n"
+        gramma  = "<GML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node is labeled with node [ id ... label ... ... ], edge is labeled with edge [ source ... target ... ... ] \n"
     elif config.format == "GraphML":
         prefix  = "./input_arxiv/GraphML"
         reader  = partial(nx.read_graphml)
         postfix = ".graphml"
-        gramma  = "<GraphML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node attribute is labeled with <node id=...> <data key=...> ... </data> </node> and edge attribute is labeled with <edge source=... target=... > <data key=...>...</data> </edge> \n"
+        gramma  = "<GraphML gramma> Each node has a unique id and a label. Each edge has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source=... target=... > <data key=...>...</data> </edge> \n"
     elif config.format == "EdgeList":
         prefix  = "./input_arxiv/EdgeList"
         reader  = partial(nx.read_edgelist, delimiter="\t")
@@ -96,12 +98,15 @@ def main(config, seed=0):
         elif config.task == "hasattr":
             example = "For example, node A has title Efficient Algorithm for Recommendation if its title attribute value is Efficient Algorithm for Recommendation. \n"
         elif config.task == "size":
-            random = np.random.randint(0, 100)
-            example_graph = os.path.join(prefix, "graph_"+str(random)+postfix)
-            example_graph_nx = reader(example_graph)
-            with open(example_graph, "r") as fp:
-                example_graph = fp.read()
-            example = "For example, the size of the following graph " + example_graph + " is " + str(example_graph_nx.number_of_nodes()) + "nodes and " + str(example_graph_nx.number_of_edges()) + " edges. \n"
+            if config.format != "GraphML":
+                random = np.random.randint(0, 100)
+                example_graph = os.path.join(prefix, "graph_"+str(random)+postfix)
+                example_graph_nx = reader(example_graph)
+                with open(example_graph, "r") as fp:
+                    example_graph = fp.read()
+                example = "For example, the size of the following graph " + example_graph + " is " + str(example_graph_nx.number_of_nodes()) + " nodes and " + str(example_graph_nx.number_of_edges()) + " edges. \n"
+            else:
+                example = "The size of a graph is the number of nodes and the number of edges. \n"
         elif config.task == "clustering":
             example = "For example, the clustering coefficient of a node is 0.33 if the node has 3 neighbors and only 2 of the 3 neighbors are connected. \n"
         elif config.task == "diameter":
@@ -122,12 +127,15 @@ def main(config, seed=0):
             # print(question, answer)
             # print(question_head, true_answer)
             if config.task == "size":
-                random = np.random.randint(0, 100)
-                example_graph = os.path.join(prefix, "graph_"+str(random)+postfix)
-                example_graph_nx = reader(example_graph)
-                with open(example_graph, "r") as fp:
-                    example_graph = fp.read()
-                example = "For example, the size of the following graph " + example_graph + " is " + str(example_graph_nx.number_of_nodes()) + "nodes and " + str(example_graph_nx.number_of_edges()) + " edges. \n"
+                if "one_shot" in config.method:
+                    random = np.random.randint(0, 100)
+                    example_graph = os.path.join(prefix, "graph_"+str(random)+postfix)
+                    example_graph_nx = reader(example_graph)
+                    with open(example_graph, "r") as fp:
+                        example_graph = fp.read()
+                    example = "For example, the size of the following graph " + example_graph + " is " + str(example_graph_nx.number_of_nodes()) + " nodes and " + str(example_graph_nx.number_of_edges()) + " edges. \n"
+                else:
+                    example = ""
                 prompt = prompting(config.task, None, question_head, instructer, gramma, example, tail, graph, change_order=config.change_order, use_gramma=config.use_format_explain)
                 answer   = GPT(prompt)
                 if "cot" in config.method:
@@ -233,11 +241,11 @@ if __name__ == "__main__":
     parser.add_argument("--format",         type=str, default="EdgeList",   help="Input format to use. ")
     parser.add_argument("--dataset",        type=str, default="obgn-arxiv", help="The dataset to use. ")
     parser.add_argument("--method",         type=str, default="one_shot",   help="The method to use. ")
-    parser.add_argument("--use_format_explain", type=int, default=0,            help="whether use change order. ")
-    parser.add_argument("--use_role_prompting", type=int, default=0,            help="whether use change order. ")
-    parser.add_argument("--change_order",   type=int, default=0,            help="whether use change order. ")
+    parser.add_argument("--use_format_explain", type=int, default=1,            help="whether use change order. ")
+    parser.add_argument("--use_role_prompting", type=int, default=1,            help="whether use change order. ")
+    parser.add_argument("--change_order",   type=int, default=1,            help="whether use change order. ")
     parser.add_argument("--self_augument",  type=int, default=0,            help="whether use self-aug. ")
-    parser.add_argument("--task",           type=str, default="size",     help="The task to conduct. ")
+    parser.add_argument("--task",           type=str, default="degree",     help="The task to conduct. ")
     args = parser.parse_args()
     
     wandb.init(project="GraphBench", config=args)
