@@ -32,6 +32,10 @@ def task_handler(task, graph, config=None):
     return  question, answers
 
 def answer_cleasing(config, node, answer, groud_truth=None):
+    
+    if answer[-1] == ".":
+        answer = answer[:-1]
+    
     if config.task == "degree":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall("\d+", answer)
@@ -58,20 +62,22 @@ def answer_cleasing(config, node, answer, groud_truth=None):
             pred = ""
         
     elif config.task == "clustering":
+        
+        
         # print(answer)
         if config.method == "zero_shot" or config.method == "one_shot":
-            pred = re.findall(r"[0-1]+\.d*[0-9]+", answer)# [0]
+            pred = re.findall(r"\d.\d+", answer)# [0]
             if len(pred) == 0:
                 pred = "-1"
             else:
                 pred = pred[0]
         elif config.method == "zero_shot_cot" or config.method == "one_shot_cot":
-            pred = re.findall(r"[0-1]+\.([0-9])+", answer)# [0]
+            pred = re.findall(r"\d.\d+", answer)# [0]
             if len(pred) == 0:
                 pred = "-1"
             else:
                 pred = pred[-1]
-        print(pred)
+        # print(pred)
     elif config.task == "diameter":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall(r"-?\d+\.?\d*e?-?\d*?", answer)# [0]
@@ -89,7 +95,7 @@ def answer_cleasing(config, node, answer, groud_truth=None):
     elif config.task == "size":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall("\d+", answer)[:2]
-        elif config.method == "zero_shot_cot":
+        elif "cot" in config.method:
             pred = re.findall("\d+", answer)[-2:]
     return pred
 
