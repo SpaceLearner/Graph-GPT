@@ -12,15 +12,12 @@ import os
 from utils import task_handler, answer_cleasing, evaluate
 from functools import partial
 import time
-from langchain.llms import AzureOpenAI
+from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 
 import wandb
 
-os.environ["OPENAI_API_TYPE"]    = "azure"
-os.environ["OPENAI_API_VERSION"] = "2023-3-15-preview"
-os.environ["OPENAI_API_BASE"]    = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com"
-os.environ["OPENAI_API_KEY"]     = "516a05f6bed44ddeb2a6e8a047046ad5"
+os.environ["OPENAI_API_KEY"] = "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"
 
 def prompting(task, input, question_head, instructer, gramma, example, tail, graph,  change_order, use_gramma):
     
@@ -29,7 +26,7 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
     elif task == "degree":
         question = question_head + str(input) + " is ?\n"
     elif task == "hasedge":
-        question = "Is there an edge between " + str(input[0]) + " and " + str(input[1]) + " in this graph?\n"
+        question = "Does node "  + str(input[0]) + " and node " + str(input[1]) + " have an edge in this graph?\n"
     elif task == "hasattr":
         question = question_head + str(input) + " is ?\n"
     elif task == "diameter":
@@ -41,7 +38,7 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
         gramma = ""
     
     if change_order:
-        prompt = instructer + gramma + example + question + " "  + graph + tail
+        prompt = instructer + gramma + example + question + " " + tail + graph    
     else:
         prompt = graph + instructer + gramma + example + question + " "  + tail
         
@@ -52,7 +49,7 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
 
 def main(config, seed=0):
     
-    GPT = AzureOpenAI(
+    GPT = OpenAI(
     deployment_name="text-davinci-003",
     model_name="text-davinci-003",
     temperature=0.3)
@@ -111,7 +108,7 @@ def main(config, seed=0):
             example = "For example, the clustering coefficient of a node is 0.33 if the node has 3 neighbors and only 2 of the 3 neighbors are connected. \n"
         elif config.task == "diameter":
             example = "For example, the diameter of a graph is 3 if the maximum distance between any node pairs in this graph is 3. \n"
-    if "cot" in config.method:
+    if config.method[:-3] == "cot":
         tail = "Let's think step by step. \n"
 
     # print(example)
@@ -208,12 +205,8 @@ def main(config, seed=0):
                 for node in graph_nx:
                     prompt = prompting(config.task, node, question_head, instructer, gramma, example, tail, graph, change_order=config.change_order, use_gramma=config.use_format_explain)
                     answer   = GPT(prompt)
-                    
                     if "cot" in config.method:
-                        # print(answer)
                         answer = GPT(prompt + " " + answer + " Therefore the answer is " )
-                        # print(answer)
-                    # print(prompt + " " + answer + " Therefore the answer is " )
                     pred       = answer_cleasing(config, None, answer)
                     predictions.append(pred)
                     # time.sleep(5)

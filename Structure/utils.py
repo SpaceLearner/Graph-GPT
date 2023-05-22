@@ -91,7 +91,7 @@ def answer_cleasing(config, node, answer, groud_truth=None):
                 pred = "-1"
             else:
                 pred = pred[-1]
-        # print("pred:", pred)
+        print("pred:", pred)
     elif config.task == "size":
         if config.method == "zero_shot" or config.method == "one_shot":
             pred = re.findall("\d+", answer)[:2]
