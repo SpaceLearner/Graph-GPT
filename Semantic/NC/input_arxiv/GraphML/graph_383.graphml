@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P53165">
+      <data key="title">shortest path in a polygon using sublinear space</data>
+      <data key="abstract">$\renewcommand{\Re}{{\rm I\!\hspace{-0.025em} R}} \newcommand{\SetX}{\mathsf{X}} \newcommand{\VorX}[1]{\mathcal{V} \pth{#1}} \newcommand{\Polygon}{\mathsf{P}} \newcommand{\Space}{\overline{\mathsf{m}}} \newcommand{\pth}[2][\!]{#1\left({#2}\right)}$ We resolve an open problem due to Tetsuo Asano, showing how to compute the shortest path in a polygon, given in a read only memory, using sublinear space and subquadratic time. Specifically, given a simple polygon $\Polygon$ with $n$ vertices in a read only memory, and additional working memory of size $\Space$, the new algorithm computes the shortest path (in $\Polygon$) in $O( n^2 /\, \Space )$ expected time. This requires several new tools, which we believe to be of independent interest.</data>
+    </node>
+    <node id="P36630">
+      <data key="title">minimum perimeter sum partitions in the plane</data>
+      <data key="abstract">Let $P$ be a set of $n$ points in the plane. We consider the problem of partitioning $P$ into two subsets $P_1$ and $P_2$ such that the sum of the perimeters of $\text{CH}(P_1)$ and $\text{CH}(P_2)$ is minimized, where $\text{CH}(P_i)$ denotes the convex hull of $P_i$. The problem was first studied by Mitchell and Wynters in 1991 who gave an $O(n^2)$ time algorithm. Despite considerable progress on related problems, no subquadratic time algorithm for this problem was found so far. We present an exact algorithm solving the problem in $O(n \log^4 n)$ time and a $(1+\varepsilon)$-approximation algorithm running in $O(n + 1/\varepsilon^2\cdot\log^4(1/\varepsilon))$ time.</data>
+    </node>
+    <node id="P93025">
+      <data key="title">experimental study of compressed stack algorithms in limited memory environments</data>
+      <data key="abstract">The {\em compressed stack} is a data structure designed by Barba {\em et al.} (Algorithmica 2015) that allows to reduce the amount of memory needed by an algorithm (at the cost of increasing its runtime). In this paper we introduce the first implementation of this data structure and make its source code publicly available. #R##N#Together with the implementation we analyze the performance of the compressed stack. In our synthetic experiments, considering different test scenarios and using data sizes ranging up to $2^{30}$ elements, we compare it with the classic (uncompressed) stack, both in terms of runtime and memory used. #R##N#Our experiments show that the compressed stack needs significantly less memory than the usual stack (this difference is significant for inputs containing $2000$ or more elements). Overall, with a proper choice of parameters, we can save a significant amount of space (from two to four orders of magnitude) with a small increase in the runtime ($2.32$ times slower on average than the classic stack). These results holds even in test scenarios specifically designed to be challenging for the compressed stack.</data>
+    </node>
+    <node id="P145245">
+      <data key="title">computing a visibility polygon using few variables</data>
+      <data key="abstract">We present several algorithms for computing the visibility polygon of a simple polygon $P$ from a viewpoint inside the polygon, when the polygon resides in read-only memory and only few working variables can be used. The first algorithm uses a constant number of variables, and outputs the vertices of the visibility polygon in $O(n\Rout)$ time, where $\Rout$ denotes the number of reflex vertices of $P$ that are part of the output. The next two algorithms use $O(\log \Rin)$ variables, and output the visibility polygon in $O(n\log \Rin)$ randomized expected time or $O(n\log^2 \Rin)$ deterministic time, where $\Rin$ is the number of reflex vertices of $P$.</data>
+    </node>
+    <node id="P488">
+      <data key="title">common tangents of two disjoint polygons in linear time and constant workspace</data>
+      <data key="abstract">We provide a remarkably simple algorithm to compute all (at most four) common tangents of two disjoint simple polygons. Given each polygon as a read-only array of its corners in cyclic order, the algorithm runs in linear time and constant workspace and is the first to achieve the two complexity bounds simultaneously. The set of common tangents provides basic information about the convex hulls of the polygons—whether they are nested, overlapping, or disjoint—and our algorithm thus also decides this relationship.</data>
+    </node>
+    <node id="P155122">
+      <data key="title">space efficient biconnected components and recognition of outerplanar graphs</data>
+      <data key="abstract">We present space-efficient algorithms for computing cut vertices in a given graph with $n$ vertices and $m$ edges in linear time using $O(n+\min\{m,n\log \log n\})$ bits. With the same time and using $O(n+m)$ bits, we can compute the biconnected components of a graph. We use this result to show an algorithm for the recognition of (maximal) outerplanar graphs in $O(n\log \log n)$ time using $O(n)$ bits.</data>
+    </node>
+    <node id="P100674">
+      <data key="title">memory constrained algorithms for simple polygons</data>
+      <data key="abstract">Abstract   A constant-work-space algorithm has read-only access to an input array and may use only    O  (  1  )    additional words of    O  (  log    n  )    bits, where  n  is the input size. We show how to triangulate a plane straight-line graph with  n  vertices in    O  (    n    2    )    time and constant work-space. We also consider the problem of preprocessing a simple polygon  P  for shortest path queries, where  P  is given by the ordered sequence of its  n  vertices. For this, we relax the space constraint to allow  s  words of work-space. After quadratic preprocessing, the shortest path between any two points inside  P  can be found in    O  (    n    2    /  s  )    time.</data>
+    </node>
+    <node id="P38736">
+      <data key="title">outer common tangents and nesting of convex hulls in linear time and constant workspace</data>
+      <data key="abstract">We describe the first algorithm to compute the outer common tangents of two disjoint simple polygons using linear time and only constant workspace. A tangent of a polygon is a line touching the polygon such that all of the polygon lies on the same side of the line. An outer common tangent of two polygons is a tangent of both polygons such that the polygons lie on the same side of the tangent. Each polygon is given as a read-only array of its corners in cyclic order. The algorithm detects if an outer common tangent does not exist, which is the case if and only if the convex hull of one of the polygons is contained in the convex hull of the other. Otherwise, two corners defining an outer common tangent are returned.</data>
+    </node>
+    <node id="P60003">
+      <data key="title">time space trade off for finding the k visibility region of a point in a polygon</data>
+      <data key="abstract">We study the problem of computing the k-visibility region in the memory-constrained model. In this model, the input resides in a randomly accessible read-only memory of O(n) words, with \(O(\log {n})\) bits each. An algorithm can read and write O(s) additional words of workspace during its execution, and it writes its output to write-only memory. In a given polygon P and for a given point \(q \in P\), we say that a point p is inside the k-visibility region of q, if and only if the line segment pq intersects the boundary of P at most k times. Given a simple n-vertex polygon P stored in a read-only input array and a point \(q \in P\), we give a time-space trade-off algorithm which reports the k-visibility region of q in P in \(O(cn/s+n\log {s}+ \min \{{\lceil k/s \rceil n,n \log {\log _s{n}}}\})\) expected time using O(s) words of workspace. Here \(c\le n\) is the number of critical vertices for q, i.e., the vertices of P where the visibility region may change. We also show how to generalize this result for polygons with holes and for sets of non-crossing line segments.</data>
+    </node>
+    <node id="P28171">
+      <data key="title">biconnectivity st numbering and other applications of dfs using o n bits</data>
+      <data key="abstract">We consider space efficient implementations of some classical applications of DFS including the problem of testing biconnectivity and $2$-edge connectivity, finding cut vertices and cut edges, computing chain decomposition and $st$-numbering of a given undirected graph $G$ on $n$ vertices and $m$ edges. Classical algorithms for them typically use DFS and some $\Omega (\lg n)$ bits\footnote{We use $\lg$ to denote logarithm to the base $2$.} of information at each vertex. Building on a recent $O(n)$-bits implementation of DFS due to Elmasry et al. (STACS 2015) we provide $O(n)$-bit implementations for all these applications of DFS. Our algorithms take $O(m \lg^c n \lg\lg n)$ time for some small constant $c$ (where $c \leq 2$). Central to our implementation is a succinct representation of the DFS tree and a space efficient partitioning of the DFS tree into connected subtrees, which maybe of independent interest for designing other space efficient graph algorithms.</data>
+    </node>
+    <node id="P166520">
+      <data key="title">a time space trade off for computing the geodesic center of a simple polygon</data>
+      <data key="abstract">In this paper we study the problem of computing the geodesic center of a simple polygon when the available workspace is limited. For an $n$-vertex simple polygon, we give a time-space trade-off algorithm that finds the geodesic center in $O(T(n, s) \log^2 n+ \frac{n^2}{s} \log n)$ expected time and uses $O(s)$ additional words of space where $s\in \Omega(\log n) \cap O(n)$, and $T(n, s)$ is the time needed for constructing the shortest path tree of a given point inside a simple polygon, in depth-first order, with $O(s)$ extra space. Applying the best current known time-space trade-off of Oh and Ahn (Algorithmica 2019) for shortest path tree, our algorithm runs in $O(\frac{n^2}{s} \log^3 n)$ expected time.</data>
+    </node>
+    <node id="P139245">
+      <data key="title">improved time space trade offs for computing voronoi diagrams</data>
+      <data key="abstract">Let $P$ be a planar set of $n$ sites in general position. For $k \in \{1, \dots, n-1\}$, the Voronoi diagram of order $k$ for $P$ is obtained by subdividing the plane into cells such that points in the same cell have the same set of nearest $k$ neighbors in $P$. The (nearest site) Voronoi diagram (NVD) and the farthest site Voronoi diagram (FVD) are the particular cases of $k=1$ and $k=n-1$, respectively. For any given $K \in \{1, \dots, n-1\}$, the family of all higher-order Voronoi diagrams of order $k = 1, \dots, K$ for $P$ can be computed in total time $O(nK^2+ n \log n)$ using $O(K^2(n-K))$ space [Aggarwal et al., DCG'89; Lee, TC'82]. Moreover, NVD and FVD for $P$ can be computed in $O(n\log n)$ time using $O(n)$ space [Preparata, Shamos, Springer'85].  For $s \in \{1, \dots, n\}$, an $s$-workspace algorithm has random access to a read-only array with the sites of $P$ in arbitrary order. Additionally, the algorithm may use $O(s)$ words, of $\Theta(\log n)$ bits each, for reading and writing intermediate data. The output can be written only once and cannot be accessed or modified afterwards.  We describe a deterministic $s$-workspace algorithm for computing NVD and FVD for $P$ that runs in $O((n^2/s)\log s)$ time. Moreover, we generalize our $s$-workspace algorithm so that for any given $K \in O(\sqrt{s})$, we compute the family of all higher-order Voronoi diagrams of order $k = 1, \dots, K$ for $P$ in total expected time $O\bigl(\frac{n^2 K^5}{s}(\log s + K \, 2^{O(\log^* K)}) \bigr)$ or in total deterministic time $O\bigl(\frac{n^2 K^5}{s}(\log s + K \log K) \bigr)$. Previously, for Voronoi diagrams, the only known $s$-workspace algorithm runs in expected time $O\bigl((n^2/s) \log s + n \log s \log^*s\bigr)$ [Korman et al., WADS'15] and only works for NVD (i.e., $k=1$). Unlike the previous algorithm, our new method is very simple and does not rely on advanced data structures or random sampling techniques.</data>
+    </node>
+    <node id="P11185">
+      <data key="title">quasi polynomial time approximation scheme for sparse subsets of polygons</data>
+      <data key="abstract">We describe how to approximate, in quasi-polynomial time, the largest independent set of polygons, in a given set of polygons. Our algorithm works by extending the result of Adamaszek and Wiese \cite{aw-asmwi-13, aw-qmwis-14} to polygons of arbitrary complexity. Surprisingly, the algorithm also works or computing the largest subset of the given set of polygons that has some sparsity condition. For example, we show that one can approximate the largest subset of polygons, such that the intersection graph of the subset does not contain a cycle of length $4$ (i.e., $K_{2,2}$).</data>
+    </node>
+    <node id="P128545">
+      <data key="title">an optimal algorithm for the separating common tangents of two polygons</data>
+      <data key="abstract">We describe an algorithm for computing the separating common tangents of two simple polygons using linear time and only constant workspace. A tangent of a polygon is a line touching the polygon such that all of the polygon lies to the same side of the line. A separating common tangent of two polygons is a tangent of both polygons where the polygons are lying on different sides of the tangent. Each polygon is given as a read-only array of its corners. If a separating common tangent does not exist, the algorithm reports that. Otherwise, two corners defining a separating common tangent are returned. The algorithm is simple and implies an optimal algorithm for deciding if the convex hulls of two polygons are disjoint or not. This was not known to be possible in linear time and constant workspace prior to this paper. #R##N#An outer common tangent is a tangent of both polygons where the polygons are on the same side of the tangent. In the case where the convex hulls of the polygons are disjoint, we give an algorithm for computing the outer common tangents in linear time using constant workspace.</data>
+    </node>
+    <node id="P86235">
+      <data key="title">memory adjustable navigation piles with applications to sorting and convex hulls</data>
+      <data key="abstract">We consider space-bounded computations on a random-access machine (RAM) where the input is given on a read-only random-access medium, the output is to be produced to a write-only sequential-access medium, and the available workspace allows random reads and writes but is of limited capacity. The length of the input is $N$ elements, the length of the output is limited by the computation, and the capacity of the workspace is $O(S)$ bits for some predetermined parameter $S$. We present a state-of-the-art priority queue---called an adjustable navigation pile---for this restricted RAM model. Under some reasonable assumptions, our priority queue supports $\mathit{minimum}$ and $\mathit{insert}$ in $O(1)$ worst-case time and $\mathit{extract}$ in $O(N/S + \lg{} S)$ worst-case time for any $S \geq \lg{} N$. We show how to use this data structure to sort $N$ elements and to compute the convex hull of $N$ points in the two-dimensional Euclidean space in $O(N^2/S + N \lg{} S)$ worst-case time for any $S \geq \lg{} N$. Following a known lower bound for the space-time product of any branching program for finding unique elements, both our sorting and convex-hull algorithms are optimal. The adjustable navigation pile has turned out to be useful when designing other space-efficient algorithms, and we expect that it will find its way to yet other applications.</data>
+    </node>
+    <node id="P162480">
+      <data key="title">space time trade offs for stack based algorithms</data>
+      <data key="abstract">In memory-constrained algorithms we have read-only access to the input, and the number of additional variables is limited. In this paper we introduce the compressed stack technique, a method that allows to transform algorithms whose space bottleneck is a stack into memory-constrained algorithms. Given an algorithm \alg\ that runs in O(n) time using $\Theta(n)$ variables, we can modify it so that it runs in $O(n^2/s)$ time using a workspace of O(s) variables (for any $s\in o(\log n)$) or $O(n\log n/\log p)$ time using $O(p\log n/\log p)$ variables (for any $2\leq p\leq n$). We also show how the technique can be applied to solve various geometric problems, namely computing the convex hull of a simple polygon, a triangulation of a monotone polygon, the shortest path between two points inside a monotone polygon, 1-dimensional pyramid approximation of a 1-dimensional vector, and the visibility profile of a point inside a simple polygon. Our approach exceeds or matches the best-known results for these problems in constant-workspace models (when they exist), and gives the first trade-off between the size of the workspace and running time. To the best of our knowledge, this is the first general framework for obtaining memory-constrained algorithms.</data>
+    </node>
+    <node id="P439">
+      <data key="title">a new balanced subdivision of a simple polygon for time space trade off algorithms</data>
+      <data key="abstract">We are given a read-only memory for input and a write-only stream for output. For a positive integer parameter s, an s-workspace algorithm is an algorithm using only $O(s)$ words of workspace in addition to the memory for input. In this paper, we present an $O(n^2/s)$-time $s$-workspace algorithm for subdividing a simple polygon into $O(\min\{n/s,s\})$ subpolygons of complexity $O(\max\{n/s,s\})$. #R##N#As applications of the subdivision, the previously best known time-space trade-offs for the following three geometric problems are improved immediately: (1) computing the shortest path between two points inside a simple $n$-gon, (2) computing the shortest path tree from a point inside a simple $n$-gon, (3) computing a triangulation of a simple $n$-gon. In addition, we improve the algorithm for the second problem even further.</data>
+    </node>
+    <node id="P112311">
+      <data key="title">polygon queries for convex hulls of points</data>
+      <data key="abstract">We study the following range searching problem: Preprocess a set $P$ of $n$ points in the plane with respect to a set $\mathcal{O}$ of $k$ orientations % , for a constant, in the plane so that given an $\mathcal{O}$-oriented convex polygon $Q$, the convex hull of $P\cap Q$ can be computed efficiently, where an $\mathcal{O}$-oriented polygon is a polygon whose edges have orientations in $\mathcal{O}$. We present a data structure with $O(nk^3\log^2n)$ space and $O(nk^3\log^2n)$ construction time, and an $O(h+s\log^2 n)$-time query algorithm for any query $\mathcal{O}$-oriented convex $s$-gon $Q$, where $h$ is the complexity of the convex hull. #R##N#Also, we can compute the perimeter or area of the convex hull of $P\cap Q$ in $O(s\log^2n)$ time using the data structure.</data>
+    </node>
+    <node id="P53157">
+      <data key="title">violator spaces structure and algorithms</data>
+      <data key="abstract">Sharir and Welzl introduced an abstract framework for optimization problems, called LP-type problems or also generalized linear programming problems, which proved useful in algorithm design. We define a new, and as we believe, simpler and more natural framework: violator spaces, which constitute a proper generalization of LP-type problems. We show that Clarkson's randomized algorithms for low-dimensional linear programming work in the context of violator spaces. For example, in this way we obtain the fastest known algorithm for the P-matrix generalized linear.#R##N##R##N#complementarity problem with a constant number of blocks. We also give two new characterizations of LP-type problems: they are equivalent to acyclic violator spaces, as well as to concrete LP-type problems (informally, the constraints in a concrete LP-type problem are subsets of a linearly ordered ground set, and the value of a set of constraints is the minimum of its intersection).</data>
+    </node>
+    <node id="P9649">
+      <data key="title">computational geometry column 67</data>
+      <data key="abstract">In the limited workspace model, we consider algorithms whose input resides in read-only memory and that use only a constant or sublinear amount of writable memory to accomplish their task. We survey recent results in computational geometry that fall into this model and that strive to achieve the lowest possible running time. In addition to discussing the state of the art, we give some illustrative examples and mention open problems for further research.</data>
+    </node>
+    <edge source="P53165" target="P53157">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P100674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P11185">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P38736">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P139245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53165" target="P166520">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36630" target="P38736">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36630" target="P488">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P36630" target="P112311">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93025" target="P145245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93025" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P60003">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P139245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P28171">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P100674">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P145245" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P488" target="P128545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P488" target="P38736">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P488" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P488" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P155122" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P86235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P128545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P60003">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P38736">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P139245">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P100674" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38736" target="P86235">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38736" target="P128545">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P38736" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60003" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P60003" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P28171" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166520" target="P439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P166520" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P139245" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P11185" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128545" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86235" target="P162480">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162480" target="P439">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P162480" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P439" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P53157" target="P9649">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

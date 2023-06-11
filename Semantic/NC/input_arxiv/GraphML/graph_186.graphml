@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P108538">
+      <data key="title">from frequency to meaning vector space models of semantics</data>
+      <data key="abstract">Computers understand very little of the meaning of human language. This profoundly limits our ability to give instructions to computers, the ability of computers to explain their actions to us, and the ability of computers to analyse and process text. Vector space models (VSMs) of semantics are beginning to address these limits. This paper surveys the use of VSMs for semantic processing of text. We organize the literature on VSMs according to the structure of the matrix in a VSM. There are currently three broad classes of VSMs, based on term-document, word-context, and pair-pattern matrices, yielding three classes of applications. We survey a broad range of applications in these three categories and we take a detailed look at a specific open source project in each category. Our goal in this survey is to show the breadth of applications of VSMs for semantics, to provide a new perspective on VSMs for those who are already familiar with the area, and to provide pointers into the literature for those who are less familiar with the field.</data>
+    </node>
+    <node id="P70487">
+      <data key="title">modelling visualising and summarising documents with a single convolutional neural network</data>
+      <data key="abstract">Capturing the compositional process which maps the meaning of words to that of documents is a central challenge for researchers in Natural Language Processing and Information Retrieval. We introduce a model that is able to represent the meaning of documents by embedding them in a low dimensional vector space, while preserving distinctions of word and sentence order crucial for capturing nuanced semantics. Our model is based on an extended Dynamic Convolution Neural Network, which learns convolution filters at both the sentence and document level, hierarchically learning to capture and compose low level lexical features into high level semantic concepts. We demonstrate the effectiveness of this model on a range of document modelling tasks, achieving strong results with no feature engineering and with a more compact model. Inspired by recent advances in visualising deep convolution networks for computer vision, we present a novel visualisation technique for our document networks which not only provides insight into their learning process, but also can be interpreted to produce a compelling automatic summarisation system for texts.</data>
+    </node>
+    <node id="P234">
+      <data key="title">cutting recursive autoencoder trees</data>
+      <data key="abstract">Deep Learning models enjoy considerable success in Natural Language Processing. While deep architectures produce useful representations that lead to improvements in various tasks, they are often difficult to interpret. This makes the analysis of learned structures particularly difficult. In this paper, we rely on empirical tests to see whether a particular structure makes sense. We present an analysis of the Semi-Supervised Recursive Autoencoder, a well-known model that produces structural representations of text. We show that for certain tasks, the structure of the autoencoder can be significantly reduced without loss of classification accuracy and we evaluate the produced structures using human judgment.</data>
+    </node>
+    <node id="P13150">
+      <data key="title">distributed representations for compositional semantics</data>
+      <data key="abstract">The mathematical representation of semantics is a key issue for Natural Language Processing (NLP). A lot of research has been devoted to finding ways of representing the semantics of individual words in vector spaces. Distributional approaches --- meaning distributed representations that exploit co-occurrence statistics of large corpora --- have proved popular and successful across a number of tasks. However, natural language usually comes in structures beyond the word level, with meaning arising not only from the individual words but also the structure they are contained in at the phrasal or sentential level. Modelling the compositional process by which the meaning of an utterance arises from the meaning of its parts is an equally fundamental task of NLP. #R##N#This dissertation explores methods for learning distributed semantic representations and models for composing these into representations for larger linguistic units. Our underlying hypothesis is that neural models are a suitable vehicle for learning semantically rich representations and that such representations in turn are suitable vehicles for solving important tasks in natural language processing. The contribution of this thesis is a thorough evaluation of our hypothesis, as part of which we introduce several new approaches to representation learning and compositional semantics, as well as multiple state-of-the-art models which apply distributed semantic representations to various tasks in NLP.</data>
+    </node>
+    <node id="P43959">
+      <data key="title">compositional operators in distributional semantics</data>
+      <data key="abstract">This survey presents in some detail the main advances that have been recently taking place in Computational Linguistics towards the unification of the two prominent semantic paradigms: the compositional formal semantics view and the distributional models of meaning based on vector spaces. After an introduction to these two approaches, I review the most important models that aim to provide compositionality in distributional semantics. Then I proceed and present in more detail a particular framework [7] based on the abstract mathematical setting of category theory, as a more complete example capable to demonstrate the diversity of techniques and scientific disciplines that this kind of research can draw from. This paper concludes with a discussion about important open issues that need to be addressed by the researchers in the future.</data>
+    </node>
+    <node id="P81163">
+      <data key="title">named entity recognition with stack residual lstm and trainable bias decoding</data>
+      <data key="abstract">Recurrent Neural Network models are the state-of-the-art for Named Entity Recognition (NER). We present two innovations to improve the performance of these models. The first innovation is the introduction of residual connections between the Stacked Recurrent Neural Network model to address the degradation problem of deep neural networks. The second innovation is a bias decoding mechanism that allows the trained system to adapt to non-differentiable and externally computed objectives, such as the entity-based F-measure. Our work improves the state-of-the-art results for both Spanish and English languages on the standard train/development/test split of the CoNLL 2003 Shared Task NER dataset.</data>
+    </node>
+    <node id="P67381">
+      <data key="title">exploiting deep learning for persian sentiment analysis</data>
+      <data key="abstract">The rise of social media is enabling people to freely express their opinions about products and services. The aim of sentiment analysis is to automatically determine subject's sentiment (e.g., positive, negative, or neutral) towards a particular aspect such as topic, product, movie, news etc. Deep learning has recently emerged as a powerful machine learning technique to tackle a growing demand of accurate sentiment analysis. However, limited work has been conducted to apply deep learning algorithms to languages other than English, such as Persian. In this work, two deep learning models (deep autoencoders and deep convolutional neural networks (CNNs)) are developed and applied to a novel Persian movie reviews dataset. The proposed deep learning models are analyzed and compared with the state-of-the-art shallow multilayer perceptron (MLP) based machine learning model. Simulation results demonstrate the enhanced performance of deep learning over state-of-the-art MLP.</data>
+    </node>
+    <node id="P86288">
+      <data key="title">compositional sentence representation from character within large context text</data>
+      <data key="abstract">This paper describes a Hierarchical Composition Recurrent Network (HCRN) consisting of a 3-level hierarchy of compositional models: character, word and sentence. This model is designed to overcome two problems of representing a sentence on the basis of a constituent word sequence. The first is a data-sparsity problem in word embedding, and the other is a no usage of inter-sentence dependency. In the HCRN, word representations are built from characters, thus resolving the data-sparsity problem, and inter-sentence dependency is embedded into sentence representation at the level of sentence composition. We adopt a hierarchy-wise learning scheme in order to alleviate the optimization difficulties of learning deep hierarchical recurrent network in end-to-end fashion. The HCRN was quantitatively and qualitatively evaluated on a dialogue act classification task. Especially, sentence representations with an inter-sentence dependency are able to capture both implicit and explicit semantics of sentence, significantly improving performance. In the end, the HCRN achieved state-of-the-art performance with a test error rate of 22.7% for dialogue act classification on the SWBD-DAMSL database.</data>
+    </node>
+    <node id="P141580">
+      <data key="title">multilingual distributed representations without word alignment</data>
+      <data key="abstract">Distributed representations of meaning are a natural way to encode covariance relationships between words and phrases in NLP. By overcoming data sparsity problems, as well as providing information about semantic relatedness which is not available in discrete representations, distributed representations have proven useful in many NLP tasks. Recent work has shown how compositional semantic representations can successfully be applied to a number of monolingual applications such as sentiment analysis. At the same time, there has been some initial success in work on learning shared word-level representations across languages. We combine these two approaches by proposing a method for learning distributed representations in a multilingual setup. Our model learns to assign similar embeddings to aligned sentences and dissimilar ones to sentence which are not aligned while not requiring word alignments. We show that our representations are semantically informative and apply them to a cross-lingual document classification task where we outperform the previous state of the art. Further, by employing parallel corpora of multiple language pairs we find that our model learns representations that capture semantic relationships across languages for which no parallel data was used.</data>
+    </node>
+    <node id="P115267">
+      <data key="title">extraction of salient sentences from labelled documents</data>
+      <data key="abstract">We present a hierarchical convolutional document model with an architecture designed to support introspection of the document structure. Using this model, we show how to use visualisation techniques from the computer vision literature to identify and extract topic-relevant sentences. We also introduce a new scalable evaluation technique for automatic sentence extraction systems that avoids the need for time consuming human annotation of validation data.</data>
+    </node>
+    <node id="P99606">
+      <data key="title">symbolic distributed and distributional representations for natural language processing in the era of deep learning a survey</data>
+      <data key="abstract">Natural language and symbols are intimately correlated. Recent advances in machine learning (ML) and in natural language processing (NLP) seem to contradict the above intuition: symbols are fading away, erased by vectors or tensors called distributed and distributional representations. However, there is a strict link between distributed/distributional representations and symbols, being the first an approximation of the second. A clearer understanding of the strict link between distributed/distributional representations and symbols will certainly lead to radically new deep learning networks. In this paper we make a survey that aims to draw the link between symbolic representations and distributed/distributional representations. This is the right time to revitalize the area of interpreting how symbols are represented inside neural networks.</data>
+    </node>
+    <node id="P127371">
+      <data key="title">basic tasks of sentiment analysis</data>
+      <data key="abstract">Subjectivity detection is the task of identifying objective and subjective sentences. Objective sentences are those which do not exhibit any sentiment. So, it is desired for a sentiment analysis engine to find and separate the objective sentences for further analysis, e.g., polarity detection. In subjective sentences, opinions can often be expressed on one or multiple topics. Aspect extraction is a subtask of sentiment analysis that consists in identifying opinion targets in opinionated text, i.e., in detecting the specific aspects of a product or service the opinion holder is either praising or complaining about.</data>
+    </node>
+    <node id="P112474">
+      <data key="title">recurrent convolutional neural networks for discourse compositionality</data>
+      <data key="abstract">The compositionality of meaning extends beyond the single sentence. Just as words combine to form the meaning of sentences, so do sentences combine to form the meaning of paragraphs, dialogues and general discourse. We introduce both a sentence model and a discourse model corresponding to the two levels of compositionality. The sentence model adopts convolution as the central operation for composing semantic vectors and is based on a novel hierarchical convolutional neural network. The discourse model extends the sentence model and is based on a recurrent neural network that is conditioned in a novel way both on the current sentence and on the current speaker. The discourse model is able to capture both the sequentiality of sentences and the interaction between different speakers. Without feature engineering or pretraining and with simple greedy decoding, the discourse model coupled to the sentence model obtains state of the art performance on a dialogue act classification experiment.</data>
+    </node>
+    <node id="P31399">
+      <data key="title">seeing stars exploiting class relationships for sentiment categorization with respect to rating scales</data>
+      <data key="abstract">We address the rating-inference problem, wherein rather than simply decide whether a review is "thumbs up" or "thumbs down", as in previous sentiment analysis work, one must determine an author's evaluation with respect to a multi-point scale (e.g., one to five "stars"). This task represents an interesting twist on standard multi-class text categorization because there are several different degrees of similarity between class labels; for example, "three stars" is intuitively closer to "four stars" than to "one star". We first evaluate human performance at the task. Then, we apply a meta-algorithm, based on a metric labeling formulation of the problem, that alters a given n-ary classifier's output in an explicit attempt to ensure that similar items receive similar labels. We show that the meta-algorithm can provide significant improvements over both multi-class and regression versions of SVMs when we employ a novel similarity measure appropriate to the problem.</data>
+    </node>
+    <node id="P6146">
+      <data key="title">natural language processing almost from scratch</data>
+      <data key="abstract">We propose a unified neural network architecture and learning algorithm that can be applied to various natural language processing tasks including: part-of-speech tagging, chunking, named entity recognition, and semantic role labeling. This versatility is achieved by trying to avoid task-specific engineering and therefore disregarding a lot of prior knowledge. Instead of exploiting man-made input features carefully optimized for each task, our system learns internal representations on the basis of vast amounts of mostly unlabeled training data. This work is then used as a basis for building a freely available tagging system with good performance and minimal computational requirements.</data>
+    </node>
+    <node id="P48193">
+      <data key="title">joint modeling of content and discourse relations in dialogues</data>
+      <data key="abstract">We present a joint modeling approach to identify salient discussion points in spoken meetings as well as to label the discourse relations between speaker turns. A variation of our model is also discussed when discourse relations are treated as latent variables. Experimental results on two popular meeting corpora show that our joint model can outperform state-of-the-art approaches for both phrase-based content selection and discourse relation prediction tasks. We also evaluate our model on predicting the consistency among team members' understanding of their group decisions. Classifiers trained with features constructed from our model achieve significant better predictive performance than the state-of-the-art.</data>
+    </node>
+    <node id="P82351">
+      <data key="title">a latent variable recurrent neural network for discourse relation language models</data>
+      <data key="abstract">This paper presents a novel latent variable recurrent neural network architecture for jointly modeling sequences of words and (possibly latent) discourse relations between adjacent sentences. A recurrent neural network generates individual words, thus reaping the benefits of discriminatively-trained vector representations. The discourse relations are represented with a latent variable, which can be predicted or marginalized, depending on the task. The resulting model can therefore employ a training objective that includes not only discourse relation classification, but also word prediction. As a result, it outperforms state-of-the-art alternatives for two tasks: implicit discourse relation classification in the Penn Discourse Treebank, and dialog act classification in the Switchboard corpus. Furthermore, by marginalizing over latent discourse relations at test time, we obtain a discourse informed language model, which improves over a strong LSTM baseline.</data>
+    </node>
+    <node id="P142379">
+      <data key="title">not not bad is not bad a distributional account of negation</data>
+      <data key="abstract">With the increasing empirical success of distributional models of compositional semantics, it is timely to consider the types of textual logic that such models are capable of capturing. In this paper, we address shortcomings in the ability of current models to capture logical operations such as negation. As a solution we propose a tripartite formulation for a continuous vector space representation of semantics and subsequently use this representation to develop a formal compositional notion of negation within such models.</data>
+    </node>
+    <node id="P12561">
+      <data key="title">concrete sentence spaces for compositional distributional models of meaning</data>
+      <data key="abstract">Coecke, Sadrzadeh, and Clark (arXiv:1003.4394v1 [cs.CL]) developed a compositional model of meaning for distributional semantics, in which each word in a sentence has a meaning vector and the distributional meaning of the sentence is a function of the tensor products of the word vectors. Abstractly speaking, this function is the morphism corresponding to the grammatical structure of the sentence in the category of finite dimensional vector spaces. In this paper, we provide a concrete method for implementing this linear meaning map, by constructing a corpus-based vector space for the type of sentence. Our construction method is based on structured vector spaces whereby meaning vectors of all sentences, regardless of their grammatical structure, live in the same vector space. Our proposed sentence space is the tensor product of two noun spaces, in which the basis vectors are pairs of words each augmented with a grammatical role. This enables us to compare meanings of sentences by simply taking the inner product of their vectors.</data>
+    </node>
+    <node id="P34709">
+      <data key="title">a proposal for linguistic similarity datasets based on commonality lists</data>
+      <data key="abstract">Similarity is a core notion that is used in psychology and two branches of linguistics: theoretical and computational. The similarity datasets that come from the two fields differ in design: psychological datasets are focused around a certain topic such as fruit names, while linguistic datasets contain words from various categories. The later makes humans assign low similarity scores to the words that have nothing in common and to the words that have contrast in meaning, making similarity scores ambiguous. In this work we discuss the similarity collection procedure for a multi-category dataset that avoids score ambiguity and suggest changes to the evaluation procedure to reflect the insights of psychological literature for word, phrase and sentence similarity. We suggest to ask humans to provide a list of commonalities and differences instead of numerical similarity scores and employ the structure of human judgements beyond pairwise similarity for model evaluation. We believe that the proposed approach will give rise to datasets that test meaning representation models more thoroughly with respect to the human treatment of similarity.</data>
+    </node>
+    <edge source="P108538" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108538" target="P141580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P108538" target="P99606">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70487" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P70487" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P13150">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P142379">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P234" target="P67381">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13150" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13150" target="P141580">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13150" target="P142379">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13150" target="P31399">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P13150" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43959" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P81163" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P86288" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P141580" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115267" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P115267" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P99606" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127371" target="P112474">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127371" target="P6146">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P12561">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P82351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P34709">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P112474" target="P48193">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P6146" target="P82351">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P48193" target="P82351">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

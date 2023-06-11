@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P235">
+      <data key="title">entropy and syntropy in the context of five valued logics</data>
+      <data key="abstract">This paper presents a five-valued representation of bifuzzy sets. This representation is related to a five-valued logic that uses the following values: true, false, inconsistent, incomplete and ambiguous. In the framework of five-valued representation, formulae for similarity, entropy and syntropy of bifuzzy sets are constructed.</data>
+    </node>
+    <node id="P47807">
+      <data key="title">a new penta valued logic based knowledge representation</data>
+      <data key="abstract">In this paper a knowledge representation model are proposed, FP5, which combine the ideas from fuzzy sets and penta-valued logic. FP5 represents imprecise properties whose accomplished degree is unknown, contradictory or indeterminate for some objects. Basic operations of conjunction, disjunction and negation are introduced. Relations to other representation models like fuzzy sets, intuitionistic, paraconsistent and bipolar fuzzy sets are discussed.</data>
+    </node>
+    <node id="P74884">
+      <data key="title">a possibility distribution based multi criteria decision algorithm for resilient supplier selection problems</data>
+      <data key="abstract">Thus far, limited research has been performed on resilient supplier selection - a problem that requires simultaneous consideration of a set of numerical and linguistic evaluation criteria, which are substantially different from traditional supplier selection problem. Essentially, resilient supplier selection entails key sourcing decision for an organization to gain competitive advantage. In the presence of multiple conflicting evaluation criteria, contradicting decision makers, and imprecise decision relevant information (DRI), this problem becomes even more difficult to solve with the classical optimization approaches. However, prior research focusing on MCDA based supplier selection problem has been lacking in the ability to provide a seamless integration of numerical and linguistic evaluation criteria along with the consideration of multiple decision makers. To address these challenges, we present a comprehensive decision-making framework for ranking a set of suppliers from resiliency perspective. The proposed algorithm is capable of leveraging imprecise and aggregated DRI obtained from crisp numerical assessments and reliability adjusted linguistic appraisals from a group of decision makers. We adapt two popular tools - Single Valued Neutrosophic Sets (SVNS) and Interval-valued fuzzy sets (IVFS), and for the first time extend them to incorporate both crisp and linguistic evaluations in a group decision making platform to obtain aggregated SVNS and IVFS decision matrix. This information is then used to rank the resilient suppliers by using TOPSIS method. We present a case study to illustrate the mechanism of the proposed algorithm.</data>
+    </node>
+    <node id="P128489">
+      <data key="title">interval neutrosophic sets and logic theory and applications in computing</data>
+      <data key="abstract">A neutrosophic set is a part of neutrosophy that studies the origin, nature, and scope of neutralities, as well as their interactions with different ideational spectra. The neutrosophic set is a powerful general formal framework that has been recently proposed. However, the neutrosophic set needs to be specified from a technical point of view. Here, we define the set-theoretic operators on an instance of a neutrosophic set, and call it an Interval Neutrosophic Set (INS). We prove various properties of INS, which are connected to operations and relations over INS. We also introduce a new logic system based on interval neutrosophic sets. #R##N#We study the interval neutrosophic propositional calculus and interval neutrosophic predicate calculus. We also create a neutrosophic logic inference system based on interval neutrosophic logic. Under the framework of the interval neutrosophic set, we propose a data model based on the special case of the interval neutrosophic sets called Neutrosophic Data Model. This data model is the extension of fuzzy data model and paraconsistent data model. We generalize the set-theoretic operators and relation-theoretic operators of fuzzy relations and paraconsistent relations to neutrosophic relations. We propose the generalized SQL query constructs and tuple-relational calculus for Neutrosophic Data Model. #R##N#We also design an architecture of Semantic Web Services agent based on the interval neutrosophic logic and do the simulation study.</data>
+    </node>
+    <node id="P127161">
+      <data key="title">neutrosophic information in the framework of multi valued representation</data>
+      <data key="abstract">The paper presents some steps for multi-valued representation of neutrosophic information. These steps are provided in the framework of multi- valued logics using the following logical value: true, false, neutral, unknown and saturated. Also, this approach provides some calculus formulae for the fol- lowing neutrosophic features: truth, falsity, neutrality, ignorance, under- definedness, over-definedness, saturation and entropy. In addition, it was de- fined net truth, definedness and neutrosophic score.</data>
+    </node>
+    <node id="P147065">
+      <data key="title">the neutrosophic entropy and its five components</data>
+      <data key="abstract">This paper presents two variants of penta-valued representation for neutrosophic entropy. The first is an extension of Kaufmann's formula and the second is an extension of Kosko's formula. #R##N#Based on the primary three-valued information represented by the degree of truth, degree of falsity and degree of neutrality there are built some penta-valued representations that better highlights some specific features of neutrosophic entropy. Thus, we highlight five features of neutrosophic uncertainty such as ambiguity, ignorance, contradiction, neutrality and saturation. These five features are supplemented until a seven partition of unity by adding two features of neutrosophic certainty such as truth and falsity. #R##N#The paper also presents the particular forms of neutrosophic entropy obtained in the case of bifuzzy representations, intuitionistic fuzzy representations, paraconsistent fuzzy representations and finally the case of fuzzy representations.</data>
+    </node>
+    <node id="P110874">
+      <data key="title">sequent and hypersequent calculi for abelian and lukasiewicz logics</data>
+      <data key="abstract">We present two embeddings of infinite-valued Lukasiewicz logic L into Meyer and Slaney's abelian logic A, the logic of lattice-ordered abelian groups. We give new analytic proof systems for A and use the embeddings to derive corresponding systems for L. These include: hypersequent calculi for A and L and terminating versions of these calculi; labelled single sequent calculi for A and L of complexity co-NP; unlabelled single sequent calculi for A and L.</data>
+    </node>
+    <node id="P114196">
+      <data key="title">a real valued modal logic</data>
+      <data key="abstract">A many-valued modal logic is introduced that combines the usual Kripke frame semantics of the modal logic K with connectives interpreted locally at worlds by lattice and group operations over the real numbers. A labelled tableau system is provided and a coNEXPTIME upper bound obtained for checking validity in the logic. Focussing on the modal-multiplicative fragment, the labelled tableau system is then used to establish completeness for a sequent calculus that admits cut-elimination and an axiom system that extends the multiplicative fragment of Abelian logic.</data>
+    </node>
+    <node id="P46751">
+      <data key="title">penta and hexa valued representation of neutrosophic information</data>
+      <data key="abstract">Starting from the primary representation of neutrosophic information, namely the degree of truth, degree of indeterminacy and degree of falsity, we define a nuanced representation in a penta valued fuzzy space, described by the index of truth, index of falsity, index of ignorance, index of contradiction and index of hesitation. Also, it was constructed an associated penta valued logic and then using this logic, it was defined for the proposed penta valued structure the following operators: union, intersection, negation, complement and dual. Then, the penta valued representation is extended to a hexa valued one, adding the sixth component, namely the index of ambiguity.</data>
+    </node>
+    <node id="P11443">
+      <data key="title">neutrality and many valued logics</data>
+      <data key="abstract">In this book, we consider various many-valued logics: standard, linear, hyperbolic, parabolic, non-Archimedean, p-adic, interval, neutrosophic, etc. We survey also results which show the tree different proof-theoretic frameworks for many-valued logics, e.g. frameworks of the following deductive calculi: Hilbert's style, sequent, and hypersequent. We present a general way that allows to construct systematically analytic calculi for a large family of non-Archimedean many-valued logics: hyperrational-valued, hyperreal-valued, and p-adic valued logics characterized by a special format of semantics with an appropriate rejection of Archimedes' axiom. These logics are built as different extensions of standard many-valued logics (namely, Lukasiewicz's, Goedel's, Product, and Post's logics). The informal sense of Archimedes' axiom is that anything can be measured by a ruler. Also logical multiple-validity without Archimedes' axiom consists in that the set of truth values is infinite and it is not well-founded and well-ordered. On the base of non-Archimedean valued logics, we construct non-Archimedean valued interval neutrosophic logic INL by which we can describe neutrality phenomena.</data>
+    </node>
+    <node id="P112554">
+      <data key="title">unification of fusion theories rules filters image fusion and target tracking methods uft</data>
+      <data key="abstract">The author has pledged in various papers, conference or seminar presentations, and scientific grant applications (between 2004-2015) for the unification of fusion theories, combinations of fusion rules, image fusion procedures, filter algorithms, and target tracking methods for more accurate applications to our real world problems - since neither fusion theory nor fusion rule fully satisfy all needed applications. For each particular application, one selects the most appropriate fusion space and fusion model, then the fusion rules, and the algorithms of implementation. He has worked in the Unification of the Fusion Theories (UFT), which looks like a cooking recipe, better one could say like a logical chart for a computer programmer, but one does not see another method to comprise/unify all things. The unification scenario presented herein, which is now in an incipient form, should periodically be updated incorporating new discoveries from the fusion and engineering research.</data>
+    </node>
+    <node id="P46942">
+      <data key="title">a neutrosophic description logic</data>
+      <data key="abstract">Description Logics (DLs) are appropriate, widely used, logics for managing structured knowledge. They allow reasoning about individuals and concepts, i.e. set of individuals with common properties. Typically, DLs are limited to dealing with crisp, well defined concepts. That is, concepts for which the problem whether an individual is an instance of it is a yes/no question. More often than not, the concepts encountered in the real world do not have a precisely defined criteria of membership: we may say that an individual is an instance of a concept only to a certain degree, depending on the individual's properties. The DLs that deal with such fuzzy concepts are called fuzzy DLs. In order to deal with fuzzy, incomplete, indeterminate and inconsistent concepts, we need to extend the capabilities of fuzzy DLs further.In this paper, we will present an extension of fuzzy $\mathcal{ALC}$, combining Smarandache's neutrosophic logic with a classical DL. In particular, concepts become neutrosophic (here neutrosophic means fuzzy, incomplete, indeterminate and inconsistent), thus, reasoning about such neutrosophic concepts is supported. We will define its syntax, its semantics, describe its properties and present a constraint propagation calculus for reasoning.</data>
+    </node>
+    <edge source="P235" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47807" target="P147065">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47807" target="P127161">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47807" target="P46751">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P74884" target="P128489">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128489" target="P112554">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128489" target="P46942">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P128489" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127161" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P127161" target="P46751">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P147065" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110874" target="P114196">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110874" target="P11443">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

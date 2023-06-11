@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P96873">
+      <data key="title">norm preserving orthogonal permutation linear unit activation functions oplu</data>
+      <data key="abstract">We propose a novel activation function that implements piece-wise orthogonal non-linear mappings based on permutations. It is straightforward to implement, and very computationally efficient, also it has little memory requirements. We tested it on two toy problems for feedforward and recurrent networks, it shows similar performance to tanh and ReLU. OPLU activation function ensures norm preservance of the backpropagated gradients, therefore it is potentially good for the training of deep, extra deep, and recurrent neural networks.</data>
+    </node>
+    <node id="P120650">
+      <data key="title">deviant learning algorithm learning sparse mismatch representations through time and space</data>
+      <data key="abstract">Predictive coding (PDC) has recently attracted attention in the neuroscience and computing community as a candidate unifying paradigm for neuronal studies and artificial neural network implementations particularly targeted at unsupervised learning systems. The Mismatch Negativity (MMN) has also recently been studied in relation to PC and found to be a useful ingredient in neural predictive coding systems. Backed by the behavior of living organisms, such networks are particularly useful in forming spatio-temporal transitions and invariant representations of the input world. However, most neural systems still do not account for large number of synapses even though this has been shown by a few machine learning researchers as an effective and very important component of any neural system if such a system is to behave properly. Our major point here is that PDC systems with the MMN effect in addition to a large number of synapses can greatly improve any neural learning system's performance and ability to make decisions in the machine world. In this paper, we propose a novel bio-mimetic computational intelligence algorithm – the Deviant Learning Algorithm, inspired by these key ideas and functional properties of recent brain-cognitive discoveries and theories. We also show by numerical experiments guided by theoretical insights, how our invented bio-mimetic algorithm can achieve competitive predictions even with very small problem specific data.</data>
+    </node>
+    <node id="P148543">
+      <data key="title">fast and accurate deep network learning by exponential linear units elus</data>
+      <data key="abstract">We introduce the "exponential linear unit" (ELU) which speeds up learning in deep neural networks and leads to higher classification accuracies. Like rectified linear units (ReLUs), leaky ReLUs (LReLUs) and parametrized ReLUs (PReLUs), ELUs alleviate the vanishing gradient problem via the identity for positive values. However, ELUs have improved learning characteristics compared to the units with other activation functions. In contrast to ReLUs, ELUs have negative values which allows them to push mean unit activations closer to zero like batch normalization but with lower computational complexity. Mean shifts toward zero speed up learning by bringing the normal gradient closer to the unit natural gradient because of a reduced bias shift effect. While LReLUs and PReLUs have negative values, too, they do not ensure a noise-robust deactivation state. ELUs saturate to a negative value with smaller inputs and thereby decrease the forward propagated variation and information. Therefore, ELUs code the degree of presence of particular phenomena in the input, while they do not quantitatively model the degree of their absence. In experiments, ELUs lead not only to faster learning, but also to significantly better generalization performance than ReLUs and LReLUs on networks with more than 5 layers. On CIFAR-100 ELUs networks significantly outperform ReLU networks with batch normalization while batch normalization does not improve ELU networks. ELU networks are among the top 10 reported CIFAR-10 results and yield the best published result on CIFAR-100, without resorting to multi-view evaluation or model averaging. On ImageNet, ELU networks considerably speed up learning compared to a ReLU network with the same architecture, obtaining less than 10% classification error for a single crop, single model network.</data>
+    </node>
+    <node id="P33328">
+      <data key="title">revise saturated activation functions</data>
+      <data key="abstract">In this paper, we revise two commonly used saturated functions, the logistic sigmoid and the hyperbolic tangent (tanh). #R##N#We point out that, besides the well-known non-zero centered property, slope of the activation function near the origin is another possible reason making training deep networks with the logistic function difficult to train. We demonstrate that, with proper rescaling, the logistic sigmoid achieves comparable results with tanh. #R##N#Then following the same argument, we improve tahn by penalizing in the negative part. We show that "penalized tanh" is comparable and even outperforms the state-of-the-art non-saturated functions including ReLU and leaky ReLU on deep convolution neural networks. #R##N#Our results contradict to the conclusion of previous works that the saturation property causes the slow convergence. It suggests further investigation is necessary to better understand activation functions in deep architectures.</data>
+    </node>
+    <node id="P21446">
+      <data key="title">deep residual networks with exponential linear unit</data>
+      <data key="abstract">The depth of convolutional neural networks is a crucial ingredient for reduction in test errors on benchmarks like ImageNet and COCO. However, training a neural network becomes difficult with increasing depth. Problems like vanishing gradient and diminishing feature reuse are quite trivial in very deep convolutional neural networks.   The notable recent contributions towards solving these problems and simplifying the training of very deep models are Residual and Highway Networks. These networks allow earlier representations (from the input or those learned in earlier layers) to flow unimpededly to later layers through skip connections. Such very deep models with hundreds or more layers have lead to a considerable decrease in test errors, on benchmarks like ImageNet and COCO.   In this paper, we propose to replace the combination of ReLU and Batch Normalization with Exponential Linear Unit (ELU) in Residual Networks. Our experiments show that this not only speeds up the learning behavior in Residual Networks, but also improves the classification performance as the depth increases. Our model increases the accuracy on datasets like CIFAR-10 and CIFAR-100 by a significant margin.</data>
+    </node>
+    <node id="P56035">
+      <data key="title">the clac discourse parser at conll 2016</data>
+      <data key="abstract">This paper describes our submission "CLaC" to the CoNLL-2016 shared task on shallow discourse parsing. We used two complementary approaches for the task. A standard machine learning approach for the parsing of explicit relations, and a deep learning approach for non-explicit relations. Overall, our parser achieves an F1-score of 0.2106 on the identification of discourse relations (0.3110 for explicit relations and 0.1219 for non-explicit relations) on the blind CoNLL-2016 test set.</data>
+    </node>
+    <node id="P31906">
+      <data key="title">riemannian metrics for neural networks i feedforward networks</data>
+      <data key="abstract">We describe four algorithms for neural network training, each adapted to different scalability constraints. These algorithms are mathematically principled and invariant under a number of transformations in data and network representation, from which performance is thus independent. These algorithms are obtained from the setting of differential geometry, and are based on either the natural gradient using the Fisher information matrix, or on Hessian methods, scaled down in a specific way to allow for scalability while keeping some of their key mathematical properties.</data>
+    </node>
+    <node id="P57292">
+      <data key="title">trivializing the energy landscape of deep networks</data>
+      <data key="abstract">We study a theoretical model that connects deep learning to finding the ground state of the Hamiltonian of a spherical spin glass. Existing results motivated from statistical physics show that deep networks have a highly non-convex energy landscape with exponentially many local minima and energy barriers beyond which gradient descent algorithms cannot make progress. We leverage a technique known as topology trivialization where, upon perturbation by an external magnetic field, the energy landscape of the spin glass Hamiltonian changes dramatically from exponentially many local minima to "total trivialization", i.e., a constant number of local minima. There also exists a transitional regime with polynomially many local minima which interpolates between these extremes. We show that a number of regularization schemes in deep learning can benefit from this phenomenon. As a consequence, our analysis provides order heuristics to choose regularization parameters and motivates annealing schemes for these perturbations.</data>
+    </node>
+    <node id="P19988">
+      <data key="title">training neural networks with stochastic hessian free optimization</data>
+      <data key="abstract">Hessian-free (HF) optimization has been successfully used for training deep autoencoders and recurrent networks. HF uses the conjugate gradient algorithm to construct update directions through curvature-vector products that can be computed on the same order of time as gradients. In this paper we exploit this property and study stochastic HF with gradient and curvature mini-batches independent of the dataset size. We modify Martens' HF for these settings and integrate dropout, a method for preventing co-adaptation of feature detectors, to guard against overfitting. Stochastic Hessian-free optimization gives an intermediary between SGD and HF that achieves competitive performance on both classification and deep autoencoder experiments.</data>
+    </node>
+    <node id="P302">
+      <data key="title">a modified activation function with improved run times for neural networks</data>
+      <data key="abstract">In this paper we present a modified version of the Hyperbolic Tangent Activation Function as a learning unit generator for neural networks. The function uses an integer calibration constant as an approximation to the Euler number, e, based on a quadratic Real Number Formula (RNF) algorithm and an adaptive normalization constraint on the input activations to avoid the vanishing gradient. We demonstrate the effectiveness of the proposed modification using a hypothetical and real world dataset and show that lower run-times can be achieved by learning algorithms using this function leading to improved speed-ups and learning accuracies during training.</data>
+    </node>
+    <node id="P50632">
+      <data key="title">striving for simplicity the all convolutional net</data>
+      <data key="abstract">Most modern convolutional neural networks (CNNs) used for object recognition are built using the same principles: Alternating convolution and max-pooling layers followed by a small number of fully connected layers. We re-evaluate the state of the art for object recognition from small images with convolutional networks, questioning the necessity of different components in the pipeline. We find that max-pooling can simply be replaced by a convolutional layer with increased stride without loss in accuracy on several image recognition benchmarks. Following this finding -- and building on other recent work for finding simple network structures -- we propose a new architecture that consists solely of convolutional layers and yields competitive or state of the art performance on several object recognition datasets (CIFAR-10, CIFAR-100, ImageNet). To analyze the network we introduce a new variant of the "deconvolution approach" for visualizing features learned by CNNs, which can be applied to a broader range of network structures than existing approaches.</data>
+    </node>
+    <node id="P104539">
+      <data key="title">revisiting natural gradient for deep networks</data>
+      <data key="abstract">We evaluate natural gradient, an algorithm originally proposed in Amari (1997), for learning deep models. The contributions of this paper are as follows. We show the connection between natural gradient and three other recently proposed methods for training deep models: Hessian-Free (Martens, 2010), Krylov Subspace Descent (Vinyals and Povey, 2012) and TONGA (Le Roux et al., 2008). We describe how one can use unlabeled data to improve the generalization error obtained by natural gradient and empirically evaluate the robustness of the algorithm to the ordering of the training set compared to stochastic gradient descent. Finally we extend natural gradient to incorporate second order information alongside the manifold information and provide a benchmark of the new algorithm using a truncated Newton approach for inverting the metric matrix instead of using a diagonal approximation of it.</data>
+    </node>
+    <node id="P110007">
+      <data key="title">fractional max pooling</data>
+      <data key="abstract">Convolutional networks almost always incorporate some form of spatial pooling, and very often it is max-pooling with = 2. Max-pooling act on the hidden layers of the network, reducing their size by an integer multiplicative factor . The amazing by product of discarding 75% of your data is that you build into the network a degree of invariance with respect to translations and elastic distortions. However, if you simply alternate convolutional layers with max-pooling layers, performance is limited due to the rapid reduction in spatial size, and the disjoint nature of the pooling regions. We have formulated a fractional version of max-pooling where is allowed to take non-integer values. Our version of maxpooling is stochastic as there are lots of different ways of constructing suitable pooling regions. We find that our form of fractional max-pooling reduces overfitting on a variety of datasets: for instance, we improve on the state of the art for CIFAR-100 without even using dropout.</data>
+    </node>
+    <node id="P73035">
+      <data key="title">network in network</data>
+      <data key="abstract">We propose a novel deep network structure called "Network In Network" (NIN) to enhance model discriminability for local patches within the receptive field. The conventional convolutional layer uses linear filters followed by a nonlinear activation function to scan the input. Instead, we build micro neural networks with more complex structures to abstract the data within the receptive field. We instantiate the micro neural network with a multilayer perceptron, which is a potent function approximator. The feature maps are obtained by sliding the micro networks over the input in a similar manner as CNN; they are then fed into the next layer. Deep NIN can be implemented by stacking mutiple of the above described structure. With enhanced local modeling via the micro network, we are able to utilize global average pooling over feature maps in the classification layer, which is easier to interpret and less prone to overfitting than traditional fully connected layers. We demonstrated the state-of-the-art classification performances with NIN on CIFAR-10 and CIFAR-100, and reasonable performances on SVHN and MNIST datasets.</data>
+    </node>
+    <node id="P69794">
+      <data key="title">batch normalization accelerating deep network training by reducing internal covariate shift</data>
+      <data key="abstract">Training Deep Neural Networks is complicated by the fact that the distribution of each layer's inputs changes during training, as the parameters of the previous layers change. This slows down the training by requiring lower learning rates and careful parameter initialization, and makes it notoriously hard to train models with saturating nonlinearities. We refer to this phenomenon as internal covariate shift, and address the problem by normalizing layer inputs. Our method draws its strength from making normalization a part of the model architecture and performing the normalization for each training mini-batch. Batch Normalization allows us to use much higher learning rates and be less careful about initialization. It also acts as a regularizer, in some cases eliminating the need for Dropout. Applied to a state-of-the-art image classification model, Batch Normalization achieves the same accuracy with 14 times fewer training steps, and beats the original model by a significant margin. Using an ensemble of batch-normalized networks, we improve upon the best published result on ImageNet classification: reaching 4.9% top-5 validation error (and 4.8% test error), exceeding the accuracy of human raters.</data>
+    </node>
+    <node id="P159656">
+      <data key="title">delving deep into rectifiers surpassing human level performance on imagenet classification</data>
+      <data key="abstract">Rectified activation units (rectifiers) are essential for state-of-the-art neural networks. In this work, we study rectifier neural networks for image classification from two aspects. First, we propose a Parametric Rectified Linear Unit (PReLU) that generalizes the traditional rectified unit. PReLU improves model fitting with nearly zero extra computational cost and little overfitting risk. Second, we derive a robust initialization method that particularly considers the rectifier nonlinearities. This method enables us to train extremely deep rectified models directly from scratch and to investigate deeper or wider network architectures. Based on our PReLU networks (PReLU-nets), we achieve 4.94% top-5 test error on the ImageNet 2012 classification dataset. This is a 26% relative improvement over the ILSVRC 2014 winner (GoogLeNet, 6.66%). To our knowledge, our result is the first to surpass human-level performance (5.1%, Russakovsky et al.) on this visual recognition challenge.</data>
+    </node>
+    <node id="P7892">
+      <data key="title">a lightened cnn for deep face representation</data>
+      <data key="abstract">Convolution neural network (CNN) has significantly pushed forward the development of face recognition techniques. To achieve ultimate accuracy, CNN models tend to be deeper or multiple local facial patch ensemble, which result in a waste of time and space. To alleviate this issue, this paper studies a lightened CNN framework to learn a compact embedding for face representation. First, we introduce the concept of maxout in the fully connected layer to the convolution layer, which leads to a new activation function, named Max-Feature-Map (MFM). Compared with widely used ReLU, MFM can simultaneously capture compact representation and competitive information. Then, one shallow CNN model is constructed by 4 convolution layers and totally contains about 4M parameters; and the other is constructed by reducing the kernel size of convolution layers and adding Network in Network (NIN) layers between convolution layers based on the previous one. These models are trained on the CASIA-WebFace dataset and evaluated on the LFW and YTF datasets. Experimental results show that the proposed models achieve state-of-the-art results. At the same time, a reduction of computational cost is reached by over 9 times in comparison with the released VGG model.</data>
+    </node>
+    <node id="P29317">
+      <data key="title">recent advances in convolutional neural networks</data>
+      <data key="abstract">In the last few years, deep learning has led to very good performance on a variety of problems, such as visual recognition, speech recognition and natural language processing. Among different types of deep neural networks, convolutional neural networks have been most extensively studied. Due to the lack of training data and computing power in early days, it is hard to train a large high-capacity convolutional neural network without overfitting. After the rapid growth in the amount of the annotated data and the recent improvements in the strengths of graphics processor units (GPUs), the research on convolutional neural networks has been emerged swiftly and achieved state-of-the-art results on various tasks. In this paper, we provide a broad survey of the recent advances in convolutional neural networks. Besides, we also introduce some applications of convolutional neural networks in computer vision.</data>
+    </node>
+    <node id="P165388">
+      <data key="title">metric free natural gradient for joint training of boltzmann machines</data>
+      <data key="abstract">This paper introduces the Metric-Free Natural Gradient (MFNG) algorithm for training Boltzmann Machines. Similar in spirit to the Hessian-Free method of Martens [8], our algorithm belongs to the family of truncated Newton methods and exploits an efficient matrix-vector product to avoid explicitely storing the natural gradient metric $L$. This metric is shown to be the expected second derivative of the log-partition function (under the model distribution), or equivalently, the variance of the vector of partial derivatives of the energy function. We evaluate our method on the task of joint-training a 3-layer Deep Boltzmann Machine and show that MFNG does indeed have faster per-epoch convergence compared to Stochastic Maximum Likelihood with centering, though wall-clock performance is currently not competitive.</data>
+    </node>
+    <node id="P151757">
+      <data key="title">training very deep networks</data>
+      <data key="abstract">Theoretical and empirical evidence indicates that the depth of neural networks is crucial for their success. However, training becomes more difficult as depth increases, and training of very deep networks remains an open problem. Here we introduce a new architecture designed to overcome this. Our so-called highway networks allow unimpeded information flow across many layers on information highways. They are inspired by Long Short-Term Memory recurrent networks and use adaptive gating units to regulate the information flow. Even with hundreds of layers, highway networks can be trained directly through simple gradient descent. This enables the study of extremely deep and efficient architectures.</data>
+    </node>
+    <edge source="P96873" target="P148543">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P120650" target="P302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P165388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P104539">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P19988">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P31906">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P50632">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P110007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P29317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P57292">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P56035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P33328">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P21446">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P148543" target="P302">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33328" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P33328" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P50632">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P110007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P21446" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P31906" target="P104539">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57292" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57292" target="P50632">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57292" target="P69794">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P19988" target="P104539">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50632" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50632" target="P110007">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50632" target="P29317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50632" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P104539" target="P165388">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110007" target="P73035">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P110007" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P29317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P73035" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P29317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P69794" target="P159656">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159656" target="P7892">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159656" target="P29317">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P159656" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P29317" target="P151757">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

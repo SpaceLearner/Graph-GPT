@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P365">
+      <data key="title">a consensus based secondary control layer for stable current sharing and voltage balancing in dc microgrids</data>
+      <data key="abstract">In this paper, we propose a secondary consensus-based control layer for current sharing and voltage balancing in DC microGrids (mGs). To this purpose, we assume that Distributed Generation Units (DGUs) are equipped with decentralized primary controllers guaranteeing voltage stability. This goal can be achieved using, for instance, Plug-and-Play (PnP) regulators. We analyze the behavior of the closed-loop mG by approximating local primary control loops with either unitary gains or first-order transfer functions. Besides proving exponential stability, current sharing, and voltage balancing, we describe how to design secondary controllers in a PnP fashion when DGUs are added or removed. Theoretical results are complemented by simulations, using a 7-DGUs mG implemented in Simulink/PLECS, and experiments on a 3-DGUs mG.</data>
+    </node>
+    <node id="P63216">
+      <data key="title">a decentralized scalable approach to voltage control of dc islanded microgrids</data>
+      <data key="abstract">We propose a new decentralized control scheme for DC Islanded microGrids (ImGs) composed by several Distributed Generation Units (DGUs) with a general interconnection topology. Each local controller regulates to a reference value the voltage of the Point of Common Coupling (PCC) of the corresponding DGU. Notably, off-line control design is conducted in a Plug-and-Play (PnP) fashion meaning that (i) the possibility of adding/removing a DGU without spoiling stability of the overall ImG is checked through an optimization problem; (ii) when a DGU is plugged in or out at most neighbouring DGUs have to update their controllers and (iii) the synthesis of a local controller uses only information on the corresponding DGU and lines connected to it. This guarantee total scalability of control synthesis as the ImG size grows or DGU gets replaced. Yes, under mild approximations of line dynamics, we formally guarantee stability of the overall closed-loop ImG. The performance of the proposed controllers is analyzed simulating different scenarios in PSCAD.</data>
+    </node>
+    <node id="P154219">
+      <data key="title">distributed synthesis of local controllers for networked systems with arbitrary interconnection topologies</data>
+      <data key="abstract">We consider the problem of designing distributed controllers to guarantee dissipativity of a networked system comprised of dynamically coupled subsystems. Additionally, we require that the control synthesis is carried out locally at the subsystem-level, without explicit knowledge of the dynamics of other subsystems in the network. We solve this problem in two steps. First, we provide an approach to decompose a dissipativity condition on the networked dynamical system into equivalent conditions on the dissipativity of individual subsystems. We then use these distributed dissipativity conditions to synthesize controllers locally at the subsystem-level, using only the knowledge of the dynamics of that subsystem, and limited information about the dissipativity of the subsystems to which it is dynamically coupled. We show that the subsystem-level controllers synthesized in this manner are sufficient to guarantee dissipativity of the networked dynamical system. We also provide an approach to make this synthesis compositional, that is, when a new subsystem is added to an existing network, only the dynamics of the new subsystem, and information about the dissipativity of the subsystems in the existing network to which it is coupled are used to design a controller for the new subsystem, while guaranteeing dissipativity of the networked system including the new subsystem. Finally, we demonstrate the application of this synthesis in enabling plug-and-play operations of generators in a microgrid by extending our results to networked switched systems.</data>
+    </node>
+    <node id="P624">
+      <data key="title">an energy based analysis of reduced order models of networked synchronous machines</data>
+      <data key="abstract">Stability of power networks is an increasingly important topic because of the high penetration of renewable distributed generation units. This requires the development of advanced (typically model-based) techniques for the analysis and controller design of power networks. Although there are widely accepted reduced-order models to describe the dynamic behavior of power networks, they are commonly presented without details about the reduction procedure, hampering the understanding of the physical phenomena behind them. The present paper aims to provide a modular model derivation of multi-machine power networks. Starting from first-principle fundamental physics, we present detailed dynamical models of synchronous machines and clearly state the underlying assumptions which lead to some of the standard reduced-order multi-machine models, including the classical second-order swing equations. In addition, the energy functions for the reduced-order multi-machine models are derived, which allows to represent the multi-machine systems as port-Hamiltonian systems. Moreover, the systems are proven to be passive with respect to its steady states, which permits for a power-preserving interconnection with other passive components, including passive controllers. As a result, the corresponding energy function or Hamiltonian can be used to provide a rigorous stability analysis of advanced models for the power network without having to linearize the system.</data>
+    </node>
+    <node id="P52005">
+      <data key="title">kron reduction methods for plug and play control of ac islanded microgrids with arbitrary topology</data>
+      <data key="abstract">In this paper, we provide an extension of the scalable algorithm proposed in (Riverso et al., 2015) for the design of Plug-and-Play (PnP) controllers for AC Islanded microGrids (ImGs). The method in (Riverso et al., 2015) assumes DGUs are arranged in a load-connected topology, i.e. loads can appear only at the output terminals of inverters. For handling totally general interconnections of DGUs and loads, we describe an approach based on Kron Reduction (KR), a network reduction method giving an equivalent load-connected model of the original ImG. However, existing KR approaches can fail in preserving the structure of transfer functions representing transmission lines. To avoid this drawback, we introduce an approximate KR algorithm, still capable to represent exactly the asymptotic periodic behavior of electric signals even if they are unbalanced. Our results are backed up with simulations illustrating features of the new KR approach as well as its use for designing PnP controllers in a 21-bus ImG derived from an IEEE test feeder.</data>
+    </node>
+    <node id="P63856">
+      <data key="title">plug and play model predictive control based on robust control invariant sets</data>
+      <data key="abstract">In this paper we consider a linear system represented by a coupling graph between subsystems and propose a distributed control scheme capable to guarantee asymptotic stability and satisfaction of constraints on system inputs and states. Most importantly, as in Riverso et al., 2012 our design procedure enables plug-and-play (PnP) operations, meaning that (i) the addition or removal of subsystems triggers the design of local controllers associated to successors to the subsystem only and (ii) the synthesis of a local controller for a subsystem requires information only from predecessors of the subsystem and it can be performed using only local computational resources. Our method hinges on local tube MPC controllers based on robust control invariant sets and it advances the PnP design procedure proposed in Riverso et al., 2012 in several directions. Quite notably, using recent results in the computation of robust control invariant sets, we show how critical steps in the design of a local controller can be solved through linear programming. Finally, an application of the proposed control design procedure to frequency control in power networks is presented.</data>
+    </node>
+    <node id="P93416">
+      <data key="title">estimation of photovoltaic generation forecasting models using limited information</data>
+      <data key="abstract">This work deals with the problem of estimating a photovoltaic generation forecasting model in scenarios where measurements of meteorological variables (i.e. solar irradiance and temperature) at the plant site are not available. A novel algorithm for the estimation of the parameters of the well-known PVUSA model of a photovoltaic plant is proposed. Such a method is characterized by a low computational complexity, and efficiently exploits only power generation measurements, a theoretical clear-sky irradiance model, and temperature forecasts provided by a meteorological service. An extensive experimental validation of the proposed method on real data is also presented.</data>
+    </node>
+    <node id="P43869">
+      <data key="title">kron reduction of generalized electrical networks</data>
+      <data key="abstract">Kron reduction is used to simplify the analysis of multi-machine power systems under certain steady state assumptions that underly the usage of phasors. In this paper we show how to perform Kron reduction for a class of electrical networks without steady state assumptions. The reduced models can thus be used to analyze the transient as well as the steady state behavior of these electrical networks.</data>
+    </node>
+    <node id="P103467">
+      <data key="title">plug and play model predictive control for load shaping and voltage control in smart grids</data>
+      <data key="abstract">This paper presents a predictive controller for handling plug-and-play (P&amp;P) charging requests of flexible loads in a distribution system. We define two types of flexible loads: (i) deferrable loads that have a fixed power profile but can be deferred in time and (ii) shapeable loads that have flexible power profiles but fixed energy requests, such as Plug-in Electric Vehicles (PEVs). The proposed method uses a hierarchical control scheme based on a model predictive control (MPC) formulation for minimizing the global system cost. The first stage computes a reachable reference that trades off deviation from the nominal voltage with the required generation control. The second stage uses a price-based objective to aggregate flexible loads and provide load shaping services, while satisfying system constraints and users' preferences at all times. It is shown that the proposed controller is recursively feasible under specific conditions, i.e. the flexible load demands are satisfied and bus voltages remain within the desired limits. Finally, the proposed scheme is illustrated on a 55 bus radial distribution network.</data>
+    </node>
+    <node id="P34697">
+      <data key="title">a survey on modeling of microgrids from fundamental physics to phasors and voltage sources</data>
+      <data key="abstract">Microgrids have been identified as key components of modern electrical systems to facilitate the integration of renewable distributed generation units. Their analysis and controller design requires the development of advanced (typically model-based) techniques naturally posing an interesting challenge to the control community. Although there are widely accepted reduced order models to describe the dynamic behavior of microgrids, they are typically presented without details about the reduction procedure---hampering the understanding of the physical phenomena behind them. Preceded by an introduction to basic notions and definitions in power systems, the present survey reviews key characteristics and main components of a microgrid. We introduce the reader to the basic functionality of DC/AC inverters, as well as to standard operating modes and control schemes of inverter-interfaced power sources in microgrid applications. Based on this exposition and starting from fundamental physics, we present detailed dynamical models of the main microgrid components. Furthermore, we clearly state the underlying assumptions which lead to the standard reduced model with inverters represented by controllable voltage sources, as well as static network and load representations, hence, providing a complete modular model derivation of a three-phase inverter-based microgrid.</data>
+    </node>
+    <node id="P165051">
+      <data key="title">plug and play voltage and frequency control of islanded microgrids with meshed topology</data>
+      <data key="abstract">In this paper we propose a new decentralized control scheme for Islanded microGrids (ImGs) composed by the interconnection of Distributed Generation Units (DGUs). Local controllers regulate voltage and frequency at the Point of Common Coupling (PCC) of each DGU and they are able to guarantee stability of the overall ImG. The control design procedure is decentralized, since, besides two global scalar quantities, the synthesis of a local controller uses only information on the corresponding DGU and lines connected to it. Most important, our design procedure enables Plug-and-Play (PnP) operations: when a DGU is plugged in or out, only DGUs physically connected to it have to retune their local controllers. We study the performance of the proposed controllers simulating different scenarios in MatLab/Simulink and using performance indexes proposed in IEEE standards.</data>
+    </node>
+    <node id="P72410">
+      <data key="title">compositional transient stability analysis of multi machine power networks</data>
+      <data key="abstract">During the normal operation of a power system all the voltages and currents are sinusoids with a frequency of 60 Hz in America and parts of Asia, or of 50Hz in the rest of the world. Forcing all the currents and voltages to be sinusoids with the right frequency is one of the most important problems in power systems. This problem is known as the transient stability problem in the power systems literature. #R##N#The classical models used to study transient stability are based on several implicit assumptions that are violated when transients occur. One such assumption is the use of phasors to study transients. While phasors require sinusoidal waveforms to be well defined, there is no guarantee that waveforms will remain sinusoidal during transients. In this paper, we use energy-based models derived from first principles that are not subject to hard-to-justify classical assumptions. In addition to eliminate assumptions that are known not to hold during transient stages, we derive intuitive conditions ensuring the transient stability of power systems with lossy transmission lines. Furthermore, the conditions for transient stability are compositional in the sense that one infers transient stability of a large power system by checking simple conditions for individual generators.</data>
+    </node>
+    <node id="P44865">
+      <data key="title">power systems without fuel</data>
+      <data key="abstract">The finiteness of fossil fuels implies that future electric power systems may predominantly source energy from fuel-free renewable resources like wind and solar. Evidently, these power systems without fuel will be environmentally benign, sustainable, and subject to milder failure scenarios. Many of these advantages were projected decades ago with the definition of the soft energy path, which describes a future where all energy is provided by numerous small, simple, and diverse renewable sources. Here we provide a thorough investigation of power systems without fuel from technical and economic standpoints. The paper is organized by timescale and covers issues like the irrelevance of unit commitment in networks without large, fuel-based generators, the dubiousness of nodal pricing without fuel costs, and the need for new system-level models and control methods for semiconductor-based energy-conversion interfaces.</data>
+    </node>
+    <edge source="P365" target="P52005">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63216" target="P63856">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63216" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154219" target="P63856">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P154219" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P624" target="P34697">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52005" target="P43869">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52005" target="P34697">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P52005" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P63856" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P93416" target="P34697">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43869" target="P72410">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P43869" target="P44865">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P103467" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P34697" target="P165051">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>

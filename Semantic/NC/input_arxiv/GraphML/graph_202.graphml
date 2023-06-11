@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="relation" for="edge" attr.name="relation" attr.type="string" />
+  <key id="abstract" for="node" attr.name="abstract" attr.type="string" />
+  <key id="title" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="P106666">
+      <data key="title">computability and complexity of unconventional computing devices</data>
+      <data key="abstract">We discuss some claims that certain UCOMP devices can perform hypercomputation (compute Turing-uncomputable functions) or perform super-Turing computation (solve NP-complete problems in polynomial time). We discover that all these claims rely on the provision of one or more unphysical resources.</data>
+    </node>
+    <node id="P163501">
+      <data key="title">a note on computational complexity of dou shou qi</data>
+      <data key="abstract">Dou Shou Qi is a Chinese strategy board game for two players. We use a EXPTIME-hardness framework to analyse computational complexity of the game. We construct all gadgets of the hardness framework. In conclusion, we prove that Dou Shou Qi is EXPTIME-complete.</data>
+    </node>
+    <node id="P39461">
+      <data key="title">tetris is hard even to approximate</data>
+      <data key="abstract">In the popular computer game of Tetris, the player is given a sequence of tetromino pieces and must pack them into a rectangular gameboard initially occupied by a given configuration of filled squares; any completely filled row of the gameboard is cleared and all pieces above it drop by one row. We prove that in the offline version of Tetris, it is NP-complete to maximize the number of cleared rows, maximize the number of tetrises (quadruples of rows simultaneously filled and cleared), minimize the maximum height of an occupied square, or maximize the number of pieces placed before the game ends. We furthermore show the extreme inapproximability of the first and last of these objectives to within a factor of p^(1-epsilon), when given a sequence of p pieces, and the inapproximability of the third objective to within a factor of (2 - epsilon), for any epsilon&gt;0. Our results hold under several variations on the rules of Tetris, including different models of rotation, limitations on player agility, and restricted piece sets.</data>
+    </node>
+    <node id="P9332">
+      <data key="title">trainyard is np hard</data>
+      <data key="abstract">Recently, due to the widespread diffusion of smart-phones, mobile puzzle games have experienced a huge increase in their popularity. A successful puzzle has to be both captivating and challenging, and it has been suggested that this features are somehow related to their computational complexity \cite{Eppstein}. Indeed, many puzzle games --such as Mah-Jongg, Sokoban, Candy Crush, and 2048, to name a few-- are known to be NP-hard \cite{CondonFLS97, culberson1999sokoban, GualaLN14, Mehta14a}. In this paper we consider Trainyard: a popular mobile puzzle game whose goal is to get colored trains from their initial stations to suitable destination stations. We prove that the problem of determining whether there exists a solution to a given Trainyard level is NP-hard. We also \href{this http URL}{provide} an implementation of our hardness reduction.</data>
+    </node>
+    <node id="P50485">
+      <data key="title">on a generalization of eight blocks to madness</data>
+      <data key="abstract">We consider a puzzle such that a set of colored cubes is given as an instance. Each cube has unit length on each edge and its surface is colored so that what we call the Surface Color Condition is satisfied. Given a palette of six colors, the condition requires that each face should have exactly one color and all faces should have different colors from each other. The puzzle asks to compose a 2 × 2 × 2 cube that satisfies the Surface Color Condition from eight suitable cubes in the instance. Note that cubes and solutions have 30 varieties respectively. In this paper, we give answers to three problems on the puzzle: (i) For every subset of the 30 solutions, is there an instance that has the subset exactly as its solution set? (ii) Create a maximum sized infeasible instance (i.e., one having no solution). (iii) Create a minimum sized universal instance (i.e., one having all 30 solutions). We solve the problems with the help of a computer search. We show that the answer to (i) is no. For (ii) and (iii), we show examples of the required instances, where their sizes are 23 and 12, respectively. The answer to (ii) solves one of the open problems that were raised in [E. Berkove et al., “An Analysis of the (Colored Cubes) 3 Puzzle,” Discrete Mathematics, 308 (2008) pp. 1033–1045].</data>
+    </node>
+    <node id="P131435">
+      <data key="title">planar 3 sat with a clause variable cycle</data>
+      <data key="abstract">In a Planar 3-SAT problem, we are given a 3-SAT formula together with its incidence graph, which is planar, and are asked whether this formula is satisfiable. Since Lichtenstein's proof that this problem is NP-complete, it has been used as a starting point for a large number of reductions. In the course of this research, different restrictions on the incidence graph of the formula have been devised, for which the problem also remains hard. #R##N#In this paper, we investigate the restriction in which we require that the incidence graph can be augmented by the edges of a Hamiltonian cycle that first passes through all variables and then through all clauses, in a way that the resulting graph is still planar. We show that the problem of deciding satisfiability of a 3-SAT formula remains NP-complete even if the incidence graph is restricted in that way and the Hamiltonian cycle is given. This complements previous results demanding cycles only through either the variables or clauses. #R##N#The problem remains hard for monotone formulas and instances with exactly three distinct variables per clause. In the course of this investigation, we show that monotone instances of Planar 3-SAT with three distinct variables per clause are always satisfiable, thus settling the question by Darmann, D\"ocker, and Dorn on the complexity of this problem variant in a surprising way.</data>
+    </node>
+    <node id="P47174">
+      <data key="title">a general theory of motion planning complexity characterizing which gadgets make games hard</data>
+      <data key="abstract">We build a general theory for characterizing the computational complexity of motion planning of robot(s) through a graph of "gadgets", where each gadget has its own state defining a set of allowed traversals which in turn modify the gadget's state. We study two families of such gadgets, one which naturally leads to motion planning problems with polynomially bounded solutions, and another which leads to polynomially unbounded (potentially exponential) solutions. We also study a range of competitive game-theoretic scenarios, from one player controlling one robot to teams of players each controlling their own robot and racing to achieve their team's goal. Under small restrictions on these gadgets, we fully characterize the complexity of bounded 1-player motion planning (NL vs. NP-complete), unbounded 1-player motion planning (NL vs. PSPACE-complete), and bounded 2-player motion planning (P vs. PSPACE-complete), and we partially characterize the complexity of unbounded 2-player motion planning (P vs. EXPTIME-complete), bounded 2-team motion planning (P vs. NEXPTIME-complete), and unbounded 2-team motion planning (P vs. undecidable). These results can be seen as an alternative to Constraint Logic (which has already proved useful as a basis for hardness reductions), providing a wide variety of agent-based gadgets, any one of which suffices to prove a problem hard.</data>
+    </node>
+    <node id="P14877">
+      <data key="title">push pull block puzzles are hard</data>
+      <data key="abstract">This paper proves that push-pull block puzzles in 3D are PSPACE-complete to solve, and push-pull block puzzles in 2D with thin walls are NP-hard to solve, settling an open question by Zubaran and Ritt. Push-pull block puzzles are a type of recreational motion planning problem, similar to Sokoban, that involve moving a `robot' on a square grid with $1 \times 1$ obstacles. The obstacles cannot be traversed by the robot, but some can be pushed and pulled by the robot into adjacent squares. Thin walls prevent movement between two adjacent squares. This work follows in a long line of algorithms and complexity work on similar problems. The 2D push-pull block puzzle shows up in the video games Pukoban as well as The Legend of Zelda: A Link to the Past, giving another proof of hardness for the latter. This variant of block-pushing puzzles is of particular interest because of its connections to reversibility, since any action (e.g., push or pull) can be inverted by another valid action (e.g., pull or push).</data>
+    </node>
+    <node id="P14055">
+      <data key="title">classic nintendo games are computationally hard</data>
+      <data key="abstract">We prove NP-hardness results for five of Nintendo's largest video game franchises: Mario, Donkey Kong, Legend of Zelda, Metroid, and Pokemon. Our results apply to generalized versions of Super Mario Bros. 1-3, The Lost Levels, and Super Mario World; Donkey Kong Country 1-3; all Legend of Zelda games; all Metroid games; and all Pokemon role-playing games. In addition, we prove PSPACE-completeness of the Donkey Kong Country games and several Legend of Zelda games.</data>
+    </node>
+    <node id="P80387">
+      <data key="title">hanabi is np hard even for cheaters who look at their cards</data>
+      <data key="abstract">In this paper we study a cooperative card game called Hanabi from the viewpoint of algorithmic combinatorial game theory. In Hanabi, each card has one among $c$ colors and a number between $1$ and $n$. The aim is to make, for each color, a pile of cards of that color with all increasing numbers from $1$ to $n$. At each time during the game, each player holds $h$ cards in hand. Cards are drawn sequentially from a deck and the players should decide whether to play, discard or store them for future use. One of the features of the game is that the players can see their partners' cards but not their own and information must be shared through hints. #R##N#We introduce a single-player, perfect-information model and show that the game is intractable even for this simplified version where we forego both the hidden information and the multiplayer aspect of the game, even when the player can only hold two cards in her hand. On the positive side, we show that the decision version of the problem---to decide whether or not numbers from $1$ through $n$ can be played for every color---can be solved in (almost) linear time for some restricted cases.</data>
+    </node>
+    <node id="P149724">
+      <data key="title">on the complexity of slide and merge games</data>
+      <data key="abstract">We study the complexity of a particular class of board games, which we call `slide and merge' games. Namely, we consider 2048 and Threes, which are among the most popular games of their type. In both games, the player is required to slide all rows or columns of the board in one direction to create a high value tile by merging pairs of equal tiles into one with the sum of their values. This combines features from both block pushing and tile matching puzzles, like Push and Bejeweled, respectively. We define a number of natural decision problems on a suitable generalization of these games and prove NP-hardness for 2048 by reducing from 3SAT. Finally, we discuss the adaptation of our reduction to Threes and conjecture a similar result.</data>
+    </node>
+    <node id="P12653">
+      <data key="title">who witnesses the witness finding witnesses in the witness is hard and sometimes impossible</data>
+      <data key="abstract">We analyze the computational complexity of the many types of pencil-and-paper-style puzzles featured in the 2016 puzzle video game The Witness. In all puzzles, the goal is to draw a simple path in a rectangular grid graph from a start vertex to a destination vertex. The different puzzle types place different constraints on the path: preventing some edges from being visited (broken edges); forcing some edges or vertices to be visited (hexagons); forcing some cells to have certain numbers of incident path edges (triangles); or forcing the regions formed by the path to be partially monochromatic (squares), have exactly two special cells (stars), or be singly covered by given shapes (polyominoes) and/or negatively counting shapes (antipolyominoes). We show that any one of these clue types (except the first) is enough to make path finding NP-complete ("witnesses exist but are hard to find"), even for rectangular boards. Furthermore, we show that a final clue type (antibody), which necessarily "cancels" the effect of another clue in the same region, makes path finding $\Sigma_2$-complete ("witnesses do not exist"), even with a single antibody (combined with many anti/polyominoes), and the problem gets no harder with many antibodies. On the positive side, we give a polynomial-time algorithm for monomino clues, by reducing to hexagon clues on the boundary of the puzzle, even in the presence of broken edges, and solving "subset Hamiltonian path" for terminals on the boundary of an embedded planar graph in polynomial time.</data>
+    </node>
+    <node id="P161048">
+      <data key="title">gaming is a hard job but someone has to do it</data>
+      <data key="abstract">We establish some general schemes relating the computational complexity of a video game to the presence of certain common elements or mechanics, such as destroyable paths, collectible items, doors opened by keys or activated by buttons or pressure plates, etc. Then we apply such "metatheorems" to several video games published between 1980 and 1998, including Pac-Man, Tron, Lode Runner, Boulder Dash, Deflektor, Mindbender, Pipe Mania, Skweek, Prince of Persia, Lemmings, Doom, Puzzle Bobble~3, and Starcraft. We obtain both new results, and improvements or alternative proofs of previously known results.</data>
+    </node>
+    <node id="P89048">
+      <data key="title">np hard sets are not sparse unless p np an exposition of a simple proof of mahaney s theorem with applications</data>
+      <data key="abstract">Mahaney's Theorem states that, assuming $\mathsf{P} \neq \mathsf{NP}$, no NP-hard set can have a polynomially bounded number of yes-instances at each input length. We give an exposition of a very simple unpublished proof of Manindra Agrawal whose ideas appear in Agrawal-Arvind ("Geometric sets of low information content," Theoret. Comp. Sci., 1996). This proof is so simple that it can easily be taught to undergraduates or a general graduate CS audience - not just theorists! - in about 10 minutes, which the author has done successfully several times. We also include applications of Mahaney's Theorem to fundamental questions that bright undergraduates would ask which could be used to fill the remaining hour of a lecture, as well as an application (due to Ikenmeyer, Mulmuley, and Walter, arXiv:1507.02955) to the representation theory of the symmetric group and the Geometric Complexity Theory Program. To this author, the fact that sparsity results on NP-complete sets have an application to classical questions in representation theory says that they are not only a gem of classical theoretical computer science, but indeed a gem of mathematics.</data>
+    </node>
+    <node id="P254">
+      <data key="title">large peg army maneuvers</data>
+      <data key="abstract">Despite its long history, the classical game of peg solitaire continues to attract the attention of the scientific community. In this paper, we consider two problems with an algorithmic flavour which are related with this game, namely Solitaire-Reachability and Solitaire-Army. In the first one, we show that deciding whether there is a sequence of jumps which allows a given initial configuration of pegs to reach a target position is NP-complete. Regarding Solitaire-Army, the aim is to successfully deploy an army of pegs in a given region of the board in order to reach a target position. By solving an auxiliary problem with relaxed constraints, we are able to answer some open questions raised by Cs\'ak\'any and Juh\'asz (Mathematics Magazine, 2000). To appreciate the combinatorial beauty of our solutions, we recommend to visit the gallery of animations provided at this http URL</data>
+    </node>
+    <node id="P49088">
+      <data key="title">the computational complexity of angry birds</data>
+      <data key="abstract">Abstract   The physics-based simulation game Angry Birds has been heavily researched by the AI community over the past five years, and has been the subject of a popular AI competition that is currently held annually as part of a leading AI conference. Developing intelligent agents that can play this game effectively has been an incredibly complex and challenging problem for traditional AI techniques to solve, even though the game is simple enough that any human player could learn and master it within a short time. In this paper we analyse how hard the problem really is, presenting several proofs for the computational complexity of Angry Birds. By using a combination of several gadgets within this game's environment, we are able to demonstrate that the decision problem of solving general levels for different versions of Angry Birds is either NP-hard, PSPACE-hard, PSPACE-complete or EXPTIME-hard. Proof of NP-hardness is by reduction from 3-SAT, whilst proof of PSPACE-hardness is by reduction from True Quantified Boolean Formula (TQBF). Proof of EXPTIME-hardness is by reduction from G2, a known EXPTIME-complete problem similar to that used for many previous games such as Chess, Go and Checkers. To the best of our knowledge, this is the first time that a single-player game has been proven EXPTIME-hard. This is achieved by using stochastic game engine dynamics to effectively model the real world, or in our case the physics simulator, as the opponent against which we are playing. These proofs can also be extended to other physics-based games with similar mechanics.</data>
+    </node>
+    <node id="P64236">
+      <data key="title">computational complexity of games and puzzles</data>
+      <data key="abstract">In this thesis, we survey techniques and results from the study of Complexity Theory and Games. We then apply these techniques to obtain new results for previously unstudied games. Our contributions in the games Hexiom, Cut the Rope, and Back to Bed may be helpful in further studies by exploiting structure common to several games. We also highlight some interesting paths for further study related to uncertainty that have yet to receive thorough study given their prevalence in today's games.</data>
+    </node>
+    <node id="P146801">
+      <data key="title">np completeness of the game kingdomino</data>
+      <data key="abstract">Kingdomino is a board game designed by Bruno Cathala and edited by Blue Orange since 2016. The goal is to place $2 \times 1$ dominoes on a grid layout, and get a better score than other players. Each $1 \times 1$ domino cell has a color that must match at least one adjacent cell, and an integer number of crowns (possibly none) used to compute the score. We prove that even with full knowledge of the future of the game, in order to maximize their score at Kingdomino, players are faced with an NP-complete optimization problem.</data>
+    </node>
+    <node id="P57925">
+      <data key="title">bejeweled candy crush and other match three games are np hard</data>
+      <data key="abstract">The twentieth century has seen the rise of a new type of video games targeted at a mass audience of "casual" gamers. Many of these games require the player to swap items in order to form matches of three and are collectively known as \emph{tile-matching match-three games}. Among these, the most influential one is arguably \emph{Bejeweled} in which the matched items (gems) pop and the above gems fall in their place. Bejeweled has been ported to many different platforms and influenced an incredible number of similar games. Very recently one of them, named \emph{Candy Crush Saga} enjoyed a huge popularity and quickly went viral on social networks. We generalize this kind of games by only parameterizing the size of the board, while all the other elements (such as the rules or the number of gems) remain unchanged. Then, we prove that answering many natural questions regarding such games is actually \NP-Hard. These questions include determining if the player can reach a certain score, play for a certain number of turns, and others. We also \href{this http URL}{provide} a playable web-based implementation of our reduction.</data>
+    </node>
+    <node id="P87360">
+      <data key="title">candy crush is np hard</data>
+      <data key="abstract">We prove that playing Candy Crush to achieve a given score in a fixed number of swaps is NP-hard.</data>
+    </node>
+    <edge source="P106666" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163501" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P163501" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P50485">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P64236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P80387">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P39461" target="P49088">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9332" target="P254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9332" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9332" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P9332" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50485" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P50485" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P131435" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47174" target="P14877">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47174" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P47174" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14877" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14877" target="P14055">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P254">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P89048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P64236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P12653">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P161048">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P146801">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P14055" target="P49088">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80387" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P80387" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P149724" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161048" target="P64236">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161048" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P161048" target="P49088">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P254" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P49088" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146801" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P146801" target="P57925">
+      <data key="relation">reference</data>
+    </edge>
+    <edge source="P57925" target="P87360">
+      <data key="relation">reference</data>
+    </edge>
+  </graph>
+</graphml>
