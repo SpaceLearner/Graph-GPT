@@ -143,10 +143,10 @@ def main(config):
             abstracts = [graph_nx.nodes(data=True)[nodes]["abstract"][:300] for nodes in nodesl]
             random.shuffle(abstracts)
             data_summary = copy.deepcopy(data)
-            data_summary["prompt"] = "The abstracts of citation papers are " + str(abstracts) + ". We know that mose of these papers are " 
+            data_summary["prompt"] = "The abstracts of citation papers are " + str(abstracts) + ". We know that most of these papers are " 
             graph_text = GPT(data_summary)
             
-            
+            print(graph_text)
             
             data["prompt"] = instructer  + example + "The citation papers of " + node + " that are " + graph_text + "\n" + question  + tail
         else:
