@@ -51,7 +51,7 @@ def main(config):
     print(dataset.data)
     data    = {"prompt": "", 
             "max_tokens": 512, 
-            "temperature": 0.3}
+            "temperature": 0.1}
 
     # command = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-chat-davinci-002/completions?api-version=2022-12-01 -H \"Content-Type: application/json\" -H \"api-key: 516a05f6bed44ddeb2a6e8a047046ad5\" -d \"{ \"prompt\": \"please construct an undirected graph G with the following edge list separated by , : 1-2, 2-3, 3-4, 4-2, 2-6, 5-6, 6-1, 6-7, 7-9, 8-9.\", \"max_tokens\": 160, \"temperature\": 0.3 }\""
     # graph_file = "input/SMILES/hiv.smiles"
@@ -132,7 +132,7 @@ def main(config):
         if config.use_graph:
             nodesl = list(nx.bfs_predecessors(graph_nx, node, 1))
             random.shuffle(nodesl)
-            nodesl = nodesl[:20]
+            nodesl = nodesl[:30]
             nodesl = [nodes[0] for nodes in nodesl] + [node]
             # nodesl2 = list(nx.bfs_predecessors(graph_nx, node, 2))
             # random.shuffle(nodesl2)
@@ -155,7 +155,7 @@ def main(config):
         
         if config.method[-3:] == "cot":    
             response = GPT(data)
-            data["prompt"] = instructer + example  + "The citation papers of " + node + " " + graph_text + "\n" + question + tail + response + "Therefore the answer is "
+            data["prompt"] = instructer + example  + "The citation papers of " + node + " " + graph_text + "\n" + question + tail + response + " Therefore the answer is "
         
         answer = GPT(data)
         label    = index2label[dataset.data.y[int(node[1:])].item()]
