@@ -27,6 +27,8 @@ from tenacity import (
 
 from features import allowable_features
 
+import wandb
+
 @retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
 def GPT(data):
 
@@ -173,8 +175,10 @@ def main(config):
         if len(predictions) == 100:
             break
         print(answer, label, sum(predictions) / len(predictions))
+        wandb.log({"step_accuracy": int(answer == label)})
     predictions = np.array(predictions)
     print(np.mean(predictions), np.std(predictions))
+    wandb.log({"accuracy": np.mean(predictions)})
          
 if __name__ == "__main__":
     
@@ -189,6 +193,8 @@ if __name__ == "__main__":
     parser.add_argument("--use_summarize", type=int, default=1,            help="whether use self-aug. ")
     parser.add_argument("--task",          type=str, default="degree",     help="The task to conduct. ")
     args = parser.parse_args()
+    
+    wandb.init(project="GC", config=args)
     
     print(args)
     
