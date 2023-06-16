@@ -182,7 +182,7 @@ if __name__ == "__main__":
     
     parser.add_argument("--format",        type=str, default="GML",    help="Input format to use. ")
     # parser.add_argument("--use_graph",     type=int, default=1,            help="Whether use graph or not. ")
-    parser.add_argument("--dataset",       type=str, default="ogbg-molhiv", help="The dataset to use. ")
+    parser.add_argument("--dataset",       type=str, default="ogbg-molpcba", help="The dataset to use. ")
     parser.add_argument("--method",        type=str, default="zero_shot",  help="The method to use. ")
     parser.add_argument("--change_order",  type=int, default=0,            help="whether use change order. ")
     parser.add_argument("--self_format_explanation", type=int, default=1,            help="whether use self-aug. ")
