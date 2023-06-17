@@ -2,8 +2,10 @@ project: GraphBench
 program: run_experiment.py
 method: grid
 parameters:
+  dataset:
+    values: ["ogbg-molhiv", "ogbg-molpcba"]
   method:
-    values: ["zero_shot", "one_shot", "zero_shot_cot", "one_shot_cot"]
+    values: ["zero_shot_cot", "one_shot_cot"]
   format:
     values: ["GML", "GraphML"]
   change_order:

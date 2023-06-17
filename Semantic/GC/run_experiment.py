@@ -49,6 +49,9 @@ def get_nodes_attributes(graph, features, feature_keys):
     for i, node_attr in enumerate(node_attrs):
         node_x_dict = {}
         for idx, attr in enumerate(node_attr):
+            if idx >= len(feature_keys):
+                break
+            
             node_x_dict[feature_keys[idx][9:-5]] = features[feature_keys[idx]][attr]
         node_x_list.append((i, node_x_dict))
         
@@ -61,7 +64,9 @@ def get_edges_attributes(graph, features, feature_keys):
     for i, edge_attr in enumerate(edge_attrs):
         edge_x_dict = {}
         for idx, attr in enumerate(edge_attr):
-            edge_x_dict[feature_keys[idx+9][9:-5]] = features[feature_keys[idx+9]][attr]
+            if idx >= len(feature_keys):
+                break
+            edge_x_dict[feature_keys[idx][9:-5]] = features[feature_keys[idx]][attr]
         edge_x_list.append((edges[i][0], edges[i][1], edge_x_dict))
 
     return edge_x_list
@@ -76,14 +81,22 @@ def main(config):
     seed_everything(1234)
     
     dataset = PygGraphPropPredDataset(name=config.dataset, root="dataset")
-
-    split_idx = dataset.get_idx_split() 
+    print(dataset.data)
+    split_idx = dataset.get_idx_split()
+    if config.dataset == "ogbg-molpcba":
+        is_not_nan_index = (dataset[split_idx["valid"]].y[:, 4] == dataset[split_idx["valid"]].y[:, 4]).squeeze()
+    else:
+        is_not_nan_index = (dataset[split_idx["valid"]].y[:, 0] == dataset[split_idx["valid"]].y[:, 0]).squeeze()
+    
     # train_loader = DataLoader(dataset[split_idx["train"]], batch_size=1, shuffle=True)
     # valid_loader = DataLoader(dataset[split_idx["valid"]], batch_size=1, shuffle=True)
     # test_loader  = DataLoader(dataset[split_idx["test"]] , batch_size=1, shuffle=True)
-    
-    is_hiv = (dataset[split_idx["valid"]].y == 1).squeeze()
-    index  = torch.hstack([(is_hiv == True).nonzero().squeeze()[:50], (is_hiv == False).nonzero().squeeze()[:50]])
+    # print(dataset.data)
+    if config.dataset == "ogbg-molhiv":
+        is_hiv = (dataset[split_idx["valid"]].y[:, 0] == 1).squeeze()
+    else:
+        is_hiv = (dataset[split_idx["valid"]].y[:, 4] == 1).squeeze()
+    index  = torch.hstack([((is_hiv == True) & (is_not_nan_index == True)).nonzero().squeeze()[:50], ((is_hiv == False) & (is_not_nan_index == True)).nonzero().squeeze()[:50]])
     index  = index[torch.randperm(len(index))]
     data_loader  = dataset[split_idx["valid"][index]]
     print(is_hiv.sum())
@@ -93,7 +106,10 @@ def main(config):
             "temperature": 0.1}
         
     if "code2" not in config.dataset:
-        instructor = "You are a brilliant moleculer master and knows everything about the property of proteins. For example, whether a molecule inhibits HIV virus replication or not. The following is a moleculer graph. \n"
+        if "hiv" in config.dataset:
+            instructor = "You are a brilliant moleculer master and knows everything about the property of proteins. For example, whether a molecule inhibits HIV virus replication or not. The following is a moleculer graph. \n"
+        elif "pcba" in config.dataset:
+            instructor = "You are a brilliant moleculer master and knows everything about the property of proteins. For example, whether a molecule is active with CYP3A4. The following is a moleculer graph. \n"
     else:
         instructor = "You are a brilliant code master and knows everything about the python codes. For example, predict the sub-tokens forming the method name. \n"
 
@@ -111,17 +127,24 @@ def main(config):
         
         print(graph)
         graph_nx = nx.Graph()
-        graph_nx.add_nodes_from(get_nodes_attributes(graph, features, feature_keys))
-        graph_nx.add_edges_from(get_edges_attributes(graph, features, feature_keys))
+        if config.format == "GraphML":
+            graph_nx.add_nodes_from(get_nodes_attributes(graph, features, feature_keys[:4]))
+            graph_nx.add_edges_from(get_edges_attributes(graph, features, feature_keys[9:10]))
+        else:
+            graph_nx.add_nodes_from(get_nodes_attributes(graph, features, feature_keys))
+            graph_nx.add_edges_from(get_edges_attributes(graph, features, feature_keys[9:]))
         
         if config.format == "GML":
             convertor = nx.generate_gml
-            gramma  = "<GML grammar> Each node has a unique id and a label. Node is labeled with node [ id ... label ... ... ], edge is labeled with edge [ source ... target ... ... ] \n"
+           #  gramma  = "<GML grammar> Each node has a unique id and a label. Node is labeled with node [ id ... label ... ... ], edge is labeled with edge [ source ... target ... ... ] \n"
         elif config.format == "GraphML":
             convertor = partial(nx.generate_graphml, named_key_ids=True)
-            gramma  = "<GraphML grammar> Each node has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source= ... target=... > <data key=...>...</data> </edge> \n"
+           #  gramma  = "<GraphML grammar> Each node has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source= ... target=... > <data key=...>...</data> </edge> \n"
         
-        question = "Whether the molecule inhibits HIV virus replication ? \n"
+        if config.dataset == "ogbg-molhiv":
+            question = "Whether the moleculer inhibits HIV virus replication ? \n"
+        elif config.dataset == "ogbg-molpcba":
+            question = "Is the moleculer active with CYP3A4 ? \n"
         # print(question)
         graph_text = ""
         
@@ -129,20 +152,29 @@ def main(config):
         if "one_shot" in config.method:
             example_graph = dataset[split_idx["train"]][0]
             example_graph_nx = nx.Graph()
-            example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features, feature_keys))
-            example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features, feature_keys))
+            if config.format == "GraphML":
+                example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features[:4], feature_keys))
+                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features[:1], feature_keys))
+            else:
+                example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features, feature_keys))
+                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features, feature_keys))
             temp_data = copy.deepcopy(data)
             temp_data["prompt"] = "\n".join([line for line in convertor(example_graph_nx)]) + " Please summarize the graph. "
             example_graph_summary = GPT(temp_data)
-            if example_graph.y.squeeze().item() == 1:
-                example = "For example, the graph " + example_graph_summary + " can be inhabitated by HIV virus. "
-            else:
-                example = "For example, the graph " + example_graph_summary + " cannot be inhabitated by HIV virus. "
+            if config.dataset == "ogbg-molhiv":
+                if example_graph.y.squeeze().item() == 1:
+                    example = "For example, the graph " + example_graph_summary + " can be inhabitated by HIV virus. "
+                else:
+                    example = "For example, the graph " + example_graph_summary + " cannot be inhabitated by HIV virus. "
+            elif config.dataset == "ogbg-molpcba":
+                if example_graph.y[:, 4].squeeze().item() == 1:
+                    example = "For example, the graph " + example_graph_summary + " is active with CYP3A4. "
+                else:
+                    example = "For example, the graph " + example_graph_summary + " is inactive with CYP3A4. "
         else:
             example = ""
         graph_text = "\n".join([line for line in convertor(graph_nx)])
         
-        # print(graph_text)
         # print(len(graph_text.split(" ")))
         format_text = ""
         if config.self_format_explanation:
@@ -166,7 +198,11 @@ def main(config):
         
         answer = GPT(data)
         answer = int("Yes" in answer)
-        label  = int(graph.y[0].item())
+        
+        if config.dataset == "ogbg-molhiv":
+            label  = int(graph.y[:, 0].item())
+        elif config.dataset == "ogbg-molpcba":
+            label  = int(graph.y[:, 4].item())
         print(label, answer)
         if label == answer:
             predictions.append(1)
