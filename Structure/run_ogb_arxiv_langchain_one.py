@@ -17,7 +17,7 @@ from langchain.prompts import PromptTemplate
 
 import wandb
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 def prompting(task, input, question_head, instructer, gramma, example, tail, graph,  change_order, use_gramma):
     

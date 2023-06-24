@@ -20,8 +20,8 @@ import wandb
 
 os.environ["OPENAI_API_TYPE"]    = "azure"
 os.environ["OPENAI_API_VERSION"] = "2023-3-15-preview"
-os.environ["OPENAI_API_BASE"]    = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com"
-os.environ["OPENAI_API_KEY"]     = "516a05f6bed44ddeb2a6e8a047046ad5"
+os.environ["OPENAI_API_BASE"]    = "XXX"
+os.environ["OPENAI_API_KEY"]     = "XXX"
 
 def prompting(task, input, question_head, instructer, gramma, example, tail, graph,  change_order, use_gramma):
     

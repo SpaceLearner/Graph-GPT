@@ -24,8 +24,8 @@ from tenacity import (
 @retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
 def GPT(data):
 
-    url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
+    url       = "XXX"
+    headers   = {"Content-Type": "application/json", "api-key": "XXX"}
     response  = requests.post(url=url, headers=headers, data=json.dumps(data))
     response  = json.loads(response.text)
     # print(response)
@@ -130,9 +130,9 @@ def main(config):
             example = ""
         
         if config.use_graph:
-            nodesl = list(nx.bfs_predecessors(graph_nx, node, 1))
+            nodesl = list(nx.bfs_predecessors(graph_nx, node, 2))
             random.shuffle(nodesl)
-            nodesl = nodesl[:30]
+            nodesl = nodesl[:50]
             nodesl = [nodes[0] for nodes in nodesl] + [node]
             # nodesl2 = list(nx.bfs_predecessors(graph_nx, node, 2))
             # random.shuffle(nodesl2)
@@ -176,7 +176,7 @@ if __name__ == "__main__":
     parser.add_argument("--format",        type=str, default="GraphML",    help="Input format to use. ")
     parser.add_argument("--use_graph",     type=int, default=1,            help="Whether use graph or not. ")
     parser.add_argument("--dataset",       type=str, default="obgn-arxiv", help="The dataset to use. ")
-    parser.add_argument("--method",        type=str, default="zero_shot",  help="The method to use. ")
+    parser.add_argument("--method",        type=str, default="one_shot",  help="The method to use. ")
     parser.add_argument("--change_order",  type=int, default=0,            help="whether use change order. ")
     parser.add_argument("--self_augument", type=int, default=0,            help="whether use self-aug. ")
     parser.add_argument("--task",          type=str, default="degree",     help="The task to conduct. ")

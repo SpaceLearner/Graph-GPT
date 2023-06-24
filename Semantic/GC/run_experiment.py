@@ -33,7 +33,7 @@ import wandb
 def GPT(data):
 
     url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
+    headers   = {"Content-Type": "application/json", "api-key": "XXX"}
     response  = requests.post(url=url, headers=headers, data=json.dumps(data))
     response  = json.loads(response.text)
     if "choices" not in response:
@@ -78,7 +78,7 @@ def main(config):
     
     print(features)
     
-    seed_everything(1234)
+    seed_everything(234)
     
     dataset = PygGraphPropPredDataset(name=config.dataset, root="dataset")
     print(dataset.data)
@@ -107,9 +107,9 @@ def main(config):
         
     if "code2" not in config.dataset:
         if "hiv" in config.dataset:
-            instructor = "You are a brilliant moleculer master and knows everything about the property of proteins. For example, whether a molecule inhibits HIV virus replication or not. The following is a moleculer graph. \n"
+            instructor = "You are a brilliant molecule master and knows everything about the property of proteins. For example, whether a molecule inhibits HIV virus replication or not. The following is a moleculer graph. \n"
         elif "pcba" in config.dataset:
-            instructor = "You are a brilliant moleculer master and knows everything about the property of proteins. For example, whether a molecule is active with CYP3A4. The following is a moleculer graph. \n"
+            instructor = "You are a brilliant molecule master and knows everything about the property of proteins. For example, whether a molecule is active with CYP3A4. The following is a moleculer graph. \n"
     else:
         instructor = "You are a brilliant code master and knows everything about the python codes. For example, predict the sub-tokens forming the method name. \n"
 
@@ -122,7 +122,7 @@ def main(config):
     # for idx, seed in tqdm(enumerate(range(50))):
     for graph in tqdm(data_loader, total=len(data_loader)):
         
-        if len(graph.edge_index.T) > 50:
+        if len(graph.edge_index.T) > 55:
             continue
         
         print(graph)
@@ -142,25 +142,31 @@ def main(config):
            #  gramma  = "<GraphML grammar> Each node has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source= ... target=... > <data key=...>...</data> </edge> \n"
         
         if config.dataset == "ogbg-molhiv":
-            question = "Whether the moleculer inhibits HIV virus replication ? \n"
+            question = "Whether the molecule inhibits HIV virus replication? Yes or no.\n"
         elif config.dataset == "ogbg-molpcba":
-            question = "Is the moleculer active with CYP3A4 ? \n"
+            question = "Is the molecule active with CYP3A4? Yes or no.\n"
         # print(question)
         graph_text = ""
         
         example = ""
         if "one_shot" in config.method:
-            example_graph = dataset[split_idx["train"]][0]
+            example_graph = None
+            while  example_graph is None or len(example_graph.x) > 40:
+                example_graph = dataset[split_idx["train"][torch.randperm(len(split_idx["train"]))]][0]
             example_graph_nx = nx.Graph()
+            
             if config.format == "GraphML":
-                example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features[:4], feature_keys))
-                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features[:1], feature_keys))
+                example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features, feature_keys[:4]))
+                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features, feature_keys[9:10]))
             else:
                 example_graph_nx.add_nodes_from(get_nodes_attributes(example_graph, features, feature_keys))
-                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features, feature_keys))
+                example_graph_nx.add_edges_from(get_edges_attributes(example_graph, features, feature_keys[9:]))
+            print(example_graph_nx)
             temp_data = copy.deepcopy(data)
             temp_data["prompt"] = "\n".join([line for line in convertor(example_graph_nx)]) + " Please summarize the graph. "
+            print(temp_data)
             example_graph_summary = GPT(temp_data)
+            print(example_graph.y.squeeze().item())
             if config.dataset == "ogbg-molhiv":
                 if example_graph.y.squeeze().item() == 1:
                     example = "For example, the graph " + example_graph_summary + " can be inhabitated by HIV virus. "
@@ -185,9 +191,9 @@ def main(config):
             temp_data = copy.deepcopy(data)
             temp_data["prompt"] = graph_text + format_text + " We can summarize the graph as follows: "
             graph_text = GPT(temp_data)
-        print(graph_text)
+        
         if config.use_summarize:
-            data["prompt"] = instructor + example + graph_text + "\n" + question  + tail
+            data["prompt"] = instructor + example + graph_text + format_text + "\n" + question  + tail
         else:
             data["prompt"] = instructor + example + graph_text + format_text + "\n" + question  + tail
        
@@ -197,7 +203,8 @@ def main(config):
             data["prompt"] = instructor  + example + graph_text + "\n" + question  + tail + response + " Therefore the answer is "
         
         answer = GPT(data)
-        answer = int("Yes" in answer)
+        print(answer)
+        answer = int("yes" in answer.lower())
         
         if config.dataset == "ogbg-molhiv":
             label  = int(graph.y[:, 0].item())
@@ -223,7 +230,7 @@ if __name__ == "__main__":
     parser.add_argument("--format",        type=str, default="GML",    help="Input format to use. ")
     # parser.add_argument("--use_graph",     type=int, default=1,            help="Whether use graph or not. ")
     parser.add_argument("--dataset",       type=str, default="ogbg-molhiv", help="The dataset to use. ")
-    parser.add_argument("--method",        type=str, default="zero_shot",  help="The method to use. ")
+    parser.add_argument("--method",        type=str, default="one_shot",  help="The method to use. ")
     parser.add_argument("--change_order",  type=int, default=0,            help="whether use change order. ")
     parser.add_argument("--self_format_explanation", type=int, default=1,            help="whether use self-aug. ")
     parser.add_argument("--use_summarize", type=int, default=1,            help="whether use self-aug. ")

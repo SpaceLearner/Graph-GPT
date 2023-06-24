@@ -1,5 +1,3 @@
-import requests
-import json
 import argparse
 import networkx as nx
 import pickle as pkl
@@ -19,8 +17,8 @@ import wandb
 
 os.environ["OPENAI_API_TYPE"]    = "azure"
 os.environ["OPENAI_API_VERSION"] = "2023-3-15-preview"
-os.environ["OPENAI_API_BASE"]    = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com"
-os.environ["OPENAI_API_KEY"]     = "516a05f6bed44ddeb2a6e8a047046ad5"
+os.environ["OPENAI_API_BASE"]    = "XXX" #
+os.environ["OPENAI_API_KEY"]     = "XXX"
 
 def prompting(task, input, question_head, instructer, gramma, example, tail, graph,  change_order, use_gramma):
     
@@ -71,12 +69,12 @@ def main(config, seed=0):
         prefix  = "./input_arxiv/GML"
         reader  = nx.read_gml
         postfix = ".gml"
-        gramma  = "<GML grammar> Each node has a unique id and a label. Each edge has a unique id and a label. Node is labeled with node [ id ... label ... ... ], edge is labeled with edge [ source ... target ... ... ] \n"
+        gramma  = "<GML grammar> Each node has a unique id and a label. Node is labeled with node [ id ... label ... ... ], edge is labeled with edge [ source ... target ... ... ] \n"
     elif config.format == "GraphML":
         prefix  = "./input_arxiv/GraphML"
         reader  = partial(nx.read_graphml)
         postfix = ".graphml"
-        gramma  = "<GraphML grammar> Each node has a unique id and a label. Each edge has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source=... target=... > <data key=...>...</data> </edge> \n"
+        gramma  = "<GraphML grammar> Each node has a unique id and a label. Node is labeled with <node id=...> <data key=...> ... </data> </node> and edge is labeled with <edge source= ... target=... > <data key=...>...</data> </edge> \n"
     elif config.format == "EdgeList":
         prefix  = "./input_arxiv/EdgeList"
         reader  = partial(nx.read_edgelist, delimiter="\t")
@@ -127,13 +125,15 @@ def main(config, seed=0):
             # print(question, answer)
             # print(question_head, true_answer)
             if config.task == "size":
-                if "one_shot" in config.method:
+                if "one_shot" in config.method and config.format != "GraphML":
                     random = np.random.randint(0, 100)
                     example_graph = os.path.join(prefix, "graph_"+str(random)+postfix)
                     example_graph_nx = reader(example_graph)
                     with open(example_graph, "r") as fp:
                         example_graph = fp.read()
                     example = "For example, the size of the following graph " + example_graph + " is " + str(example_graph_nx.number_of_nodes()) + " nodes and " + str(example_graph_nx.number_of_edges()) + " edges. \n"
+                elif config.format == "GraphML":
+                    example = "The size of a graph is the number of nodes and the number of edges. \n"
                 else:
                     example = ""
                 prompt = prompting(config.task, None, question_head, instructer, gramma, example, tail, graph, change_order=config.change_order, use_gramma=config.use_format_explain)

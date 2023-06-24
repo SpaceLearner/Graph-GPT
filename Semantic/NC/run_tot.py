@@ -2,38 +2,23 @@ import os
 import networkx as nx
 import numpy as np
 import pandas as pd
-from collections import defaultdict
 import random
-import json
-import pickle as pkl
 import argparse
-import requests
-import copy
 import random
 
+from langchain.llms import AzureOpenAI
+from langchain.prompts import PromptTemplate
 from pytorch_lightning import seed_everything
 from ogb.nodeproppred import PygNodePropPredDataset
 from functools import partial
 from tqdm import tqdm
-from tenacity import (
-    retry,
-    stop_after_attempt,
-    wait_random_exponential,
-)  
 
-@retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
-def GPT(data):
 
-    url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
-    response  = requests.post(url=url, headers=headers, data=json.dumps(data))
-    response  = json.loads(response.text)
-    # print(response)
-    if "choices" not in response:
-        raise Exception("Response Exception. ")
-    answer    = response["choices"][0]["text"].strip()
-    
-    return answer
+
+os.environ["OPENAI_API_TYPE"]    = "azure"
+os.environ["OPENAI_API_VERSION"] = "2023-3-15-preview"
+os.environ["OPENAI_API_BASE"]    = "XXX"
+os.environ["OPENAI_API_KEY"]     = "XXX"
 
 def label_handler(path):
     index2label = pd.read_csv(path)["arxiv category"].values.tolist()
@@ -48,15 +33,21 @@ def main(config):
     
     seed_everything(1234)
     
-    print(dataset.data)
-    data    = {"prompt": "", 
-            "max_tokens": 512, 
-            "temperature": 0.1}
+    
+    from OpenAIAzureModel import OpenAIAzureLanguageModel
+    from tree_of_thoughts import MonteCarloTreeofThoughts
+    
+    model = OpenAIAzureLanguageModel(
+        api_key=os.environ["OPENAI_API_KEY"],
+        api_model="text-davinci-003"
+    )
 
-    # command = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-chat-davinci-002/completions?api-version=2022-12-01 -H \"Content-Type: application/json\" -H \"api-key: 516a05f6bed44ddeb2a6e8a047046ad5\" -d \"{ \"prompt\": \"please construct an undirected graph G with the following edge list separated by , : 1-2, 2-3, 3-4, 4-2, 2-6, 5-6, 6-1, 6-7, 7-9, 8-9.\", \"max_tokens\": 160, \"temperature\": 0.3 }\""
-    # graph_file = "input/SMILES/hiv.smiles"
-
-    # graphs = pickle.load(open(graph_file, "rb"))
+    GPT = MonteCarloTreeofThoughts(model)
+    
+    num_thoughts = 1
+    max_steps = 3
+    max_states = 4
+    pruning_threshold = 0.5
     
     choices = ["CS.AI is short for Artificial Intelligence. ",
                "CS.CL is short for Computation and Language. ",
@@ -111,14 +102,13 @@ def main(config):
 
     print("start experimenting ... ")
     predictions = []
-    # for idx, seed in tqdm(enumerate(range(50))):
     
     sample_index = np.random.permutation(len(valid_idx))[:100]
     for node in tqdm(valid_idx[sample_index].tolist(), total=len(sample_index)):
         node     = "P" + str(node)
         datait   = graph_nx.nodes(data=True)[node]
         # question = "Which arxiv CS subcategory does paper " + node + " with abstract " + datait["abstract"] + " belongs to? use the abbreviation to answer. \n"
-        question = "Which arxiv CS subcategory does paper " + node + " with abstract " + datait["abstract"] + " belongs to? use the abbreviation to answer. \n"
+        question = "Which arxiv CS subcategory does the paper  belongs to? use the abbreviation to answer. \n"
         # print(question)
         graph_text = ""
         
@@ -139,25 +129,18 @@ def main(config):
             # nodesl2 = nodesl2[:20]
             # nodesl2 = [nodes[0] for nodes in nodesl2]
             # nodesl = nodesl + nodesl2
-            print(nodesl)
+            # print(nodesl)
             abstracts = [graph_nx.nodes(data=True)[nodes]["abstract"][:300] for nodes in nodesl]
             random.shuffle(abstracts)
-            data_summary = copy.deepcopy(data)
-            data_summary["prompt"] = "The abstracts of citation papers are " + str(abstracts) + ". We know that most of these papers are " 
-            graph_text = GPT(data_summary)
+            data_summary = "The abstracts of citation papers are " + str(abstracts) + ". We know that most of these papers are " 
+            graph_text = GPT.solve(data_summary,num_thoughts,max_steps,max_states,pruning_threshold)
             
-            print(graph_text)
-            
-            data["prompt"] = instructer  + example + "The citation papers of " + node + " that are " + graph_text + "\n" + question  + tail
+            prompt = instructer  + example + "The citation papers of " + node + " that are " + graph_text + "\n" + question  + tail
         else:
-            data["prompt"] = instructer + example + question + tail
-            
+            prompt = instructer + example + question + tail
         
-        if config.method[-3:] == "cot":    
-            response = GPT(data)
-            data["prompt"] = instructer + example  + "The citation papers of " + node + " " + graph_text + "\n" + question + tail + response + "Therefore the answer is "
-        
-        answer = GPT(data)
+        answer = GPT.solve(prompt,num_thoughts,max_steps,max_states,pruning_threshold)[0]
+        # print(answer)
         label    = index2label[dataset.data.y[int(node[1:])].item()]
         if label.lower() in answer.lower():
             predictions.append(1)
@@ -174,7 +157,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     
     parser.add_argument("--format",        type=str, default="GraphML",    help="Input format to use. ")
-    parser.add_argument("--use_graph",     type=int, default=1,            help="Whether use graph or not. ")
+    parser.add_argument("--use_graph",     type=int, default=0,            help="Whether use graph or not. ")
     parser.add_argument("--dataset",       type=str, default="obgn-arxiv", help="The dataset to use. ")
     parser.add_argument("--method",        type=str, default="zero_shot",  help="The method to use. ")
     parser.add_argument("--change_order",  type=int, default=0,            help="whether use change order. ")
