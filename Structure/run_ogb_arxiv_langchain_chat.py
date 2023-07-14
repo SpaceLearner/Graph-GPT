@@ -50,19 +50,6 @@ def prompting(task, input, question_head, instructer, gramma, example, tail, gra
      
 
 def main(config, seed=0):
-    
-    GPT = AzureChatOpenAI(
-    openai_api_base="https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com",
-    openai_api_version="2023-03-15-preview",
-    deployment_name="gpt-35-turbo",
-    openai_api_key="516a05f6bed44ddeb2a6e8a047046ad5",
-    openai_api_type = "azure",
-    )
-    
-    # command = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-chat-davinci-002/completions?api-version=2022-12-01 -H \"Content-Type: application/json\" -H \"api-key: 516a05f6bed44ddeb2a6e8a047046ad5\" -d \"{ \"prompt\": \"please construct an undirected graph G with the following edge list separated by , : 1-2, 2-3, 3-4, 4-2, 2-6, 5-6, 6-1, 6-7, 7-9, 8-9.\", \"max_tokens\": 160, \"temperature\": 0.3 }\""
-    # graph_file = "input/SMILES/hiv.smiles"
-
-    # graphs = pickle.load(open(graph_file, "rb"))
         
     if config.use_role_prompting:
         instructer = "You are a brilliant network analyzer and knows every thing about academic collaboration network. You know every thing from the degree and the structure of the network. The following is an undirected graph with the format of " + config.format + " \n"
