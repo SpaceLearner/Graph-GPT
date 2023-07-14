@@ -13,20 +13,6 @@ from langchain.prompts import PromptTemplate
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# os.environ["OPENAI_API_TYPE"]    = "azure"
-# os.environ["OPENAI_API_VERSION"] = "2023-3-15-preview"
-# os.environ["OPENAI_API_BASE"]    = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com"
-# os.environ["OPENAI_API_KEY"]     = "516a05f6bed44ddeb2a6e8a047046ad5"
-
-def GPT(data):
-
-    url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers   = {"Content-Type": "application/json", "api-key": "516a05f6bed44ddeb2a6e8a047046ad5"}
-    response  = requests.post(url=url, headers=headers, data=json.dumps(data))
-    response  = json.loads(response.text)
-    
-    return response
-
 class OpenAIAzureLanguageModel(AbstractLanguageModel):
     def __init__(self, api_key=None, strategy="cot", evaluation_strategy="value", api_base="", api_model="", enable_ReAct_prompting=True):
         if api_key == "" or api_key == None:
