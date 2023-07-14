@@ -54,11 +54,6 @@ def main(config, seed=0):
     deployment_name="text-davinci-003",
     model_name="text-davinci-003",
     temperature=0.3)
-    
-    # command = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-chat-davinci-002/completions?api-version=2022-12-01 -H \"Content-Type: application/json\" -H \"api-key: 516a05f6bed44ddeb2a6e8a047046ad5\" -d \"{ \"prompt\": \"please construct an undirected graph G with the following edge list separated by , : 1-2, 2-3, 3-4, 4-2, 2-6, 5-6, 6-1, 6-7, 7-9, 8-9.\", \"max_tokens\": 160, \"temperature\": 0.3 }\""
-    # graph_file = "input/SMILES/hiv.smiles"
-
-    # graphs = pickle.load(open(graph_file, "rb"))
         
     if config.use_role_prompting:
         instructer = "You are a brilliant graph analyzer and knows every thing about graph. You know every thing about the structure of graphs and how to compute graph sturcture metrics. \n"
