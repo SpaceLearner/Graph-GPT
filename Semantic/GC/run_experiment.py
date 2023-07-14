@@ -29,19 +29,6 @@ from features import allowable_features
 
 import wandb
 
-@retry(wait=wait_random_exponential(min=5, max=56), stop=stop_after_attempt(10))
-def GPT(data):
-
-    url       = "https://augloop-cs-test-scus-shared-open-ai-0.openai.azure.com/openai/deployments/text-davinci-003/completions?api-version=2022-12-01"
-    headers   = {"Content-Type": "application/json", "api-key": "XXX"}
-    response  = requests.post(url=url, headers=headers, data=json.dumps(data))
-    response  = json.loads(response.text)
-    if "choices" not in response:
-        raise Exception("Response Exception. ")
-    answer    = response["choices"][0]["text"].strip()
-    
-    return answer
-
 def get_nodes_attributes(graph, features, feature_keys):
     
     node_x_list = []
